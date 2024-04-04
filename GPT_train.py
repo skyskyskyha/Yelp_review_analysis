@@ -58,7 +58,9 @@ def parseData(fn):
                     continue
         #finished 100-200
         #finished 200-300
-        for i in range(201, 300):
+        #finished 300-400
+        #finishing 400-500
+        for i in range(301, 400):
             with open("prompt.txt", "r") as prompt_file:
                 prompt = prompt_file.read()
                 line = lines[i]
