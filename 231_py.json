@@ -1,0 +1,1955 @@
+{
+    "search_metadata": {
+        "id": "65ef3110ef7dda0f11f3ceb0",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f3ac24a8377f2625/65ef3110ef7dda0f11f3ceb0.json",
+        "created_at": "2024-03-11 16:28:00 UTC",
+        "processed_at": "2024-03-11 16:28:00 UTC",
+        "yelp_reviews_url": "https://www.yelp.com/biz/h4d0f2VpgycY5oPBsJowyQ?",
+        "raw_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef3110ef7dda0f11f3ceb0.html",
+        "prettify_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef3110ef7dda0f11f3ceb0.prettify",
+        "total_time_taken": 2.33
+    },
+    "search_parameters": {
+        "engine": "yelp_reviews",
+        "start": 0,
+        "num": "50",
+        "place_id": "h4d0f2VpgycY5oPBsJowyQ"
+    },
+    "search_information": {
+        "total_results": 200,
+        "business": "Brown Bag Seafood"
+    },
+    "review_languages": [
+        {
+            "hl": "en",
+            "count": 200
+        }
+    ],
+    "reviews": [
+        {
+            "user": {
+                "name": "Josie S.",
+                "user_id": "60sDvcpVbMq8xfNurTGz8A",
+                "link": "https://www.yelp.com/user_details?userid=60sDvcpVbMq8xfNurTGz8A",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "SOOO GOOD!! Tasty, quick and friendly staff. Plus the vegetarian options lowkey slap like John Cena. Best ranch I've had at a casual spot too. Get some spicy cauliflower tacos for sure or a salmon greens and grains if you want a suggestion.\nWill be back!",
+                "language": "en"
+            },
+            "date": "2024-02-20T17:23:11Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Can't wait to see you again Josie!",
+                    "date": "2024-02-20T17:31:08Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Anthony A.",
+                "user_id": "D-nao5jWViSnsLMmQYKuyw",
+                "link": "https://www.yelp.com/user_details?userid=D-nao5jWViSnsLMmQYKuyw",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 1,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "This place is Absolutely Amazing! I recommend the grilled chicken with brown rice and quinoa. Everything was Delicious!!",
+                "language": "en"
+            },
+            "date": "2024-02-08T16:38:39Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qtHhqS6Vqx0mKd1QmjP61Q/o.jpg",
+                    "caption": "Amazing!"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "This makes us so happy to read, thank you Anthony!",
+                    "date": "2024-02-10T17:36:58Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Darrin-Ann L.",
+                "user_id": "LUTs6G38J494LY4Q_kZs1w",
+                "link": "https://www.yelp.com/user_details?userid=LUTs6G38J494LY4Q_kZs1w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AHXccCCLRGx7peLTBd8rOQ/180s.jpg",
+                "address": "Alpharetta, GA",
+                "friends": 6,
+                "photos": 11,
+                "reviews": 62,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Salmon salad is delicious!  Clam chowder is delicious ! Customer service is great!  Clean and cute decor. \n\nMake sure when you enter you grab the menu from the window sill and fill it out before you approach the cashier. \n\nI enjoyed the meal and will definitely return!",
+                "language": "en"
+            },
+            "date": "2023-11-05T16:42:30Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Thanks so much Darrin!",
+                    "date": "2023-11-06T14:21:37Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Susan W.",
+                "user_id": "XVvB271sFKLUyVX1dQ-c9w",
+                "link": "https://www.yelp.com/user_details?userid=XVvB271sFKLUyVX1dQ-c9w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QUPUBjWye5xOW_Q2xO_vOg/180s.jpg",
+                "address": "San Jose, CA",
+                "friends": 8,
+                "photos": 24,
+                "reviews": 42
+            },
+            "comment": {
+                "text": "Service was amazing! Jazz helped us out she had true Southern hospitality that we have yet to find in other restaurants here. She was so sweet and gave my daughter a free cookie! Even while we were ordering she made sure we did not over pay by telling us the lobster roll came with Parmesan truffle tots. 5 stars for Jazz\n\nLobster roll was fresh and delicious. One of the better ones I have had. Plus comes with Parmesan Truffle tots. Delicious!\n\nGot the Panko Cod Tacos! Fish was very fresh and crisped to perfection. Large portions of fish.",
+                "language": "en"
+            },
+            "date": "2024-02-23T20:36:47Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ax32YBRW3x6kbF3rgn332Q/o.jpg",
+                    "caption": "Panko Cod Toco"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WuFaIom2JDwt76LfnMdt0w/o.jpg",
+                    "caption": "Lobster Roll comes with Truffle Parmesan Tots"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Love to hear it, thanks for sharing!",
+                    "date": "2024-02-25T01:35:02Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Helena M.",
+                "user_id": "GgwNOsdxR0E9s5R8DzHZSQ",
+                "link": "https://www.yelp.com/user_details?userid=GgwNOsdxR0E9s5R8DzHZSQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/l6m5Uw9PH8RRvQ3IMh2dRA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 29,
+                "photos": 378,
+                "reviews": 139,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "so this place has potential, just did not make the mark. I thought this was going to be like a seafood centered Cava or Chipotle because you can build your own bowl, tacos, salad, etc. \n\nThe food here was just not good at all. The crispy cod tasted decent but lacked seasoning and everything else completely lacked seasoning as well so it was just bland all around. \n\nThe staff was super friendly and the ambiance was really nice but everything else was very subpar! My entire meal was about $21 and it was $21 I wish I had back.\n\nParking is also plentiful but expensive but that's what happens when you're in colony square. For the two hours I was there it was $27. I recommend ride share or valet if it's better",
+                "language": "en"
+            },
+            "date": "2024-02-08T17:54:12Z",
+            "rating": 2,
+            "tags": [
+                "2 photos",
+                "1 check-in"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4iv0By8S6ACm4FqLArkTDA/o.jpg",
+                    "caption": "Crispy Cod Buffalo-Bleu Tots"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_xAAgSPzQJBxlO7u_YN-KA/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Chris T.",
+                "user_id": "k8izDTyqLqiBJKLAV76Icw",
+                "link": "https://www.yelp.com/user_details?userid=k8izDTyqLqiBJKLAV76Icw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/IxoVHp2dljbUa_5oTi_eog/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 1,
+                "photos": 1,
+                "reviews": 62
+            },
+            "comment": {
+                "text": "Good fresh food. It's reasonably priced, especially for well-prepared fresh seafood. \n\nBut they don't validate parking. So your meal gets a huge surcharge if you park there. So I'll eat there if I'm going for something else but not a special trip",
+                "language": "en"
+            },
+            "date": "2024-01-08T19:29:12Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Thanks for the review Chris, delivery and pick up are always available and the food hall does validate if you're circling around the property.  We appreciate your visit!",
+                    "date": "2024-01-09T15:56:58Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Tierney J.",
+                "user_id": "zJfFkP8g2mLq1c6_jROSeQ",
+                "link": "https://www.yelp.com/user_details?userid=zJfFkP8g2mLq1c6_jROSeQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WxQGgzsAwj5c9EOqHH1Cxw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 31,
+                "photos": 129,
+                "reviews": 59,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "This is a cute little spot at colony square midtown with outdoor seating. The staff was very nice and gave suggestions which I appreciated. \n\nMy toddler got the fried fish kids meal, the fish was cooked to perfection. I got the curry fish cakes. Perfect size and delicious! \n\nI would recommend this place and can't wait to go back to try more!",
+                "language": "en"
+            },
+            "date": "2023-10-27T14:03:44Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CJcdiZvO4dX7kACzX1wkEg/o.jpg",
+                    "caption": "Curry Fish Cakes"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "So glad to hear it, thank you!",
+                    "date": "2023-10-28T01:43:25Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Ebony M.",
+                "user_id": "FDMJvK7COk3IwN_YglpkGg",
+                "link": "https://www.yelp.com/user_details?userid=FDMJvK7COk3IwN_YglpkGg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KYcu3gcS0eybmEkJGlqQSA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 254,
+                "photos": 233,
+                "reviews": 121,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "As promised, returned to Brown Bag Seafood this week after having an AMAZING experience at the Peachtree Corners location. I found myself at the Midtown location tonight as it is closer to my home. I arrived around 7 pm on a rainy Sunday night (parked in the lower level parking deck and had to wander around a bit in the upstairs Colony Square area to find the entrance). Upon entering, no greeting tonight but in all fairness, the gentleman associate nearest the door was on the phone. I noticed grouper was the catch of the day so I inquired with a different associate (African American woman with green dreads) whether or not the grouper had bones (I HATE bones). She assured me the grouper was sans bones, so I went with grouper (very well done) as my entree. Food came out shortly thereafter and everything looked great. Unfortunately, everything did not taste great. My rice/quinoa was lukewarm, at best. I did notice when I was placing my order that the lid to the rice pot was open so I believe this is why the rice was not warm. Similarly, the chowdah was lukewarm (also noticeably missing the oyster crackers that I was served recently). Luckily, I had amazingly delicious (right warmth) grouper and veggies. The young man who was on the phone upon my entrance (African American male with glasses) walked by after dropping off food to another group of customers. I did pull him to the side and shared as an FYI that the rice and chowdah was lukewarm. With great empathy, he took the feedback well; he apologized and of course, offered to replace it as he noticed I was not eating it either of them. I politely declined and instead asked for to-go containers as I am going to happily warm them up tomorrow for lunch (Huge thank you to the young man for attempting to make it right). I did notice upon his return to the counter area, he quickly shut the lid to the rice pot. He later came by and gave me a free cookie. How kind of him (PS - Due to his redemption efforts, I am rating this review a 4 vs 3). So, albeit not the same experience as earlier this week at a different location, I am still a FAN. See you again real soon, Brown Bag Seafood.\n\nQuick Update (not to my overall rating) - Parking was $15 for 1 hour and 12 min. Pretty steep but hey, we're in Atlanta. Just keep that in mind for those coming to eat on a budget. I am going to ask next time if Brown Bag Seafood offers parking validation (fingers crossed as that would be nice seeing that Politan Row offers it when you dine in their Food Hall). If not, I will try to locate street parking.",
+                "language": "en"
+            },
+            "date": "2023-12-11T01:11:10Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TqIQiVU_JkPo3kZMgPfPJA/o.jpg",
+                    "caption": "Grouper, Blend of veggies and rice/quinoa, and chowdah"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 1,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Ebony, thanks for your gracious understanding and we appreciate you!",
+                    "date": "2023-12-11T23:09:31Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Chauncey M.",
+                "user_id": "PU6cWqxen48OOkRsmKF_NA",
+                "link": "https://www.yelp.com/user_details?userid=PU6cWqxen48OOkRsmKF_NA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RnjcNXTZ9FqxGPQDFamwGg/180s.jpg",
+                "address": "Sandy Springs, GA",
+                "friends": 2,
+                "photos": 19,
+                "reviews": 11
+            },
+            "comment": {
+                "text": "So, my cousin and his wife came into town and wanted to grab some lunch in the Midtown area of Atlanta, so I chose to take them to this place. When I tell you we were all pleasantly pleased with the excellent service we had. The atmosphere was amazing, as they had a nice playlist of music playing and even the assistant manager came by to chat with us to make sure we had everything we needed. As for the food, everything we had was fantastic. The lobster roll was overflowing with lobster meat and it was sooo good, which was my 2nd favorite thing to eat. The shrimp and grits were among the best I've ever had but unfortunately, this dish has been discontinued. The fish was cooked perfectly on the sandwhich, the tacos were good, and green garlic shrimp were seasoned very well. They have a few locations around town so if you ever want to grab a nice lunch real quick, I highly recommend checking them out.",
+                "language": "en"
+            },
+            "date": "2024-03-03T03:52:31Z",
+            "rating": 5,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WYFlzN5VIuamgQbZR2AZtg/o.jpg",
+                    "caption": "Shrimp and Grits"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FFbKofnALiGQMggI2TNwMw/o.jpg",
+                    "caption": "Lobster Roll \u00b7 $34\r Served warm in a toasted bun, with truffle-parm tots"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8rKBmsZGAaoLEf8Such5gA/o.jpg",
+                    "caption": "Fish Tacos\r Two flour tortillas, slaw,\r herb sauce, pickled red onions, jalape\u00f1o, cilantro"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KL6hNl_t-xhxqc-_s55GmQ/o.jpg",
+                    "caption": "Green Garlic Shrimp \u00b7 $8.50 Tail-on and grilled"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_aCsW6q7AA4p8pzvodwtAg/o.jpg",
+                    "caption": "Fish & Chips \u00b7 16.75\r Beer battered, served with fries, slaw, tartar sauce and malt vinegar"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "What an awesome review, thanks so much for sharing!",
+                    "date": "2024-03-04T15:11:41Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Luke F.",
+                "user_id": "KbyJnNHlHZBM6CLl_p8D_Q",
+                "link": "https://www.yelp.com/user_details?userid=KbyJnNHlHZBM6CLl_p8D_Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BRtQDDFdjIM5KyajGUXuaw/180s.jpg",
+                "address": "Boston, MA",
+                "friends": 420,
+                "photos": 370,
+                "reviews": 219,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Brown Bag is a great concept. I've been to some of their Chicago locations, and was pleased to see they've expanded to Atlanta as well. This location is small but clean and comfortable, with friendly staff. \n\nThe St. Peter's fish I had was very good, but my salmon was a bit over cooked. Still, I'd definitely recommend Brown Bag Seafood for a quick and healthy meal!",
+                "language": "en"
+            },
+            "date": "2023-07-30T21:14:15Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CRjgxi43oDLfWyMi-AQsiQ/o.jpg",
+                    "caption": "Salmon"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DuRgALEsWY1sirXGh5VzcA/o.jpg",
+                    "caption": "Daily Catch"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Thank you so much Luke!",
+                    "date": "2023-07-31T16:20:54Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Shani H.",
+                "user_id": "ETW3oHVvm1WLHjmT1VXcrw",
+                "link": "https://www.yelp.com/user_details?userid=ETW3oHVvm1WLHjmT1VXcrw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/56M1fn766qf4mgSSrKW_XQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 721,
+                "photos": 1724,
+                "reviews": 998,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Stopped by for the happy hour specials. The sign was a bit misleading. It mentions wine, beer and cocktails. However, the cocktails aren't freshly made and are canned. The food smelled delicious so I would come back to try the food.",
+                "language": "en"
+            },
+            "date": "2023-10-17T05:04:19Z",
+            "rating": 3,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5vA36UbtfiX9XiVe8zbgRQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 5,
+                "funny": 0,
+                "cool": 2
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "We look forward to seeing you for both Shani!",
+                    "date": "2023-10-18T13:03:11Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Sid\u00e9won Andre N.",
+                "user_id": "K2b4A8AjzlZTOlUFaqZNSw",
+                "link": "https://www.yelp.com/user_details?userid=K2b4A8AjzlZTOlUFaqZNSw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uBSYcDKVUOu5ELOqnJdNHw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 157,
+                "photos": 1159,
+                "reviews": 309,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Brown Bag Seafood has been getting lots of attention on YouTube from Vloggers, which led me to try them out. I ordered a simple fish and chips with an additional side of Clam Chowder and a Ginger Lemonade. \n\nMy order came piping hot and fresh, and plated very nicely! A+ for presentation & A+ for taste. Thinking back, I'm curious if the Cod was Wild Caught?!?!.... Pricing is a tad elevated but is expected for seafood. My entire order was about $35 and overall healthier than If I would have eaten somewhere else. \n\nCustomer service at the Midtown location is very friendly and attentive. They also play great music when dining in. I highly recommend the ginger lemonade. So simple and refreshing! As for the Clam Chowder, that's a MUST. It was delicious and fresh and simply wholesome! I will be ordering this again and again! \n\nMain cons were the Buffalo/Blue tots with my Fish. They were barely covered in the sauce and this was an upcharge for that. Also, the coleslaw wasn't very tasty. Seemed like it needed a bit more sauce to boost the flavor up. \n\nOne thing to also point out, ordering is like the sub sandwich restaurant Which Wich. You grab a pen and a menu and select what you want by checking a box. You then hand it to the cashier, grab a number, and your food is brought to you. This restaurant is also located in Colony Square so be advised of parking cost unless you walk or use a scooter. Just an fyi.",
+                "language": "en"
+            },
+            "date": "2023-07-08T20:41:27Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dDwSTr8MjRKeyQUjN0AlzQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Sid\u00e9won, thank you so much for the review!  Our cod is wild caught and we appreciate the other notes we will attend to!",
+                    "date": "2023-07-09T12:32:43Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Janice J.",
+                "user_id": "uevpmu56kKQiLEa5JQqX0w",
+                "link": "https://www.yelp.com/user_details?userid=uevpmu56kKQiLEa5JQqX0w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cC3gwq4ONF3qOG7aYOyGiQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 302,
+                "photos": 1179,
+                "reviews": 474,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I got the fish of the day, half greens half grain bowl. This is a quick healthy option for lunch or dinner. There is a pretty large amount of protein. I also got a side of tater tots to balance out the health!",
+                "language": "en"
+            },
+            "date": "2023-10-25T22:20:08Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/h_Q4kaK7CE9TLp-5AiddQg/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "We really appreciate that, thanks Janice!",
+                    "date": "2023-10-26T14:14:03Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Melody E.",
+                "user_id": "o12w-LQASdBZ7dEm4e3vjg",
+                "link": "https://www.yelp.com/user_details?userid=o12w-LQASdBZ7dEm4e3vjg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CaoWqI4m9LZbxqX3R7BRDA/180s.jpg",
+                "address": "Columbus, OH",
+                "friends": 96,
+                "photos": 1,
+                "reviews": 4
+            },
+            "comment": {
+                "text": "The seared tuna salad was delicious! It was fresh and had the right amount of texture and crunch to it.",
+                "language": "en"
+            },
+            "date": "2024-02-23T00:11:21Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Ksenia F.",
+                "user_id": "4XhMzobkIda_y1DyQH54AQ",
+                "link": "https://www.yelp.com/user_details?userid=4XhMzobkIda_y1DyQH54AQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oNq6grgKI-ipMGs0ZUm7fA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 304,
+                "photos": 2842,
+                "reviews": 495,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "We stopped by here for a quick dinner. I like the concept in that you get to mix your own plate, but I didn't think food was amazing. It was very average tasting and something I could have easily mixed up myself at home.\n\nIt's a fast casual restaurant where you order at the counter, take your seat and they'll let you know when the food is ready. I ordered tuna greens and grains. It was OK. They do not have a liquor license here.\n\nThe bathrooms are shared with the rest of the restaurants.",
+                "language": "en"
+            },
+            "date": "2023-04-12T19:58:54Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Thanks Ksenia, appreciate the visit!  We do have beer and wine, but if you're looking for a full bar, we aren't equipped for that.",
+                    "date": "2023-04-12T20:00:37Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "DeAndre C.",
+                "user_id": "4-4mfj2wnZaT0-vl3EQhfQ",
+                "link": "https://www.yelp.com/user_details?userid=4-4mfj2wnZaT0-vl3EQhfQ",
+                "address": "Old Westport, Kansas City, MO",
+                "friends": 505,
+                "photos": 14,
+                "reviews": 9
+            },
+            "comment": {
+                "text": "Food is amazing...it's even better when you get the lunch special from 4pm -6pm. The service is really good they greet you as you walk through the door. And the music in the store is always soothing.",
+                "language": "en"
+            },
+            "date": "2024-02-22T22:27:47Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2XWuI0deYzH9N4UOfhT20g/o.jpg",
+                    "caption": "Salmon dinner plate - come with protein and 2 sides plus garlic bread"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Thanks for joining us DeAndre, glad you took advantage of Golden Hour!",
+                    "date": "2024-01-08T02:32:23Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Myles D.",
+                "user_id": "lTq3jUNFKItvdK7Yp0texg",
+                "link": "https://www.yelp.com/user_details?userid=lTq3jUNFKItvdK7Yp0texg",
+                "address": "North Hollywood, Los Angeles, CA",
+                "friends": 7,
+                "photos": 0,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "The service is really nice and welcoming. Jasmine is super nice and had great recommendations! \n\nFood was great as well!",
+                "language": "en"
+            },
+            "date": "2024-02-22T18:49:19Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Amanda W.",
+                "user_id": "arEHcPS1xz-1hHcNAqKWdw",
+                "link": "https://www.yelp.com/user_details?userid=arEHcPS1xz-1hHcNAqKWdw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cjcWRuV7c-Z8befov1SHJw/180s.jpg",
+                "address": "Douglasville, GA",
+                "friends": 11,
+                "photos": 169,
+                "reviews": 60,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "This place is a true gem. The seafood is well seasoned and delicious. I recommend the grilled shrimp and/or salmon with the greens + grains and the fish and chips. Any time I am in Colony Square it's a must we stop by. The \"gingerade\" is also a favorite, even better mixed with tea. They have indoor and outdoor seating; perfect for any day. I can't wait to return! The staff also makes the experience great, very patient and kind. Highly recommend trying!",
+                "language": "en"
+            },
+            "date": "2023-09-12T04:17:19Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/deDTyGtCk3KHtg6413uWfg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1wBQxhUfsqe7vEYcGZbikQ/o.jpg",
+                    "caption": "Fish & Chips"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/V7IRHJJIxBAX_9CgbzWKaA/o.jpg",
+                    "caption": "Mega-Protein Powerbox"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Great choices Amanda, the Mega Protein Powerbox is a sleeper!",
+                    "date": "2023-09-12T06:59:47Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Megha D.",
+                "user_id": "UYsjL_qG3cxPFRM-7nufjg",
+                "link": "https://www.yelp.com/user_details?userid=UYsjL_qG3cxPFRM-7nufjg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MQhkIA00YRz3kj9enOmjHw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 38,
+                "photos": 503,
+                "reviews": 243,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "We stopped by Brown Bag Seafood for quick dinner on a Friday night. I walked over with friends so not sure the parking situation, but colony square has a deck I believe. \n\nWalking in, it's fast casual and pretty small. I wish this location had more seating because we ended up taking ours to go and sat in Politan Row nearby. We wrote down our orders on the whiteboards given but then when we went to the counter we said our orders anyway so not sure what the point was. \n\nI got a bowl with Grilled shrimp and greens and grains. I also got the supergreen garlic and lime sauce. My friend got a lobster roll. The bowl was actually pretty good and I really liked the sauce! However, we really did not enjoy the lobster roll. It felt torn between trying to be a Maine style (more mayo) and Connecticut (more butter), and was way too much bread. The parmesan tots it came with were also strange - the shredded parmesan didn't really stick to the tots, they were just kind of there as topping. I also understand that prices are up temporarily but it really did not feel it worth the price. \n\nOverall, I liked the bowl and how fresh it was and its a quick option in the Colony Square area.",
+                "language": "en"
+            },
+            "date": "2023-02-28T02:52:38Z",
+            "rating": 3,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TR91AEvAxXBFkvfRYl0O5w/o.jpg",
+                    "caption": "Grilled Shrimp"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Thanks for your feedback Megha :)",
+                    "date": "2023-02-28T12:01:52Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Anna J.",
+                "user_id": "mRubz6q_qETHj_yM_iD1oQ",
+                "link": "https://www.yelp.com/user_details?userid=mRubz6q_qETHj_yM_iD1oQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0Zy84NXxwnqx7zAZuX9W4g/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 50,
+                "photos": 558,
+                "reviews": 259,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "A friend and I decided to pay a visit to this place after I won a giveaway for a lobster roll on Instagram! It's right by my office and I had never tried it so we decided to give it a go! We came a Friday evening around 7pm and of course got the lobster roll and then a bowl with shrimp! We split them and decided to get some boss sauce and ranch along with the entrees to try them!\n\nThe wait for food was short which awesome but it's a small restaurant so we took it next door to Politan Row to eat. The sauces were truly the highlight of the show! The boss sauce and ranch were phenomenal!! The entrees, not so much. The lobster roll, while I didn't pay it was supposed to be $30 dollars ish which was a lot. It was fighting between a Maine and Connecticut.  The bread was warm but overwhelming to the lobster which had a good mayo mix but overall it was just -meh-  Not to mention the tots were mid and tasted like freezer tots with random Parm shavings on them.. not really park tots\n\nThe bowl on the other hand was also mid. The sauce was good and the shrimp was good but the tails were still on? And it was still like $16... in my opinion it was a little overpriced for the food and it was just meh.",
+                "language": "en"
+            },
+            "date": "2023-02-23T05:17:33Z",
+            "rating": 3,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Z5jYyGPJi64zqvzGsllryA/o.jpg",
+                    "caption": "Shrimp bowl"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AnB_Mdk350zwY6rkUL66fQ/o.jpg",
+                    "caption": "Lobster Roll"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Thanks for your thoughts and glad you won it in an insta giveaway!",
+                    "date": "2023-02-24T17:36:17Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Lisa H.",
+                "user_id": "L2LrTWeCXRk0S_TDDWyjdg",
+                "link": "https://www.yelp.com/user_details?userid=L2LrTWeCXRk0S_TDDWyjdg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/C5iHGrh-5oUKDaRup7-PzA/180s.jpg",
+                "address": "Livingston, TX",
+                "friends": 31,
+                "photos": 2,
+                "reviews": 4
+            },
+            "comment": {
+                "text": "Brown bag seafood is bright and fresh, the people are comfortable to talk to and welcoming, and the food is cooked perfect with wonderful flavor. It's a very distinct and pleasant experience.",
+                "language": "en"
+            },
+            "date": "2023-12-14T23:02:53Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/v_IxAm5aImxQ7o9MgJ4dSw/o.jpg",
+                    "caption": "Shrimp choose your own bowl"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/328c4d2JZwtvO_mULzhEWA/o.jpg",
+                    "caption": "Shrimp bowl"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Great choice Lisa!",
+                    "date": "2023-12-15T18:30:06Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Laura T.",
+                "user_id": "-V8IF-YekqTCfGCS-UOijw",
+                "link": "https://www.yelp.com/user_details?userid=-V8IF-YekqTCfGCS-UOijw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0p_wP9xFmA4v-IQRM4eQ0A/180s.jpg",
+                "address": "Snellville, GA",
+                "friends": 1,
+                "photos": 67,
+                "reviews": 272
+            },
+            "comment": {
+                "text": "Not pleased that they (like a lot of other restaurants lately) have started to decrease their portions while raising their prices at the same time. Not cool. Their food still tastes very good, but when I'm paying $13 for a bowl of food, the bowl shouldn't be only halfway full.\n\nThe staff were nice & welcoming. Music wasn't blasting full volume like it usually is, which was also nice.\n\nI only visit them when I have a coupon which lessens the irritation of the smaller portions. They need to do better though.",
+                "language": "en"
+            },
+            "date": "2023-11-20T16:43:09Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Laura, apologies if you received a plate that was smaller than previously.  We have not changed any of our specs or recipes, so this is not a reflection of adjustments to our standards.",
+                    "date": "2023-11-20T17:22:15Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Natalie A.",
+                "user_id": "2AqekisW3i1VBhfAPu2T1A",
+                "link": "https://www.yelp.com/user_details?userid=2AqekisW3i1VBhfAPu2T1A",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-2szqa7ucM87JEGEvjYc0A/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 74,
+                "photos": 193,
+                "reviews": 118,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Always a great spot when I'm looking for a healthy fish option in midtown! Brown Bag Seafood Co has an excellent concept of making your own entree for a fast casual dining experience. The fish of the week is always a good choice, but don't count out an order of fried shrimp tacos, a salmon power bowl, cod cakes, or any other combo you can think of.\n\nThe sauce bar is awesome for trying out new flavors and mixing and matching. \n\nDo not forget to pick up a warm chocolate chip cookie to finish off your meal! It's seriously the best pick-me-up and satisfies my sweet tooth any time! Sometimes I come just for a cookie (shhh!)",
+                "language": "en"
+            },
+            "date": "2023-03-28T15:04:02Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Thank you for the great review! We're thrilled to hear that you enjoy our healthy fish options and create-your-own builds. We appreciate your support and can't wait to serve you again!",
+                    "date": "2023-03-28T23:48:33Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Chris J.",
+                "user_id": "Nd-cYSclmkwq2yxJvPxvIg",
+                "link": "https://www.yelp.com/user_details?userid=Nd-cYSclmkwq2yxJvPxvIg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/r5RDiBgUrIkmpttYunjK7Q/180s.jpg",
+                "address": "Memphis, TN",
+                "friends": 184,
+                "photos": 201,
+                "reviews": 223,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Short and sweet review!  I enjoyed this place!  I highly recommend the salmon salad.  The truffle tater tots also tasted awesome!",
+                "language": "en"
+            },
+            "date": "2023-10-08T23:00:41Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Awesome to hear, thanks for sharing Chris!",
+                    "date": "2023-10-09T15:21:20Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Jaron B.",
+                "user_id": "sGceFtHNn8wiwsfTBncneQ",
+                "link": "https://www.yelp.com/user_details?userid=sGceFtHNn8wiwsfTBncneQ",
+                "address": "Nashville-Davidson metropolitan government (balance), TN",
+                "friends": 0,
+                "photos": 1,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "Food was decent some flavors were left to be desired. Overall cool spot for a quick bite",
+                "language": "en"
+            },
+            "date": "2024-02-21T20:04:46Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Mahauganee S.",
+                "user_id": "OsFFu_Brkf1Wn1RRuBECrQ",
+                "link": "https://www.yelp.com/user_details?userid=OsFFu_Brkf1Wn1RRuBECrQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TusRXAlvDr9DyvU3SdjJ0g/180s.jpg",
+                "address": "Stockbridge, GA",
+                "friends": 42,
+                "photos": 576,
+                "reviews": 162,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Stopped in on a Sunday afternoon as a family of 4. We hit a sweet spot where we were to only people needing to order or be served for about a 20 minute period so the two guys working were uber-focused on helping us decipher the menu, understand the options, and make choices we'd be happy with. They gave us samples of the rice mix (my name for it) and the clam chowder (they call it chiefs).\n\nHonestly, there were more enticing options than we had capacity to eat. So we ordered two large entrees plus a kids meal (pics attached) and fed the 1yo from portions of the different meals.\n\nThe food was all prepared and plated very well, but the seafood needed some seasoning. We were able to fix that using their sauces. The sauces are so good that I'd be willing to buy bottles of it to use at home if they sold it. I'd also pay good money to buy their gingerade; make sure you drink that when you go!\n\nHere's what we ordered to eat:\n\n--I ate a Mega-Protein Powerbox. This is a hidden menu item (again, shout out to the staff ). The bottom layer is their signature rice mix, which is a mixture of rice, quinoa, and wheat berry topped with a lemon vinaigrette sauce. The rice is topped with spinach and then a salmon fillet and grilled shrimp., Given a choice of three sauces, I ordered the sesame-soy siracha...and let me tell you: right choice! I don't love spice but I was willing to withstand the spiciness of this sauce because the flavor was so good on my food. \n\n--hubby had the dinner plate with daily catch (currently St. Peter's Fish). Ordered with the spicy cauliflower and chowda as the 2 sides. It's also served with garlic bread and \"salad\" (honestly, it was just half a handful of wilted greens underneath his other food). Whatever the green sauce was that came with this, he couldn't stop talking about how good it was\n\n--my toddler chose the kids chicken strip meal and then ate almost nothing ...but my 1yo happily ate off her tater tots and my rice mix situation.\n\n--a side of the Louisiana tang slaw. It was just okay. I wouldn't order it again.\n\nAll in all, this was a solid experience. It's located in Colony Square, so there are lots of little spaces to socialize, sit, or have a little camera phone -photoshoot\n\nWould absolutely eat here again when in the area.  And I can't say it enough: the customer service was amazing!!",
+                "language": "en"
+            },
+            "date": "2022-10-16T21:33:59Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nbWmrd8ybXdznQfrpPpLwQ/o.jpg",
+                    "caption": "Mega-Protein Powerbox (rice mix, spinach, salmon, and shrimp)"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rztSCbqdY5P1E-EZUL8QbQ/o.jpg",
+                    "caption": "Kids Crispy Chicken Strips (served with Kids Tots)"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gWu155EanirJm-XelU8muA/o.jpg",
+                    "caption": "Daily Catch Veggie - Spicy Cauliflower Louisiana Tang Slaw Regular Chowdah"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Mahauganee, what an awesome detailed review!  Thanks for your feedback and recommendations and we look forward to seeing you again soon!",
+                    "date": "2022-10-17T13:48:03Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Drew W.",
+                "user_id": "9EB_V4dg_C6sNzTnyiuUUw",
+                "link": "https://www.yelp.com/user_details?userid=9EB_V4dg_C6sNzTnyiuUUw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/mSUwF0nunx3-ke5oxROuJg/180s.jpg",
+                "address": "GA, GA",
+                "friends": 5,
+                "photos": 326,
+                "reviews": 49,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I work in the area, and I'm kicking myself for not trying this place sooner. The service is friendly and efficient, the price for my salmon with grains and greens was more than reasonable, and the food was really tasty. That's a helluva combo for the area. I've been looking for a lighter alternative to meat in the area, and this will more than do the trick.",
+                "language": "en"
+            },
+            "date": "2023-03-21T19:29:08Z",
+            "rating": 5,
+            "tags": [
+                "3 photos",
+                "3 check-ins"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FQJs7UeRHZDifikPe1eN1w/o.jpg",
+                    "caption": "Grilled Salmon with greens and grains. Ginger lime sauce."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/962MKRT9XB_Tc1pBuse9pA/o.jpg",
+                    "caption": "Greens and Grains with salmon."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/92aQCwwnsu7ThwTqVJcAfw/o.jpg",
+                    "caption": "Salmon grains and greens bowl with Supergreen Garlic & Herb sauce"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Hey Drew, you won't be kicking yourself any longer, great choices!",
+                    "date": "2023-03-21T20:57:35Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Graham R.",
+                "user_id": "BVyQYfa4FFYW-cUHoSTksQ",
+                "link": "https://www.yelp.com/user_details?userid=BVyQYfa4FFYW-cUHoSTksQ",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "Never cater from this place. The caterer came to our loading dock and told us the elevator was broken, which was completely untrue. We took said elevator down to meet them, and they were nowhere to be found. We tried reaching out to them multiple times, but they never answered our calls. We had to leave our work stations to go find food elsewhere for a meeting, and never got the food we were promised. After over an hour, they called us back and got angry and started yelling at us on the phone, saying they were there the entire time even though we searched for them in every car. Their description of the loading dock was accurate, so I believe they arrived, didn't want to take the elevator, and left with the food. No idea if the food is any good, but never, ever cater from this company.",
+                "language": "en"
+            },
+            "date": "2024-02-21T17:45:55Z",
+            "rating": 1,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Brittney M.",
+                "user_id": "mbaJoz6sslkUb4cWd-PWcQ",
+                "link": "https://www.yelp.com/user_details?userid=mbaJoz6sslkUb4cWd-PWcQ",
+                "address": "AL, AL",
+                "friends": 0,
+                "photos": 2,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "The vibe was awesome!! I just a delivery driver but being in there I felt like so good just waiting! Loved it! The crew meme we Jessica was fabulous!",
+                "language": "en"
+            },
+            "date": "2024-02-15T23:00:50Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Super nice of you to share, thanks Brittney!",
+                    "date": "2024-02-16T13:39:10Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Vincent W.",
+                "user_id": "EHbLYy5r9GiwVfn9mNVYGw",
+                "link": "https://www.yelp.com/user_details?userid=EHbLYy5r9GiwVfn9mNVYGw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FYYl4QNC5FyuyRVwsWwDdA/180s.jpg",
+                "address": "New York, NY",
+                "friends": 4,
+                "photos": 81,
+                "reviews": 75,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Great service, easy ordering process by checking menu of items requested, and tasty food. I had the salmon with the power box and ginger sauce.",
+                "language": "en"
+            },
+            "date": "2023-01-16T22:47:53Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/833wSjjoBz3tEng0gH1FLA/o.jpg",
+                    "caption": "Salmon with Mega-Protein Powerbox"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "That is a classic, thanks Vincent!!!",
+                    "date": "2023-01-17T12:09:00Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Tanya J.",
+                "user_id": "fY01Mj1nqY5u_2Ciqoi9Jw",
+                "link": "https://www.yelp.com/user_details?userid=fY01Mj1nqY5u_2Ciqoi9Jw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/akJ9NLZ6VUU8RfOO-cy3ZQ/180s.jpg",
+                "address": "Birmingham, AL",
+                "friends": 1,
+                "photos": 4,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "Love, Love, Love Brown Bag Seafood! I've never been disappointed. Today I chose the grilled shrimp over a power veggie box. The shrimp was tasty and the veggies were saut\u00e9ed perfectly. The gingerade is light and refreshing",
+                "language": "en"
+            },
+            "date": "2023-09-26T15:46:59Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DVc5okdEVIU2ynQSwQg5yA/o.jpg",
+                    "caption": "Grilled Shrimp and Veggies"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "That makes us so happy Tanya, thanks for joining us!",
+                    "date": "2023-09-26T16:04:30Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Jake C.",
+                "user_id": "7zi2d_IAxCyHccZYTc4oOA",
+                "link": "https://www.yelp.com/user_details?userid=7zi2d_IAxCyHccZYTc4oOA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DY8lEQ3ubNeQWQHr_GvcfA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 677,
+                "photos": 1,
+                "reviews": 4
+            },
+            "comment": {
+                "text": "Lazy and careless. Ordered a large daily catch, which should contain two large pieces of fish, and I got overcooked fish, the size of lemon wedges. The guy in front of me - his order was wrong, and I was too busy with work to check my order. Won't happen again. This place used to be great.",
+                "language": "en"
+            },
+            "date": "2023-08-12T01:27:01Z",
+            "rating": 1,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qYeGO9-b2nxAuaqXhOQhsw/o.jpg",
+                    "caption": "Large Low-Carb Daily Catch Salad"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Jake, we're so sorry for the oversight.  Please reach out to us directly so we can get your contact info and make this up to you!  chatterbox@brownbagseafood.com.  Thank you and we're sorry!",
+                    "date": "2023-08-14T00:56:26Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Lydia H.",
+                "user_id": "z8V2oPYZLUTLXB0UUomVgA",
+                "link": "https://www.yelp.com/user_details?userid=z8V2oPYZLUTLXB0UUomVgA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_uj7o0Pd1Ajn_zOexK3qyQ/180s.jpg",
+                "address": "Greenville, SC",
+                "friends": 91,
+                "photos": 470,
+                "reviews": 120,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "This place knocked down a long lunch line quickly and efficiently with great customer service. I was pleased with the flavor and quality of the food for something fast and not near the coast. Would love to have a spot like this closer to my home. Outdoor seating makes eating nearby quick and convenient with a view of the people traffic.",
+                "language": "en"
+            },
+            "date": "2023-06-22T15:37:32Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Thanks so much Lydia, glad you enjoyed your experience!",
+                    "date": "2023-06-22T16:31:33Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Rey W.",
+                "user_id": "1KBn2ZREOe0ZzrJOiJKKaA",
+                "link": "https://www.yelp.com/user_details?userid=1KBn2ZREOe0ZzrJOiJKKaA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SzFm_tLLISVFgVtNbgieQw/180s.jpg",
+                "address": "White Plains, NY",
+                "friends": 2,
+                "photos": 0,
+                "reviews": 265
+            },
+            "comment": {
+                "text": "Went here for the first time being my first time in ATL and had a great time..the server and cook was very nice and professional I had crispy shrimp,rice,spinach,& had the coleslaw and it was GOOD..I shall return!",
+                "language": "en"
+            },
+            "date": "2023-12-09T00:02:31Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Thanks very much Rey, that means a lot to us!",
+                    "date": "2023-12-11T23:04:39Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Jessica L.",
+                "user_id": "F4hOCPTH_2fueP9kpyr8ZA",
+                "link": "https://www.yelp.com/user_details?userid=F4hOCPTH_2fueP9kpyr8ZA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/f8pLJdhxw__zXuE6MNzwWA/180s.jpg",
+                "address": "Chicago, IL",
+                "friends": 331,
+                "photos": 383,
+                "reviews": 176,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "This review is based on a takeout order. It's one of the freshest fish and chips I've had! The fish is clean tasting and not overly breaded or fried. It's pretty big and filling! The tartar sauce is soooooo good! However, I wasn't much of a fan of the other things it was served with. The coleslaw was very bitter and bland, the \"salad\" is just lettuce, and the fries were well seasoned but soggy (but that might be because it was take out). The clam chowder was decent with a good amount of potatoes and clam. It's a good feeling when you eat fried food and don't feel gross afterwards! I don't know about the other things, but definitely recommend the fish!",
+                "language": "en"
+            },
+            "date": "2022-10-23T18:01:47Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/85SsIBa7ABDWC_M3ArdVqg/o.jpg",
+                    "caption": "Fish and Fish & Chips"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cegSmGKcgpLOmdxRGuPGSg/o.jpg",
+                    "caption": "Clam chowder"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Jessica, thank you for sharing, looking forward to seeing you again!",
+                    "date": "2022-10-24T13:24:31Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Rick R.",
+                "user_id": "10ZLSVDelzAK0mnBSYNBxA",
+                "link": "https://www.yelp.com/user_details?userid=10ZLSVDelzAK0mnBSYNBxA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/exQkLPTrwyqH57sWiRM4fg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 4,
+                "reviews": 18
+            },
+            "comment": {
+                "text": "I've been once. But, I've ordered delivery many times. The space though small, is comfortable. The service is friendly and efficient and the food is really good. They do seafood and fish the right way!",
+                "language": "en"
+            },
+            "date": "2023-09-28T13:21:43Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Awesome to hear, thanks so much for your loyalty Rick, we appreciate you!",
+                    "date": "2023-09-28T17:39:53Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Ashley F.",
+                "user_id": "dgmua2zSt5oke0FdsI8dYQ",
+                "link": "https://www.yelp.com/user_details?userid=dgmua2zSt5oke0FdsI8dYQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JERiwFgfabvkSoH_72Kg0w/180s.jpg",
+                "address": "Brooklyn, NY",
+                "friends": 96,
+                "photos": 2,
+                "reviews": 44
+            },
+            "comment": {
+                "text": "I had a wonderful experience at Brown Bag in Colony Square. Not only were the employees helpful and quick, but the food was incredible. It's so refreshing to be able to get a keto-friendly option for lunch! I will definitely visit Brown Bag again soon!",
+                "language": "en"
+            },
+            "date": "2023-09-28T18:08:25Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Aimee L.",
+                "user_id": "Bhc3gJJ5Wrdpijf89cxvSA",
+                "link": "https://www.yelp.com/user_details?userid=Bhc3gJJ5Wrdpijf89cxvSA",
+                "address": "Fullerton, CA",
+                "friends": 0,
+                "photos": 17,
+                "reviews": 93
+            },
+            "comment": {
+                "text": "Ordered brown bag for the first time via Uber Eats. I was able to substitute the tots for the cauliflower since i was craving veggies and they were able to accommodate me. Cauliflower was nice and crunchy with a kick. The lobster roll was delicious with a spicy sauce and lemon. Expensive but worth it in my opinion.",
+                "language": "en"
+            },
+            "date": "2023-09-23T03:01:34Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cxbO06FdBFJ8YEeLe209eA/o.jpg",
+                    "caption": "Lobster Roll"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 3
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Thank you so much Aimee!",
+                    "date": "2023-09-24T22:53:57Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Holly L.",
+                "user_id": "dQbcset6QVen0nx_igANxg",
+                "link": "https://www.yelp.com/user_details?userid=dQbcset6QVen0nx_igANxg",
+                "address": "Alpharetta, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 8
+            },
+            "comment": {
+                "text": "The lobster roll did not disappoint!!  The tater tots and hush puppies were awfully good as well...",
+                "language": "en"
+            },
+            "date": "2024-01-07T02:53:17Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Ebony C.",
+                "user_id": "nSUwXdMhBrSMLGqTd53Z_w",
+                "link": "https://www.yelp.com/user_details?userid=nSUwXdMhBrSMLGqTd53Z_w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GqkENkZJUbV48Q9ndSUqDQ/180s.jpg",
+                "address": "Gulf Harbors Sea Forest, New Port Richey, FL",
+                "friends": 167,
+                "photos": 6,
+                "reviews": 4
+            },
+            "comment": {
+                "text": "Thanks to the Brown Bag! Brandon is so nice. He had great recommendations & had the best customer service!",
+                "language": "en"
+            },
+            "date": "2023-05-23T20:26:30Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/raOGvxKGmYFzsPo5tez5vA/o.jpg",
+                    "caption": "This salad was BOMB!"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RQXrsYg14Rpl3AshuFmGQg/o.jpg",
+                    "caption": "Brandon is the best! He was so kind to me and my friend! We had the Salmon Caesar Salad. He had great recommendations."
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Brandon is pretty great right?!  Thanks for joining us Ebony!",
+                    "date": "2023-05-23T23:08:31Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Dana R.",
+                "user_id": "QT9PZMyyxOYkaXZTwhPoLQ",
+                "link": "https://www.yelp.com/user_details?userid=QT9PZMyyxOYkaXZTwhPoLQ",
+                "address": "Tampa Bay, FL",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 4
+            },
+            "comment": {
+                "text": "Lobster roll was absolutely divine!!! \nAshley is so sweet and makes THE best iced tea!!!\nI'll definitely go back.",
+                "language": "en"
+            },
+            "date": "2023-10-30T16:29:42Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Thank you very much Dana!",
+                    "date": "2023-10-30T16:35:09Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Diana T.",
+                "user_id": "LchTJaJysKCLpLZsPu0Skw",
+                "link": "https://www.yelp.com/user_details?userid=LchTJaJysKCLpLZsPu0Skw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6SO3eh0hwD___ZYWcJQ9vw/180s.jpg",
+                "address": "Suwanee, GA",
+                "friends": 629,
+                "photos": 539,
+                "reviews": 619,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "A girlfriend and I decided to stop by after a yoga sess at Colony Square. \n\nWe ordered the crispy cod with salad and the lobster roll. Both items were fresh! Quick service and a fresh meal!",
+                "language": "en"
+            },
+            "date": "2022-08-08T18:56:04Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Thanks for the note Diana, glad you enjoyed it!",
+                    "date": "2022-08-08T19:04:31Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Alfie B.",
+                "user_id": "mymQszIbCFxauVKKFJJJmw",
+                "link": "https://www.yelp.com/user_details?userid=mymQszIbCFxauVKKFJJJmw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_yznnOZWtpS_uicNwvgClg/180s.jpg",
+                "address": "Columbia, SC",
+                "friends": 38,
+                "photos": 842,
+                "reviews": 255,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Disappointing.  I love seafood, and I had been looking forward to trying this place after seeing all the great reviews.  When you walk in there's a bunch of laminated menus and plenty of markers; so I assumed you simply check off what you want, hand your menu to the cashier, pay, they'll wipe it off and we'll both be on our way.  Awkwardly my brother and I ended up just telling them what our order was.  Whatever...not a big deal.\n\nHowever I attempted to order the fish and chips, sub parmesan truffle tots for regular tots.  Cashier told the cook, she seemed to acknowledge, yet I still got regular tots.  While waiting for our food we both got cokes from the fountain drink machine.  You can tell just from it's color that there was just not enough syrup mixed in, and the taste was WAY off.\n\nBrother ordered the mahi-mahi (\"catch of the day\") tacos with parmesan truffle tots.  ALL of the main ingredients were simply underseasoned and bland.  The breading of my fish was half soft/soggy and barely had any crisp/crunch.  At least the tots were cooked well.\n\nStaff was very friendly and service was overall fast.  However prices are way too high for such bland and mediocre food.  I can't overstate how disappointed I am in Brown Bag Seafood, and am reluctant to ever try again especially with so many great restaurants in the Atlanta area.",
+                "language": "en"
+            },
+            "date": "2021-11-15T10:08:18Z",
+            "rating": 1,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RIYyRCLT4WeytPYeJqvPwA/o.jpg",
+                    "caption": "Supposed to be Coke. Clearly not mixed right."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xHY28dT3_3wdnUaj8NQ68Q/o.jpg",
+                    "caption": "Fish and chips."
+                }
+            ],
+            "feedback": {
+                "useful": 5,
+                "funny": 1,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PyMWTfYQUfGAHA2c1HD-dg/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Alfie, thank you for your feedback, we take it seriously!",
+                    "date": "2021-11-15T14:39:50Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Alicia B.",
+                "user_id": "pX3vQFEqvOwmTaLpbgghKg",
+                "link": "https://www.yelp.com/user_details?userid=pX3vQFEqvOwmTaLpbgghKg",
+                "address": "GA, GA",
+                "friends": 0,
+                "photos": 1,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "Always fast service and friendly staff. Only issue is parking for to go orders but there's a parking deck close by.",
+                "language": "en"
+            },
+            "date": "2023-10-12T20:03:47Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZUGBHNKsVoPvPsieZ_3EmQ/o.jpg",
+                    "caption": "Salmon and Kale Caesar salad is my fave. I started eating before I took the picture lol"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Thank you Alicia, if you place your order in advance on the app or website you are more then welcome to park right outside with flashers and pop right in! :). Thanks for the review!",
+                    "date": "2023-10-12T21:58:48Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Jerel J.",
+                "user_id": "eg8hsqpWaJN-YwD0HkKuCw",
+                "link": "https://www.yelp.com/user_details?userid=eg8hsqpWaJN-YwD0HkKuCw",
+                "address": "Stone Mountain, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "Jay at the Howell mill location had excellent service as we were the first customers of the day...Very attentive to our needs..Thanks Jay!",
+                "language": "en"
+            },
+            "date": "2024-01-07T16:43:02Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Glad to hear it, thanks so much Jerel!",
+                    "date": "2024-01-08T02:37:39Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Aliria Z.",
+                "user_id": "59IxFJhhHvi520X1uVU6Yg",
+                "link": "https://www.yelp.com/user_details?userid=59IxFJhhHvi520X1uVU6Yg",
+                "address": "Powder Springs, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "It's is honestly the best fresh food place I've been too. I've never found a place that makes real homemade food. Or a place that knows how to cook salmon. \nTheir vegetables are amazing. It's truly a great experience you just have to be here to see what I mean.",
+                "language": "en"
+            },
+            "date": "2023-09-30T20:37:49Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Aliria, this means a lot to us, thank you for sharing!",
+                    "date": "2023-10-01T15:55:01Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Mikaela Z.",
+                "user_id": "K7A1KlExV64lzPCh6oVxzA",
+                "link": "https://www.yelp.com/user_details?userid=K7A1KlExV64lzPCh6oVxzA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/D5C35QV-_Oxh7mbgJW2fhg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 238,
+                "photos": 97,
+                "reviews": 380,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "So good. An affordable yum seafood option for the area.\n\nThe salmon was delicious. The veggies superb. The sauces are fantastic. \n\nThe only thing I'd definitely skip was the spicy cauliflower. Big miss. \n\nSoul and the rest of the guys working were amazing. very friendly and personable, big smiles on their faces and made it feel like going to a friend's house for dinner. \n\nI was definitely not charged for water as another reviewer mentioned. And there's a good bit of residential parking very close by. \n\nCheck it out!",
+                "language": "en"
+            },
+            "date": "2022-07-18T02:27:30Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Mikaela, thanks for joining us in our \"house\" for dinner, Soul and the team will be happy to get the message, see you soon and thank you for the review!",
+                    "date": "2022-07-18T12:23:42Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Michael N.",
+                "user_id": "nxIUMoJqrWlqTLciQZ04Dg",
+                "link": "https://www.yelp.com/user_details?userid=nxIUMoJqrWlqTLciQZ04Dg",
+                "address": "San Francisco, CA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "The food is excellent, great prices and the service was on point Donte did his Thing!!!!",
+                "language": "en"
+            },
+            "date": "2023-12-27T22:30:55Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Michael N.",
+                "user_id": "8hcrTtwq87FvIvJ7Rk57YA",
+                "link": "https://www.yelp.com/user_details?userid=8hcrTtwq87FvIvJ7Rk57YA",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "Great Food, Great service. We appreciate Dante. This restaurant also had great ambiance, we will definitely be coming back",
+                "language": "en"
+            },
+            "date": "2023-12-27T22:29:42Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Thank you so much Michael!!!",
+                    "date": "2024-01-01T16:03:36Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Kiara M.",
+                "user_id": "7iSRjRCdfSCqoVgoqYSYjg",
+                "link": "https://www.yelp.com/user_details?userid=7iSRjRCdfSCqoVgoqYSYjg",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 1,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "I eat here everyday and the blacken chicken tacos are a MUST and the customer service is outstanding thanks too KEN , JESS, and leelee you guys have a forever customer !!",
+                "language": "en"
+            },
+            "date": "2023-09-20T17:26:17Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4VZ9oSbhdlyL0vKZGQXCjA/o.jpg",
+                    "caption": "Nice quiet place to get some great food !"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Donna L.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gV5JbTIXpyTnHRzYlBIoqQ/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Kiara, thanks for your loyalty, great to hear!!!",
+                    "date": "2023-09-21T11:17:59Z"
+                }
+            ]
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=h4d0f2VpgycY5oPBsJowyQ&start=50"
+    }
+}

@@ -1,0 +1,1623 @@
+{
+  "search_metadata": {
+    "id": "65ef2db2f8f5f7b99b286195",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f3ac24a8377f2625/65ef2db2f8f5f7b99b286195.json",
+    "created_at": "2024-03-11 16:13:38 UTC",
+    "processed_at": "2024-03-11 16:13:38 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/CkWEtj4Y8sG-U9x2eoejvw?",
+    "raw_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef2db2f8f5f7b99b286195.html",
+    "prettify_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef2db2f8f5f7b99b286195.prettify",
+    "total_time_taken": 3.75
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 0,
+    "num": "50",
+    "place_id": "CkWEtj4Y8sG-U9x2eoejvw"
+  },
+  "search_information": {
+    "total_results": 341,
+    "business": "Blue Moon Pizza"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 341
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Angela W.",
+        "user_id": "zIx1W3pgxPV4FYE53qmjCA",
+        "link": "https://www.yelp.com/user_details?userid=zIx1W3pgxPV4FYE53qmjCA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/13y013dLEcuJ06qEUctang/180s.jpg",
+        "address": "Financial District, Manhattan, NY",
+        "friends": 7,
+        "photos": 0,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "The pizza is awesome! Parking is not good, which is sad because the place inside is very cozy! I would order to go, or walk there if you can or Uber for sure. The food is worth it!",
+        "language": "en"
+      },
+      "date": "2023-09-30T17:54:20Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Moe A.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/GRnIqOQDmhwy6qv5jsl70A/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks Angela for the praises! I know parking can be little hard to find and isn't always available but thank you for checking us out and trying out pizza!",
+          "date": "2024-01-27T20:22:22Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "K K.",
+        "user_id": "WSI6rebdoQWuvenHKzNOTg",
+        "link": "https://www.yelp.com/user_details?userid=WSI6rebdoQWuvenHKzNOTg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LjfZogz6iHzQK-o62sjFcA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 17,
+        "photos": 0,
+        "reviews": 32,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Good pizza. Good menu. \n\nExcellent service. \n\nThe ambiance... i won't review it because I can't remember it.",
+        "language": "en"
+      },
+      "date": "2024-01-26T22:51:46Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Moe A.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/GRnIqOQDmhwy6qv5jsl70A/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much for your feedback, we are looking forward to seeing you soon.",
+          "date": "2024-01-27T20:10:13Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Sam U.",
+        "user_id": "6QIDW5vFPvucHLHL8rwfwg",
+        "link": "https://www.yelp.com/user_details?userid=6QIDW5vFPvucHLHL8rwfwg",
+        "address": "Lake Mary, FL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Just ordered my simple pizza pie and wings for $51 and it was delivered cold.  Called the restaurant and they denied I even ordered anything from them.  Kept saying I must've ordered from a different Blue Moon.  I read them my order number, gave them my last name, my first name, my hotel, my room number.  i told them I ordered thru Yelp and he said if I order through third party, its not guaranteed hot...wtf.  Blue Moon told me to contact Yelp for a full refund.  Yelp = the company that just connects customers and restaurants together, yeah...okay.  Terrible food, terrible service and terrible motto of \"only order direct if you want hot food\"\n\nFollow up:  we used the hotel microwave to warm it up and everything taste bland.  Hot wings are bland.  Pizza was burnt on the edge and mediocre at best.",
+        "language": "en"
+      },
+      "date": "2024-02-18T02:09:29Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Moe A.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/GRnIqOQDmhwy6qv5jsl70A/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hey Sam We are really sorry to hear that you had a bad experience at our restaurant. Id like to apologize in behalf of my staff and not being able to locate your order. All food should be delivered hot no matter what order type it is. The problem that sometimes occur is that the delivery driver bringing those 3rd party orders is not our driver and is a 3rd party driver and we have no control over how many orders they have within that route or how they are going to be delivering it to you. Please call me at the restaurant to discuss further and to give us a chance to make it right for you because that's not how we do business. thank you",
+          "date": "2024-02-21T18:35:59Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Uma P.",
+        "user_id": "3oD5T9RVrDuSlrNaZyIgVQ",
+        "link": "https://www.yelp.com/user_details?userid=3oD5T9RVrDuSlrNaZyIgVQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oxJ2T0cW3SJdWrGdSzyFCw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 105,
+        "photos": 2100,
+        "reviews": 789,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "we ordered from Uber Eats. We got the margarita pizza and the vegetarian 16 inch pizza. We had ordered some more stuff but Uber Eats forgot it so I can only write about these two. I will go ahead and tell you that the crust was burnt at the edges and the pizza was kind of soggy.I have had blue Moon pizza before and it was better than this, but this was not that great. The pizza also lacks some flavor and we did not really enjoy it. pretty bland. we likely won't get this again. my parents were in town and they wanted to try something different and this pizza was not something they enjoyed. it may be better in the restaurant I'm not sure but as far as getting it delivered from Uber Eats we were not super impressed with quality or the flavors I neither was I.",
+        "language": "en"
+      },
+      "date": "2024-01-13T10:05:13Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Moe A.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/GRnIqOQDmhwy6qv5jsl70A/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hey Uma, we are very sorry for the experience you had with our restaurant. We do try our best at keeping the pizzas warm until the guest recieves it. we aim to create stellar food and it unfortunate you went though that. please give us another shot to make it up to you. if you would like to talk please give me a call at the store and we can discuss. 404-814-1515. looking to hearing back from you",
+          "date": "2024-01-27T20:15:23Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Camille R.",
+        "user_id": "RzkbtBIWb746OB7HsKIakA",
+        "link": "https://www.yelp.com/user_details?userid=RzkbtBIWb746OB7HsKIakA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XtysuA-lR8JPhJSE-8w45Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 146,
+        "photos": 119,
+        "reviews": 43,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Good neighborhood pizza spot, we came to get salads so can't speak on the pizza but there was a good amount of people dining in and taking out when we were there.",
+        "language": "en"
+      },
+      "date": "2023-07-18T01:41:12Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ad22uLC5KqZ15VsFx-k8Bg/o.jpg",
+          "caption": "Bar"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VCKJnt3LO-FfwOrXI-JtLA/o.jpg",
+          "caption": "Cobb Salad"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Dwight S.",
+        "user_id": "P0KKMKa-O1ycabueDxBE-g",
+        "link": "https://www.yelp.com/user_details?userid=P0KKMKa-O1ycabueDxBE-g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SWJodWDSgsz67QcURvz9VQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 8,
+        "photos": 159,
+        "reviews": 143,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Talk about an upside surprise!\n\nWe came here somewhat on a whim...simply because we were in the mood for pizza. I was immediately impressed by the flexibility of the menu and even ordered the cauliflower crust just to try something new...and specified a wide variety of customized toppings. We also got an eggplant panini.\n\nIn short - it was delicious. Really happy with our choice. Be prepared for carbs! And the service was incredible - these guys went out of their way to be amiable and to make sure we had a great experience all around (including catering to our multiple random requests). This elevated level of service was not expected or even necessary for this type of venue. We were happy to voluntarily tip even more after our meal.\n\nAlso enjoyed the turtle cheesecake. Highly underrated.\n\nLooking forward to going back!",
+        "language": "en"
+      },
+      "date": "2022-10-07T00:41:44Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fr-QgkpjgvJYGE0iXz7ckw/o.jpg",
+          "caption": "Turtle Cheese Cake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DQUn8UxGymyqFLDxD19ZIg/o.jpg",
+          "caption": "Veggie Pizza"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Ravi B.",
+        "user_id": "wQ9-iHbzSDO_8E1_dIgbMQ",
+        "link": "https://www.yelp.com/user_details?userid=wQ9-iHbzSDO_8E1_dIgbMQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MoM7M0HVe6hZIAPMssUh4w/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 1805,
+        "photos": 2543,
+        "reviews": 764,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The garlic rolls are amazing and it's a great space! Pizza was pretty good. Crispy. Service was excellent!",
+        "language": "en"
+      },
+      "date": "2023-04-25T19:38:36Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2sAZxLRb29PBFBxwojsjHA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/i8x2nUknlThFywTeX1kOMA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mUAXq-AMQhUAg-sPU78vSA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Barry B.",
+        "user_id": "TPNeU81MN_o4kOo2jy4thw",
+        "link": "https://www.yelp.com/user_details?userid=TPNeU81MN_o4kOo2jy4thw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/mFegqq07A0yYXqrhrlMAaQ/180s.jpg",
+        "address": "Chicago, IL",
+        "friends": 306,
+        "photos": 586,
+        "reviews": 358,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We have ordered pizza from Blue Moon a couple of times but I forgot to write a review. Last night we order a pizza through Grub Hub to deliver. \n\nWe got a large Greek pizza. It was almost still hot when it arrived but that is on GH. The ingredients were well distributed on the pizza and the crust was not soggy. Pretty good for pizza, not sweet like a lot of pizza places. \n\nWe will order again",
+        "language": "en"
+      },
+      "date": "2023-02-05T12:29:05Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Moira B.",
+        "user_id": "2Zf9V2HezqPFI2wydMD3AQ",
+        "link": "https://www.yelp.com/user_details?userid=2Zf9V2HezqPFI2wydMD3AQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ABG5jgBlx8z4lcl-fX1CXw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 280,
+        "photos": 46,
+        "reviews": 92,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We've only ordered pickup from here so far, but the pizza has always been great! And the salads are so good and fresh and come with pita to dip in the extra dressing. The wings were a little over done, but we've only gotten them once so we'll have to give them another try. It looks like a super cute place to sit outside and enjoy the weather, and the staff are friendly, nice and efficient. Sure, there's no such thing as bad pizza, but this is really good!",
+        "language": "en"
+      },
+      "date": "2023-09-16T17:46:52Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Moe A.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/GRnIqOQDmhwy6qv5jsl70A/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Moira for the kind words and We hope to see ya soon!",
+          "date": "2024-01-27T20:27:39Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Adam T.",
+        "user_id": "vCP2G1k9ObdcUKiAL-qXfg",
+        "link": "https://www.yelp.com/user_details?userid=vCP2G1k9ObdcUKiAL-qXfg",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "They allow customers to illegally park in the street during busy rush hour traffic creating a safety hazard and inconveniencing the entire community.",
+        "language": "en"
+      },
+      "date": "2024-01-26T22:21:38Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Mark N.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/mIaNpWwlxy4ZHk4y6U03CA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Adam, we are very sorry you were inconvenienced.  We actually don't advocate people parking out front.  We usually direct them to our parking deck.  But I will say it's cool to know our food is so good that people are willing to break some rules to get it!  I will speak with the staff to make sure we are directing our guests to a better spot.  Sincerely Mark Nadeau Director of Operations",
+          "date": "2024-01-26T22:40:08Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Natalie H.",
+        "user_id": "j00lTP0x87G69B6ZJCNBMw",
+        "link": "https://www.yelp.com/user_details?userid=j00lTP0x87G69B6ZJCNBMw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/moDJwDASAdBghv6mxOtj1g/180s.jpg",
+        "address": "Buckhead, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "Why can't you ever get service at the bar when there are only two other patrons or no other patrons. Really weird place and not something for a quick in and out lunch during a busy work day. Always did have great lunch specials though. But if you can't get the service, then what's the point? Very unfortunate. The pizza is actually very good, which is my reason for the 3 stars I'm giving! \n.",
+        "language": "en"
+      },
+      "date": "2023-09-13T07:47:06Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Dawn L.",
+        "user_id": "m_AygT-NkJ3LzkwoDPTFCQ",
+        "link": "https://www.yelp.com/user_details?userid=m_AygT-NkJ3LzkwoDPTFCQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/s_xMrO04p1q0Xhba07FcSw/180s.jpg",
+        "address": "Spring, TX",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "We stopped in for dinner passing through--we ordered the bruschetta--which was really good: everyone has their own version but it was really good; we also ordered the cheesy garlic bread as a second appetizer-- sooo good and for entrees my husband ordered a salad that was served on a pizza crust offered either on a crust or regular bowl he wanted to try it with the toasted crust on the bottom and said it was really good and I ordered the hot wings medium (just the right amount of heat)\nAwesome wait staff; pricing was reasonable.\nOverall wonderful local restaurant wish we had one of these in Texas.",
+        "language": "en"
+      },
+      "date": "2023-05-09T02:50:16Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Alessandra V.",
+        "user_id": "qqZzUr0H3wrZRTXT4a8z1Q",
+        "link": "https://www.yelp.com/user_details?userid=qqZzUr0H3wrZRTXT4a8z1Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DmSNDJ5LU88ySWZWEhPzmw/180s.jpg",
+        "address": "Delray Beach, FL",
+        "friends": 34,
+        "photos": 1728,
+        "reviews": 370,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "the food was so good. i loved all the options for dietary restrictions. the workers were all so friendly and nice. i got the bbq chicken personal size gf pizza (sub vegan cheese) and it was delicious!",
+        "language": "en"
+      },
+      "date": "2023-06-02T17:42:13Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1BhXh9afZ0UGfDa2L9FMoQ/o.jpg",
+          "caption": "side greek salad"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Sidéwon Andre N.",
+        "user_id": "K2b4A8AjzlZTOlUFaqZNSw",
+        "link": "https://www.yelp.com/user_details?userid=K2b4A8AjzlZTOlUFaqZNSw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uBSYcDKVUOu5ELOqnJdNHw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 157,
+        "photos": 1159,
+        "reviews": 309,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Not much to say here. Recently moved into the area and have always heard about Blue Moon and decided to give em a try. \n\nThe pizza is Ok. Tbh I felt it had little cheese and was loaded with veggies. I could have sworn I ordered a Classic. I also ordered Extra Cheese, but for some reason I feel like they forgot this. \n\nI also ordered a side of Garlic Knots. I will say the Garlic Sauce they have is AMAZING! Bit on the salty side, but delicious! I'll be ordering again and trying other menu items, but imo the Classic Pizza just had too many veggies on it. Tasted like a Garden Pizza. Stay tuned for next review soon.",
+        "language": "en"
+      },
+      "date": "2022-05-05T02:17:13Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Pof_JraJ7kpuSv-7lozJ6g/o.jpg",
+          "caption": "Garlic Knots with the most delicious Garlic Sauce Ever!!!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OA4F1Akf6d_4ZZF9Rf8A2w/o.jpg",
+          "caption": "Classic Pizza with \"Extra Cheese\" Grabbed the 1st slice and forgot to snap a pic"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tyler V.",
+        "user_id": "MeB9s2455Q5FWdGIha_Now",
+        "link": "https://www.yelp.com/user_details?userid=MeB9s2455Q5FWdGIha_Now",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lrWDrclJppJxS4FMMk3tfg/180s.jpg",
+        "address": "Chattanooga, TN",
+        "friends": 1,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Pretty great pizza. You can tell they use quality produce and have a fine tuned routines in the kitchen. No complaints.",
+        "language": "en"
+      },
+      "date": "2023-09-15T02:03:05Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Moe A.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/GRnIqOQDmhwy6qv5jsl70A/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Tyler! thanks for noticinf the freshness. We get our produce in 6 days per week and we prep all our sauce, dough, and meats in-house to be as fresh as possible! looking forward to seeing you dine in soon! make sure to ask for me",
+          "date": "2024-01-27T20:29:17Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Yash A.",
+        "user_id": "tRIjFGITIf2Bjcs-4EfG4g",
+        "link": "https://www.yelp.com/user_details?userid=tRIjFGITIf2Bjcs-4EfG4g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_m6_n1GjJOLEtcjQvqguoA/180s.jpg",
+        "address": "Alpharetta, GA",
+        "friends": 55,
+        "photos": 42,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "The Luna pizza is very different from the traditional flavors of a normal pizza. I think this is one of my favorite pizzas. The chorizo on a pizza is a very create meat to put on a pizza. It goes very well with the spicy ranch sauce.\n\nAs you might have read, the garlic rolls is a signature dish here. \n\nTip on how to eat the garlic rolls if you order takeout: poke small holes/slits on the rolls and then pour the garlic sauce on top of it before you heat it up so the sauce percolates inside the rolls",
+        "language": "en"
+      },
+      "date": "2022-05-20T16:37:18Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/axYD90lLLlcsIpyTTpA8bQ/o.jpg",
+          "caption": "Luna Pizza"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Mia M.",
+        "user_id": "O-HGwm1V0RVgEcAFGmEIYA",
+        "link": "https://www.yelp.com/user_details?userid=O-HGwm1V0RVgEcAFGmEIYA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vBbD94b3sGX3O2VV7lLeSw/180s.jpg",
+        "address": "Dublin, CA",
+        "friends": 27,
+        "photos": 1,
+        "reviews": 148
+      },
+      "comment": {
+        "text": "We ordered a calzone and a pita veggie sandwich!  I really enjoyed the veggie sandwich, the fries were a bit too salty but the calzone was also really good.  The service was superb and I placed the order to-go so they had me in/out in no time!  Super convenient and both the calzone and pita had a great flavor.",
+        "language": "en"
+      },
+      "date": "2023-07-19T17:47:39Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jalen M.",
+        "user_id": "GumHdB2ADYaNgnEzi3y8mQ",
+        "link": "https://www.yelp.com/user_details?userid=GumHdB2ADYaNgnEzi3y8mQ",
+        "address": "Brooklyn, Brooklyn, NY",
+        "friends": 260,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "I stopped here for lunch. Particularly hot wings. They messed up my order and the food was very subpar.",
+        "language": "en"
+      },
+      "date": "2023-11-25T22:05:08Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Moe A.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/GRnIqOQDmhwy6qv5jsl70A/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hey Jalen! We apologize for the mishap. let us make it up to you.",
+          "date": "2024-01-27T20:16:09Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Mallorie T.",
+        "user_id": "QXgO_gOH7PfbSzkmcMlvNQ",
+        "link": "https://www.yelp.com/user_details?userid=QXgO_gOH7PfbSzkmcMlvNQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XYRFRaKjf4P2q8GzRImNgg/180s.jpg",
+        "address": "New York, NY",
+        "friends": 9,
+        "photos": 385,
+        "reviews": 196,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Buffalo chicken was the best kind I had. We also got grandmas pie ( have had better ) and the meat lovers / equivalent of this, which I think for sure could have used more sauce. Crust was good and pizza was overall good. We also got a Greek salad and there is LEGIT bread at the bottom ( was not expecting this and found it pretty odd ). Really thought it meant bread on the side haha. Would come back!",
+        "language": "en"
+      },
+      "date": "2022-12-22T02:24:06Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Reagan S.",
+        "user_id": "SsnR0pNljkbHSkUeHcDEVw",
+        "link": "https://www.yelp.com/user_details?userid=SsnR0pNljkbHSkUeHcDEVw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sOw3-kX5IfUr0gzH9taoZw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 14,
+        "photos": 0,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Mediocre at best.  I have tried this place a couple of times.  Meh. Is all I can say.  There are many better choices.",
+        "language": "en"
+      },
+      "date": "2023-04-14T13:19:49Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Leah L.",
+        "user_id": "xIpus1q3242TS1bF46UBxQ",
+        "link": "https://www.yelp.com/user_details?userid=xIpus1q3242TS1bF46UBxQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Mesi8cGpn_N_H4g4yeS0BQ/180s.jpg",
+        "address": "Columbus, OH",
+        "friends": 0,
+        "photos": 11,
+        "reviews": 34
+      },
+      "comment": {
+        "text": "Extremely fresh, fantastic options. High quality pizza, definitely a Buckhead first choice",
+        "language": "en"
+      },
+      "date": "2023-03-07T01:54:19Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Alizah A.",
+        "user_id": "ueC7PhVJFIxhlrI-VuJ7Dw",
+        "link": "https://www.yelp.com/user_details?userid=ueC7PhVJFIxhlrI-VuJ7Dw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wqEbqcq9yTsDrSM-csczGg/180s.jpg",
+        "address": "Fremont, CA",
+        "friends": 150,
+        "photos": 35,
+        "reviews": 48
+      },
+      "comment": {
+        "text": "Been here way too many times at this point that i'm starting to notice little changes in the food.\n\nTheir pizza is great! I've been getting the grandma's pizza recently over the make your own/another specialty pizza. I recommend it - it's a great detroit style pizza with a lot of garlic and flavor.\n\nWhat i've noticed though is their quality for the garlic knots. Now I know that the last few times I've gotten it as a takeout versus eating in, but it has 100% changed. The rolls are a lot smaller than before and the last time I got them they werent even knotty - it was literally like eating a bread roll dunked in garlic sauce.",
+        "language": "en"
+      },
+      "date": "2022-12-04T23:12:54Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Andrea R.",
+        "user_id": "UIDSqPuNNNk9DI94gw3ofA",
+        "link": "https://www.yelp.com/user_details?userid=UIDSqPuNNNk9DI94gw3ofA",
+        "address": "Louisville, KY",
+        "friends": 1,
+        "photos": 16,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "Great pizza and filling salad. We were very pleased with our meal.  The service was acceptable and timely.",
+        "language": "en"
+      },
+      "date": "2023-11-03T20:27:56Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Moe A.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/GRnIqOQDmhwy6qv5jsl70A/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hey Andrea we are so happy that you all enjoyed the food and service! Were looking to seeing you all soon :)",
+          "date": "2024-01-27T20:17:04Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jacklyn K.",
+        "user_id": "PGnnQDGfFIwhIrHJlhCqGg",
+        "link": "https://www.yelp.com/user_details?userid=PGnnQDGfFIwhIrHJlhCqGg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0EhL3LbJWdTuqlzeAagokA/180s.jpg",
+        "address": "Poughkeepsie, NY",
+        "friends": 183,
+        "photos": 622,
+        "reviews": 323,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "2.5 stars, Just OK. We ordered take out via Uber Eats which took 2+ hrs to arrive so the pizza was ice cold. Thin crust was tasty but the sauce to cheese ratio was way off and sauce was on the sweeter side without much flavor/seasoning. Very very light on the cheese. The garlic rolls were served as plain rolls with a dipping sauce which is not what garlic knots are back in NY which left a lot to be desired. Wouldn't order again",
+        "language": "en"
+      },
+      "date": "2022-03-27T22:38:09Z",
+      "rating": 2,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ywgzgWq_SswS3xHI11UrvA/o.jpg",
+          "caption": "Garlic Rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-9rGnjk0T9ypRQv9tjbciw/o.jpg",
+          "caption": "Large cheese pizza with mushrooms"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "M D.",
+        "user_id": "NR8osdsP2gM-VZba34Pz3w",
+        "link": "https://www.yelp.com/user_details?userid=NR8osdsP2gM-VZba34Pz3w",
+        "address": "Birmingham, MI",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "Mediocre at best. Plus they overcharged me. Super annoyed at all the cars out front blocking traffic on paces ferry.",
+        "language": "en"
+      },
+      "date": "2023-10-10T22:41:29Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Moe A.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/GRnIqOQDmhwy6qv5jsl70A/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We apologize for the traffic caused on our main road it does get congested t times. Please contact me at the store so we can discuss the payment issue in depth. 404-814-1515. Looking forward to chatting with you",
+          "date": "2024-01-27T20:19:42Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Corrie M.",
+        "user_id": "xjrOGrPDVHTyHlAdW3PsQw",
+        "link": "https://www.yelp.com/user_details?userid=xjrOGrPDVHTyHlAdW3PsQw",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Mediocre at best. No place to park . Service was OK but the pizza was just fair. Shop around if  you are looking for great pizza.",
+        "language": "en"
+      },
+      "date": "2023-10-08T16:46:39Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Moe A.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/GRnIqOQDmhwy6qv5jsl70A/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hey Corrie I'm sorry you could not find parking. We do have limited parking in the deck of our building and they do fill up quick. Id love for you to give us another chance to blow you away with our pizza!",
+          "date": "2024-01-27T20:20:53Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jasmine S.",
+        "user_id": "qX91moDawgvtlpf9h6JugQ",
+        "link": "https://www.yelp.com/user_details?userid=qX91moDawgvtlpf9h6JugQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/jNDmhcFCsLDOKkq6y6gq-w/180s.jpg",
+        "address": "Doraville, GA",
+        "friends": 0,
+        "photos": 38,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "The food was great. Service was ok, by far my favorite pizza to get from here. Would consider carry out options.",
+        "language": "en"
+      },
+      "date": "2022-11-11T22:44:21Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fWbGw2oaiZ0AgKySFpV-eg/o.jpg",
+          "caption": "Jerk Chicken Pizza"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jess L.",
+        "user_id": "RqewhCK7Kk8zYat05p6T-Q",
+        "link": "https://www.yelp.com/user_details?userid=RqewhCK7Kk8zYat05p6T-Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NT94ovsa4N0TD2RIc82iNA/180s.jpg",
+        "address": "Lorton, VA",
+        "friends": 560,
+        "photos": 345,
+        "reviews": 329,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Never heard of this place before coming out to Atl, but it's a must!!!! I ordered a customized pizza that was gluten free dough with pepperoni and cheese and spinach. This place is very busy but i see why because soo many people love it here. This place has won a special place in my tummy lol. Added to favorites",
+        "language": "en"
+      },
+      "date": "2021-12-05T04:11:28Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/91gG3yxfEtvgI8R4LTLOhQ/o.jpg",
+          "caption": "Customized pizza: gluten free dough, pepperoni & cheese with spinach"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Candy C.",
+        "user_id": "JomAHr7TrVHQeFhRoGvMKg",
+        "link": "https://www.yelp.com/user_details?userid=JomAHr7TrVHQeFhRoGvMKg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/z7_K1znNQNsVxwbh1Jrt_w/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 162,
+        "photos": 836,
+        "reviews": 109,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I called in and placed my order with Malik, I asked him to please close my box with tap so my food couldn't be tampered with. Just being cautious, I always ask that my things are probably sealed whenever I order delivery due to so many people handling it. (Delivery driver, concierge etc) Any-who  Malik totally disregard my request. The pizza was amazing though, but damn Malik why you couldn't just tape the box. Got me praying extra hard over my food now. I trust that the lord wouldn't let anything happen to me but damn Malik, all I wanted was some tape.",
+        "language": "en"
+      },
+      "date": "2021-04-09T20:34:26Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IfUp197tgfdIxLPnJ2MvlA/o.jpg",
+          "caption": "Personal. Pepperoni & bacon."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WI2XFoKK3u1ywCyaHIJtJQ/o.jpg",
+          "caption": "Delivery  not sealed."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Q9vmiPrMLp02cFbDwhUeMg/o.jpg",
+          "caption": "Cheese bread"
+        }
+      ],
+      "feedback": {
+        "useful": 10,
+        "funny": 5,
+        "cool": 9
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Danielle A.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/5k59LJj5KsNpgVFhjYqHyg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Candy, we apologize that your box was not sealed as requested. Our printing company had delays on producing the box stickers we use to seal orders and we went about a week's time without them. You should have been notified of this over the phone and yes, we should have used some tape in order to complete your request. Thank you very much for taking a moment to provide us this valuable feedback and giving us the opportunity to become better at what we do. - Danielle Armstrong",
+          "date": "2021-04-22T17:38:56Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Candace M.",
+        "user_id": "3cmdmmyvj501NwIY86amig",
+        "link": "https://www.yelp.com/user_details?userid=3cmdmmyvj501NwIY86amig",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 35,
+        "reviews": 32
+      },
+      "comment": {
+        "text": "Service was slow. The lemonade had debris in it. Server brought another, this time in a to-go cup. This one also had debris in it. There was no empathy nor apology for this. We came on a weekday afternoon so the place was not crowded at all, but the service was lacking. No refills the entire time we were there. Pizza was just ok. Cheese bread had literal grease dripping off of it. Will not return.",
+        "language": "en"
+      },
+      "date": "2022-11-17T19:47:21Z",
+      "rating": 2,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DT1_rJPQfPC_qDbsR-ffKA/o.jpg",
+          "caption": "Grease from the cheese bread."
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Esther K.",
+        "user_id": "HHqWwaIxzR4Z25bIhpe83A",
+        "link": "https://www.yelp.com/user_details?userid=HHqWwaIxzR4Z25bIhpe83A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gTf58z2yu5i0iEOE78albA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 55,
+        "photos": 11,
+        "reviews": 55
+      },
+      "comment": {
+        "text": "I absolutely love, love, LOVE the grandma style pizza! The service has always been great every time we've gone and the food is so good. I like the low-key atmosphere of the place and it was one of our go-to Friday date night places when we lived closer to the city.",
+        "language": "en"
+      },
+      "date": "2022-12-03T22:08:34Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Stephanie D.",
+        "user_id": "IFHe0sdYtF9wMOYPVWheXg",
+        "link": "https://www.yelp.com/user_details?userid=IFHe0sdYtF9wMOYPVWheXg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wDmL8DjWpdAovOd_ljaR8w/180s.jpg",
+        "address": "Chattanooga, TN",
+        "friends": 21,
+        "photos": 368,
+        "reviews": 128,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "PSA, don't park on the street in front, park in the lot down the street. \nIf you have kids, they bring them dough to play with! They have a full bar and carry local beers. And then there is the pizza. I'm picky about my pizza, and this one makes the grade. grandma's is worth ordering.",
+        "language": "en"
+      },
+      "date": "2021-05-29T19:20:46Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Barron D.",
+        "user_id": "YiGPOuMdXmsGG5zHCZ9rsw",
+        "link": "https://www.yelp.com/user_details?userid=YiGPOuMdXmsGG5zHCZ9rsw",
+        "address": "Conyers, GA",
+        "friends": 208,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Amazing pizza. I loved all of\nThe topping and the bread was amazing. Will\nBe revisiting again",
+        "language": "en"
+      },
+      "date": "2022-12-25T00:39:15Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Katie C.",
+        "user_id": "wgMg6mn8YRlbhi9LTtZttg",
+        "link": "https://www.yelp.com/user_details?userid=wgMg6mn8YRlbhi9LTtZttg",
+        "address": "San Francisco, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "I haven't been to Blue Moon Pizza in quite a few years, but decided to go last night with a couple friends. We were all very pleasantly surprised with how delicious the pizza and cocktails were. Our server, Malik, was very friendly and attentive. He made delicious Palomas and made sure to check in on us regularly. We each ordered an individual pizza (original, Margherita and Greek) and had enough to take home for leftovers. If you can, dine in because the pizza is best fresh out of the oven.",
+        "language": "en"
+      },
+      "date": "2023-06-21T22:12:15Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jamarcus T.",
+        "user_id": "K8VSrOOCdXS9VX5S66W4GQ",
+        "link": "https://www.yelp.com/user_details?userid=K8VSrOOCdXS9VX5S66W4GQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qNXp7QsgIMXdTCxVXAvM-w/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 624,
+        "photos": 7512,
+        "reviews": 1642,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We paid Blue Moon Pizza a late at night pick up visit.  I had never been before, heard great things and was excited to give these guys a try.  So what did we end up taking away?\n\nWe called ahead and ordered their Classic pizza ($21) and also got an order of their lemon pepper wings ($9.99)\n\nThe lemon pepper wings came in a serving of 10, with celery and your choice of blue cheese or ranch.  The wings were crispy, well seasoned and actually pretty good!  We both gave the wings a thumbs up.\n\nThe pizza was thin crust, and man did this flavor speak to you.  Loaded with toppings including pepperoni, peppers, mushroom, onion, and sausage, the slices were devoured and enjoyed.  Likely not as crispy because it was a to go order and a 10 minute drive home, but what we chomped on was very good.\n\nNot quite sure what the parking situation is because again, we got our order to go, although I know enough to know that if you park anywhere across the street from blue moon, you'll be booted. Ask staff and they'll direct you to self parking.   \n\nThe product Blue Moon Pizza delivers is great, boasting in your face flavors that make you smile with each bite. I'll definitely check them out again!",
+        "language": "en"
+      },
+      "date": "2019-08-07T19:47:32Z",
+      "rating": 4,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/U2v-dT8cop6-PkAywjNzjw/o.jpg",
+          "caption": "Storefront"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L8IDdnFh5kHSRGI8G35vdQ/o.jpg",
+          "caption": "Outside seats"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IHbeBWNL5bAKXYB-dBTVrg/o.jpg",
+          "caption": "Parking situation"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/amYYdW8h3r4_tcbCRHs01w/o.jpg",
+          "caption": "Interior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lV6MFkaEYOGzoPgVH5NxpA/o.jpg",
+          "caption": "Interior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3I-SNOwywOyegoJPaLvRWQ/o.jpg",
+          "caption": "Interior and kitchen"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zZQ4N4kQj6AXCRtcfMvhSA/o.jpg",
+          "caption": "Lemon pepper wings"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pUElzr-8_4jjwWMl3dH9CQ/o.jpg",
+          "caption": "Classic pizza"
+        }
+      ],
+      "feedback": {
+        "useful": 11,
+        "funny": 8,
+        "cool": 10
+      }
+    },
+    {
+      "user": {
+        "name": "Erica J.",
+        "user_id": "hgB4fd0h9TcVQMlC8HMx2A",
+        "link": "https://www.yelp.com/user_details?userid=hgB4fd0h9TcVQMlC8HMx2A",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "I'm updating my review because, though missing sauce is a minor issue in the grand scheme of things, the Director of Operations took time to reach out to me! That's how you keep a customer!\nThe calzone was nothing I'd order again, but the pizza is EVERYTHING! I tell myself I will have leftovers, I consistently eat the entire thing! Thanks for the awesome follow up!!",
+        "language": "en"
+      },
+      "date": "2022-08-26T11:11:55Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Mark N.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/mIaNpWwlxy4ZHk4y6U03CA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Erica I'm so sorry you didn't have a great experience.  I have contacted the GM of that location and he would like to hear about your experience.  His name is Mo and he is brand new to the store.  His number is 404-814-1515.  Thank you for your feedback we look forward to seeing you again soon.  Mark Nadeau Director of Operations",
+          "date": "2022-08-25T17:57:22Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "will b.",
+        "user_id": "hF2QjWSY46XgxZqIfupYOQ",
+        "link": "https://www.yelp.com/user_details?userid=hF2QjWSY46XgxZqIfupYOQ",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "The food was very expensive! For two pizzas it's was 60$! And the person on the phone did not go over the different sizes or the prices just hung up. And for the price the pizza was not good no flavor and the garlic knots did not have a lick of garlic on it! 0/10",
+        "language": "en"
+      },
+      "date": "2023-06-09T14:30:42Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nathan S.",
+        "user_id": "pn58Ga9qdBRrFDDMSiElCA",
+        "link": "https://www.yelp.com/user_details?userid=pn58Ga9qdBRrFDDMSiElCA",
+        "address": "SoMa, San Francisco, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "Expensive for cold, thin, smaller pie with lackluster service. Maybe it's better as sit down but carry out wasn't worth it.",
+        "language": "en"
+      },
+      "date": "2023-04-17T20:08:56Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tyler J.",
+        "user_id": "Rs6EbQWTDOrG7kJJtQyjJA",
+        "link": "https://www.yelp.com/user_details?userid=Rs6EbQWTDOrG7kJJtQyjJA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PaWhlVALt8IppxZV__tfLw/180s.jpg",
+        "address": "Bentleyville, PA",
+        "friends": 12,
+        "photos": 47,
+        "reviews": 42
+      },
+      "comment": {
+        "text": "Pizza was pretty good! I got their make your own and the side iceberg wedge. Only thing I would complain about is how greasy the pizza was. Makes me wonder if I would go back or not.",
+        "language": "en"
+      },
+      "date": "2022-03-22T22:04:50Z",
+      "rating": 3,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cZ8_eP0Me6K9LkhV1JhFMA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rpjyFTshuwz5kmx1GAstUg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nwjcpzxvkoFXtyPmq1ipeQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nate F.",
+        "user_id": "pGmbV55YLG54t8r1W4F3xg",
+        "link": "https://www.yelp.com/user_details?userid=pGmbV55YLG54t8r1W4F3xg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bGrlvv-OmJ8beh6mIDCDGQ/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 110,
+        "photos": 380,
+        "reviews": 424,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I was a little underwhelmed with my slices although they were huge. The sausage pizza was not what I expected and they were both overly greasy. Service was decent at the bar. I just stopped by briefly on a Sunday afternoon and had a blue moon to go with the theme of the bar. Haaaa. \n\nI want to come back because I think this place does have potential, I will try something different next time.",
+        "language": "en"
+      },
+      "date": "2020-01-26T19:23:36Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ech_MZIHo9co4rAcso8p6g/o.jpg",
+          "caption": "Pepperoni and Sausage slices"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Danielle A.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/5k59LJj5KsNpgVFhjYqHyg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Nate thank you for the feedback on your slices. We look forward to the opportunity to WoW you on your next visit. - Danielle",
+          "date": "2020-03-06T15:02:49Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Pam W.",
+        "user_id": "qmEGBiM9POWKeDnJzF9bnA",
+        "link": "https://www.yelp.com/user_details?userid=qmEGBiM9POWKeDnJzF9bnA",
+        "address": "Tucker, GA",
+        "friends": 1,
+        "photos": 0,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "Horrible. No sauce, no cheese. Dry as the Sahara desert! Never again. Cardboard with olives.",
+        "language": "en"
+      },
+      "date": "2023-03-26T20:34:03Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alexandra W.",
+        "user_id": "7kgmDR7So2cNJ5U00ImVGA",
+        "link": "https://www.yelp.com/user_details?userid=7kgmDR7So2cNJ5U00ImVGA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VBrRKBiDJgHPG8jeOydFIg/180s.jpg",
+        "address": "Charlotte, NC",
+        "friends": 70,
+        "photos": 43,
+        "reviews": 569
+      },
+      "comment": {
+        "text": "Y'all not even going to lie I LOVED my cobb salad here. Anytime you serve salad in an oversized mixing bowl my expectations are high because well, the presentation is an oversized metal mixing bowl LOL. It was comforting as that's how I make my lunch salads at home and I was grabbing a quick bite on a work trip.\n\nThe bartender on the day I went in for lunch was really, really nice, and was attentive. Recommend!",
+        "language": "en"
+      },
+      "date": "2021-08-02T21:28:36Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ashley M.",
+        "user_id": "dylcQqQ-PRVHRYCgh0PVOg",
+        "link": "https://www.yelp.com/user_details?userid=dylcQqQ-PRVHRYCgh0PVOg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FEZsSUBXHinxGM3rCRpfNA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 114,
+        "photos": 1558,
+        "reviews": 259,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "First time trying the Buckhead location. Very polite staff. Ordered a large pizza and did half and half toppings. Everything was great. Always had great food at all Blue Moon locations and this one didn't disappoint. Staff wore masks also. Will definitely be back.",
+        "language": "en"
+      },
+      "date": "2020-11-29T04:34:37Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZD7PTpYeN3ZTZ1QMkUrypQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/f1pI55q65mWjVdRTjO6TDQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7BiF4mFuZoevKFCvCMiNBw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MJXBfoQLExYEadLjZHh4rQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Rk-n-wUbVA3jVz5zMBFcIA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ooEkWi4P5Y2m49a4rAc7oA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fwE2v6r7kZmKJ9yP4DLq3w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ExI60efPAdr6fiM7LA48_w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xF4g0oPqhbGU58wuRYJVRg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Sq-UpRTNt8TIG7r-Gyljuw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Danielle A.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/5k59LJj5KsNpgVFhjYqHyg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Ashley, thank you for taking a moment to share your experience at our location. We are happy to hear you enjoyed your meal and our team members. We look forward to you joining us again soon. Maybe for our Lunar Happy Hour(currently only available here at Buckhead), it's Mon-Thur 3pm-6pm. Please let us know if there is anything we can improve on, your next visit is a 5 star experience. - Danielle Armstrong GM",
+          "date": "2020-11-30T13:23:32Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Lekha S.",
+        "user_id": "LNzZmOs9YYUd8n_3fy7j2w",
+        "link": "https://www.yelp.com/user_details?userid=LNzZmOs9YYUd8n_3fy7j2w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/txwdXjJ6VgnlG6vQtzkW4g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 271,
+        "photos": 1,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "At the time of writing this, I've attached the advertised COVID-19 precautions for this location.\n\nI ordered online yesterday (order of garlic rolls and personal white pizza) for curbside pickup, and when I got to the restaurant there was no curbside pickup. There were no instructions for curbside pickup anywhere to be seen (despite advertising they do curbside pickup). So, I had to park my car and go in and grab the food. \n\nInside was absolute chaos -- including more disregard for their advertised services (no social distancing enforced, they were basically operating at full capacity including seating at the bar and tables not 6 ft apart). Servers were wearing masks and those preparing food had masks and gloves. Upon seeing this, I typically would've just turned around and left -- but I made the mistake of preparing online so I decided to stay.\n\nIt took 20 minutes from the time I entered the restaurant to the time I got my food. My order was certainly not ready and they forgot to include a soda I had also ordered with it. I realized when I left, but after spending 20 minutes inside of this restaurant with at least 20-30 unmasked people, I wasn't ready to go inside again.\n\nWhile waiting, I witnessed the following inside the restaurant:\n- people entering without masks, even just to pick up takeout\n- servers running around like crazy -- they looked way understaffed\n- people at tables in large groups (2 groups of 10+ at a table)\n- tables not 6ft apart\n- people sitting elbow to elbow at the bar area\n\nClearly, management here has decided to let politics and money make their decisions for them. DO NOT order from this business if you value your life.",
+        "language": "en"
+      },
+      "date": "2020-08-15T17:42:15Z",
+      "rating": 1,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Q0Q-MSpyDPu134iLBoIerQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Noora N.",
+        "user_id": "p3QQ8UaUcnTPRsfNL1miPA",
+        "link": "https://www.yelp.com/user_details?userid=p3QQ8UaUcnTPRsfNL1miPA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VQcrmy9OpJjPJT6ar4GLEQ/180s.jpg",
+        "address": "Northlake, Atlanta, GA",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Greek pizza  can't express how delicious it is.\nAlso, try their mozzarella sticks. I'm pretty sure that you will like them.",
+        "language": "en"
+      },
+      "date": "2021-01-30T00:35:58Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Z2eIGhiU95YA17Oc7qToIA/o.jpg",
+          "caption": "Greek pizza is a Must, give it a try with their mozzarella sticks"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Danielle A.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/5k59LJj5KsNpgVFhjYqHyg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Noora, so happy to hear you enjoyed both our pizza and homemade mozzarella sticks. Just wanted to let you know the pizza in the picture is our white pizza not our greek. But both are delicious vegetarian options! Just didn't want you to be surprised if you came back and ordered a greek and it was different from what you remembered/photo. We thank you for taking a moment to share your 5 star review and look forward to your next visit. - Danielle Armstrong GM",
+          "date": "2021-02-13T23:10:56Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Trina K.",
+        "user_id": "WJR8f_QNG1kuPq5V6RxeFA",
+        "link": "https://www.yelp.com/user_details?userid=WJR8f_QNG1kuPq5V6RxeFA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Rx8_NLY4PJ6716DYFnHNbw/180s.jpg",
+        "address": "Chicagoland, IL",
+        "friends": 108,
+        "photos": 3525,
+        "reviews": 1198,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Imagine an unexpected December snow storm in Atlanta that causes both Phipps Plaza & Lenox Mall  to close early, and the Hartsfield Jackson airport to ground most flights. Well, this really happened in December 2017. As a visitor solely in town for a rival NFL football game where my team of choice was less than victorious, I found myself spending an extra day in Georgia with a desire for something other than hotel food. \n\nWhile Blue Moon should have been a choice based on its reviews, I found myself there primarily because it was one of the few restaurants still open on this terrible weather day but it did not disappoint. I loved absolutely everything about the pizza and noticed pretty quickly into my dining experience that there were quite a few regulars and many patrons who often place take out orders. \n\nKnowing that I would be stuck indoors until at least the next day, I ordered a key lime pie to go and it was delicious the perfect late night treat. \n\nIf find yourself in the area on sunny day or during not so great weather, I highly recommend paying Blue Moon a visit.",
+        "language": "en"
+      },
+      "date": "2018-03-07T08:56:48Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QIMqvXSFzz8pr4XodsYUsQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 6,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Christina I.",
+        "user_id": "aTUwAufITMXwJN8Y91zSDg",
+        "link": "https://www.yelp.com/user_details?userid=aTUwAufITMXwJN8Y91zSDg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Tl56908e3ZoPoQ-djG-0OQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 226,
+        "photos": 308,
+        "reviews": 247,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Ordered Blue Moon during the Covid-19 situation from Door Dash.\n\nWe ordered a large Meateor pizza. Pizza was hot when we got it and tasted amazing pretty good. A bit on the salty side but to be expected with so much meat. Crust was really yum and definitely would order from them again. \n\nOnce this quarantine/city shutdown is over, looking forward to trying our Blue Moon live and in person!",
+        "language": "en"
+      },
+      "date": "2020-03-26T22:54:22Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "John H.",
+        "user_id": "oMcmerArbeL0OOEZVPMeuQ",
+        "link": "https://www.yelp.com/user_details?userid=oMcmerArbeL0OOEZVPMeuQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6TVOOmPRJsSW68s5mExICw/180s.jpg",
+        "address": "Philadelphia, PA",
+        "friends": 63,
+        "photos": 86,
+        "reviews": 78
+      },
+      "comment": {
+        "text": "Arrived was seated quickly. Server came over took our drink orders & food order quickly ordered person pizza that's pictured fried and bbq chicken pizza. Food came out quick & was very good I love that you can personalize personal pizza to how you want. Sauce & toppings were good. The crust had salt & pepper on it only downside was when you got to crust it was a little too salty. Server was very good with checking up on us and being on point even brung me a refill before I got a chance to ask for one.",
+        "language": "en"
+      },
+      "date": "2021-09-14T06:15:58Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QuvWCs7Mh8tpIuhgj6RbiA/o.jpg",
+          "caption": "Personal pizza with cayenne candies bacon & chorizo"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ana R.",
+        "user_id": "pA-M8rYSLto7R8g-2mB9lA",
+        "link": "https://www.yelp.com/user_details?userid=pA-M8rYSLto7R8g-2mB9lA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/32Lnn-IC9IXxyTiz3yApvg/180s.jpg",
+        "address": "Miami, FL",
+        "friends": 198,
+        "photos": 1,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "C+, B-\nIt's nothing special. The prices are a bit high for the quality. We got the Luna pizza, the classic pizza (GF crust) and the Bruschetta. First the bruschetta was marinera sauce with feta cheese on top... that is NOT bruschetta it needs to be actual tomatoes HUGE disappointment. The classic pizza is a simple supreme pizza one you could get from Domino's for like $10/12 for a large vs $15 for a personal size here... same ingredients and taste. The Luna pizza was the best thing it had spicy chorizo and that gave it a kick that was pretty delicious. Overall I probably wouldn't spend my money here again, for average pizza I could get something cheaper elsewhere.",
+        "language": "en"
+      },
+      "date": "2021-09-03T23:04:06Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kai D.",
+        "user_id": "q5mgBj2FmeX7EcY67Mrlpg",
+        "link": "https://www.yelp.com/user_details?userid=q5mgBj2FmeX7EcY67Mrlpg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Gc18eIkDvgsfi_fCOCyHjw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 84,
+        "photos": 388,
+        "reviews": 228
+      },
+      "comment": {
+        "text": "My first time eating here and I placed my to go order online. When I got there my order was prepared wrong :(. I ordered the Italian flatwich and all it has was lettuce onions and tomato's. When I told the manager on duty. He asked me does the sandwich has meat on it while looking at the meatless sub. He then took my to go container in the back to slap on cold meat. I was hungry and started to not care about the whole situation. The sandwich was ok and the fries were good. I would of thought he would of added more fries or something extra since it was there fault. I won't be back though.",
+        "language": "en"
+      },
+      "date": "2022-03-07T20:22:21Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=CkWEtj4Y8sG-U9x2eoejvw&start=50"
+  }
+}

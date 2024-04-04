@@ -1,0 +1,1749 @@
+{
+    "search_metadata": {
+        "id": "65ef30f78b7ed29c2d7814a4",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f3ac24a8377f2625/65ef30f78b7ed29c2d7814a4.json",
+        "created_at": "2024-03-11 16:27:35 UTC",
+        "processed_at": "2024-03-11 16:27:35 UTC",
+        "yelp_reviews_url": "https://www.yelp.com/biz/-AIX1rem_OF-9Et3p_K9Gg?",
+        "raw_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef30f78b7ed29c2d7814a4.html",
+        "prettify_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef30f78b7ed29c2d7814a4.prettify",
+        "total_time_taken": 4.05
+    },
+    "search_parameters": {
+        "engine": "yelp_reviews",
+        "start": 0,
+        "num": "50",
+        "place_id": "-AIX1rem_OF-9Et3p_K9Gg"
+    },
+    "search_information": {
+        "total_results": 402,
+        "business": "Tomo Japanese Restaurant"
+    },
+    "review_languages": [
+        {
+            "hl": "en",
+            "count": 402
+        }
+    ],
+    "reviews": [
+        {
+            "user": {
+                "name": "Carlo M.",
+                "user_id": "3fj9UnR2xAZJCx29PLicAg",
+                "link": "https://www.yelp.com/user_details?userid=3fj9UnR2xAZJCx29PLicAg",
+                "address": "SoMa, San Francisco, CA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "The 6 seat omakase bar at Tomo is quite simply the best seafood dining in all Atlanta, and maybe the southeast.",
+                "language": "en"
+            },
+            "date": "2024-02-03T02:41:29Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Sylvia C.",
+                "user_id": "UITmsNLlsm5LT-7jhP6Hdg",
+                "link": "https://www.yelp.com/user_details?userid=UITmsNLlsm5LT-7jhP6Hdg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/c4rsn3SeU8SgGEruCa1iXA/180s.jpg",
+                "address": "Cumming, GA",
+                "friends": 8,
+                "photos": 126,
+                "reviews": 36,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "So for a Michelin Guide restaurant I guess my expectations were a bit higher? The ambiance and decor are very calm and fitting for a place like this but it just felt like an above average Sushi place to me. If I could I'd rate it a 3.5 but I rounded up. The service was fine and the waitress was helpful, just not super descriptive.\n\nThe Tempuras were good but they weren't the best I've ever had and it felt like there was more batter than actual shrimp. All the sashimi was fresh so that was good and their lychee martinis were a perfect mix - not too sweet and not too strong. \nAll the rolls we had were also very good and fresh. Overall everything was good, but I can't put my\nfinger on it but something felt like it was missing?\nBut st the same time, I could've felt like my expectations were too high for this place.",
+                "language": "en"
+            },
+            "date": "2024-01-20T18:14:34Z",
+            "rating": 4,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tetMQtScWyZHuEYjCHq-8g/o.jpg",
+                    "caption": "Lychee Martini"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4JdbHifg6ErByJz24dk8sg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jJ4fC08MEELjHOV3a4JI5A/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/e9BIsZxgtYQm4Iibk8aMvg/o.jpg",
+                    "caption": "Tempura"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LB1OcMvAtwA-CdAcjQto9w/o.jpg",
+                    "caption": "JUMBO SOFT SHELL CRAB ROLL"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Steven N.",
+                "user_id": "mvEYmGeXXi5quGISe0iRlw",
+                "link": "https://www.yelp.com/user_details?userid=mvEYmGeXXi5quGISe0iRlw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AhH6nRixsYXyMwlPSD2U9g/180s.jpg",
+                "address": "Lenox, MA",
+                "friends": 1,
+                "photos": 21,
+                "reviews": 98
+            },
+            "comment": {
+                "text": "We came here on Friday night. We made reservation in advance, so we got seated immediately. Valet parking is complimentary with validation from the restaurant. They don't validate self parking in the parking deck.\nService was amazing. Food was excellent. We had wagyu beef, sushi/sashimi, some specialty rolls.. everything was great.\nThe temperature inside was kinda hot for me, but it's just minor",
+                "language": "en"
+            },
+            "date": "2023-11-11T14:05:06Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Michael S.",
+                "user_id": "zu7OCiMmpDK-oowwZtPkdQ",
+                "link": "https://www.yelp.com/user_details?userid=zu7OCiMmpDK-oowwZtPkdQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QL-DRqjmQx3bOwQ6W2NOJg/180s.jpg",
+                "address": "Boca Raton, FL",
+                "friends": 35,
+                "photos": 17,
+                "reviews": 77
+            },
+            "comment": {
+                "text": "Came here with my wife and daughter on a Friday night and had a very good experience.   We started out with the Crispy Calamari which was very good (but I wish it had a few extra pieces).  \n\nWe got 4 rolls: 24k, Hanabi, Garlic Pepper Toro, and Ocean 6.  The 24k roll was the star of the show and was amazing.  Hanabi was very good crispy rice but not the best I have had.  The Ocean 6 was very good, but I wasn't the biggest fan of the Garlic Pepper Toro.  \n\nWe had the Chocolate Mil Crepes for desert.  My wife and I liked it a lot, but my daughter was mixed.  It isn't very sweet (like most asian deserts), so you need to have that expectation.\n\nOverall we really liked the place and would go again.",
+                "language": "en"
+            },
+            "date": "2023-10-16T00:05:33Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Sally W.",
+                "user_id": "7kUlTqtW4kE7Cdnv_J5lug",
+                "link": "https://www.yelp.com/user_details?userid=7kUlTqtW4kE7Cdnv_J5lug",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/mO2oj9VxvzOGWBM9wQoywQ/180s.jpg",
+                "address": "South Loop, Chicago, IL",
+                "friends": 0,
+                "photos": 17,
+                "reviews": 6
+            },
+            "comment": {
+                "text": "We went here for date night -- the decor and ambiance was perfect for that. Our waiter was attentive and helpful and waters were refilled. The food however, could have been better. For our appetizer, we got the king salmon tartare which I wished was a little more tart and salty. Then we ordered the spicy scallop roll, MR roll and sushi-sashimi. The spicy scallop roll was a miss for me; the \"scallop\" comes separately in a chunky oily sauce in a sauce pitcher that you pour over the roll. There was barely any scallop and the consistency of the sauce was somewhat off putting and the taste was not impressionable. The MR roll was good and the salmon skin added a nice crunch. My favorite was probably the sushi- sashimi entree because the sashimi was fresh.\nWe also ordered the lychee martini and Okinawa sunrise which were great!",
+                "language": "en"
+            },
+            "date": "2024-03-10T03:44:45Z",
+            "rating": 4,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rOWUbI3YA2wHmsgsWcqBYA/o.jpg",
+                    "caption": "Sushi-sashimi: 1 spicy tuna roll, 6 nigiri, 12 sashimi"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zKx-odN2hGctlvlz5flTNQ/o.jpg",
+                    "caption": "Spicy scallop (top), MR roll (bottom)"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2V27svRD_jTFApdFK61lBA/o.jpg",
+                    "caption": "King salmon tartare"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aMRHY1ZlWRfxKVZzh41a7w/o.jpg",
+                    "caption": "Lychee martini & Okinawa sunrise"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Chandrika R.",
+                "user_id": "fl2Wai4AMGImxqo81gu_-g",
+                "link": "https://www.yelp.com/user_details?userid=fl2Wai4AMGImxqo81gu_-g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/jegpEgilBBdFpfhbnIwpGQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 25,
+                "photos": 385,
+                "reviews": 187,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I expected Tomo to be good bc of all the rave reviews, but it far exceeded my expectations!  The HANABI is a must try!  It has so much flavor, I could have eaten just that til I was full and been happy!  I'm glad I didn't though bc the Chirashi was fresh, and the garlic pepper toro was fantastic!  The valentines dessert was so good we actually ordered a second one. Our waitress was attentive as was all the staff. They balanced good service with efficiency really well.  The surprising part was the bill!  We had five glasses of wine, an app, 2 entrees, and 3 desserts for under $200.  Amazing!  Will definitely be back!",
+                "language": "en"
+            },
+            "date": "2024-02-18T20:55:18Z",
+            "rating": 5,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/98_jVpOYRMDglnLCGep9lw/o.jpg",
+                    "caption": "HANABI"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sjj_hGNWyzHjj5n2A3QWpw/o.jpg",
+                    "caption": "Valentine's dessert"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8qOXmWvALCCDa1Ys4Y6qPw/o.jpg",
+                    "caption": "Chirashi"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AXl4CH5NP52Kx-KPBd7m_w/o.jpg",
+                    "caption": "Yuzu sorbet"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/q3nQgSVT1gMyLL-fpd9y1Q/o.jpg",
+                    "caption": "Garlic Pepper Toro Roll"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jeff M.",
+                "user_id": "SEpb5M-em5b0Vlmy2-eB6g",
+                "link": "https://www.yelp.com/user_details?userid=SEpb5M-em5b0Vlmy2-eB6g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/a1x4tpKhZ66pixAtD93ncQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 3,
+                "photos": 36,
+                "reviews": 110,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Best sushi lunch in Atlanta.  Probably the best lunch deal too for price and quality. Authentic Japanese sushi place formerly located in Cobb County for years before relocating to Buckhead a dozen years ago.  We got the sushi lunch and chirashi don. Ambience is great for business lunches or quiet enough to get away from it. Bar is good spot to sit down if solo but the sitting area is spacious enough despite the long row bench. TV usually playing sports to distract you. Staff is attentive and quick; they understand that some people can't take a three hour lunch so food comes out relatively quick too.  Dinner is a bit different vibe and there are other choices in the area but for lunch?  No question come here for a good meal.",
+                "language": "en"
+            },
+            "date": "2024-01-23T02:16:34Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qYEogWzj8yET9DG2wQgZfA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sT31L0Q09Dgup07_Bn6kJw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Kimberly J.",
+                "user_id": "9PnfFn-ksB9hKsJLbUovmg",
+                "link": "https://www.yelp.com/user_details?userid=9PnfFn-ksB9hKsJLbUovmg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pe2nmGeGDRv2gzb3jbPiUA/180s.jpg",
+                "address": "Buckhead, Atlanta, GA",
+                "friends": 3,
+                "photos": 35,
+                "reviews": 79,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Tomo Japanese Restaurant is conveniently located in Buckhead. A few years back, Tomo had amazing service however due to changes in staff, longer waits to be seated. The Bento box, I had for lunch, was good, however their has been long wait times before the food arrives to the table. The Resturant Ambiance is nice and clean. They have Valet Parking with a Safe Environment.",
+                "language": "en"
+            },
+            "date": "2024-02-21T02:40:01Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Rich V.",
+                "user_id": "jpvMnToAIQtcw-dNi5EUkw",
+                "link": "https://www.yelp.com/user_details?userid=jpvMnToAIQtcw-dNi5EUkw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3mgPr94ms9GdpmJIF3nuiw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 349,
+                "photos": 1039,
+                "reviews": 339,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "This is my first review since Tomo transitioned to new management. San and Martin are now owners in the business and directly involved in the business. \n\nInterior design and aesthetics have been refreshed and are tastefully done with nice attention to detail. The menu has been revamped, but all of my favorites have been retained, which is key: kampachi Serrano, kimi dai, shima ahi, etc!  They have added some fun new menu items, reflecting more innovation and new ingredients like A5 Wagyu. This has broadened the menu. \n\nFront of house is still solid. We still mostly work with May, but Tee and Taya remain and many new quality servers have joined. \n\nI'd request management to broaden out their sake list and introduce  more innovative cocktails.",
+                "language": "en"
+            },
+            "date": "2023-10-08T23:45:53Z",
+            "rating": 5,
+            "tags": [
+                "4 photos",
+                "100 check-ins"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KTZaUQq0uAkT3TEb1KXnHQ/o.jpg",
+                    "caption": "Tuna Avocado Sashimi Salad!  A must have!!!"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0k4f0ggyeLbfKi022IFYag/o.jpg",
+                    "caption": "Shima - Aji Spicy Carpaccio"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QUkgr1HRfodwB3lCtj-vaA/o.jpg",
+                    "caption": "Cheerful attention to detail"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E9oBxGK5cRey8LpoXmwMjg/o.jpg",
+                    "caption": "Love the attention to detail and beauty"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Siddhartha S.",
+                "user_id": "RDBS20h9Tf6R9orHnvR0hQ",
+                "link": "https://www.yelp.com/user_details?userid=RDBS20h9Tf6R9orHnvR0hQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ajJkYUfBCy1arXjCtDNA8w/180s.jpg",
+                "address": "Buckhead, Atlanta, GA",
+                "friends": 57,
+                "photos": 171,
+                "reviews": 27,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I cannot believe I have waited so long to try this place. The ambience is classy and calls for a nice dine out. Our waitress was attentive and her suggestions were amazing - whatever she recommend was spot on and left us wanting even more! The food was to die for.. the sushi and the ceviche were fresh and so flavorful. And the dessert at the end - especially the chocolate moose crepe - perfect way to finish a meal.\n\nWill definitely be back again.",
+                "language": "en"
+            },
+            "date": "2023-08-07T15:11:54Z",
+            "rating": 5,
+            "tags": [
+                "9 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YoteYAnE-kZNuKqWK54M_w/o.jpg",
+                    "caption": "Wine Martin Codax Albarino , Rias Baxias , Spain"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1EIPrdeffXstHC3u2u6iZA/o.jpg",
+                    "caption": "Garlic Yellow Tail"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2k0A1iMa_EZJrpwZoEZjnw/o.jpg",
+                    "caption": "Truffle fries"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5Cp5ES_Tpsa6o0ISXYGqQw/o.jpg",
+                    "caption": "Squid Rings"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KTLAyaZ77fwSi2zcMvIdQw/o.jpg",
+                    "caption": "Inari California Rolls House Special Lobster Rolls"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hMu7NEg4bpV-yeDkkt8AQQ/o.jpg",
+                    "caption": "Chocolate Mil Crepes"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7aVz_KjydEczjKoXhgMj4w/o.jpg",
+                    "caption": "Kimme - Dai Sashimi"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/31Rd7eZqEqbpdn5TZLqXAw/o.jpg",
+                    "caption": "Salmon Caviar"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hvx89F7-Fz0P6EThLcg7oQ/o.jpg",
+                    "caption": "Ce Salmon Caviar Salmon Caviar"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Anna Claire S.",
+                "user_id": "GgBLwJCLtJXbDH3mztngqg",
+                "link": "https://www.yelp.com/user_details?userid=GgBLwJCLtJXbDH3mztngqg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5UntJflRcbP5KAiOvcWJVQ/180s.jpg",
+                "address": "GA, GA",
+                "friends": 16,
+                "photos": 138,
+                "reviews": 50
+            },
+            "comment": {
+                "text": "Wow! First time at tomo and it has quickly become my new favorite sushi restaurant in Atlanta. The food was incredibly fresh and delicious. Our waitress was super helpful and guided us throughout the experience. Great date night vibes.",
+                "language": "en"
+            },
+            "date": "2024-01-14T17:34:37Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UX49ZA00KHXHIT97G89Gqw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Meghan M.",
+                "user_id": "lgWB0yGXpZvupYREWxtV7g",
+                "link": "https://www.yelp.com/user_details?userid=lgWB0yGXpZvupYREWxtV7g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OCTiJwvjoK81WoDwsTkFvA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 172,
+                "photos": 70,
+                "reviews": 112
+            },
+            "comment": {
+                "text": "Hey, many years later, still delicious and I want to live in this restaurant and eat all the yummy food everyday.",
+                "language": "en"
+            },
+            "date": "2023-12-17T23:18:34Z",
+            "rating": 5,
+            "tags": [
+                "6 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WDOKdzyRxpdxR-blZkJaPg/o.jpg",
+                    "caption": "Crepe cake full of pillowy chocolate deliciousness."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lw0FqTJTDU8cf5f5ryP7fg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2ZAN_C6sIJ9aFOpz_ff3bg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8H5XbBKJEnMesfLw9kQPKA/o.jpg",
+                    "caption": "Japanese Snapper"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jbBbCH0PSoJRX3cBaIzqOg/o.jpg",
+                    "caption": "SASHIMI"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yfBXmGil2oPSBEbFlG5XOw/o.jpg",
+                    "caption": "Shishito peppers and LAMB CHOP App"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Arpita B.",
+                "user_id": "bG4EeVOCEXnvTtZTI2GVsg",
+                "link": "https://www.yelp.com/user_details?userid=bG4EeVOCEXnvTtZTI2GVsg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3swcRoG1SGoUo_FpX8bhMA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 387,
+                "photos": 3167,
+                "reviews": 237,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "If you love sushi, this is a must try! I am surprised, took me so long to come Tomo! The restaurant itself, screeches, elegance, and beauty. There's definitely falls safely in the fine dining category.\nOur server was super attentive, and made some excellent suggestions. The flow of our food and wine was just perfect( didn't feel too rushed nor too slow)\nFor appetizers we started off with the truffle fries( must have), tuna tartare,Shina aji spicy carpaccio, beef tataki. I can't decide which appetizer I like the most. each was unique and absolutely delicious!\nFor sushi we tried Mr. Roll, hanabi,98 degrees and ocean 6 roll. The last roll was my favorite. \nWe rounded up with the bread pudding chocolate cube and chocolate crepes for dessert. I definitely enjoyed the bread pudding the most.\nOnly downside is that they do not validate parking( we paid $12) however, we were told later that they were stamp the valet ticket. \nOverall: a fantastic experience! Will definitely come back.",
+                "language": "en"
+            },
+            "date": "2023-08-06T05:38:49Z",
+            "rating": 5,
+            "tags": [
+                "10 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4tJ9G_vay6p8td2IhriJaA/o.jpg",
+                    "caption": "Calamari"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yF5uJRHpWZnoUW9XuuRNNQ/o.jpg",
+                    "caption": "Mr. Roll"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mS29zEGc758KD0WptQu4vw/o.jpg",
+                    "caption": "Tuna Tartare"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VM2ZakmwPdc73N6y8cHRPg/o.jpg",
+                    "caption": "Shima - Aji Spicy Carpaccio"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IaZa9SrRvuvbQVPbRlMxyA/o.jpg",
+                    "caption": "Warm Bread Pudding and Chocolate Mil Crepes"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pRBZusXx1qUk7Vh_yWtZQA/o.jpg",
+                    "caption": "Tomo Tataki beef"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4I5pv_654JTIc7bA5imWrQ/o.jpg",
+                    "caption": "Ocean 9, hanabi and 98 degrees ( left to right)"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8iSlnGCzA316MAph2WzO7g/o.jpg",
+                    "caption": "Chocolate Mil Crepes and Chocolate Cube"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6yUiZCI-XB_aPSizdybyCQ/o.jpg",
+                    "caption": "Dashi"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XgMVp1oyMR-YVH4lPz_2tA/o.jpg",
+                    "caption": "Truffle fries"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Faizneen B.",
+                "user_id": "Bra75ZfTkW1Alr78QhKQaw",
+                "link": "https://www.yelp.com/user_details?userid=Bra75ZfTkW1Alr78QhKQaw",
+                "address": "Westlake Village, CA",
+                "friends": 6,
+                "photos": 26,
+                "reviews": 78
+            },
+            "comment": {
+                "text": "Great sushi , service and drinks. Valet parking is validated and garage self  parking is not",
+                "language": "en"
+            },
+            "date": "2024-02-29T23:20:59Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Marline W.",
+                "user_id": "t8v0gsXCLkwNXqInCmomhQ",
+                "link": "https://www.yelp.com/user_details?userid=t8v0gsXCLkwNXqInCmomhQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0DkpMhvf_1bCLEKLLpUYXg/180s.jpg",
+                "address": "Coney Island, Brooklyn, NY",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 20
+            },
+            "comment": {
+                "text": "Excellent place. We had the sashimi, sushi, a California roll along with wagyu and asparagus. All the food was prepared perfectly and even though the place was packed and we didn't have a reservation, they still got us in and service was great.",
+                "language": "en"
+            },
+            "date": "2024-01-10T00:10:29Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Llew B.",
+                "user_id": "E8lwFfKC0rwWzaSpkpR2pA",
+                "link": "https://www.yelp.com/user_details?userid=E8lwFfKC0rwWzaSpkpR2pA",
+                "address": "Chattanooga, TN",
+                "friends": 1,
+                "photos": 3,
+                "reviews": 33
+            },
+            "comment": {
+                "text": "Arrived a little early and was seated immediately.. nice and quiet and waitress was prompt. We ordered two dirty martinis and water and once again the service was quick and the drinks were excellent.. ordered three appetizers and they came in an orderly fashion and all were excellent... second martini and main course ordered and once again it was timely and delicious.. love that I could sit across the table from my wife and have a conversation with out yelling!! Recommend this place!!",
+                "language": "en"
+            },
+            "date": "2024-02-18T09:35:48Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jennifer N.",
+                "user_id": "EuMpzk8CRzWMg0cUMdTqeA",
+                "link": "https://www.yelp.com/user_details?userid=EuMpzk8CRzWMg0cUMdTqeA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5mXRWPw5zCr_dO4e-zeddw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 11,
+                "photos": 0,
+                "reviews": 9
+            },
+            "comment": {
+                "text": "Hubby and I came here on a Friday night.  We had the chef's special Toro with garlic and pepper at the recommendation of our server who was spot on with her suggestions.  Toro is the fatty part of the tuna belly and was melt in your mouth, almost buttery.   We shared the sushi sashimi plate that included various nigori and sashimi plus a roll.  Since we started the the sesame spinach and crunchy seaweed salad-it was plenty of food.  We finished with black sesame ice cream which was delicious-- kind of like pistachio.  The best Japanese food this side of the Pacific!  Try it!",
+                "language": "en"
+            },
+            "date": "2023-11-18T02:28:49Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Paulina A.",
+                "user_id": "k7nA1n6AFp3lnLOJAdJ4rg",
+                "link": "https://www.yelp.com/user_details?userid=k7nA1n6AFp3lnLOJAdJ4rg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Pd9-n9QbX0SINATTJurwww/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 204,
+                "photos": 1385,
+                "reviews": 1051,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Tomo is a sleek and classy Japanese restaurant located on the first floor of an office building off Peachtree Rd NE. It's kind of hidden. They offer valet and validated self-parking for 2 hours. \n\nWe had reservations and had to wait a few minutes to be seated as they were preparing our table. The ambience is sleek and modern, perfect for a dinner date. Our waitress was so sweet, funny, and very attentive--she was always checking on us. I started with the sour apple cocktail, which was sweet like a candy and my friend had the vodka soda. We tried the shrimp and vegetable tempura appetizer and it was was served hot and tasty. \n\nWe decided to share a couple rolls: the yellowtail roll and soft shell crab roll. The yellowtail was good but mostly consisted of rice with a small portion of fish inside. The soft shell crab was flavorful but each bite was massive so I had to take it apart and eat it piece by piece. We ended the night with the chocolate crepe cake, it's a unique dessert--very strong dark chocolate and cocoa powder flavor. I had the lavender mimosa cocktail as a nightcap and it was nice, tasted like a bubbly champagne. Overall, not the best sushi I've ever had but a nice restaurant to visit for the ambiance and wonderful service.",
+                "language": "en"
+            },
+            "date": "2022-03-19T14:09:12Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NoJSq_YoyMISkv27cQj_uw/o.jpg",
+                    "caption": "Sushi Bar"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tDYTTzUzUbE0rqO2EYBT-g/o.jpg",
+                    "caption": "Lobby"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/U2FMjZz9Ar23-MEbK6o-Pg/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 3,
+                "funny": 0,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "LaShea R.",
+                "user_id": "0KfONFZr6poVtOBGakbCkA",
+                "link": "https://www.yelp.com/user_details?userid=0KfONFZr6poVtOBGakbCkA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/R21raUw-nhKD314_opxdbg/180s.jpg",
+                "address": "Brookhaven, GA",
+                "friends": 93,
+                "photos": 57,
+                "reviews": 80
+            },
+            "comment": {
+                "text": "Honestly, to put it plainly I cannot wait to return to Tomo. I thoroughly enjoyed my meal. My waitress was so lovely, the sushi chef was kind, and the food was delicious. I enjoyed the spring mix salad, shrimp tempura with veggies, eel, smoked salmon, toro as nigiri, Kampachi Serrano and the garlic yellow tail roll. \n\nThe tempura was the best I experienced since living in Japan. Seriously, finally a restaurant that has the perfect texture and crunch of tempura, and I was sooo impressed to see the butter nut squash and sweet potato tempura. Since moving back to the states, every time I order tempura veggies, I would almost think to myself, where is the sweet potato and butternut squash. \n\nUpon my arrival I planned out my order but next time I will indulge in the chefs specialty menu for sure. \n\nI look forward to my next visit.",
+                "language": "en"
+            },
+            "date": "2022-10-23T00:57:42Z",
+            "rating": 4,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uj5mPRuQEXha5sioIVs2Kw/o.jpg",
+                    "caption": "Toro"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MVL7TKlY1h3AxIZhxdRqog/o.jpg",
+                    "caption": "Toro Eel Smoked Salmon Garlic Yellow Tail"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zf42pNF13KJ7zt9Gk2dS8A/o.jpg",
+                    "caption": "Shrimp Tempura"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YpqgdlxL4JfEXyoKCtmbsw/o.jpg",
+                    "caption": "Kampachi Serrano"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "peachy e.",
+                "user_id": "O3L3QYc1x4IUx2A2NHbuJw",
+                "link": "https://www.yelp.com/user_details?userid=O3L3QYc1x4IUx2A2NHbuJw",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 2,
+                "reviews": 23
+            },
+            "comment": {
+                "text": "Service was great. Food was so yummy! I really enjoyed all\nThe rolls and the drink was spot on. \nMitz was an amazing server and really shined during our lobster Tempura app!",
+                "language": "en"
+            },
+            "date": "2023-11-23T01:59:08Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Paul Y.",
+                "user_id": "BC_BquqCjkceDoNLpRM57g",
+                "link": "https://www.yelp.com/user_details?userid=BC_BquqCjkceDoNLpRM57g",
+                "address": "Buckhead, Atlanta, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "what an amazing find!  everything was wonderful.  I would definitely come again.  btw, they have a great live band.  great spot for Valentines Day",
+                "language": "en"
+            },
+            "date": "2024-01-25T01:01:30Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Johnathan L.",
+                "user_id": "s8VCQIV1EdNf6mta-HdFpQ",
+                "link": "https://www.yelp.com/user_details?userid=s8VCQIV1EdNf6mta-HdFpQ",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 1,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "Wonderful service! Food is amazing! Bar staff was delightful. The drinks were made specifically for my palette and recommended the best items on the menu. HANNAH was freaking spectacular-dacular. Jay saved my cat from a tree. Candy was so sweet to me.",
+                "language": "en"
+            },
+            "date": "2024-01-26T21:42:49Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Amy G.",
+                "user_id": "xyY1hxN31qKThaYeZWlD3w",
+                "link": "https://www.yelp.com/user_details?userid=xyY1hxN31qKThaYeZWlD3w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ibVmkJlK2XM-TSeH3urqCA/180s.jpg",
+                "address": "St. Petersburg, FL",
+                "friends": 78,
+                "photos": 770,
+                "reviews": 293,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "As an out of towner, I forgot how good fresh sashimi taste.   The server pointed out that my fish was brought in fresh that day.  \n\nThe elegant restaurant is wide open, high ceilings with outdoor balcony seating.  I chose to seat at the bar since I was alone in town on business.  \n\nThe presentation of the food was gorgeous. The pictures don't do it justice. \n\nThe staff was great, food fabulous, a little pricy yet worth it.",
+                "language": "en"
+            },
+            "date": "2021-08-03T23:38:33Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KVZlJBunDYCuNXwhNRNqjw/o.jpg",
+                    "caption": "Salmon roe beautifully displayed"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tLYamWj2C4WmLjJ7zeO8uQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/q4eeDGsUmPUq4fzQTU24QA/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 5,
+                "funny": 1,
+                "cool": 4
+            }
+        },
+        {
+            "user": {
+                "name": "Ashley M.",
+                "user_id": "YMYb73K3Dv3oiac4mADJSg",
+                "link": "https://www.yelp.com/user_details?userid=YMYb73K3Dv3oiac4mADJSg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sGoA4FMUvPPCltVeef7Zxw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 935,
+                "photos": 2904,
+                "reviews": 705,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "What a lovely birthday meal! \n\nMy girlfriend and I dined here last night for a belated birthday celebration. We arrived at 5:30 for a 6pm reservation. We anticipated having to wait but luckily the restaurant was pretty empty and we were seated right away. We were greeted by three smiling faces upon arrival and very friendly customer service throughout our entire meal.\n\nSince we haven't seen each other face-to-face for a year, my girlfriend and I had a lot to catch up on! Between chatting and eating, our meal lasted 2.5 hours but the restaurant was fairly empty and we were never rushed to finish our meal or leave. We enjoyed two glasses of Malbec - they have a great one here - and powered through a ton of food. \n\nWe asked the server for her recommendations and she did not steer us wrong. We devoured the following:\n\n- SNOW CRAB JALAPENO: snow crab rolled in cucumber, cilantro,\ngarlic jalapeno sauce\n- KAMPACHI SERRANO: 6 slices of kampachi sashimi, garlic, thinly\nsliced serrano pepper, yuzu soy sauce.\n- SUSHI-SASHIMI: 1 spicy tuna roll, 6 nigiri, 12 sashimi\n- SASHIMI: 16 pc chef's choice\n- HOUSE SPECIAL: tuna, yellowtail, salmon, white fish, smelt egg, eel, avocado\n- SPICY SCALLOP: seared scallop, arugula, spicy mayo, smelt egg, shiitake, avocado\n\nOur entire meal was very delicious! Our hands-down favorite was the Kampachi Serrano, followed by the snow crab jalapeno. The sashimi platters were beautiful and very fresh. We both didn't really care for the two rolls - and the server says they are the two most popular rolls, so maybe pass on the rolls next time. \n\nFinally, they surprised me with a mille crepe cake for dessert! How sweet.\n\nPS. They validate parking for two hours. \n\nEnjoy!",
+                "language": "en"
+            },
+            "date": "2021-03-11T21:08:01Z",
+            "rating": 4,
+            "tags": [
+                "9 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ShXKDugcXPU3eZBcW99PFg/o.jpg",
+                    "caption": "KAMPACHI SERRANO 6 slices of kampachi sashimi, garlic, thinly sliced serrano pepper, yuzu soy sauce."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IMT6k3SKax9z3QizJ2BduQ/o.jpg",
+                    "caption": "KAMPACHI SERRANO 6 slices of kampachi sashimi, garlic, thinly sliced serrano pepper, yuzu soy sauce."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JOZNB8Do6HZwfgEnU9AItQ/o.jpg",
+                    "caption": "Top: KAMPACHI SERRANO Bottom: SNOW CRAB JALAPENO"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/T-zoQhLY-bsqNirM7rQ8dg/o.jpg",
+                    "caption": "SNOW CRAB JALAPENO snow crab rolled in cucumber, cilantro, garlic jalapeno sauce"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vqUiuAaKeS4iYp-72540JQ/o.jpg",
+                    "caption": "SNOW CRAB JALAPENO snow crab rolled in cucumber, cilantro, garlic jalapeno sauce"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yfvFrCFH6N2cwWQucuV41A/o.jpg",
+                    "caption": "Salad + Soup included with entree order."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Gntdicat0mergP2DllkoBQ/o.jpg",
+                    "caption": "Server Recommendations -  Top: HOUSE SPECIAL tuna, yellowtail, salmon, white fish, smelt egg,eel, avocado Bottom: SPICY SCALLOP"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0Y3YzfyXb9VscCmPCCE_mQ/o.jpg",
+                    "caption": "SASHIMI  16 pc chef\u2019s choice"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/woBnZUznuFnfc26cYBa7zg/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 6,
+                "funny": 0,
+                "cool": 3
+            }
+        },
+        {
+            "user": {
+                "name": "Terry D.",
+                "user_id": "dX2q2DUz7EVrSa3kHM2rNw",
+                "link": "https://www.yelp.com/user_details?userid=dX2q2DUz7EVrSa3kHM2rNw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ItcgBbHx1W4QdXwlrpHptg/180s.jpg",
+                "address": "Norcross, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "Tomo was a great restaurant for lunch out. I was coming from Norcross and it only took 30 minutes. We did make a reservation and were served immediately. The food was fresh, attractive and very flavorful! I chose the Teriyaki salmon and it was good to the last bite. The soup, salad, and sides included sushi, shrimp, sea weed, seasoned noodles. I highly recommend sweet potato fries with a delicious sauce for an appetizer. We could not resist the chocolate mouse and devoured it! Such a beautiful, classy restaurant with impeccable service. I  would go again!",
+                "language": "en"
+            },
+            "date": "2023-03-31T13:54:39Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Chloe A.",
+                "user_id": "4Qj62d7nKsJcsodEk5iPCQ",
+                "link": "https://www.yelp.com/user_details?userid=4Qj62d7nKsJcsodEk5iPCQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XBUw485TLacmFEjxwaqDHQ/180s.jpg",
+                "address": "Westmont, IL",
+                "friends": 0,
+                "photos": 11,
+                "reviews": 3
+            },
+            "comment": {
+                "text": "Lovely quiet spot for our anniversary dinner on a Monday night, + bonus points for Peggy Gou playing as we were seated. We ordered the Murasaki Truffle Fries, Okra Tempura, King Salmon Tartare, Amaebi nigiri, Japanese Mackerel nigiri, Chutoro nigiri, Toro nigiri, and the Hanabi Crispy Rice Spicy Tuna. The fries and okra were coated in a light, well-seasoned tempura batter that was fried to a very satisfying crisp. We especially loved the fries with the aioli. The King Salmon tartare was the perfect salmon fix for our sushi dinner, and a refreshing way to enjoy the high-quality fish, which was balanced with yuzu and salt. All of the nigiri was fresh and buttery, the shrimp heads had the best texture and the Chutoro was the favorite for sure. The Hanabi was one of the best versions I've had for sure, not too spicy and the rice was fried nicely without being sticky. We finished with the Warm Bread Pudding, which was silky and custardy, cooled off and paired with a scoop of vanilla.",
+                "language": "en"
+            },
+            "date": "2023-06-06T02:06:22Z",
+            "rating": 5,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sgSVvrX7TwRBYsfLrDAPbg/o.jpg",
+                    "caption": "Hanabi Roll (Spicy Tuna Crispy Rice)"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_Xow9Gh-F8Q0bfuGh-rRNQ/o.jpg",
+                    "caption": "Amaebi, Japanese Mackerel, Toro, Chutoro Nigiri (left to right)"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/J-y7Akfe0BVGWdVpHauEgA/o.jpg",
+                    "caption": "Okra Tempura"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Fd3MeutSNG1wlnIbDvSrCQ/o.jpg",
+                    "caption": "Murasaki Truffle Fries"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZBS2eA7zSG2sJM4Jtj99_g/o.jpg",
+                    "caption": "King Salmon Tartare"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Melody H.",
+                "user_id": "3lB3t5LhMPkoPikmdWSaPw",
+                "link": "https://www.yelp.com/user_details?userid=3lB3t5LhMPkoPikmdWSaPw",
+                "address": "Parsippany-Troy Hills, NJ",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "Mitch was super professional explaining all the details and tasting option for us. Food are very fresh, and every bite is a different experience, and complex layers of flavors.",
+                "language": "en"
+            },
+            "date": "2023-11-02T00:31:08Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Christopher M.",
+                "user_id": "XgRlkMS91UZiJ5xPtjJcTA",
+                "link": "https://www.yelp.com/user_details?userid=XgRlkMS91UZiJ5xPtjJcTA",
+                "address": "SoMa, San Francisco, CA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "amazing spot, great food, bar! Service was fantastic. Olivia and Jay are fantastic at the bar - highly recommend eating at the bar!!",
+                "language": "en"
+            },
+            "date": "2023-11-05T01:44:02Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "LaRhonda C.",
+                "user_id": "UePRGhHlNpGdSzXgkQC_8Q",
+                "link": "https://www.yelp.com/user_details?userid=UePRGhHlNpGdSzXgkQC_8Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kKE-jT2yrJASIdMfyNZp-g/180s.jpg",
+                "address": "Alpharetta, GA",
+                "friends": 37,
+                "photos": 20,
+                "reviews": 46
+            },
+            "comment": {
+                "text": "I would recommend this restaurant if you are looking for a quiet/romantic date night. There were lots of options and everything was super fresh.",
+                "language": "en"
+            },
+            "date": "2023-03-08T18:17:17Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Jeannette V.",
+                "user_id": "Nao3zkxDTywf4V7mR7496w",
+                "link": "https://www.yelp.com/user_details?userid=Nao3zkxDTywf4V7mR7496w",
+                "address": "Downtown, Atlanta, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "My friend and I wanted to have a  late lunch and we wanted sushi, so we headed to Tomo in Buckhead. the website showed their hours for lunch as  11-2 weekdays. well, we arrived at 1:5O and the doors were locked. when we tried the door the hostess came over and opened the door, but she said they were closed until dinner.  When we explained that we had been informed that they were open until 2, her response was \"sorry\". \nTerrible customer service. they have lost our business. we went to a smaller sushi restaurant nearby and had a great time and meal. will never \"Tomo\" again!",
+                "language": "en"
+            },
+            "date": "2023-03-13T22:21:15Z",
+            "rating": 1,
+            "feedback": {
+                "useful": 0,
+                "funny": 1,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Sharon M.",
+                "user_id": "PO6pJxnGxTBz_sSUO7jIkg",
+                "link": "https://www.yelp.com/user_details?userid=PO6pJxnGxTBz_sSUO7jIkg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Lluou7bcmRlQmAlC1UpI4g/180s.jpg",
+                "address": "Los Angeles, CA",
+                "friends": 0,
+                "photos": 1,
+                "reviews": 8
+            },
+            "comment": {
+                "text": "\"Tomo\" is our favorite sushi restaurant in Atlanta, hands down. The food is HEAVEN, the service is impeccable, and the ambiance is unparalleled (And we know our sushi well as my husband is half-Japanese)!! While modern & upscale,\" \"Tomo\" feels high-end without being pretentious - It's a warm, welcoming, and down-to-earth place while still being sophisticated. Above all else, I must say that \"Tomo\" has something that no other restaurant has and that's Candi Hoang, the restaurant's owner. Candi has personally gone above and beyond to take care of our family, to accommodate very special circumstances, and go to every extra length to ensure we have a perfect and enjoyable experience. She truly cares about her staff and her customers, and she is a rare gem of service, kindness, and compassion. \"Tomo\" is what it continues to be because of Candi and we will absolutely be returning for years to come because of the experience she ensures. Run, don't walk, to this spectacular place. You'll enjoy every second!! \n\nThanks, Candi! You're the BEST. :) \n~ S + N",
+                "language": "en"
+            },
+            "date": "2023-06-18T09:12:44Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Cindy T.",
+                "user_id": "l_KCiv1LVHfYMxuBUJEHjQ",
+                "link": "https://www.yelp.com/user_details?userid=l_KCiv1LVHfYMxuBUJEHjQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6jf4OKSJIOZutAgzG-pPeg/180s.jpg",
+                "address": "Peachtree Corners, GA",
+                "friends": 940,
+                "photos": 681,
+                "reviews": 483,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Ever laugh when your dishes come out because the portion size was designed for ants?\n\nWe ordered 10+ dishes and I went home to eat instant ramen cause I was still STARVING. This is not the place to go if you like normal portions of food. If you enjoy nibbling here and there, that's perfectly fine. The cod lettuce wrap was a single bite. Literally. The tuna tartare was the size of a half dollar coin. Even the miso soup was served in a bowl meant for a kids tea party. I felt like a giant eating all this miniature food! \n\nGreat ambiance. Gorgeous restaurant. Valet parking and self-parking via parking date is available. They do validate your parking. \n\nWe had a great time but I'm the type of girl who EATS and the portions here just did not do it for me. Food was good but nothing that WOW me. \n\nOverall, great spot to take a date and plan to go grab some burgers or late night eats afterwards.",
+                "language": "en"
+            },
+            "date": "2021-09-23T05:28:08Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 6,
+                "funny": 3,
+                "cool": 3
+            }
+        },
+        {
+            "user": {
+                "name": "Annie M.",
+                "user_id": "ouBBPw3u_ALDVg2BIZ7rrA",
+                "link": "https://www.yelp.com/user_details?userid=ouBBPw3u_ALDVg2BIZ7rrA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/elr09LjGZ0C2dcPneRsZsA/180s.jpg",
+                "address": "Marietta, GA",
+                "friends": 220,
+                "photos": 3649,
+                "reviews": 565,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I can't say enough good things about Tomo the restaurant OR Chef Tomo. \n\nI was blown away by Chef Toni's creativity & the obscenely good food we experienced here! \n\nWe did omakase for my birthday and it was a whole event. We met another couple doing omakase who are regulars and all the staff knew them so we were all talking and having a great time together. \n\nChef Tomo told us about each course from our personalized menu as he presented each one and carefully crafted each plate. He also shared stories about the origin of the fish or dish & his travels across the US/Japan. He's lived in so many places so if you get the opportunity, ask this man about his life! Super interesting! \n\nCliff, the manager, was wonderful to work with. Before the reservation, he asked my fiance a few questions about our budget & the experience in general to prepare us for the night. \n\nWe tried many new things and realized we know nothing. \n\nChef Tomo told us what to eat from each dish & pretty much everything on each plate was edible. Of the amaebi, we ate the entire shell. The head was fried in sea salt & literally just like a softshell crab. IDK how but it was delicious. He seared the body & added caviar (from...Syria? I'm not sure) + shiso leaf & if it wasn't the best prawn I've ever had.. \n\nWe tried ayu fish and I totally get why people are obsessed. It was buttery and flavorful & we ate the whole fish on the plate, tail and all. I wanted to uneat it just to eat it again. \n\nWe tried lobster nigiri which is super rare to find but Tomo does it! \n\nWe had lamb stuffed with foie gras & I've always thought I hated foie gras but literally it was just that I hadn't had Tomo's \n\nThe japanese red snapper nirigi was perfect with the shiso leaf, bonito nigiri was so smooth & flavorful... Toro nigiri was the kind you needed to get a room with, so tender, utterly delicious & buttery. \n\nWe tried kobe beef for the first time & it was like meat flavored butter. Like, we started laughing when we ate it! Definitely couldn't eat that kind of steak every day but it was certainly a treat. \n\nIt's so hard to pick a favorite because it was all so good.\n\nI definitely think everyone should try Tomo and omakase if you can. They have prices starting at $125/person & will discuss budget with you ahead of time \n\nIt's beside the Ritz Carlton & the doors say Tomo on them so look for those after you leave your car with the valet",
+                "language": "en"
+            },
+            "date": "2020-10-27T22:50:48Z",
+            "rating": 5,
+            "tags": [
+                "10 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/husrnroYqoH54IGYKNxyxQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xw8kfNy1cuCPKnBvWeQmLg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Hbi4m8nUvkRT3mZcBWFbYg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UutcmYepPUDzoVYLDBaElw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kra4OsrqUhoI7QJMpYqgCw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oIX9tr7-IGF218xz8vuGfw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/piAHJnklzWrVd4SHkx2CRw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ahI7Oy_6zgsyd9GCzhcoMA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IJBwdIfXCd4v6r9826qJFw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E5RDZ0ib70mCtTo2pTjtWQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 1,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Enrica D.",
+                "user_id": "W62_6gn0-EWf4LO_1jUz1Q",
+                "link": "https://www.yelp.com/user_details?userid=W62_6gn0-EWf4LO_1jUz1Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6y5ZCyYTNuacsp2qJrGUcQ/180s.jpg",
+                "address": "Acworth, GA",
+                "friends": 134,
+                "photos": 1003,
+                "reviews": 166,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Sashimi was great!  as well as the rolls.\nThe hot kitchen food and appetizers were good but we had to wait for longer than usual time. I was almost finished with my sashimi before our appetizers arrived.",
+                "language": "en"
+            },
+            "date": "2020-10-27T12:58:05Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GgbNUUjz5GY24MuRzuGUYQ/o.jpg",
+                    "caption": "Sashimi was great!"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Erin H.",
+                "user_id": "BCLrmypBUt-YBxzf9rL1BA",
+                "link": "https://www.yelp.com/user_details?userid=BCLrmypBUt-YBxzf9rL1BA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6l64jMTDhoVMqynvpqMTWA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 1,
+                "photos": 19,
+                "reviews": 62
+            },
+            "comment": {
+                "text": "Amazing service by Tony and Liz.  Food may be better than Nobu.  Tony accommodated my group even though we had a mix up with our reservation.  Class Act for sure.   I would recommend this place to all my friends.   Ask for Tony the GM and if you are lucky you will get Liz as a server.   They really made our experience special!",
+                "language": "en"
+            },
+            "date": "2023-01-28T03:03:17Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jennifer L.",
+                "user_id": "JHltCKVHO8HdZcV5lr-boA",
+                "link": "https://www.yelp.com/user_details?userid=JHltCKVHO8HdZcV5lr-boA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ABJx5V0n3OxaotGQ371aug/180s.jpg",
+                "address": "Mercer Island, WA",
+                "friends": 3,
+                "photos": 24,
+                "reviews": 11
+            },
+            "comment": {
+                "text": "The black cod with lettuce was great so is the sashimi. For the choice of fishes they allow you to pick out the ones that you don't like.",
+                "language": "en"
+            },
+            "date": "2022-06-07T02:25:49Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/i7X4gVvCX-QzdH1SuEiHIA/o.jpg",
+                    "caption": "Chirashi"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/k2snHaCnRML4sNoI_x4hQA/o.jpg",
+                    "caption": "Black Cod Boston"
+                }
+            ],
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Mith R.",
+                "user_id": "SJD8-Ea-ZTWGPtXyoFAvgA",
+                "link": "https://www.yelp.com/user_details?userid=SJD8-Ea-ZTWGPtXyoFAvgA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6kFzjOKhmjqkSqNMdD7BKg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 4,
+                "photos": 15,
+                "reviews": 368
+            },
+            "comment": {
+                "text": "Very impressed with the food and hospitality. Every dish was immaculately prepared and tasted amazing. Will certainly be coming again!",
+                "language": "en"
+            },
+            "date": "2023-02-12T02:16:48Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "A C.",
+                "user_id": "9kyo2_y_G6ZV1nxJZevKzg",
+                "link": "https://www.yelp.com/user_details?userid=9kyo2_y_G6ZV1nxJZevKzg",
+                "address": "Mableton, GA",
+                "friends": 0,
+                "photos": 8,
+                "reviews": 15
+            },
+            "comment": {
+                "text": "Top of the line sushi and service. \nGreat ambiance to match the delicious menu. Don't forget the desserts!",
+                "language": "en"
+            },
+            "date": "2023-02-19T03:37:27Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Nancy X.",
+                "user_id": "oNWi0qdQQ4dQbzhdM9SICw",
+                "link": "https://www.yelp.com/user_details?userid=oNWi0qdQQ4dQbzhdM9SICw",
+                "address": "Winder, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "I may not be a sushi connoisseur but my experience here was subpar to say the least. I had the omakase for $250 and from past experience they usually give one of each tastings. Tomo gave multiple pieces of the same item on one plating causing me to be full after the fourth course. Each item was mediocre. The cocktail I had was also horrible. What really got to me was the final course which was 7 nigiris on a plate. The otoro, which I was looking forward to the most, was not fresh at all. I immediately had to spit it out due to the taste and could not continue eating. Such a shame that I spent $350 here($250 omakase, $6 water, $15 cocktail, and 20% tip.) 2 stars for the service though. Our waitress was lively and sweet.",
+                "language": "en"
+            },
+            "date": "2023-08-22T03:15:39Z",
+            "rating": 2,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Denise D.",
+                "user_id": "lYYEQ86VUMPqnRhqm6FvIw",
+                "link": "https://www.yelp.com/user_details?userid=lYYEQ86VUMPqnRhqm6FvIw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uIIa8uGNdSe732RpCrKFfw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 134,
+                "photos": 1617,
+                "reviews": 414,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "tl;Dr  we were so excited about this restaurant for the sashimi and the wagyu. sashimi was tiny and thinly cut. didnt get to taste the wagyu since they didn't have stock. interior design is pretty but seating is ripped and faded. service is mediocre at best. sorely disappointed. probably wouldn't come back. \n\n\n\n\n\nE X P E R I E N C E \nwe came as a couple for our 630pm reservation on a Friday night for a special occasion. we were greeted by 3 hostesses, but one was on her phone laying on the couch very casually, legs tilted. not quite the sight I'd want to see while walking into a restaurant. the main hostess who spoke w us, was very professional. she asked us for our parking ticket to validate prior to being sat. then we were immediately sat. \n\nthere were about 4-5 tables seated, groups of 2-6. it wasn't very noisy. guests attire were casual to well dressed. there were about 4-6 people at the bar. most of the restaurant was empty.\n\n\n\n\n\nF O O D \ntuna avocado salad: amazing. must get. it's light but mighty. sesame onion dressing. kind of like a vinegrette based sauce. no sour/bitterness. a few pieces of seared tuna and albacore. \n\nsushi sashimi plate: 6 pc spicy tuna roll, 6 pc nigiri (salmon, white fish, tuna, shrimp, eel, yellowtail) and 12 pc sashimi (salmon, tuna, octopus, yellowtail, white fish). pieces of sashimi were cut very small, 1.5in wide probably and extremely thin. they were quite fresh though. \n\nlamb chops, medium rare: 4pcs. that gamey lamb flavor was tasty. was not cooked properly.. it was definitely cooked to medium, bordering on medium well, but the meat was still so tender. \n\nhouse special roll: tuna, yellowtail, salmon, white fish, smelt, eel, avocado. not very good. not worth it. minimal raw fish. \n\nchocolate mil crepe: very dense. not very chocolate-y. its supposed to be soft, spongy and creamy but its not. go get yourself a lady m cake instead. I'd pass on this. \n\nyuzu sorbet: lemon, citrus. very light, tangy, refreshing. cleanses the palate. amazing. \n\nlychee martini: divine. st Germaine, vodka and a pc of lychee. not very strong but a nice touch of sweetness. \n\n\n\n\nwe came for the sashimi and the wagyu. sashimi was cut very thin and small. and there was no wagyu available.\n\nTIP:: call ahead of time to confirm if they have a shipment of wagyu!! \n\n\n\n\n\nI N T E R I O R \nbeautiful entrance with a stunning floral arrangement. the ceiling light fixtures were beautiful as well. it's a very small restaurant. clean. booth seating was ripping and faded.\n\n\n\n\n\nS E R V I C E \nvery poor. she was an older, thin, tall, filipino lady, a heavy accent, with her hair tied back. she never introduced herself to us. she was very short with us and not very friendly. we did not ask for anything more than for water and to place our order. \n\nmy friend called ahead to make this res and told them it was a special occasion but the front desk and our server didnt know about it. then my friend asked the server, \"do you do anything special?\" to which she word for word said, \"pick one and we'll give it free\" then walked away. \n\n\n\n\n\nP R I C E \n140 +20% \nvery kind of Tomo to comp a dessert for the special occasion, for which we gave a bigger tip",
+                "language": "en"
+            },
+            "date": "2022-03-12T17:22:48Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 3,
+                "funny": 1,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "anar m.",
+                "user_id": "h51yI4p8ktLnKsn_nLR4cw",
+                "link": "https://www.yelp.com/user_details?userid=h51yI4p8ktLnKsn_nLR4cw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CLf2BScDcbNV0IBMGftj_w/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 78,
+                "photos": 107,
+                "reviews": 114
+            },
+            "comment": {
+                "text": "Exceptional Japanese served to perfection! I enjoyed dining here just for the presentation. \n\nStarted with the appetizers: edamame, tuna tartare, kampachi serrano, and snow crab jalape\u00f1o. All shareable except the tuna tartare (very small plate). \n\nThe sake menu on the back of the dinner menu is quite intimidating for someone not accustomed to the Japanese culture. Thankfully our server was knowledgeable and offered good recommendations throughout our dining experience. \n\nEnded the meal with the Green Tea Tiramisu, which was perfectly moist and decadent. \n\nWill definitely go back!",
+                "language": "en"
+            },
+            "date": "2021-05-18T02:15:13Z",
+            "rating": 5,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7aKYuZBEH3bcu98za7xfIg/o.jpg",
+                    "caption": "Kampachi Serrano"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4ucziofTUNrc4peZdTEhuw/o.jpg",
+                    "caption": "Scottish Salmon"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZLAlP_Xex-TBEn4Dmg2Ftw/o.jpg",
+                    "caption": "Warm Bread Pudding"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zyCIUEiXmxeyV3Q_ScxLlg/o.jpg",
+                    "caption": "Salmon Caviar, Sea Urchin, assorted nigiri"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kinKLENVa-yUUBBYxln0qQ/o.jpg",
+                    "caption": "Green Tea Tiramisu"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Chlo\u00eb C.",
+                "user_id": "gExBClvOmrHP8aq0R_xZHw",
+                "link": "https://www.yelp.com/user_details?userid=gExBClvOmrHP8aq0R_xZHw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YkcDdGiwZOSzuMqSLFLcIA/180s.jpg",
+                "address": "Athens, GA",
+                "friends": 108,
+                "photos": 58,
+                "reviews": 37
+            },
+            "comment": {
+                "text": "Make sure you use their free valet service because they no longer validate parking in July! Nigiri are super fresh and delicious!! I can tell they care about the traditional Japanese service in how they serve their food and sushi!! Definitely will bring my husband on a date here next time!",
+                "language": "en"
+            },
+            "date": "2022-06-23T00:54:44Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YoDouFQVVYADUbI3Pbq6Rw/o.jpg",
+                    "caption": "Bluefin Chutoro Shima Aji"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OVhqoG5Dju6OlZnBRt7M6g/o.jpg",
+                    "caption": "Scallop Japanese Mackerel"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PyJiWXV3YyH_9MVPSw5LKA/o.jpg",
+                    "caption": "Satsuma"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Tomo J.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/ioZcYiOKW8ExDzYhuNPNlg/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Glad you recognized and enjoyed our traditional Japanese restaurant servicing model. We look forward to servicing both you and your husband on your next visit at Tomo\u2019s. Thank you for sharing your experience with us.",
+                    "date": "2022-07-17T15:49:36Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Sara A.",
+                "user_id": "OM-ITyaijvY4egLztXSQcw",
+                "link": "https://www.yelp.com/user_details?userid=OM-ITyaijvY4egLztXSQcw",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 28,
+                "reviews": 29
+            },
+            "comment": {
+                "text": "It was my first time visiting Tomo. We had the tuna tartare appetizer, truffle fries, shrimp shumai to start. The Shrimp dumplings were so good that we ordered another round. For the main meal, we had the Ocean 6 roll (really good!), shrimp hanabi, shrimp tempura roll and the black angus NY strip. All were ok. For desert, we had the green tea ice cream, Yuzu sorbet and the bread pudding. The bread pudding was the best. All in all the food was good, ambiance great- we were seated quickly (without reservations) and the waitress was very polite.",
+                "language": "en"
+            },
+            "date": "2022-12-26T23:55:42Z",
+            "rating": 4,
+            "tags": [
+                "7 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/65fnVgChBWVYPJBCYUzWQA/o.jpg",
+                    "caption": "Sushi"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VvjbHM7ciExaFGntP8lFAA/o.jpg",
+                    "caption": "Shrimp Shumai"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pWWR56eko-RL75yUCjLHEg/o.jpg",
+                    "caption": "Black Angus Ny Strip"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3rFe6LVv_cZN0GvXUAE-Ig/o.jpg",
+                    "caption": "Tuna Tartare"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lE3ibti2bDL1akLjqjoh0A/o.jpg",
+                    "caption": "Green Tea, Sherbert"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wNTEQaw1PT5YIF8-Jd9few/o.jpg",
+                    "caption": "Warm Bread Pudding"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gF9qirmpDWx8E24s2-Ci5Q/o.jpg",
+                    "caption": "Truffle Fries"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Uma P.",
+                "user_id": "3oD5T9RVrDuSlrNaZyIgVQ",
+                "link": "https://www.yelp.com/user_details?userid=3oD5T9RVrDuSlrNaZyIgVQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oxJ2T0cW3SJdWrGdSzyFCw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 105,
+                "photos": 2100,
+                "reviews": 789,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Let me start by saying that my review is based on what I expect from a restaurant that is expensive and somewhat high end sushi. For two people we dropped around $165. It's not the most expensive restaurant I've been to but it's pretty hyped up and it is up there price wise for the quantity of food you get.\nThey have a private parking garage but they also have free valet and they do validate your parking if you decide to park on your own. The hostess is very sweet. They do social distance, they do wear a mask and take your temperature. Inside it appears very clean and the ambience is nice, well decorated. I will say the waitress touched my water glass with her bare hands (they area where you drink), then later I saw her pull her mask down and rub her nose (touch other things after) ...pretty sure that's not okay. \nThis is supposed to be from what I understand an upscale sushi place, and we were in the mood for sushi. We got the shrimp dumplings and also the kampachi for apps- this was Good. For the meal we attempted to get two or three types of sushi rolls, all of them were unavailable or sold out including the lobster and the black squid ink. We ended up getting the house roll along with the chirashi and another roll. Meh. I was very underwhelmed with it all. The rolls are less in number but bigger in size. They are okay, wasn't impressed with the house special. Wonder why they are out of their expensive (and obviously popular) rolls? I've had better sushi. \nWe also got the Nikka Manhattan and the lychee martini. Those are pretty good. Although they charged us for the malt and not the Manhattan- A price difference of $6-7. When I asked why we were charged for the malt and not the Manhattan they said \"well there isn't a button for the Manhattan so we clicked the malt\". Ummmm, but shouldn't the prices match? I don't know, this is not just a matter of a dollar or two. I wonder how many times a night they do this if they did this to us and this was their excuse. Do they up charge everybody by $6-7 for the Manhattan? Maybe the waitress put it in incorrectly, but to be fair we told her multiple times including when we got the drink that we wanted a Manhattan. She made it very clear that we got the Manhattan as a drink. I would check your bill and make sure it's accurate here. They obviously fixed the error but it's concerning. I also tried to order a couple of other drinks but they were out of those too! I mean, out of 4-5 things we ordered? I'm glad they are busy but when we sit down they should just be upfront about what they're missing. The waitress was unaware most of these things were not available until she went to go put them in. \nFinally, the service needed work. For a high price restaurant I expect better service. It seemed like she was very rushed, wasn't paying attention and didn't really care. I expect most of the food they have to be available. Out of 10 things I picked,  4 aren't there, which is a lot. Their dessert was good. No complaints there. \nOverall, I would say check your bill make sure it's accurate (they haven't upcharged you). For the price point this is not worth it. It's over priced for underwhelming flavor and less portions in some cases. Service needs work. Waitress needs to not touch her nose and then touch other stuff. Sorry. I know people have given his place glowing reviews and maybe I came on a bad night at a bad time. But it is what it is. The presentation and dessert were at least good. Overall, I'm not a fan. Better choices out there.",
+                "language": "en"
+            },
+            "date": "2021-01-07T03:31:03Z",
+            "rating": 2,
+            "tags": [
+                "8 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Sc52bTy13RvTYKp_owX25Q/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aduGiaK_ZPn6_sj4D_3dHA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/24OwSvpjXBKCCj9JHgeDEw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LPcYqCWRHryNVUIfC6H6NA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oESCqU_DkYT7DUrrCBl7Dg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L50SjOfaIrTTFBK7k870qA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/33UUuxIyfoYaj-lVJfdpbQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Huf0eNYq2RyYlzF6VZtV2A/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 3,
+                "funny": 1,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Randall M.",
+                "user_id": "9hPAuEXgy_SvqWUzxXOvIw",
+                "link": "https://www.yelp.com/user_details?userid=9hPAuEXgy_SvqWUzxXOvIw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6EHyV6OKuvokKFElEJcZTQ/180s.jpg",
+                "address": "Meridian, MS",
+                "friends": 29,
+                "photos": 1,
+                "reviews": 5
+            },
+            "comment": {
+                "text": "I order the TOMO lamb Chops....22 dollars. After reading exactly what I want  while pointing to it, The waiter assumed I wanted another lamb dish that was 44 dollars that was labled. I ate it cause it that it was what I ordered  The waiter told me that he would talk to the manager and I was told I had to honor the bill. My dish was miles away on the menu from what I wanted. I have a culinary art degree and I know waiters have memorize those menus. The food was great but  this place doesn't train there people well or care if they make mistake.",
+                "language": "en"
+            },
+            "date": "2022-07-02T22:42:38Z",
+            "rating": 1,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bvOAoE19GJ7zfyc6EAkVfw/o.jpg",
+                    "caption": "Receipt"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Ksenia F.",
+                "user_id": "4XhMzobkIda_y1DyQH54AQ",
+                "link": "https://www.yelp.com/user_details?userid=4XhMzobkIda_y1DyQH54AQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oNq6grgKI-ipMGs0ZUm7fA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 304,
+                "photos": 2842,
+                "reviews": 495,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Tomo is a classy sushi joint with great selection of sake, Japanese whiskey, and rare fish choices that you wouldn't find elsewhere in Atlanta.\n\nThey also do \"tuna Tuesday\" every last Tuesday of the month and it's quite a show. They lay out the fish on the bar and you get a chance to snap a pic of it and the chef. Then they filet it and you have a chance to try different cuts. It takes a while for everyone to get served but well worth it. I tried nakaochi (rib meat), which is considered to be the tastiest meat from the tuna and I have to agree.\n\nI also ordered the house special roll and some sashimi. The roll was way too big and awkward to eat. I also wish they had brown rice option.\nFor drinks I tried the 1070 cocktail (similar to a manhattan) and cucumber martini. Both good.\n\nOverall: valet parking, good service, fresh fish. Good date spot.",
+                "language": "en"
+            },
+            "date": "2019-01-30T20:58:11Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 4,
+                "funny": 0,
+                "cool": 3
+            }
+        },
+        {
+            "user": {
+                "name": "Casa L.",
+                "user_id": "q0zH03dkieoKEp85XJ6IbQ",
+                "link": "https://www.yelp.com/user_details?userid=q0zH03dkieoKEp85XJ6IbQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-UGGlrY7p4GqhEJAgn5gmA/180s.jpg",
+                "address": "Buckhead, Atlanta, GA",
+                "friends": 0,
+                "photos": 1,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "One of my top 5 sushi spots, nice ambience. Seating is spaced, so you can social distance.\nI always get the House special sashimi.",
+                "language": "en"
+            },
+            "date": "2021-06-25T22:28:17Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/McqKXE_pjCmWRvVUzT3ilQ/o.jpg",
+                    "caption": "House Special"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Alexandra R.",
+                "user_id": "-h1jbQp5az6iDD-60vyzCQ",
+                "link": "https://www.yelp.com/user_details?userid=-h1jbQp5az6iDD-60vyzCQ",
+                "address": "Los Angeles, CA",
+                "friends": 4,
+                "photos": 0,
+                "reviews": 27
+            },
+            "comment": {
+                "text": "Beware, OLD FISH! \nIf you love real sushi, no rolls w/mayo, garlic or jalape\u00f1os, PASS on this place.\nFor all the hype this is the worst, most un fresh fish I have had in a long time. I just hope I don't get sick. \nDon't believe the hype. WAY overpriced for what they offer. \nThe gobo was old and limp, the toro was tough, the aji was old and mediocre. \nThe hostesses waitstaff are amazing, especially server Tee. \nBut I was sorely disappointed and would NOT EVER return to this sad excuse of 'best sushi in ATL' again'",
+                "language": "en"
+            },
+            "date": "2022-07-09T02:12:49Z",
+            "rating": 1,
+            "feedback": {
+                "useful": 0,
+                "funny": 1,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Tomo J.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/ioZcYiOKW8ExDzYhuNPNlg/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "Serving old fish is not what we\u2019re known for but more importantly it\u2019s not our business model. Thank for sharing your disappointing dinner experience to us. We understand we\u2019ve lost your trust.",
+                    "date": "2022-07-17T15:18:42Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Stacie N.",
+                "user_id": "n9TbPcIk5ILUPU7k2lSB7g",
+                "link": "https://www.yelp.com/user_details?userid=n9TbPcIk5ILUPU7k2lSB7g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bB2Aqau---b6Xkjdm212eA/180s.jpg",
+                "address": "Duluth, GA",
+                "friends": 594,
+                "photos": 1230,
+                "reviews": 110,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Tomo is located @ the Ritz Carlton in Buckhead. They do validate parking so that's a plus. We were there for lunch so we ordered the Sashimi & Sushi bento, Shrimp & Veggies Tempuras, Tuna Tataki, Soft Shell Crab & Chutoro. Their lunch pricing is pretty reasonable. Service was great but the foods were just OK. I wouldn't mind to come back to try their dinner menu tho.",
+                "language": "en"
+            },
+            "date": "2020-10-27T02:52:34Z",
+            "rating": 3,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UCjEepoWl36Rgpn9eYbFfA/o.jpg",
+                    "caption": "Crispy Soft Shell Crab & Chutoro"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6Z0czE1CUxcWfihrmg47BA/o.jpg",
+                    "caption": "Sushi & Sashimi Bento"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uXOXIHdNw7U7ZYhJI6oEPg/o.jpg",
+                    "caption": "Tomo Tataki"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YhxnWXGvmpVtjRwpq8aJeg/o.jpg",
+                    "caption": "Shrimp & Veggie Tempuras"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Shanice H.",
+                "user_id": "tcpp8M-ahDbH8S5_lVYXjw",
+                "link": "https://www.yelp.com/user_details?userid=tcpp8M-ahDbH8S5_lVYXjw",
+                "address": "Roswell, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "I would like to share my experience today at Tomo. I chose this restaurant to enjoy my 30th birthday lunch. We had a 1:30 reservation. Our service was good until the end of our experience. The server left a little before 2:30PM and dropped the check without offering a dessert. The other waiter that was left to run our card came over at exactly 2:30PM and managed to get us a dessert after letting us know that we missed last call. I am forgiving of the end of the dining experience but I am in absolute shock and unforgiving of the fact that a restaurant that advertises themselves as classy and upscale would have dishonest employees. My cousin and I were the last 2 diners left along with 2 servers and a cleaning lady. The restaurant closes until 5:00PM for dinner service. I used the bathroom and placed down my sunglasses to wash my hands. My glasses are valued at over $500 and we spent $200 on our lunch. My glasses have vanished without a trace. No one else was in the building except for us and those 3 employees.This is extremely disappointing as I anticipated having a wonderful experience but instead was left robbed of an experience and my sunglasses.",
+                "language": "en"
+            },
+            "date": "2023-09-21T00:48:39Z",
+            "rating": 1,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=-AIX1rem_OF-9Et3p_K9Gg&start=50"
+    }
+}
