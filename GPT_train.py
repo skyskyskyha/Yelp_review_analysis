@@ -1,8 +1,10 @@
+import time
+
 import openai
 
-example_prompt_path = 'example_click_option.txt'
+example_prompt_path = 'prompt.txt'
 
-output_file = 'gpt4-cot-maxstep_5-miniwob_5problems.txt'
+output_file = 'gpt3.5-training-result.txt'
 model = "gpt-3.5-turbo"
 
 
@@ -30,4 +32,56 @@ def askGPT(pt):
     print(message)
     return message
 
-askGPT("1+1=?")
+
+def parseData(fn):
+    with open(fn, "r") as file:
+        lines = file.readlines()
+        headers = lines[0].split(',')
+        headers = [header.strip() for header in headers]
+        headers.pop()
+        print(headers)
+        error = 0
+        #use review 0-100 for prompt engieering
+        for i in range(100):
+            with open("prompt.txt", "a") as output:
+                line = lines[i]
+                review_dict = {}
+                try:
+                    data = line.split(',')
+                    for i in range(len(headers)):
+                        # print(headers[i], ":", data[i].strip())
+                        review_dict[headers[i]] = data[i].strip()
+                    # print("review:", review_dict["review_text"], file=None)
+                    # print("rating:", review_dict["review_star"], file=None)
+                except:
+                    error += 1
+                    continue
+        #finished 100-200
+        for i in range(105, 200):
+            with open("prompt.txt", "r") as prompt_file:
+                prompt = prompt_file.read()
+                line = lines[i]
+                review_dict = {}
+                try:
+                    data = line.split(',')
+                    for i in range(len(headers)):
+                        # print(headers[i], ":", data[i].strip())
+                        review_dict[headers[i]] = data[i].strip()
+                    prompt += "\n+ This is the a review without knowing the rating, " \
+                              "please predict its rating by doing some SENTIMENT ANALYSIS." \
+                              "You should only give a number between 0-5. \n\n\n"
+                    prompt += "Review:"+review_dict["review_text"]
+                    # print(prompt)
+                    print("gpt predicts: ", end="")
+                    message = askGPT(prompt)
+                    print("actual rating: ", review_dict["review_star"])
+                    with open("GPT_result.txt", "a") as result_file:
+                        result_file.write(message + " " + review_dict["review_star"] + "\n")
+                    time.sleep(3)
+                except:
+                    time.sleep(3)
+                    continue
+        print("total error:", error)
+
+
+parseData("processed_data/data.csv")
