@@ -57,7 +57,8 @@ def parseData(fn):
                     error += 1
                     continue
         #finished 100-200
-        for i in range(105, 200):
+        #finished 200-300
+        for i in range(201, 300):
             with open("prompt.txt", "r") as prompt_file:
                 prompt = prompt_file.read()
                 line = lines[i]
@@ -77,9 +78,9 @@ def parseData(fn):
                     print("actual rating: ", review_dict["review_star"])
                     with open("GPT_result.txt", "a") as result_file:
                         result_file.write(message + " " + review_dict["review_star"] + "\n")
-                    time.sleep(3)
+                    time.sleep(6)
                 except:
-                    time.sleep(3)
+                    time.sleep(6)
                     continue
         print("total error:", error)
 
