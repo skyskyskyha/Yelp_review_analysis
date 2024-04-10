@@ -1,0 +1,1511 @@
+{
+  "search_metadata": {
+    "id": "65ef2e8a3d69198663630857",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c435cd11c3877dff/65ef2e8a3d69198663630857.json",
+    "created_at": "2024-03-11 16:17:14 UTC",
+    "processed_at": "2024-03-11 16:17:14 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/AUV7Ocno9T8_qPlFeRSziA?",
+    "raw_html_file": "https://serpapi.com/searches/c435cd11c3877dff/65ef2e8a3d69198663630857.html",
+    "prettify_html_file": "https://serpapi.com/searches/c435cd11c3877dff/65ef2e8a3d69198663630857.prettify",
+    "total_time_taken": 2.42
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 70,
+    "num": "50",
+    "place_id": "AUV7Ocno9T8_qPlFeRSziA"
+  },
+  "search_information": {
+    "total_results": 1172,
+    "business": "Ted's Montana Grill - Luckie Street"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 1172
+    },
+    {
+      "hl": "de",
+      "count": 1
+    },
+    {
+      "hl": "es",
+      "count": 1
+    },
+    {
+      "hl": "it",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Barbara W.",
+        "user_id": "Wh5C4ZdV6085Or_xh-EwqQ",
+        "link": "https://www.yelp.com/user_details?userid=Wh5C4ZdV6085Or_xh-EwqQ",
+        "address": "Homewood, AL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "My steak salad was so tough & not cooked as I asked. I could barely chew it.  The server was nice.",
+        "language": "en"
+      },
+      "date": "2024-01-19T04:14:50Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ted M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/nIo7fXZH1wKQxA95xPDUjQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much for your feedback, Barbara. We are so sorry that your experience did not meet our high standards. Would you be so kind to send your contact information (including your phone number) to Jessica at jsmith@tedsmontanagrill.com so a member of our operations team can reach out to invite you in for the experience you deserve? We really value your feedback and hope to hear from you soon.",
+          "date": "2024-01-19T14:44:20Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Melanie B.",
+        "user_id": "rz6i9-Q-Nje5K3PcZbTuYg",
+        "link": "https://www.yelp.com/user_details?userid=rz6i9-Q-Nje5K3PcZbTuYg",
+        "address": "Antelope, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "We were recently in Atlanta and decided to try Ted's Montana Grill. Initially we were going to dine in but decided to order online. We were given a pick up time and when we arrived the place was busy with guests so we waited patiently till someone could help us. Not only did 5 staff members(2 at the bar and 3 at the hostess station)completely ignore us, but instead they were all standing around the front station just hanging out talking to each other while the bartenders were busy watching a basketball game. After waiting for 10 minutes I interrupted the staff at the front station and let them know we were here to pick up our online order which she let me know to ask the bartender for it. The bartender said our order wasn't ready and it would be out soon. Long story short we waited for over an hour before we finally received our meals. We ordered two burgers with fries and a salad. The most disappointing part was our food was cold after waiting over an hour. Hoping management or the owner sees this review and helps their staff to understand the quality of guest service.",
+        "language": "en"
+      },
+      "date": "2024-02-19T03:49:18Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ted M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/nIo7fXZH1wKQxA95xPDUjQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much for your feedback, Melanie. We are so sorry that your experience did not meet our high standards. Would you be so kind to send your contact information (including your phone number) to Jessica at jsmith@tedsmontanagrill.com so a member of our operations team can reach out to invite you in for the experience you deserve? We really value your feedback and hope to hear from you soon. ",
+          "date": "2024-02-21T14:36:15Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Carl S.",
+        "user_id": "rK9bFHH63ULOmRoBwW7emA",
+        "link": "https://www.yelp.com/user_details?userid=rK9bFHH63ULOmRoBwW7emA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cvF2KEg-U0RqENo-9D5pMQ/180s.jpg",
+        "address": "Asheville, NC",
+        "friends": 33,
+        "photos": 199,
+        "reviews": 606,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The location was awesome.  The staff were very friendly and helpful and pleasant!  The food was tremendous!!!! Bison burger done medium might be the best burger I've ever eaten.  Tender, thick and cooked to perfection is all I can say.  I want quite sure if I'd like bison but I'm totally sold on it now!!! This place is a 10 out of 10.",
+        "language": "en"
+      },
+      "date": "2023-02-20T15:00:01Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Denise M.",
+        "user_id": "lrRzLpIBiBV-i8B1pHSmvQ",
+        "link": "https://www.yelp.com/user_details?userid=lrRzLpIBiBV-i8B1pHSmvQ",
+        "address": "Mauldin, SC",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "We had the privilege to attend the Peach Bowl and was looking for a place to eat.  What a great atmosphere!  The food was excellent, but what made our experience so successful was the talented staff.  They treated us like VIPs.  if we every go back to Atlanta, GA this will be our place to eat.",
+        "language": "en"
+      },
+      "date": "2024-01-01T16:10:45Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ted M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/nIo7fXZH1wKQxA95xPDUjQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We're so excited to hear that you enjoyed the atmosphere and food during your visit for the Peach Bowl! Our staff will be pleased to know that their efforts made your experience memorable. We look forward to welcoming you back should you return to Atlanta. Thank you for your kind words!",
+          "date": "2024-01-02T16:40:37Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Thembi S.",
+        "user_id": "pe0s5sOoQ0pregfY9gxAEg",
+        "link": "https://www.yelp.com/user_details?userid=pe0s5sOoQ0pregfY9gxAEg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HO63lWlrEchsR5MdJ2Yp0A/180s.jpg",
+        "address": "Baltimore, MD",
+        "friends": 417,
+        "photos": 688,
+        "reviews": 635,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "A friend and I wandered into Ted's the other day after riding the Skyview. We wanted a drink and Ted's was within walking distance. We quickly entered and sat at the bar. The interior of Ted's was like most places to me that have stuffed animal heads on the wall...kind of an urban western vibe. \n\nThe bartender quickly gave us menus and I was about to order a beer when my friend ordered a sangria. I quickly ordered the same and we had some minor conversation while our drinks were made.\n\nLet me just say, that was one of the best sangrias I've ever had! I can't comment on the food, or any other beverages except the sangria, but it was absolutely worth a 5 star rating for me! Good job!",
+        "language": "en"
+      },
+      "date": "2021-11-15T14:35:22Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2Su_74WImads4OWPRu8yvw/o.jpg",
+          "caption": "Amazing sangria"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Patrick B.",
+        "user_id": "BPWxnyt-FbYTKJbgDKx0Rw",
+        "link": "https://www.yelp.com/user_details?userid=BPWxnyt-FbYTKJbgDKx0Rw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gVNYUNl2kWE6Kv_2Qbqzfg/180s.jpg",
+        "address": "Youngsville, LA",
+        "friends": 0,
+        "photos": 96,
+        "reviews": 144
+      },
+      "comment": {
+        "text": "What a nice venue. Our server Jeff was a hoot and did an excellent job. We had bison fillets and they were perfect. Thanks to the chef!!! They have a spin on an Old Fashioned called the Young Fashioned which is made with Woodford Reserve and Agave nectar instead of Simple Syrup, very nice! Please come and pay them a visit, you won't regret it.",
+        "language": "en"
+      },
+      "date": "2023-03-05T19:46:10Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7NdYuOIxbe3CQKWE9Mwv_w/o.jpg",
+          "caption": "Open kitchen"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/e2xdzcfylHmQJ0IRnaXQBw/o.jpg",
+          "caption": "Young Fashioned"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DDYieVcOKKKdgftGHKLFRg/o.jpg",
+          "caption": "Bison Fillet Medium-Rare!!! Excellent!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Michael B.",
+        "user_id": "Ke6I3SJfAlF3mRw6AVDopg",
+        "link": "https://www.yelp.com/user_details?userid=Ke6I3SJfAlF3mRw6AVDopg",
+        "address": "Fort Walton Beach, FL",
+        "friends": 58,
+        "photos": 0,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "Excellent dining experience! My wife and I showed up 15 minutes before closing and while most restaurant staff would have been annoyed, Ted's staff were extremely pleasant and welcoming.  Our server Monte was beyond friendly and he absolutely amplified our experience at Ted's.  Oh....and the food!!!   This was our first time at Ted's and we could not have been more pleased with the quality of our steak and sides!!!! We will be back again.  \n\nDuring a time where it seems the service industry is declining in customer service, Ted's staff at this Atlanta location certainly set the bar of excellence.  Thank you to the staff and our outstanding server, Monte!",
+        "language": "en"
+      },
+      "date": "2023-10-01T14:50:12Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mark M.",
+        "user_id": "N96CGuv0j-zUNB_USaXijQ",
+        "link": "https://www.yelp.com/user_details?userid=N96CGuv0j-zUNB_USaXijQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tG8Rey3vLzmHhASOdgq2Bw/180s.jpg",
+        "address": "Rocklin, CA",
+        "friends": 99,
+        "photos": 29,
+        "reviews": 177
+      },
+      "comment": {
+        "text": "Great place with great food. Steaks were awesome and burgers were good too. Martini hit the spot. Great service and waitress really made us feel at home. Nice busy place that's great for kids.",
+        "language": "en"
+      },
+      "date": "2023-10-08T19:00:27Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Edward M.",
+        "user_id": "yEScDqlWQdzw3obgm2GhLA",
+        "link": "https://www.yelp.com/user_details?userid=yEScDqlWQdzw3obgm2GhLA",
+        "address": "Columbia, SC",
+        "friends": 69,
+        "photos": 28,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Service is great - Waiter was Magellan!!  Nice ambiance!  \nLocated center city walk to cnn and Mercedes Benz arena",
+        "language": "en"
+      },
+      "date": "2023-08-23T00:39:11Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kathryn S.",
+        "user_id": "LUz4T8WY6d95OMBnOctNUg",
+        "link": "https://www.yelp.com/user_details?userid=LUz4T8WY6d95OMBnOctNUg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VXZN_QXwejpTLcuIH9975A/180s.jpg",
+        "address": "Jefferson, AL",
+        "friends": 171,
+        "photos": 163,
+        "reviews": 155
+      },
+      "comment": {
+        "text": "We ate here before a concert. We were seated immediately in a booth in way back. Monty took our drink orders and they came back eventually. One ordered the salmon and said it was great. Other ordered the blue creek burger and fries. Service was pretty quick! Food very good. Easy to walk to from the Omni hotel",
+        "language": "en"
+      },
+      "date": "2023-02-04T12:52:22Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Di_cMJVWcvqAl0twOz1cNg/o.jpg",
+          "caption": "Cosmopolitan"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kathi M.",
+        "user_id": "bO3hK7j5QvIWEqtz_kMC9A",
+        "link": "https://www.yelp.com/user_details?userid=bO3hK7j5QvIWEqtz_kMC9A",
+        "address": "CA, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 44
+      },
+      "comment": {
+        "text": "Bison filet was great! Sides a little cold but they were very busy. Definitely would go back. The bartender Acie and the other one not sure if his name but started with a J were fantastic!! Great food. Within walking distance of downtown ATL.",
+        "language": "en"
+      },
+      "date": "2023-12-03T16:05:53Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ted M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/nIo7fXZH1wKQxA95xPDUjQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We love to hear you enjoyed the Bison filet and our bartenders' service! We apologize if the sides were not up to our usual standards due to the busy period. We look forward to welcoming you back and providing an even better dining experience next time. Thank you for your feedback!",
+          "date": "2023-12-28T16:45:23Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Tomorlo A.",
+        "user_id": "_R2hHLHfiiLRCETbPFqRww",
+        "link": "https://www.yelp.com/user_details?userid=_R2hHLHfiiLRCETbPFqRww",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/45Fglb2A8DQg2aEQ3iSukg/180s.jpg",
+        "address": "Penelope Neighbors, Atlanta, GA",
+        "friends": 2,
+        "photos": 1,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "Nice food to stop in a dine before or are a walk in the park. Bison burger and chili are a hit.",
+        "language": "en"
+      },
+      "date": "2023-08-26T21:51:31Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Pitufina H.",
+        "user_id": "91XYiWz29_huXZJkERhIoQ",
+        "link": "https://www.yelp.com/user_details?userid=91XYiWz29_huXZJkERhIoQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QcbvElCAwXHajq3qWtk75A/180s.jpg",
+        "address": "Barnstable, MA",
+        "friends": 0,
+        "photos": 6,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "This scrumptious bison burger prepared by Nigel and Daevon hit the spot. Sat at the bar to see the chef show, and these two rocked a full house of guests during a rainy Sunday rush. Delicious bloody Mary and server Jeff was spot-on. Stellar experience for this New Englander!!",
+        "language": "en"
+      },
+      "date": "2023-03-26T18:22:13Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uzgOFyJC0-Wc60w6COFhyw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sandy R.",
+        "user_id": "LOuV5evH3TriZguL9JivNA",
+        "link": "https://www.yelp.com/user_details?userid=LOuV5evH3TriZguL9JivNA",
+        "address": "Fontana, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "The food was amazing but the service was a bit slow. I would definitely be visiting again!",
+        "language": "en"
+      },
+      "date": "2023-11-18T18:06:33Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Heather R.",
+        "user_id": "Pbc8WvcB5UGTCdNn4nCftA",
+        "link": "https://www.yelp.com/user_details?userid=Pbc8WvcB5UGTCdNn4nCftA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ijLaTfFu5TCkKG8gNNxWeA/180s.jpg",
+        "address": "Spring, TX",
+        "friends": 0,
+        "photos": 43,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "So, every year we come into town for a health coach convention. One year a restaurant ran out of lettuce. We burn through places that can serve us healthy food. They were able to accommodate us quickly in a packed restaurant. We made reservations which I recommend. The wait for food was a little longer than normal, but not unexpected. We ordered the Skinny Dip Buffalo burger... with a side of roasted broccoli. It was the perfect lean and green meal. A perfectly seasoned and cooked, tender bison patty topped with avocado. Served with a colorful and delicious kale salad. It was all delicious. I recommend for healthy eats and good service in downtown Atlanta.  The restaurant is classy and with a great atmosphere, too.",
+        "language": "en"
+      },
+      "date": "2023-07-29T21:25:39Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jennifer D.",
+        "user_id": "0i9bV8pFDpq3NLLQUoQp8g",
+        "link": "https://www.yelp.com/user_details?userid=0i9bV8pFDpq3NLLQUoQp8g",
+        "address": "San Francisco, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Food was delicious!   Our table had the chips appetizer, bison burgers, and crab cakes.  Service was top notch!  Very cool atmosphere.",
+        "language": "en"
+      },
+      "date": "2023-12-19T15:49:30Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ted M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/nIo7fXZH1wKQxA95xPDUjQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We're so excited to hear that you enjoyed your visit to Ted's! It's great to know that our chips appetizer, bison burgers, and crab cakes hit the spot. We're also glad you appreciated our atmosphere. Thank you for the wonderful review! ",
+          "date": "2023-12-27T15:31:31Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Lisa R.",
+        "user_id": "VFG5mmFIri4hoeX1PpyRHQ",
+        "link": "https://www.yelp.com/user_details?userid=VFG5mmFIri4hoeX1PpyRHQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5iggDvJok8LxeDZMthq6CA/180s.jpg",
+        "address": "Redmond, OR",
+        "friends": 66,
+        "photos": 1,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "2 hour wait after being promised to be seated in 10 min. Why didn't we leave? Because they kept promising us we were next. Then after not bringing our food, they brought us the check and asked that we pay in advance. 2.5 hours now and still no food. I am so disappointed",
+        "language": "en"
+      },
+      "date": "2023-07-29T17:40:09Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Erica G.",
+        "user_id": "7ojMt-aImmGpvSShih284Q",
+        "link": "https://www.yelp.com/user_details?userid=7ojMt-aImmGpvSShih284Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8hB8SliWo3do9xWVrULU9g/180s.jpg",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Great customer service! The host was friendly and made me feel welcome. Crab cake was delicious. I would come back since I live in California- Bay Area \nBathroom were clean",
+        "language": "en"
+      },
+      "date": "2022-09-19T20:46:24Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LxrUkvPD-iCQdxsI9R07_A/o.jpg",
+          "caption": "Bison New York w/ garlic mashed potatoes"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ted M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/nIo7fXZH1wKQxA95xPDUjQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the great review, Erica! We look forward to seeing you again soon!",
+          "date": "2022-09-29T20:38:10Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Feddie S.",
+        "user_id": "I8KyiQ3z2SehYPOfKxMo8A",
+        "link": "https://www.yelp.com/user_details?userid=I8KyiQ3z2SehYPOfKxMo8A",
+        "address": "Atlanta, GA",
+        "friends": 100,
+        "photos": 2,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "Went before a concert at the tabernacle and had a fantastic dinner. Definitely recommend a reservation. Bison filet was fantastic as was the Kale Salad and potato. Server was very attentive considering how packed the place was. Will definitively be back.",
+        "language": "en"
+      },
+      "date": "2023-09-11T01:33:58Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Yp3_sztQeijDFyC4fY4XRw/o.jpg",
+          "caption": "8 oz Bison Filet with loaded baked potato and kale salad. Excellent, perfectly medium rare"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rodney C.",
+        "user_id": "sus4vE8WiwY0gXEfQNpk8Q",
+        "link": "https://www.yelp.com/user_details?userid=sus4vE8WiwY0gXEfQNpk8Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dDIsw4OgIgLqGyDp4hQ4vQ/180s.jpg",
+        "address": "Miami, FL",
+        "friends": 0,
+        "photos": 4,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "The service was horrible.  The 3 maitre de's just stood their and threw all reservations away and gave whoever was meanest to them a table.  Had a reservation for 7 pm.  We actually arrived 20 min prior and they told us the table for us was almost done. They were having deserts and pay bill, so looking good.  Then 20 min later they said they weren't leaving and if we would be willing to split the party of 10 into 2 tables...which we agreed to.  Then 15 min later they told me they didn't have tables ready as the splitting was a possibility.  All this while they rotate the maitre de's. So was agrees and the others just disagrees.  After 90 min of arriving they finally sat us at a table.  There were so many empty tables we were surprised we had to wait that long.  Then we ordered drinks and the when we reminded the waiter 1 was missing he somewhat snapped at us that they were understaffed and only had 1 bartender attending the whole restaurant.   The food was good, but I was severely embarrassed as I took out very important customers  and the restaurant made me look like complete fool.  Never again for business.",
+        "language": "en"
+      },
+      "date": "2023-11-12T15:38:07Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Catherine F.",
+        "user_id": "B1afF-NaChrS8bb1VZHayw",
+        "link": "https://www.yelp.com/user_details?userid=B1afF-NaChrS8bb1VZHayw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wyGnLZKVGKADyR6TzFPiCQ/180s.jpg",
+        "address": "Reno, NV",
+        "friends": 106,
+        "photos": 127,
+        "reviews": 89
+      },
+      "comment": {
+        "text": "We came for the bison Delmonico steak and the Huckleberry Jalapeño Margarita. Wow, amazing. We were able to sit at the bar and avoid the wait. We were able to begin the night with the margaritas and they were phenomenal. I loved the huckleberry liquor mixed with just a enough bit of the freshly sliced jalapeño juice. The bergamot sugar rum was the topper.\nOur waiter Jeff was spot on he checked in with us but let us have time to hangout and enjoy the night. The steak was amazing. It was perfectly marbled and cooked to a perfect med-rare. I are the whole thing and then had my sides, didn't finish them but it was all about the steak. For dessert we had another margarita, it was better then dessert, that maybe the tequila talking. If you're on the fence, get off the fence and go now.",
+        "language": "en"
+      },
+      "date": "2022-03-20T00:47:55Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yvfhlAymZRfb6j3ECpuGRg/o.jpg",
+          "caption": "I'm going to call him Bill the Bison."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OCaDVzLDQCWh8fsjpDK2ig/o.jpg",
+          "caption": "Just because it was all that good, you need to see it again. All of it!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hCdZRt4swFGIf4b67qzjsg/o.jpg",
+          "caption": "One med-rare Delmonico Bison Steak and Huckleberry Jalapeño Margarita."
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 2,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ted M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/nIo7fXZH1wKQxA95xPDUjQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the great review, Catherine! We pride ourselves on serving made-from-scratch food paired with genuine hospitality. We are so pleased to hear that we delivered. And we couldn't agree more - Jeff is the BEST! We look forward to seeing you again soon!",
+          "date": "2022-03-21T18:09:25Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jonathan M.",
+        "user_id": "tMWKS_v3wmkeYy_MDGvxdQ",
+        "link": "https://www.yelp.com/user_details?userid=tMWKS_v3wmkeYy_MDGvxdQ",
+        "address": "Princeton, NC",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "This place serves whoever complains the most, just literally skipping over people who have been waiting for a table. Sat at the bar for 20 minutes and never got helped. Finally complained to host and boom our table is now ready. I don't complain much but the service here is slow and backwards. 45 minutes for a steak that was actually pretty good and the onion rings excellent outside the skin I choked on.",
+        "language": "en"
+      },
+      "date": "2023-11-13T01:29:41Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "A S.",
+        "user_id": "hLWYmIGutf54qc52-3tv8w",
+        "link": "https://www.yelp.com/user_details?userid=hLWYmIGutf54qc52-3tv8w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SyEGNmEgGK2eQiPa19RT9Q/180s.jpg",
+        "address": "Greensboro, NC",
+        "friends": 0,
+        "photos": 9,
+        "reviews": 37
+      },
+      "comment": {
+        "text": "Arriving into the ATL after a later flight putting me in town around 10 o' clock and the locals not being particularly helpful in finding a local dive; I came across this sweetheart. The interior of the restaurant has a charming feel of a 100 year old bar thats been renovated. The slider \"duo\" was tasty, the bison, beef, french fries tasted fresh and high quality. \n\nEven though the staff seemed inundated I wish they were more prompt and offered better service.",
+        "language": "en"
+      },
+      "date": "2022-08-20T07:12:03Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cgmyJCrSYzkxIMVaChsSAg/o.jpg",
+          "caption": "The \"Duo\""
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Eric H.",
+        "user_id": "Yma6gnkI8LGNNYHw1QZuWw",
+        "link": "https://www.yelp.com/user_details?userid=Yma6gnkI8LGNNYHw1QZuWw",
+        "address": "MD, MD",
+        "friends": 0,
+        "photos": 23,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "The restaurant was packed, you will need a reservation before you go. The burgers were hand made and very filling. I ordered the double patties but it was so much meat that I had to remove one of the patties. You have a choice of bison or beef; I orders the bison. The wife ordered the beef and she was also unable to finish the burger. Food was great but be prepared to wait since they are so busy. The restaurant was very tight and congested with every booth filled. Since I didn't have a reservation we orders to go and it was worth the wait.",
+        "language": "en"
+      },
+      "date": "2023-07-17T13:26:25Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/k8fzqZRJjtQecFk1xEuE8A/o.jpg",
+          "caption": "Delicious Duo Burger"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Norvin Daniel R.",
+        "user_id": "xYmkICE_1N0wK6wAP9vQjA",
+        "link": "https://www.yelp.com/user_details?userid=xYmkICE_1N0wK6wAP9vQjA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xztDR8_Z1qN5YQ7ajUynwA/180s.jpg",
+        "address": "Royal Palm Beach, FL",
+        "friends": 25,
+        "photos": 0,
+        "reviews": 30
+      },
+      "comment": {
+        "text": "All employees were extremely friendly, but the service was extremely slow. Ordered a mixed drink and it took about 20 mins to get it. My wife and I got Bison burgers and it took an hour from the moment we ordered it to receive our food. My son is 11 years old and he ordered the kids burger... it was basically a SLIDER. They could've given us a heads up and explain to us that it would probably be too small for him. My son's burger and my burger (Red Rock burger) was \"okay\" at best. The ambiance is nice and I did like the decor of the restaurant. It was convenient that it was a short walk from the Georgia Aquarium.",
+        "language": "en"
+      },
+      "date": "2023-06-29T22:14:28Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Gabby A.",
+        "user_id": "GQW3FG6PBd2tXDbJ9SqtqA",
+        "link": "https://www.yelp.com/user_details?userid=GQW3FG6PBd2tXDbJ9SqtqA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yCFSd1QM83x2zcleZfvh6Q/180s.jpg",
+        "address": "Hoboken, NJ",
+        "friends": 42,
+        "photos": 135,
+        "reviews": 105,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "a few bullet points: \n- ate lunch here and waited over an hour for our food, and they weren't even busy\n- after finally getting the food, all of our fries and onion rings were ice cold\n- the mac n cheese (not pictured) had no cheese\n- my friends' burger was cold \n\nthis all being said, my veggie burger (which is the only vegetarian item on the menu) was quite good\nNot necessarily a bad experience but would not recommend",
+        "language": "en"
+      },
+      "date": "2022-04-08T18:03:29Z",
+      "rating": 2,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kMhnbtpEl6qo13_QFMGhEw/o.jpg",
+          "caption": "House-Made Veggie Burger"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "David D.",
+        "user_id": "oAKrvdtdHsDzV2a0FRut4A",
+        "link": "https://www.yelp.com/user_details?userid=oAKrvdtdHsDzV2a0FRut4A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/j1--ckSHIaSRGDvcESYDEA/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 714,
+        "photos": 4125,
+        "reviews": 1488,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "After taking a CNN Headquarters Tour, I walked down the block and found this place.\n\nI had no idea what to expect here--it just looked like a happening clean fun place with a long bar I can dine on my own comfortably.\n\nTook a seat at the bar--studied the menu--and asked the Waitress what everyone likes here?  This Waitress was as nice as a waitress could possibly be. \n\nShe says you will never have a better Buffalo Burger than the one here.  She Says all the Buffalo is from Ted's farm in Montana.  So I order up.\n\nBut then, I am sitting there with my Beer thinking?...they actually drive Buffalo from Montana to Atlanta?  and when it gets here, where do they keep all the Buffalo?  Is there a pen in the back of the restaurant?  \n\nI just decided I am not going to dwell on this and just enjoy the meal.\n\nAnd I will tell you---that was the Best Buffalo Burger I have ever had.  \n\nI would definitely come back here next time in the area.\n\nBut I still want to know?...Where do they keep the Buffalo?\n\nIt may be a secret?",
+        "language": "en"
+      },
+      "date": "2021-01-29T08:26:55Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0VygaLTLw8VcG5kHgiBNEg/o.jpg",
+          "caption": "Reality Check: Fun place to dine. Incredible Buffalo  Burgers from Ted's Farm."
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 2,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Greg L.",
+        "user_id": "dQnQp9TA8nr-54NP2o-ljQ",
+        "link": "https://www.yelp.com/user_details?userid=dQnQp9TA8nr-54NP2o-ljQ",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "I have been going to this Restaurant since it opened, unfortunately last night July 15th 2023, I sat at the bar for over 25 min without being served a beverage or anything?\nAnd the staff Knew I was sitting and waiting. \nThey were Not that busy and there is No excuse .\nSo I was forced to excuse myself and leave, sad because I have always enjoyed the food.\nI will be sure to share my experience with any and all my clients from the Americasmart trade show!",
+        "language": "en"
+      },
+      "date": "2023-07-16T21:14:36Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ted M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/nIo7fXZH1wKQxA95xPDUjQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much for your feedback, Greg. We are so sorry that your experience did not meet our high standards. Would you be so kind to send your contact information to Jessica at jsmith@tedsmontanagrill.com so a member of our operations team can reach out to invite you in for the experience you deserve? We really value your feedback and hope to hear from you soon.",
+          "date": "2023-07-25T21:34:12Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Hannah D.",
+        "user_id": "gb51R_PKql7Q2QKxZhUo_A",
+        "link": "https://www.yelp.com/user_details?userid=gb51R_PKql7Q2QKxZhUo_A",
+        "address": "FL, FL",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Steaks that melt in your mouth, fabulous bar service, and desserts that finish everything off perfectly.",
+        "language": "en"
+      },
+      "date": "2023-07-13T15:33:41Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/COx6cianiIGX10xb98Jxjw/o.jpg",
+          "caption": "Strawberry shortcake with vanilla ice cream."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ted M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/nIo7fXZH1wKQxA95xPDUjQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the great review, Hannah! We look forward to seeing you again soon!",
+          "date": "2023-07-13T20:31:34Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "David T.",
+        "user_id": "vU7SzlNmzp-tbd6dU4rsTw",
+        "link": "https://www.yelp.com/user_details?userid=vU7SzlNmzp-tbd6dU4rsTw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ww3TjM_KJo0VFvJC9APxqg/180s.jpg",
+        "address": "Germantown, TN",
+        "friends": 182,
+        "photos": 0,
+        "reviews": 35
+      },
+      "comment": {
+        "text": "I really like Ted's! The Bison burgers are really good and very large. My wife had the Bison meatloaf and it was great as well. The service was great and we really enjoyed our break after a long day of shopping.",
+        "language": "en"
+      },
+      "date": "2023-02-12T19:22:03Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Grayson C.",
+        "user_id": "EvLlBQOTH1CAA2rSd1AmrQ",
+        "link": "https://www.yelp.com/user_details?userid=EvLlBQOTH1CAA2rSd1AmrQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/o0lDMKu-u_BzmKpVMGXylA/180s.jpg",
+        "address": "Layton, UT",
+        "friends": 6,
+        "photos": 56,
+        "reviews": 42,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This wasn't our planned stop, but the restaurant we wanted to go to closed the door right when we arrived and said that they weren't open for the day.. anyways... the food was really good. The staff gave my party some weird looks as we arrived, so lunch started off concerning with us wondering what that was all about. Our server was a little curt with us but as we chatted he warmed up to us. The food was good, no complaints, just thrown off by the weird behavior of the staff when we first walked in.",
+        "language": "en"
+      },
+      "date": "2022-03-13T00:38:50Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/h-QUHRG0376RhH2VRRAJTw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Tricia P.",
+        "user_id": "rKshfssSiyLHu8PKlzlhVg",
+        "link": "https://www.yelp.com/user_details?userid=rKshfssSiyLHu8PKlzlhVg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2B5-BFDr27RsqZyaKYC1vQ/180s.jpg",
+        "address": "Brentwood, TN",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "We never got to try the food because our order was never taken.  We were not greeted at the hostess station so we sat at the bar.  We asked the bartender if they were taking our order and was told there's another person who would wait on us. We ordered drinks and continued to wait for over 30 minutes.  Finally we left and the bartender comped our drinks because of our wait.  Honestly we would have waited longer but we weren't even greeted or acknowledged by our server.",
+        "language": "en"
+      },
+      "date": "2023-05-28T18:14:01Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ted M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/nIo7fXZH1wKQxA95xPDUjQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Tricia - we're sorry to hear that your recent visit was not up to our standards. We value your feedback and would like to connect with you. Please email your contact info to Jessica at jsmith@tedsmontanagrill.com. Thank you and we look forward to hearing from you.",
+          "date": "2023-05-29T20:26:06Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Keisha S.",
+        "user_id": "_JbGNaZzoNm-bWHHTj-eVA",
+        "link": "https://www.yelp.com/user_details?userid=_JbGNaZzoNm-bWHHTj-eVA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lpJYibsGgGpbcPPSkIQs-A/180s.jpg",
+        "address": "Victoria, TX",
+        "friends": 157,
+        "photos": 5,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "This place is FANTASTIC. I took the advice of these other yelpers and wandered the 2-3 blocks from the Westin over to Ted's. The burgers (I went 2 days in a row with my fellow conference attendees) are PHENOMENAL. I had the C.O.B. (cheddar cheese, grilled onions & bacon) with sauteed mushrooms & jalapeños, and was floored. The flavor was fantastic, perfectly cooked, and the toppings were piled on. My jalapeños were fresh, not pickled, and the French fries were hot and fresh. I will say I had a perfect view of the French fry process & dessert prep by sitting at the bar by the kitchen, and the others in my group a couple of stools down got to watch the incredibly efficient and fun group cooking in the kitchen.\n\nI have yet to try a dessert, but we're supposed to go back tonight...",
+        "language": "en"
+      },
+      "date": "2022-10-16T22:17:02Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Milton G.",
+        "user_id": "59TDpTHrvoE19EggwDeTww",
+        "link": "https://www.yelp.com/user_details?userid=59TDpTHrvoE19EggwDeTww",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 109,
+        "reviews": 29
+      },
+      "comment": {
+        "text": "I took my family here on Memorial Day. We thoroughly enjoyed the food and the service. My sons enjoyed the bison sliders and nachos as appetizers. My daughters enjoyed their bison hamburgers. My wife and I had the bison ribeye and filet. The restaurant was clean and the music was not too loud. My server was terrific!! We will be back!!!",
+        "language": "en"
+      },
+      "date": "2023-06-21T20:25:43Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9vY3XfnVrutCjxblZlU68g/o.jpg",
+          "caption": "Dining room"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HJReUoOm6oj3m2X7zudbQQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ted M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/nIo7fXZH1wKQxA95xPDUjQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the great review, Milton! We pride ourselves on serving made-from-scratch food paired with genuine hospitality. We are so pleased to hear that we delivered. We look forward to seeing you again soon!",
+          "date": "2023-06-25T22:28:36Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Nicole I.",
+        "user_id": "3RBX_Y5RxVjdkqCUh1NUKw",
+        "link": "https://www.yelp.com/user_details?userid=3RBX_Y5RxVjdkqCUh1NUKw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UsJHsk9K_7rLGCDq5pM5Ig/180s.jpg",
+        "address": "Summerville, SC",
+        "friends": 3,
+        "photos": 35,
+        "reviews": 52
+      },
+      "comment": {
+        "text": "I ordered the bison red rock burger. It was delicious, however, I ordered it medium and it was more medium well. It took awhile for someone to come get our order but the atmosphere of the restaurant was nice and they didn't seem too busy or crowded. I would go back if I was in Atlanta again.",
+        "language": "en"
+      },
+      "date": "2022-10-26T22:24:36Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xflKGPzVRjUSbtadD04LBA/o.jpg",
+          "caption": "Bison Red Rock Burger"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Roaming E.",
+        "user_id": "1QldW62XbctFKRtCQDk3Sw",
+        "link": "https://www.yelp.com/user_details?userid=1QldW62XbctFKRtCQDk3Sw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UwzRDs6vwtTpH8f8pi4qhA/180s.jpg",
+        "address": "Lee's Summit, MO",
+        "friends": 8,
+        "photos": 23,
+        "reviews": 132
+      },
+      "comment": {
+        "text": "Ok, I've heard good things.  Unfortunately, they were true.  Maybe it's this location.   This was a train wreck. \n\nFirst, you arrive to an empty host stand.  When what appears to be the service staff arrives to make sense of the stack of people, you might get a seat within 15 min of your reservation.  Not the fault of the server, this really shouldn't be their role.  But this started things off in the wrong foot. \n\nNext, you are shuffled through a dining room that has about 3 too many tables making it almost impossible to navigate through without infringing upon those already sitting at these tables.  \n\nNow the food.  It just was not good.  We started with nachos, and they were decent. They raised this beyond a 1 star review.  Tasty, lots of chips burrows under the toppings.   One in the party had the chicken tensor salad and it was quite good.  He commented on the chicken actually making a large appearance with the salad. Typically that's an afterthought. The rest of the table had bison burgers.  All were bland and overcooked.  In fact, we were commenting about how they sat like bricks all afternoon in our bellies.  The onion rings that came with the burgers were good. Could've been hotter, but they were good.  The fries however, we simply too old to have any impact. \n\nOur server was a good dude. He tried his best.  The service was not good, but that was due to the server having to many tables, along with his occasional host duties.  \n\nIt's a popular place down there, but I'd take a hard pass.",
+        "language": "en"
+      },
+      "date": "2022-09-17T14:17:24Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lucille P.",
+        "user_id": "GMjkoxmY6Y2DlfQc422ILg",
+        "link": "https://www.yelp.com/user_details?userid=GMjkoxmY6Y2DlfQc422ILg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0AGRWvczCc--aX_-dLu5gw/180s.jpg",
+        "address": "Brick, NJ",
+        "friends": 4,
+        "photos": 1,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Last week my husband and I were on vacation in Atlanta, GA and went to Ted's Montana Grill for dinner.  It was a Thursday night and I called ahead and was told we just had to show up and put our names on a waiting list.  When we arrived the woman at the front told us the wait would be approximately 45 minutes or so and we agreed to wait and she put us on the list.  After one hour I went to the front to check on our status and was told there were 13 people ahead of us and it would be another 30 minutes.  I waited 30 more minutes and went back to the front where a different woman advised there were still 12 people ahead of us.  When I questioned how that was possible as were were told 45+ minutes and it was now double that amount of time she replied in a very nasty tone that she cannot control how long people stay at their table.  We decided to eat at the bar but when our meal came (30 minutes later) my steak was so tough and full of grizzle and fat that I could only eat half of it.  It was a terrible experience.  The only good thing was the bartenders were very nice.",
+        "language": "en"
+      },
+      "date": "2023-10-28T12:57:35Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Bizzy L.",
+        "user_id": "lt6bpHem7fe8JVZPm1w_UQ",
+        "link": "https://www.yelp.com/user_details?userid=lt6bpHem7fe8JVZPm1w_UQ",
+        "address": "Atlanta, GA",
+        "friends": 3,
+        "photos": 0,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "The bison burger is the best in town.   Simple and flavorful, service is usually top notch",
+        "language": "en"
+      },
+      "date": "2023-09-30T13:15:44Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Annushka K.",
+        "user_id": "ERWgW5IDguIAQIR71Bkqsg",
+        "link": "https://www.yelp.com/user_details?userid=ERWgW5IDguIAQIR71Bkqsg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xX50nw28P9KE47MOXuYXig/180s.jpg",
+        "address": "Levittown, NY",
+        "friends": 136,
+        "photos": 296,
+        "reviews": 124,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "First time in Atlanta and decided to try this local place- the food was pretty delicious but the service was very very slow, however our server was nice and attentive. The restaurant does take reservations over the phone or via their website. We were told we do not need one for that night and still ended up waiting for at least 20 minutes. The restaurant was very busy on a Tuesday. Crab cakes very super fresh and flavorful, so was the guacamole. The shrimp on ciabatta toast were perfectly cooked and buttery, nicely paired with some zesty  arugula salad for a perfect bite. I have had bison before but never as a steak and let me tell you it was absolutely phenomenal! Perfect medium rare, juicy, every bite melted in my mouth. The sides were okay, snickerdoodle cookie for dessert  was a perfect ending to a great meal.",
+        "language": "en"
+      },
+      "date": "2021-11-03T12:55:46Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mD_kcvkAQJ-JBX9dwnvXXg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1QZRQkAcYc_dq00m3POwXg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/66N9CC8VRVXE6KvpuaZ_pQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 1,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Susan H.",
+        "user_id": "RKIG2ezgGfSu2AxjBl_DXA",
+        "link": "https://www.yelp.com/user_details?userid=RKIG2ezgGfSu2AxjBl_DXA",
+        "address": "Fayetteville, NC",
+        "friends": 2,
+        "photos": 0,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "We arrived at 330 for an early dinner. Our server was wonderful and made suggestions when we couldn't decide what to eat.  The bison steak was cooked to perfection.  We loved the onion rings.  They have booths and tables.  We had no problem carrying on a conversation.   There is a full bar.",
+        "language": "en"
+      },
+      "date": "2023-10-23T22:22:36Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Howard S.",
+        "user_id": "zPP9zQo0k_1l_sX7RDNCHQ",
+        "link": "https://www.yelp.com/user_details?userid=zPP9zQo0k_1l_sX7RDNCHQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GtVYtTFlBMBIztWn2zHaNQ/180s.jpg",
+        "address": "Hot Springs National Park, AR",
+        "friends": 5,
+        "photos": 111,
+        "reviews": 192,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "One of the better run Ted's. The GM was playing host and seating people while also answering the phone- and always smiling.  They were packed and yet the service was excellent and the food was cooked to order.",
+        "language": "en"
+      },
+      "date": "2022-08-12T19:32:21Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ted M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/nIo7fXZH1wKQxA95xPDUjQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the great review, Howard! We pride ourselves on serving made-from-scratch food paired with genuine hospitality. We are so pleased to hear that we delivered. We look forward to seeing you again soon!",
+          "date": "2022-08-13T14:07:16Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Terence G.",
+        "user_id": "KPpmV1u6surL7Amnb3hRKA",
+        "link": "https://www.yelp.com/user_details?userid=KPpmV1u6surL7Amnb3hRKA",
+        "address": "Central Oklahoma City, Oklahoma City, OK",
+        "friends": 1,
+        "photos": 7,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Sat at the Bar top and ordered one of the recommended Burgers. Waited about 45 min and never received my order. A group of (3) to my left (also at the Bar top) arrived approximately 25 min after me and received cocktails/food in a timely manner. Finally questioned my order, Bartender went back to check, and the kitchen hadn't even started on it. Still paid for my glass of Wine and a Manager didn't even come out to address the disconnect or offer an apology for the poor service. Very disappointed in my 1st time here.",
+        "language": "en"
+      },
+      "date": "2023-10-21T01:22:46Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ted M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/nIo7fXZH1wKQxA95xPDUjQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Terence - we're so sorry to hear that your recent visit was not a 5-Star experience. We really value your feedback and would like to connect with you. Would you be so kind to email your contact info (including your phone number) so a member of our operations team can reach out to Jessica at jsmith@tedsmontanagrill.com? Thank you and we look forward to hearing from you.",
+          "date": "2023-10-25T20:16:22Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Alan K.",
+        "user_id": "DhYTtPm_K3gb_SOgOvU9qg",
+        "link": "https://www.yelp.com/user_details?userid=DhYTtPm_K3gb_SOgOvU9qg",
+        "address": "Huntington Beach, CA",
+        "friends": 0,
+        "photos": 16,
+        "reviews": 36
+      },
+      "comment": {
+        "text": "From SoCal and in town for business. Had Delmonico Ribeye with sautéed mushrooms, baked potato and onion rings. I very seldom rate a 5, but you deserve it. Everything was piping hot and excellent.  My server, Judith, recommended it. She also deserves 5 stars. I felt like I have known her my whole life. Thanks for a great dining experience!",
+        "language": "en"
+      },
+      "date": "2023-01-26T23:21:05Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/r84393xbjUHZP8ozYXjidw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Derek G.",
+        "user_id": "4_jjAJ21Y9JcK3AH0MeMkA",
+        "link": "https://www.yelp.com/user_details?userid=4_jjAJ21Y9JcK3AH0MeMkA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WCQ9VjEVv22sXDGbuFuQhg/180s.jpg",
+        "address": "Richmond Hill, Canada",
+        "friends": 10,
+        "photos": 1,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Extremely understaffed! Came here lunch, half of the tables are open, but they can't seat us. Too busy, but we can try the bar.  The bartender was the only person working a full bar and also had to process payments for the whole place. I felt bad for her.  It took an hour for our lunch meal. Food was reasonable.  But totally unacceptable  service for a lunch crowd.",
+        "language": "en"
+      },
+      "date": "2023-04-19T17:08:51Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Marilyn T.",
+        "user_id": "gfyW0vuJls8ARoHmogfcmw",
+        "link": "https://www.yelp.com/user_details?userid=gfyW0vuJls8ARoHmogfcmw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wx3zge2zQbo1oR9S17-9qA/180s.jpg",
+        "address": "Palo Alto, CA",
+        "friends": 82,
+        "photos": 382,
+        "reviews": 2661
+      },
+      "comment": {
+        "text": "This not normally a place I would pick, but we had a work dinner here. We had a reservation for 8pm, but we didn't get seated until about 8:30, and then it took about 20 minutes and a lot of asking to get a server's attention. By the time we got water and ordered, it was about an hour past our reservation time. \n\n- Bison nachos: bison chili, nacho toppings - pretty good for sharing \n- Onion rings: they seemed to forget about this order, but when it did come after we asked again for it, it was a generous portion of large onion rings. The batter was pretty good \n- Big sky grilled salad: I liked the bison burger option for protein, but it was otherwise just a standard salad. Definitely ask for some mustard for the burger \n- Kahlua fudge brownie: pretty good brownie, not too sweet, topped with vanilla ice cream, whipped cream, and a kahlua sauce \n- Berry cheesecake: fairly light \n\nThe food wasn't bad, but I can't remember the last time I experienced such lack of service. It took forever to get the server's attention even to pay the bill, and no one seemed to care about how long we were waiting without service at various points in the meal. No real apologies for the forgotten onion rings, either.",
+        "language": "en"
+      },
+      "date": "2022-06-12T03:20:19Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 4
+      }
+    },
+    {
+      "user": {
+        "name": "Maria D.",
+        "user_id": "ySGLKrwSSk8FThYfcQXJsA",
+        "link": "https://www.yelp.com/user_details?userid=ySGLKrwSSk8FThYfcQXJsA",
+        "address": "Orlando, FL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "The food was great, the service was a little slow our waitress was busy and kept forgetting to come over so we never got any drink refills. But she was friendly. Definitely would come back and recommend!",
+        "language": "en"
+      },
+      "date": "2023-09-13T22:23:27Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mario M.",
+        "user_id": "SlDD_u9gt9-RTviBWHAy4A",
+        "link": "https://www.yelp.com/user_details?userid=SlDD_u9gt9-RTviBWHAy4A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NLO3_qHhT_gO5lSHohH-fg/180s.jpg",
+        "address": "Steele Creek, Charlotte, NC",
+        "friends": 20,
+        "photos": 387,
+        "reviews": 307,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I'm in town for the night with my wife and this is the spot we chose to have dinner. The is a large event in town, so I decided to order online to go. The website  made it easy to order and the restaurant was literally 2 minutes away from our hotel.\n When I arrived I made contact with the bartender and he went to check on my order. Said we were waiting on onion rings. Ten minutes later I was still waiting. I approached another bartender and she assured me that her coworker was getting my order. Alas, he was not. So I took the initiative and went to the pick up window and got the food myself.  Was I upset? No. The place was absolutely packed and i considered myself lucky to had even been served within 15 minutes. Even if I had to serve myself. \nAs far as the food was concerned. Excellent. My wife enjoyed her gluten-free option and I had no complaints. Only gripe was that there were no condiments included. \nWould definitely recommend. Our bill... $40",
+        "language": "en"
+      },
+      "date": "2022-06-11T22:44:44Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ken M.",
+        "user_id": "G6D-6MwavXc-hDHEeV4J_Q",
+        "link": "https://www.yelp.com/user_details?userid=G6D-6MwavXc-hDHEeV4J_Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/N_hcPKdFE6i9PhtW7GB7Fg/180s.jpg",
+        "address": "Milwaukee, WI",
+        "friends": 45,
+        "photos": 85,
+        "reviews": 219
+      },
+      "comment": {
+        "text": "This place is a solid 4. Nothing blows me away, nothing underwhelms. The bartenders are friendly, the food is good, it's close to the hotel so you can eat some thing other than lobby bar food. But it just doesn't grab me as much as I think it should.",
+        "language": "en"
+      },
+      "date": "2023-02-03T02:40:40Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Austin T.",
+        "user_id": "8eGT1u1TnP8g4egdAVCsrw",
+        "link": "https://www.yelp.com/user_details?userid=8eGT1u1TnP8g4egdAVCsrw",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "This was my wife and I's first time to Atlanta, and we thought we would check Ted's out on our first night, and we were not disappointed! I got the bison meatloaf and my wife got the salmon and they were both delicious! \nAlso the staff was very friendly. We had Ty and he was one of the best waiters I've ever had anywhere. Very friendly and kind and making sure we knew that he was on top of things. I can't wait to have him again as a waiter.",
+        "language": "en"
+      },
+      "date": "2023-01-03T15:13:37Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Stephen D.",
+        "user_id": "D-_S-9Gxjze_eOLJsyExfA",
+        "link": "https://www.yelp.com/user_details?userid=D-_S-9Gxjze_eOLJsyExfA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6WHfXWmdQrk5_tnPhqKycg/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 200,
+        "photos": 1119,
+        "reviews": 197,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Came here because of a friend in Jamaica , the hospitality is great and the ambience is beautiful. Definitely boson based, order your meat a lower higher than what you want, I ordered medium rare and it was MW to MR, Bison cooks really dlfsst and the latent heat lasts a long time due to its density!\nServer/bartender was fantastic, helped with some but mainly due to my video call, she was being polite and I appreciated that, nice work!\nOverall, the ambience is welcoming with welcoming vive, servers wear white shirts and black pants, very professional, batlrtemderbwwearsna vest. Traffic during covid is minimal so photos are fantastic!",
+        "language": "en"
+      },
+      "date": "2020-09-19T18:01:59Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hDtJxp9cOzN1roIf5oG0PQ/o.jpg",
+          "caption": "Bartender is great, the menu is eclectic yet southern and the pours are"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=AUV7Ocno9T8_qPlFeRSziA&start=120"
+  }
+}

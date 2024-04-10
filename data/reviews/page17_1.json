@@ -1,0 +1,35 @@
+{
+  "search_metadata": {
+    "id": "65f0a1b81c450a997cfd11a2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f0a1b81c450a997cfd11a2.json",
+    "created_at": "2024-03-12 18:40:56 UTC",
+    "processed_at": "2024-03-12 18:40:56 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/CJnTetBWUuDS_9Rnmn18ow?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1b81c450a997cfd11a2.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1b81c450a997cfd11a2.prettify",
+    "total_time_taken": 1.38
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 160,
+    "num": "50",
+    "place_id": "CJnTetBWUuDS_9Rnmn18ow"
+  },
+  "search_information": {
+    "total_results": 119,
+    "business": "Chirori - Yakitori & Kushikatsu",
+    "reviews_results_state": "Fully empty"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 119
+    },
+    {
+      "hl": "zh",
+      "count": 1
+    }
+  ],
+  "error": "Yelp Reviews hasn't returned any results for this query."
+}

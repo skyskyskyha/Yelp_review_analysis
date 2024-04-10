@@ -1,0 +1,218 @@
+{
+  "search_metadata": {
+    "id": "66019238aa6c95dcf022413d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c435cd11c3877dff/66019238aa6c95dcf022413d.json",
+    "created_at": "2024-03-25 15:03:20 UTC",
+    "processed_at": "2024-03-25 15:03:20 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/6OQOVOqUd8CPkdff-lgqwA?",
+    "raw_html_file": "https://serpapi.com/searches/c435cd11c3877dff/66019238aa6c95dcf022413d.html",
+    "prettify_html_file": "https://serpapi.com/searches/c435cd11c3877dff/66019238aa6c95dcf022413d.prettify",
+    "total_time_taken": 0.68
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 110,
+    "num": "50",
+    "place_id": "6OQOVOqUd8CPkdff-lgqwA"
+  },
+  "search_information": {
+    "total_results": 117,
+    "business": "AltaToro"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 117
+    },
+    {
+      "hl": "es",
+      "count": 1
+    },
+    {
+      "hl": "fr",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Jorge O.",
+        "user_id": "ur2MC0i3rah69fBkRBYuRQ",
+        "link": "https://www.yelp.com/user_details?userid=ur2MC0i3rah69fBkRBYuRQ",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "The tree in the middle of the restaurant is definitely something to see! Amazing food and service as well. I can't wait to come back!",
+        "language": "en"
+      },
+      "date": "2023-06-14T17:25:47Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "J M.",
+        "user_id": "Sb-cIPRj3wOZq3h7ZmG9KA",
+        "link": "https://www.yelp.com/user_details?userid=Sb-cIPRj3wOZq3h7ZmG9KA",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Delicious food, exceptional service, and beautiful ambience. The ceviche is to die for! Can't wait to come back!",
+        "language": "en"
+      },
+      "date": "2023-06-14T03:19:14Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kevin R.",
+        "user_id": "Kg_qEqDfDgRozkiUWs8mYg",
+        "link": "https://www.yelp.com/user_details?userid=Kg_qEqDfDgRozkiUWs8mYg",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Delicious and great ambiance, really recommend dining in here. The service is incredible with the really nice and friendly waiters",
+        "language": "en"
+      },
+      "date": "2023-05-27T17:33:59Z",
+      "rating": 5,
+      "tags": [
+        "First to Review"
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Julia M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/hP7SpHR4eq9iU-T6idF0Sw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for your kind words, Kevin. We are pleased to hear that you enjoyed the food, service, and ambiance during your visit. We hope to serve you again soon!",
+          "date": "2023-06-19T19:09:10Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Precious C.",
+        "user_id": "PuRLYBMJoikEbxK0SWhmWQ",
+        "link": "https://www.yelp.com/user_details?userid=PuRLYBMJoikEbxK0SWhmWQ",
+        "address": "Greenbelt, MD",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 46
+      },
+      "comment": {
+        "text": "Kyle is great! Love the drinks, ambience and decor. Live entertainment 10/10 highly recommend",
+        "language": "en"
+      },
+      "date": "2023-06-28T01:46:41Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Scott P.",
+        "user_id": "5FGu1LYSyjeSeEl9KUdcSw",
+        "link": "https://www.yelp.com/user_details?userid=5FGu1LYSyjeSeEl9KUdcSw",
+        "address": "Marietta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "sitting at our table now and checking to see if Altaroro has availability for us again next week. This place is amazing...the food has fantastic flavors and must be made with the best ingredient. The entertainment is festive and authentic. Fun atmosphere and wonderful food, the perfect place for our nine year anniversary dinner. We'll definitely be back.",
+        "language": "en"
+      },
+      "date": "2023-06-25T01:00:44Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Julia M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/hP7SpHR4eq9iU-T6idF0Sw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for your kind words, Scott. Our goal is to provide guests with a lively atmosphere to enjoy our delicious food, and we are pleased to hear that we hit the mark for you. We hope to serve you again soon!",
+          "date": "2023-06-26T21:19:23Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "D'anne H.",
+        "user_id": "JuSSucySuHMR9nBzGJe-8Q",
+        "link": "https://www.yelp.com/user_details?userid=JuSSucySuHMR9nBzGJe-8Q",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "The scene...the food...the cocktails...the staff...ALL PERFECTION!  This is a \"must do\" in Atlanta!",
+        "language": "en"
+      },
+      "date": "2023-06-15T00:20:06Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tanisha J.",
+        "user_id": "nkOXUm2gtvkSAv2e1qIlrw",
+        "link": "https://www.yelp.com/user_details?userid=nkOXUm2gtvkSAv2e1qIlrw",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Amazing food and ambiance. The service was fantastic! Izzy was my server and was the best! Thank you for a great experience!",
+        "language": "en"
+      },
+      "date": "2023-06-14T23:17:14Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ]
+}

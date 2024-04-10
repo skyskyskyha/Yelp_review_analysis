@@ -1,0 +1,2367 @@
+{
+    "search_metadata": {
+        "id": "65ef30c4f2180167061403b9",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f3ac24a8377f2625/65ef30c4f2180167061403b9.json",
+        "created_at": "2024-03-11 16:26:44 UTC",
+        "processed_at": "2024-03-11 16:26:44 UTC",
+        "yelp_reviews_url": "https://www.yelp.com/biz/KTGOyUdVsd__xSU58vG4Iw?",
+        "raw_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef30c4f2180167061403b9.html",
+        "prettify_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef30c4f2180167061403b9.prettify",
+        "total_time_taken": 1.44
+    },
+    "search_parameters": {
+        "engine": "yelp_reviews",
+        "start": 0,
+        "num": "50",
+        "place_id": "KTGOyUdVsd__xSU58vG4Iw"
+    },
+    "search_information": {
+        "total_results": 291,
+        "business": "5Church - Buckhead"
+    },
+    "review_languages": [
+        {
+            "hl": "en",
+            "count": 291
+        }
+    ],
+    "reviews": [
+        {
+            "user": {
+                "name": "Chasity J.",
+                "user_id": "LOyFomYy5-Hqju-7uJRv9g",
+                "link": "https://www.yelp.com/user_details?userid=LOyFomYy5-Hqju-7uJRv9g",
+                "address": "Chamblee, GA",
+                "friends": 0,
+                "photos": 1,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "We had an amazing brunch today! Our server Maliyah was on top of it. She described the menu items upselled and attended to all of our needs! She was absolutely amazing!! We will be back to see her!",
+                "language": "en"
+            },
+            "date": "2024-02-10T20:11:08Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YCRfUTiSHCYKKwgAloa-jA/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your wonderful review! We are pleased to hear that you enjoyed your experience with us, and that Maliyah took such good care of you. We hope to serve you again soon!",
+                    "date": "2024-02-12T21:35:37Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Ellie H.",
+                "user_id": "L7tNLD1jbXb4RB5p1YYxhA",
+                "link": "https://www.yelp.com/user_details?userid=L7tNLD1jbXb4RB5p1YYxhA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_WAhKCeBfBC1VYMGH4Qhtg/180s.jpg",
+                "address": "Bonita Bay, Bonita Springs, FL",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "5 star food... 5 star service.... 5 star ambiance. Can we just say 5 star across the board? I visited during dinner saturday night & let's just say it was perfect. Party of one, great attention, accommodations to my dinner request was handled with a smile & very approachable. Pleasurable experience at one of Atlanta Top rated restaurants. Thank you 5Church staff and leadership for a absolutely top notch experience all around",
+                "language": "en"
+            },
+            "date": "2024-01-28T21:46:02Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words! We are pleased to hear that you enjoyed your experience with us. Please visit again soon!",
+                    "date": "2024-01-29T22:18:08Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Benjamin C.",
+                "user_id": "99aOU-oRBFRtBNqtRp5WAg",
+                "link": "https://www.yelp.com/user_details?userid=99aOU-oRBFRtBNqtRp5WAg",
+                "address": "Buckhead, Atlanta, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "Chef Angelina made the dinner experience a memorable one. My steak was amazing best I've ever had. The artwork in the restaurant is like a modern museum.",
+                "language": "en"
+            },
+            "date": "2024-02-21T00:56:02Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words! We are pleased to hear that Chef Angelina made your experience so memorable. Please visit again soon!",
+                    "date": "2024-02-21T17:48:57Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Michel S.",
+                "user_id": "5HkF8thNqnOe0QlCNBuJ3Q",
+                "link": "https://www.yelp.com/user_details?userid=5HkF8thNqnOe0QlCNBuJ3Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TP5Ch1QMTuVxzUVKjNJjOQ/180s.jpg",
+                "address": "West Des Moines, IA",
+                "friends": 8,
+                "photos": 383,
+                "reviews": 179,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I came here for a dating event. The restaurant was very well decorated and the ambiance was as if you were in a garden or a forest. Low light, very romantic and intimate. \nThe service was outstanding and the staff ensured that we were very well taken care of. My glass of water was always full, they ensured that everyone received their correct meal based on our seating arrangements. \nI ordered the Branzino and I was not very ompressed. I think that it was good but there was no WOW factor! When I come to a Restaurant to. this caliber, I always look for the WOW factor because that is what you are paying for. To be an extraordinarily meal as it is a Chef and specialty menu. \nI would give them another try but it would not be my first option. \nGive them, a chance and write a review to prove me wrong.",
+                "language": "en"
+            },
+            "date": "2024-02-14T01:09:55Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kwjCXKv46dp1kcxPQj1thw/o.jpg",
+                    "caption": "Branzino"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your feedback! We are pleased to hear that you enjoyed your experience with us. We appreciate your feedback regarding the food and will address your concerns with the culinary team. We hope to serve you again soon!",
+                    "date": "2024-02-21T15:53:02Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Natalie A.",
+                "user_id": "2AqekisW3i1VBhfAPu2T1A",
+                "link": "https://www.yelp.com/user_details?userid=2AqekisW3i1VBhfAPu2T1A",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-2szqa7ucM87JEGEvjYc0A/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 74,
+                "photos": 193,
+                "reviews": 118,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "5Church disappointed me last month with their brunch. We met up with another couple for a post-holiday recap and had a mixed experience. We were all late thanks to Kamala coming to town for the Peach Bowl and thankfully 5Chruch was incredibly accommodating of our reservation, even though we were 15-20 min late. \nWe ordered fast to accommodate the waitress and the next reservation, but unfortunately, this is where things turned sour. I ordered a French omelet as my meal and the omelet was certainly not a French omelet by style alone. Don't characterize an item as a specific style unless your chefs can cook it! The omelet was bland, overcooked for the style, my potatoes were both cold and rock hard, and it was forgotten at first. The waitress brought me someone else's meal and put my omelet on another table. I immediately called attention to this, they took the meal off my table and went to the back of the restaurant to sort it out. I then saw the waitress take my omelet off someone's table and put it in front of me. That's a huge health violation to add to the issue of my food being technically wrong and incorrectly cooked (potatoes). After expressing my upset the staff took my meal away, but not before everyone else at my table was done eating. I asked that the meal be taken off the bill and it was. \nThe only catch though? They added a double bourbon shot onto our tab that my husband and friend didn't notice until we got home. So they took off my $18 omelet and added on a $24 drink! \n\nI will not come back here ever again. I'm sure these were all honest mistakes but there were too many issues to overlook and spend my money here again for a redo.",
+                "language": "en"
+            },
+            "date": "2024-01-19T20:48:25Z",
+            "rating": 1,
+            "tags": [
+                "1 check-in"
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for providing your feedback. We sincerely apologize for the experience you had with us, as it does not align with the high standards we aim to maintain. Your concerns have been taken seriously, and we will address them with the team to prevent a recurrence.\n\nTo make amends, we would like to extend an invitation for you to return and enjoy a much-improved experience, accompanied by a gift card. Please contact me directly at julia@k5hospitality.com to arrange this.\n\nWe appreciate your understanding and look forward to the opportunity to regain your trust.",
+                    "date": "2024-01-24T23:15:57Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Adrienn M.",
+                "user_id": "8o7M-ba0q_av6BPMdWvqQA",
+                "link": "https://www.yelp.com/user_details?userid=8o7M-ba0q_av6BPMdWvqQA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bh7HYmtNQrsv6kAN1l8p0w/180s.jpg",
+                "address": "Jonesboro, GA",
+                "friends": 128,
+                "photos": 13,
+                "reviews": 43
+            },
+            "comment": {
+                "text": "Came here for New Years Eve.... Eh.\n\nThey had the four course meal situation that me and three of my friends decided to do.\nIt was $110 pp for the four course and a bottle of wine. \nWe also wanted to pay the extra $50 for the unlimited drinks, dj and etc.\n\nOur reservation was for 10pm. We got there at 9:55 and had to wait 20 minutes to be seated. They said it's because the other tables went passed their limit. The staff should have either been working on schedule to make sure the courses come out on time or telling the table to get up after their allotted time. I hate making reservations when I still have to wait. After complaining they tell us that they have complimentary champagne... I didn't like that we had to complain to be told that.\n\nIt's freezing outside. They advertised that they had coat check. The coat rack could only hold like 10 jackets so we  were stuck with our jackets the entire night. \n\nthe server was running around and talking so fast we could barely understand what he was saying. \n2 of the courses were good but that was it. Not really worth the money. The lamb chops were amazing. \nWe were instructed to let the server know at the end of our dinner that we wanted to go to the garden room area so he could add the $50 to our tabs. \nThis is when he says that the are is full and we can't go in but he still gave us bands to enjoy drinks at the outside bar. we eventually got in. \n\nI'm sorry ... I like all different kinds of music but the DJ just wasn't hitting. Like corny music. Definitely missing the mark. I felt like he wanted people to leave. People were heading out shortly after the ball dropped. They had a makeshift bar in the garden room area that made me feel like I was at my high school prom. I feel like the midtown location would've been better in this aspect because they have an actual bar on the rooftop. \n\nThe bathrooms were disgusting. I don't know if it was toilet water or what but the floors were wet and gross! \n\nI would also suggest if you're going to go to this event for 2025, book an early table. \n\nI know that these events can invite a bigger crowd and things can happen but definitely try to practice better time management in all departments so that the experience can be smooth for customers.",
+                "language": "en"
+            },
+            "date": "2024-01-16T23:37:36Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for sharing your New Year's Eve experience with us. We apologize for the inconveniences you encountered during your visit.\n\nWe're sorry for the seating delay and any discomfort with the coat check. Your feedback on service, courses, and atmosphere is appreciated, and we'll use it to enhance future events. We're addressing the bathroom conditions immediately.\n\nYour time management suggestions are noted, and we'll strive to improve in these areas.\n\nWe value your patronage and hope to welcome you back for a better experience in the future.",
+                    "date": "2024-01-24T23:06:13Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Carolina A.",
+                "user_id": "tdY1G1XRRTJPg1ztumnxJA",
+                "link": "https://www.yelp.com/user_details?userid=tdY1G1XRRTJPg1ztumnxJA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xprxgX1-STkAuAhro57vCA/180s.jpg",
+                "address": "Sammamish, WA",
+                "friends": 21,
+                "photos": 366,
+                "reviews": 367,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Coolest decor, impecable service and the most delicious food. This place is whimsical, elevated and unique. I went with a big group and got to try a bunch of things:  the salmon appetizer (amazing!), the land and sea plate (the pork belly to die for and the scallops were perfectly cooked), the filet with mushrooms (absolutely on point), broccoli (it had a little kick), and Brussels sprouts (delish).  For desert I had the banana cr\u00e8me br\u00fbl\u00e9e and it was insanely decadent.  They nailed EVERYTHING!  Very memorable meal.",
+                "language": "en"
+            },
+            "date": "2024-02-28T03:57:16Z",
+            "rating": 5,
+            "tags": [
+                "5 photos",
+                "1 check-in"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/roYDBauMkEUSFQvjjiHAZg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L3MWnrFC0tnAOB_1I8YljA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-1wzuFVJF03eIGew-XpmEw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZnMwF76HK-kwQLYmkKc5XQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HkpVOXVtPuNnJI_VIq59OQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your wonderful review! We are pleased to hear that you enjoyed your experience with us. We hope to serve you again soon!",
+                    "date": "2024-03-05T17:34:25Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Jordan D.",
+                "user_id": "yLq9MFu5MhKUWq_I9MuRTQ",
+                "link": "https://www.yelp.com/user_details?userid=yLq9MFu5MhKUWq_I9MuRTQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Dm-Ag0AvV85FV5SZaiBRMw/180s.jpg",
+                "address": "Chicago, IL",
+                "friends": 204,
+                "photos": 838,
+                "reviews": 247,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I was not expecting this place to be as nice as it is. The decor inside is next level, perfect for date night. I sat at the bar, if you're looking for good drinks ask for Tysean he knows what he's doing.",
+                "language": "en"
+            },
+            "date": "2023-12-18T15:19:06Z",
+            "rating": 5,
+            "tags": [
+                "1 photo",
+                "1 check-in"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lirytyDgSr3U3YGZdSeKKg/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words! We are pleased to hear that you enjoyed the drinks, service, and ambiance during your visit. We hope to serve you again soon!",
+                    "date": "2023-12-19T20:04:09Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Ada C.",
+                "user_id": "XVQ5WQRsSKVLwNtn_WaEgg",
+                "link": "https://www.yelp.com/user_details?userid=XVQ5WQRsSKVLwNtn_WaEgg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ub00GR_Gj2VyZFuit0rLBA/180s.jpg",
+                "address": "GA, GA",
+                "friends": 201,
+                "photos": 226,
+                "reviews": 71,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I had previously dined at the Midtown location for dinner a few years ago and the food left much to be desired. My family decided to give the Buckhead location a try to celebrate my sister's birthday over brunch. When making the reservation there are options on which area in the restaurant you'd like to dine so we selected the sunroom and it did not disappoint. \n\nWe valeted for parking. I'm not sure if there were other options available. When we arrived we were seated in the sunroom promptly. Our waitress was very sweet, gave thorough recommendations and was very attentive to our party. The sunroom decor was stunning that was enhanced by the beautiful sunlight. There was great music playing but I was glad it wasn't too loud so you can enjoy brunch comfortably. \n\nWe stared with mimosas and manmosas (champagne, beer and orange juice). For our entrees we ordered the steak and eggs, chicken and waffle, banana French toast and breakfast potatoes. My husband enjoyed how the steak was cooked and marinated. The chicken was seasoned very well with the perfect portioned waffle. And my Mom and sister both loved their French toast and potatoes. \n\nThe restaurant does not do courtesy birthday dessert. We ordered a cheesecake for the birthday girl that was just okay. Overall we enjoyed our food and had a great experience, will definitely dine here again.",
+                "language": "en"
+            },
+            "date": "2023-09-16T22:48:38Z",
+            "rating": 4,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XvOrb4mU96d6ntB-bGppIw/o.jpg",
+                    "caption": "Chicken & Waffle"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VTQDaVDeUe5P9BO1MmJn8Q/o.jpg",
+                    "caption": "Cheesecake"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IBKJZ0eB-ofaFhaEOqu-OA/o.jpg",
+                    "caption": "Steak & Eggs"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9W7RCuKzFYPT47HaDDgcjg/o.jpg",
+                    "caption": "Sunroom dining area"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1pENV6fF2jxMKdLOCQyOyw/o.jpg",
+                    "caption": "Banana French Toast & Breakfast Potatoes"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 2
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for taking the time to leave a review about your recent experience with us. We are pleased to hear that you enjoyed the food, service, and ambiance during your visit. We hope to provide you with another amazing dining experience soon!",
+                    "date": "2023-09-21T21:05:08Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Ashley C.",
+                "user_id": "yhNuQT1QUqS67IU1djO9lQ",
+                "link": "https://www.yelp.com/user_details?userid=yhNuQT1QUqS67IU1djO9lQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ch6F_JGhgXdL_W2V1O9ELw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 24,
+                "photos": 125,
+                "reviews": 71,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "5Church at colony square is in my regular rotation, so I was excited to see how this one compared. We came for Saturday brunch. Parking is tight, but valet is complimentary and you can tip what you like.\n\nThis 5Church seems smaller and they decor is brighter and more airy. The outside area is beautiful, adorned with pretty flowers and plants--like a garden! We wanted to sit out there, but there wasn't anymore space.\n\nOur server (Myron I think) was fantastic. He gave us recommendations, made sure our orders were correct when they arrived at the table, and everything else. He really elevated the experience!\n\nI ordered the biscuits and gravy and a pineapple mimosa. The biscuit was assembled like a sandwich and came with a side of fruit, potatoes, and pimento cheese. It was pretty good. My friends got the burger and fries, which they loved.\n\nI would definitely recommend, and I'll definitely be back!",
+                "language": "en"
+            },
+            "date": "2023-09-04T20:55:10Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1hjmbnX4L49nrSEUZdquHg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kslx79EJ0bDPeXHjtU0pXQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dtoX9oKSDp8if-Fd360FHw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words! We are pleased to hear that you enjoyed your first visit to our Buckhead location. We hope to have the opportunity to provide you with another amazing dining experience soon!",
+                    "date": "2023-09-06T17:58:17Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Alyssa S.",
+                "user_id": "xwTEjcc7VSGkHwMB6e59yw",
+                "link": "https://www.yelp.com/user_details?userid=xwTEjcc7VSGkHwMB6e59yw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/G7Merbu7iSUkB5cKrFWmjg/180s.jpg",
+                "address": "Birmingham, AL",
+                "friends": 214,
+                "photos": 150,
+                "reviews": 162,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "You can't beat the ambiance in the sunroom. It's super lively and the fake foliage make you feel like you're outside! The bone marrow was a little disappointing, as it was mixed with the meat, so you didn't get the marrow on its own. There also was not enough naan served alongside the bone marrow to use as a full spread. The smoked salmon was really good, but a funky flavor. It could have done without the cucumber lime water. There were too many flavors occurring at the same time. So beware if you're weird with food! The banana cr\u00e8me br\u00fbl\u00e9e and cheesecake were excellent. We thoroughly enjoyed both of those flavors. \n\nBuyer beware, a $50 service charge per person is required when dining out here. It is waved as long as the bill is $50/person.",
+                "language": "en"
+            },
+            "date": "2023-07-09T01:47:49Z",
+            "rating": 4,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sG9HVSgR-eYfQVDnBUOjaw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kio7VFbG_4vHaWp9Gtqv-w/o.jpg",
+                    "caption": "Cheesecake and banana cr\u00e8me br\u00fbl\u00e9e"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3xdi2Scw0Zi8otJH6tOHWw/o.jpg",
+                    "caption": "Smoked salmon"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5kPhbo6RgJvz81613INtnw/o.jpg",
+                    "caption": "Bone marrow"
+                }
+            ],
+            "feedback": {
+                "useful": 4,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your review, Alyssa. We are pleased to hear that you enjoyed the ambiance during your visit. However, we apologize for the Bone Marrow not meeting your expectations. We take feedback seriously and will use it as we strive to improve our services. Please visit again soon!",
+                    "date": "2023-07-10T18:39:46Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Alexis B.",
+                "user_id": "BS5eMPWP2Qc6I01sktkqMg",
+                "link": "https://www.yelp.com/user_details?userid=BS5eMPWP2Qc6I01sktkqMg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YByqpH8JT5jdJ8yJpgqLSg/180s.jpg",
+                "address": "Los Angeles, CA",
+                "friends": 8,
+                "photos": 156,
+                "reviews": 76,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Went here tonight! The patio or sun room is the place to go for the decor and ambiance! The deception tequila drink was enjoyable and will say they make a great cocktail! I got the wagyu burger which from the description sounded amazing, but honestly it was underwhelming. I was in a party of 3 and when my food came the burger was not warm l and the fries were cold. I asked for new fries and Just stuck with the burger although I should have sent it back. Unfortunately, not impressed and the service was slow (45 or more mins for food when it was empty, 15 mins to come back to get the check). They even came and provided complimentary hummus because they knew the food was taking forever and still came out cold. Maybe it was an off night but not sure I would recommend.",
+                "language": "en"
+            },
+            "date": "2023-12-06T03:49:11Z",
+            "rating": 3,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/m2in-XzLNszmMYCzUjnJQA/o.jpg",
+                    "caption": "Deception"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for taking the time to share your experience with us. We genuinely appreciate your feedback, as it helps us identify areas for improvement.\n\nWe're delighted to hear that you enjoyed the ambiance and drinks during your visit. However, we sincerely apologize for the disappointment you faced with the food and service. This falls short of our usual standards, and we're sorry for any inconvenience caused. \n\nWe take feedback seriously and will address your concerns with the team to ensure we continuiously improve our services.\n\nOnce again, thank you for bringing these concerns to our attention. We value your patronage and hope to have the opportunity to serve you better in the future.",
+                    "date": "2023-12-07T15:40:22Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Brittani L.",
+                "user_id": "0JVcNJSE3kJcdHvTL2MRWg",
+                "link": "https://www.yelp.com/user_details?userid=0JVcNJSE3kJcdHvTL2MRWg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5jgHbV-LiVsLcazPGpY4xQ/180s.jpg",
+                "address": "Naperville, IL",
+                "friends": 112,
+                "photos": 178,
+                "reviews": 106,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "If I could give this place zero stars I would. The decor and ambiance are cute but that's about it. Save your time and money and go elsewhere. Literally anywhere else! \n\nI had a group of three in my party. We ordered two mimosas and one lemonade. The mimosas literally took 30 minutes to arrive and the lemonade about 40 minutes. When the mimosas finally arrived they were warm. I couldn't even drink it. Gross. \n\nNext, we ordered chicken and waffles. It took an hour to get the chicken and waffles! The place wasn't even that busy. The food was mediocre at best. \n\nNo apologies for the bad service and then they had the audacity to charge 20% gratuity. \n\nNeedless to say next time I come to ATL I definitely won't be back at this establishment!",
+                "language": "en"
+            },
+            "date": "2023-08-12T20:11:43Z",
+            "rating": 1,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/U4qtJJ1NoahJ9VHhFuxhPg/o.jpg",
+                    "caption": "Chicken and waffles"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your feedback. We would like to sincerely apologize for your experience with us. We strive to provide each guest with delicious food and exceptional service, and it is disappointing to know that we fell short of our expectations during your visit.\n\nWe would like to do the right thing and investigate your experience. If there is any additional information you would like to share, you can contact me directly at julia@k5hospitality.com.",
+                    "date": "2023-08-15T16:02:22Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Leslie T.",
+                "user_id": "oof3GfZ3R3kV1Goex4xzVA",
+                "link": "https://www.yelp.com/user_details?userid=oof3GfZ3R3kV1Goex4xzVA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5fRP2VeM8r9Feg6C4lrtpA/180s.jpg",
+                "address": "Memphis, TN",
+                "friends": 7,
+                "photos": 21,
+                "reviews": 87,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I came here once sometime last year for dinner and everything was great. \nRecently I went again, for brunch with my sister. While the brunch menu didn't seem to have very many options, we still had a great experience. Since we went on a whim, we opted to sit at the bar instead of getting onto the waitlist. \n\n-The ambience is always nice! Pretty decor - and not the cheap trendy TikTok look - classy business up in here ok? \n-Complimentary valet \n-Mimosas are just $6! I had the grapefruit one, which sounds very typical and unimpressive, but somehow it's the most delicious mimosa I've ever had?! So I got another one. \n-Girl, the bartender was so friendly, charming and accommodating I almost asked the man for his phone number! Not you coming out from behind the counter to walk up and personally deliver me the cup of ketchup I requested! A1 service with a little chivalry on the side. \n\nDefinitely coming back!!",
+                "language": "en"
+            },
+            "date": "2023-11-09T18:18:06Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words! We are pleased to hear that you enjoyed the drinks, service, and ambiance during your visit. We hope to serve you again soon!",
+                    "date": "2023-11-14T20:32:18Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Gelene J.",
+                "user_id": "lS5k7SC9bF_pI4-uUQah7w",
+                "link": "https://www.yelp.com/user_details?userid=lS5k7SC9bF_pI4-uUQah7w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YtuNE18audKvhv2pE8NJNg/180s.jpg",
+                "address": "Lithonia, GA",
+                "friends": 4,
+                "photos": 84,
+                "reviews": 28
+            },
+            "comment": {
+                "text": "This restaurant was lovely. 5church has complimentary valet parking and free validated parking - in ATL that's hard to come by so 10 before we even walked in. \n\nInside was beautiful, modern and CLEAN. We made reservations and the hostess were more than accommodating and super sweet. We had a table in the sunroom which was elegant and wonderfully decorated- definitely instagram worthy! \n\nOur server Darry was AMAZING- she was so nice, attentive, and swift. The food was a 10! The biscuits and gravy were flavorful and fresh. The waffle was fluffy yet crispy and the hot syrup was perfect. If you're non-pork like me this restaurant is at the top of the list for breakfast places :) \n\nOverall 5church gets 5 stars",
+                "language": "en"
+            },
+            "date": "2023-10-22T09:22:38Z",
+            "rating": 5,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iZujiC13FGZ7mYrBLe1YSA/o.jpg",
+                    "caption": "Biscuits & Gravy Sandwich"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FKQ5kU2P8TwAkyKpUwnbig/o.jpg",
+                    "caption": "Side waffles, 2 eggs scrambled with cheese, side of chicken sausage"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5phLKz1Kyh7jskzc6MrHrQ/o.jpg",
+                    "caption": "Biscuits & Gravy Sandwich"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nek0q1J7ZH7y_nLaHtrVlg/o.jpg",
+                    "caption": "Waffle"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bvDgmocaZOycCUo2ILpjOQ/o.jpg",
+                    "caption": "The sunroom"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for taking the time to leave a review about your recent visit! We are pleased to hear that you enjoyed your experience, and that Darry took such good care of you. We hope to serve you again soon!",
+                    "date": "2023-10-24T17:49:43Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Krystal B.",
+                "user_id": "ThN5n4JYAIv4HhGCtcuZlA",
+                "link": "https://www.yelp.com/user_details?userid=ThN5n4JYAIv4HhGCtcuZlA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/akAG6veWAbVupgD5zo-1lw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 5,
+                "photos": 71,
+                "reviews": 35,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I've visited the 5Church in Midtown for dinner but this was my first time at the Buckhead location. I made a reservation for the Sunroom for 1:30pm brunch. We were running a little late so I called and they accommodated us. \n\nThe sunroom was absolutely gorgeous! The waiter stated that it was inspired by the Atlanta Botanical Garden. The temperature on the patio was comfortable to my guest and I. \n\nFood! It was amazing. My friend has the steak and eggs and stated that it was good. It does come with a side of potatoes. The ham and cheese sandwich is a must try too! Eggs were good. Fries were fresh! We did not get to try the grits because they ran out. We will definitely be back!",
+                "language": "en"
+            },
+            "date": "2023-05-01T10:54:29Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-7jXAHX8668S5jsLXvSNxA/o.jpg",
+                    "caption": "Steak and eggs"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pT0wTy48ckllqVrjAGEyxw/o.jpg",
+                    "caption": "Sunroom"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/T1JgAllJN5wVkxe5iH5Gqw/o.jpg",
+                    "caption": "Ham and egg breakfast sandwich"
+                }
+            ],
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your wonderful review, Krystal. We are pleased to hear you enjoyed the food, ambiance, and service. We take pride in offering a unique and exciting dining experience, and we're glad that we were able to provide that for you. We hope to serve you again soon!",
+                    "date": "2023-05-01T22:47:04Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Keanie T.",
+                "user_id": "NQB8esVlCM9FlqW0szMC2Q",
+                "link": "https://www.yelp.com/user_details?userid=NQB8esVlCM9FlqW0szMC2Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pZ0N11F7DRYRWJIKLTaUaA/180s.jpg",
+                "address": "Denver, CO",
+                "friends": 4,
+                "photos": 149,
+                "reviews": 59,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Very busy so it is a long wait. Took us over an hour to be seated and receive our orders. They got our orders incorrect so we had to wait an extra 15 minutes to receive the correct items. It's beautiful inside and the perfect place for brunch otherwise. There is a 20% service fee added to checks in lieu of gratuity. Mimosas are good. We ordered the steak and eggs as well as the chicken and waffles. The steak was seasoned beautifully and cooked to perfection. The chicken and waffles weren't as good: the breading on the chicken was flaking off and the waffles were a bit dry. Our guests had the eggs Benedict and rated it a 4/5. Overall it was a decent experience. Maybe we will try again.",
+                "language": "en"
+            },
+            "date": "2023-10-29T19:02:13Z",
+            "rating": 3,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_-xAOyYsKS76agmcLuYuRQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/J9yZS8hcP1_LpUtKsPyfNQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2ymWS7aJ4bCsxr3SeXCL4A/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-XG4_h0evVagdfB4ZRzBKA/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for taking the time to leave your feedback about your recent experience with us. We are pleased to hear that you enjoyed the drinks during your visit. However, we apologize for the service and food not meeting your expectations. We would like to gain more information regarding your experience. We kindly request that you send any additional information to julia@k5hospitality.com. We hope to provide you with a better experience in the future.",
+                    "date": "2023-11-01T16:09:00Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Lexi R.",
+                "user_id": "Y45dd8LB6d_n4RO8sHWqBA",
+                "link": "https://www.yelp.com/user_details?userid=Y45dd8LB6d_n4RO8sHWqBA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VXlDz6k2msNxm7OSvaVnCg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 300,
+                "photos": 462,
+                "reviews": 103,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Decor\nThis location was a bit smaller than the one downtown, still lovely in decor, but very cramped.\n\n Service\nI definitely appreciate how considerate and kind the valet was. The waiter was very charismatic, and continue to check on us frequently. They were very knowledgeable on the menu and even recommended great drinks.\n\n Drinks\nYour cocktail, queen stamps her approval on the delicious drinks served here! The fresh, quality ingredients paired with your favorite choice in liquor will dance on your taste buds. This is definitely the kind of place that you come to grab quality a drink. \n\n Food\nI wasn't a fan of the food. The charcuterie board was the best part of the food experience. The variety of things on the board was absolutely exciting and flavorsome. However, I didn't prefer a leg quarter, and did not know that was the part of the chicken that would be prepared. It was prepared with a teriyaki like sauce, on a bed of steam bok choy, with peeled carrot pieces. It was a disappointing combination! I was left eating my sides. I won't say the whole menu is disappointing but I wouldn't choose this particular dish.",
+                "language": "en"
+            },
+            "date": "2023-05-01T06:34:19Z",
+            "rating": 3,
+            "tags": [
+                "9 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hwc0qWSZMQ1iGtWiKpboxQ/o.jpg",
+                    "caption": "Tough love cocktail"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wt625TPYsniXwo02qdE0Og/o.jpg",
+                    "caption": "Charcuterie board"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kmMJBtHqEnTJGK1aqs-FaA/o.jpg",
+                    "caption": "Cocktails"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fFBrrvKuBI9WrHa9yq2j0A/o.jpg",
+                    "caption": "Cocktails"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MKu12FOfv0apyqJoEwh1vw/o.jpg",
+                    "caption": "Salmon"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jTgan9l06N4l3OKJmiLaSw/o.jpg",
+                    "caption": "Charcuterie board"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hSOdjZq3P4Jcdx-B4cjatw/o.jpg",
+                    "caption": "Chicken dish"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wJUbXeOfJ5zb_lC8XEbJCw/o.jpg",
+                    "caption": "Creamy spinach"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SE0Zd9xork5koWxCKY6rkQ/o.jpg",
+                    "caption": "Whipped potatoes"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your feedback, Lexi. We are pleased to hear that you enjoyed the service, ambiance, and drinks. However, we are sorry to hear that the food did not meet your expectations. We take all feedback seriously and will use it as we strive to improve our services. We hope to have the opportunity to provide you with a better experience in the future.",
+                    "date": "2023-05-02T20:12:27Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Alicia L.",
+                "user_id": "oveaEgQQsO0iEDCiiUDLHw",
+                "link": "https://www.yelp.com/user_details?userid=oveaEgQQsO0iEDCiiUDLHw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fTmEqjMjAx4aJsB3c1iC5A/180s.jpg",
+                "address": "Fayetteville, GA",
+                "friends": 126,
+                "photos": 896,
+                "reviews": 359
+            },
+            "comment": {
+                "text": "This place is awesome!! For the local ATLian or the out of towner, you have to try this place. The decor is trendy, artsy, and unique to this location! The food is adventurous, colorful & VERY flavorful.\nThe service is stellar. We had 3 or 4 people waiting on us & checking on us. AND they validate parking for 3 hours!!! #winning\n\nA little tid bit, the kitchen has to reset after brunch now, so after brunch ends at 3:00 there are no food options until 5:00. You can get your drink on, though!!!",
+                "language": "en"
+            },
+            "date": "2023-09-16T23:40:25Z",
+            "rating": 5,
+            "tags": [
+                "7 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wCSkLgJc4W4QygXGQvGYtQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NZtpSI1jAjezp3lwlg6EYQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IGBemMQDT-BV6H8mlFB5AQ/o.jpg",
+                    "caption": "Waygu Burger"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EjNktJ3UTjk8ZC5q6zN6lw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/p3kIvlf_Yr_psI6H3pu_SA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xpB4QO-FlpPrqPaFjm53wQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mi0rH4m2nMY6k1LCQRdWXw/o.jpg",
+                    "caption": "I had to do it!!!"
+                }
+            ],
+            "feedback": {
+                "useful": 5,
+                "funny": 2,
+                "cool": 5
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words! We are pleased to hear that you enjoyed the food, service, and ambiance during your visit. We hope to serve you again soon!",
+                    "date": "2023-09-21T21:06:18Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "LaDreena W.",
+                "user_id": "dawTXCW4dhi_5l5ItMm8oA",
+                "link": "https://www.yelp.com/user_details?userid=dawTXCW4dhi_5l5ItMm8oA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/a7TdMdZljVh30KrqX986Aw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 46,
+                "photos": 580,
+                "reviews": 331,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Beautiful venue with delicious food! A friend and I came for dinner. We started at the bar because we arrived 15 minutes early and they don't seat for dinner until 5:00pm. The cocktails were good! \n\nWe took a look around before we sat for our meal- it's basically an art museum. A nice touch! \n\nWhen the food arrived we enjoyed every bite of what we ate. I don't think there's anything I wouldn't recommend. \n\nThere was an event happening in the patio, so I plan try and make a reservation for it next time.",
+                "language": "en"
+            },
+            "date": "2023-04-08T21:00:49Z",
+            "rating": 4,
+            "tags": [
+                "9 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7NmXH12OnYZv6aryG6oubQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CUKqvHzWr_4MjHza61vUgg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iI8TSCi3nMfPF07gUvcmgg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/p-FhSEP5irm32dpVMEOgKQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IykMFOucnSMQTjPpeCr7VA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JjPjjIvVRvpEVVdR81Zm6w/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R3EoZEmB1lfDe8DecI5fVw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/03aQBlFwnA1YW8P8zKye3Q/o.jpg",
+                    "caption": "Potatoes"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7gI6w7b90QhRrcbgWB_22w/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for taking the time to leave a review, LaDreena. We are pleased to hear you enjoyed the food, drinks, and ambiance. We look forward to your next visit!",
+                    "date": "2023-04-11T22:30:05Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Cait A.",
+                "user_id": "lHvVVvkc-5MEMoCN7IfZtg",
+                "link": "https://www.yelp.com/user_details?userid=lHvVVvkc-5MEMoCN7IfZtg",
+                "address": "Lawrenceville, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "Taylor the bartender was absolutely AMAZING! Her service was top tier & she makes incredible drinks. 10/10",
+                "language": "en"
+            },
+            "date": "2024-03-09T03:36:15Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Natalie R.",
+                "user_id": "aM4xDYGz8dSbffk_5V5cyg",
+                "link": "https://www.yelp.com/user_details?userid=aM4xDYGz8dSbffk_5V5cyg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AZs2wkd37uPsszJeabzVlQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 230,
+                "photos": 456,
+                "reviews": 207,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Brunch in the garden room is AMAZING! The vibes are great, the drinks are good and the food is great. The steak was well done when we asked for medium but other than that, everything was great. Definitely recommend the French toast!",
+                "language": "en"
+            },
+            "date": "2023-09-20T01:09:59Z",
+            "rating": 5,
+            "tags": [
+                "6 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ofC8me05-Q6EypOhABZF3A/o.jpg",
+                    "caption": "Egress"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/of5TJsGfjU17ZbIjhQvCUQ/o.jpg",
+                    "caption": "Banana French Toast"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kBJNW6jsDu_iYCXopoGPmg/o.jpg",
+                    "caption": "Deception in the Garden"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2mx2K9KBgxa661kmPfAiWg/o.jpg",
+                    "caption": "Eggs Benedict with prosciutto"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lqhabUXP95x1z4keRvprhg/o.jpg",
+                    "caption": "Hanger Steak & eggs"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QkTZ6lh9eJrg0iBYu4tc8Q/o.jpg",
+                    "caption": "Brunch"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words! We are pleased to hear that you enjoyed the food, drinks, and ambiance during your visit. However, we apologize for the issue with your steak. We take feedback seriously and will address your concern with our culinary team. We hope to serve you again soon!",
+                    "date": "2023-09-21T21:15:52Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Paul P.",
+                "user_id": "JsVhiQuGRPeBWHQptSGfOw",
+                "link": "https://www.yelp.com/user_details?userid=JsVhiQuGRPeBWHQptSGfOw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/C4XtNG9KJmjN5WfUhJ1_Gw/180s.jpg",
+                "address": "Alpharetta, GA",
+                "friends": 23,
+                "photos": 940,
+                "reviews": 228,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Worth avoiding this place on weekends. No reservation means long wait times. Ham and cheese sandwich as part of the 5church breakfast is probably one of their better dishes. Cornbread was also great. Everything else seemed mediocre. Oily fries, under-roasted potatoes, chewy steak to name few are disappointing for a supposedly premium brunch place. They also mandate a minimum 20% gratuity. I will not be repeating. \n\nService - 4/5\nFood - 2.5/5\nAmbience - 3/5",
+                "language": "en"
+            },
+            "date": "2023-04-30T16:32:01Z",
+            "rating": 3,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nhuPV5fKfkg7LOGZGXNEqg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/O8rQFjj07t6KSt-FThLznQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9ob_gxO3duKSBxAJytaIlw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YPpxNOAH4ZUWP78Nc5-VIQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your feedback, Paul. \n\nUnfortunately, without a reservation, we cannot guarantee immediate seating. However, you can secure a reservation on opentable or call the restaurant for assistance. \n\nWe do add a 20% gratuity on each brunch check. This policy is listed on the bottom of our menus, on our website, and on opentable. \n\nWe are pleased to hear that you enjoyed the Ham and Cheese Sandwich and the Cornbread. However, we are sorry that the other dishes did not meet your expectations. \n\nWe would like to do the right thing and investigate your experience. May we ask for the date and time of your visit or the name of your server? You can contact me directly at julia@k5hospitality.com.",
+                    "date": "2023-05-02T19:51:24Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Kristine A.",
+                "user_id": "RD9Mj5FkHM9GSwuJ1nFEqw",
+                "link": "https://www.yelp.com/user_details?userid=RD9Mj5FkHM9GSwuJ1nFEqw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AqPLQCO1oKWyWaOLkVOhaQ/180s.jpg",
+                "address": "Norcross, GA",
+                "friends": 70,
+                "photos": 322,
+                "reviews": 173,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "You need to valet park it seems and they don't seem to have alternative creamer or milk options sadly :( However! The food WAS PERFECT!! I ordered the eggs Benedict with cured salmon (with potatoes) and my partner and his Dad French Omelette, which was equally good. Mostly because his Dad has dentures and needed soft type of food. But he said even the potatoes were soft, so just keep in mind that anything potatoes is soft. But also the ambient of the place was nice and not to mention the patio looked cool! I wasn't sure if that would've been too hot. We were served by an awesome waiter, which sadly I don't know his name. But if he's reading this thank you so much! You made celebrating my partner's Dad's birthday an awesome start.",
+                "language": "en"
+            },
+            "date": "2023-09-09T17:00:11Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JLU6ZJ2H_pq5jfjcKCfpHQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/s5moHnl_aiAuBbkUeifBEA/o.jpg",
+                    "caption": "Eggs Benedict with cured salmon (with potatoes)"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for taking the time to leave a review about your recent experience with us. We are pleased to hear that you enjoyed the food, service, and ambiance during your visit. \n\nNext time you visit, be sure to ask for directions to our parking garage. We validate for up to 2 hours during brunch.\n\nThank you for your kind words and we hope to have the opportunity to provide you with another amazing dining experience soon!",
+                    "date": "2023-09-12T16:14:20Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Chinwe K.",
+                "user_id": "4qBZvzoCyucIj-JZ6OHa7Q",
+                "link": "https://www.yelp.com/user_details?userid=4qBZvzoCyucIj-JZ6OHa7Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/m_dEPUZpR6y13fOaBFe_Pg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 7,
+                "photos": 90,
+                "reviews": 55,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I went here with a friend a few months after this location opened. It's a nice restaurant with pretty decor. I went here for lunch and ordered the Buckhead burger. I didn't order dessert but my friend ordered cr\u00e8me brule which she did not like. Now we went here a year ago, so I'm hoping they've improved on the dessert front. \n\nI wasn't impressed when I went here but I plan to give this place a second chance and try something on the dinner menu.",
+                "language": "en"
+            },
+            "date": "2023-09-07T13:44:27Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your feedback. We are pleased to hear that you enjoyed the ambiance during your visit. However, we apologize for the food not meeting your expectations. \n\nOver the past year, our award-winning chefs have been hard at work crafting a new and improved menu that we are incredibly excited about. We are confident that these changes will elevate your dining experience to a whole new level.\n\nWe hope to have the privilege of welcoming you back in the near future to showcase the positive transformations we've made. Your satisfaction is our top priority, and we are committed to providing you with a memorable and enjoyable culinary experience. We look forward to serving you again soon.",
+                    "date": "2023-09-07T22:46:57Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Tanisha K.",
+                "user_id": "tbAN5YiUmBbccxdZAC4Daw",
+                "link": "https://www.yelp.com/user_details?userid=tbAN5YiUmBbccxdZAC4Daw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/iTxuJVnmKeIAvD3N30dzjQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 420,
+                "photos": 645,
+                "reviews": 232,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I went to five church and The food was cooked and seasoned too. Anyone that likes fresh herbs , baked healthier chicken and vegetables, I definitely recommend you try them. The food smelled great and it was hot. The drink was strong but not bitter.  The service was fast and friendly. The ambiance is perfect for a date night. Definitely a dress up\nAnd enjoy the night vibes.",
+                "language": "en"
+            },
+            "date": "2023-03-17T11:06:05Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Xea9hbdgLoQLvhfidAfFYQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words, Tanisha. We are pleased to hear you enjoyed your experience with us. We strive to provide guests with exceptional food and service, and we are glad that we hit the mark for you. We hope to have the chance to serve you again in the future.",
+                    "date": "2023-03-17T15:50:31Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Valerie V.",
+                "user_id": "lLWCYaFbZ95Vjwl_yGbipg",
+                "link": "https://www.yelp.com/user_details?userid=lLWCYaFbZ95Vjwl_yGbipg",
+                "address": "Midtown Atlanta, Atlanta, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 6
+            },
+            "comment": {
+                "text": "Beautiful restaurant with cool bar and yummy cocktails.\nHad dinner in the sunroom.  Our server was really nice and very knowledgeable.  Food was great.",
+                "language": "en"
+            },
+            "date": "2024-02-21T15:55:56Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words! We are pleased to hear that you enjoyed the food, service, and ambiance during your visit. We hope to have the opportunity to serve you again soon!",
+                    "date": "2024-02-21T17:49:53Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Onur O.",
+                "user_id": "8NAtPbboErE5R1JqZqbTLg",
+                "link": "https://www.yelp.com/user_details?userid=8NAtPbboErE5R1JqZqbTLg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Kj6ZVODdteQlK23KO0luUw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 18,
+                "photos": 0,
+                "reviews": 3
+            },
+            "comment": {
+                "text": "Food and service was exceptional however it was pretty quiet for a Friday night. Actually bar area started to fill up after 9:30pm, still not enough vibe.",
+                "language": "en"
+            },
+            "date": "2024-02-16T23:09:16Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your feedback. we are pleased to hear that you enjoyed your experience with us. We hope to serve you again soon!",
+                    "date": "2024-02-21T16:01:09Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Liz D.",
+                "user_id": "Lw1CvoHdDjWirTVSmfjM4g",
+                "link": "https://www.yelp.com/user_details?userid=Lw1CvoHdDjWirTVSmfjM4g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0NnghM2xfWhfrZeNgFbLeQ/180s.jpg",
+                "address": "Brooklyn, NY",
+                "friends": 86,
+                "photos": 881,
+                "reviews": 233,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I can understand why getting sunday Brunch reservations was easy here. This place did not live up to the hype from social media. \n\nHad reservations and was seated within a few minutes. The waitress came over and she was nice but throughout service was forgetful and not attentive. \n\nI ordered steak and eggs and it was ok. Very subpar. I wanted a side of toast and was told they don't have toast on the side. They also ran out of french toast apparently. That was not a good look. I ordered a pineapple mimosa and it was ok as well. I ordered another one and had to ask the waitress for it after waiting a while. She stated oh yeah, it's at the bar. Clearly she just was not keeping up with things. \n\nMy friend ordered fries with her  meal and it never came however was on the bill. Another table came after us and got their food immediately and their fries were there for them. They seem to have known the manager. The same manager who was walking around to specific tables acknowledging them and never did for our table despite their mishaps with service.\n\nWe were a table of 3 and gratuity of 20% was already added. When that happens establishments should provide proper service and in this case that was not shown here. \n\n5 church was not worth the trip. Their outside patio was empty and that's probably because they charge to sit out there. That is unnecessary.",
+                "language": "en"
+            },
+            "date": "2023-01-22T08:16:34Z",
+            "rating": 3,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cfAl6-cfEMdp9kxAmSivPw/o.jpg",
+                    "caption": "Steak and eggs. This is actually with an extra order of 2 eggs. Normally this is smaller portioned."
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your feedback on your recent visit to our establishment. We apologize for the poor service you experienced and any shortcomings in your meal. We strive to provide a high level of service and quality to all of our guests, and it seems we fell short in your case. We will address the issues you mentioned with our staff and management team to ensure that similar situations are avoided in the future. We appreciate your honest feedback and hope you will give us another chance to provide you with a better dining experience.",
+                    "date": "2023-01-23T18:54:38Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Chris T.",
+                "user_id": "pOePbZ2t_abMNT-FDDwHiQ",
+                "link": "https://www.yelp.com/user_details?userid=pOePbZ2t_abMNT-FDDwHiQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NLz-0yECqsII2Y7Er3qmYw/180s.jpg",
+                "address": "Rex, GA",
+                "friends": 201,
+                "photos": 151,
+                "reviews": 180,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I thoroughly enjoyed this place. Lee was our waitress and provided some great options. I did opt for the steak and eggs and I must say the steak was tender and savory. We had a carafe of mimosa with the extra shot of alcohol. Sorry I forgot because I am tipsy. This place is cute and nice. \nMusic selection is nice and the ambience is nice and relaxing. \nThe place is clean and if you do not want to valet there is a parking deck when you make a left after the restaurant.  I highly recommend !!!",
+                "language": "en"
+            },
+            "date": "2023-09-03T18:51:26Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words! We are pleased to hear that you enjoyed the food, service, and ambiance during your visit. We hope to provide you with another amazing dining experience soon!",
+                    "date": "2023-09-06T17:48:12Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Dazziyah M.",
+                "user_id": "gF41M3oiTyYLSFYrNnggcQ",
+                "link": "https://www.yelp.com/user_details?userid=gF41M3oiTyYLSFYrNnggcQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LpTaG9iUICyp0VZtQ7nyww/180s.jpg",
+                "address": "Sandy Springs, GA",
+                "friends": 95,
+                "photos": 853,
+                "reviews": 157,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "My best friend and I went here for our galentines brunch. The ambiance is so nice! Def a pretty place to take pictures. \nValet works off tips, which makes you want to tip them even more.\n\nThe drink we ordered was the red sangria carafe which was really good! Not sweet, slightly bitter, but still good! \n\nThe food unfortunately was okay. Our food came out slightly cool. Like it was sitting. I ordered the crawfish and grits, the flavors were so good! But this place also gives you really small portions which I do not favor for how much you pay.  The bowl was so big, when you go in to take a bite of the grits, the picture is exactly what it is. You're already scraping the bottom of the plate.... The grits were cooked well and the crawfish had a great flavor to it.\n\nMy friend liked her food as well, not sure what it was called, but it was slightly on the cooler side as well. \n\nOur fries were not great, they came out cool and kind of hard. \n\nI would not come back here to eat, but I would definitely come for the drinks.",
+                "language": "en"
+            },
+            "date": "2023-02-15T19:58:24Z",
+            "rating": 3,
+            "tags": [
+                "7 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1g3T2qkEs56Wf66E-Th4yg/o.jpg",
+                    "caption": "Inside"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cr2iVjMOk_GDrhDGIEaECg/o.jpg",
+                    "caption": "Bar"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rwgWynJSvCqEU6WdSo3d7g/o.jpg",
+                    "caption": "Inside"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WD5jC604TcbKAI9nph_zLQ/o.jpg",
+                    "caption": "Fries"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jPhe35to_HL34ivbItm9bg/o.jpg",
+                    "caption": "Crawfish and grits"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NFCJ4NcIf1wkjNMm8hZr_w/o.jpg",
+                    "caption": "Inside"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CcNvUU77McFdbrZ3SsZMuQ/o.jpg",
+                    "caption": "Sangria"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Scot G.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/NjsvA4XhKCeSEhys5ED3Bg/90s.jpg",
+                        "role": "MANAGER"
+                    },
+                    "comment": "Hi Dazziyah, \nThank you for your feedback. We are happy to hear you enjoyed the drinks and ambiance. We apologize for the food not meeting your expectations. We will address the issues with our staff and strive to do better. We hope you choose to give us another chance in the future.",
+                    "date": "2023-02-16T16:25:50Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Jenna O.",
+                "user_id": "UXUnbStiig7Mup19w9JH6A",
+                "link": "https://www.yelp.com/user_details?userid=UXUnbStiig7Mup19w9JH6A",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/N2gXu9qVmWoNgCcO6LFgKg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 31,
+                "photos": 1285,
+                "reviews": 191,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "If you want to have a fancy date or bougie outing with your friends, this is the place for that. I'd keep the parking in mind as there isn't street parking in the area and the lot is small, but there is complimentary valet! If you decide to get a ride to and from it just opens you up for their drink menu.\n\nLets start on drinks, first they have an extensive wine menu, as well as a full bar. Their specialty cocktails are unique, but they also are limited, so if you're picky on your alcohol and mixed drinks you might be better off ordering a basic cocktail or a glass of wine. Personally I would like to see them fill out more gin cocktails, but they just need to add more to their specialty drinks all around. \n\nFood is the talk of the town here, and my god was it worth talking about. We started our meal off with the Bone Marrow to share, and then got the Veal Chop and a Filet Mignon. We had an abundance of sides, probably more than we needed to order. The Bone Marrow was a perfect starter, with the rich meat and pickled vegetables it opened our tastes buds and set us up for the rest of the menu. My Veal Chop (first time having veal) was amazing, on a bed of polenta super delicious. The Filet Mignon we ordered with Foie Gras, and that literally melted in your mouth, I would go back and order this more than once a week if I could handle all that red meat. All of our sides were delicious, but again we ended up with way too much food. \n\nOf course we got the tiramisu to end our meal, and while it hit the spot, it was not the best tiramisu I have ever had, next time I think I will opt for the Banana creme brulee.",
+                "language": "en"
+            },
+            "date": "2023-01-30T14:59:36Z",
+            "rating": 5,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2wibtFaVgLNfQSdu2Mkmlw/o.jpg",
+                    "caption": "Veal chop"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/97LI_W92dlzkCZtEXqKweg/o.jpg",
+                    "caption": "Tiramisu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3GEr25cygGxhXue0ChpBDQ/o.jpg",
+                    "caption": "Menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ScrjeCVzlcamM_oM8GBHZA/o.jpg",
+                    "caption": "Cocktails and bone marrow"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RXDNuEHeazHHSS95Htkdfw/o.jpg",
+                    "caption": "Specialty cocktails"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Hi Jenna,\nThank you for your kind words! We are so happy to hear that you enjoyed your dinner with us! We appreciate your feedback and we will take it into consideration as we strive to improve our services in the future. Upon your next visit, we recommend our complimentary valet, as it makes the parking process fast and easy. We hope to see you soon!",
+                    "date": "2023-01-31T15:45:07Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Mackenzie H.",
+                "user_id": "kmP0yzpWZrqKZWjAmySAig",
+                "link": "https://www.yelp.com/user_details?userid=kmP0yzpWZrqKZWjAmySAig",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5wXiYKaI3kiMDQLdNyFsQg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 4,
+                "photos": 222,
+                "reviews": 93,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "See PSA at end. \n\nMade a reservation to celebrate my boyfriend's birthday on a Saturday night. Was called about a week before saying that there was a party who booked out the venue and that we would have to change the time or the day of our reservation. Although it wasn't ideal because of other plans we had made for that weekend, we were flexible and changed our reservation for Friday. We were booked in the sun room which is absolutely beautiful and had a great waiter who explained the art in the room and through the restaurant. The food and drinks we got were delicious (didn't get it all pictured) with flavors that I couldn't recreate in my kitchen if I tried a thousand times. Overall a very pleasant experience. \n\n!! However, I would like to leave a little information for future patrons because we were never told this when booking or when rebooking our reservations, that there is an expected $75 per person minimum in the sun room. I think that's a fair price and I have no complaints about paying that in the future but it was just awkward to be told this expectation after our meal and when we were handed the check (and we weren't far off that $). \n\nHappy dining! Recommended for date night.",
+                "language": "en"
+            },
+            "date": "2022-12-03T23:12:31Z",
+            "rating": 4,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8-Rk2b5_w06ayfShesKSKQ/o.jpg",
+                    "caption": "Bone marrow and Brussels sprouts"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MdiJrNi1w6Mmyp2ZtinhLg/o.jpg",
+                    "caption": "Cocktail menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Nb_ZQ4yGfPeUwZmaWNlvmw/o.jpg",
+                    "caption": "Cauliflower"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-FD_1AmENnn0DE-TSCtcmw/o.jpg",
+                    "caption": "Sun Tzu"
+                }
+            ],
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Richie R.",
+                "user_id": "4z87B7Fpo1Xa9N65TtDdIg",
+                "link": "https://www.yelp.com/user_details?userid=4z87B7Fpo1Xa9N65TtDdIg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vUBtUC3kV97IdJEM-36ADQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 5,
+                "reviews": 58
+            },
+            "comment": {
+                "text": "Much better experience than the midtown location. The food was great and drinks were on point. Make sure you order the wagon wheel Ole Fashion. The chef has definitely step his game up. Customer service was solid too!",
+                "language": "en"
+            },
+            "date": "2024-02-01T02:43:22Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words! We are pleased to hear that you enjoyed the food, drinks, and service during your visit. We hope to serve you again soon!",
+                    "date": "2024-02-05T21:20:10Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Siva M.",
+                "user_id": "yofbl0-JdflmLMdik8onFA",
+                "link": "https://www.yelp.com/user_details?userid=yofbl0-JdflmLMdik8onFA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DRrqRMHi15j35x2wpu9BMg/180s.jpg",
+                "address": "Sandy Springs, GA",
+                "friends": 0,
+                "photos": 6,
+                "reviews": 26
+            },
+            "comment": {
+                "text": "Service is chefs fucking kiss! The manager was attentive she was walking around the whole time and she brought me champagne for my birthday. Derron gives perfect and personable service no complaints at all.",
+                "language": "en"
+            },
+            "date": "2024-01-15T18:34:46Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words! We are pleased to hear that you enjoyed your experience with us, and that Darren took such good care of you. We hope to serve you again soon!",
+                    "date": "2024-01-15T18:41:38Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Melina W.",
+                "user_id": "C2dpptP3qiTOgCEse5HCfw",
+                "link": "https://www.yelp.com/user_details?userid=C2dpptP3qiTOgCEse5HCfw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-fYWCS3ElqIuIAp2V6kcvQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 767,
+                "photos": 197,
+                "reviews": 41
+            },
+            "comment": {
+                "text": "I'm in love with this place! On todays food adventure I went to check out 5 Church Buckhead. Starting off the restaurant has 2 looks. The indoor looks as though you're inside a whimsical dark fairy tail. The walls are painted black with passages written from books in white ink and there is floral trees with beautiful light features throughout the venue. The outside is designed as a green house with lots of white flowers and trees. One would say good and evil, choose wisely.  We choose the the outdoor area, please take into consideration that there is a $150 minimum if you choose outdoors. [Don't know why is required vs the inside, but not hard to reach]\n\nWe started off with a couple cocktails. I recommend Egress and the Sun Tzu.  Appetizers wise, we ordered the Bone Marrow and Land & Sea. Not a fan of the Cured Salmon, not enough flavor in my opinion. As for food their menu is all delicious. The Cacio E Pepe is super yummy and we also got the Prime Ribeye. Our server truly made the experience delightful by being animated and giving good costumer service. \n\nThey have complimentary valet parking, like I always say this is a huge plus in my books. I would highly recommend putting this on your food adventure list. Is definitely worth the visit. Let your taste buds live their best life.",
+                "language": "en"
+            },
+            "date": "2023-06-01T17:05:44Z",
+            "rating": 4,
+            "tags": [
+                "6 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CmF3Wa6gDwlMSg-ehKQJlw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QL4uwmJBkJVvFGCwV57drw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/S14iQ8AsuIV4MmXG5lKF1w/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kb1SUjJdiKfNnT0IhWDepg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/axdrdi53mhtnCnItfYTxbw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RcJehMSAipKtrj4PyMyroA/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your wonderful review, Melina. We are pleased to hear that you enjoyed the atmosphere during your visit. We take great pride in creating a unique and captivating ambiance, and we're delighted that you appreciated the visual appeal of both spaces.\n\nWe do have a minimum of $75 per person to be seated in the Sunroom area. We understand that the minimum is not ideal for everyone, but it is necessary to maintain the exclusivity of the space.\n\nWe apologize if the Cured Salmon appetizer didn't meet your expectations in terms of flavor, but we're delighted that you enjoyed the other dishes. We will pass along your feedback to our team and use it as we strive to improve our services.\n\nIt is great to know that your server provided excellent customer service. We strive to provide attentive and engaging service to enhance our guests' experience, and we're glad that it made a positive impact on your visit. \n\nWe hope to serve you again soon!",
+                    "date": "2023-06-02T15:47:23Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Roz J.",
+                "user_id": "SJ7IbI1QVvia5muxByAv7w",
+                "link": "https://www.yelp.com/user_details?userid=SJ7IbI1QVvia5muxByAv7w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dgXFlE3ohlSWcACmVQh89A/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 10,
+                "photos": 424,
+                "reviews": 161
+            },
+            "comment": {
+                "text": "We made reservations prior to coming and got there 20 minutes earlier. We were greeted by the host and seated right away. \nOur servers name was precious, who was very pleasant to talk to and shared her best recommendations.\nWe prefer ordered ceviche and it came with banana chips... was so good\nSalmon and Mahi Mahi were delicious and had no fishy smell. \nDefinitely recommend the banana creme brulee\nAmbiance, as seen in the picture is beautiful",
+                "language": "en"
+            },
+            "date": "2023-06-10T04:16:08Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bvL2PJjV2tKetRM8MeGuQA/o.jpg",
+                    "caption": "Ceviche"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nNY1wF95_luynAagsxF6xw/o.jpg",
+                    "caption": "Salmon and Mahi Mahi"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2E0dRCdwgsJg4NMl94vU0A/o.jpg",
+                    "caption": "Banana creme Brulee"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your wonderful review! We are pleased to hear you enjoyed the food and ambiance during your visit. It's also great to know that Precious took such great care of you and made your experience so memorable. We hope to provide you with another amazing dining experience soon!",
+                    "date": "2023-06-10T15:26:40Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Tobi A.",
+                "user_id": "gAO9Q3R4tFhtYo6glUr0Vw",
+                "link": "https://www.yelp.com/user_details?userid=gAO9Q3R4tFhtYo6glUr0Vw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ygfflr1YrGQmxDzFBj07AQ/180s.jpg",
+                "address": "Stone Mountain, GA",
+                "friends": 28,
+                "photos": 456,
+                "reviews": 100,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "The fact that I experienced their Buckhead location before checking out the midtown location after all these years. The place is located next to Lenox and the only parking option was valet. \n\nNice and spacious with a beautiful outdoor patio setting which was perfect for pictures and aestehics. The brunch menu was pretty much the typical breakfast/lunch vibe as many of the restaurants in atl. Since I haven't been to the midtown location, I can't compare it. But over all I enjoyed my time here.\n\nEverything was exactly as I would expect it to be. Nothing too extraordinary.",
+                "language": "en"
+            },
+            "date": "2023-01-05T21:35:27Z",
+            "rating": 3,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_UvlblK_85mSHbGN7edS3Q/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4iPR7SHuYy6yJX6Rih2tEA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/d_TN3J2ktVFSKdYfQqlMrA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LXW_wfrFpj2O6ctU8mFN-Q/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rzsuEkYHOnq-H01VAbyqBA/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Scot G.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/NjsvA4XhKCeSEhys5ED3Bg/90s.jpg",
+                        "role": "MANAGER"
+                    },
+                    "comment": "Thank you for taking the time to review our Buckhead location and for sharing your thoughts on our sunroom patio, the brunch menu and the parking situation. We are glad to hear that you enjoyed your time at 5Church Buckhead and that our sunroom was perfect for pictures and aesthetics.\n\nWe apologize for any inconvenience caused by the parking situation, as we understand it can be challenging in that area. Our complimentary valet service is something our guests love, but for those who prefer to self park, we do offer self-parking options below the restaurant which is mentioned on our website and also OpenTable page when you make the reservation.\n\nWe appreciate your visit and would love to welcome you back to our restaurant in the future. It would be great to have a chance to show you our Midtown location as well and make a comparison.\n\nThank you again for your feedback and we hope to see you soon.",
+                    "date": "2023-01-10T19:14:04Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Tim M.",
+                "user_id": "zEfj-kpFBr7d7z7ElW8t3g",
+                "link": "https://www.yelp.com/user_details?userid=zEfj-kpFBr7d7z7ElW8t3g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_2HYffU6laAD2tQWgC87iA/180s.jpg",
+                "address": "Oak Hill, VA",
+                "friends": 15,
+                "photos": 86,
+                "reviews": 174,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Came here for brunch before jumping on a flight. The food was great, had the chicken and waffles. The fruit was fresh on the waffles and the chicken was a hearty piece fried perfectly. I only deducted a star bc the service wasn't as good as the food.",
+                "language": "en"
+            },
+            "date": "2023-11-06T18:05:39Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for taking the time to leave a review about your recent experience with us. We are pleased to hear that you enjoyed the food during your visit. However, we apologize for the service falling short of your expectations. To accurately address your concerns, we would like to gain more information regarding your experience. We kindly request that you send any additional details to julia@k5hospitality.com.",
+                    "date": "2023-11-07T21:20:31Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Cicci G.",
+                "user_id": "V38Laonn1wAEz92EpVexDQ",
+                "link": "https://www.yelp.com/user_details?userid=V38Laonn1wAEz92EpVexDQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/P4js7FEjthhsnAmRZEx0AA/180s.jpg",
+                "address": "Myrtle Beach, SC",
+                "friends": 0,
+                "photos": 3,
+                "reviews": 16
+            },
+            "comment": {
+                "text": "Sunday July 30th 2023 went for Brunch with seven people for my son's 40th birthday weekend which included a Braves game and the Aquarium. This is an outstanding restaurant and must be really special for dinner. From the valet parking to the great waitress we had along with phenomenal food it was definitely something special. We spent $300+ but it was well worth it. Georgia does need to get its act together no alcohol before 11 am on Sunday really??\nEven in South Carolina we can have mimosa and Bloody Mary.\nOur server was great very attentive and explained all item on the menu.\nFive stars all around. \nWe will be back next visit to Atlanta.",
+                "language": "en"
+            },
+            "date": "2023-07-30T22:39:07Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zvuBrFC3ibwU-ZNuc-NqTw/o.jpg",
+                    "caption": "Menu Food"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words! We pleased to hear that you enjoyed the food, service, and ambiance. We hope to see you during your next visit to Atlanta!",
+                    "date": "2023-07-31T21:19:58Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Jessica S.",
+                "user_id": "3CoSe5H7oS15hREWvrDqmQ",
+                "link": "https://www.yelp.com/user_details?userid=3CoSe5H7oS15hREWvrDqmQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oXykwNmbV0IQhX2NoBk0Sg/180s.jpg",
+                "address": "Phoenix, AZ",
+                "friends": 50,
+                "photos": 9,
+                "reviews": 42
+            },
+            "comment": {
+                "text": "Came here for brunch, and it was fantastic! Great music, beautiful venue, awesome service! We had the steak and eggs and the 5church breakfast. Steak was perfectly medium rare. The breakfast sandwich had the best cheese I've ever had (guessing gouda maybe?).  Special shout out to our server, Jeff, who was absolutely FANTASTIC!",
+                "language": "en"
+            },
+            "date": "2023-10-07T18:42:20Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/q7NB5nYVbBlP9mn-XHaQ4w/o.jpg",
+                    "caption": "5church breakfast and steak and eggs"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2HyYuW6x5f_uSSzIzLow1Q/o.jpg",
+                    "caption": "Mimosa carafe"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 1,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for taking the time to leave a review about your recent experience with us! We are pleased to hear that you enjoyed the food, service, and ambiance during your visit. We hope to serve you again soon!",
+                    "date": "2023-10-10T19:47:58Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Rhonda M.",
+                "user_id": "BK0Zg93npPJ7mcqlRmdi9g",
+                "link": "https://www.yelp.com/user_details?userid=BK0Zg93npPJ7mcqlRmdi9g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zEjPECDdVPyqB9invEB6Ww/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 37,
+                "photos": 1126,
+                "reviews": 369,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "The ambiance is beautiful! Precious took our drink orders and checked in with us (she was very sweet).  The food was just OK.  I wasn't impressed at all!  My food had to be sent back because it was lukewarm and the waitress (Lara) looked as if she was annoyed (that didn't sit well with me).  The food came out again and the sausages were cold, the steak was still lukewarm and the potatoes had extra salt on them (sounds like someone tried to be malicious).  The manager came to our table (Valerie-very nice and personable) and asked us if things were ok.  I explained what happened and she had my food remade but the eggs weren't cooked to my liking the so I didn't both eating them.  The grits were very clumpy (it looked as if they weren't completely cooked) so we just sent them back and told them we didn't want them at all.  I highly doubt if I ever return here, this was not a good experience at all.",
+                "language": "en"
+            },
+            "date": "2023-10-01T21:32:52Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your feedback. We would like to sincerely apologize for your experience not meeting your expectations. We strive to provide each guest with delicious food and friendly service, and we are disappointed that we fell short of our standards during your visit. We take feedback seriously and have addressed your concerns with our team to ensure a situation like this does not happen again. We hope to provide you with a better experience in the future.",
+                    "date": "2023-10-03T19:31:59Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Brionta P.",
+                "user_id": "ZyZcwqK-IMApXsx-dNCyWg",
+                "link": "https://www.yelp.com/user_details?userid=ZyZcwqK-IMApXsx-dNCyWg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/H4rm7SlTwwbnQYnxqvr1_w/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 19,
+                "photos": 496,
+                "reviews": 150,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "My friends and I visited the Buckhead location this past Saturday and I was not disappointed. \n\nWe went to have drinks and dessert before a girl's night out and I would highly recommend 10/10 for me. Our waiter was the best part of the night. His character and charm he could sell the whole menu. I decided to have the egress, it's a light drink extremely refreshing definitely a summer/spring but honestly as tasty as it is I take it whenever. I was going to try another drink but I had 2 more egress. We also shared a Tiramisu and I HATE tiramisu but it was surprisingly good! Its not a huge dessert so in the event its something you enjoy make sure you get your own.\n\nThe interior is beautiful. The ceiling is covered in writing turned art. There is art working lining the walls. The place is something to look at for sure. The chairs were comfy and the place is on the smaller side but they utilized the space they had perfectly. The vibe of the place speak for itself, laid back but just enough to get the night started. The music is soft yet upbeat. \n\nThis location is perfect for brunch, date nights or just a day out with some friends. hey don't have any private dining rooms, so maybe try another location (there is another location in Midtown) if you want a more privacy. But you can rent the entire the place out for 5K, you wouldn't to decorate and I think open bar is included. **My friend asked for relying the information. **\n\nParking is made simple here. Just pull in and valet will take care of the rest. Valet is free, just make sure you tip the attendant",
+                "language": "en"
+            },
+            "date": "2022-10-24T23:12:37Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZEeLuPCNBWO8_7IZk8-4kQ/o.jpg",
+                    "caption": "Egress"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Dvr2u5_5OdUWckHn_KkjkA/o.jpg",
+                    "caption": "Tiramisu"
+                }
+            ],
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Bruce F.",
+                "user_id": "28WeIyuTwciKWj90nBTHuw",
+                "link": "https://www.yelp.com/user_details?userid=28WeIyuTwciKWj90nBTHuw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PROGT1ewYnZaPV_l4tSeQQ/180s.jpg",
+                "address": "Indianapolis, IN",
+                "friends": 44,
+                "photos": 1162,
+                "reviews": 294,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Each 5 Church is unique with it's own decor and menu. The Buckhead location is more low key and appeals to an older crowd. The menu is very diverse. \n\nI ordered the Gas house Egg Florentine. They serve this on a puff pasty with sun dried tomatoes, Gouda cheese, poached egg and hollandaise sauce. \n\nOur server was great and the overall experience was above average.",
+                "language": "en"
+            },
+            "date": "2022-11-23T23:35:05Z",
+            "rating": 4,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6XYnKExEblFZrLAEQDe--Q/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TN_3FLH2EUVth1KhcUIi6g/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Z1SD__z1Mqd5JpNi8sgWUA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/traJiDtqwOrpbSJnAydfZg/o.jpg",
+                    "caption": "Gas house Spinach Florentine"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nSI7JOqJqmUqm0nqdyPiBg/o.jpg",
+                    "caption": "Lamb sausage"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Megan Y.",
+                "user_id": "BptB0o012W_6YmuIizsxhw",
+                "link": "https://www.yelp.com/user_details?userid=BptB0o012W_6YmuIizsxhw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kRFWZkxb5CGsfuWk6yX5Yg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 107,
+                "photos": 264,
+                "reviews": 179,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I had a lot of expectations for this restaurant, so my ultimate rating is definitely impacted by that. I came here for a first date back in January this year. I heard that each 5Church location was a little different aesthetically.\n\nThe ambiance and atmosphere are sophisticated and clean. As someone who has been to quite a few fine dining/upscale/New American restaurants, I thought this would be pretty similar. However, I was disappointed because the food was not great. The salad was just \"ok\" and my main dish was a bit heavy. I did not give this place 2 stars because the espresso martini and service redeemed the food. Also the prices are so high for the quality....",
+                "language": "en"
+            },
+            "date": "2023-06-09T04:51:18Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your feedback. We are pleased to hear that you enjoyed the drinks, service, and ambiance during your visit.\n\nHowever, we apologize for the food not meeting your expectations. Our dishes are farm to table creations using only the finest ingredients. We always strive to provide guests with delicious food, and we are disappointed that we fell short of our standards during your visit. \n\nSince January, our award-winning chefs have developed an entirely new menu featuring a wide variety of delicious dishes. We hope you choose to give us another opportunity to provide you with an amazing dining experience.",
+                    "date": "2023-06-09T14:57:44Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Astrid E.",
+                "user_id": "Nf4nRMzd_TrAvm5RsRrfJA",
+                "link": "https://www.yelp.com/user_details?userid=Nf4nRMzd_TrAvm5RsRrfJA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rEOG_UaLiCnb93Uhf8oCGg/180s.jpg",
+                "address": "Boyds, MD",
+                "friends": 103,
+                "photos": 84,
+                "reviews": 25
+            },
+            "comment": {
+                "text": "You know I had to go back because this place became my favorite, we were seating in the sun room or should I say moon room... The food, the service and the ambiance is amazing as usual! It's a same place, different day post",
+                "language": "en"
+            },
+            "date": "2023-11-04T16:52:17Z",
+            "rating": 5,
+            "tags": [
+                "8 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NOo_h_1pZfMMKRjo7sqkjQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D8d29r61adb9wBNHZVd2cg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pZ63Qjb-5MW7c4au4q1TDQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4jDqTb_WdAAAR3Om9bOIWA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FBuSeclMLLrwjRSNfUF3Zw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/itXAvae_-Fycpo4m77OoCw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VhnZpBb-dBqnSPWwjuYEog/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YDurcjYgGXFhA6rd_00HAQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words! We are pleased to hear that you enjoyed the food and service during your visit. We hope to provide you with another amazing dining experience soon!",
+                    "date": "2023-07-10T18:40:45Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Tiery C.",
+                "user_id": "6NnTiDcv6jfLkJFeThXovA",
+                "link": "https://www.yelp.com/user_details?userid=6NnTiDcv6jfLkJFeThXovA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Q3rYJCab7MEbUFopiYWhbQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 4,
+                "photos": 80,
+                "reviews": 32,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "First time at 5Church and we weren't disappointed! I've heard mixed reviews about this restaurant, but of course I had to try for myself. The restaurants ambiance is stunningly beautiful, our waiter was excellent and our food tasted great! As an espresso martini connoisseur, I approve theirs to be pretty good!",
+                "language": "en"
+            },
+            "date": "2023-05-14T05:18:09Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Xe4HkNg9OdmNc5bKyHBQMQ/o.jpg",
+                    "caption": "Mahi mahi"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ytUqU76J7WDYqpRcfugl-Q/o.jpg",
+                    "caption": "Espresso martini"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RGhxWzT51jDc7Vme0vAg-Q/o.jpg",
+                    "caption": "Pepper-honey glazed chicken"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words, Tiery. We are pleased to hear that you enjoyed the food, service, and ambiance during your visit. We hope to provide you with another amazing experience in the near future!",
+                    "date": "2023-05-15T19:15:52Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Shen M.",
+                "user_id": "GYOat2d8DaTwEQqu4byaYQ",
+                "link": "https://www.yelp.com/user_details?userid=GYOat2d8DaTwEQqu4byaYQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/s4RRdBZjjfkw21SV_p5PNg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 4,
+                "photos": 158,
+                "reviews": 57,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Loved love loved the restaurant it's beautiful! The food is ok. Everything was made correctly but I think the food could be better. But I def recommend visiting here ... I'll def be back for drinks and a chill nice vibe. Waitress was amazing!",
+                "language": "en"
+            },
+            "date": "2023-05-21T22:53:34Z",
+            "rating": 4,
+            "tags": [
+                "7 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xtHAZIz-zAVq6b-pMXFPbw/o.jpg",
+                    "caption": "Cheesecake so good !"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uHzce0i14ux8nvBuc8e9Og/o.jpg",
+                    "caption": "Hash browns are perfect"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/q04CTMDfTke2-ZxZxwrpQQ/o.jpg",
+                    "caption": "I felt like the steak and eggs was a little mediocre"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7CbHDGl7sive4d9Z78LYkQ/o.jpg",
+                    "caption": "Drinks were perfect"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yip5rSLUxsho0ERM9bhWUg/o.jpg",
+                    "caption": "French toast"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R1v_vol4lL9vSVY9z48jbQ/o.jpg",
+                    "caption": "Ambiance"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TeqzU6AOpk3fz2UNRaX29w/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your feedback. We are pleased to hear that you enjoyed the drinks, service, and ambiance during your visit. However, we apologize for the food falling short of your expectations. We take all feedback seriously and will use it as we strive to improve our services. We hope to see you again soon!",
+                    "date": "2023-05-23T20:28:39Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Stephanie P.",
+                "user_id": "EaxtGoDL5bjGKaMQr0Yq4Q",
+                "link": "https://www.yelp.com/user_details?userid=EaxtGoDL5bjGKaMQr0Yq4Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OHUEybLfiAEyVBjg-xYzdw/180s.jpg",
+                "address": "Decatur, GA",
+                "friends": 4,
+                "photos": 165,
+                "reviews": 143
+            },
+            "comment": {
+                "text": "The egg and prosciutto sandwich was flavorful and filling! I think compared to some of the other dishes this was the best bag for your buck. The French toast was a small serving size and not as flavorful. Although a bit pricey overall the aesthetic is nice if you're looking for a nice brunch spot. The red sangria was also delicious! Our servers were friendly but keep in mind if you have a larger party they can only split the check 5 ways.",
+                "language": "en"
+            },
+            "date": "2023-10-21T20:07:30Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/o6-0Rg-AiwhFYezRfasipg/o.jpg",
+                    "caption": "Prosciutto and egg sandwich"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YVP59_ZjZU2yRoH7rp3csA/o.jpg",
+                    "caption": "Menu"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your kind words! We are pleased to hear that you enjoyed the food, drinks, and service during your visit. We hope to serve you again soon!",
+                    "date": "2023-10-24T17:46:25Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Mayree S.",
+                "user_id": "iFXwEYgZFJpF1-O1nV7HIg",
+                "link": "https://www.yelp.com/user_details?userid=iFXwEYgZFJpF1-O1nV7HIg",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 1,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "Never disappoints, the food is always flavorful. They have a new drink, called empress fizz it was delicious. Bartenders are very attentive. It's nice sitting in the patio room, feels like you're outside.",
+                "language": "en"
+            },
+            "date": "2024-01-28T21:39:30Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Julia M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/FLrHHXm7G9cYS5FAMETpWw/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your wonderful review! We are pleased to hear that you enjoyed the food and service during your experience. Please visit again soon!",
+                    "date": "2023-11-07T20:58:50Z"
+                }
+            ]
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=KTGOyUdVsd__xSU58vG4Iw&start=50"
+    }
+}

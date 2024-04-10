@@ -1,0 +1,1447 @@
+{
+  "search_metadata": {
+    "id": "65f0a0dd1e803f761781da59",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f0a0dd1e803f761781da59.json",
+    "created_at": "2024-03-12 18:37:17 UTC",
+    "processed_at": "2024-03-12 18:37:17 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/78ocP9YyQFrYtIO1TTle2A?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a0dd1e803f761781da59.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a0dd1e803f761781da59.prettify",
+    "total_time_taken": 1.33
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 150,
+    "num": "50",
+    "place_id": "78ocP9YyQFrYtIO1TTle2A"
+  },
+  "search_information": {
+    "total_results": 323,
+    "business": "Zunzi's"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 323
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Jamie L.",
+        "user_id": "RWJi2lsU351KoOwsRmlIBQ",
+        "link": "https://www.yelp.com/user_details?userid=RWJi2lsU351KoOwsRmlIBQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/d47GL_DfqGTIHw3kr2N7Kw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 112,
+        "photos": 2,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "It's pretty good, but not as great as the original. The Conquistador's chicken here lately has been very different than the original Zunzi recipe. The one in Savannah has succulent and juicy chicken that I've enjoyed countless times. This location has started using a different method, so different that I thought I had been given the wrong sandwich. It's almost blackened, and overcooked. Most times it's very dry which is SUCH a disappointing departure from the original. I'm not sure why they would change cooking methods per location when the original is such a hit and perfect as is.",
+        "language": "en"
+      },
+      "date": "2021-05-20T22:43:36Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Chris S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PC033S05ahICKgPnrcqfOQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hey Jamie! I am so sorry I am just getting back to you. The past month has been crazy with us relocating to our new location in Savannah after 16 Years. It has taken a full company effort and we are doing all we can to keep operations in line at both locations. We clearly messed up here and did not give you the SHIT YEAH! experience you have grown to love! Please email me at chris@zunzis.com and we will take care of you!",
+          "date": "2021-05-23T23:36:05Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jas G.",
+        "user_id": "mKjUg1o_UJGieBICZLg7dA",
+        "link": "https://www.yelp.com/user_details?userid=mKjUg1o_UJGieBICZLg7dA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BsumQcEdnR_fG2-d634JnQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 231,
+        "photos": 16,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "Shit yeah!!! (IYKTYK) First time trying this place after finding it on yelp and must say it did not disappoint!! Between my boyfriend and I we tried the chicken sandwich and the salmon sandwich and they were so good I wouldn't be able to say which one I liked more!!! They're sauces are amazing!!!! \n\nThe entire experience was superb!!! The amazing customer service made this place 10x better!! Will definitely be going back!!!",
+        "language": "en"
+      },
+      "date": "2019-06-17T22:03:09Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Lan N.",
+        "user_id": "wC437OI5WjccD3Kl6SSrXQ",
+        "link": "https://www.yelp.com/user_details?userid=wC437OI5WjccD3Kl6SSrXQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PWH3EKoE_Elb_ax1ho_oKw/180s.jpg",
+        "address": "Snellville, GA",
+        "friends": 65,
+        "photos": 196,
+        "reviews": 59
+      },
+      "comment": {
+        "text": "Sandwich is delicious and it definitely filled my sub craving as I am pregnant and cant eat cold cuts. I got the God Father and they gave me a couple of hot sauces on the side. The curry sauce is the best. 4 stars only bc it's so far from where I live and while I enjoyed the sandwich, it wasnt the ultimate best sandwich I have ever had. Also, my love for Zappos New Orleans Style chips is renewed.",
+        "language": "en"
+      },
+      "date": "2020-01-17T15:52:45Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CIS9mjid-iDBfVnxcD3E3Q/o.jpg",
+          "caption": "The GodFather"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Liz G.",
+        "user_id": "y5ynEOIPIvzGU2aYsscLqg",
+        "link": "https://www.yelp.com/user_details?userid=y5ynEOIPIvzGU2aYsscLqg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HYwvls8dEXfVjnC2DBqpFQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 216,
+        "photos": 113,
+        "reviews": 198
+      },
+      "comment": {
+        "text": "Incredible!! Love this fast casual clean spot off of Howell Mill. Brightly decorated and open space for large parties or a date! We had the conquistador and godfather sandwiches of course paired with the voodoo chips and African sweet tea. Spicy savory unique flavors within a filling meal. Do not leave without trying their shit yeah sauce! The staff was very welcoming and friendly too. Can't wait to come back!!",
+        "language": "en"
+      },
+      "date": "2019-07-08T23:46:29Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_zghY7FvSp5mVWPYBA3zDA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Karnesha S.",
+        "user_id": "YhexqfL2hfnfQ7s6Cj2Ewg",
+        "link": "https://www.yelp.com/user_details?userid=YhexqfL2hfnfQ7s6Cj2Ewg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yf4B-GN5e5L4NvsEx292MA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 361,
+        "photos": 569,
+        "reviews": 393
+      },
+      "comment": {
+        "text": "This was my first time coming in after passing it many times. And WOW it really blew my socks off! I had the salmon wrap and it was DELICIOUS. The salmon was seasoned really well and chopped up into pieces. The sauces that they put on the wrap were HEAVENLY...omg I have no idea what it was but it took what could have been a basic wrap, to the NEXT LEVEL.\n\nThey didn't have much in the way of sides and the drink options were VERY weird. Lemongrass or cucumber soda anyone? I was expecting regular soda so that threw me off. All in all, the wrap was spectacular and I can't wait to go back!",
+        "language": "en"
+      },
+      "date": "2019-11-13T00:32:02Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Chris S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PC033S05ahICKgPnrcqfOQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "SH*T YEAH! Thank you so much for the wonderful review! We look forward to seeing you soon!",
+          "date": "2019-11-14T20:47:09Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Alyssa V.",
+        "user_id": "qDlMmWFeja7jfG-aIhR5MA",
+        "link": "https://www.yelp.com/user_details?userid=qDlMmWFeja7jfG-aIhR5MA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MT-6L3V7W3n624LhMUYOcQ/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 18,
+        "photos": 0,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "No idea what we were getting into... but WOW!\n\nGreat sandwiches, I had the salmon one and my husband and a chicken sandwich of some kind. The staff was really enthusiastic and took the time to explain each item and gave us samples. They were knowledgeable, friendly and the food was great!",
+        "language": "en"
+      },
+      "date": "2019-08-28T17:54:16Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Julie K.",
+        "user_id": "7xQAk_tGAeKkMDfAFx0OoA",
+        "link": "https://www.yelp.com/user_details?userid=7xQAk_tGAeKkMDfAFx0OoA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ny8n1L2nNaxUfZw0YwSKNA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 486,
+        "photos": 43,
+        "reviews": 33
+      },
+      "comment": {
+        "text": "Wow, what a pleasant surprise. I've driven by this place countless times and always thought about going in and what South African cuisine is. And I'm so glad I did. There's a lot of options on the menu, but they walk you through it, and even gave me a sample of the meats and sauces of their famous Godfather to try before ordering! While I came in wanting something else, it was too delicious not to get, and I thought I should get their #1 sandwich for my first time. I'm not usually a sandwich person, and was all set to order a bowl, until I saw the sign outdoors that said People magazine had voted this the best sandwich in Georgia. And they weren't wrong. \n\nThe Godfather comes with chicken, beef sausage and pork sausage, tomato, a couple delicious sauces, topped with marinara and Parmesan. And they place all that on a bed of lettuce which is not only tasty but a useful divider between the saucy filling and the delicious French bread. I got the regular size and it was super filling, but there's also a large size if you're suuuper hungry.\n\nAnd it doesn't stop there, the selection of 100% organic and natural sodas on tap (along with some other tasty looking bevies) was so delicious. I tried the Cucumber and Coconut sodas from Tractor Soda Co, and can't wait to try other flavors!\n\nThe staff was so amazing, friendly, knowledgeable, and nice, explaining everything, checking on me and how the sandwich was, and making sure I was happy. The restaurant is clean and beautiful with indoor and outdoor seating. And love that they have gender-neutral bathrooms!\n\nI can't wait to come back and try everything else on their menu.",
+        "language": "en"
+      },
+      "date": "2019-06-04T12:31:09Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Maggie S.",
+        "user_id": "KJrneW7mxIBS1GxL3PIJaw",
+        "link": "https://www.yelp.com/user_details?userid=KJrneW7mxIBS1GxL3PIJaw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kQsMPTeCvt93wwrXBjq2kQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 27,
+        "photos": 80,
+        "reviews": 130
+      },
+      "comment": {
+        "text": "Had an absolutely terrible time with this place from the food to the staff.  Their website talks about a variety of gluten free options and when I tried to order they told me their grain blend wasn't gluten free. My options according to the manager: one version of chicken on a bed of wilted, soggy greens or some hummus. The entire crew working seemed as if they were on something, asking me to repeat my extremely simple order of chicken- literally just chicken in a to go box 3 times, as the salad looked terrible. The chicken had that reheated, not fresh flavor. The sauce/seasoning left me with dreadful heartburn all night so I can't even be sure it was gluten free. \n\nThe manager asked me to follow his instagram account, which I did and immediately blocked as I felt uncomfortable. You really need to clean up the staff- maybe implement some drug testing so you have a staff who is actually working and not all sitting around a table. Great location- it's too bad that this place was so terrible since I live right across the street and it would have been a very convenient place to grab a quick meal.",
+        "language": "en"
+      },
+      "date": "2019-02-15T15:03:59Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Chris S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PC033S05ahICKgPnrcqfOQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Maggie,\nThank you so much for your feedback. You clearly had a terrible experience at every level and I am truly sorry for that. The manager you mentioned is no longer with the company. Unfortunately, we had other similar feedback of him making guests feel uncomfortable. We are in the people business and sometimes these sort of things happen, even if it closely held. No excuses, though as It is completely unacceptable. I am truly sorry for this. Our team works really hard every day to make sure our guests have a great experience and Love Zunzi's. I would really love the opportunity to invite you back, meet with you, and talk about you experience. We can't improve if we don't know where we are going wrong. I had a call with our director of operations a few days ago about sourcing a gluten free ancient grain option even before I saw your review. Again, I am very sorry and would love to get you back in the shop so you can get the proper experience. If interested, you can email me at Chris@zunzis.com and we can continue the conversation there. Hope to hear from you soon. -Chris",
+          "date": "2019-02-18T15:33:34Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Felicia K.",
+        "user_id": "Pg9cIYJm1Y2e_57iAwFHfA",
+        "link": "https://www.yelp.com/user_details?userid=Pg9cIYJm1Y2e_57iAwFHfA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vhqhNYszHHrvkz_hN2zOmQ/180s.jpg",
+        "address": "Manhattan, New York, NY",
+        "friends": 3,
+        "photos": 0,
+        "reviews": 161
+      },
+      "comment": {
+        "text": "Zunzi's is a jewel and I can't wait to go back. The menu is impressive, I was overwhelmed with the choices. Me and my friend were pleasantly surprised with how amazing their Curry Chicken Salad was, really delicious. The people are super nice and it really is so pleasant to just be there. Zunzi's - Awesome spot.",
+        "language": "en"
+      },
+      "date": "2020-11-04T12:18:00Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Courtney W.",
+        "user_id": "ppnePFyNXlhCV4VgjwNWBw",
+        "link": "https://www.yelp.com/user_details?userid=ppnePFyNXlhCV4VgjwNWBw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DS86vCjcVY4NEZsODLRQ1g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 11,
+        "photos": 21,
+        "reviews": 17
+      },
+      "comment": {
+        "text": "When I found out that Zunzi's was in Atlanta, I rushed over there! I preferred the fisherman's sandwich, which could've been shared by two, but I was so happy to eat here again I ate the entire thing by myself! I originally went to Zunzi's in Savannah, GA when I attended school close to there and all I can say is WOW! When you go definitely order this, and DO NOT for get the african sweet tea.",
+        "language": "en"
+      },
+      "date": "2019-06-29T14:01:30Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Z7FvFwirfgMBehrs8qYWNQ/o.jpg",
+          "caption": "Fisherman's Deck"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Lauren M.",
+        "user_id": "8vHsfxBXrLPJYbdRZh_jbg",
+        "link": "https://www.yelp.com/user_details?userid=8vHsfxBXrLPJYbdRZh_jbg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vlUzBXcahx8ERBhlpO6eRA/180s.jpg",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 490,
+        "photos": 311,
+        "reviews": 142
+      },
+      "comment": {
+        "text": "What a fun, casual restaurant with solid food! They have sandwiches, bowls, salads, wraps, etc. There are meatless alternatives as well in case you don't eat meat! The food is flavorful! And they are also known for their sweet tea. I def recommend this place!   They also do catering!",
+        "language": "en"
+      },
+      "date": "2019-08-08T05:54:02Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qevEzcS3zjlu7NKR7mjmOw/o.jpg",
+          "caption": "Conquistador"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kim B.",
+        "user_id": "_IsyAJUZxivhpCDjlFT8DA",
+        "link": "https://www.yelp.com/user_details?userid=_IsyAJUZxivhpCDjlFT8DA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SIG8XH44XskOwBBOQjEcgg/180s.jpg",
+        "address": "Denver, CO",
+        "friends": 107,
+        "photos": 1432,
+        "reviews": 285,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We walked by the little door a few times on the way back and forth to our AirBnb, but we hadn't really paid much attention because this is the very epitome of the saying, \"a hole in the wall\" kind of place.  On two different Savannah tours, Zunzi's was mentioned as the second place winner of Best Sandwich in America on the Food Network.  We took note and headed over for takeout dinner.  There was no line at 7:30, but a steady flow of regular customers who were greeted by name.  The people working the counter were friendly and offered to make a sample of their three different meats for us to try.  We ended up ordering the Conquistador and The Godfather.  The chunks of meat with the soft bread and delicious sauces should have won first place, in our opinion.  The square nearby made for a great place to enjoy the night and the food.  It was an amazing experience and we wish we didn't live so far away!",
+        "language": "en"
+      },
+      "date": "2019-06-07T11:20:37Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WLBQqxDEwBedV4M6uQvzFg/o.jpg",
+          "caption": "Menu of amazing choices"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/87Tv0ws3bPdc2gi3vCPQnQ/o.jpg",
+          "caption": "A tiny little door leads to big taste."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cQA3XC1fWHL53dlZwzi74g/o.jpg",
+          "caption": "The sausage on the  Godfather was unforgettable."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ctZRnTrnPqa7rHC6MtTOpA/o.jpg",
+          "caption": "Chopping the meat cooked on site."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eBvKJAeUl0CqTHw_Ya-FAA/o.jpg",
+          "caption": "You can't believe the amount of meat in this sandwich, the Conquistador."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Pierre W.",
+        "user_id": "Qoe9mALXy5WQJWQCVwk2Rg",
+        "link": "https://www.yelp.com/user_details?userid=Qoe9mALXy5WQJWQCVwk2Rg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/mGEQGwk_yXwEEIdf9rD1xw/180s.jpg",
+        "address": "Mableton, GA",
+        "friends": 7,
+        "photos": 9,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Ok. It's been a minute since my last review but this \"Sam-mich\" is so dam good I want to call someone up  and slap them through the phone!  And don't ask me to say the name \"Zunzi's\".  I don't know, can't help you. Hell the name starts with a Z and something about South Africa: good enough for me to try once.  And dam glad I did. This sandwich place is good and my \"Salmon sandwich\" is even good-er!!! They have some American dictionary African name for it but it is the only Salmon \"sand-mich\" on menu. And the Very Best  Sandwich I have tasted from California to Atlanta. OnE slight; do they not no turkey in South Africa because there's no turkey on the \nmenu. Dam, dam, dam, James!!!... Good Time's reference. If u don't get it... slap yourself!!! Then watch that episode! My Philosophy is to buy small food item  the first time. But the in-store pics looked tasty, plus skip breakfast to make a kitchen remodel consultation appointment just to find out half way there she postponed me because she got a open spot to get her hair did. Wtf ... dam Covid-19 making these women almost kill for a hair n nails appt!!! What did women do in the cave men n women days????  Last thing! Don't know what they got from the \"African Gods\" to put in this tea but \"lookly here\"... The best of the best tea I tasted since moving to Atlanta. It taste like it was harvested from  pure sugar n flavored leaves only grown for twenty-seven and a half days one time per year at the very  center of the forbidden Holy Tea Leave Grounds from the original Mother Africa.  It's that dam gooooood. Anyway my food is getting cold... I'm out!",
+        "language": "en"
+      },
+      "date": "2020-08-22T17:26:15Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 3,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Chris S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PC033S05ahICKgPnrcqfOQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hey Pierre! Thanks for the review and great meeting you on the patio! Your review made my day... and our team's! S H I T  Y E A H !!!",
+          "date": "2020-08-24T14:51:01Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Katie C.",
+        "user_id": "Jn-C2hC7drzOAPW_0PWKvg",
+        "link": "https://www.yelp.com/user_details?userid=Jn-C2hC7drzOAPW_0PWKvg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/jo5UwBWWkmmBnlUGlT965w/180s.jpg",
+        "address": "Athens, GA",
+        "friends": 564,
+        "photos": 15,
+        "reviews": 32
+      },
+      "comment": {
+        "text": "The conquistador is 11/10. Absolutely delicious, filling, and worth the money. Looking forward to many more trips",
+        "language": "en"
+      },
+      "date": "2021-05-06T02:20:35Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kailan H.",
+        "user_id": "WcuV7wq2KFNQFTJt_zph5Q",
+        "link": "https://www.yelp.com/user_details?userid=WcuV7wq2KFNQFTJt_zph5Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wlv6kBWrNPl7lnSUVRI1-Q/180s.jpg",
+        "address": "Norcross, GA",
+        "friends": 59,
+        "photos": 17,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "First time at the Atlanta location and I have to say IT WAS AWESOME!!! It's truly a great sandwich place. This time I had the Fisherman (salmon) loved the fresh whole romaine leaf accompanied with the spinach and tomatoes. The Z sauce is mustard based and exceptionally matched well with the sandwich. The Zapp's Chips yessir. And to top it off the Byrd's cookies (key lime of course) straight from Savannah. All in all thoroughly enjoyed it!!!",
+        "language": "en"
+      },
+      "date": "2019-08-10T19:57:36Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tripp I.",
+        "user_id": "380g97YMW3DHwQjExI4d3w",
+        "link": "https://www.yelp.com/user_details?userid=380g97YMW3DHwQjExI4d3w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xFjbplV31a-CUKAhQQoJrA/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "Yo this place smacks on another level. Their sauce game is unmatched. That Fisherman's Deck is nothing to play around with. Hummus goes dummy. Sweet Tea is very interesting. 12/10 open more of these thangs please.",
+        "language": "en"
+      },
+      "date": "2020-12-12T10:26:06Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nancy H.",
+        "user_id": "nwYyFp3T0zEUl4Vy0ZCmqg",
+        "link": "https://www.yelp.com/user_details?userid=nwYyFp3T0zEUl4Vy0ZCmqg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6hxJBoTycCeS-ZxynOLHtQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 33,
+        "photos": 2,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "Went there for the first time the other day and had the Conquistador. It was so good.  You can get it as a sandwich, in a pita or lettuce wrap. I got the regular size sandwich and it was delicious and super filling. I would definitely go back to try some of the other sandwiches.",
+        "language": "en"
+      },
+      "date": "2020-12-02T21:16:21Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sina A.",
+        "user_id": "OjtlU4xdn3uKB2SgYL2z0Q",
+        "link": "https://www.yelp.com/user_details?userid=OjtlU4xdn3uKB2SgYL2z0Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/P9Lu388Is3jP4o_nT9JIGg/180s.jpg",
+        "address": "Mid-Beach, Miami Beach, FL",
+        "friends": 123,
+        "photos": 0,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "At first glance,this place is not different from a regular sandwich place but their sandwiches taste grrrrrreat. Their chicken tastes amazing and the bread was fresh. Nicely put together with amazing sauce options. \nWell done!",
+        "language": "en"
+      },
+      "date": "2019-11-23T14:04:14Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Miriam M.",
+        "user_id": "jEGCUXRAHWTU_pmSW1qpYA",
+        "link": "https://www.yelp.com/user_details?userid=jEGCUXRAHWTU_pmSW1qpYA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XrsTeYAMg46Q6R64t705hg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 28,
+        "photos": 13,
+        "reviews": 86
+      },
+      "comment": {
+        "text": "Highly overrated, watered down, americanized, extremely lacking flavors and overpriced. \n\nThe service is fantastic and everyone is eager. \n\nSadly my expectations were  grossly off point. \n\n1 star for effort and cute idea \n\n2nd star for service.",
+        "language": "en"
+      },
+      "date": "2018-11-15T23:51:27Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kate B.",
+        "user_id": "gea-TMMss7Up2v0f4Cp4PA",
+        "link": "https://www.yelp.com/user_details?userid=gea-TMMss7Up2v0f4Cp4PA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4Y3vHicnjQ6LWNIgTFex3A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 60,
+        "photos": 1,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "I found this place during a casual search for dinner last night. After looking at the menu, we decided to give it a whirl. My friend got the Conquistador sandwich on a baguette. Which was a type of grilled chicken with a tahini-ish/mayo dressing which had a lot of flavor and was delicious! It's more of a wet sandwich so I'd recommend eating it sooner rather than later. \nI got the Rising Sun sandwich with the most delicious portobello mushrooms, grilled squash and avocado spread. It came with hummus which I'll probably omit in the future. Mostly because it's a really wet sandwich and with the sauces... I couldn't really taste the hummus anyways. Very delicious as well. We ended up sharing sandwiches which were very different yet great all the same. The staff was very knowledgeable and we had a great experience! Prices were reasonable for large portions. We look forward to coming back!",
+        "language": "en"
+      },
+      "date": "2019-08-20T15:28:53Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Troy H.",
+        "user_id": "vMAMQpjrViobfxfkli2I3Q",
+        "link": "https://www.yelp.com/user_details?userid=vMAMQpjrViobfxfkli2I3Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NcOR97CyhN2S8WWCNAT3dQ/180s.jpg",
+        "address": "New York, NY",
+        "friends": 61,
+        "photos": 24,
+        "reviews": 156
+      },
+      "comment": {
+        "text": "Zunzi's you are most certainly awesome, I had a spectacular experience here today. The ambience was laid-back and friendly. I have tried couple of items off their menu, I really loved all of them, especially Godfather was my favorite. And also, the service was amazing and the staff was very pleasant. Gotta love Zunzi's.",
+        "language": "en"
+      },
+      "date": "2020-11-18T11:35:56Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Aja N.",
+        "user_id": "WjCPK_Y67TuiFLLHc_NHoA",
+        "link": "https://www.yelp.com/user_details?userid=WjCPK_Y67TuiFLLHc_NHoA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fLNKxJml2RzPCYcTAYXNmw/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 100,
+        "photos": 44,
+        "reviews": 42
+      },
+      "comment": {
+        "text": "This is my absolute favorite sandwich shop. The only thing I hate about it is that my boyfriend introduced me to it-- because even if we break up, I'm not gonna quit coming here. This establishment isn't just my favorite because the sandwiches are flippin' delicious, the customer service is the best I've ever experienced anywhere. Everyone is courteous and goes above and beyond. Maybe the secret to the good sandwiches is the kindness they make with them? (And the portions. I mean.. I get full AND have leftovers.)",
+        "language": "en"
+      },
+      "date": "2018-10-30T19:52:15Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Andy Z.",
+        "user_id": "FZt1ripFvnagKj0s4NMHEA",
+        "link": "https://www.yelp.com/user_details?userid=FZt1ripFvnagKj0s4NMHEA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hzqFGAqjVpM72yKs524oGA/180s.jpg",
+        "address": "Boston, MA",
+        "friends": 104,
+        "photos": 59,
+        "reviews": 42
+      },
+      "comment": {
+        "text": "Zunzi, a casual cafeteria, features South-African style sandwiches/meals. a bit heads-up that the sub here takes longer to prepare (especially​ during lunch/dinner hours), and, comparing to other chain sandwich shops, the sub is a bit pricey (the price of a 6-inch sub here is comparable to what a foot-long sub at a chain sub place), but I'll say the premium quality of the proteins and house-made sauces do worth the price. \n\nI ordered a \"godfather\" sandwich, which had chicken, sausage, lettuce, tomatoes, and parmesan cheese on it. I absolutely loved it. I think what really made it stand out was the featured smoked sausages and the sauces. I really enjoyed the smokiness of the sausages, which went along really well with the marinara sauce and the white garlic​ sour sauce. In addition, the tender/juicy chicken well-balanced with the crispy fresh lettuce to add multiple layers to each of your bite. I literally finished the whole sub within 5 mins as it's really different from the other subs I have had before. \n\nOverall this place is worth trying if you're into artisan high-quality sandwiches.",
+        "language": "en"
+      },
+      "date": "2018-07-15T00:14:07Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Randy T.",
+        "user_id": "ITSnuLOu81doC5GGT5NMSQ",
+        "link": "https://www.yelp.com/user_details?userid=ITSnuLOu81doC5GGT5NMSQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VP1yYXa3MdsE3wd1BEXpCg/180s.jpg",
+        "address": "Boston, MA",
+        "friends": 306,
+        "photos": 1401,
+        "reviews": 501
+      },
+      "comment": {
+        "text": "S*** yeah! Zunzi's is finally here in Atlanta.  My first experience at Zunzi's was after running a half marathon in Savannah, in which I waited in a line that wrapped around the block to order super tasty food.  The delicious meal (and a gallon of their South African sweet tea) was a memorable reward for burning so many calories.  So, I was excited to see that Zunzi's had found another home off of Howell Mill Road, which is a much shorter drive than Savannah.  Those familiar with the original Zunzi's will observe that the the indoor part of the Atlanta location is more spacious.  For those of you unfamiliar with Zunzi's, the menu includes a variety of signature sandwiches, pita with Mediterranean spreads, and custom rice, quinoa, or salad plates with tasty fillings (chicken, smoked sausage, curry chicken salad, grilled veggies, salmon, boerewors - a unique South African sausage) and a variety of toppings and sauces.  \n\nLocation/Parking: Parking is available but limited.  The restaurant, with its bright orange logo, is easily visible on the right side of Howell Mill Road when you drive both from I-75 towards Collier Road.  There are a few parking spaces on the side of the restaurant that are shared with adjacent businesses and a small lot in the back.  The whole arrangement is tight though.\n\nOrdering Experience:  Food is ordered and prepared at the counter. The employees at the Atlanta Zunzi's are just as enthusiastic as at the Savannah location.  They're excited to overload your sandwich with toppings and sauce.  Something interesting I observed is that they'll ask you if you're left handed or right handed - and then they'll orient your sandwich different in the takeout container accordingly.  Definitely some of the coolest restaurant staff that I've seen.\n\nWhat I Tried:\nThe Godfather ($12.99) - Served on fresh French bread, The Godfather has chicken, smoked sausage, boerwors, provolone cheese, romaine lettuce, tomato, marinara, parmesan, SY sauce, and dressing.  The French bread was warm and top notch.  There was a generous portion of the three meats.  Chicken was very juicy.  The smoked sausage is like a traditional kielbasa, while the boerwors has a unique acquired taste.  Lettuce and tomato were fresh and I got two slices of provolone cheese and a hearty pour of parmesan on top.  I couldn't distinguish between the SY sauce and the dressing when they were mixed together on the sandwich, but the two go together well.  You can taste fresh herbs in the dressing - I wished I had a side salad to throw the leftover sauce/dressing on.  I was a little hungry after I finished my sandwich, but I think that was because the sandwich was so good I wanted to eat more.\n\nVerdict: Those with fond memories in Savannah won't be disappointed by the Zunzi's location in Atlanta.  For those of you who haven't tried Zunzi's, the food is excellent and the overall experience is unique from what you may be accustomed to.",
+        "language": "en"
+      },
+      "date": "2018-06-09T18:53:37Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3aWCVfgaIPqP6cLnO6XBkw/o.jpg",
+          "caption": "Front seating area"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cNlqYMlnmTJ4yTS5F2UIow/o.jpg",
+          "caption": "Main dining area and ordering counter"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LQ84mpKt8-YqwlateD9RRg/o.jpg",
+          "caption": "The Godfather sandwich (chicken, two types of sausage, SY sauce, cheese, and marinara)"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Kimberly L.",
+        "user_id": "uDtLHtiyNrDNzJnk_niIXA",
+        "link": "https://www.yelp.com/user_details?userid=uDtLHtiyNrDNzJnk_niIXA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rHcQgRvVhHOkWAA3HwEC7A/180s.jpg",
+        "address": "Mason, MI",
+        "friends": 283,
+        "photos": 13,
+        "reviews": 23
+      },
+      "comment": {
+        "text": "LOVE this place. I always get the same thing when I come here it's that good. The staff is always authentically nice, quick and helpful when I think I'm going to get something else but end up sticking with the OG. Did I mention the food is SO GOOD?\n\n\nStoked to have found this lovely establishment.",
+        "language": "en"
+      },
+      "date": "2019-10-12T15:33:10Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "B L.",
+        "user_id": "mvTJfMgjAgT4jOGJ1cetpA",
+        "link": "https://www.yelp.com/user_details?userid=mvTJfMgjAgT4jOGJ1cetpA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XkSD71vq19wHDJHYYPu2CA/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "Excellent Service and Excellent food. I am glad I gave this place a try. The food is full of flavor and the choices are amazing. Great for lunch or dinner. Glad they put a location in Atlanta.",
+        "language": "en"
+      },
+      "date": "2020-11-05T21:29:07Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sal P.",
+        "user_id": "D5_UsK0-CnylsJVglscSfQ",
+        "link": "https://www.yelp.com/user_details?userid=D5_UsK0-CnylsJVglscSfQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_ijZ1sQ_HrViQ0a_jGZw5A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 25,
+        "photos": 451,
+        "reviews": 115
+      },
+      "comment": {
+        "text": "I would like everyone to try this restaurant and you will not be disappointed! Me and my brother were really hungry and we found  this foodies on our way in and I was like wow this place looks amazing let's give it a try. This is a South African modern restaurant which is pretty amazing because you don't find that a lot here which I have a hard time finding. I don't know where to begin but the experience there over all was great.  The minute I walked in I was greeted with excitement and  Since it was my 1st time the gentleman explain the menu and  brand of the restaurant health food and culture.  This was really great because I like his enthusiasm for the food they make and what they stand for and sharing the culture of it.  So I got the number 1 popular sandwich \"conquistador\"which was amazing.  So this sandwich almost taste like Caesar salad but they added zunis South which is 100x better. Omg the chicken in the sandwich alone was big juicy and had amazing flavor, you can eat that alone and be satisfied. My brother got the same but with mashed potatoes which was also awesome!  I like how you can choose from a bowl mash potatoes, rice, lettuce wrap or have a sandwich which is great because it give you dietary options. This restaurant has vegetarian option and kids options too.  I like how they sell their sauces because it's pretty amazing sauce.  And I love how they clean and leave notices for clean tables for the next guest to enjoy especially during this covid times.  I highly recommend everyone try this restaurant!",
+        "language": "en"
+      },
+      "date": "2020-08-23T04:41:15Z",
+      "rating": 5,
+      "tags": [
+        "9 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VhAEF0pN3DSOCjLIOMVB-Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8X-skZVGUSjeS8ExnwOlbQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Q1SYQEv6Vdj2fv4jveBcnw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jkdu3dJK7g6Wh_ZOOWmjsQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mBDBhINVsEyCuVnUAU223w/o.jpg",
+          "caption": "And Cookies!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/G4DD-xGiUzNwTQjVuH5JFA/o.jpg",
+          "caption": "My conquistador sandwich!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/W1D5eyX0QWpg2vWXi6OBow/o.jpg",
+          "caption": "Mashed potatoes bowl YUM!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sSyzh4GBQ_JoKGLlasjlVQ/o.jpg",
+          "caption": "The sauces they got!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DZpWHV5IeJLXND9FZH3Zkg/o.jpg",
+          "caption": "Look at that juicy sandwich!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Chris S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PC033S05ahICKgPnrcqfOQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "S H I T  Y E A H !!! Thank you for the amazing review!",
+          "date": "2020-08-24T15:00:09Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Millie S.",
+        "user_id": "hY_A0Rt4-csZ2qiJKNEhTA",
+        "link": "https://www.yelp.com/user_details?userid=hY_A0Rt4-csZ2qiJKNEhTA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MpztQQA3wRgW7PZBFgdXAg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 471,
+        "photos": 1440,
+        "reviews": 118
+      },
+      "comment": {
+        "text": "Friendliness and good service.  This was a great casual night out with friends. I had the chicken sandwich.  They were very generous with the protein portion of choice.",
+        "language": "en"
+      },
+      "date": "2019-02-22T15:55:49Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3bp-c07PkYw5NYanjlE_Nw/o.jpg",
+          "caption": "Conquistadors sandwich"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "sarah m.",
+        "user_id": "M2sHK0jbohmINGfdmcNDoQ",
+        "link": "https://www.yelp.com/user_details?userid=M2sHK0jbohmINGfdmcNDoQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VDQk0n01LUx2tKpTc9HAzw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 155,
+        "photos": 2,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "My order was slowed down by this entitled white woman who \"lives in the neighborhood\" complaining about the profanity on the menu. Can't wait to try my sandwich now that I finally have it! I bet it's going to be great. Shit yeah!",
+        "language": "en"
+      },
+      "date": "2018-08-06T16:36:35Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iqjflizCtzF5FLU6FkR-tg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 3,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "David B.",
+        "user_id": "mtQ_bm2sJV7w-8Xl_BFQ7A",
+        "link": "https://www.yelp.com/user_details?userid=mtQ_bm2sJV7w-8Xl_BFQ7A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WKNwqKh1suWNcowsMRR6GA/180s.jpg",
+        "address": "Sandy Springs, GA",
+        "friends": 582,
+        "photos": 1,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "This place is the tits. Real talk. It'll slap you in the face, leave your mouth watering and then coming back for more. 10/10.",
+        "language": "en"
+      },
+      "date": "2021-03-04T02:35:50Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Stephanie K.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/gBVOqUjKimr47guLF9YINQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "What a review!! Shit Yeah, David! We really appreciate the feedback.",
+          "date": "2021-03-24T17:08:47Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Keanna F.",
+        "user_id": "g1-X2jCEKMTaITl8BdYLZw",
+        "link": "https://www.yelp.com/user_details?userid=g1-X2jCEKMTaITl8BdYLZw",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 213,
+        "photos": 0,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "Yum!! Best sandwich of my life~ had the salmon one. \nAdd cucumbers and it's on!  \nI am a huge sandwich fanatic so I don't downplay the quality of this places fresh French bread to the crisp veggies. \n\nDefinitely will be introducing to my friends",
+        "language": "en"
+      },
+      "date": "2020-11-23T19:55:30Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chvonne R.",
+        "user_id": "f5ESUS6Ud5dfsBUF-iUfag",
+        "link": "https://www.yelp.com/user_details?userid=f5ESUS6Ud5dfsBUF-iUfag",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kc9cPxBWztoehqsXwFQfeA/180s.jpg",
+        "address": "Richmond, VA",
+        "friends": 0,
+        "photos": 47,
+        "reviews": 144
+      },
+      "comment": {
+        "text": "It was delicious. Ordered the Fisherman's Deck. Which had perfectly seasoned salmon on the sandwich. It has some sauce that they are known for that really made the sandwich. Would recommend this place hands down!",
+        "language": "en"
+      },
+      "date": "2020-09-11T17:13:26Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shan M.",
+        "user_id": "XdiM8PMCx--szrAi6yATDQ",
+        "link": "https://www.yelp.com/user_details?userid=XdiM8PMCx--szrAi6yATDQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yWrM903ztloLVVMnEREJ3A/180s.jpg",
+        "address": "Thomson, GA",
+        "friends": 42,
+        "photos": 1,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "My girlfriend and I wanted to try something new for lunch Saturday. I picked Zunzi's. The food was delicious. Staff was amazing and helpful. Definitely a new go to spot for lunch now.",
+        "language": "en"
+      },
+      "date": "2020-10-04T13:13:15Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kathy L.",
+        "user_id": "UmZVJA6p9IhybnuG62nyQQ",
+        "link": "https://www.yelp.com/user_details?userid=UmZVJA6p9IhybnuG62nyQQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RHezMkkm5YA5dSmWfd1mOw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 236,
+        "photos": 11,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "IMO, the chicken was dry and not worth $13. I definitely don't mind spending more money for better food, but Im having a hard time understanding why this sandwich was that expensive. \n\nZunzi's has a build your own sandwich/pita/salad setup, with a \"Shit Yeah!\" gimmick that's supposed to be fun, but is just as cringeworthy as when your manager tries to tell you that the next company meeting is going to be lit. They should probably conduct EQ training for employees so that they understand when their jokes aren't landing and they're making the customer uncomfortable and should stop.\n\nThe inside is clean and straightforward, and they have a collection of unique juices and sodas (youre out of luck if you want a regular coke). \n\nI ordered the conquistador, a chicken sub on french bread. I love french bread, and the sandwiches are pretty sizable so you don't need a side to fill up. The sauces are tasty too. Personally, I just felt like the chicken was dry and the sandwich was too expensive for how plain it was. \n\nNot a terrible experience, but I probably won't be coming back.",
+        "language": "en"
+      },
+      "date": "2018-08-11T16:38:11Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Chris S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PC033S05ahICKgPnrcqfOQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hey Kathy!\nThanks for the solid feedback. We definitely didn't execute on our Zunzi's promise. No excuse for your experience and I will share your comments with the team. To specifically comment on your feedback: Your are right about EQ training. We train our team to come at our guests at their level, and go from there. If you are walking in at a 6 and we are a 10, that is gonna be uncomfortable. I apologize for this. The Chicken should not be dry so this is great feedback for us to check up on. While we do have some unique beverage offerings, we actually do offer Mexican CocaCola (cane sugar) in bottles... Gotta show Coke in ATL some love! :) Using your review, the manager meeting is definitely going to be LIT! I would love to connect with you via E-mail so you can come back and get the proper experience. If you are up to it, please email me at Chris@zunzis.com and I will make sure you leave saying Sh*t Yeah! \n- Chris",
+          "date": "2018-08-12T18:09:52Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Julie C.",
+        "user_id": "E17q_k6HIYIlQDQM1eiZFg",
+        "link": "https://www.yelp.com/user_details?userid=E17q_k6HIYIlQDQM1eiZFg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RQKgds03wGegzKu70cZ2cA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 30,
+        "photos": 0,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "Yummy and unique, especially for the Howell Mill area. My go-to order is the curry chicken salad. I really like the modular menu in which you can pick your protein, toppings, and the mode in which you enjoy them (salad, walkie-talkie, etc.)\n\nThe menu can be a bit daunting at first glance, especially with the terminology. There's a helpful board on the right wall inside that walked through the terminology of the menu.\n\nDon't forget to try one of the unique fountain drinks or teas! And definitely try the Shit Yeah sauce.",
+        "language": "en"
+      },
+      "date": "2019-04-02T12:12:04Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ericka D.",
+        "user_id": "dGVT03OLSYWXG3vlpi6pEg",
+        "link": "https://www.yelp.com/user_details?userid=dGVT03OLSYWXG3vlpi6pEg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qn9ezNLq84CNUhj-Jj8etQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 3,
+        "photos": 0,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "I can never go wrong with this place. Inhave eaten there several times. Sandwiches, salads, wraps are all great. I am a fan of the Mustafa sauce. I even bought a bottle for the house!",
+        "language": "en"
+      },
+      "date": "2020-09-09T19:13:45Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Clay F.",
+        "user_id": "rTB8fdtTBGADrGn_fPAwfw",
+        "link": "https://www.yelp.com/user_details?userid=rTB8fdtTBGADrGn_fPAwfw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/34ZaXPXmzpt7gSDFKEdKoQ/180s.jpg",
+        "address": "Loganville, GA",
+        "friends": 55,
+        "photos": 245,
+        "reviews": 215
+      },
+      "comment": {
+        "text": "Very good sandwich. The bread was great and lettuce and tomatoes were very fresh. The sauce was delicious. My sandwich had three kinds of meat. Ur the sauce drowned out their flavors. Will try the conquistador next time to avoid this. 6 inch sandwich, chips and a small drink were $17 with a 20% tip. That's kind of high.",
+        "language": "en"
+      },
+      "date": "2020-09-09T03:03:00Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Chris S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PC033S05ahICKgPnrcqfOQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Clay! Thank you for your message! You happened to come on Zunzifest which is our celebratory day to give back to the three main stakeholders that help us succeed!. 1st - Our Fans... we offer free conquistadors from 10-5PM. 2nd - Our Team.... we close at 5PM and have a team party. 3rd - Our community .... we donate all of the sales of chips, drinks, cookies, and sauce bottles to a different charity each month. I really hate that you came after 5PM. We do our best to update store hours and communicate via Social Media, but sometimes that is not enough! Please come back and check us out next time you are in the area! Thanks again! - Chris",
+          "date": "2019-08-30T21:06:30Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Elisa A.",
+        "user_id": "uDufpNdO9dXmEJa-R3dpfg",
+        "link": "https://www.yelp.com/user_details?userid=uDufpNdO9dXmEJa-R3dpfg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ia61MlslMwQtF2Yi9r2B5w/180s.jpg",
+        "address": "Mableton, GA",
+        "friends": 20,
+        "photos": 20,
+        "reviews": 127
+      },
+      "comment": {
+        "text": "Wtf? Get your shit together. Turn the music down, stop being obnoxious, and when someone calls your phone line act professional. \n\nWhy is it such a huge joke to you that people are coming in for food? I see you handing out the free food tickets to try to make up for your shortcomings. Instead, just be better. \n\nAnd if someone hangs up because you were being unprofessional on the phone (Saturday, December 8th at 7pm), don't call them back 6 times in a row.",
+        "language": "en"
+      },
+      "date": "2018-12-09T19:44:12Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Chris S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PC033S05ahICKgPnrcqfOQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Elisa! WTF is right! That sounds like a terrible experience. I know when I am on a call with somebody and that type of thing happens, I get very frustrated. I would love to talk with you about exactly what happened so we can fix this moving forward. in regards to the free meal tokens... we give those out as marketing to get people to try our food. I could spend 5k a month on a billboard on I75 or give away 5K of food to guests we meet that have never been to Zunzi's before. I really would love to hear from you so we can improve our business and get you back into Zunzi's. Please email me at chris@zunzis.com so we can get this figured out! -Chris",
+          "date": "2018-12-12T00:22:32Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Russell T.",
+        "user_id": "2t40SAfxYuCXAJTwoCfZ2g",
+        "link": "https://www.yelp.com/user_details?userid=2t40SAfxYuCXAJTwoCfZ2g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sEvMjDwwjvTcdRI3iJCBPw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 5,
+        "photos": 1,
+        "reviews": 82
+      },
+      "comment": {
+        "text": "Ya know... it's good... but I've had better. Especially for the price.\n\nA (slightly under) 6\" sub was over $8. Chips and a drink brought it to $12. Nothing special like home cooked chips... just a bag of chips. \n\nIf you just got a big bonus and want to drop some money, go for it. If you wanna impress that hot girl with a fancy sandwich... well you got problems, but go for it. Who knows, maybe you'll get brownie points.",
+        "language": "en"
+      },
+      "date": "2018-11-09T01:55:33Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Munmun K.",
+        "user_id": "z5QHTSBA7S4fLJ6iAkd6sA",
+        "link": "https://www.yelp.com/user_details?userid=z5QHTSBA7S4fLJ6iAkd6sA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/eER9OLeu8oxLCEnt4TJRTw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 268,
+        "photos": 22,
+        "reviews": 24
+      },
+      "comment": {
+        "text": "Stopped by on a whim and was greeted with a huge welcome! The guys were super friendly, and let us even sample the protein options because all the option looked great. We got The Godfather and the Booty Roll, with all the sauces on the side. ALL the sauces were great. My fav were the gravy with the booth roll, hot as shit sauce (that's really the name), and the mustard. They make everything in house. The rooibos ice tea wrapped the package for a South African experience. Definitely returning!",
+        "language": "en"
+      },
+      "date": "2019-03-03T22:11:46Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8H4k5B5ZFy9yIcQrhyVgbw/o.jpg",
+          "caption": "Booty roll (left), Godfather (right)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1ZAIvQYow46zbqMsbw4jmg/o.jpg",
+          "caption": "Booty roll (left), Godfather (right)"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Megan W.",
+        "user_id": "eegkJ5oRIdtxoS8Qzg7Q1g",
+        "link": "https://www.yelp.com/user_details?userid=eegkJ5oRIdtxoS8Qzg7Q1g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KFQJUon01pjmX6puzAWHLw/180s.jpg",
+        "address": "Alpharetta, GA",
+        "friends": 4,
+        "photos": 25,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "Great experience with delicious food. The staff was friendly and the menu was fully of good things. Tried the chicken and fish sandwich. Both amazing. Worth the visit if you want a good sandwich.",
+        "language": "en"
+      },
+      "date": "2019-08-05T15:35:50Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AAykiW8pQL-df7rDxte29Q/o.jpg",
+          "caption": "Conquistador (chicken sandwich)"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jorge M.",
+        "user_id": "iixcthyrEzOycXn5AEtfhg",
+        "link": "https://www.yelp.com/user_details?userid=iixcthyrEzOycXn5AEtfhg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/l02sv5TGQWE_huao5nPfiw/180s.jpg",
+        "address": "Baldwin, FL",
+        "friends": 7,
+        "photos": 0,
+        "reviews": 33
+      },
+      "comment": {
+        "text": "I am pleased to say I was not disappointed by Zunzi's. More than anything, Zunzi's has an incredible vibe. OMG, their Godfather was absolutely yummy, such a fantastic dish with wonderful flavors. Team ensured that every thing was fine. Definitely check this place out.",
+        "language": "en"
+      },
+      "date": "2020-12-25T10:48:35Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Samuel P.",
+        "user_id": "zua3EQdxfBehVmwALcS3Dg",
+        "link": "https://www.yelp.com/user_details?userid=zua3EQdxfBehVmwALcS3Dg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PcCe_nPGCmWRtqKS2EPaEQ/180s.jpg",
+        "address": "Augusta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 47
+      },
+      "comment": {
+        "text": "This is our favorite new sandwich shop on west midtown. A great selection with different types of meat you won't find at other places (also vegetarian options). The bread is fantastic and the proportions are humongous.",
+        "language": "en"
+      },
+      "date": "2020-11-09T21:10:56Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Skip S.",
+        "user_id": "QPEcFnVX4_O_-PbxIdDyLw",
+        "link": "https://www.yelp.com/user_details?userid=QPEcFnVX4_O_-PbxIdDyLw",
+        "address": "Roswell, GA",
+        "friends": 3,
+        "photos": 0,
+        "reviews": 26
+      },
+      "comment": {
+        "text": "Best sandwiches in Atlanta depends on your palate, but they are very good. Bread is excellent. Meats are a grade above standard. The recipes bring it all together for a very tasty meal. Clean restaurant. South African tea is also amazing, sweet or unsweetened.\n\nVery unique spices but not too hot.",
+        "language": "en"
+      },
+      "date": "2020-11-09T20:26:33Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Peter B.",
+        "user_id": "pHW0VXxbHVE0RAfT9kLtGg",
+        "link": "https://www.yelp.com/user_details?userid=pHW0VXxbHVE0RAfT9kLtGg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5Asn-1i762oHAthjj71dGg/180s.jpg",
+        "address": "Brooklyn, New York, NY",
+        "friends": 3,
+        "photos": 0,
+        "reviews": 144
+      },
+      "comment": {
+        "text": "One word describes Zunzi's: phenomenal. Menu items are fantastic and the team is very courteous. Really yummy and nutritious. Not to mention, the service was awesome and the staff was super helpful. I'll probably try again.",
+        "language": "en"
+      },
+      "date": "2020-12-18T01:55:53Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Stephanie K.",
+        "user_id": "vabFIygyg8_NJqQCpt2mOA",
+        "link": "https://www.yelp.com/user_details?userid=vabFIygyg8_NJqQCpt2mOA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/f6uolFiNvY4Uwr8uzXtsWQ/180s.jpg",
+        "address": "Peachtree City, GA",
+        "friends": 256,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Zunzi's is one of my favorite places! I went to college in Savannah and there I discovered Zunzi's and ate there all the time. I then heard they opened a Atlanta location and could not wait to start eating this amazing food and sauces again!!",
+        "language": "en"
+      },
+      "date": "2020-09-06T00:15:56Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Meha P.",
+        "user_id": "4zxEUC9LfOpUtJlwyEIvaw",
+        "link": "https://www.yelp.com/user_details?userid=4zxEUC9LfOpUtJlwyEIvaw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RvCr4tuS9gTACgkwI--46A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 67,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "I ordered through doordash. The Johnny Roll, it was big, filling and just yummy!! The special sauces they just worked very well with the sandwich! It was perfect!",
+        "language": "en"
+      },
+      "date": "2020-10-28T18:25:18Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sophia P.",
+        "user_id": "9JQVEfX2UHWtF2XDRwRQUQ",
+        "link": "https://www.yelp.com/user_details?userid=9JQVEfX2UHWtF2XDRwRQUQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/IQ3ZMnLzYNfogbvGX2Htng/180s.jpg",
+        "address": "Alpharetta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "This place is awesome!!! I had passed by many times and never new what kind of food they had. I'm sooooo glad I stopped by today, I ordered the conquistador sandwich and was not disappointed. Definitely coming back soon, and highly recommend anyone to try it out if you're in the area!!",
+        "language": "en"
+      },
+      "date": "2020-10-25T19:24:13Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Coryn M.",
+        "user_id": "r8dD2DJz7_FuJ4peG8uFrw",
+        "link": "https://www.yelp.com/user_details?userid=r8dD2DJz7_FuJ4peG8uFrw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hDnRtRaW4rx1_rEIQPCzkg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 11,
+        "photos": 51,
+        "reviews": 143
+      },
+      "comment": {
+        "text": "Awesome food! Came by here just by chance when I was getting hangry. The staff was so friendly and the food was delicious! These sandwiches are HUGE!\n\nI thought from the name and sign that they wouldn't have seating, but they do have some seating inside if you don't want to take it to go. \n\nWill be back!",
+        "language": "en"
+      },
+      "date": "2018-08-04T22:17:23Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Yardley H.",
+        "user_id": "zYu3-T03-vZyAZCqv2ZjhA",
+        "link": "https://www.yelp.com/user_details?userid=zYu3-T03-vZyAZCqv2ZjhA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bT_K7Kzp8XK_iJ5Ww-0s_Q/180s.jpg",
+        "address": "GA, GA",
+        "friends": 14,
+        "photos": 160,
+        "reviews": 83
+      },
+      "comment": {
+        "text": "I had a chance to finally try Zunzi because it was talked up by a coworker, so I checked some reviews and gave it a go. I tried the Johnny roll and it was a decent sandwich, however the food and the quality really don't match the price point. There's a reason the online menu doesn't give prices, it would probably scare folks away before the even tried it. The Johnny roll clocked in at $11 without chips or a drink, and they have a sandwich called the Godfather that clocks in at $14. The one thing I did really enjoy was the customer service I received at this particular location, it was GREAT! All that being said, I'll be back....if someone else is paying.",
+        "language": "en"
+      },
+      "date": "2018-08-10T19:35:24Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ERNNyfHNOirv7vwu1_KnbQ/o.jpg",
+          "caption": "Johnny roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/piO6XRHQ0MiTMBy88KMu-Q/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=78ocP9YyQFrYtIO1TTle2A&start=200"
+  }
+}

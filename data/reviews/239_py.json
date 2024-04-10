@@ -1,0 +1,2404 @@
+{
+    "search_metadata": {
+        "id": "65ef31284055aa9bd445f158",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f3ac24a8377f2625/65ef31284055aa9bd445f158.json",
+        "created_at": "2024-03-11 16:28:24 UTC",
+        "processed_at": "2024-03-11 16:28:24 UTC",
+        "yelp_reviews_url": "https://www.yelp.com/biz/Qe7_nhlFf6WO541A9AAYbw?",
+        "raw_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef31284055aa9bd445f158.html",
+        "prettify_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef31284055aa9bd445f158.prettify",
+        "total_time_taken": 1.57
+    },
+    "search_parameters": {
+        "engine": "yelp_reviews",
+        "start": 0,
+        "num": "50",
+        "place_id": "Qe7_nhlFf6WO541A9AAYbw"
+    },
+    "search_information": {
+        "total_results": 103,
+        "business": "Verdure Kitchen & Cocktails"
+    },
+    "review_languages": [
+        {
+            "hl": "en",
+            "count": 103
+        },
+        {
+            "hl": "es",
+            "count": 1
+        }
+    ],
+    "reviews": [
+        {
+            "user": {
+                "name": "Saje A.",
+                "user_id": "e1pod-GCPf0QqRNPGImVuQ",
+                "link": "https://www.yelp.com/user_details?userid=e1pod-GCPf0QqRNPGImVuQ",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 3,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "The bald dude Jeremy was super great!!! Guve this man a raise yall!!  The lobster mac n cheese was so good too n don't forget the aesthetic of the place, it's perfect for them IG flicks for my content girlies!!!  10/10 would recommend!!!!!!!!!",
+                "language": "en"
+            },
+            "date": "2024-02-19T01:16:01Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/A9TQNMX56hJMHGtvFfoZvQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qwBjsPeqMqZONvDuzrzHmQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/b2_QHevSl8VB8Bjpi7b0Eg/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "LOL, love the feedback and appreciate your visit. We hope to see you again!",
+                    "date": "2024-02-19T18:51:34Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Morgan L.",
+                "user_id": "fN4Vst-lezJ01e8fQQQsrQ",
+                "link": "https://www.yelp.com/user_details?userid=fN4Vst-lezJ01e8fQQQsrQ",
+                "address": "Athens-Clarke County unified government (balance), GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "We had dinner at Verdure last night. The food was fantastic and our server Harold gave great recommendations for what to try. We had the Okra and Octopus to start and then the Lamb and Red Snapper for entrees.",
+                "language": "en"
+            },
+            "date": "2024-02-23T17:28:02Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for dining with us, Morgan. Please come and see us again soon.",
+                    "date": "2024-02-25T16:35:57Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "LaToya S.",
+                "user_id": "DQXkv2zA3nJjE7NPFd3ITw",
+                "link": "https://www.yelp.com/user_details?userid=DQXkv2zA3nJjE7NPFd3ITw",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "Jeremy was awesome. Great atmosphere, food and drinks. Definitely will come back. It was busy but food came out in a timely fashion.",
+                "language": "en"
+            },
+            "date": "2024-02-24T03:47:20Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Sheena G.",
+                "user_id": "wCbCmpsRWzKzElFK-4kZRw",
+                "link": "https://www.yelp.com/user_details?userid=wCbCmpsRWzKzElFK-4kZRw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0m8cTlcrk6fwwKNR3C4aTw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 32,
+                "photos": 306,
+                "reviews": 377,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Chile......... (insert hymn humming here)....this place is a blessing. A true culinary experience and not just another pricey place with a grass wall.\n\nValet parking is available for your convenience to get right in, as there is very limited street parking.\n\nOnce inside, the ambience of the restaurant really needs to be taken in. (please go to the bathroom).\n\nThe bread offering was this light and toasted focacia with butter and olive oil and a dash of salt. So inviting!\n\nThe cocktail and wine list is extremely impressive. I have many times shot at cocktails over $15 with base alcohol like tito's vodka or captain morgan rum NOT THIS PLACE. true craft cocktails and wines that take time and effort to source.\n\nAnyone who has blue points available daily gets a high five from me baby. Fresh and delicious. I didnt even mind not having horseradish as their vinagrette was delicious.\n\nFor entree......the Snapper tho!!!!!!! OMG! literally PURRRRFECCKKKK. I chose to pair with red rice and alot of the spices and it was an amazing meal.\n\nI wish I had space for dessert but I know I will be back.\n\nService from Jeremy and Rich was immaculate. Very attentive, friendly, charming even lol. I was in want of nothing!",
+                "language": "en"
+            },
+            "date": "2024-03-06T12:56:18Z",
+            "rating": 5,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VyWeoFWQTbf6pE3B2NB3IQ/o.jpg",
+                    "caption": "Bread plate"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pG927BwWiukIk6MikdW9UA/o.jpg",
+                    "caption": "Snapper"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VpJY_7fic_Hz9UnJjYXojQ/o.jpg",
+                    "caption": "Red Rice"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6I3xEGEROt2Apqywm8xUJA/o.jpg",
+                    "caption": "Senegalese Chicken"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eluqjEY4nlS7ufLBwRbpKw/o.jpg",
+                    "caption": "the spot"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Sheena we truly appreciate your vivid recap - thank you. Looking forward to that return visit. Love the photos!",
+                    "date": "2024-03-06T17:02:51Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Shimite O.",
+                "user_id": "xdyAiveobA7hGmvoi08ePQ",
+                "link": "https://www.yelp.com/user_details?userid=xdyAiveobA7hGmvoi08ePQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Woe1atvirwfFnrhEKxLfTw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 398,
+                "photos": 47,
+                "reviews": 13
+            },
+            "comment": {
+                "text": "First of all - let's get this out of the way. This isn't African food - or at least what I had wasn't African. I'm Nigerian, lived in NYC for 11 years and had plenty of African cuisine including Senegalese, Ghanaian, Somali, Ethiopian, South African. This ain't it. \n\nBut that said, the food is good - a tad on the salty side and very overpriced. \n\nI would come back for my appetizer - fried octopus - very nice textures and flavor profile. I wouldn't come back for the Senegalese chicken yassa - way too salty and really it just tasted like chicken smothered in too much gravy, NOT like yassa. \n\nLike everyone has said the ambiance is gorgeous....very insta-worthy. \n\nStreet parking is easy - so save your $10.",
+                "language": "en"
+            },
+            "date": "2024-03-04T01:05:03Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EfFQAwa5JaMirAX8BrFRhw/o.jpg",
+                    "caption": "Bar area"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KCphwhd2yli33nnJBRx5jw/o.jpg",
+                    "caption": "Senegalese Chicken Yassa"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mu4KQH2GaVWbZvjAb8MZVg/o.jpg",
+                    "caption": "Fried Octopus"
+                }
+            ],
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Betty V.",
+                "user_id": "KZsPSA8DHDnMUzi7au6q6Q",
+                "link": "https://www.yelp.com/user_details?userid=KZsPSA8DHDnMUzi7au6q6Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kcXuo5R7CoEar8aiOZ2sKA/180s.jpg",
+                "address": "Duluth, GA",
+                "friends": 0,
+                "photos": 7,
+                "reviews": 5
+            },
+            "comment": {
+                "text": "I was looking forward to trying out verdure since it's a newer restaurant and the ambiance looks very nice. I had a very disappointing time here.\n\nI booked a dinner reservation for a party of 9 for my birthday last month, plenty of time in advance. Booking the reservation was a bit of a struggle since I was told two different things. One worker told us we had to email an event planner. When I called back after not getting an email response for over a week they told me they could just adjust my reservation over the phone. Odd but okay.\n\nFast forward to the actual day of my reservation. Our dinner reservation was set for 8 o'clock. When my party showed up they told us our table wasn't ready yet so my friends grabbed some cocktails at the bar to wait. We are not difficult customers so we patiently waited, grabbed some drinks and took some pictures since it was very nicely decorated inside. After waiting about 30 minutes I was a bit concerned since we had plans after dinner. When I asked the hostesses when our table would be ready, all they could tell us was that the party before us wasn't ready to leave yet. 30 minutes quickly turned into an hour+. At this point I grew impatient because it felt like no one at the establishment cared how long we were waiting.\n\nThere were multiple ways the restaurant could've made things right. I was told there was no manager I could speak to. What kind of restaurant has no manager on a busy weekend night? A party of 5 got seated while we were waiting. They could of easily pushed two tables together to seat us. It didn't feel like any one working here was sorry about what was happening. Considering this was for my birthday I was very disappointed and ended up leaving and finding a different restaurant to eat at since my party was starving at this point. \n\nI do not recommend verdure. There needs to be some sort of management set in place and a better job done of training your hostesses to deal with properly accommodating reservations.",
+                "language": "en"
+            },
+            "date": "2024-01-29T19:27:21Z",
+            "rating": 1,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Tobi S.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PA6a5coZXE4XA4GsJwJgXg/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Hello Betty, we are so sorry about your experience, please expect an email from us very soon. We sincerely apologize. A common issue we face are parties delaying the next reservation and taking longer than their allocated table duration even though that was also increased lately. Please be sure to check your email.",
+                    "date": "2024-02-10T03:12:42Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Joy H.",
+                "user_id": "9HCqBsQEemOk9-MsIgyFcA",
+                "link": "https://www.yelp.com/user_details?userid=9HCqBsQEemOk9-MsIgyFcA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/P_Z7fKMecUlONhK5HAS5gw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 46,
+                "photos": 63,
+                "reviews": 37,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Finally tried Verdure Kitchen and Cocktails, and it was well worth the wait! The restaurant first of all is so gorgeous and the service was outstanding, thanks to a knowledgeable waitstaff - big shoutout to Jeremy, our server who nailed it. Surprisingly, the crispy fried octopus and cr\u00e8me br\u00fbl\u00e9e became unexpected favorites. The octopus dish was incredibly fresh, and the cr\u00e8me br\u00fbl\u00e9e had the perfect balance of sweetness. The lamb chops were a standout, my absolute favorite. Limited street parking, but they offer valet for $10. Can't wait to return soon!\n\nAppetizers:\nCrispy Fried Octopus\nCrispy Lardon Brussel Sprouts\n\nDrinks:\nLavender Berry Cocktail\nCorpse Reviver\n\nEntree:\nSafari Steak Strip\nZanzibar Roasted Lamb Rib Chops\n\nDessert:\nTigernut Cr\u00e8me Br\u00fbl\u00e9e\n\nGive it a try and let me know your thoughts!",
+                "language": "en"
+            },
+            "date": "2024-01-28T16:22:14Z",
+            "rating": 5,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ExW645nWufRNEhtsOwCH3Q/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HjC6KJ30_iR5M6M1bubUXQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BBG6hvN5eoNNGMmXNIbQKA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qlMD3wzcLtlA54_VWOoorw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "We look forward to seeing you again Joy. Love the photos and feedback, thank you!",
+                    "date": "2024-02-06T20:39:18Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Amber G.",
+                "user_id": "7Vynt6BGPGBV9idTB8I0Sw",
+                "link": "https://www.yelp.com/user_details?userid=7Vynt6BGPGBV9idTB8I0Sw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/t4JQWehOpvU-RohGkdChpQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 32,
+                "photos": 298,
+                "reviews": 180,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Ambiance is cool. Service was mediocre and slow and I wouldn't return for this reason. I enjoyed the prawns - the lamp chops were flavorless until waiter brought out a flavor trio that added a necessary kick to food. I loved my espresso martini and I got two! Desserts were terrible as they all tasted savory.",
+                "language": "en"
+            },
+            "date": "2024-02-20T17:41:27Z",
+            "rating": 3,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3f4yza0etMb2CN6ffXL7wQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t7WDNg84xXeWMEvfmqTKSQ/o.jpg",
+                    "caption": "Prawns"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "We regret that we had an off night and that your service was not up to par. We would love a second opportunity to better serve you if you change your mind. Thank you for visiting.",
+                    "date": "2024-02-20T18:24:25Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Madalyn J.",
+                "user_id": "RA3AvVkeRo3V20bVyiVYGg",
+                "link": "https://www.yelp.com/user_details?userid=RA3AvVkeRo3V20bVyiVYGg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PtpovMDAVovJ_Xru32X7bw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 302,
+                "photos": 842,
+                "reviews": 204,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "SO good and so aesthetic! We loved the live music, I think they have it most nights. Valet is $10, or grabs street parking for free! Service is very good, and quick! We tried the Brussels sprouts with pork belly, oysters, the rib eye, lobster mac and cheese, creme brulle, espresso martinis, Smokey old fashioned, and the coconut hibiscus margarita. Everything was amazing!  The steak was delicious and cooked well, the oysters were god although kind of small, and the lobster was a little chewy but overall pretty good. We also found our new favorite espresso martinis in the city! They are SO good and light and creamy. I recommend this restaurant for a night out, however it is pricey!",
+                "language": "en"
+            },
+            "date": "2024-02-17T22:45:11Z",
+            "rating": 4,
+            "tags": [
+                "10 photos",
+                "1 check-in"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3lmvFy4_xFHgQzj8tYVk0g/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L2zhBHQne7Hs7Jo_6kgZnA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qWgDDwNDF_Orwt7j-7z3rg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zf8YFWdIyf8Sw6sCyrg-zg/o.jpg",
+                    "caption": "Lobster Mac and cheese"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SSMiYd6SMm6m1WYpsj1hsA/o.jpg",
+                    "caption": "Ribeye"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/11EMTvMjYnk2Uq6Vx5BnfA/o.jpg",
+                    "caption": "Oysters"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/H3ASIRrWrCMeAZ2jFUg_aw/o.jpg",
+                    "caption": "Creme brulee , espresso martini"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/poxFfXw-0VedHzWyBJIzHw/o.jpg",
+                    "caption": "Interior"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_MkPH5QISxOkj6HUxxR_1w/o.jpg",
+                    "caption": "Brussels"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/O0-2sYKFRVmQE0k_YEBxKg/o.jpg",
+                    "caption": "Hibiscus margarita and Smokey old fashioned"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for dining with us, Madalyn!",
+                    "date": "2024-02-19T18:51:07Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Shen M.",
+                "user_id": "GYOat2d8DaTwEQqu4byaYQ",
+                "link": "https://www.yelp.com/user_details?userid=GYOat2d8DaTwEQqu4byaYQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/s4RRdBZjjfkw21SV_p5PNg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 4,
+                "photos": 158,
+                "reviews": 57,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "The restaurant is beautiful! Parking is 10 dollars. Drinks are amazing. That was the main thing me and my friends all agreed that the drinks were amazing ! The food is good but it's definitely an acquired taste with the different seasonings. It's prob like a 7/10 on food. The waitress is amazing and was able to answer all of our questions. My steak and a friend's chicken past was good. The fish was ok but I think it's just a different type of seasonings that we were not use. The restaurant is more oh the pricier side. But def recommend it for drinks and nice cute classy vibe.",
+                "language": "en"
+            },
+            "date": "2024-02-16T14:42:26Z",
+            "rating": 4,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/O_1z3Ja1b9pUWWu4U1s0Pg/o.jpg",
+                    "caption": "Steak"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2zM3WM3KxFSmU3v7lBeVzQ/o.jpg",
+                    "caption": "Salad"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yAdYhitggTnUm_-cnLJhIA/o.jpg",
+                    "caption": "The back room"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wOSjf7Ziwi4iY1sDGERXfg/o.jpg",
+                    "caption": "Drink"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Wonderful photos, thank you for posting. We appreciate your feedback. We would love to see you again. Our servers can go over the menu more thoroughly so that you are totally satisfied with your choice.",
+                    "date": "2024-02-16T16:06:03Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Nicole W.",
+                "user_id": "idlL-0UBG9PVrdJf32_fSA",
+                "link": "https://www.yelp.com/user_details?userid=idlL-0UBG9PVrdJf32_fSA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oVHyggvLnoYcEBxj_RsKCg/180s.jpg",
+                "address": "Decatur, GA",
+                "friends": 235,
+                "photos": 922,
+                "reviews": 483,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Verdure is absolutely beautiful, the other reviews are spot on about that. Aesthetically, it's perfect for a special occasion or fancy date night.\n\nOur waitress was very nice and took time to explain everything although at times it was a little hard to hear her. I also found the process of removing plates from the table to be odd and clunky. We had beautiful place settings upon arrival, and then they came around and asked to remove everything. It just made things a little awkward as this took a couple visits from staff to get everything.\n\nI didn't order a drink but everyone who did really liked theirs and the presentation was nice. Verdure is pricy and we weren't super hungry, so my husband and I decided to split the Octopus for an appetizer and the Lamb Chops for the entree. I loved the Octopus but beware it's chewier than calamari so that may freak some people out. We enjoyed the lamb chops and thought the portion was decent (we took the last one to go).\n\nI don't consider Verdure group friendly because they have an inflexible bill policy. They'll only split it between 3 cards and will only do an equal split. For a pricy luxury branded place, I'd expect flexibility to simplify and enhance customer experience.",
+                "language": "en"
+            },
+            "date": "2023-11-27T20:56:43Z",
+            "rating": 4,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5Mw3zaDdjPWdURpJvoMVMg/o.jpg",
+                    "caption": "Beautiful decoration"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CSgMzpZl0RXXU73gbgGIZg/o.jpg",
+                    "caption": "Menu- November 2023"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/catPwANW3E0Avv-cnh5L9w/o.jpg",
+                    "caption": "Crispy Fried Octopus- yummy, really liked the corn pur\u00e9e. Not as fried as calamari"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nRX-l7wgwTy2lxCvg70W_g/o.jpg",
+                    "caption": "Afriki Red Snapper- once they figured out how to properly cut it, folks said they liked it"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/a3qKBS0jCtNnwvnR_iNlTQ/o.jpg",
+                    "caption": "Zanzi Peppercorn Lamb Rib Chops- pretty good, asparagus was okay"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "We appreciate your dining with us and your feedback, Nicole, thank you.",
+                    "date": "2023-12-02T17:57:44Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Melita T.",
+                "user_id": "l0gZlhNkUwt7p2Xyu5slKw",
+                "link": "https://www.yelp.com/user_details?userid=l0gZlhNkUwt7p2Xyu5slKw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XwwzLShShHUkqm2RYwQbIw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 428,
+                "photos": 201,
+                "reviews": 89,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I'll pass next time and here's why...\n\nWe showed up for our 5:00pm reservation and little early so we sat in the parking lot until about 4:50. We reached the front door and before we could even come inside, the hostess says \"sorry we don't open until 5:00pm\". Understood. Although it's cold and rainy, we wait outside until 5:00pm. Once we reach the door, the same hostess approaches us and says \"they're finishing up their staff meeting so you'll have to wait for a second\". At this point, I'm a bit annoyed. Our reservation is at 5:00pm so why are we feeling like we're intruding on a meeting that should've happened before customers arrive? But hey, it's Atlanta. \n\nAlthough the restaurant is absolutely beautiful, the food lacked seasoning. The complimentary bread was a nice touch but my strip steak and spinach needed flavor. The brussel sprouts were pretty good. was not impressed and I will not be back.\n\nOur server was great but overall the experience was lackluster and it started with the host at the front door. \n\nApparently valet is $10 but we ended up parking before valet was even set up so luckily we didn't have to pay. \n\nDon't let TikTok hype this place up because I definitely fell for it.",
+                "language": "en"
+            },
+            "date": "2023-11-12T01:24:50Z",
+            "rating": 3,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fl-hp9Fn87OqSfcH98C6hQ/o.jpg",
+                    "caption": "Strip steak"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vcg-0gnlqMCVIn31906gxA/o.jpg",
+                    "caption": "Complimentary bread"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WibC1gRABiRf47BGNwg-Bw/o.jpg",
+                    "caption": "Brussels sprouts"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BlPLXpN3DN4Gow48yzvpYQ/o.jpg",
+                    "caption": "Kiwi passion fruit margarita"
+                }
+            ],
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 2
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Tobi S.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PA6a5coZXE4XA4GsJwJgXg/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Dear Melita, We sincerely apologize for falling short of your expectations and are truly disappointed to hear about your subpar experience. We take your feedback seriously and will address the issues you've raised to ensure a higher standard of service and quality.",
+                    "date": "2023-11-12T22:27:26Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Marquita J.",
+                "user_id": "ezjn4BShi2MtXJ_HBZes2g",
+                "link": "https://www.yelp.com/user_details?userid=ezjn4BShi2MtXJ_HBZes2g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/9GBSjq7tkUI1RmNQWQ6Smw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 46,
+                "photos": 414,
+                "reviews": 172,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I went here over the weekend as I booked the cocktail experience and it was an experience indeed!\n\nUpon arrival, there aren't many parking options. Luckily I found a spot on the street or you can valet. \n\nWhen I walked in, I was instantly greeted with kindness and quick service. Since I booked the cocktail experience, I was seated at the bar. \n\nEach person behind the bar was introduced and I was given a menu. Then I was asked if I wanted the complimentary bread service. I truly appreciated this as some people don't always want bread so this prevents waste. \n\nI went to order food and a drink. Luckily everyone behind the bar was knowledgeable on food and drink items to provide recommendations. I ordered the zesty pineapple-glazed gambas (shrimp) hot appetizer and grapefruit tequila Negroni drink. Everything came out timely and was delicious! I was really impressed with the shrimp dish. Very flavorful! \n\nWhat I was really impressed with was the cocktail experience. Whenever a bartender makes a drink for anyone in the restaurant, extra remains to give to the people sitting at the bar. So maybe don't order an alcoholic drink if you plan to be there a while as you will get plenty of it during this experience. \n\nFinally, let's talk about the decor. Absolutely exquisite! You can tell work and dedication went into the designs inside the restaurant. Very inviting. \n\nI will definitely be back!",
+                "language": "en"
+            },
+            "date": "2023-10-25T00:25:18Z",
+            "rating": 5,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jBHtA4PCGkEIWn1SBHdssw/o.jpg",
+                    "caption": "Inside look from the bar"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CAS0SxTTs_ssBM_bSTLMaw/o.jpg",
+                    "caption": "Bread service"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/saYzy_FtZuWezBpXxzv3RA/o.jpg",
+                    "caption": "zesty pineapple-glazed gambas"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ItdrvoFrJHTR2J1MAtpYzA/o.jpg",
+                    "caption": "grapefruit tequila Negroni drink"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/N_VGjr7aV-0u8amX3uszrw/o.jpg",
+                    "caption": "Outside entrance"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 2
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Tobi S.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PA6a5coZXE4XA4GsJwJgXg/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "We appreciate you Marquita and hope to see you again.",
+                    "date": "2023-11-13T21:10:25Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "D'Jillisser K.",
+                "user_id": "6ueQFmbYmOs-0TE07lEWvQ",
+                "link": "https://www.yelp.com/user_details?userid=6ueQFmbYmOs-0TE07lEWvQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yjatgLTuoNEM1Sf7_fyWZw/180s.jpg",
+                "address": "Decatur, GA",
+                "friends": 142,
+                "photos": 823,
+                "reviews": 207,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I finally had the opportunity to dine at Verdure! My friend is getting married, and I wanted to celebrate her engagement, especially since I've seen so many buzz around this establishment, I thought this would be the perfect place. \n\nFirst and foremost, Verdure is exquisitely decorated, with an ambiance that's perfect for any celebratory occasion. However, as we prepared to place our meal orders, we encountered some discomfort due to the limited table space our plates, drinks and complimentary bread that is provided on the house. \n\nTo start, I ordered the brussels sprouts, which was delicious! As for my main entree, I chose the strip steak and mashed potatoes, accompanied by plantains and red rice on the side.  I was curious to see how the other side dishes tasted and the overall quality did not leave a lasting impression Surprisingly, I found my appetizer more enjoyable than my main course.",
+                "language": "en"
+            },
+            "date": "2023-10-23T22:36:30Z",
+            "rating": 3,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mx5_CAoG5y1EW2gPJ86o5Q/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7FkIuvdaOLRmipX3oF69uA/o.jpg",
+                    "caption": "Brussels Sprouts"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_2dwyNb5jUyyb-tN2DReKw/o.jpg",
+                    "caption": "Red Rice"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/io803D1jgcCEL1GW1dxM1Q/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Jy-RoLdKZbgRgn-ogWYXyg/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 1,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Tobi S.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PA6a5coZXE4XA4GsJwJgXg/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "We're very sorry to hear that your dining experience did not meet expectations. We strive to always deliver a delicious dining experience.",
+                    "date": "2023-10-31T12:50:14Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Nakema G.",
+                "user_id": "lSJe61Gd6sEIhsOffDjKEg",
+                "link": "https://www.yelp.com/user_details?userid=lSJe61Gd6sEIhsOffDjKEg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gHAfXe5bNJTHXdn-l3QDKw/180s.jpg",
+                "address": "Smyrna, GA",
+                "friends": 78,
+                "photos": 1031,
+                "reviews": 310,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I had a great dining experience at Verdure for Galentines Day with a few of my girl friends. The ambiance is really nice & chic. I love the decor. Our server was very nice and personable. She gave great recommendations for food & drinks. For my entree I had the lamb chops I asked for them to be more well. The server said that she would communicate that to the kitchen for me. Unfortunately, they came out with quite a bit of pink. I kept them and just dealt with it, but for this reason I would not order them again. We ordered 2 appetizers for the table which included the crispy octopus and the Brussel sprouts. The octopus was so flavorful and cooked perfectly. For drinks we ordered the creamy coconut hibiscus margarita. I noticed on our bill we were charged for the large option which is $24 versus $18 there's not a huge difference in price however customers should be given the option to choose between the regular and large   versus the server selecting for the customer.",
+                "language": "en"
+            },
+            "date": "2024-03-05T17:30:52Z",
+            "rating": 4,
+            "tags": [
+                "1 check-in"
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 1,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "We hear and respect your feedback, thank you. We wish we had known that you were not happy with the Lamb Chops - always happy to fix for you! Thank you again for bringing your gals for a night out.",
+                    "date": "2024-03-06T17:01:35Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Julia C.",
+                "user_id": "mg7NUHab17SZ4RgXgJ5krA",
+                "link": "https://www.yelp.com/user_details?userid=mg7NUHab17SZ4RgXgJ5krA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RlggaTcQEokb5ecoe5PMQQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 12,
+                "photos": 190,
+                "reviews": 68,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I had the most amazing time at Verdure! From the cocktails to the food to the amazing decor- you will love this spot!! The ambiance in the restaurant was so beautiful- leaves flowing around the restaurant and beautiful seating and lights. There was also a man playing jazz all night which was amazing! We loved the theme of this restaurant nestled next to Piedmont Park. The food was delicious- absolutely loved the Crispy Octopus, Burrata and the Lamb Chops!! These flavors explode in your mouth. This makes for a great spot to grab a drink with friends.",
+                "language": "en"
+            },
+            "date": "2024-01-11T16:27:53Z",
+            "rating": 5,
+            "tags": [
+                "10 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w7Hs5v9GzBcXhyOBDFJRGQ/o.jpg",
+                    "caption": "Beautiful scenery"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7u22vE45W0sJxDS6-o2GIg/o.jpg",
+                    "caption": "Brussels!!"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gsLLltrjgpOKy62ACTVyWQ/o.jpg",
+                    "caption": "Burrata"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/k182PzUmWBlat6MlTtZKpw/o.jpg",
+                    "caption": "Lamb Chops!!"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kAp7nq6wi8jz0pYPfbI0OQ/o.jpg",
+                    "caption": "Lamb Chops, mussels, and brussels"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/buwxgIfwVr6icn7koDgBNw/o.jpg",
+                    "caption": "Mussels"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3VDJZYfNQvoUWACNq7gvDw/o.jpg",
+                    "caption": "Crispy Octopus"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CgFXH063lvA839IuWlMaYA/o.jpg",
+                    "caption": "Seating"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TkK24tachlrGpk1l3vdpSg/o.jpg",
+                    "caption": "Lavender Berry Cocktail"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/d_hS1nRUEBB0ANUwvZ-gBA/o.jpg",
+                    "caption": "Bar"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you, Julia. Great feedback and photos. Please come back soon!",
+                    "date": "2024-01-14T15:42:07Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Tari O.",
+                "user_id": "WoEfl5cpreTvMC5d_0UOMQ",
+                "link": "https://www.yelp.com/user_details?userid=WoEfl5cpreTvMC5d_0UOMQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gD-MhWOJt8aTfs2KeS_eDA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 170,
+                "photos": 2846,
+                "reviews": 791,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Enjoyed a weeknight dinner at Verdure. This west African inspired restaurant has a beautiful cozy interior making it great for group meals or more intimate meals. Reservations are a must and there is limited bar seating. I parked at valet, but there appeared to be limited street and metered parking. The restaurant is on the pricier side. Drinks start at $15 and dishes around $35. \n\nWe enjoyed the bread service, plantains, steak, and branzino. They also have many large sides and vegetarian options. The staff was friendly, but it did feel like we were always being upsold. We also\nOrdered Brussels without bacon and bacon was there. The spot is relatively new so assuming just kinks to workout. Would return!",
+                "language": "en"
+            },
+            "date": "2023-10-03T14:43:01Z",
+            "rating": 4,
+            "tags": [
+                "6 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0dtXB7fYLP06q99pO65gIQ/o.jpg",
+                    "caption": "Inside"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hbgwZdXmC3O6Yy8E5H8ZPQ/o.jpg",
+                    "caption": "Menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/baFe6i6g1FHJ2b_spk8SaA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9khjI3hus8cjW_NRjIZ4Wg/o.jpg",
+                    "caption": "Branzino"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/81ZtcI3lV1sSniQE_Qr_mA/o.jpg",
+                    "caption": "Menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DBLeW7H4wEe90K34RuEeJg/o.jpg",
+                    "caption": "Bread"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Kristopher W.",
+                "user_id": "vgo7fiCV1ppes5x8hQ9GrQ",
+                "link": "https://www.yelp.com/user_details?userid=vgo7fiCV1ppes5x8hQ9GrQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RYSAAoTEpWG14Che3kSySQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 57,
+                "photos": 676,
+                "reviews": 181,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "My fianc\u00e9e and I had a chance to check out Verdure for Saturday night date night! It is a new hot spot that we heard about so definitely wanted to experience it. They have valet parking for $10 or street parking. We made reservations so we were seated promptly. The first thing we noticed was the decor that creates a grown and sexy ambiance! It was really nice!  Our waiter was really good and provided recommendations. I ordered the corpse reviver and the lobster mac&cheese. Both were good. I would say that the food could use a little more flavor. It wasn't bad but I was expecting more flavor wise. It was a good dining experience overall and would recommend.",
+                "language": "en"
+            },
+            "date": "2023-12-18T01:03:43Z",
+            "rating": 4,
+            "tags": [
+                "7 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fGQeENXUnjkRO6YxyeLAyQ/o.jpg",
+                    "caption": "Menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YN1NbJcRbnb9c2xb9WwD1Q/o.jpg",
+                    "caption": "Entrance"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qzJkZ1L4mXgxiIA-XIL9Tg/o.jpg",
+                    "caption": "Menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jte3GvCwjPT0RThC7XFV_Q/o.jpg",
+                    "caption": "Bread"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/z8DdT2Oay9PBSSxnINYpmg/o.jpg",
+                    "caption": "Lobster Mac&Cheese"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Re6acr3f4JuALyZfs_Pxxg/o.jpg",
+                    "caption": "Entry way"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7KUFSt2uByG4_OYfjbjrEw/o.jpg",
+                    "caption": "Corpse Reviver"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for visiting us.",
+                    "date": "2023-12-27T16:57:43Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Antoinette P.",
+                "user_id": "ZpUIkhHjWsDPwFqDJBI5dg",
+                "link": "https://www.yelp.com/user_details?userid=ZpUIkhHjWsDPwFqDJBI5dg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YHna-U7fpka1_NEWJvLMgQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 4,
+                "photos": 192,
+                "reviews": 44,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "First impressions of Verdure is that the decor is stunning and sets the mood throughout the restaurant. Very sexy, grown and tropical vibes. There is a dress code - cocktail attire is what most people wore. Came to dinner with a group of friends that live in MIA that are part of the Yelp MIA team. We ordered a variety of menu items. Our server was pleasant and explained that food would take a while to come out because the restaurant was at capacity for dinner. He brought bread service. \n\nThe passion fruit margaritas were really good. All of the cocktails were aesthetically pleasing. We went with the fried octopus for an appetizer. This was my first time having octopus so I don't have anything to compare it to. The flavor was good but I found it to be very chewy. \n\nFor the main course I had the lamb chops. Listen - those things were full of flavor! I was very satisfied! It came with a side of red rice that I wasn't a fan of. It was a bit dry to me. The branzino was also really delicious! Lobster Mac was decent. The small amount of lobster surprised me though. Brussel sprouts were a great side option! \n\nOverall we would go back when it's less busy. We were there for at least 3 hours total due to the food taking so long to come out the kitchen.",
+                "language": "en"
+            },
+            "date": "2023-09-20T10:04:57Z",
+            "rating": 4,
+            "tags": [
+                "8 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/j33lmdwWvHcV_-aG8FRWWQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/j6g0KlSPEK_gnfLX2_FLwA/o.jpg",
+                    "caption": "Lobster Mac"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7eJ8l8ACQ_bLLJtnlFQxJw/o.jpg",
+                    "caption": "Brussel sprouts"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/21VSf8iyWO-CJeW6yunSLw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PhDvqnJMRfq-Qa04zQX1Xw/o.jpg",
+                    "caption": "Branzino"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Sk6x2jKlv_Y8ra79Xj2gKg/o.jpg",
+                    "caption": "Fried octopus"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uzebSu8PiiEkX9m7IfcImA/o.jpg",
+                    "caption": "Lamb chops"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qT5CfQC6bBOWJQVljHJLbw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Rae J.",
+                "user_id": "FX1bS_oWM4mfrJQ5ivPFIA",
+                "link": "https://www.yelp.com/user_details?userid=FX1bS_oWM4mfrJQ5ivPFIA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2_FEKCqBGWWp1aIop8Gefw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 233,
+                "photos": 106,
+                "reviews": 167,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "We've been looking for a good African restaurant and this place did not disappoint! We were seated quickly with a reservation on a weeknight. There's valet outside for ten dollars, and street parking as well. The decor on the inside is stunning and perfect for pictures, I see why they have events! \n\nOur server Ashara immediately welcomed us with some great recommendations. We tried the espresso martini and a passion fruit kiwi mocktail, both were delicious (and love that all the drinks can be made as mocktails!). \n\nFor appetizers we had the brussel sprouts without bacon, the sauce was delicious! Plus the smoked and sea, and hummus with lots of fresh vegetables.\n\nOur entree were a special veggie plate and lamb chops! No room for dessert but will definitely be back",
+                "language": "en"
+            },
+            "date": "2023-12-07T13:48:07Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 2
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you, Rae! We hope that you will return again soon.",
+                    "date": "2023-12-07T14:52:10Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Kayla C.",
+                "user_id": "fit_RjKVmbhxdXhNTYWj_Q",
+                "link": "https://www.yelp.com/user_details?userid=fit_RjKVmbhxdXhNTYWj_Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/J90HkzGcF7HY3z_-LRamJg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 4,
+                "photos": 377,
+                "reviews": 107
+            },
+            "comment": {
+                "text": "Came here solo for my birthday dinner and enjoyed it greatly! I had a reservation and was seating right away. My server Jeremy arrived and was upbeat and helpful. The complimentary bread is soo good it's hard not get full on that! I ordered the skirt steak and it was cooked perfectly. I added a side of mashed potatoes that complimented it well. They also treated me to a birthday cr\u00e8me br\u00fbl\u00e9e! I would absolutely come back here or recommend it.",
+                "language": "en"
+            },
+            "date": "2024-02-19T01:26:53Z",
+            "rating": 5,
+            "tags": [
+                "1 photo",
+                "1 check-in"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mXpptPoGHi53TqlZ7uhrWg/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Happy Birthday and thank you for celebrating with us - cheers!",
+                    "date": "2024-02-19T18:51:57Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Tonekia P.",
+                "user_id": "3nUweQBH7FziqQntIrz2yg",
+                "link": "https://www.yelp.com/user_details?userid=3nUweQBH7FziqQntIrz2yg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6R-LjCwhtvOaBWGJXo5Ecw/180s.jpg",
+                "address": "Marietta, GA",
+                "friends": 134,
+                "photos": 294,
+                "reviews": 170,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Located in a secluded location in condominium is little gem. As you walk through the doors, you will feel like you're in a garden. At first, it took a minute for us to get a server as the host did not inform the server in our section. However, a wonderful individual came to our rescue and made the dining experience smooth and amazing. He gave us wonderful recommendations and was able to answer all of our questions. \n\nWe had the octopus and Brussel sprouts for our appetizers. Let me just say that they were both super delicious! The octopus was pan seared to perfection accompanied by this creamy corn puree. The Brussel sprouts were the perfect balance of sweet and salty. Flash-fried and cooked with diced pork that made the whole dish wonderful. \n\nFor the main course, I had the steak with saut\u00e9ed spinach and mashed potatoes. Now I will admit, they did overcook my steak the first time around, but it quickly remedied. It was tender and juicy and seasoned to perfection. The spinach was just ok... nothing too fancy or special. It was clear that the chef meant for the steak to be the star of the show. \n\nFor a cocktail, I had the kiwi passion margarita. The presentation was beautiful , and I hated to disturb it. All in all, it was a great dining experience with good food and excellent service. Highly recommend.",
+                "language": "en"
+            },
+            "date": "2023-08-17T22:31:11Z",
+            "rating": 5,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0LG1i3y-VHWAvCG6snQCIQ/o.jpg",
+                    "caption": "Kiwi passion margarita"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jvQco4APsR7OZmaWC9bxPw/o.jpg",
+                    "caption": "Octopus"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eTcLc7T6ttUdyEaTljX-Cg/o.jpg",
+                    "caption": "Brussel sprouts"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/33pQbdcQvkf0yc5k9EFMVA/o.jpg",
+                    "caption": "Steak and saut\u00e9ed spinach"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Desiree H.",
+                "user_id": "N6MDpHUZeBcM8QtSgcCnYA",
+                "link": "https://www.yelp.com/user_details?userid=N6MDpHUZeBcM8QtSgcCnYA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Qw4ZA4gCra4ZTR1I3e-D6Q/180s.jpg",
+                "address": "GA, GA",
+                "friends": 98,
+                "photos": 100,
+                "reviews": 33,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Verdure is an absolute culinary delight! Tucked behind Piedmont Park off of Monroe it's an approachable African restaurant. The cocktail menu was unique & fun. The berry lavender cocktail was the perfect balance of sweetness and floral notes, setting the tone for a great dinner. \n\nThe appetizers were equally impressive! The grilled octopus had a delightful char and tender texture, while the smoked salmon melted in my mouth and was nicely balanced with avocado. \n\nFor the main course, we indulged in their succulent lamb chops that were flawlessly seasoned and cooked to perfection. The whole branzino fish was a showstopper with its delicate flaky flesh, complemented by delightful herbs and tomatoes. The lobster Mac & cheese was a creamy, cheesy dream with a punch of spice from spicy Cheetos! \n\nVerdure is a combination of exquisite flavors, warm ambiance, and attentive service. Don't miss this new hidden culinary jewel.",
+                "language": "en"
+            },
+            "date": "2023-08-03T01:52:37Z",
+            "rating": 5,
+            "tags": [
+                "10 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/x4uJLffNhFecDb0DWDCCag/o.jpg",
+                    "caption": "Berry Lavender Cocktail"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eRQgy6zAmmgf9hYS0_g_qw/o.jpg",
+                    "caption": "Lobster Mac & Cheese"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QjK6bs47WF_iGs0OV3GXRg/o.jpg",
+                    "caption": "Grilled Octopus"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hWjuL9nf-T2y1zyiUzZ_SQ/o.jpg",
+                    "caption": "Smoked Salmon"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4gjs3dW-m54sHTnwDjNHuA/o.jpg",
+                    "caption": "Cheese Cake"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/F3qDDgi9PXoX9jnC_2fXGg/o.jpg",
+                    "caption": "Service with a smile"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/j7WMsRLzAXmJSgc6EMkJyg/o.jpg",
+                    "caption": "Whole Bronzino"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qwrOcsTXh0VkKYbrWhL2Rg/o.jpg",
+                    "caption": "Dining Room"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AFyhRnBX-0LL6TljB702cQ/o.jpg",
+                    "caption": "Lamb Chops with green beans"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xH_z0qyXg1RWu8Dy3bCzNw/o.jpg",
+                    "caption": "Entrance"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Darryl T.",
+                "user_id": "XnhWbcu8UOlEUdAfbosauQ",
+                "link": "https://www.yelp.com/user_details?userid=XnhWbcu8UOlEUdAfbosauQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uiJbRUGW1X7hsiRxt_V2Jw/180s.jpg",
+                "address": "Lithonia, GA",
+                "friends": 35,
+                "photos": 180,
+                "reviews": 151,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Great environment, good food.  Awesome drinks ...  a bit pricy.   I would absolutely go back... lots of fun times very good service ....   parking situation was kind of shaky. There doesn't seem to be any legal self parking , valet is 10 bucks .   That's the only think missing here , self parking.  Overall fun spot.  Can't wait to go back.",
+                "language": "en"
+            },
+            "date": "2023-12-11T02:12:39Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/37q1rTGu57fO5pOdhLem6g/o.jpg",
+                    "caption": "Lamb chops"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Rj4AerPUbwDCMVwiUMA_EA/o.jpg",
+                    "caption": "Grilled snapper"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "We look forward to seeing you again, Darryl.",
+                    "date": "2023-12-13T20:24:33Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Cam S.",
+                "user_id": "ntptt8D6-mOITPB_hp10Yw",
+                "link": "https://www.yelp.com/user_details?userid=ntptt8D6-mOITPB_hp10Yw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2oWsIaRn_oWStBqj4_pbYw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 67,
+                "photos": 773,
+                "reviews": 227,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Beautiful restaurant with gorgeous interior design. The staff was friendly and knew the menu well. The food was delicious and well seasoned. \nValet or self park.\nDrinks were Gael prepared.\n\nI had 2 apps, 2 drinks, 1 entree and 1 dessert. With gratuity about $30. My total was $170.",
+                "language": "en"
+            },
+            "date": "2023-08-26T17:11:41Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gsNgTCDHPjz2gT_BtB8glQ/o.jpg",
+                    "caption": "Creme brulee"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FjOt0Qq-GTstKJgfieKjuw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mPOZjn8bG2e8eNduCWNA-A/o.jpg",
+                    "caption": "Bread"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jacinta J.",
+                "user_id": "-A9XLdzSSZz6jxJSu_CBNQ",
+                "link": "https://www.yelp.com/user_details?userid=-A9XLdzSSZz6jxJSu_CBNQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ETE_UD0eWRRVLCAIs1qdUA/180s.jpg",
+                "address": "Johns Creek, GA",
+                "friends": 368,
+                "photos": 359,
+                "reviews": 209,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "FYI 20% gratuity added to all checks \nThank God for instagram and for Verdure ! We arrived and it is such a cute place with valet parking. We were greeted and sat immediately- we made reservations online. The atmosphere is romantic and the drinks are delicious and strong - hubby ordered the old fashioned (2) and I ordered the coconut margarita and the tequila and honey. All were great ! We had the okra, gamba and Brussel sprouts as an appetizer. For our main entrees we ordered ribeye, lamb chops and the lobster Mac ! Yummy - it is definitely a little over priced but the atmosphere and the drinks make up for it so spurge - FYI 20% gratuity added to all checks",
+                "language": "en"
+            },
+            "date": "2023-08-05T01:51:22Z",
+            "rating": 4,
+            "tags": [
+                "10 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t54fc9nbCV8R0UE6R3a1aw/o.jpg",
+                    "caption": "Ribeye"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FbfYEf9iYWfaGMiM7JJFaw/o.jpg",
+                    "caption": "Lamb chops"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FihBKI1ZA_qiNupW_4LSww/o.jpg",
+                    "caption": "Coconut margarita"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0TuGWpluS4Y6MR703hB-rw/o.jpg",
+                    "caption": "Old fashioned"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4cConz9BlbDdhk2pBnhL-A/o.jpg",
+                    "caption": "Yes I'm a foodie !"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_ExzB1NidJ1CSoRXszH7HA/o.jpg",
+                    "caption": "Lobster Mac and cheese"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RuMNEIRqSldMbVT3TS3Hqw/o.jpg",
+                    "caption": "Tequila honey"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FOqQ2-4znAYtAYXyXU1_Zg/o.jpg",
+                    "caption": "Appetizer with shrimp - zesty pineapple gamba"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VmIOAkTPKp1r5WV9443yuA/o.jpg",
+                    "caption": "Charred okra"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/m6NPWqzYE5jQq8hOgt2yzg/o.jpg",
+                    "caption": "Corn"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Miranda C.",
+                "user_id": "EnupOxUAsQnwrSw_qdsZlw",
+                "link": "https://www.yelp.com/user_details?userid=EnupOxUAsQnwrSw_qdsZlw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TTl_XKoMRoWKWiPObl7gsw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 80,
+                "photos": 624,
+                "reviews": 267,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "As a vegetarian probably not the best restaurant for me to go for dinner. There weren't any entrees which were vegetarian. However, I did have the Summer roasted beet burrata and a side of mashed potatoes (12). Both items were good! The lavender berry cocktail was delicious as well! It's a very aesthetically pleasing restaurant and their drink menu all looks fabulous! Great spot for a date night or girls night! They do offer valet parking for 10$. There is also street parking which is available for free but limited. Service was friendly and patient with us being there for a couple hours! Note: the tip is added by default onto the bill!",
+                "language": "en"
+            },
+            "date": "2023-10-23T18:36:00Z",
+            "rating": 4,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CNo7o9u4WTKsA22RazLZHg/o.jpg",
+                    "caption": "Summer roasted beet burrata"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rNzqweEBMVJ1lTljJiOXog/o.jpg",
+                    "caption": "Lavender berry cocktail"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/szXYDsk2kHp-Bh7KVmuXZA/o.jpg",
+                    "caption": "Pretty environment"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Hf_4MO1rl7PEqFW-tS3D8w/o.jpg",
+                    "caption": "Side of mashed potatoes"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Tobi S.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PA6a5coZXE4XA4GsJwJgXg/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Miranda, really wished we caught this during your visit, but Chef usually makes custom orders for Vegans and Vegetarians. Thank you for coming in!",
+                    "date": "2023-11-13T21:11:38Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Nancy C.",
+                "user_id": "KS17I334MmqF1t8gWr01tQ",
+                "link": "https://www.yelp.com/user_details?userid=KS17I334MmqF1t8gWr01tQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Eun0cA9A8XCArDzcuvaOmw/180s.jpg",
+                "address": "Los Angeles, CA",
+                "friends": 141,
+                "photos": 131,
+                "reviews": 152,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Omgggg!!!! This place was delicious!!! I can't wait to go back to Atlanta to try it again! The branzino was perfect. Our servers was so friendly! The venue is absolutely beautiful and lush. Omgggg the owner is such  a great person he will make  you feel  like family!",
+                "language": "en"
+            },
+            "date": "2023-11-07T00:32:16Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DHNhXzkKukRfhmC8DkN0Hw/o.jpg",
+                    "caption": "These Paloma shots were so yummy! Homemade whipped cream"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/q60tJ1ZSsyyScmLV0CJHxw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Tobi S.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PA6a5coZXE4XA4GsJwJgXg/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you Nancy!",
+                    "date": "2023-11-13T20:51:46Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "D Janelle A.",
+                "user_id": "sTKM1eESrhfNOWdk4-BEUg",
+                "link": "https://www.yelp.com/user_details?userid=sTKM1eESrhfNOWdk4-BEUg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pBMyYKCs9DyD6vFRnpftmg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 12,
+                "photos": 29,
+                "reviews": 26,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I usually don't do a review immediately leaving a place (I'm still in the parking lot) & YES!!!! Such a cute date night or girls night spot! It is absolutely beautiful inside!\n\nOur waitress Ashara was absolutely wonderful! Every suggestion she had for us was on point! From jump, the bread and cocktails were good. Then the octopus... must order. Amazing. Literally nothing left behind, had to order more bread to finish up the corn pur\u00e9e that came with the octopus. The oysters were decent, not a wow, but you know.. typical oysters. Still nothing left behind. We ordered the branzino (Mediterranean Loup de Mer) and Senegalese Chicken Yassa with plantains & creamy yellow corn.. SO GOOD. \n\nI texted a friend immediately and told her about it. For drinks we had a Lavender Berry Cocktail, Honey & Tequila, and the Coconut Hibiscus Marg... I absolutely loved the Coconut Hibiscus Marg. All the ingredients were so fresh. Needless to say, with so many places to eat in ATL, I would come here again!",
+                "language": "en"
+            },
+            "date": "2023-10-20T00:54:15Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Melinda J.",
+                "user_id": "7CgUUvZCG_Y7TtfZcdeHDg",
+                "link": "https://www.yelp.com/user_details?userid=7CgUUvZCG_Y7TtfZcdeHDg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FKhaEqqTGptMzEpsALMu2g/180s.jpg",
+                "address": "Dallas, GA",
+                "friends": 0,
+                "photos": 12,
+                "reviews": 4
+            },
+            "comment": {
+                "text": "I was so excited to try Verdure because of their \"modern\" take on West African food. Unfortunately with them being a newer restaurant we waited over an hour to be seated. The manager did come out and offer free drinks and our waiter was really great. The food was disappointing but the ambiance of the restaurant was nice. My appetizer (Summer Roasted Root Burrata) and beverage (Creamy Hibiscus Margarita) were the best things that night. I'm not sure if this is a place I will try again.",
+                "language": "en"
+            },
+            "date": "2024-02-04T23:14:41Z",
+            "rating": 2,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nYShYjIr-0sE8gVX6NzY6g/o.jpg",
+                    "caption": "Menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-pk44hFXC95txNntiP8fbw/o.jpg",
+                    "caption": "Summer Roasted Root Burrata"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ibmiV42Rw11iidybUsW84g/o.jpg",
+                    "caption": "Chicken Yassa"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JrF3vJ-9ftOHs7BeBSOdGQ/o.jpg",
+                    "caption": "Creamy Hibiscus Margarita"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Tobi S.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PA6a5coZXE4XA4GsJwJgXg/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Dear Melinda,\nWe appreciate your feedback and apologize if your experience did not meet your expectations. We're sorry to hear that your meal was not to your liking, we strive to always deliver a delicious dining experience, and will make sure to focus on improving our meals. A common issue we have lately are reservation over seating their table duration, thereby causing overlap with the next reservation even with the extra allocated time we offer.",
+                    "date": "2024-02-10T03:18:23Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Stacy-Ann S.",
+                "user_id": "qy5ZO0BQ0GuVsjUqLr1JKA",
+                "link": "https://www.yelp.com/user_details?userid=qy5ZO0BQ0GuVsjUqLr1JKA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uBFIDi2kH0zVCJB9G3v04g/180s.jpg",
+                "address": "Buford, GA",
+                "friends": 0,
+                "photos": 2,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "Had dinner with my husband for my birthday and everything was outstanding! Our waiter was so friendly and provided the best service. The ambiance was so romantic and intimate too with the greenery and dim lights. 10/10!",
+                "language": "en"
+            },
+            "date": "2024-01-17T20:14:04Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fUssh4sws3wxapW4MT0sbA/o.jpg",
+                    "caption": "Huge snapper that was delicious but shareable for at least 3, and side of red rice that was also seasoned well."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YZHxRFqHExBTxdCiG0svog/o.jpg",
+                    "caption": "Inside the restaurant had a garden vibe"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Happy Birthday Stacy and thank you for celebrating with us!",
+                    "date": "2024-01-22T14:06:52Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "LaTanya O.",
+                "user_id": "HHtDgRjI98OSQSqi2eUJBA",
+                "link": "https://www.yelp.com/user_details?userid=HHtDgRjI98OSQSqi2eUJBA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lmqPU8TPIZ12meHL_1HqbQ/180s.jpg",
+                "address": "Norcross, GA",
+                "friends": 159,
+                "photos": 31,
+                "reviews": 85,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I'm always down to try a new restaurant (as long as the reviews are good ) so I brought my girls to Verdure to kick off our Monthly Supper Club gathering.\n\nThey have authentic African cuisine, a chill and serene ambiance, cute instagrammable decor and photo ops. Their service is top tier with amazing vibes! It's a great place for date night, girls night, or even a solo night.\n\nYour GPS will take you to a ducked off location right before you hit the hustle and bustle of Midtown where they have optional valet parking for $10, and cute drinks that they take their time to perfect just the way you want.\n\nI ordered the Lamp Chops and they were cooked to perfection just the way I like them. I definitely plan to go back and try other drinks and food.",
+                "language": "en"
+            },
+            "date": "2023-10-10T14:44:00Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Brittany F.",
+                "user_id": "53I1ryVkUben5pTSidKyuw",
+                "link": "https://www.yelp.com/user_details?userid=53I1ryVkUben5pTSidKyuw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZQYNJPQLjih-Xo8ZgyDSuw/180s.jpg",
+                "address": "Buford, GA",
+                "friends": 341,
+                "photos": 730,
+                "reviews": 207,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Love the concept and ambiance! Perfect for date night, which was our reason for attending. We arrived around 5:30pm on a Sunday and the restaurant was relatively empty, but that quickly changed! We had a reservation and seeing how quickly the restaurant filled up I'd recommend making one as well. The service was great and our waitress took the time to thoroughly explain the menu and provide recommendations.  We ordered the lobster Mac and cheese, Branzino and plantains.  Everything was delicious! For dessert, we ordered the cheesecake which didn't get captured since it was gone so quickly.  My main critique is the 2-person tables seated in the middle of the restaurant.  Towards the end of our dining, two other couples were seated in the section, despite other open tables for 2, and it just felt really crowded and took away from the intimate dining experience.  We ended up leaving shortly after but had we been dining in that arrangement for the full duration of our meal we would've requested new seats.  Overall good experience and recommend checking them out!",
+                "language": "en"
+            },
+            "date": "2023-12-28T20:37:33Z",
+            "rating": 4,
+            "tags": [
+                "6 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TqRDU4d_h8lk8_iUrbaO7A/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5q3rcePaDwoS5GcHXsYCHQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fdPRTg_7u1D6Qt7_flJYpQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9lP1K5DjPC-3tqyTozV69g/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MRLDU9pqoYue9ca7A693Bg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1093TOYBDujqfof20FB5YA/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for visiting us, Brittany!",
+                    "date": "2023-12-29T17:03:58Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Pav T.",
+                "user_id": "A6za8adCrjRBdS1beF1_Rg",
+                "link": "https://www.yelp.com/user_details?userid=A6za8adCrjRBdS1beF1_Rg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/mvW82D36rnD9dDJOBYmuLg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 39,
+                "photos": 120,
+                "reviews": 107
+            },
+            "comment": {
+                "text": "I would not recommend Verdure. We are here a few days ago and almost every part of the experience was subpar. \n\nWe arrived and were greeted by hosts that really did not seem to want to be there. I'm not sure if it was us or a prior experience but we were a bit taken aback. \n\nWe were seated at a table with at was extremely wobbly. After asking It was not attempted to be solved until half way through our meal and the remedy only lasted about two minutes. The waitress did not come around often enough for us to want to ask again.\n\nWe did ask to switch tables to a number that were available around us and were told no. Honestly, I am a bit bigger as well and was not enjoying the tiny chair I was in. I would have loved to switch for just that. I've never been told no before which was super strange. \n\nI think the nail in the coffin was the food. We ordered the two entrees and a couple appetizers. Nothing tasted African at all. This restaurant would be better described as New American. It was also super bland New American. Extremely expensive bland New American.\n\nAlso for this amount of cost I have never had to pack my own food to go after the meal. It felt ridiculous especially because our table was tiny and the dishes they served in were super heavy skillets. It's like zero thought went into opening this place. \n\nThe pros? One of our two drinks was excellent. The other one they forgot to add half the ingredients. \n\nDo not go here. \n\nGo to like 2 other excellent restaurants in Atlanta for the same total cost you'd spend here.",
+                "language": "en"
+            },
+            "date": "2023-12-18T14:58:13Z",
+            "rating": 1,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Tobi S.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PA6a5coZXE4XA4GsJwJgXg/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Hello Pav, very sorry to hear that your dining experience did not meet expectations. We will meet with our teams to see what happened in the situation described. \n\nUnfortunately we are not New American nor African, our concept is simply a fusion of African ingredients and cooking techniques infused into the everyday Western dishes; keeping in mind a variation of palettes.\n\nOur Braai Ribeye pays homage to the South African tradition of grilling, resulting in a delectable and flavorsome dish. The Kedjenou de Moules showcases the Ivorian heritage, as we simmer mussels in the aromatic kedjenou soup.\n\nDrawing inspiration from West African cooking methods, our Mediterranean Pan-seared Branzino and Afriki Grilled Red Snapper offer a great fusion of flavors.",
+                    "date": "2023-12-18T23:43:32Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Najhia B.",
+                "user_id": "rcimnXaXPguZg3aS4-LfRA",
+                "link": "https://www.yelp.com/user_details?userid=rcimnXaXPguZg3aS4-LfRA",
+                "address": "Alpharetta, GA",
+                "friends": 105,
+                "photos": 5,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "The food, ambience, and vibe are amazing!! Our waiter Jeremy was a star and gave us great service!!",
+                "language": "en"
+            },
+            "date": "2024-02-24T03:47:27Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hD2UpItjtB94YMGGZP6Q-Q/o.jpg",
+                    "caption": "Branzino"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5oFo6OKEMjFv8BwlBXqz_Q/o.jpg",
+                    "caption": "Ambience"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sAo8qcHcnlDfWnKZyYDUKw/o.jpg",
+                    "caption": "Lavender Berry"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for visiting and for your photos. We hope that you will be back in the near future.",
+                    "date": "2024-02-25T16:36:18Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Kimberly B.",
+                "user_id": "hFI5x5_zSJCynUlxsXGNrg",
+                "link": "https://www.yelp.com/user_details?userid=hFI5x5_zSJCynUlxsXGNrg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GuMJFMVOyrrVEPU_OjZZsA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 16,
+                "photos": 23,
+                "reviews": 13
+            },
+            "comment": {
+                "text": "Hubs took my to dinner for my birthday at the newly opened Verdue Kitchen & Cocktails, and from beginning to end , it was Top of the Line!\nOur server- Harold took fabulous care of us and was very thorough in explaining all the dishes and gave recommendations. \nThe drinks and appetizer was delish, and our main entrees were Superb!!! The owner came around to make sure we were well taken care of.\nPerfect place for a celebration!",
+                "language": "en"
+            },
+            "date": "2023-10-15T23:33:39Z",
+            "rating": 5,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eb3s30VuQFzUyP6_Oa1e0g/o.jpg",
+                    "caption": "Grilled Octopus- DO NOT SKIP TRYING THIS"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UsRtRoP2Mp2bImmRahZs3A/o.jpg",
+                    "caption": "Aestetically pleasing bar and dining room, absolutely beautiful"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XGScD3fRxW-nFAtaIGIhyQ/o.jpg",
+                    "caption": "Grilled fish with tomato, onion, olives and hubby got Ribeye steak. Both entrees were OUTSTANDING!"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kk1YHS4b0dSI481cZIozTA/o.jpg",
+                    "caption": "Beautiful and Swanky entrance"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Najah H.",
+                "user_id": "151ZfnkWzWKenBheoesFoA",
+                "link": "https://www.yelp.com/user_details?userid=151ZfnkWzWKenBheoesFoA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hC_OFUGf0HrNkI5SPw1tbA/180s.jpg",
+                "address": "Smyrna, GA",
+                "friends": 155,
+                "photos": 325,
+                "reviews": 158,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "It was GNO and this was an IG pick I selected. No regrets! A great dining experience in a quiet nook of Midtown. Our server Anna was very accommodating and attentive. She offered great suggestions and maneuvered our plates around on the small high top table.\nWe started with the pineapple shrimp (Zesty Pineapple-glazed Gambas) and Kiwi Passion Fruit margarita. For dinner, Chicken Yassa with green beans. My gf had the Snapper and plantains. I ended dinner with a Creamy Hibiscus margarita. The drink tastes and looked delicious. Dinner was near perfection! The flavors, the fresh ingredients and presentation was top tier.\nThe aesthetic is exactly what you look for in a fine dining restaurant with flare. The buzz from a diverse crowd celebrating birthdays, date night, GNO, anniversaries and whatnot. You didn't want to leave.\nThe dessert options are limited yet true to the West African cuisine. I'll be back to try it out.\nRest rooms are beautifully designed and decorated. The grass wall is here too but no hookah - yes!\nIf you're craving a diverse range of menu options, don't want a trendy hookah crowd but a a great dining experience, this one's for you.",
+                "language": "en"
+            },
+            "date": "2023-09-10T03:21:29Z",
+            "rating": 5,
+            "tags": [
+                "8 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t_B4VeTsrIK5zSJExeYEsw/o.jpg",
+                    "caption": "Zesty pineapple glazed gambas"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BENKidHOFOhSfCOCA5IRYg/o.jpg",
+                    "caption": "Inside"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/H0yjr8R30PcdDhnbiM5Vhg/o.jpg",
+                    "caption": "Girls Night Out!"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NJk48wPx2xesS2-8l5wcXQ/o.jpg",
+                    "caption": "Creamy Hibiscus Margarita"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1UpIZ3lYSmpkWMkMnAgnFQ/o.jpg",
+                    "caption": "Chicken Yassa"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eY0FBcgqzQxzbytdaxaW_A/o.jpg",
+                    "caption": "Ladies Room"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nrrVkoLYKCvZHYzUw5Sc-g/o.jpg",
+                    "caption": "Great evening!"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TZ3WeJDqUjFapueMxUYkqg/o.jpg",
+                    "caption": "Snapper"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Martika J.",
+                "user_id": "8a4f9lbr8rMakczDWjuqPg",
+                "link": "https://www.yelp.com/user_details?userid=8a4f9lbr8rMakczDWjuqPg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4TQFHWqhyuiv3pGB1ZRkog/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 82,
+                "photos": 521,
+                "reviews": 257,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Found this restaurant via Tik Tok and decided to give it a try. I booked a reservation via their website and it give an option of Cocktail or Dinner Experience. It doesn't specify what the Cocktail Experience was but that was the only time slot available so we went along with that. Upon arrival we were greeted by the host and sat. The bartender Mike, asked if we knew what the consisted of and we advised we didn't so he gave us a breakdown of exactly what the Cocktail Experience entailed which is the bartenders will make drinks and let those at the bar sample the drinks they make. I've never heard of such an offering at other restaurants so kudos to Verdure. We were assisted by both bartenders which made the experience even better. Between the food, the drinks, and the decor, we were pleased. I will most definitely dine at this establishment again!",
+                "language": "en"
+            },
+            "date": "2023-09-26T19:24:59Z",
+            "rating": 5,
+            "tags": [
+                "6 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/njsm33rwQChhbErBYjxFoA/o.jpg",
+                    "caption": "Branzino"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FaK-LsVnQWEoSHpI9ImBXg/o.jpg",
+                    "caption": "Menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JbqWFpApIgfeZ33Mqgzk7A/o.jpg",
+                    "caption": "French 75"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oQJkwxKxbAJp-5VK8P_u1Q/o.jpg",
+                    "caption": "Bread & Butter"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/U6DHQu9Gc2QGaPVjtDmvdQ/o.jpg",
+                    "caption": "Menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rrqbn0zjaTDBLWweNJ7tDA/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "David M.",
+                "user_id": "l8USqsSmKSycCyOKeVX2Yg",
+                "link": "https://www.yelp.com/user_details?userid=l8USqsSmKSycCyOKeVX2Yg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QheyoHOkfl6i7b7Mgx7pBw/180s.jpg",
+                "address": "Honolulu, HI",
+                "friends": 0,
+                "photos": 7,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "Service was excellent. Our server Kishi was amazing! Her recommendations were spot on, as well as the cocktails we ordered. We experienced a unique menu for New Years Eve, and we were simply blown away. Restaurant setting was beautiful, and we loved the music as well as the overall ambiance when we were dining. We ordered 3 appetizers, 3 entrees, 4 cocktails, one glass of red wine, and 2 desserts. We will definitely be coming back for another special occasion. Our only gripe with this experience is the ribeye we ordered  was not very warm  when it was served to us, however we had ordered a rare steak, and they delivered a perfect rare steak! Besides that, this place was an amazing experience!",
+                "language": "en"
+            },
+            "date": "2024-01-01T01:56:03Z",
+            "rating": 4,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ajR8Mwz1r-y8r3kRmnC6iA/o.jpg",
+                    "caption": "Spicy Mango Shrimp Medley"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CIoqTI2YhyDY0vd31KzWcQ/o.jpg",
+                    "caption": "Pan-Seared American Red Snapper Fillet"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3NMHDSgYiFNpjUymuucJ7g/o.jpg",
+                    "caption": "Smoky Old Fashioned"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hsJq6SeR7C8Q7ci0-1By5w/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bs3yTU1_W1_jW6lfcXkHmg/o.jpg",
+                    "caption": "Dates and Apples Bread Pudding"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for celebrating with us and for the photos and feedback. We hope to see you again soon.",
+                    "date": "2024-01-03T16:12:28Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Sammy D.",
+                "user_id": "lzhDIAAaWSXVf-XqTI6MlA",
+                "link": "https://www.yelp.com/user_details?userid=lzhDIAAaWSXVf-XqTI6MlA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/mmPkLVMFbtPsCIN_zwnffQ/180s.jpg",
+                "address": "Miami, FL",
+                "friends": 4,
+                "photos": 271,
+                "reviews": 47
+            },
+            "comment": {
+                "text": "This place is absolutely beautiful. They have valet parking for  $10. I was dining alone so I sat at the bar. If dining with someone or a group I suggest doing a reservation. My bartender Izzy was so sweet and helpful! She made me a speciality mocktail. There was free bread provided. I ordered the Branzino with mash potatoes and plantain. The fish was so good and fresh! Ask for spicy sauce it's the perfect kick for the dish! They also have a snapper that is high and big enough for two! I would definitely go back. Everything was perfectly seasoned. This is a great date night or GNO spot. I went on a Friday night.",
+                "language": "en"
+            },
+            "date": "2023-12-28T01:34:59Z",
+            "rating": 5,
+            "tags": [
+                "4 photos",
+                "2 check-ins"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PeQauS3viXHOH5US-QmRrA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0_pJlf5iNEd5tMAn4em1-w/o.jpg",
+                    "caption": "Passion fruit mocktail"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gMTK8aSQfVlLJQgMjmy35Q/o.jpg",
+                    "caption": "Snapper"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ie66GdHy6mweqWl5EOv3WA/o.jpg",
+                    "caption": "Mash and plantain"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Sammy, thank you for dining with us. We appreciate your feedback, photos and business.",
+                    "date": "2023-12-29T17:03:36Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Lena A.",
+                "user_id": "a4Q4Xi79cO1LiJ1whrowaw",
+                "link": "https://www.yelp.com/user_details?userid=a4Q4Xi79cO1LiJ1whrowaw",
+                "address": "Atlanta, GA",
+                "friends": 1,
+                "photos": 79,
+                "reviews": 38
+            },
+            "comment": {
+                "text": "I'm gonna start by saying the ambiance is gorgeous. Very pretty. Service was good. The food on the other hand not so great. I ordered the steak and it was extremely hard to eat. It had so much muscle\nand was very over cooked. Maybe I came on a bad day but I highly recommend getting something other than the steak. The spinach also had no favor. The mashed potatoes were good. It's too over priced for the quality.",
+                "language": "en"
+            },
+            "date": "2024-01-12T00:15:43Z",
+            "rating": 2,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DIbi-ymNgBRT7gt65iAKlw/o.jpg",
+                    "caption": "restaurant"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lfxk2oiepWPqls531RUcNg/o.jpg",
+                    "caption": "Steak"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Tobi S.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/PA6a5coZXE4XA4GsJwJgXg/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Dear Lena, We appreciate your feedback and apologize if your experience did not meet your expectations. We're sorry to hear that your meal was not to your liking, we strive to always deliver a delicious dining experience, and will make sure to focus on improving our meals",
+                    "date": "2024-02-10T03:27:44Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Simone D.",
+                "user_id": "j-tVzxrp6pFegq_G4MtukA",
+                "link": "https://www.yelp.com/user_details?userid=j-tVzxrp6pFegq_G4MtukA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-3dfOFTj9u8tAtsXlKy4Jg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 4,
+                "photos": 27,
+                "reviews": 31
+            },
+            "comment": {
+                "text": "I was really looking forward to my experience and dining here. \n\nI will give the decor and ambiance a 10/10 but everything else was very lacking and subpar. \n\nTo start I had a 730p reservation and arrived at 730p. I was seated within 5 minutes. My reservation noted that I was there to celebrate a birthday and the hostess told the other waitstaff to make sure the waiter knows this. \n\nUpon being seated my friend arrived and we were offered drinks/water. After checking out the menu I'll make note there are only 8 entrees 3 of which are seafood/fish. I order the lobster Mac and cheese my friend the chicken. Waiter comes back and says they are out of the lobster Mac and cheese. I'm perplexed because it's literally middle of dinner service and how are you out of an entire entree!? The waiter tried to be accommodating and let me know that the chef could make something else but left it up to me to figure it out  I'm no chef, don't know what's in the kitchen and a pescatarian so it doesn't leave me with much to work with. I finally just decide to order a side dish of fried plantains. My friend said the chicken wasn't anything to rave abt but her drink was delicious. \n\nBy the time my friend finished her meal I noticed that the table behind her was just seated and received a dish I didn't notice on the menu. I didn't have on my glasses and when asked the young lady said it was just bread to my surprise. We never received bread. Another waiter noticed my inquiry and decided to drop off bread to our table. Something you should be offered as soon as you sit down. \n\nI asked to speak to the manager. It took some time for her to get to our table and it wasn't until I noticed her abt to walk past us that I caught her attention and asked if she was the manger to which she said she was. I voiced my disappointment of an unavailable dish, no substitution, no bread, no acknowledgment of my friends birthday despite us seeing multiple people being sang happy birthday to, and feeling rushed. She was apologetic and offered us a dessert and 2 shots. We obliged. \n\nAfter voicing our disappointment it still took us an hour to get the cr\u00e8me br\u00fbl\u00e9e. Our original waiter brought it out. He apologized that the dish slid and messed up the happy birthday writing and that the candle went out. *THERE WAS NO HAPPY BIRTHDAY SONG. He just sat it down apologized and left. At this point we still have no shots and about 10-15 minutes after the cr\u00e8me br\u00fbl\u00e9e we finally get it. We left the restaurant at 1015p. And will not be returning.\n\n*I almost forgot- even if you had subpar service the tip (service charge) is already included in your bill",
+                "language": "en"
+            },
+            "date": "2023-08-20T14:37:51Z",
+            "rating": 1,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HfDgo07eGrVuPpeITFYkZw/o.jpg",
+                    "caption": "Menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JYnXY2EhGkA1iSUgvs5oIw/o.jpg",
+                    "caption": "Cr\u00e8me Br\u00fbl\u00e9e - Not sweet and the topping wasn't as crisp as I'm used to them being."
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Thuy H.",
+                "user_id": "Nec2Ohe1bibfXS6F9Ly_GA",
+                "link": "https://www.yelp.com/user_details?userid=Nec2Ohe1bibfXS6F9Ly_GA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hnwZNpTV3MHdklzJDyYIqQ/180s.jpg",
+                "address": "Forest Park, GA",
+                "friends": 1,
+                "photos": 29,
+                "reviews": 31
+            },
+            "comment": {
+                "text": "The ambiance is everything here !!! \nRestroom is so cuteeeee! 10/10 vibe \nDrinks were ok, not strong at all\nFood was also decent (mashed potatoes was really good though) Overpriced in my opinion \nFood took a while to come out but we were a party of 7 so that's understandable. I would come back only for the vibes. Oh! It's valet parking or street parking",
+                "language": "en"
+            },
+            "date": "2023-08-18T21:45:32Z",
+            "rating": 3,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Tz4Q37lOmK9CUMrpYt87jQ/o.jpg",
+                    "caption": "Kiwi PASSIONFRUIT Margarita & old fashion"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FrWdLvBJRBx_c9plV2EEKg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IGgvfbfRtr_d4n0MPTpvGQ/o.jpg",
+                    "caption": "Back room"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/n-dYdZmYSBTG0Ub_Nb3mLw/o.jpg",
+                    "caption": "Branzino& mashed potatoes"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Dana R.",
+                "user_id": "TGK8r-gqyt5-tGsWwUawEw",
+                "link": "https://www.yelp.com/user_details?userid=TGK8r-gqyt5-tGsWwUawEw",
+                "address": "Jefferson, GA",
+                "friends": 0,
+                "photos": 7,
+                "reviews": 7
+            },
+            "comment": {
+                "text": "Ambiance was amazing! Food was great. The service started out great,  we had a party of 8. Our server was seated with two additional large parties and the service went from great to just okay as he had to juggle three large parties. The server was very knowledgeable regarding the menu and gave great suggestions. Hopefully they can manage the large parties a little better in the future.",
+                "language": "en"
+            },
+            "date": "2024-03-04T22:54:27Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "We appreciate your patience and feedback, Dana. We hope that you will return soon.",
+                    "date": "2024-03-06T16:59:03Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "LaDarius P.",
+                "user_id": "_xe3WMUGVG_0puAVZxR2RQ",
+                "link": "https://www.yelp.com/user_details?userid=_xe3WMUGVG_0puAVZxR2RQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PjKMNgWWtqcK3WIcBQBnGQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 77,
+                "photos": 176,
+                "reviews": 71
+            },
+            "comment": {
+                "text": "Terrible experience. The server charged us for multiple items that we did not order, did not send the dessert out that we brought in and were very willing to pay for, they kept our candles that we purchased to include with the dessert presentation, the overall experience was bad and I will not return. I will give credit that the ambiance is beautiful, the restaurant looks nice. The food was okay. Do NOT order the lobster Mac and cheese. They literally put a piece of lobster on top and that's it. It's not worth the money and should be considered more of a side item\n\nNo manager came to the table during this experience but did say goodbye as we were leaving. \n\nThe host who we gave our cake to, apparently didn't deliver the message. She just sat on a chair, on her phone the entire time. This isn't fine dining at all",
+                "language": "en"
+            },
+            "date": "2023-10-20T02:14:06Z",
+            "rating": 1,
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Nk A.",
+                "user_id": "kJ7wv7GPbibYBL34L4DMRQ",
+                "link": "https://www.yelp.com/user_details?userid=kJ7wv7GPbibYBL34L4DMRQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JHEZmSZ_VqRFT454FEbUuA/180s.jpg",
+                "address": "Charlotte, NC",
+                "friends": 109,
+                "photos": 32,
+                "reviews": 25
+            },
+            "comment": {
+                "text": "Food was decent, not the best fusion but edible. Ambiance was comfortable, very tulum vibe. It took like 8+ minutes for our waiter to come to us after we sat down. But once she came the service was great.",
+                "language": "en"
+            },
+            "date": "2024-02-11T15:07:16Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for your feedback and patience. We would love to see you again.",
+                    "date": "2024-02-12T23:02:59Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Kailynn G.",
+                "user_id": "x3Atuneap1m0lYgXrOKUwA",
+                "link": "https://www.yelp.com/user_details?userid=x3Atuneap1m0lYgXrOKUwA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/v5MbEF9G4JDk0x5cU5R24A/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 38,
+                "reviews": 10
+            },
+            "comment": {
+                "text": "Upon entering, we received a warm welcome, setting a pleasant tone for our visit. We opted for Valet which was $10. Our waiter provided exceptional service, elevating our overall experience. We began with complimentary bread, butter, and oil, but unfortunately, they lacked flavor and were rather bland.\n\nWe ordered the Kiwi Passion Fruit Margarita and the popular Creamy Hibiscus Margarita for our drinks, both of which we thoroughly enjoyed. For appetizers, we chose the oysters, which were incredibly delicious. However, there was a slight confusion with the quantity (6 or 12), leading to a billing discrepancy. Clearer staff training regarding the menu would be beneficial.\n\nFor our main course, we both selected the Mediterranean Pan-seared Branzino with rice and beans, which was simply outstanding. It was a delightful and flavorful dish that left us craving more.\n\nThe restaurant's ambiance was enchanting, and we look forward to returning for another visit.",
+                "language": "en"
+            },
+            "date": "2023-09-18T12:56:16Z",
+            "rating": 5,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/paFA0f6-IY8Ys-86oEZ8uA/o.jpg",
+                    "caption": "Kiwi Passion Fruit Margarita"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sada3pN8YoZWZ-0pJZeYZA/o.jpg",
+                    "caption": "Oysters"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HVORzKGlC5BbZgJE6W25pg/o.jpg",
+                    "caption": "Creamy Hibiscus Margarita"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/etjSESAEUXTs-DHjBNDd6g/o.jpg",
+                    "caption": "Mediterranean Pan-seared Branzino"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L_T7Tcxa2D7W7Dgz3Nf7Xg/o.jpg",
+                    "caption": "Complementary bread"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Arissa C.",
+                "user_id": "d5V3u2P_Ttko9uGOi1idZw",
+                "link": "https://www.yelp.com/user_details?userid=d5V3u2P_Ttko9uGOi1idZw",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "The restaurant is beautiful! Jeremy was a great waiter and explained the menu perfectly! His attention to service was great!",
+                "language": "en"
+            },
+            "date": "2024-03-03T00:40:47Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you for dining with us, Arissa!",
+                    "date": "2024-03-06T16:57:21Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Kiera A.",
+                "user_id": "uFciTEtKyNdO2WnLxBrQdg",
+                "link": "https://www.yelp.com/user_details?userid=uFciTEtKyNdO2WnLxBrQdg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/azVcuhyMASTd4DSB1JrGVQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 3,
+                "photos": 122,
+                "reviews": 61,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I thoroughly enjoyed this place and look forward to returning! The ambiance is wonderful and the decor is beauty which I can appreciate. But, most importantly, the food was all delicious. The menu seems like an intentional curation of various African cuisines and offers some nice variety to the local food scene. The downside was the slow service - however I was with a pretty large party so I am giving them some grace for that and not expecting that as their normal. I'm excited to return with a smaller party and try some more items on the menu.",
+                "language": "en"
+            },
+            "date": "2023-10-18T14:03:11Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Matt M.",
+                "user_id": "6VnH6E5Mxfha7r5VBzxWAA",
+                "link": "https://www.yelp.com/user_details?userid=6VnH6E5Mxfha7r5VBzxWAA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zNxwkrOkQPgbHW2uXA8uSg/180s.jpg",
+                "address": "Palm Springs, CA",
+                "friends": 0,
+                "photos": 3,
+                "reviews": 15
+            },
+            "comment": {
+                "text": "I walked in and got a place at the bar. The head bartender Mike was very friendly and attentive. He makes awesome\nDrinks. The staff were all very courteous. The food was quite good and drinks were excellent. The atmosphere is elegant. I highly recommend this place !",
+                "language": "en"
+            },
+            "date": "2023-11-15T17:54:23Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kitsy R.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Em13WsflWKgXpIqM9zcOdQ/90s.jpg",
+                        "role": "CUSTOMER_SERVICE"
+                    },
+                    "comment": "Thank you, Matt. We appreciate your business and we hope to see you again in the near future.",
+                    "date": "2023-11-16T14:44:21Z"
+                }
+            ]
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=Qe7_nhlFf6WO541A9AAYbw&start=50"
+    }
+}

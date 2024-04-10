@@ -1,0 +1,1172 @@
+{
+  "search_metadata": {
+    "id": "65ef27c32236e282122b79ab",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a634b86ee4810fb6/65ef27c32236e282122b79ab.json",
+    "created_at": "2024-03-11 15:48:19 UTC",
+    "processed_at": "2024-03-11 15:48:19 UTC",
+    "yelp_url": "https://www.yelp.com/search?find_loc=atlanta%2C+georgia&start=150",
+    "raw_html_file": "https://serpapi.com/searches/a634b86ee4810fb6/65ef27c32236e282122b79ab.html",
+    "total_time_taken": 4.63
+  },
+  "search_parameters": {
+    "engine": "yelp",
+    "find_loc": "atlanta, georgia",
+    "start": 150
+  },
+  "filters": {
+    "neighborhoods": {
+      "value": "p:GA:Atlanta::",
+      "list": [
+        {
+          "text": "Reynoldstown",
+          "value": "Reynoldstown"
+        },
+        {
+          "text": "Georgia Tech",
+          "value": "Georgia_Tech"
+        },
+        {
+          "text": "Lindbergh",
+          "value": "Lindbergh"
+        },
+        {
+          "text": "Lake Claire",
+          "value": "Lake_Claire"
+        },
+        {
+          "text": "Grant Park",
+          "value": "Grant_Park"
+        },
+        {
+          "text": "Midtown",
+          "value": "Midtown"
+        },
+        {
+          "text": "Ansley Park",
+          "value": "Ansley_Park"
+        },
+        {
+          "text": "Kirkwood",
+          "value": "Kirkwood"
+        },
+        {
+          "text": "Virginia Highland",
+          "value": "Virginia_Highland"
+        },
+        {
+          "text": "Morningside / Lenox Park",
+          "value": "Morningside_/_Lenox_Park"
+        },
+        {
+          "text": "East Lake",
+          "value": "East_Lake"
+        },
+        {
+          "text": "Centennial Place",
+          "value": "Centennial_Place"
+        },
+        {
+          "text": "Candler Park",
+          "value": "Candler_Park"
+        },
+        {
+          "text": "Inman Park",
+          "value": "Inman_Park"
+        },
+        {
+          "text": "Little Five Points",
+          "value": "Little_Five_Points"
+        },
+        {
+          "text": "Edgewood",
+          "value": "Edgewood"
+        },
+        {
+          "text": "Buckhead",
+          "value": "Buckhead"
+        },
+        {
+          "text": "Westside / Home Park",
+          "value": "Westside_/_Home_Park"
+        },
+        {
+          "text": "Poncey-Highland",
+          "value": "Poncey-Highland"
+        },
+        {
+          "text": "East Atlanta Village",
+          "value": "East_Atlanta_Village"
+        },
+        {
+          "text": "Druid Hills",
+          "value": "Druid_Hills"
+        },
+        {
+          "text": "Castleberry Hill",
+          "value": "Castleberry_Hill"
+        },
+        {
+          "text": "Ormewood Park",
+          "value": "Ormewood_Park"
+        },
+        {
+          "text": "Cabbagetown",
+          "value": "Cabbagetown"
+        },
+        {
+          "text": "West End",
+          "value": "West_End"
+        },
+        {
+          "text": "Downtown",
+          "value": "Downtown"
+        },
+        {
+          "text": "Old Fourth Ward",
+          "value": "Old_Fourth_Ward"
+        },
+        {
+          "text": "West Paces Ferry / Northside",
+          "value": "West_Paces_Ferry_/_Northside"
+        },
+        {
+          "text": "Emory Village",
+          "value": "Emory_Village"
+        },
+        {
+          "text": "Atlantic Station",
+          "value": "Atlantic_Station"
+        }
+      ]
+    },
+    "distance": [
+      {
+        "text": "Bird's-eye View",
+        "value": "g:-84.47593688964844,33.72776616734189,-84.27131652832031,33.89891688437141"
+      },
+      {
+        "text": "Driving (5 mi.)",
+        "value": "g:-84.4247817993164,33.77030054809328,-84.32247161865234,33.85587620512014"
+      },
+      {
+        "text": "Biking (2 mi.)",
+        "value": "g:-84.39920425415039,33.79184514875722,-84.34804916381836,33.834632907576776"
+      },
+      {
+        "text": "Walking (1 mi.)",
+        "value": "g:-84.38641548156738,33.80254409475938,-84.36083793640137,33.82393797437476"
+      },
+      {
+        "text": "Within 4 blocks",
+        "value": "g:-84.37682390213013,33.81053176901896,-84.37042951583862,33.81588024116821"
+      }
+    ],
+    "price": [
+      {
+        "text": "$",
+        "value": "RestaurantsPriceRange2.1"
+      },
+      {
+        "text": "$$",
+        "value": "RestaurantsPriceRange2.2"
+      },
+      {
+        "text": "$$$",
+        "value": "RestaurantsPriceRange2.3"
+      },
+      {
+        "text": "$$$$",
+        "value": "RestaurantsPriceRange2.4"
+      }
+    ],
+    "features": [
+      {
+        "text": "Good for Brunch",
+        "value": "GoodForMeal.brunch"
+      },
+      {
+        "text": "Good for Lunch",
+        "value": "GoodForMeal.lunch"
+      },
+      {
+        "text": "Music: Live",
+        "value": "Music.live"
+      },
+      {
+        "text": "Beer &amp; Wine Only",
+        "value": "Alcohol.beer_and_wine"
+      },
+      {
+        "text": "Accepts Cryptocurrency",
+        "value": "BusinessAcceptsBitcoin"
+      },
+      {
+        "text": "Good For Happy Hour",
+        "value": "HappyHour"
+      },
+      {
+        "text": "Accepts Credit Cards",
+        "value": "BusinessAcceptsCreditCards"
+      },
+      {
+        "text": "Liked by 20-somethings",
+        "value": "LikedByTwenties"
+      },
+      {
+        "text": "Good for Breakfast",
+        "value": "GoodForMeal.breakfast"
+      },
+      {
+        "text": "Smoking Allowed",
+        "value": "Smoking.yes"
+      },
+      {
+        "text": "Garage Parking",
+        "value": "BusinessParking.garage"
+      },
+      {
+        "text": "Good for Late Night",
+        "value": "GoodForMeal.latenight"
+      },
+      {
+        "text": "Takes Reservations",
+        "value": "RestaurantsReservations"
+      },
+      {
+        "text": "Open to All",
+        "value": "BusinessOpenToAll"
+      },
+      {
+        "text": "Private Lot Parking",
+        "value": "BusinessParking.lot"
+      },
+      {
+        "text": "Valet Parking",
+        "value": "BusinessParking.valet"
+      },
+      {
+        "text": "Good for Groups",
+        "value": "RestaurantsGoodForGroups"
+      },
+      {
+        "text": "Wheelchair Accessible",
+        "value": "WheelchairAccessible"
+      },
+      {
+        "text": "Music: Karaoke",
+        "value": "Music.karaoke"
+      },
+      {
+        "text": "Dogs Allowed",
+        "value": "DogsAllowed"
+      },
+      {
+        "text": "Waiter Service",
+        "value": "RestaurantsTableService"
+      },
+      {
+        "text": "Liked by 30-somethings",
+        "value": "LikedByThirties"
+      },
+      {
+        "text": "Offers Takeout",
+        "value": "RestaurantsTakeOut"
+      },
+      {
+        "text": "Offers Delivery",
+        "value": "RestaurantsDelivery"
+      },
+      {
+        "text": "Gender-neutral restrooms",
+        "value": "GenderNeutralRestrooms"
+      },
+      {
+        "text": "Validated Parking",
+        "value": "BusinessParking.validated"
+      },
+      {
+        "text": "Has TV",
+        "value": "HasTV"
+      },
+      {
+        "text": "Coat Check",
+        "value": "CoatCheck"
+      },
+      {
+        "text": "Free Wi-Fi",
+        "value": "WiFi.free"
+      },
+      {
+        "text": "Offering a Deal",
+        "value": "ActiveDeal"
+      },
+      {
+        "text": "Offers Military Discount",
+        "value": "OffersMilitaryDiscount"
+      },
+      {
+        "text": "Street Parking",
+        "value": "BusinessParking.street"
+      },
+      {
+        "text": "No Smoking",
+        "value": "Smoking.no"
+      },
+      {
+        "text": "Good for Kids",
+        "value": "GoodForKids"
+      },
+      {
+        "text": "Good for Dessert",
+        "value": "GoodForMeal.dessert"
+      },
+      {
+        "text": "Full Bar",
+        "value": "Alcohol.full_bar"
+      },
+      {
+        "text": "Outdoor Seating",
+        "value": "OutdoorSeating"
+      },
+      {
+        "text": "Good for Dinner",
+        "value": "GoodForMeal.dinner"
+      },
+      {
+        "text": "Waitlist",
+        "value": "OnlineWaitlistReservation"
+      },
+      {
+        "text": "Paid Wi-Fi",
+        "value": "WiFi.paid"
+      },
+      {
+        "text": "Open Now",
+        "value": "open_now"
+      },
+      {
+        "text": "Hot and New",
+        "value": "NewBusiness"
+      },
+      {
+        "text": "Music: Jukebox",
+        "value": "Music.jukebox"
+      },
+      {
+        "text": "Accepts Apple Pay",
+        "value": "BusinessAcceptsApplePay"
+      },
+      {
+        "text": "Smoking Outside Only",
+        "value": "Smoking.outdoor"
+      },
+      {
+        "text": "Liked by 40-somethings",
+        "value": "LikedByForties"
+      },
+      {
+        "text": "Music: DJ",
+        "value": "Music.dj"
+      },
+      {
+        "text": "Open At:",
+        "value": "open_time"
+      },
+      {
+        "text": "Reservations",
+        "value": "OnlineReservations"
+      }
+    ],
+    "category": [
+      {
+        "text": "Breakfast & Brunch",
+        "value": "breakfast_brunch"
+      }
+    ]
+  },
+  "inline_ads": [
+    {
+      "place_ids": [
+        "7R5VMjXQV7HB-dDurXzPfA",
+        "nothing-bundt-cakes-atlanta"
+      ],
+      "title": "Nothing Bundt Cakes",
+      "link": "https://www.yelp.com/adredir?ad_business_id=7R5VMjXQV7HB-dDurXzPfA&amp;campaign_id=5g55ebl750Xrv4KNL_3YPg&amp;click_origin=search_results&amp;placement=carousel_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fnothing-bundt-cakes-atlanta&amp;request_id=51e56e78f6031274&amp;signature=057738f9bb77e4a72d560afd196e79bdbcaa58908f5741e8fa7039dd6e610ed5&amp;slot=0",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=7R5VMjXQV7HB-dDurXzPfA&start=150",
+      "categories": [
+        {
+          "title": "Desserts",
+          "link": "https://www.yelp.com/search?find_desc=Desserts&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Cupcakes",
+          "link": "https://www.yelp.com/search?find_desc=Cupcakes&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Bakeries",
+          "link": "https://www.yelp.com/search?find_desc=Bakeries&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.3,
+      "reviews": 10,
+      "neighborhoods": "Reynoldstown",
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/adphoto/4rC2_r-cfpON7T1z8zCxEA/ls.jpg"
+    },
+    {
+      "place_ids": [
+        "yCjj3MNoKgJxRA1FZ7l4Tw",
+        "sweet-red-peach-atlanta-2"
+      ],
+      "title": "Sweet Red Peach",
+      "link": "https://www.yelp.com/adredir?ad_business_id=yCjj3MNoKgJxRA1FZ7l4Tw&amp;campaign_id=zxfi_2KJrEoHJHWPo7IBcQ&amp;click_origin=search_results&amp;placement=carousel_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fsweet-red-peach-atlanta-2&amp;request_id=51e56e78f6031274&amp;signature=5d4851bfe8f36fbad11aa844ee9130c33489bfefcc8a550bf25ed19e3bd0fb01&amp;slot=1",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=yCjj3MNoKgJxRA1FZ7l4Tw&start=150",
+      "categories": [
+        {
+          "title": "Cupcakes",
+          "link": "https://www.yelp.com/search?find_desc=Cupcakes&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Desserts",
+          "link": "https://www.yelp.com/search?find_desc=Desserts&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Bakeries",
+          "link": "https://www.yelp.com/search?find_desc=Bakeries&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "neighborhoods": "Downtown",
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/1kdEJm4WvXdB-DOJ6pEOCQ/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "jqy4gp-Hysad2AmG_ft8UQ",
+        "starbucks-atlanta-89"
+      ],
+      "title": "Starbucks",
+      "link": "https://www.yelp.com/adredir?ad_business_id=jqy4gp-Hysad2AmG_ft8UQ&amp;campaign_id=Y-JjBrs7CH73Ti3EPhFiQA&amp;click_origin=search_results&amp;placement=carousel_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fstarbucks-atlanta-89&amp;request_id=51e56e78f6031274&amp;signature=7ad9be424470ef8347819f1f2305d0c78792adfc8cd8318883e63918c3b79cf7&amp;slot=2",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=jqy4gp-Hysad2AmG_ft8UQ&start=150",
+      "categories": [
+        {
+          "title": "Coffee & Tea",
+          "link": "https://www.yelp.com/search?find_desc=Coffee+%26+Tea&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Breakfast & Brunch",
+          "link": "https://www.yelp.com/search?find_desc=Breakfast+%26+Brunch&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "reviews": 77,
+      "neighborhoods": "Downtown",
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/z8FeWEssMfUHbhby6xBYnw/ls.jpg"
+    },
+    {
+      "place_ids": [
+        "K_K4GVqOfe0zGMgsnG-17Q",
+        "heidis-heavenly-cookies-alpharetta"
+      ],
+      "title": "Heidi’s Heavenly Cookies",
+      "link": "https://www.yelp.com/adredir?ad_business_id=K_K4GVqOfe0zGMgsnG-17Q&amp;campaign_id=0mGTJJ932_F9TuBeYVNwPg&amp;click_origin=search_results&amp;placement=carousel_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fheidis-heavenly-cookies-alpharetta&amp;request_id=51e56e78f6031274&amp;signature=c9742b4966c14cfdafcedf274f93df90ee819a13b95bb79f5020e5402687550b&amp;slot=3",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=K_K4GVqOfe0zGMgsnG-17Q&start=150",
+      "categories": [
+        {
+          "title": "Bakeries",
+          "link": "https://www.yelp.com/search?find_desc=Bakeries&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Desserts",
+          "link": "https://www.yelp.com/search?find_desc=Desserts&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.9,
+      "reviews": 56,
+      "highlights": [
+        "21 years in business",
+        "Women-owned & operated",
+        "Locally owned & operated"
+      ],
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/EC9HEn_MR7-XMTO8NZ0zYg/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "nVcZG0faEa5KER8WOjWbXg",
+        "vita-bakes-atlanta"
+      ],
+      "title": "Vita Bakes",
+      "link": "https://www.yelp.com/adredir?ad_business_id=nVcZG0faEa5KER8WOjWbXg&amp;campaign_id=U21OFO9QvEEcJvFNFj1FBw&amp;click_origin=search_results&amp;placement=carousel_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fvita-bakes-atlanta&amp;request_id=51e56e78f6031274&amp;signature=ae2bf0482401625c73029e9316ebdc2562f409f9bdb8d162b5815a8f139122b2&amp;slot=4",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=nVcZG0faEa5KER8WOjWbXg&start=150",
+      "categories": [
+        {
+          "title": "Custom Cakes",
+          "link": "https://www.yelp.com/search?find_desc=Custom+Cakes&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Desserts",
+          "link": "https://www.yelp.com/search?find_desc=Desserts&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Cupcakes",
+          "link": "https://www.yelp.com/search?find_desc=Cupcakes&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "reviews": 1,
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/zW8tMbSkgAyALB1dPr2aOw/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "WHuoeldSOSIlYncy_Ed4zA",
+        "bodega-wings-and-phillies-atlanta"
+      ],
+      "title": "Bodega Wings and Phillies",
+      "link": "https://www.yelp.com/adredir?ad_business_id=WHuoeldSOSIlYncy_Ed4zA&amp;campaign_id=otD4-L7QVtiXGSD1N7IfmQ&amp;click_origin=search_results&amp;placement=carousel_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fbodega-wings-and-phillies-atlanta&amp;request_id=51e56e78f6031274&amp;signature=e58e0867eecfe6255b6cc87703b4865c920864c96102129724cc9af9cd28058a&amp;slot=5",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=WHuoeldSOSIlYncy_Ed4zA&start=150",
+      "categories": [
+        {
+          "title": "Chicken Wings",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Wings&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Desserts",
+          "link": "https://www.yelp.com/search?find_desc=Desserts&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Sandwiches",
+          "link": "https://www.yelp.com/search?find_desc=Sandwiches&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.0,
+      "reviews": 1,
+      "neighborhoods": "Lindbergh",
+      "highlights": [
+        "Locally owned & operated",
+        "Minority-owned & operated",
+        "Discounts available",
+        "Grab-and-go",
+        "Kitchen open late",
+        "Casual dining"
+      ],
+      "button": {
+        "text": "Start Order",
+        "link": "https://www.yelp.com/adredir?ad_business_id=WHuoeldSOSIlYncy_Ed4zA&amp;click_origin=search_results_platform&amp;placement=carousel_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fbodega-wings-and-phillies-atlanta%3Fshow_platform_modal%3DTrue&amp;request_id=51e56e78f6031274&amp;signature=dd235160eaaa57485ef71fed79e0e71fab9f669ef1bac27ef3948c18393a005a&amp;slot=5"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XBdeV3SCWwDw6DX2Wbcr5Q/348s.jpg"
+    }
+  ],
+  "ads_results": [
+    {
+      "place_ids": [
+        "D61uA1bA4OJWdlSiqtlL1A",
+        "sweet-red-peach-atlanta"
+      ],
+      "title": "Sweet Red Peach",
+      "link": "https://www.yelp.com/adredir?ad_business_id=D61uA1bA4OJWdlSiqtlL1A&amp;campaign_id=aIPwwQkt2EpPjiL3Y0QD7A&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fsweet-red-peach-atlanta&amp;request_id=51e56e78f6031274&amp;signature=e1bd96f22492b7071852dc74888422c8e3a955d6431bc6e8786fdda47dc1457c&amp;slot=0",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=D61uA1bA4OJWdlSiqtlL1A&start=150",
+      "categories": [
+        {
+          "title": "Cupcakes",
+          "link": "https://www.yelp.com/search?find_desc=Cupcakes&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Custom Cakes",
+          "link": "https://www.yelp.com/search?find_desc=Custom+Cakes&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Desserts",
+          "link": "https://www.yelp.com/search?find_desc=Desserts&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.0,
+      "reviews": 8,
+      "neighborhoods": "West End",
+      "highlights": [
+        "Women-owned & operated",
+        "Minority-owned & operated",
+        "Family-owned & operated",
+        "Free parking",
+        "Outdoor seating",
+        "Vegan friendly"
+      ],
+      "phone": "(404) 228-3190",
+      "snippet": "We offer old school custom cakes and pastries at the Lee and White Food Hall in the Westend off the Beltline.",
+      "button": {
+        "text": "Start Order",
+        "link": "https://www.yelp.com/adredir?ad_business_id=D61uA1bA4OJWdlSiqtlL1A&amp;click_origin=search_results_platform&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fsweet-red-peach-atlanta%3Fshow_platform_modal%3DTrue&amp;request_id=51e56e78f6031274&amp;signature=248a3f14033f5091458734cb5b5a0934b99b63e8a3085189de10b19f0dd47905&amp;slot=0"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/D4MJIFrwz5EGqDiH7NX3XQ/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "K_K4GVqOfe0zGMgsnG-17Q",
+        "heidis-heavenly-cookies-alpharetta"
+      ],
+      "title": "Heidi’s Heavenly Cookies",
+      "link": "https://www.yelp.com/adredir?ad_business_id=K_K4GVqOfe0zGMgsnG-17Q&amp;campaign_id=0mGTJJ932_F9TuBeYVNwPg&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fheidis-heavenly-cookies-alpharetta&amp;request_id=51e56e78f6031274&amp;signature=5112e968341a40e0991d96f44bebe38568b25835d21aed3b8f9588f28a2e5657&amp;slot=1",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=K_K4GVqOfe0zGMgsnG-17Q&start=150",
+      "categories": [
+        {
+          "title": "Desserts",
+          "link": "https://www.yelp.com/search?find_desc=Desserts&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Bakeries",
+          "link": "https://www.yelp.com/search?find_desc=Bakeries&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.9,
+      "reviews": 56,
+      "highlights": [
+        "21 years in business",
+        "Women-owned & operated",
+        "Locally owned & operated"
+      ],
+      "phone": "(938) 526-2026",
+      "snippet": "Y. U. M !!!! Yep, it's just like the name says, \"heavenly\"! We selected the package that comes with most every flavor of cookie on the menu, and each one was unique and delicious.…",
+      "button": {
+        "text": "View Website",
+        "link": "https://www.yelp.com/adredir?ad_business_id=K_K4GVqOfe0zGMgsnG-17Q&amp;campaign_id=0mGTJJ932_F9TuBeYVNwPg&amp;click_origin=search_results_visit_website&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz_redir%3Fcachebuster%3D1710172102%26s%3D0aea4dcc4143f5cb9b368ba39f4ee0389bc0eb6a0c29fca08959551d91d090f1%26src_bizid%3DK_K4GVqOfe0zGMgsnG-17Q%26url%3Dhttp%253A%252F%252Fwww.heidisheavenlycookies.com%26website_link_type%3Dwebsite&amp;request_id=51e56e78f6031274&amp;signature=be94c9c24bb1f34f35420928686fc8a76214c5f2869012e33775485badd388ba&amp;slot=1"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/aEVNQWNQ5jl_yBIOuLqc8A/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "yCjj3MNoKgJxRA1FZ7l4Tw",
+        "sweet-red-peach-atlanta-2"
+      ],
+      "title": "Sweet Red Peach",
+      "link": "https://www.yelp.com/adredir?ad_business_id=yCjj3MNoKgJxRA1FZ7l4Tw&amp;campaign_id=zxfi_2KJrEoHJHWPo7IBcQ&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fsweet-red-peach-atlanta-2&amp;request_id=51e56e78f6031274&amp;signature=0192dfa161814f50f3cf7f931fa71376a599971e659a44913e986b69cbf77696&amp;slot=2",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=yCjj3MNoKgJxRA1FZ7l4Tw&start=150",
+      "categories": [
+        {
+          "title": "Bakeries",
+          "link": "https://www.yelp.com/search?find_desc=Bakeries&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Desserts",
+          "link": "https://www.yelp.com/search?find_desc=Desserts&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Cupcakes",
+          "link": "https://www.yelp.com/search?find_desc=Cupcakes&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "neighborhoods": "Downtown",
+      "phone": "(404) 963-1802",
+      "snippet": "We are located in the heart of Atlanta. We make everything in house using only the finest quality ingredients. From our incredibly tender and flakey pie crust, down to our homemade…",
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/_ye7Ao7b3jg1_H8XEByzYw/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "3mHSnXdCFJka0oWWf2uUCg",
+        "chilis-atlanta-4"
+      ],
+      "title": "Chili’s",
+      "link": "https://www.yelp.com/adredir?ad_business_id=3mHSnXdCFJka0oWWf2uUCg&amp;campaign_id=iYFuwZ0NyIwFSu9ShdKwbg&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fchilis-atlanta-4&amp;request_id=51e56e78f6031274&amp;signature=947e088e9240d880fc3260279af8e14feecbc42230ccd03f75cc2e1f6d3ae5f0&amp;slot=3",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=3mHSnXdCFJka0oWWf2uUCg&start=150",
+      "categories": [
+        {
+          "title": "Tex-Mex",
+          "link": "https://www.yelp.com/search?find_desc=Tex-Mex&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "American",
+          "link": "https://www.yelp.com/search?find_desc=American&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Bars",
+          "link": "https://www.yelp.com/search?find_desc=Bars&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "reviews": 195,
+      "phone": "(404) 325-8680",
+      "snippet": "Get your own 3 for Me® for just $10.99 - with a drink, a starter like bottomless chips and salsa, a select full-size entree like the classic Oldtimer® with Cheese, and a big ol' side…",
+      "button": {
+        "text": "Get Directions",
+        "link": "https://www.yelp.com/adredir?ad_business_id=3mHSnXdCFJka0oWWf2uUCg&amp;click_origin=search_results_direction&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fmap%2Fchilis-atlanta-4&amp;request_id=51e56e78f6031274&amp;signature=e8f8cfdf84e03b14e3e172bee86acc62aff080fc9d69b24663eb467f5f40337c&amp;slot=3"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/z7QauiZUbH13YbqaF-vvww/ls.jpg"
+    },
+    {
+      "place_ids": [
+        "cu122j6S7nP5lN1YOkzV0A",
+        "capital-one-caf%C3%A9-atlanta-2"
+      ],
+      "title": "Capital One Café",
+      "link": "https://www.yelp.com/adredir?ad_business_id=cu122j6S7nP5lN1YOkzV0A&amp;campaign_id=vHXh22Xpi1K159IdkiS43Q&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fcapital-one-caf%25C3%25A9-atlanta-2&amp;request_id=51e56e78f6031274&amp;signature=37eb516f8586df14f526ffaa685fd091e106d87ddefa8389a45260b386dfbbe7&amp;slot=4",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=cu122j6S7nP5lN1YOkzV0A&start=150",
+      "categories": [
+        {
+          "title": "Coffee & Tea",
+          "link": "https://www.yelp.com/search?find_desc=Coffee+%26+Tea&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Internet Cafes",
+          "link": "https://www.yelp.com/search?find_desc=Internet+Cafes&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Banks & Credit Unions",
+          "link": "https://www.yelp.com/search?find_desc=Banks+%26+Credit+Unions&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.9,
+      "reviews": 14,
+      "neighborhoods": "Buckhead",
+      "phone": "(470) 408-7957",
+      "snippet": "This review is more than well deserved. On Nov.11.2020 my mother and I were visiting this location to pay money on our credit cards and upon walking up there was a young man who…",
+      "button": {
+        "text": "Get Directions",
+        "link": "https://www.yelp.com/adredir?ad_business_id=cu122j6S7nP5lN1YOkzV0A&amp;click_origin=search_results_direction&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fmap%2Fcapital-one-caf%25C3%25A9-atlanta-2&amp;request_id=51e56e78f6031274&amp;signature=8f6b05ecc883cbfc3500c03e591549ac30f55b60a75784e7dbfaedc5da4fe802&amp;slot=4"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/MapvGsTC9XzUnRTutwIbzQ/ls.jpg"
+    },
+    {
+      "place_ids": [
+        "WHuoeldSOSIlYncy_Ed4zA",
+        "bodega-wings-and-phillies-atlanta"
+      ],
+      "title": "Bodega Wings and Phillies",
+      "link": "https://www.yelp.com/adredir?ad_business_id=WHuoeldSOSIlYncy_Ed4zA&amp;campaign_id=otD4-L7QVtiXGSD1N7IfmQ&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fbodega-wings-and-phillies-atlanta&amp;request_id=51e56e78f6031274&amp;signature=c690760bdd2a0859b38374f7ffd42e93fdf7b17a3ef83bbae5052109806efd26&amp;slot=5",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=WHuoeldSOSIlYncy_Ed4zA&start=150",
+      "categories": [
+        {
+          "title": "Chicken Wings",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Wings&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Desserts",
+          "link": "https://www.yelp.com/search?find_desc=Desserts&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Sandwiches",
+          "link": "https://www.yelp.com/search?find_desc=Sandwiches&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.0,
+      "reviews": 1,
+      "neighborhoods": "Lindbergh",
+      "highlights": [
+        "Locally owned & operated",
+        "Minority-owned & operated",
+        "Discounts available",
+        "Grab-and-go",
+        "Kitchen open late",
+        "Casual dining"
+      ],
+      "phone": "(678) 431-1034",
+      "snippet": "Where Phillies, Wings and Desserts Mesh!",
+      "button": {
+        "text": "Start Order",
+        "link": "https://www.yelp.com/adredir?ad_business_id=WHuoeldSOSIlYncy_Ed4zA&amp;click_origin=search_results_platform&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fbodega-wings-and-phillies-atlanta%3Fshow_platform_modal%3DTrue&amp;request_id=51e56e78f6031274&amp;signature=812a5f2d857179844868722f477e6a165d9c73098a42cb7132b462cd8df52638&amp;slot=5"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/ICwrs-M_PB5cseXaRWxvoQ/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "83maS2mCXYZjuwEhozVtLA",
+        "sweet-hut-bakery-and-cafe-atlanta"
+      ],
+      "title": "Sweet Hut Bakery & Cafe",
+      "link": "https://www.yelp.com/adredir?ad_business_id=83maS2mCXYZjuwEhozVtLA&amp;campaign_id=nME2YFdYAJ6lq7A6YM3Jkw&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fsweet-hut-bakery-and-cafe-atlanta&amp;request_id=51e56e78f6031274&amp;signature=23b6b91ce2afefd3553e273b7b891d2580a94d1104e6e59bc67a6db506435e93&amp;slot=6",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=83maS2mCXYZjuwEhozVtLA&start=150",
+      "categories": [
+        {
+          "title": "Cafes",
+          "link": "https://www.yelp.com/search?find_desc=Cafes&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Bakeries",
+          "link": "https://www.yelp.com/search?find_desc=Bakeries&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Desserts",
+          "link": "https://www.yelp.com/search?find_desc=Desserts&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.1,
+      "reviews": 860,
+      "neighborhoods": "Midtown",
+      "phone": "(404) 600-4800",
+      "snippet": "We went to this place multiple times while we were in Atlanta because I was determined to find something I loved. The first time we went I got the matcha bun and the violet. They…",
+      "button": {
+        "text": "Start Order",
+        "link": "https://www.yelp.com/adredir?ad_business_id=83maS2mCXYZjuwEhozVtLA&amp;click_origin=search_results_platform&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fsweet-hut-bakery-and-cafe-atlanta%3Fshow_platform_modal%3DTrue&amp;request_id=51e56e78f6031274&amp;signature=5b548ebc5df5a681d6eb2ed8001d3c323719092628110bde1e1e75ef8daec02e&amp;slot=6"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XYrWvyKnLG8gmulh8St22Q/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "7R5VMjXQV7HB-dDurXzPfA",
+        "nothing-bundt-cakes-atlanta"
+      ],
+      "title": "Nothing Bundt Cakes",
+      "link": "https://www.yelp.com/adredir?ad_business_id=7R5VMjXQV7HB-dDurXzPfA&amp;campaign_id=5g55ebl750Xrv4KNL_3YPg&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fnothing-bundt-cakes-atlanta&amp;request_id=51e56e78f6031274&amp;signature=b688c22639fbd957775cf9b86a4d9ada64f6d7406c22d582651599bfb2fe88ad&amp;slot=7",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=7R5VMjXQV7HB-dDurXzPfA&start=150",
+      "categories": [
+        {
+          "title": "Desserts",
+          "link": "https://www.yelp.com/search?find_desc=Desserts&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Bakeries",
+          "link": "https://www.yelp.com/search?find_desc=Bakeries&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Cupcakes",
+          "link": "https://www.yelp.com/search?find_desc=Cupcakes&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.3,
+      "reviews": 10,
+      "neighborhoods": "Reynoldstown",
+      "phone": "(678) 833-5506",
+      "snippet": "This location in the heart of ATL has only been open for a short while, and I'm so glad they opened one close to me! Location and Parking It's located conveniently on Moreland Ave,…",
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/3QNpWaClzmuovgqrFQ3-DA/348s.jpg"
+    },
+    {
+      "block_position": "bottom",
+      "place_ids": [
+        "jqy4gp-Hysad2AmG_ft8UQ",
+        "starbucks-atlanta-89"
+      ],
+      "title": "Starbucks",
+      "link": "https://www.yelp.com/adredir?ad_business_id=jqy4gp-Hysad2AmG_ft8UQ&amp;campaign_id=Y-JjBrs7CH73Ti3EPhFiQA&amp;click_origin=search_results&amp;placement=below_search&amp;placement_slot=2&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fstarbucks-atlanta-89&amp;request_id=51e56e78f6031274&amp;signature=971958df6d2c0decdc025633c0a1f7cc806d35d50bd81332515f97587877ceba&amp;slot=0",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=jqy4gp-Hysad2AmG_ft8UQ&start=150",
+      "categories": [
+        {
+          "title": "Coffee & Tea",
+          "link": "https://www.yelp.com/search?find_desc=Coffee+%26+Tea&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Breakfast & Brunch",
+          "link": "https://www.yelp.com/search?find_desc=Breakfast+%26+Brunch&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "reviews": 77,
+      "neighborhoods": "Downtown",
+      "phone": "(470) 829-9280",
+      "snippet": "Pick up your favorite spring handcrafted beverage or try something new. Order on the Starbucks® app &amp; pick up today.",
+      "button": {
+        "text": "Get Directions",
+        "link": "https://www.yelp.com/adredir?ad_business_id=jqy4gp-Hysad2AmG_ft8UQ&amp;click_origin=search_results_direction&amp;placement=below_search&amp;placement_slot=2&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fmap%2Fstarbucks-atlanta-89&amp;request_id=51e56e78f6031274&amp;signature=dd4d4e4576d1b93b8ab7bc3ef0f35cfe9070d66cca5ad41e1d8db94a8cf39186&amp;slot=0"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/z8FeWEssMfUHbhby6xBYnw/ls.jpg"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 151,
+      "place_ids": [
+        "7hdnCKFbCl5P0G3l1-E2mw",
+        "polaris-atlanta"
+      ],
+      "title": "Polaris",
+      "link": "https://www.yelp.com/biz/polaris-atlanta",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=7hdnCKFbCl5P0G3l1-E2mw&start=150",
+      "categories": [
+        {
+          "title": "American",
+          "link": "https://www.yelp.com/search?find_desc=American&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Cocktail Bars",
+          "link": "https://www.yelp.com/search?find_desc=Cocktail+Bars&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$$",
+      "rating": 4.2,
+      "reviews": 362,
+      "neighborhoods": "Downtown",
+      "phone": "(404) 460-6425",
+      "snippet": "***Disclaimer: My actual rating is 4/5. The only reason I am giving it a because of our server Antionette who was beyond amazing. *** After 4 months of…",
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/NN3iVN31fjqOwLAHuR2Y5g/348s.jpg"
+    },
+    {
+      "position": 152,
+      "place_ids": [
+        "W2uLX3tc3YrhKKxEIPRmAw",
+        "georgia-aquarium-atlanta"
+      ],
+      "title": "Georgia Aquarium",
+      "link": "https://www.yelp.com/biz/georgia-aquarium-atlanta",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=W2uLX3tc3YrhKKxEIPRmAw&start=150",
+      "categories": [
+        {
+          "title": "Aquariums",
+          "link": "https://www.yelp.com/search?find_desc=Aquariums&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.1,
+      "reviews": 3366,
+      "neighborhoods": "Downtown",
+      "phone": "(404) 581-4000",
+      "snippet": "I love this place. It's very cool but it is expensive also the food is very good. It's very fun I had a great time. I would recommend!",
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/yjRADNm3HaP6gKRocdeN5w/348s.jpg"
+    },
+    {
+      "position": 153,
+      "place_ids": [
+        "qHNfi8exkBnwNovAD8zCTA",
+        "bellina-alimentari-atlanta"
+      ],
+      "title": "Bellina Alimentari",
+      "link": "https://www.yelp.com/biz/bellina-alimentari-atlanta",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=qHNfi8exkBnwNovAD8zCTA&start=150",
+      "categories": [
+        {
+          "title": "Italian",
+          "link": "https://www.yelp.com/search?find_desc=Italian&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Pasta Shops",
+          "link": "https://www.yelp.com/search?find_desc=Pasta+Shops&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Salad",
+          "link": "https://www.yelp.com/search?find_desc=Salad&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.0,
+      "reviews": 451,
+      "neighborhoods": "Old Fourth Ward",
+      "phone": "(404) 330-9933",
+      "snippet": "They don't take reservations. The hostess will seat you in the front room but it's first come first served for the limited seating in the bar in the back. The…",
+      "button": {
+        "text": "Start Order",
+        "link": "https://www.yelp.com/biz/qHNfi8exkBnwNovAD8zCTA?show_platform_modal=True"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/7NkkTELf492vHWBp5JLT_Q/348s.jpg"
+    },
+    {
+      "position": 154,
+      "place_ids": [
+        "gbyWens4rcXY9Sz0OQLCJQ",
+        "campagnolo-atlanta"
+      ],
+      "title": "Campagnolo",
+      "link": "https://www.yelp.com/biz/campagnolo-atlanta",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=gbyWens4rcXY9Sz0OQLCJQ&start=150",
+      "categories": [
+        {
+          "title": "Italian",
+          "link": "https://www.yelp.com/search?find_desc=Italian&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$",
+      "rating": 3.9,
+      "reviews": 436,
+      "neighborhoods": "Midtown",
+      "phone": "(404) 343-2446",
+      "snippet": "Excellent experience! Food was outstanding, and the service complimented the fare! Cocktails were very good, the Pear Martini being a hit at our table. The…",
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/mBYv1zd1DtVS4QojeczbLg/348s.jpg"
+    },
+    {
+      "position": 155,
+      "place_ids": [
+        "78ocP9YyQFrYtIO1TTle2A",
+        "zunzis-atlanta-3"
+      ],
+      "title": "Zunzi’s",
+      "link": "https://www.yelp.com/biz/zunzis-atlanta-3",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=78ocP9YyQFrYtIO1TTle2A&start=150",
+      "categories": [
+        {
+          "title": "Sandwiches",
+          "link": "https://www.yelp.com/search?find_desc=Sandwiches&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Caterers",
+          "link": "https://www.yelp.com/search?find_desc=Caterers&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Chicken Wings",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Wings&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.5,
+      "reviews": 323,
+      "neighborhoods": "Buckhead",
+      "highlights": [
+        "Catering service",
+        "Outdoor seating",
+        "Vegan friendly",
+        "Gluten-free friendly",
+        "Healthy dining",
+        "Grab-and-go"
+      ],
+      "phone": "(470) 698-2351",
+      "snippet": "Today was Zunzifest and the free sandwhich brought me, but the flavor, leanings and friend staff will keep me coming back! For the promotion your choice of…",
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/TPk_zqGW11ReWYGBBKyGNw/348s.jpg"
+    },
+    {
+      "position": 156,
+      "place_ids": [
+        "6XI06NdZI1pIN30Wn2cYbA",
+        "mck-restaurant-and-bar-atlanta"
+      ],
+      "title": "MCK Restaurant And Bar",
+      "link": "https://www.yelp.com/biz/mck-restaurant-and-bar-atlanta",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=6XI06NdZI1pIN30Wn2cYbA&start=150",
+      "categories": [
+        {
+          "title": "Tapas/Small Plates",
+          "link": "https://www.yelp.com/search?find_desc=Tapas%2FSmall+Plates&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Cocktail Bars",
+          "link": "https://www.yelp.com/search?find_desc=Cocktail+Bars&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$$",
+      "rating": 4.6,
+      "reviews": 136,
+      "neighborhoods": "Buckhead",
+      "phone": "(404) 237-1313",
+      "snippet": "When I say WOW?! I haven't been this overly satisfied with a restaurant in Atlanta in a long time. We had a big party on Sunday with a reservation at 6:30pm.…",
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Wm44Z6Ripdq9TkGsaUv1_Q/348s.jpg"
+    },
+    {
+      "position": 157,
+      "place_ids": [
+        "F7d32-PQcfIEX-bAaMjV_Q",
+        "nakato-japanese-restaurant-atlanta-2"
+      ],
+      "title": "Nakato Japanese Restaurant",
+      "link": "https://www.yelp.com/biz/nakato-japanese-restaurant-atlanta-2",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=F7d32-PQcfIEX-bAaMjV_Q&start=150",
+      "categories": [
+        {
+          "title": "Japanese",
+          "link": "https://www.yelp.com/search?find_desc=Japanese&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Sushi Bars",
+          "link": "https://www.yelp.com/search?find_desc=Sushi+Bars&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Tapas/Small Plates",
+          "link": "https://www.yelp.com/search?find_desc=Tapas%2FSmall+Plates&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$$",
+      "rating": 3.8,
+      "reviews": 880,
+      "neighborhoods": "Morningside / Lenox Park",
+      "phone": "(404) 873-6582",
+      "snippet": "A great Japanese restaurant! I came here for hibachi during dinner with my family. Our hibachi chef was amazing-- one of the best hibachi experiences I've had.…",
+      "button": {
+        "text": "Start Order",
+        "link": "https://www.yelp.com/biz/F7d32-PQcfIEX-bAaMjV_Q?show_platform_modal=True"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/q7MxzmVF3A3NKQVuSkUh2w/348s.jpg"
+    },
+    {
+      "position": 158,
+      "place_ids": [
+        "qx7-TEoNazwE1BcZLCIJ9w",
+        "silom-thai-and-sushi-atlanta"
+      ],
+      "title": "Silom Thai & Sushi",
+      "link": "https://www.yelp.com/biz/silom-thai-and-sushi-atlanta",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=qx7-TEoNazwE1BcZLCIJ9w&start=150",
+      "categories": [
+        {
+          "title": "Thai",
+          "link": "https://www.yelp.com/search?find_desc=Thai&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Sushi Bars",
+          "link": "https://www.yelp.com/search?find_desc=Sushi+Bars&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Tapas/Small Plates",
+          "link": "https://www.yelp.com/search?find_desc=Tapas%2FSmall+Plates&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.2,
+      "reviews": 318,
+      "neighborhoods": "Buckhead",
+      "phone": "(404) 549-3948",
+      "snippet": "We ordered takeout here and now can't wait to dine in! Takeout can be placed directly through Google Maps, and they had it ready exactly during the pickup…",
+      "button": {
+        "text": "Start Order",
+        "link": "https://www.yelp.com/biz/qx7-TEoNazwE1BcZLCIJ9w?show_platform_modal=True"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/8oGFB6bnUMOIoM6o82Mj5Q/348s.jpg"
+    },
+    {
+      "position": 159,
+      "place_ids": [
+        "BSUDAiXd50PAkfFAztVpDw",
+        "aviva-by-kameel-atlanta-atlanta"
+      ],
+      "title": "Aviva by Kameel - Atlanta",
+      "link": "https://www.yelp.com/biz/aviva-by-kameel-atlanta-atlanta",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=BSUDAiXd50PAkfFAztVpDw&start=150",
+      "categories": [
+        {
+          "title": "Mediterranean",
+          "link": "https://www.yelp.com/search?find_desc=Mediterranean&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Middle Eastern",
+          "link": "https://www.yelp.com/search?find_desc=Middle+Eastern&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.8,
+      "reviews": 1776,
+      "neighborhoods": "Downtown",
+      "phone": "(404) 698-3600",
+      "snippet": "By far some of the best food I've had the pleasure of eating in my entire life. I've stayed in the area for business too many times to count but somehow I've…",
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/5P3eyDa8bMZvBIZspI2hhQ/348s.jpg"
+    },
+    {
+      "position": 160,
+      "place_ids": [
+        "85s4Qh0VUxKCRFnEkHeXRA",
+        "le-colonial-atlanta-atlanta-2"
+      ],
+      "title": "Le Colonial - Atlanta",
+      "link": "https://www.yelp.com/biz/le-colonial-atlanta-atlanta-2",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=85s4Qh0VUxKCRFnEkHeXRA&start=150",
+      "categories": [
+        {
+          "title": "Bars",
+          "link": "https://www.yelp.com/search?find_desc=Bars&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Vietnamese",
+          "link": "https://www.yelp.com/search?find_desc=Vietnamese&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "French",
+          "link": "https://www.yelp.com/search?find_desc=French&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$$",
+      "rating": 4.1,
+      "reviews": 489,
+      "neighborhoods": "Buckhead",
+      "phone": "(404) 341-0500",
+      "snippet": "Le Colonial is a beautiful Vietnamese restaurant in Buckhead Atlanta. We started the night with cocktails and the tuna tartare. The Spicy Vietnamese Margarita…",
+      "button": {
+        "text": "Start Order",
+        "link": "https://www.yelp.com/biz/85s4Qh0VUxKCRFnEkHeXRA?show_platform_modal=True"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/guUIsny2emlJPiHuOv5JjA/348s.jpg"
+    }
+  ],
+  "pagination": {
+    "previous": "https://www.yelp.com/search?find_loc=atlanta%2C+georgia&start=140",
+    "next": "https://www.yelp.com/search?find_loc=atlanta%2C+georgia&start=160"
+  },
+  "serpapi_pagination": {
+    "current": null,
+    "previous_link": "https://serpapi.com/search.json?engine=yelp&find_loc=atlanta%2C+georgia&start=140",
+    "previous": "https://serpapi.com/search.json?engine=yelp&find_loc=atlanta%2C+georgia&start=140",
+    "next_link": "https://serpapi.com/search.json?engine=yelp&find_loc=atlanta%2C+georgia&start=160",
+    "next": "https://serpapi.com/search.json?engine=yelp&find_loc=atlanta%2C+georgia&start=160"
+  }
+}

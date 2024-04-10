@@ -1,0 +1,1445 @@
+{
+  "search_metadata": {
+    "id": "65ef2dfc2e7d6b9704c21b3a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c435cd11c3877dff/65ef2dfc2e7d6b9704c21b3a.json",
+    "created_at": "2024-03-11 16:14:52 UTC",
+    "processed_at": "2024-03-11 16:14:52 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/y9F-Aso24hNzbUvZNiv1MQ?",
+    "raw_html_file": "https://serpapi.com/searches/c435cd11c3877dff/65ef2dfc2e7d6b9704c21b3a.html",
+    "prettify_html_file": "https://serpapi.com/searches/c435cd11c3877dff/65ef2dfc2e7d6b9704c21b3a.prettify",
+    "total_time_taken": 2.23
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 70,
+    "num": "50",
+    "place_id": "y9F-Aso24hNzbUvZNiv1MQ"
+  },
+  "search_information": {
+    "total_results": 160,
+    "business": "Urban Hai"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 160
+    },
+    {
+      "hl": "fr",
+      "count": 1
+    },
+    {
+      "hl": "es",
+      "count": 1
+    },
+    {
+      "hl": "zh",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Nicole H.",
+        "user_id": "4oNrjes5LAsZeaF8Puss0g",
+        "link": "https://www.yelp.com/user_details?userid=4oNrjes5LAsZeaF8Puss0g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kmBft_GA4dQ_nFENKxCAlQ/180s.jpg",
+        "address": "San Antonio, TX",
+        "friends": 2,
+        "photos": 43,
+        "reviews": 67
+      },
+      "comment": {
+        "text": "Do yourself a favor and come here. Lunch specials are $13 plus $1 for soup or spring roll. The hot and numbing flounder was great! They also have more American Chinese lunch specials so this is a place I would feel comfortable bringing my older family members. The Szechuan spices are on point!",
+        "language": "en"
+      },
+      "date": "2023-05-15T17:36:17Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ColLmxfKCNdzIg09w7dlTQ/o.jpg",
+          "caption": "S1. / Hot & Sour Soup"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jim W.",
+        "user_id": "eLJLsuxOA1Ij2jrHjgY9ew",
+        "link": "https://www.yelp.com/user_details?userid=eLJLsuxOA1Ij2jrHjgY9ew",
+        "address": "Atlanta, GA",
+        "friends": 221,
+        "photos": 1,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "Great service, authentic Chinese flavors and spices, an interesting array on the menu, and a wonderful round table for our party of seven. We'll be back!",
+        "language": "en"
+      },
+      "date": "2024-01-04T20:36:14Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Marketus P.",
+        "user_id": "trw_gbPSRlNHpHoI9h9Gnw",
+        "link": "https://www.yelp.com/user_details?userid=trw_gbPSRlNHpHoI9h9Gnw",
+        "address": "Irvine, CA",
+        "friends": 6,
+        "photos": 1,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Ordered crispy pork belly, but I just got fried skin or flour. I tried calling restaurant after driver delivered my order and no one picked up! $15 for this! No way!!",
+        "language": "en"
+      },
+      "date": "2023-10-30T23:44:50Z",
+      "rating": 1,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4EHwawymNZKuMAlNxvFIRQ/o.jpg",
+          "caption": "This was suppose to be P10. / Crispy Pork Belly,"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Vanessa T.",
+        "user_id": "tXHQGzevkPyHNdI66Bk9TQ",
+        "link": "https://www.yelp.com/user_details?userid=tXHQGzevkPyHNdI66Bk9TQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/R6PbB7aZsTuvi1k9BnYLJg/180s.jpg",
+        "address": "Suwanee, GA",
+        "friends": 1,
+        "photos": 16,
+        "reviews": 31
+      },
+      "comment": {
+        "text": "Soooooo happy we finally have an AUTHENTIC Szechuan chines restaurant in Midtown!!  It is so yummy!  I had the vegetable hot pot. Hubby had the boiled fish in hot chili oil. We were both very happy with our orders. It's great that they have a full bar as well ;) Our service was more than adequate. The atmosphere was quite pleasant as well - nice decor, clean, lots of people but not packed - If the owner reads this post - please start offering a Sunday brunch - we would come every Sunday!",
+        "language": "en"
+      },
+      "date": "2023-04-22T21:06:09Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tPsF-Me_o4HBLDwnZk7TYQ/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/n0A_6ECi1rGxc2JM4pYZSQ/o.jpg",
+          "caption": "Szechuan fish in chili oil, vegetable hotpot."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Rdk09_XwgLLbIJodB5URZQ/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/y-PPErNS2p-n5AeFyW5pfg/o.jpg",
+          "caption": "The bar."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rSkEcE3uDa4w0MIkwBHZNw/o.jpg",
+          "caption": "Szechuan fish in chili oil and vegetable hotpot."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Parnian V.",
+        "user_id": "dU0z2cIwKNoQNDsD_ObM0Q",
+        "link": "https://www.yelp.com/user_details?userid=dU0z2cIwKNoQNDsD_ObM0Q",
+        "address": "Los Angeles, CA",
+        "friends": 26,
+        "photos": 417,
+        "reviews": 247
+      },
+      "comment": {
+        "text": "This was really good, reasonably priced as well. More on the salty side than spicy but as I kept eating the flavor got better. Will definitely request extra spice next time.",
+        "language": "en"
+      },
+      "date": "2023-09-28T17:36:59Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oClkw8PsCsWcNcwHVxA8IQ/o.jpg",
+          "caption": "L5. Kung Pao (Peanuts)"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Gregory B.",
+        "user_id": "PIDK-LA-_oolFxUd2GIdMg",
+        "link": "https://www.yelp.com/user_details?userid=PIDK-LA-_oolFxUd2GIdMg",
+        "address": "Edinburgh, United Kingdom",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Tasty food. Good menu. High spice level. Found some items preteen grandchildren could enjoy. Puffy scalion pancake was a hit with all.",
+        "language": "en"
+      },
+      "date": "2024-01-19T22:15:01Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alvin W.",
+        "user_id": "jsYur8VOhxGup6xGlAKLJg",
+        "link": "https://www.yelp.com/user_details?userid=jsYur8VOhxGup6xGlAKLJg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/a0wmr8KirP5XQ8WVpn7pww/180s.jpg",
+        "address": "Secaucus, NJ",
+        "friends": 75,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "They know how to cook Chinese food. \n/ Grandma's Noodles/ Spicy & Crispy Pig FeetXiao Long Bao",
+        "language": "en"
+      },
+      "date": "2023-03-10T00:10:14Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Mia L.",
+        "user_id": "9s2YvN4IE2Ft_1LYnIDQUg",
+        "link": "https://www.yelp.com/user_details?userid=9s2YvN4IE2Ft_1LYnIDQUg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KLGDRQCZwORZQTrP37jMag/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 11,
+        "photos": 0,
+        "reviews": 94
+      },
+      "comment": {
+        "text": "The general Tsao's was mediocre at best. It tasted like the chicken was over cooked and the flavor wasn't as savory as most places. It almost had a little too much sour or something to it. Wouldn't order here again especially for the price.",
+        "language": "en"
+      },
+      "date": "2023-09-21T16:54:57Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Carla C.",
+        "user_id": "PO61iocK7KTb0bjtH4qNxA",
+        "link": "https://www.yelp.com/user_details?userid=PO61iocK7KTb0bjtH4qNxA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/9d9Ve3nNZdG5yBRG0QU31A/180s.jpg",
+        "address": "SoMa, San Francisco, CA",
+        "friends": 0,
+        "photos": 6,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "We came for dinner after a rave review from a friend and we were not disappointed! We arrived around 4p after a show at the Fox. The staff were quick to welcome and seat us; very friendly and attentive.  The ambiance was just what I would expect for the Midtown location with background music that is chill and groovy and decor that is minimalist and sleek. Plenty of seating with room to grow.\nThe food: everything was delicious!\nBeing our first time we order several items from the appetizers and small plates and one entree. All the food was served within 10-12m of ordering and sizzling hot. SO flavorful, tender and perfectly seasoned. \nThe Scallion Bubble Pancake was a great wow dish and perfect way to start off the service. The curry dipping sauce delicious. \nPork Soup Dumplings were a treat! We were told it would require extra time to prepare and it was worth the wait (although they didn't take as long).\nThe Crispy Mushrooms were crunchy and pillowy with a spicy crunchy topping that ramped up the flavor.\nSweet & Sour Spareribs were so tender you almost didn't need to chew. And the pomegranate seeds were a nice break from the sweetness of the sauce.\nFennel Smoked Duck Rolls were on the specials menu and the star of the table. Delicate, crispy, tender. Served with sweet duck sauce for dipping. \nBlack Pepper Beef & Asparagus, plenty for two people. Just the right amount of spice for us lightweights to intense heat.\nAs we dined a steady stream of people came through the door, quickly filling the place. The staff remained attentive, quick and efficient and always friendly.\nWe will definitely be back!",
+        "language": "en"
+      },
+      "date": "2023-01-16T15:34:57Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9WRzUAm2SbDRHMOexw0bRg/o.jpg",
+          "caption": "Scallion Bubble Pancake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/a4Vx6YDnd7ZhuhYDFAkldQ/o.jpg",
+          "caption": "Pork Soup Dumplings"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7jbZiyYnWI69pMQbitcQhg/o.jpg",
+          "caption": "Crispy Mushrooms"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PiiOv3yJM2Uxh9Tjag1cgQ/o.jpg",
+          "caption": "Sweet & Sour Spareribs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PptMWcFsZAhXhI5E36Bjgw/o.jpg",
+          "caption": "Fennel Smoked Duck Rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/15okfzuuVWWvPa_nw6MoMg/o.jpg",
+          "caption": "Black Pepper Beef & Asparagus"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tina P.",
+        "user_id": "cqqztpOoUDt6bs93GVDcCw",
+        "link": "https://www.yelp.com/user_details?userid=cqqztpOoUDt6bs93GVDcCw",
+        "address": "Tampa, FL",
+        "friends": 27,
+        "photos": 33,
+        "reviews": 106
+      },
+      "comment": {
+        "text": "Went for lunching s week day. If you are looking for authentic Asian food, this is not the place. Food was on the bland side. Service was decent. Glad we tried it but won't be back.",
+        "language": "en"
+      },
+      "date": "2023-12-27T21:39:54Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Carmen A.",
+        "user_id": "SzRYmFBUKetY8fG2x7EwYA",
+        "link": "https://www.yelp.com/user_details?userid=SzRYmFBUKetY8fG2x7EwYA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bBqIZJ6Doo12pqXs9vvfOw/180s.jpg",
+        "address": "Austin, TX",
+        "friends": 241,
+        "photos": 729,
+        "reviews": 178,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I was craving for soup dumplings (xlb) when i was visiting from out of town. Unfortunately, there was no soup inside the dumplings (this is a crime lol) and the filling was under seasoned. The duck baos were great but not mind blowing. I hope they fix their xlbs as it seemed like they just needed some minor tweaks to their recipe.",
+        "language": "en"
+      },
+      "date": "2023-03-14T16:38:09Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ms. Ken Rell J.",
+        "user_id": "8yIH785E2FDO_mlR0Odxww",
+        "link": "https://www.yelp.com/user_details?userid=8yIH785E2FDO_mlR0Odxww",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "The food here is excellent the cocktails are great overall greatest Chinese food in Midtown my absolute go to! There open all day and stay open pretty late they would be great for catering events or having a Dinner time event in your own home! even corporate parties is definitely a win-win food service and ambiance is on point!",
+        "language": "en"
+      },
+      "date": "2024-01-11T13:44:50Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Dixine H.",
+        "user_id": "HBO7mj2pdYm35Qc1RiNCFQ",
+        "link": "https://www.yelp.com/user_details?userid=HBO7mj2pdYm35Qc1RiNCFQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pDOpq0wIJjhP7yK9oMqoEQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 224,
+        "photos": 227,
+        "reviews": 185,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This is an authentic Szechuan Chinese restaurant. I had the fried pig feet (good & spicy), fried pig intestines (good and spicy) & chicken in lemon sauce (nasty) with rice. The food had no gravy and they only had chili oil as an hot sauce. The bartender was very sweet!! I will come again but to try something else.",
+        "language": "en"
+      },
+      "date": "2023-01-20T14:11:00Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Stephanie S.",
+        "user_id": "wvPQdi1O9FyK2iBNEsBlXg",
+        "link": "https://www.yelp.com/user_details?userid=wvPQdi1O9FyK2iBNEsBlXg",
+        "address": "Glenrose Heights, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Phenomenal. Duck soup, scallion pancake, dumplings, omg!! And the service was also amazing",
+        "language": "en"
+      },
+      "date": "2024-01-13T11:39:05Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Steven K.",
+        "user_id": "9Sc7vPSSdC4-Kkm1uzB57w",
+        "link": "https://www.yelp.com/user_details?userid=9Sc7vPSSdC4-Kkm1uzB57w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/i0cXNRlld_gLt19gljHsQQ/180s.jpg",
+        "address": "Phoenix, AZ",
+        "friends": 215,
+        "photos": 510,
+        "reviews": 833,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Urban hai was a very pleasant surprise on our trip to atl. We ordered several dishes including dumplings, noodles, fried shrimp, and soup dumplings. The far majority of dishes were delicious and they were all very very spicy! They use a ton of Szechuan peppers in their food and it's seriously like numbing spicy. I would be caution eating the Szechuan dishes if you are not very good with spice. Only real complaint is that there basically was no soup in the soup dumplings which was unfortunate. Overall a really delicious restaurant though.",
+        "language": "en"
+      },
+      "date": "2023-02-23T19:48:57Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jeffery L.",
+        "user_id": "WGXC2yTyaqlMX633QRF-0g",
+        "link": "https://www.yelp.com/user_details?userid=WGXC2yTyaqlMX633QRF-0g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WlwmVGOLUUGcBco6gZQlXA/180s.jpg",
+        "address": "Coronado, CA",
+        "friends": 67,
+        "photos": 9,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Really good Szechuan new dishes. All the flavors and textures you crave. In town for business. Had the Peking dick buns and spicy braised crispy pigs feet. Great place.",
+        "language": "en"
+      },
+      "date": "2023-02-06T23:01:32Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nlmDmmoT6UoqrX5SYBLUjA/o.jpg",
+          "caption": "P9. / Spicy & Crispy Pig Feet"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jeth K.",
+        "user_id": "fzEOoDuykZVCiTZYxA_WVg",
+        "link": "https://www.yelp.com/user_details?userid=fzEOoDuykZVCiTZYxA_WVg",
+        "address": "Madrid, Spain",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "FOOD:\n9.5/10\nThe food was delicious! I had the Three Pepper Chicken and my friends had the Szechwan Kung Pao Tofu and the Szechwan Chili Chicken. Then we all split some Fried Mochi Rice Cakes.\n\nThree Pepper Chicken - 9/10: The food was delicious. I definitely want to try this with Beef next time because I heard good things. The sauce was very flavorful and I had enough for another meal even though I went in starving going in. \n\nSzechwan Kung Pao Tofu - 10/10: So good! The tofu was cooked so nicely (I am picky about this too) and I am not even vegetarian but I would definitely consider ordering this next. The sauce was also delicious. \n\nSzechwan Chili Chicken - 8/10: It was really yummy and sauce had flavor. I wish it was a little spicier, but other than that amazing! \n\nSERVICE:\n10/10\nStaff was so nice and fast with our food. We got seated very quickly too!\n\nAMBIANCE:\n10/10\nRight in midtown, but very peaceful and the seating makes you not feel too crowded. Very inviting place!",
+        "language": "en"
+      },
+      "date": "2023-07-28T14:38:22Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shelovesedgar ..",
+        "user_id": "Lxp47i3GnJF0V8tQN39dCg",
+        "link": "https://www.yelp.com/user_details?userid=Lxp47i3GnJF0V8tQN39dCg",
+        "address": "Pharr, TX",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Mongolian beef and & crispy spicy shrimp with fried rice excellent 10/10 for a first time experience very well priced and ambiance is nice.",
+        "language": "en"
+      },
+      "date": "2023-12-31T21:58:42Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Adam T.",
+        "user_id": "LXAK_qAtdwZ8tkDUabP6lA",
+        "link": "https://www.yelp.com/user_details?userid=LXAK_qAtdwZ8tkDUabP6lA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ytI2B4LEBd_Ke-LS7E0YHw/180s.jpg",
+        "address": "Phoenix, AZ",
+        "friends": 2,
+        "photos": 13,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "Urban Hai is the real deal in flavor, ambience and service. The waiter was so phenomenally meticulous with our order to make sure it was right for us. The food, from lamb, bao, beef, their version of wide rice noodles (but egg base) took me back to my time in China. This food is purely authentic and service with culinary flair is royal. I highly recommend this place and will return again because I wanted to try more than my stomach could fit.",
+        "language": "en"
+      },
+      "date": "2023-08-24T20:58:46Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kihmberly J.",
+        "user_id": "Aly1miTQvLaZCVMYlUsZPw",
+        "link": "https://www.yelp.com/user_details?userid=Aly1miTQvLaZCVMYlUsZPw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_uSUlInC1NjkbbUaudlGRA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 3,
+        "photos": 64,
+        "reviews": 35
+      },
+      "comment": {
+        "text": "Ny new fav Resturant!!! Always fresh and hot! Great service and cool menu items!!!! A must go!!!!",
+        "language": "en"
+      },
+      "date": "2023-09-12T02:32:35Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ruben G.",
+        "user_id": "DaCRybINFT37855_j4vXbA",
+        "link": "https://www.yelp.com/user_details?userid=DaCRybINFT37855_j4vXbA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KlnfEqhqMib7704GnbXlZg/180s.jpg",
+        "address": "Corona, CA",
+        "friends": 14,
+        "photos": 6,
+        "reviews": 30
+      },
+      "comment": {
+        "text": "Loved the Singapore noodles. Food was excellent and customer service was great.  I would come back here again.",
+        "language": "en"
+      },
+      "date": "2023-01-29T19:32:01Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IRTVGK1fwwHqJFCdPUhE5Q/o.jpg",
+          "caption": "Scallion pancake.  Very good but I suggest you eat it when it comes."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kim D.",
+        "user_id": "UYcRyIaUMihQim1-jl4HCg",
+        "link": "https://www.yelp.com/user_details?userid=UYcRyIaUMihQim1-jl4HCg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pPYxufOg7GRlyj8z01LxPA/180s.jpg",
+        "address": "Pasadena, Los Angeles, CA",
+        "friends": 20,
+        "photos": 4,
+        "reviews": 22
+      },
+      "comment": {
+        "text": "Food was delicious. We came for the soup dumplings and they did not disappoint. We were impressed with their bubble pancake.",
+        "language": "en"
+      },
+      "date": "2023-05-29T21:36:14Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sophia J.",
+        "user_id": "0cZM77Xq7MCrHYcPdrLeeA",
+        "link": "https://www.yelp.com/user_details?userid=0cZM77Xq7MCrHYcPdrLeeA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WxyDW8z8cpUuNOcblbdK3g/180s.jpg",
+        "address": "Macon, GA",
+        "friends": 25,
+        "photos": 636,
+        "reviews": 180
+      },
+      "comment": {
+        "text": "We have been searching and searching and it has finally been delivered! Amazing Chinese food in Atlanta!! Hubby and I did a lunch date and it was da bomb!!! spicy & crispy pig feet, xiao long pork soup dumplings and the winner of all Peking roast duck!! Don't walk run, you won't be disappointed!",
+        "language": "en"
+      },
+      "date": "2023-01-22T18:49:03Z",
+      "rating": 5,
+      "tags": [
+        "9 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kQzBT_FCyvwYB9VTUK7Qgw/o.jpg",
+          "caption": "R1. Peking Roast Duck Whole/Half"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/liDujUfeEFPgBKONwO6OZg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/W96w9GhxPNZYKmRpNQs1Jg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tXKf6XRJ6NjEN1ib43MosQ/o.jpg",
+          "caption": "P9. / Spicy & Crispy Pig Feet"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ylfZ-5q4kJFJPX9AGrtukQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gmJ0wYxxAS6kuoBC1OeJfA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hq6itTK1aCzgVYb91pJCRw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JVGtJDPScDJJgWKux72lVw/o.jpg",
+          "caption": "R1. Peking Roast Duck Whole/Half"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jffGY4ePrX0j-4OeOm7Zng/o.jpg",
+          "caption": "D4. () / Xiao Long Bao Pork Soup Dumpling (6)"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ayden M.",
+        "user_id": "qVxStWdIAmKitOpP9e5-GQ",
+        "link": "https://www.yelp.com/user_details?userid=qVxStWdIAmKitOpP9e5-GQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/86I7t4IejSRSW4gI6-OwNA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 111,
+        "reviews": 36
+      },
+      "comment": {
+        "text": "Always love coming to Urban Hai! Got a new favorite this time, the soup dumplings. Can't go wrong with anything on the menu.",
+        "language": "en"
+      },
+      "date": "2023-04-11T02:33:32Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gkTZt4E_lEn4xcK0s-7xMg/o.jpg",
+          "caption": "D4. () / Xiao Long Bao Pork Soup Dumpling (6)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pd3FiWaG0jm69g5TNFYpow/o.jpg",
+          "caption": "P5. / Bang Bang Shrimp"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Maria F.",
+        "user_id": "1z2GuRSrTmjhlR1XxxPJcQ",
+        "link": "https://www.yelp.com/user_details?userid=1z2GuRSrTmjhlR1XxxPJcQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yBrNYWdlPdEDxz1kkb-LJQ/180s.jpg",
+        "address": "Kernersville, NC",
+        "friends": 1,
+        "photos": 2,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "We had a great experience at Urban Hai this Sunday evening.  Our server was enthusiastic, friendly and helpful.  The menu is maybe a bit more adventurous than the average Chinese joint, and all the better for it!  We kept to the small plates, including the Spicy and crispy pigs feet, the scallion bubble pancake and a Chef's Special beef tendon.  We also had the soup dumplings which were excellent.  Crispy fresh milk for dessert was super sweet and fun.  The prices are really reasonable, maybe even surprisingly so.  We will definitely go back the next time we are in Atlanta.",
+        "language": "en"
+      },
+      "date": "2023-09-05T00:12:43Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jamaya P.",
+        "user_id": "O0shRkfNn6yt6cOKZdHZTQ",
+        "link": "https://www.yelp.com/user_details?userid=O0shRkfNn6yt6cOKZdHZTQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LHjMC9t4SbRX9ZUD0MB6ow/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 389,
+        "photos": 201,
+        "reviews": 87
+      },
+      "comment": {
+        "text": "The duck bao buns are DELICIOUS!!! I'm definitely coming back for those. I took my food to go but the inside was clean and spacious. The order took 10 minutes and I ordered 3 things. The duck bao buns, the garlic cucumbers and the salt and pepper calamari. The calamari was a 5 or 6 out of 10. I also took it to go so I bet it's better fresh.The cucumbers were very refreshing but needs some more flavor. I'll definitely come back and try some new things. Also it is in downtown Atlanta so you have to pay for downtown Atlanta parking if you are eating it there (unless you walked/are in walking distance). I didn't pay for parking because I live life on the edge.",
+        "language": "en"
+      },
+      "date": "2023-05-25T01:45:58Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Maysam N.",
+        "user_id": "ulUFO5Jd30qLz8XHqxScMg",
+        "link": "https://www.yelp.com/user_details?userid=ulUFO5Jd30qLz8XHqxScMg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xUtYaGdaxmwwwxdRhXDYBA/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 0,
+        "photos": 28,
+        "reviews": 46
+      },
+      "comment": {
+        "text": "We ordered steamed vegetable dumplings, shrimp lo mein, and Szechuan chili (with beef and rice). Whenever I go to a new place I order a conservative option and something new. The safe option for Urban Hai was the lo mein and the dumplings. The lo mein was very good and recommend it, but the dumplings were very ordinary, probably not order them in my next visit. The Szechuan chili was beyond good, and if I go back to this restaurant which I will, this will be my first choice. I probably visit there for the roasted duck. The service was great, very polite staff. The environment was clean and organized, it is a great place for family or a business lunch.",
+        "language": "en"
+      },
+      "date": "2023-05-19T21:01:46Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Adeena S.",
+        "user_id": "ML8M8BBpq8z5QmIHT4D2bg",
+        "link": "https://www.yelp.com/user_details?userid=ML8M8BBpq8z5QmIHT4D2bg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lT7HarZdyFTTBRC95KBwEg/180s.jpg",
+        "address": "Covina, CA",
+        "friends": 155,
+        "photos": 28,
+        "reviews": 49
+      },
+      "comment": {
+        "text": "THE FOOD WAS AMAZINGGGG! We went a little later into the night and everything was so fresh and flavorful! We even tried their Milky cheese dessert!",
+        "language": "en"
+      },
+      "date": "2023-08-16T04:57:52Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Camille D.",
+        "user_id": "5R4AziLrK-RteO7s15iiuQ",
+        "link": "https://www.yelp.com/user_details?userid=5R4AziLrK-RteO7s15iiuQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/y0TyD2NUAqNOOMtSNFAm_w/180s.jpg",
+        "address": "San Francisco, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "The food has NEVER disappointed with the food or service here. \nMy kids absolutely love it here. I work around the corner on 11th street and eat here at lease 3 times a week.. the lunch menu items are a good portion and reasonable priced ( especially for the area) would highly recommend.",
+        "language": "en"
+      },
+      "date": "2023-03-07T18:46:33Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "James S.",
+        "user_id": "a3l25kq6Ku2thta0XsmXqw",
+        "link": "https://www.yelp.com/user_details?userid=a3l25kq6Ku2thta0XsmXqw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4aI9F7xc9RsYv8Z4YBIgZw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 7,
+        "photos": 46,
+        "reviews": 130
+      },
+      "comment": {
+        "text": "Food is bland, with a lot of spice. This place is super overpriced ! I don't think I will ever return! Nothing special here.",
+        "language": "en"
+      },
+      "date": "2023-06-22T01:39:45Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Derek W.",
+        "user_id": "OHApxUkwUMgiQgmF-_P6CQ",
+        "link": "https://www.yelp.com/user_details?userid=OHApxUkwUMgiQgmF-_P6CQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bOBasZWpp2444cf-2WiEmw/180s.jpg",
+        "address": "Glenview, IL",
+        "friends": 31,
+        "photos": 3,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Aside from quality food, there is one thing that seperate a great Chinese food from poor... and that is coming out piping hot. Urban Hai delivered unbelievable hot food. Best orange chicken I've had in ages with all around great other food - chicken fried rice, dumplings and Mongolian beef. Highly recommend for Chinese in Atlanta, not just Midtown!",
+        "language": "en"
+      },
+      "date": "2022-10-16T12:48:52Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/c5yxTKocGqF_k5rxLJtYwg/o.jpg",
+          "caption": "Mongolian beef, orange chicken, chicken fried rice"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "David O.",
+        "user_id": "IbRLCZ2PWflMcUCtv7USwA",
+        "link": "https://www.yelp.com/user_details?userid=IbRLCZ2PWflMcUCtv7USwA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/94Jt8V0JLlGj6gX3tMlriw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 447,
+        "photos": 78,
+        "reviews": 77
+      },
+      "comment": {
+        "text": "This is long overdue. Finally, a fantastic Chinese restaurant in midtown. The food was amazing, reasonably priced, and service was great. As per usual in the City of Atlanta, they are still waiting on their liquor license.",
+        "language": "en"
+      },
+      "date": "2022-10-17T01:41:14Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-7qrzTQuJFjCbSmtURNGDA/o.jpg",
+          "caption": "Sesame Chicken"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/v2Jmeki98938hrTkTa6rWA/o.jpg",
+          "caption": "Dining Room"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sHktVY0tz4dg74uMi0l68A/o.jpg",
+          "caption": "Wonton Soup"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5F9V-LHuhjiZ8nJdDEFm0g/o.jpg",
+          "caption": "Spicy Beef Tendon"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sarah D.",
+        "user_id": "0aJUcEGl5ay6fJ2kF4dbYA",
+        "link": "https://www.yelp.com/user_details?userid=0aJUcEGl5ay6fJ2kF4dbYA",
+        "address": "CA, CA",
+        "friends": 0,
+        "photos": 6,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "I've heard horrible thing about Asian food in Atlanta and this actually wasn't too bad\nIf you want authentic Chinese food this is where you can get it! It's not mind blowing but it's pretty good food.\nService was a little slow they served us our main dishes before the appetizers, which came much later even though we ordered them first. Not a huge problem, the waiter explained that the kitchen was really busy so it was understandable.\nAmbiance is good it's just like a normal Chinese restaurant but smaller. Good for large groups of people. Heads up for non Asians, you are supposed to order food and share it with the people you are with! That's the fun part!",
+        "language": "en"
+      },
+      "date": "2023-08-14T08:35:05Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Gina W.",
+        "user_id": "lyxwMz8IifAHVy_zyoz9OA",
+        "link": "https://www.yelp.com/user_details?userid=lyxwMz8IifAHVy_zyoz9OA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/F3juakwzxUyfIw8-y0xXAQ/180s.jpg",
+        "address": "Steilacoom, WA",
+        "friends": 24,
+        "photos": 20,
+        "reviews": 29
+      },
+      "comment": {
+        "text": "The food is SOOO good. Cute atmosphere and the service was great. We just kept ordering more and more food.",
+        "language": "en"
+      },
+      "date": "2023-05-29T14:53:56Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "James M.",
+        "user_id": "UrCRVszaxr0v_HW28zla9w",
+        "link": "https://www.yelp.com/user_details?userid=UrCRVszaxr0v_HW28zla9w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/r7-M-jAi69yhzUZlfLzcWg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 6,
+        "reviews": 27
+      },
+      "comment": {
+        "text": "Tried this place for the first time and I think it's now my favorite Szechuan restaurant in the city. Everything was well cook and seasoned and the service was fast. The space is clean and modern looking which fits well in the neighborhood. Grandma noodles, scallion pancake and sweet and sour ribs are a must try!",
+        "language": "en"
+      },
+      "date": "2022-12-05T21:59:52Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SuFhaeGRvy4JYGeReCeS6A/o.jpg",
+          "caption": "Soup dumplings"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9UjosnGpgbmC6FQjFUztaA/o.jpg",
+          "caption": "D6. / Grandma's Noodles"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/c4LkszrwkTCi0AkLiLARuw/o.jpg",
+          "caption": "P14. / Dry Fried Cauliflower"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xw5sTxF8_bMcXiS_YlhLXg/o.jpg",
+          "caption": "P16. / Sweet & Sour Spare Rib"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Bridget Y.",
+        "user_id": "cZmIEEADbuIusxTqgRC3zA",
+        "link": "https://www.yelp.com/user_details?userid=cZmIEEADbuIusxTqgRC3zA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/iYY7cYoBE5cN_-X7IJrFSg/180s.jpg",
+        "address": "San Francisco, CA",
+        "friends": 0,
+        "photos": 9,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "I'm in town for a week and found this place from yelp reviews. But I'm disappointed with both the taste and quality of the food. I had noodle with hot sauce, tofu and eggplant. Both taste and presentation are disappointing. Little greasy.",
+        "language": "en"
+      },
+      "date": "2023-07-29T03:18:54Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brandon T.",
+        "user_id": "gn1I0m-CnRaUaK65FZQ5BQ",
+        "link": "https://www.yelp.com/user_details?userid=gn1I0m-CnRaUaK65FZQ5BQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PFY7gX6hufzSC1__CfwiXQ/180s.jpg",
+        "address": "New Orleans, LA",
+        "friends": 5,
+        "photos": 6,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Some of the best and most authentic quick Chinese food you can get. Really great dumplings and fried rice. Lo mien was also really good. Fair prices and quick service very attentive",
+        "language": "en"
+      },
+      "date": "2023-04-30T16:39:54Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ted B.",
+        "user_id": "uwaJiXIDlifPnX4qTc2n_Q",
+        "link": "https://www.yelp.com/user_details?userid=uwaJiXIDlifPnX4qTc2n_Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kK-UZskG6QZkOzEeH3JV4g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 34,
+        "photos": 5,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Finally -- really good Chinese food in Midtown! Just visited for lunch and the food was great! I had the Orange Chicken lunch special; reasonably priced, full of flavor and very spicy -- the Hot & Sour Soup was excellent! It was also nice to see the very authentic specials.",
+        "language": "en"
+      },
+      "date": "2023-01-02T20:28:40Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GzgfxNp421CwvlRlePZRAw/o.jpg",
+          "caption": "Orange Chicken lunch special."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/89shQZ8AfVhKfyGktElCUw/o.jpg",
+          "caption": "Some very authentic specials -- glad they're offered but not sure I'm daring enough to try them?"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Michael B.",
+        "user_id": "3-FssNA2GxwBxFQHlkhumw",
+        "link": "https://www.yelp.com/user_details?userid=3-FssNA2GxwBxFQHlkhumw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yizcxyGgV3ZE3vh6nAfdyQ/180s.jpg",
+        "address": "Roswell, GA",
+        "friends": 1,
+        "photos": 14,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "Excellent food. Four of us are our way through the Apps and Small plates sections\nOf the menu. Delicious.",
+        "language": "en"
+      },
+      "date": "2022-10-17T00:23:23Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Fred M.",
+        "user_id": "82rSuk0MbljCUxOqkHevlw",
+        "link": "https://www.yelp.com/user_details?userid=82rSuk0MbljCUxOqkHevlw",
+        "address": "San Francisco, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "My complaint is that I live in NJ and can't eat here all the time. I travel frequently, and dine out sometimes more than I care to. This was by far the best meal I have had in quite some time. We had a wide variety of things, snow peas, crispy pork belly, salt and pepper calamari, pigs foot soup. soup dumplings, and a few other items off the more challenging specials menu. Evey item was outstanding. I will go out of my way to travel here just to go to this gem.",
+        "language": "en"
+      },
+      "date": "2023-11-01T19:16:15Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kevin D.",
+        "user_id": "n_BgKjZOE5Lae2bcJ1m_nw",
+        "link": "https://www.yelp.com/user_details?userid=n_BgKjZOE5Lae2bcJ1m_nw",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Everyone was very nice, Ordered the Mai Tai but no garnish was disappointing. The food was very good, I had the Orange Chicken, and a few other dishes with my friends. Its weird but I always believe a drink comes with a garnish, my own personal preference.",
+        "language": "en"
+      },
+      "date": "2023-08-20T22:52:01Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Fady E.",
+        "user_id": "qyQSnQhOQPiemjMcsBpNbA",
+        "link": "https://www.yelp.com/user_details?userid=qyQSnQhOQPiemjMcsBpNbA",
+        "address": "IL, IL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "I was very excited to try this place because of the great reviews.\n\nFood: 2.5/5\n\nWe ordered the Dan Dan noodles, and pineapple shrimp bowl for appetizers and the Mongolian beef and Kung Pow chicken.  \n\nThe Dan Dan noodles was very very salty.  It's as though they accidentally spilled the salt in there and just decided to mix it up.  It seemed to have potential but we couldn't get over the salt.  It was so salty that the water tasted salty and we ordered a new water because we didn't realize the water was fine but the dish left everything tasting salty after.\n\nThe pineapple shrimp was good. It's served cold and we found it refreshing and tasty.\n\n\nService 2/5\n\nAfter waiting for an unusually long time for our main dishes to come out the server asked if we wanted anything else.  We said, no just the dishes.  She asked if we placed our order with someone else.  We said, no we did that with her and she realized she forgot to ring our dishes up.  It wasn't busy at all there so I'm not sure what went wrong.  We decided to just cancel it and go elsewhere.\n\nAtmosphere 2.5/5\n\nThe place has a mixed vibe.  It looks like it's trying to be elevated and chic but has very dirty and sticky menus and they don't bus the tables as you go despite servers walking past your tables.  The service and cleanliness really detract from the attempt to be a bit upscale.",
+        "language": "en"
+      },
+      "date": "2023-05-28T18:25:08Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Adam B.",
+        "user_id": "NxTB4w1TTDbOe9fsgaVQ1A",
+        "link": "https://www.yelp.com/user_details?userid=NxTB4w1TTDbOe9fsgaVQ1A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zLc1CmgmXG7hxkPu6cKkOA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 54,
+        "photos": 4,
+        "reviews": 198,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "You'll find most of the good ethnic cuisine (that term seems dated) in Atlanta on the north side of town and for inspired Chinese food, Buford Highway would be the epicenter or even further afield in suburbs like Duluth. Recently, quality Chinese food has made its way closer to the center of Atlanta. This new spot in Midtown is in a complex with a bunch of other restaurants and convenient validated parking in the building. I didn't mind driving to the other Hai in Decatur, but this one is a little nicer looking and more central, though I believe the menu is about the same. We always order Grandma's Noodles, which comes with a delectable vinegar and hot chili sauce. I would also recommend the Dragon Eggplant in Spicy Garlic Sauce, Stir Fried Bok Choy with Tofu Skin, Mapo Tofu and Crispy Mushroom. The cocktails are decent and not something that's usually available alongside Chinese food. This mix of Szechuan and classic Chinese American dishes in a restaurant that's not sad looking is going to be a success in Midtown.",
+        "language": "en"
+      },
+      "date": "2023-01-09T14:18:29Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Darvi H.",
+        "user_id": "9zYcG1kMUXx-GZV_PcjnVA",
+        "link": "https://www.yelp.com/user_details?userid=9zYcG1kMUXx-GZV_PcjnVA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/K6L_RgoR-FYFOLdPsmOCeQ/180s.jpg",
+        "address": "SoMa, San Francisco, CA",
+        "friends": 8,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "I just had the Mongolian beef Friday May 12th, 2023. It was lacking flavor, the meat itself had a lot of black particles on it like the grill wasn't clean. Absolutely no taste couldn't really say it was Mongolian beef. It was more like the ingredientsto make the dish without the flavor. Will not be going back",
+        "language": "en"
+      },
+      "date": "2023-05-12T18:30:34Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Camille T.",
+        "user_id": "1NGglNBKNGdGNhu3ZRNJWw",
+        "link": "https://www.yelp.com/user_details?userid=1NGglNBKNGdGNhu3ZRNJWw",
+        "address": "Augusta, GA",
+        "friends": 0,
+        "photos": 7,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Authentic Chinese food! Love the service. It was amazing! The staff was very friendly and attentive. Great experience!",
+        "language": "en"
+      },
+      "date": "2022-12-30T21:47:37Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ag1Sw3X-2alOXvW5fq17Qg/o.jpg",
+          "caption": "Scallion pancake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/O0eHCKPEOPcjLD72kr64_A/o.jpg",
+          "caption": "Beef and M3. // / Szechuan Chili Beef/Chicken/Shrimp"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jerry S.",
+        "user_id": "W3vpVJw8E-WOQEtMX4swcQ",
+        "link": "https://www.yelp.com/user_details?userid=W3vpVJw8E-WOQEtMX4swcQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZUsKVDVx_esYhRQByrozcg/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 41,
+        "photos": 0,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "This is the high quality Chinese restaurant that I've been waiting for years to arrive in Midtown.  The flavor and quality of the meal was amazing.  We ordered 4 small plates and they were all incredible.  This is our new favorite.  We will definitely be returning for more",
+        "language": "en"
+      },
+      "date": "2023-03-29T23:23:39Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kitty K.",
+        "user_id": "VF5RfTH-U4YJEucV0fYuBw",
+        "link": "https://www.yelp.com/user_details?userid=VF5RfTH-U4YJEucV0fYuBw",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "Food was subpar, nothing matching the reviews.Prices were high and food was forgettable! Can't remember what dish I had.",
+        "language": "en"
+      },
+      "date": "2023-10-03T22:57:56Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kristen M.",
+        "user_id": "Rn9xnVy1cAo50vmiOOszdg",
+        "link": "https://www.yelp.com/user_details?userid=Rn9xnVy1cAo50vmiOOszdg",
+        "address": "Roswell, GA",
+        "friends": 0,
+        "photos": 15,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Best Chinese I've had in a really long time! Everything was soooo yummy. The green beans were very spicy, they were still really good but my least favorite. Service was great.",
+        "language": "en"
+      },
+      "date": "2023-04-14T23:17:06Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YMg3E_aVrzBAGBNUWaRNVQ/o.jpg",
+          "caption": "green beans"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LqJbYTGfZovGNaNe3VVEwA/o.jpg",
+          "caption": "D7. Steamed Pork Dumplings (7)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/omoHJXH-aV9t7tARpg-Ulg/o.jpg",
+          "caption": "P4. / Cumin Lamb"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/saNeXUFmTkXwkljLl_eKfg/o.jpg",
+          "caption": "Half Duck"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UC_LE0N5dXgt_RNCdGyauQ/o.jpg",
+          "caption": "S4. / Duck Soup"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Sqqk9owNoiengTuQPJeSrw/o.jpg",
+          "caption": "Fried P18. / Crispy Mushroom"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Liam M.",
+        "user_id": "LcPJ9kSeHSc_j6WgnwxDJw",
+        "link": "https://www.yelp.com/user_details?userid=LcPJ9kSeHSc_j6WgnwxDJw",
+        "address": "Santa Cruz, CA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "Will keep this simple. Flavorful broth, perfectly spicy, satisfying and filling, all for $15 plus tax and tip.",
+        "language": "en"
+      },
+      "date": "2023-02-16T18:17:18Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/I6HwhkkbnbbwATMtRCHq1Q/o.jpg",
+          "caption": "Hot and numbing flounder with sweet & sour soup and hot tea"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jing S.",
+        "user_id": "tqkZU36vnh4xMwrjUDYnmw",
+        "link": "https://www.yelp.com/user_details?userid=tqkZU36vnh4xMwrjUDYnmw",
+        "address": "Boca Raton, FL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Please be careful when you eat at this restaurant. They change your tip amour and steal your money. I realized this situation when I tried to reimburse this purchase with my company card. This is not acceptable.",
+        "language": "en"
+      },
+      "date": "2023-08-18T21:35:11Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=y9F-Aso24hNzbUvZNiv1MQ&start=120"
+  }
+}

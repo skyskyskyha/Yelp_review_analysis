@@ -1,0 +1,1330 @@
+{
+  "search_metadata": {
+    "id": "65f0a269660dbdd9244b8ebc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f0a269660dbdd9244b8ebc.json",
+    "created_at": "2024-03-12 18:43:53 UTC",
+    "processed_at": "2024-03-12 18:43:53 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/3qySFB1GVdOu-4oKJsXlXg?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a269660dbdd9244b8ebc.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a269660dbdd9244b8ebc.prettify",
+    "total_time_taken": 5.82
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 170,
+    "num": "50",
+    "place_id": "3qySFB1GVdOu-4oKJsXlXg"
+  },
+  "search_information": {
+    "total_results": 454,
+    "business": "Sufi's Kitchen"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 454
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Nat D.",
+        "user_id": "PVxzurfuHKBq_UOb77Vz2Q",
+        "link": "https://www.yelp.com/user_details?userid=PVxzurfuHKBq_UOb77Vz2Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7LxyEmKvJ6Q0el5ZmmBEuQ/180s.jpg",
+        "address": "Minneapolis, MN",
+        "friends": 7,
+        "photos": 39,
+        "reviews": 59
+      },
+      "comment": {
+        "text": "The food and service were excellent! The waitress was friendly and the manager made sure we were taken care of. He greeted everyone and made a genuine effort to speak to customers. The waitress was attentive and was able to bring everything we asked for, including the tahdig. The atmosphere was so warm and welcoming that we felt like we were right at home. There was a santoor player, which was a nice touch. Traditional music to match traditional Persian cuisine. In all honesty, I was reluctant to bring a Persian person to a Persian restaurant because nothing tastes like home, but he also enjoyed the food here and loved the Kashk o Bademjoon and Kabob Soltani. This restaurant is definitely on our list of restaurants to re-visit.",
+        "language": "en"
+      },
+      "date": "2018-02-19T02:07:20Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Augusto R.",
+        "user_id": "v_jwnEUTzQp3XZdOTQ0VDQ",
+        "link": "https://www.yelp.com/user_details?userid=v_jwnEUTzQp3XZdOTQ0VDQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FH1SFqd9Qizp1U7-CP2eeQ/180s.jpg",
+        "address": "Birmingham, AL",
+        "friends": 36,
+        "photos": 2109,
+        "reviews": 135
+      },
+      "comment": {
+        "text": "Every time I come to Atlanta I make every possible excuse to stop here... Great place!!!",
+        "language": "en"
+      },
+      "date": "2016-01-09T21:32:44Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Nakia A.",
+        "user_id": "dZ5_XC266_4L-qYkbYJiHA",
+        "link": "https://www.yelp.com/user_details?userid=dZ5_XC266_4L-qYkbYJiHA",
+        "address": "Fairburn, GA",
+        "friends": 0,
+        "photos": 7,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "Great food. Fast and friendly service! The sea bass was to die for...I'll be back for second'n",
+        "language": "en"
+      },
+      "date": "2020-09-02T02:54:21Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Bill C.",
+        "user_id": "CMztvCRdC9Tm8uAV4Dk-FA",
+        "link": "https://www.yelp.com/user_details?userid=CMztvCRdC9Tm8uAV4Dk-FA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LVj1PttliS6SUBm1P1NvUQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 23
+      },
+      "comment": {
+        "text": "This place has an amazing ambiance and delicious food. The wait staff are polite and attentive and if you are lucky they have the most talented guitarist playing in the evening. The food is excellent and authentic. Definitely coming back soon!",
+        "language": "en"
+      },
+      "date": "2017-12-03T23:45:34Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Evelyn A.",
+        "user_id": "WzpGzo8qVlgTjALLt4zNkw",
+        "link": "https://www.yelp.com/user_details?userid=WzpGzo8qVlgTjALLt4zNkw",
+        "address": "College Park, GA",
+        "friends": 60,
+        "photos": 27,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Everything tasted great, good service, hot teas are refillable, no military discount. Parking is on the back on a steep hill. Not leveled.",
+        "language": "en"
+      },
+      "date": "2019-02-11T02:58:19Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/s-TViJdFCYP4ZYEie0BmhQ/o.jpg",
+          "caption": "Baklava"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/b8Q0N05BSBykuVtntLRlfw/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/btJvdgMDX2MyQRFTrsJFZQ/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ymjSTS9q1QhzZP7EpMM4Mw/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZCQmRYnEgcOydONCkkKBFQ/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zuXEzL3fEXyXxos0S4F10A/o.jpg",
+          "caption": "Adas, basmati regular, and Baghala Polo"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NZjHU1SAj0ByT4Ed0dIVuA/o.jpg",
+          "caption": "Soltani Kabob"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8AHu1ihynz2_0EciVn5_4w/o.jpg",
+          "caption": "Inside"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fVcmibSo37dONUBfihM_Rw/o.jpg",
+          "caption": "Iranian tea"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6zeohuEtbSDYxC_tbn6OWA/o.jpg",
+          "caption": "Mirza Ghasemi"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Michelle M.",
+        "user_id": "zE2P6j-7--qbslIl3VM8uQ",
+        "link": "https://www.yelp.com/user_details?userid=zE2P6j-7--qbslIl3VM8uQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HF0mqZ2mGN-Vzqwr9n1MYw/180s.jpg",
+        "address": "Glen Allen, VA",
+        "friends": 1,
+        "photos": 8,
+        "reviews": 109
+      },
+      "comment": {
+        "text": "Very good food. Had the soltani and the kubideh was too fatty but everything else we had was delicious. The dolmeh was amazing. Kashke bademjoon was delicious. And on top of good food we listened to Mr. Andarifard play the Santour beautifully. And if that isn't enough Miss Rue was so amazing. She was so sweet and professional. Thank you Sufi Restaurant!!!!",
+        "language": "en"
+      },
+      "date": "2018-02-10T02:26:22Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "H S.",
+        "user_id": "D7aXl5gm-RJtQnc1V1Ct1A",
+        "link": "https://www.yelp.com/user_details?userid=D7aXl5gm-RJtQnc1V1Ct1A",
+        "address": "Barrington, IL",
+        "friends": 2,
+        "photos": 21,
+        "reviews": 121
+      },
+      "comment": {
+        "text": "Excellent, authentic Persian food. The Kebobs are simply outstanding. Had the soltani beef, which is a skewer each of barg(fillet) and koubideh (ground beef) - simply amazing!!!\n\nGreat atmosphere, live Persian music but not loud. \n\nLoved this place. Think we will go back again tommorow.",
+        "language": "en"
+      },
+      "date": "2018-02-17T01:03:21Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Avery H.",
+        "user_id": "LTcLAMWKBkxS8i9WVZbm4g",
+        "link": "https://www.yelp.com/user_details?userid=LTcLAMWKBkxS8i9WVZbm4g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HRUF39t7k1YSyCr8TwnOkQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 242,
+        "photos": 17,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "This is my first time at this restaurant and I was rather impressed.  Here on business instead of pleasure and the staff was very friendly and accommodating.  I do not usually select Mediterranean cuisine and many of the items were not known to me, but my companions and the waitstaff were very helpful.  The meal itself was delicious and the service very good and I  probably will return for a social event.",
+        "language": "en"
+      },
+      "date": "2019-04-02T23:36:31Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alex T.",
+        "user_id": "QyFLaq77mKqENAOw_gyK1A",
+        "link": "https://www.yelp.com/user_details?userid=QyFLaq77mKqENAOw_gyK1A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xgagj4m-2-bogbh-97mW7g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 131,
+        "photos": 5,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Two adult dinners and one kid meal 80 dollars for take out. Pricey but understandable for the location. The lamb kebab just wasn't not tasty and was on the greasy side. The filet shish-kabobs were very good. The accompanying grilled vegetables also a bit greasy.",
+        "language": "en"
+      },
+      "date": "2018-04-16T21:33:25Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jason G.",
+        "user_id": "X0SLlcio1D4B_Sr-oTKLRQ",
+        "link": "https://www.yelp.com/user_details?userid=X0SLlcio1D4B_Sr-oTKLRQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Vs_tBphRSj4GTzaxfEmsDg/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 44,
+        "photos": 3,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "My wife and I love this place. The owner and the manager have great outgoing personalities. The food is great, the environment is comfortable, and we always feel welcome. The service is attentive and it simply feels like home. I love the ambiance and the fire burning in the brick oven as soon I walk in. I mean, it just makes me happy. I love the music, I love the food. The flavors really stand out and the spices literally enhance the purest of ingredients. We've been here many times, and will be here many more. The only downside is parking. Its literally a \"downside\". But the parking situation is totally worth dealing with for the Soltani Kabob.",
+        "language": "en"
+      },
+      "date": "2019-01-30T16:19:19Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Atiyah T.",
+        "user_id": "pKi9pUvKGK2pwKZGsZroeg",
+        "link": "https://www.yelp.com/user_details?userid=pKi9pUvKGK2pwKZGsZroeg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nO_hGMOcm2dRvloIUESDXg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 146,
+        "photos": 228,
+        "reviews": 138
+      },
+      "comment": {
+        "text": "The lamb shank was to die for, the lamb just fell of the bone! Yum and so tender. \n\nOh and the grape leaves were delicious! Never had them hot, but it was delicious.",
+        "language": "en"
+      },
+      "date": "2011-11-21T16:30:12Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Melvin S.",
+        "user_id": "2cIBNLTT42TzTq50X2SubA",
+        "link": "https://www.yelp.com/user_details?userid=2cIBNLTT42TzTq50X2SubA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-2tiFTL30ZNHN2_3_HA4HA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 50,
+        "photos": 194,
+        "reviews": 82
+      },
+      "comment": {
+        "text": "Recently my wife and I were in the area for an appointment and were looking for ethnic food nearby without having to drive to Buford Hwy. We came across this gem, called Sufi's. From the outside of the restaurant it is rather non-descript with a sign leading patrons to the back with ample parking. Be warned that if it is raining or you are a senior citizen you may have a hard time climbing the parking lot as it is on a hill of sorts. Once inside the restaurant you will be greeted with modern decor and if you choose to sit on the patio there is a water feature to help destress. The menu has all the typical persian items you would expect to find including hummus, falafel, kabobs, wraps, etc. As we were here for lunch we elected to try the falafel balls with tahini sauce, Lamb wrap, and the ground beef skewers with saffron rice. \n     Prior to the meal we were given complimentary condiments including mint, basil, radish, walnuts, butter, soft cheese, flat bread with spices, all of which were excellent. Im sure i didn't know how to pair the condiments together, but they were all fresh and delicious. Within less than 20 minutes my lamb wrap was served with pita bread, tomatoes, purple onions, ground lamb spiced with mint and a side salad. The lamb was succulent, fresh, spiced well and generous portions. I was only able to eat half the wrap and took the second half home for dinner. \n      My wife had the ground beef skewers with saffron rice. Again the portion sizes were generous and the meat seasoned well. The saffron rice truthfully was a bit disappointing and did not have much flavor, but was cooked perfectly and not sticky. \n     Regarding the price I would say it is fairly priced for the portion size and quality of ingredients. For two people with tip our meal was 39 dollars.  We would recommend this establishment for anyone who hasn't been yet. I would suggest going around lunch if on a budget.",
+        "language": "en"
+      },
+      "date": "2017-11-07T01:50:40Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Mojgan F.",
+        "user_id": "L6NhOjcpUWTizzna-XMvZw",
+        "link": "https://www.yelp.com/user_details?userid=L6NhOjcpUWTizzna-XMvZw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MCsn4YBoi7P_CSQxDfNcjQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "The food was much better last time I was there . Too salty. The table little wiggled and that was annoying . I hope they fix it . But totally I had Ok lunch :) \nEverybody was very nice and  respectful . \nGood job Sufy's",
+        "language": "en"
+      },
+      "date": "2016-07-18T02:02:58Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Amanda H.",
+        "user_id": "mrytXo_X_AIwLgl7WigDlw",
+        "link": "https://www.yelp.com/user_details?userid=mrytXo_X_AIwLgl7WigDlw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6MSUB3NMqDc6XsS-I8_UiA/180s.jpg",
+        "address": "Georgia Tech, Atlanta, GA",
+        "friends": 111,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Love this place! Been a couple times and it's always been great. Loved the saffron ice cream, along with the beef and ground beef kabobs. Bread is always warm and delicious",
+        "language": "en"
+      },
+      "date": "2019-07-04T20:34:50Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Pat C.",
+        "user_id": "kVO_9nBN_BCB6Ug3Tq3Msg",
+        "link": "https://www.yelp.com/user_details?userid=kVO_9nBN_BCB6Ug3Tq3Msg",
+        "address": "Sugar Hill, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "We were in Atlanta for a Dr appointment & our son in law recommended Sufi's. I had decided on the Fesenjen (chicken stew w/ground walnuts & pomegranates). Then we saw the Kabob platter for 4. ($95) 3 different rice dishes & 4 entrees: we chose tenderloin, filet mignon, marinated chicken & Cornish hen. We ordered it all, including their salad, hummus w/Nann & drinks. Everything was delicious. I'll definitely be back!",
+        "language": "en"
+      },
+      "date": "2020-10-11T00:33:19Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shar B.",
+        "user_id": "6YmRpoIuiq8I19Q8dHKTHw",
+        "link": "https://www.yelp.com/user_details?userid=6YmRpoIuiq8I19Q8dHKTHw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/i-aTwWhliwog87Ydwa_xgA/180s.jpg",
+        "address": "Las Vegas, NV",
+        "friends": 3,
+        "photos": 30,
+        "reviews": 273
+      },
+      "comment": {
+        "text": "Some excellent Persian food in a charming setting perfect for an intimate evening for two or a night out with friends. The dishes take you on a unique journey of flavors, textures and tastes to a land most know little about. The grilled kabobs are just perfect and you can't go wrong with beef, lamb, chicken or filet. But explore the rest of the menu and try the Fesenjoon, lamb shank or zereshk polo. Great spot with friendly staff.",
+        "language": "en"
+      },
+      "date": "2017-12-25T22:48:47Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Vilay S.",
+        "user_id": "l_2WmCl9hpuDPWP9L7UZLw",
+        "link": "https://www.yelp.com/user_details?userid=l_2WmCl9hpuDPWP9L7UZLw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wztH7FLntLqUQWm-8UokUA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 17,
+        "photos": 50,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "Great Persian food.\n\nWe had the beef kabob and Chilean bass with two different kinds of rice.  The bread and hummus was a great starter and the olives were a nice touch.\n\nThe waiting staff were friendly and accommodating (a slow weeknight).  The seats were fairly comfortable.  There were pillows for your backside for the seats against the wall.  The parking is good but strange as it slants downward.\n\nAlways a good visit!",
+        "language": "en"
+      },
+      "date": "2016-04-20T00:40:14Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ashley M.",
+        "user_id": "YMYb73K3Dv3oiac4mADJSg",
+        "link": "https://www.yelp.com/user_details?userid=YMYb73K3Dv3oiac4mADJSg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sGoA4FMUvPPCltVeef7Zxw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 935,
+        "photos": 2904,
+        "reviews": 705,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Let me just firstly preface this review by disclaiming that I've never been a huge fan of Persian food...maybe because I don't think it's complex enough, maybe because it's got surprisingly unconventional flavors, or maybe I just don't get it...I dunno.\n\nMy boyfriend and I dined here accidentally when there was a \"suspicious package\" threat on Peachtree and we were forced into one of the restaurants on the block. His coworker had recently passed on a positive review of Sofi's so we decided this place would be it. Firstly, it was really empty when we arrived at 7:30pm on a weekday evening. Oddly, although it was so empty, our food took an abnormally long time to arrive.\n\nWe started with the hummus and Sufi's special as appetizers and the Soltani Kabob and Ghemeh Badenjoon as our entrees. I enjoyed the fresh bread and the boyfriend's choice of the kabobs....they were very tasty. The rice is fluffy as promised and our server was exceptional, but then again we were her only table for the majority of our meal.\n\nI think my one big gripe about this place is the price. At a whopping $68 for a beer, two dippers, and two entrees, I think you've really got to be rocking some great food, and I really didn't feel it here. Perhaps it was crazy flavors I kept tasting in my Ghemeh Badenjoon, or perhaps I struggled with figuring out why a couple pieces of beef swimming in a plate of thick red sauce would run me $17. Anyway, my boyfriend really enjoyed the meal so if Persian food is your thing, have at it!",
+        "language": "en"
+      },
+      "date": "2013-06-04T03:33:27Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Perry N.",
+        "user_id": "V2C5TiYjM4MQxqC-gwLfmg",
+        "link": "https://www.yelp.com/user_details?userid=V2C5TiYjM4MQxqC-gwLfmg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/libjzbuiNiUk4LTBMOCm2A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 22,
+        "photos": 0,
+        "reviews": 26
+      },
+      "comment": {
+        "text": "Atmosphere and good food sums it up.  A friend and I had dinner here last night and totally enjoyed the experience. The dining room was loud and festive.. There was a musician playing a middle eastern instrument.  The host would walk over and clap to the music occasionally.  The lamb kabob was the highlight. Seasoned perfectly and accompanied by a serving of Adas Polo.  Who knew that raisin & lentil saffron basmati rice could taste so good?",
+        "language": "en"
+      },
+      "date": "2019-02-16T15:52:19Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Reza Y.",
+        "user_id": "xmd0E7DU-8jkebCq92WkQQ",
+        "link": "https://www.yelp.com/user_details?userid=xmd0E7DU-8jkebCq92WkQQ",
+        "address": "San Jose, CA",
+        "friends": 0,
+        "photos": 6,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "Great food. delicious. fresh bread and kashke bademjun is mouthwatering.\nKind staff. kale is good",
+        "language": "en"
+      },
+      "date": "2017-12-25T18:30:03Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Tina L.",
+        "user_id": "_DNkcofMw_stObHH62oHQQ",
+        "link": "https://www.yelp.com/user_details?userid=_DNkcofMw_stObHH62oHQQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/9L6YVFDsveg9jb0dN4zUog/180s.jpg",
+        "address": "Gainesville, FL",
+        "friends": 29,
+        "photos": 6,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "This was my first time here and I had ana amazing experience. Great food, all authentic!! Highly recommend it!! Great service and atmosphere. Met the manager who was also very nice and welcoming. If you want GREAT PERSIAN FOOD, definitely visit them!!",
+        "language": "en"
+      },
+      "date": "2017-12-17T21:37:26Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Wen C.",
+        "user_id": "Yxo-PotnZS3jMB3j36mOzQ",
+        "link": "https://www.yelp.com/user_details?userid=Yxo-PotnZS3jMB3j36mOzQ",
+        "address": "Snellville, GA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Food is excellent. Very dim lighting makes a very romantic and intimate dining experience. Skyler was a very attentive waitress. I highly recommend this place",
+        "language": "en"
+      },
+      "date": "2017-12-25T00:57:48Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kLmSdYyvOtPKpLogH1Kc1A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RjyONoUx-sMuIEYor1TrZQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Ken M.",
+        "user_id": "4sGg-vtWRJLEiTmXWbxZdQ",
+        "link": "https://www.yelp.com/user_details?userid=4sGg-vtWRJLEiTmXWbxZdQ",
+        "address": "Prattville, AL",
+        "friends": 12,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "My wife and I went to Sufi's for her birthday / our anniversary celebration. Sufi's did not disappoint! The servers were attentive and helpful. \nThe chicken and rice soup was very good. My wife got the Soltani Kabob with the Shirin Polo rice Basmati rice mixed with pistachio, carrot, sautéed dried orange peel, raisins and almond slices). Perfectly done with more food than she could eat.\nI had the Joojeh Kabob with the Zereshk Polo rice Basmati rice mixed with barberries, pistachio and almonds). Again, perfectly done with generous portions.\nWe saved room for the Pomegranite Cheesecake. Unique and outstanding!\nThe only miss was that we noted the birthday / anniversary celebration on the special notes on our reservation. We did not remind them.\nOverall, as good as we have had in Persian / Iranian cuisine. We definitely recommend!",
+        "language": "en"
+      },
+      "date": "2017-08-06T22:17:53Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Kavita B.",
+        "user_id": "InLJCsLpF57I4umMVWGhMQ",
+        "link": "https://www.yelp.com/user_details?userid=InLJCsLpF57I4umMVWGhMQ",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "We had dinner at Sufi's today. Both the food and the service were great. We will always go back! Thanks",
+        "language": "en"
+      },
+      "date": "2020-09-24T00:03:58Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Milad M.",
+        "user_id": "ZRpyiKqdPlAliVXDQagt0w",
+        "link": "https://www.yelp.com/user_details?userid=ZRpyiKqdPlAliVXDQagt0w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CWyEbr15-kelh5ClxsH2kw/180s.jpg",
+        "address": "Columbia, SC",
+        "friends": 23,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "I have tried a lot different Persian restaurants in US, but believe me this one is the best of the best. Even better than restaurants in Iran.\nAny kind of kabab will be melted in your mouth.",
+        "language": "en"
+      },
+      "date": "2016-06-07T00:35:26Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Shirin P.",
+        "user_id": "DBnv2AfuWm3vqTFGE78-0Q",
+        "link": "https://www.yelp.com/user_details?userid=DBnv2AfuWm3vqTFGE78-0Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YJdfroTnJ9FcIDMDcYlbvQ/180s.jpg",
+        "address": "Lilburn, GA",
+        "friends": 475,
+        "photos": 20,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "Good food,  good service. I love Persian food., nice decor and cozy. I ordered the Koobideh kabob, it came with complimentary dish of mezah  and rice was fluffy and delicious.",
+        "language": "en"
+      },
+      "date": "2017-12-13T16:03:58Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "DaNae B.",
+        "user_id": "jjpfajYVnXI9Wwspw-AQLw",
+        "link": "https://www.yelp.com/user_details?userid=jjpfajYVnXI9Wwspw-AQLw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QXuXzg2SQhAKtn1yzqyn4g/180s.jpg",
+        "address": "Palmetto, GA",
+        "friends": 0,
+        "photos": 14,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "The food was delicious! I got the vegetable kabobs and they were perfectly cooked. We also got their Mast Spinach, which I could have eaten with a spoon. My husband got the koobideh kabob, which was bursting with flavor. We really loved it. The atmosphere was also very lovely and the waiter was on it!",
+        "language": "en"
+      },
+      "date": "2017-03-16T21:31:28Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xFUX-BLd7y3TuQt7Ze9WLA/o.jpg",
+          "caption": "Mast spinach!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/i11g9_naldDeBV49X-v3XQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ft8gqxKVO5gycQOASCtr_Q/o.jpg",
+          "caption": "Koobideh kabob"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Yol-Gg5N0N0Ddu9yBC4jTQ/o.jpg",
+          "caption": "Vegetable kabobs"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jr J.",
+        "user_id": "gpbYD5GOAJ4BjkFsy2b37g",
+        "link": "https://www.yelp.com/user_details?userid=gpbYD5GOAJ4BjkFsy2b37g",
+        "address": "Ormond Beach, FL",
+        "friends": 0,
+        "photos": 5,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Chicken kabobs were fantastic. Large portions and cooked perfectly! Squash, zucchini bell peppers and onions seasoning is delish. Falafel were large and cooked perfectly as well. Ordered through DoorDash and was still warm when arrived.",
+        "language": "en"
+      },
+      "date": "2020-06-23T21:52:05Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "pete e.",
+        "user_id": "OPb4E5VkzhuPPZumqYO6UA",
+        "link": "https://www.yelp.com/user_details?userid=OPb4E5VkzhuPPZumqYO6UA",
+        "address": "Columbus, OH",
+        "friends": 66,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Very cool interior and very authentic, very fresh tasting, phenomenal food. Portions are generous. \nRumi's is better known and has a good bar, but the food here is a level above. Definitely worth trying if you have not been.",
+        "language": "en"
+      },
+      "date": "2018-09-30T22:41:08Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Itai H.",
+        "user_id": "Qmwu1B0EIgrnQ3afJ3knjQ",
+        "link": "https://www.yelp.com/user_details?userid=Qmwu1B0EIgrnQ3afJ3knjQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FWzOOHAF5BaD8QxBmhistw/180s.jpg",
+        "address": "Old Fourth Ward, Atlanta, GA",
+        "friends": 4,
+        "photos": 105,
+        "reviews": 167
+      },
+      "comment": {
+        "text": "Come for the apps! The eggplant dishes are wonderful! Main dishes-wise, it's ok. Good, but overpriced for what you get. I had one of the \"stews.\" It's an interesting sauce with a few pieces of chicken in it, and rice on the side. I had something more substantial in mind... The salmon kabab was also good but overpriced. \nService was great!",
+        "language": "en"
+      },
+      "date": "2016-06-06T00:05:21Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Summer R.",
+        "user_id": "h7HBfwXRbvOfOKenyhA82Q",
+        "link": "https://www.yelp.com/user_details?userid=h7HBfwXRbvOfOKenyhA82Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GQ3rhxTZjE5dGRtzAmTuYA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 7,
+        "reviews": 24
+      },
+      "comment": {
+        "text": "The food is great and service is always amazing. Great place for a special occasion! I come here often and I've never been disappointed.",
+        "language": "en"
+      },
+      "date": "2016-03-20T00:20:05Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OE8EKzC5t8qGh3ocAGrVPg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YYdtsAdYG9QGxUL46XozHA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/j55LTrMDWIOu8BYnBmS0bA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Lianne V.",
+        "user_id": "XrHqM7cfhZwg7ELbXfu50Q",
+        "link": "https://www.yelp.com/user_details?userid=XrHqM7cfhZwg7ELbXfu50Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DmDMLjQKufTRzIAen22ciQ/180s.jpg",
+        "address": "Dunedin, FL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "One of our best dining experiences ever. It was our first time eating Persian so we didn't know what to expect. The food was amazing, the service was excellent. Our server was very knowledgeable about the food and the Persian culture (I had a lot of questions) and my husband's lamb kebab was so good he almost cried. The baklava was also wonderful. Overall, I would definitely recommend this place.",
+        "language": "en"
+      },
+      "date": "2019-01-16T21:20:22Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ted C.",
+        "user_id": "TylOr9YYTV3znqIvH7kdmQ",
+        "link": "https://www.yelp.com/user_details?userid=TylOr9YYTV3znqIvH7kdmQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zjqqtk9UHudrfO9-5E0Nmg/180s.jpg",
+        "address": "Austin, TX",
+        "friends": 442,
+        "photos": 4227,
+        "reviews": 2793,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I was passing through Atlanta when I wanted to visit a friend of mine and she was eating here with a friend of hers. I came in very close to closing time but my service was not diminished by it. I really think that Persian food and Arabic/Mediterranean food is very similar and it really depends on the ambiance of the place. Sufi's is one of those places where the air of the place is really part of the experience.\n\nThe main dining room looks like it's supposed to be set up as a big tent for a king or something. I got the koobideh kabob, which is a lot like a kefta kabob, a ground beef kabob, my waitress didn't understand what that was, which is a little weird since it would make sense to know similar dishes.\n\nAnyway the koobideh was good, just like any other ground beef, grilled dish. The beef was pretty good but nothing too special, the price of it though, $14 was a little too steep for what amounted to less than a half pound of beef. \n\nPlaces like this always make me think that for a lower price I could be eating the same food but of the same or similar quality but with a lot lower price. I don't know if Atlanta has a cheap kabob place but I know they're out there elsewhere so I can't rate it too highly.",
+        "language": "en"
+      },
+      "date": "2011-06-11T03:11:02Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Asma A.",
+        "user_id": "StgCZRGuZwphZNtpWsjBRg",
+        "link": "https://www.yelp.com/user_details?userid=StgCZRGuZwphZNtpWsjBRg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KEGjRp5M2M0RZpGo7YXUhw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 117,
+        "photos": 166,
+        "reviews": 507,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "*** quite similar to my review for Rumi's, but that because they are a both good, However, this restaurant is slightly better than Rumi's... read to find out why!!***\n\nSo, I have been here plenty of times. In my ranking for middle eastern food in Atlanta, I will put Sufi's and  Rumi on the top of my list. \n\nSo both Sufi's and Rumi's need that spicy sauce. I just wish that like Cafe Istanbul, these places would give the spicy red sauce.. I think its hareesa, but Im not sure what its called that Istanbul serves. However, with a bit of that spicy sauce touch, this restaurant would also be a five star in my opinion (actually as I am writing, I am thinking of giving this place a 5 star, because even though it has its flaws, its overall food taste, ambiance, and service is worth it.. lets see what I end up feeling about it at the end of the review)\n\n\n\nSo, how is it a little better than Rumi's? \nBecause of the variety they have, especially with their rice selection. I think more than the meat, I enjoy the rice!! My favorite is the Shirin pollo. I recently tried the black cherry one, and that was also very good. I think the variety of the rice definitely give the food that kick that it needs. \n\nI also really like the bread with the walnut and cheese that they give you complimentary. \nI have ordered two or three appetizers and all have been good. \nI usually get the barg (beef) or the soltani and they both are very very good!! \n\nWhat's the other downfall you might ask? Price... I think that its definitely on the higher end of the spectrum for Persian food. \nI also think that because they charge for that yogurt cucumber thing, it should lose one star. \n\nSo, here is the debate, if it deserves the 4 or the 5. Even if I factor away the spicy sauce (which should be a given, and needs to be there), I still think that because they charge you additional for the different kinds of rice, and yogurt, and small little things like that... it should in itself lose a star... just because that with middle eastern foods, you need that yogurt with your meat. It does make a difference. \n\nAt the end of the day though, even though I give it a 4, it is a tad bit better than Rumi's (which is also along the same price-range).",
+        "language": "en"
+      },
+      "date": "2012-04-16T23:42:14Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Katie R.",
+        "user_id": "6Fo8xB96WFj8Bk0AK7fRpQ",
+        "link": "https://www.yelp.com/user_details?userid=6Fo8xB96WFj8Bk0AK7fRpQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7TwtbdFLZpWNBpwqYq9SEA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 210,
+        "photos": 11,
+        "reviews": 177
+      },
+      "comment": {
+        "text": "This is pretty good Iranian-style food in Atlanta. It's not fantastic or 100% authentic, but you're not really going to get that unless you're in the geography or if you have a much larger expat community. I was here on a recent weekend evening, and it was very pleasant. I had the shish kabob, and I found it to be cooked perfectly - just right and lots of flavor. The rice was good, and the grilled veggies were actually my favorite part. The wine list is fine. Not spectacular, but pleasant enough for your meal. We also had the hummus to start. I found the hummus to be better than what you normally get but not truly authentic, but the pita bread they serve was GREAT.\n\nOne note - while we sat on the patio and very much enjoyed the live music and weather, it does get uncomfortable loud. It's right on Peachtree and close to Piedmont Hospital, so you get a lot of ambulances and other loud noises during your meal.\n\nParking is valet right behind the restaurant. Complimentary + tip.",
+        "language": "en"
+      },
+      "date": "2015-05-03T23:45:52Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Paul N.",
+        "user_id": "Ox3IyjnHDxco3DmRW3ZGuA",
+        "link": "https://www.yelp.com/user_details?userid=Ox3IyjnHDxco3DmRW3ZGuA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZeYWYCj-89WDFW7cR3X4OQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 322,
+        "photos": 2,
+        "reviews": 140
+      },
+      "comment": {
+        "text": "If you are craving some Persian food and you happen to be in or around Buckhead, then this is your answer. Sufi's, similar to Rumi's, offer a great selection of authentic Persian food with similar or same quality, which you would find in great Persian restaurants. \n\nThe restaurant is tucked away, and parking could be better. \n\nIf I had to pick one things that I would think this place could be better at is probably it could be a little cleaner. Don't get me wrong, it's clean in there, but I am comparing the interior decor and vibe compared to Rumi's. I just feel like Sufi's is not up to par with some other restaurants in the Buckhead area when it comes to interior design. \n\nFood is great. Kabobs are awesome and so are the appetizers. Whether it's lamb, steak, chicken, etc., all the meat are cooked to your liking, big chunks, and packed with Persian flavor. They are not dry either! Whenever I order a dish here, I am always extreme full, so in other words, the portions are great. Rice is moist and compliments the meat or protein well. Grilled veggies are great and not old. Some Persian places try to sell you old veggies grilled hoping that consumers don't pick up how told the veggies are. Sufi's definitely is not like that where it's clear that the ingredients are fresh ingredients. I think it's either water or butter... could be both, but hey, tastes awesome. A lot of dishes are similar to what I would find at Rumi's in Sandy Springs, and I thoroughly enjoy all the authentic food the place provides. Hummus is great here, and it's a must get. There is a sampler platter for your pita, which includes walnut, cheese, hummus, olives, etc. I suggest getting that to start off your meal. It's not too heavy or light, and great for sharing. The ingredients used for this is nice and clean. In other words, fresh. \n\nThe price is 20+ dollars for entrees and 10+ for appetizers and such. You can end up spending about 40 to 50 dollars by yourself depending whether or not you get alcohol. Great for date nights and to hang out with friends. My Persian friends enjoy this restaurant, and the wait staff are great. \n\nOverall, I recommend this place if you are around the area. Good for people who want to stay healthy too!",
+        "language": "en"
+      },
+      "date": "2017-11-15T21:08:57Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Siddharth J.",
+        "user_id": "ioUyWJtYkHlrBuSgIzMZYw",
+        "link": "https://www.yelp.com/user_details?userid=ioUyWJtYkHlrBuSgIzMZYw",
+        "address": "Scottsdale, AZ",
+        "friends": 68,
+        "photos": 0,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "Lamb Shank cooked to perfection, and the basmati dill rice with broad means side phenomenal - that is what you should expect at Sufi's.Oh, and the Baklava...yumm.\nThis place is not cheap... but quality always comes at a price. Classy crowd, well mannered waitstaff, owner very hands-on with the operation of the restaurant. Would recommend to anyone looking for Persian cuisine in downtown ATL.",
+        "language": "en"
+      },
+      "date": "2017-04-07T20:07:01Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Phenesse D.",
+        "user_id": "FQpSuxyGBZXf_BmxGjFdIg",
+        "link": "https://www.yelp.com/user_details?userid=FQpSuxyGBZXf_BmxGjFdIg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rU7oxGDVeBVDEj_GVGwIpQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 8,
+        "photos": 6,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "Absolutely delicious with beautiful decor! The live, traditional music on weekends is an additional treat!",
+        "language": "en"
+      },
+      "date": "2018-11-25T14:23:32Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Anu R.",
+        "user_id": "4kuqP2sUBJYivpldCqTw1g",
+        "link": "https://www.yelp.com/user_details?userid=4kuqP2sUBJYivpldCqTw1g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Xfjj0yqb1Q-Y4CVP7BYtUQ/180s.jpg",
+        "address": "New York, NY",
+        "friends": 55,
+        "photos": 0,
+        "reviews": 17
+      },
+      "comment": {
+        "text": "We were regulars when we lived in Atlanta.  We were visiting and decided to go for dinner.  The flavors are changing and the food tastes less Persian and more Mexican.  The bread remains outstanding, but the place is slipping.  Too bad, seven years ago, I was delighted to discover this place.",
+        "language": "en"
+      },
+      "date": "2017-09-18T18:57:04Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Bruce K.",
+        "user_id": "3AF2bAdbvNx1H-WZDHqqZA",
+        "link": "https://www.yelp.com/user_details?userid=3AF2bAdbvNx1H-WZDHqqZA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/EUT8MBPgyE0k1G8Fjf5Vcg/180s.jpg",
+        "address": "Santa Clara, CA",
+        "friends": 16,
+        "photos": 7,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "I came here from California and was able to dine at Sufis. I myself am Persian. This is hands down without a doubt the best. Everything from the service, tea and food. It was all amazing. The manager was also very attentive and personable. It really made us feel like home. I highly recommend you give it a try.",
+        "language": "en"
+      },
+      "date": "2015-12-24T15:15:35Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JgWYd2pvzg7fPIJtR5vFfA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wiCT3DdVmgj-XA3sZ_EsWQ/o.jpg",
+          "caption": "Saffron ice cream!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XhAd5r5DUkccX1NQ3UTEbA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X84_vQ_NjnJeQcp3D1tHHg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kFPMk_OlxdXf7AP-Zi49iQ/o.jpg",
+          "caption": "Pomegranate cheesecake!!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Sean L.",
+        "user_id": "2sCEhRDKTpokFe0zDJIkyg",
+        "link": "https://www.yelp.com/user_details?userid=2sCEhRDKTpokFe0zDJIkyg",
+        "address": "Atlanta, GA",
+        "friends": 85,
+        "photos": 116,
+        "reviews": 79
+      },
+      "comment": {
+        "text": "Sufi's kitchen is located off Peachtree road right next to R. Thomas Deluxe Grill.  It, and R. Thomas Deluxe Grill, are those places I always drove by, thought they were interesting, but never really visited.  Until now.\n\nI went to Sufi's on a Friday night.  Knowing how hard it is to make a left turn on Peachtree Road, I made sure I came down Peachtree from the north so I can make a right turn into the parking lot.  Sufi's parking lot has one big Enter sign next to its entrance so you wouldn't miss it.  If you do, good luck with making a u-turn and turning left on Peachtree.  Anyways, parking is free and you can do self park.  If you really don't want to walk, they also offer valet.  But the parking lot is just behind the restaurant so I don't see why anyone would need valet unless they are handicapped.  \n\nThe decoration inside the restaurant gives you the Persian feeling.  I thought I was in a tent the whole time (or maybe it was a tent and I just couldn't tell).  The kitchen has a big window so you can see them making your food (at least the bread part).  The lamb here is excellent if you order them in a grilled form.  The stew, though supposedly authentic, is an acquired taste and is not very filling.  Its most unique desert is baklava cheesecake.  Yes, you read that right.  I ate one order by myself.  It was a tasty mistake because it was HUGE.\n\nThe staff here are very friendly and helpful with introducing you to Persian/Iranian cuisines if this is your first time.  I didn't know how to eat the bread with the olives and cheese and they taught me.  It is not too crowded even on the weekends (they have a good number of customers it's just not packed) so it is a nice setting for a date night; especially with the dimly lit lights.  The restaurant has a set up for live music performance but I didn't see any when I went there on a Friday night.  Perhaps it's a Saturday thing.",
+        "language": "en"
+      },
+      "date": "2017-02-18T03:59:49Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 3,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Ali N.",
+        "user_id": "TVn-1ZUnjzc-mZ6COGKReg",
+        "link": "https://www.yelp.com/user_details?userid=TVn-1ZUnjzc-mZ6COGKReg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/aScTiC2Y6FCgrkjKo5-spQ/180s.jpg",
+        "address": "Fort Worth, TX",
+        "friends": 2,
+        "photos": 24,
+        "reviews": 193
+      },
+      "comment": {
+        "text": "This place has good and I would have given it 4 stars they messed up royally at the end when I paid my bill.  I don't care if you are a fast food chain or the most expensive restaurant in the city, you don't change a bill because you forget to charge something and NOT tell your customer.  No one appreciates deceptive practices and mistakes do happen, but let your customers know.",
+        "language": "en"
+      },
+      "date": "2017-04-28T20:17:42Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kiara N.",
+        "user_id": "g1VZEA-iLS4CpenlMqfQsw",
+        "link": "https://www.yelp.com/user_details?userid=g1VZEA-iLS4CpenlMqfQsw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XeEaV2kMMjmGJgXUnfgluA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 32,
+        "photos": 103,
+        "reviews": 101
+      },
+      "comment": {
+        "text": "Excellent! I went to Sufis for lunch. Was seated and greeted promptly. We ordered Hummus and sweet tea. The sweet tea was refreshing and sweet and didn't taste over brewed like most tea in Atlanta. The hummus came out and I couldn't have been happier. The hummus was creamy, served with warm pita chips, and a side plate of olives butter and feta. It was delicious the hummus was creamy & the sides complimented it well. We ordered a shish plate and a chicken shish plate. The server assistant was consistent in bring our refills and the server made sure to check in with us often. The food came out and the meat was delicious, rice was the perfect temperature. I wish I had room to try the pomegranate or baklava cheesecake. Will be back soon.",
+        "language": "en"
+      },
+      "date": "2015-07-23T22:32:49Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/P6GgmeQD8ZsPRXjAcBdZAw/o.jpg",
+          "caption": "Chicken shish"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0ufmihTIaPRU7N5byWbYJA/o.jpg",
+          "caption": "Burg plate"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_LvKIDB17up-JU2lCnZx4A/o.jpg",
+          "caption": "Hummus"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Shero B.",
+        "user_id": "FpWif3ATVjG6wnhrqPKMgw",
+        "link": "https://www.yelp.com/user_details?userid=FpWif3ATVjG6wnhrqPKMgw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/U4yrTUqfKf6bsOgscrgVfA/180s.jpg",
+        "address": "Smyrna, GA",
+        "friends": 4,
+        "photos": 167,
+        "reviews": 120
+      },
+      "comment": {
+        "text": "What a disappointing experience!  From the service to the food. The server had no clue about the menu and couldn't answer any of my questions or recommend anything. Ordered the sufi veggie special stew (eggplant, potatoes and chickpeas in a spicy sauce)...was watery and bland, the only spice I could taste was chilly. The filet mignon kabob had a strange taste, like meat was spoiled.  Didn't taste like it was marinated. The rice it came with had no flavor, not even salt. The pita bread we were served was so dry. The only good thing we had was the hummus. A young guy that I'm assuming was the manager tried have us try another dish, but by then we were so done with place, we just wanted to get our bill and get out of there as fast as possible. Will not be back here again!",
+        "language": "en"
+      },
+      "date": "2015-11-07T18:23:12Z",
+      "rating": 1,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XfnuENL-cTtzk-O-CM-0jg/o.jpg",
+          "caption": "Barely touched the food, everything you see in the pic was horrible...took the beef home for my dog."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 2,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sahir M.",
+        "user_id": "prtjtA8Oz7lhC-mBe33BVg",
+        "link": "https://www.yelp.com/user_details?userid=prtjtA8Oz7lhC-mBe33BVg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/eNX8FnSa61A0LkXTIulwdw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 4,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "Best Persian food in town. Persian food being my favorite cuisine, I really enjoy there food. From the quality of the meat they use to the perfectly seasoned Naan to the fresh Appetizers, I couldn't have had a better food experience. \n\nSide note: They have TVs on the balconies if you want to stay classy and still watch the game ;)",
+        "language": "en"
+      },
+      "date": "2016-09-14T16:01:53Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Amine C.",
+        "user_id": "KSfjS3tILxiHy6janmrorg",
+        "link": "https://www.yelp.com/user_details?userid=KSfjS3tILxiHy6janmrorg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/v3NDROJGuaq5fgOtk9GwWQ/180s.jpg",
+        "address": "Danville, CA",
+        "friends": 72,
+        "photos": 10,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "It was nice setting outside. The baklava and tea were good. Lentil soup looked really good; just a bit salty or had too much lemon. Ask the chef to go easy on it. The chicken joneses kebob was really good... Crunchy rice. I liked it. Watch out for strange visitors: a big cockroach came under my table... Altered the waiter. He looked at me went inside but didn't really do anything about it... The visitor kept roaming around my feet I had to call it short and pay and leave. It's a good restaurant; I'm thinking I had a \"unique\" experience.",
+        "language": "en"
+      },
+      "date": "2016-06-29T01:55:33Z",
+      "rating": 3,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/u3BndZ_WvdtsyrVrZFD15g/o.jpg",
+          "caption": "Great chicken kobideh kebob"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VQPI8CBh8NKbr6I3XaT55w/o.jpg",
+          "caption": "Unusual visitor to keep you company while sitting in the terrace"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/71fSMBUCX0QX2FUXS_GO_Q/o.jpg",
+          "caption": "Lentil soup... Looks great! Filling. Make sure you chef to go easy on salt or lemon (don't know which one was too strong)"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sarah F.",
+        "user_id": "91o0hKicmm5GOAOmKOMa3Q",
+        "link": "https://www.yelp.com/user_details?userid=91o0hKicmm5GOAOmKOMa3Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HBXVswvHiOWDwiAnBrtQSg/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 38,
+        "photos": 1,
+        "reviews": 108
+      },
+      "comment": {
+        "text": "Delighted to have found Sufi's. From the complimentary valet in the back to the live music that greets you when you walk through the doors, this is a great place. It's especially wonderful if you (a) have food restrictions (all the food, save the bread is gluten free and much of it is vegan and/or vegetarian) and (b) if you've spent significant time in the Middle East and lament the lack of good hummus anywhere in the States. \n\nWe went on a Scoutmob. We split the falafel. It would not have been my first choice, but it's what my beloved wanted and I'm so glad we got it. It was beyond delicious. Best I've had in years. It came with two small sides, one of hummus (more on that later) and one of this spicy mouthful of flavor. Also standard with meals is pita (all for me as the beloved is free of the gluten. I was not complaining) and a plateful of walnuts, olives, feta, butter, basil, cucumber and other green things to eat. Really good. The Scoutmob allowed the house wine which was a okay. \n\nI had the shrimp kabob and the honey had the lamb. I scarfed all mine down. Honey will have hers for at least two more meals. Very generous, tasty portions. \n\nThe hummus needs a paragraph all to itself. Y'all. It was so good. It was smooth and perfect, with just a touch of tahini, not too much, but enough to make it just right. I would love to be able to make it like that, but I just can't. A young, ever so innocent asked \"is it as good as Sabra Hummus?\" and I laughed and laughed. If you've only had pre-made hummus, you've never had hummus. And I make my own, but it's nowhere near this good. We bought extra for the week. I suspect it will be gone by the end of the day. It's worth a trip just for that.\n\nWhy 4 stars and not 5? A couple of minor things. It's pretty crowded in there. It felt like we were on a double, and at times triple, date with the tables next to us. It was a cold night, we asked for the table farthest from the door, and we were placed far away in the corner and it was still cold. The set up on the lamb wasn't as presented on the menu--not a huge thing, but no lentils and raisins, although still delicious. Again, all minor stuff. Nothing that would keep us from coming back. The service was very good, especially from the folks who owned the place. I enjoyed talking spices with them (I asked one waitress what the spice was I was tasting and she said she couldn't say because it was a secret recipe. I wasn't asking for the recipe, just the spice flavor. The owners had no such compulsion.). \n\nOverall, a great little place. Worth our time and the drive (we rarely leave Decatur. Looking forward to going back.",
+        "language": "en"
+      },
+      "date": "2015-01-31T14:33:10Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mo H.",
+        "user_id": "XBEWF0kq55mV2VxG6vmcLw",
+        "link": "https://www.yelp.com/user_details?userid=XBEWF0kq55mV2VxG6vmcLw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rPdgzBm609tnK3A7PkJ9sQ/180s.jpg",
+        "address": "San Jose, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Good quality Persian food and great service.\nIt was our first trip to Atlanta and we had heard a lot about this place from our friends there. It was absolutely worth trying. We had the Koobideh and Fesenjun. They were both very good and exactly the same taste that you can find in Iran. The waiting staff was very friendly and we were treated in a way that we are their usual customers :).",
+        "language": "en"
+      },
+      "date": "2016-06-06T16:40:02Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tamalyn D.",
+        "user_id": "GxM8SY4BcaZSFBz2Y7-klA",
+        "link": "https://www.yelp.com/user_details?userid=GxM8SY4BcaZSFBz2Y7-klA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/l8GU9yYlracQE5_dkD-Srw/180s.jpg",
+        "address": "New Orleans, LA",
+        "friends": 59,
+        "photos": 2,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "I am visiting Atlanta on business and was hungry. Happened to drive by and see \"Persian food\". Thought it would be a mom and pop place with pretty predictable food.\nBut no! What a treat! \nNice ambiance. Live classical Persian santur music. And the food was SO GREAT! I had the quail, yoghurt and cucumber and the polo rice with orange peel. Everything was so delicious. And the basket of bread was a treat. I am used to lavash and like it, but this bread was different. Really tasty. \nThe server told me about baklava cheesecake. I gave it a try and it was also very good. \nYou can't go wrong with Sufis.",
+        "language": "en"
+      },
+      "date": "2015-02-28T03:12:29Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Angela W.",
+        "user_id": "VOic4iPDTVhp7r44JG_3xw",
+        "link": "https://www.yelp.com/user_details?userid=VOic4iPDTVhp7r44JG_3xw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TeLChvME10KWw-gqhwDAbA/180s.jpg",
+        "address": "Bucktown, Chicago, IL",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Great food. \nGood service. \nNice atmosphere. Clean, dark walls and somewhat authentic. \nAlthough the food was great it looses a star for a little lack of flavor and is a little less authentic as it could be. \nTerrific hummus. Pretty good chicken kabob and saffron rice.",
+        "language": "en"
+      },
+      "date": "2016-05-15T23:28:31Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=3qySFB1GVdOu-4oKJsXlXg&start=220"
+  }
+}

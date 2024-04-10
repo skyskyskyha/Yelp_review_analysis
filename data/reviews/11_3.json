@@ -1,0 +1,1469 @@
+{
+  "search_metadata": {
+    "id": "660191ca94fb03a2d572649b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c435cd11c3877dff/660191ca94fb03a2d572649b.json",
+    "created_at": "2024-03-25 15:01:30 UTC",
+    "processed_at": "2024-03-25 15:01:30 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/usob9YcE7rhpJcaCwv5J_Q?",
+    "raw_html_file": "https://serpapi.com/searches/c435cd11c3877dff/660191ca94fb03a2d572649b.html",
+    "prettify_html_file": "https://serpapi.com/searches/c435cd11c3877dff/660191ca94fb03a2d572649b.prettify",
+    "total_time_taken": 2.44
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 110,
+    "num": "50",
+    "place_id": "usob9YcE7rhpJcaCwv5J_Q"
+  },
+  "search_information": {
+    "total_results": 717,
+    "business": "Divan Restaurant & Bar"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 717
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Ak S.",
+        "user_id": "s0a-vR59065Fa7AQUgvdUQ",
+        "link": "https://www.yelp.com/user_details?userid=s0a-vR59065Fa7AQUgvdUQ",
+        "address": "West Highlands, Atlanta, GA",
+        "friends": 0,
+        "photos": 4,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Excellent service. Great food! Ambiance elegant.  Thanks for making our Mom's 75th Birthday success",
+        "language": "en"
+      },
+      "date": "2023-12-04T11:28:19Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jonalisa W.",
+        "user_id": "VwxzYbW9eFaJeleV1MHEng",
+        "link": "https://www.yelp.com/user_details?userid=VwxzYbW9eFaJeleV1MHEng",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ycyWdwdRv2D81t2dB9pP7A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 167,
+        "photos": 104,
+        "reviews": 71
+      },
+      "comment": {
+        "text": "Divan is one of my favorite restaurants in all of ATL! The lamb chomps are everything, the salmon pasta is so good, and the service is great. The appetizers are good too. Ive also tried the lamb burger on special and loved it! I've never had anything I don't like and Dzuli is our favorite waitress. She's the best! I love the classy look and vibe at the new location too.",
+        "language": "en"
+      },
+      "date": "2023-08-10T15:11:02Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Laurina H.",
+        "user_id": "-wZq_G40twrTFeZ8348qaQ",
+        "link": "https://www.yelp.com/user_details?userid=-wZq_G40twrTFeZ8348qaQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7DvsU6oRKrfaPBbCEVdf4g/180s.jpg",
+        "address": "Far North Dallas, Dallas, TX",
+        "friends": 416,
+        "photos": 14,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "So the old pasta was soo amazing. I just ordered it today and it was bland with no seasoning or taste. Really disappointed paying $40 for nothing.\n\nHowever the pasta at the old spot before they moved was soo good with the salmon. \n\nWon't be ordering this again, maybe it's a new chef or they load their touch. Sad face",
+        "language": "en"
+      },
+      "date": "2022-05-16T03:41:49Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sWDgCVyyLdyDXx-AnOo0oQ/o.jpg",
+          "caption": "Blackened Verlasso Salmon"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Vanessa O J.",
+        "user_id": "wDrk3iT9gGLHbHgJ9fDI_g",
+        "link": "https://www.yelp.com/user_details?userid=wDrk3iT9gGLHbHgJ9fDI_g",
+        "address": "Downtown, Washington, DC",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "don't waste your time going to this racist establishment. the manager was rude and nasty to our birthday party of 10 after we waited 2 hours to get our dinner.  no concessions were given.",
+        "language": "en"
+      },
+      "date": "2024-02-11T05:49:21Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Eve L.",
+        "user_id": "lxz3GZEayJWOnIJn9TefQQ",
+        "link": "https://www.yelp.com/user_details?userid=lxz3GZEayJWOnIJn9TefQQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/mrL55dikOOzlnKF48zlenA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 101,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "We came in for dinner & really enjoyed our dining experience. This is our first time at the new location, we always frequented the previous location. Atmosphere was nice & so was the decor.\nWe ordered various items:\nfalafel (they were okay, my family enjoyed them more than me); hummus duo w/ tabouleh (the black bean hummus & traditional hummus were delicious! The servings were kind of small & the tabouleh was okay); 6 spice potatoes (they were good); lamb chops (fantastic as always & the reason I come to Divan - it's the only thing I've ever ordered); blackened verlasso salmon (family member said it was good & really enjoyed it); lamb shank (family member said it was good & really enjoyed it); & spice blend shish kabob (family member said it was good & really enjoyed it).\nOur server was Shama & she was very nice, a little talkative but still very sweet,  & helpful. The only thing I didn't like is when it came time for the check to be paid the waitress stands over your shoulder. I always tip well, & don't need suggestions on how to tip, so that was a little annoying. \nOverall, I'll be back because the food is as wonderful as the service! Our interaction with staff, from the moment we entered the door until we left, was top notch.\nParking is valet for $10.",
+        "language": "en"
+      },
+      "date": "2022-09-27T14:06:21Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/s2REF3sRGh-3c_gvUW5DBA/o.jpg",
+          "caption": "Slow Cooked Lamb Shank"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/i24H3mRE0sckfv4qra6mIw/o.jpg",
+          "caption": "Spice Blend Shish Kabob"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5Wn9Z0lEiY7GOsoq1bDj-Q/o.jpg",
+          "caption": "Entrance sign"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IySio8u6DAwycobV3BIx8w/o.jpg",
+          "caption": "Blackened Verlasso Salmon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/y6ybw12SLmoE7-Erb3wqEQ/o.jpg",
+          "caption": "Lamb chops - 4 chops (AMAZING!!!!!)"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Mandy C.",
+        "user_id": "r9_yp1lBj2IKZ02MDRzAyw",
+        "link": "https://www.yelp.com/user_details?userid=r9_yp1lBj2IKZ02MDRzAyw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4cW-43yth8cODiQnDiHJtw/180s.jpg",
+        "address": "Central Business District, New Orleans, LA",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "We had a pleasure of visiting this establishment on a Friday evening and when I tell you it was nothing short of amazing. My group and I had the goat cheese, hummus, roaster egg plant, spicy shrimp, crab balls, blackened salmon and lamb chops! Everything was amazing, but baby those lamb chops were everything! They were melt in your mouth delicious! One of my parties got them med rare and the other party got them med. Both cut like butter. The hostess and waitress were Amazing! Thanks for a great experience! Will certainly be back!",
+        "language": "en"
+      },
+      "date": "2022-12-22T17:52:53Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WIWVIXy8wZzwlleEBBE-lA/o.jpg",
+          "caption": "Blackened salmon pasta!! Mouth watering and delicious"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CmJWopbHhsME86oYSlmLZQ/o.jpg",
+          "caption": "Dragon fruit drink! ABSOLUTELY DELICIOUS"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chhavi P.",
+        "user_id": "LDaom8zaNiNHKReCFy3E2g",
+        "link": "https://www.yelp.com/user_details?userid=LDaom8zaNiNHKReCFy3E2g",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "I have loved Divan in the past, but my husband and I won't be returning because the manager that night was overtly unprofessional and rude.  Courtney told us we were a walk-in, but we had a reservation and the screenshot as proof. She told us that she was the only manager that we could speak with. She appeared annoyed at our presence.\n\nIn addition, she seemed dismissive and unknowledgeable about the restaurant's history because it's historically known, in Atlanta. Much to my chagrin, when we asked if we could go upstairs, we were told the servers won't make money on the upper levels of the restaurant. We left disappointed, hungry, and confused. 0-5",
+        "language": "en"
+      },
+      "date": "2023-07-03T23:25:05Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Michelle T.",
+        "user_id": "YxvuZGAYcJIEQJmgtRCi3g",
+        "link": "https://www.yelp.com/user_details?userid=YxvuZGAYcJIEQJmgtRCi3g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-tQ8mIeGqYrBNRu0vOEzow/180s.jpg",
+        "address": "Norcross, GA",
+        "friends": 282,
+        "photos": 617,
+        "reviews": 200
+      },
+      "comment": {
+        "text": "So this is not the original place we planned to go but the experience at a previous establishment prompted us to come here. \nValet parking is $10. We had about a part of 9 and we were seated rather fast. The inside of this place is beautiful. It would be great for a date night. \nOur server's name was Sadie and she was nothing but amazing. She handled our party very well and took our picture. The food runners were slightly confused with who's food belonged to who and some weren't for our table. That was the only minor issue but this wouldn't stop me for going back of course.\nMy food was great as well. We ordered falafel for an appetizer and shared between three of us. My salmon pasta was seasoned perfectly. \nOverall we had a great time and I hope to be served by Sadie again.",
+        "language": "en"
+      },
+      "date": "2022-01-24T04:07:54Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JNj9P4grPcJe2LQa6VlSmg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZL56b2Ya3ZPSurIDLco_WA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jWNoRLMIsKrm48CYclyc_Q/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Steven C.",
+        "user_id": "XdkUKd53oqBqWUWvwPZ2VA",
+        "link": "https://www.yelp.com/user_details?userid=XdkUKd53oqBqWUWvwPZ2VA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rnN-NY9hxFnHpcHJaiVQ1A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 175,
+        "photos": 88,
+        "reviews": 117
+      },
+      "comment": {
+        "text": "A+. One of the best tasting lamb chops I have had in a while! The kabob was pretty ok. I have had better but it's still pretty good! I came around 5pm on Tuesday and was seated right away! Server was prompt and very attentive. I was out by 6pm. I definitely will be back to try other things in the menu. If you decide to come, get the lamb chop. They don't play!",
+        "language": "en"
+      },
+      "date": "2022-09-28T01:51:41Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ISl70C2aXPFjqlNLQLs8mA/o.jpg",
+          "caption": "Bahktiyari Kabob. Beef and Chicken"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KhE_tAdTvzwE8N_68GrgqQ/o.jpg",
+          "caption": "Some kind of ice cream. Lol"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eGaPpqAcXoqA06qLoSWNtA/o.jpg",
+          "caption": "Three Lamb Chops with potatoes and spinach."
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Keila K.",
+        "user_id": "2-2IewhTPqEnLsL-N3OWiw",
+        "link": "https://www.yelp.com/user_details?userid=2-2IewhTPqEnLsL-N3OWiw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Qr22JQbhGSeRgMYZEnbnTw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 328,
+        "photos": 987,
+        "reviews": 336,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I like Divan. Better than their sister location, The Persian Basket in Johns Creek. That lamb soup was everything. It's called the Ghormeh stew. Service was good. And we came right when the restaurant opened so we had options to seat inside or on the patio. We opted for the patio. While I waited for a friend, I sat at the bar to chat it up and the bartender recommended a wine for me that I had not tried before and it was legit. Pomegranate wine! Whew! There's valet parking available in front of the restaurant for five bucks so bring cash. Although in this digital world, they might take cash app or something. And unfortunately they don't do any happy hour specials. Overall, it was a good Thursday evening. I can only imagine what the weekends are like. Especially since it's located in Buckhead.",
+        "language": "en"
+      },
+      "date": "2021-11-14T14:58:41Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/z1k5AZ3vbrR0gcIdu9nh1Q/o.jpg",
+          "caption": "Ghormeh stew"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6KB0yM1AVV4_7RJiP4FTuw/o.jpg",
+          "caption": "So good."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X_u5b_c1WzWSSttRqyOOUw/o.jpg",
+          "caption": "Falafel app"
+        }
+      ],
+      "feedback": {
+        "useful": 7,
+        "funny": 2,
+        "cool": 5
+      }
+    },
+    {
+      "user": {
+        "name": "Cyrus A.",
+        "user_id": "rGy4OU63b5dPqe3M0TycCQ",
+        "link": "https://www.yelp.com/user_details?userid=rGy4OU63b5dPqe3M0TycCQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ql5LV3sRCVirxn3-j87s3A/180s.jpg",
+        "address": "NE, NE",
+        "friends": 111,
+        "photos": 22,
+        "reviews": 133
+      },
+      "comment": {
+        "text": "Terrible door dash order quality and service, they were missing half my order and the half they did produce was sub par. Dry kabob, thrown together rice and just a huge waste of time and money.",
+        "language": "en"
+      },
+      "date": "2022-10-11T04:32:00Z",
+      "rating": 1,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fua2RLp846LCh8EWM2Voeg/o.jpg",
+          "caption": "25 dollars worth of kabob thrown in a plate."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lesley B.",
+        "user_id": "PwTAqk0lWEjvoqN9JQmmsQ",
+        "link": "https://www.yelp.com/user_details?userid=PwTAqk0lWEjvoqN9JQmmsQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XFVV0s14voyUdAOf9Rwstg/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 128,
+        "photos": 5,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "Great food, great service, wonderful ambience.\nWill go back! Thank you Divan Restaurant & Bar.",
+        "language": "en"
+      },
+      "date": "2022-12-22T21:53:47Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Owen A.",
+        "user_id": "kArxbNdajthUndZSszodhw",
+        "link": "https://www.yelp.com/user_details?userid=kArxbNdajthUndZSszodhw",
+        "address": "Des Plaines, IL",
+        "friends": 0,
+        "photos": 19,
+        "reviews": 102
+      },
+      "comment": {
+        "text": "Very nice ambience!  Good food and great times. Will be back.  \n\nATL is trying for middle eastern cuisine.  I'll give it 4/5",
+        "language": "en"
+      },
+      "date": "2023-05-14T02:00:23Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tremon P.",
+        "user_id": "Econg7hh8UiI2cwMl20SdA",
+        "link": "https://www.yelp.com/user_details?userid=Econg7hh8UiI2cwMl20SdA",
+        "address": "McDonough, GA",
+        "friends": 93,
+        "photos": 1,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Brunch was great!! I'll certainly be back for dinner!! Asya our server was amazing!!! Food was great please whatever you do get the potatoes!!",
+        "language": "en"
+      },
+      "date": "2023-06-19T22:02:50Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gzjshZf9-eHnrON3w7ZZTw/o.jpg",
+          "caption": "Divan breakfast"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sophia A.",
+        "user_id": "lN123YnzDE4Nykwx71MMzg",
+        "link": "https://www.yelp.com/user_details?userid=lN123YnzDE4Nykwx71MMzg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FFJLTW84hWH1VtpliADfqA/180s.jpg",
+        "address": "Smyrna, GA",
+        "friends": 25,
+        "photos": 403,
+        "reviews": 112
+      },
+      "comment": {
+        "text": "I honestly don't think you can go wrong with Divan!!! Awesome location! Great food, Good vibes, Strong drinks and great customer service! Now don't get me wrong you will spend at least 200+ on 2 people with a Hookah and drinks, but I personally think it's worth it! Better than Blue and Sivas in my opinion! Great for dates and birthday celebrations! The location is very spacious!! Valet parking but you can easily find a stare at Park on Peachtree for the low!!\n\nOverall 10/10 will come again!!",
+        "language": "en"
+      },
+      "date": "2022-08-01T16:10:46Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Eric F.",
+        "user_id": "hF2EijXytddxIKAPsZRb8g",
+        "link": "https://www.yelp.com/user_details?userid=hF2EijXytddxIKAPsZRb8g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lMaPOstwWRwO5GaKWf_fOQ/180s.jpg",
+        "address": "Birmingham, AL",
+        "friends": 200,
+        "photos": 228,
+        "reviews": 185
+      },
+      "comment": {
+        "text": "The ambiance and food are great. The portions are pretty big so if you could come with a group, so much the better as sharing would be a good plan.",
+        "language": "en"
+      },
+      "date": "2023-04-12T21:45:50Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shanelle S.",
+        "user_id": "0R5qHgTXnKblV4XBWWOA2g",
+        "link": "https://www.yelp.com/user_details?userid=0R5qHgTXnKblV4XBWWOA2g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cLJyTfiAMr4F1MU1fri36A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 264,
+        "photos": 133,
+        "reviews": 119,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Visited here on a Thursday evening. Had a reservation but it wasn't that crowded. Noticed some people getting turned away due to having on sweats and slides.  We ordered the crab cakes with risotto for an appetizer. Pretty good but definitely not super filling. Also ordered the salmon pasta and lamb chops. The food was really good. Will definitely visit again",
+        "language": "en"
+      },
+      "date": "2022-08-04T00:20:23Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Isoke M.",
+        "user_id": "9fxG0X6rYakz8_Waeda7Bg",
+        "link": "https://www.yelp.com/user_details?userid=9fxG0X6rYakz8_Waeda7Bg",
+        "address": "Downtown Atlanta, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Kisha provided amazing customer service to our party! The food was great and the atmosphere was great!",
+        "language": "en"
+      },
+      "date": "2023-11-03T03:45:36Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Meka M.",
+        "user_id": "FQQwGy5TM9mnIvANgj9fCg",
+        "link": "https://www.yelp.com/user_details?userid=FQQwGy5TM9mnIvANgj9fCg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/H8hc0An-KLiU6p1OEm0Zpw/180s.jpg",
+        "address": "Washington, DC",
+        "friends": 2,
+        "photos": 391,
+        "reviews": 264
+      },
+      "comment": {
+        "text": "Visited for a friends birthday and the interior of the first and second floor were nice, but the rooftop desired some better decor. The lawn type of patio furniture was low to ground and made it difficult to enjoy your food. In fact, I had to eat my food on my lap. The drinks were nothing special, but the salad was flavorful and outright awesome.",
+        "language": "en"
+      },
+      "date": "2022-10-02T23:45:10Z",
+      "rating": 3,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aiMPcmjsxKyFEtblQakSbw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Gxb30j2eB_U-w0M0iIBhTw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fz9jdb8VDby2xOjOhLPROw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nicole F.",
+        "user_id": "IWC2ZerqpFKDKnb4VdrlcA",
+        "link": "https://www.yelp.com/user_details?userid=IWC2ZerqpFKDKnb4VdrlcA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GMJMqY-gwt0r1rZA-sCkEg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 187,
+        "photos": 1,
+        "reviews": 47
+      },
+      "comment": {
+        "text": "Beautiful place, great food and service. Could use a few better specialty cocktails. We had duck confit (superb) lamb stew (very good) and roasted eggplant (also very good)",
+        "language": "en"
+      },
+      "date": "2023-04-13T22:24:33Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rubi M.",
+        "user_id": "F17BDHOhnZqUK42dUHmwDw",
+        "link": "https://www.yelp.com/user_details?userid=F17BDHOhnZqUK42dUHmwDw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pPqkLXFf_mW9XoRE-gkL8Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 367,
+        "photos": 52,
+        "reviews": 32
+      },
+      "comment": {
+        "text": "What a pleasant surprise. We were celebrating my friends birthday. Seated on the third floor. The ambience was intimate. Food was delicious. We ordered appetizers, drinks, and hookah. Our server was kind. My only complaint is feeling neglected towards the end. I was ready to pay for my tab and wasn't able to find our server. Nonetheless, we had a great time.",
+        "language": "en"
+      },
+      "date": "2023-03-14T12:35:57Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Porsche H.",
+        "user_id": "5zrDUTEkXS8S9LW4a536sg",
+        "link": "https://www.yelp.com/user_details?userid=5zrDUTEkXS8S9LW4a536sg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/79SPcs6lLl-mLyil6fO10w/180s.jpg",
+        "address": "Zilker, Austin, TX",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "If you're looking for great food AND ambience this is the place for you! The new location is in the perfect location because each floor of the restaurant offers a unique experience. The service is outstanding and we always receive top notch attention! I also enjoy the hookah. Highly recommend",
+        "language": "en"
+      },
+      "date": "2023-05-13T15:47:28Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Johnathan N.",
+        "user_id": "OBfl6-ID-_oeAZ67WQoV0w",
+        "link": "https://www.yelp.com/user_details?userid=OBfl6-ID-_oeAZ67WQoV0w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ugqaInEKnpu4zdUDKK7q9A/180s.jpg",
+        "address": "Trenton, NJ",
+        "friends": 416,
+        "photos": 12,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "I came to place last minute for hookah and I must say! It's amazing. When you first walk in there is a door man asking if you have a reservation.  Then they walk around the venue, where there is different floors of scenery. It looks like for hookah it's on the top floor all separated from dining. \n\nOne thing it appears they use quick coals, so the hookah doesn't last long but I give 5 stars for the staff and the atmosphere!",
+        "language": "en"
+      },
+      "date": "2021-12-22T23:34:04Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/F6AxWqY_CRXZFsZqcGNHQA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Leshonda K.",
+        "user_id": "PHgwdjdZCHp7qkFa2LYSEw",
+        "link": "https://www.yelp.com/user_details?userid=PHgwdjdZCHp7qkFa2LYSEw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-ANfycNeKciGQp8QsYw6_g/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 46,
+        "photos": 318,
+        "reviews": 177,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Get place for delicious Persian food. This place is great for date night or just hanging out with friends. I love the intimate upstairs area where you can sit on couches eat, drink and smoke hookah. I've been here several times and have never been disappointed.",
+        "language": "en"
+      },
+      "date": "2021-10-31T18:32:48Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pDml-einknG4thj1gQlfWw/o.jpg",
+          "caption": "Blackened Verlasso Salmon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OJOe0g6M1u3MP0N-SE06qQ/o.jpg",
+          "caption": "Chocolate cake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Nuw3NP-hGYyiaM-aMy7ktg/o.jpg",
+          "caption": "Garlic Shrimp"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KWB3NaOXnLOhIeGwnniEXA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Roland C.",
+        "user_id": "JPjJGIpOFZiCII8gB7m_dw",
+        "link": "https://www.yelp.com/user_details?userid=JPjJGIpOFZiCII8gB7m_dw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ROZCkcrG7LLNjyxXcBznhg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 8,
+        "photos": 208,
+        "reviews": 131,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I found out today that Divan moved, not sure when that happened. I have a long history in this place. Even though I hate it moved, I am happy that they are at a new location since it's bigger. They have one of the friendliest GM's (he really is a great guy). The hookah is good, drinks are solid. Rating is sheerly based on customer service.",
+        "language": "en"
+      },
+      "date": "2022-08-28T03:52:48Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Marianne D.",
+        "user_id": "G_U_7DBF31aWrVdsbor7fw",
+        "link": "https://www.yelp.com/user_details?userid=G_U_7DBF31aWrVdsbor7fw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cbqMq6UAlzWxBU_ZRJs_Ug/180s.jpg",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "I've been to Divan several times, but this is my first time at this location since their move. They have some of the best Lamb Chops in the city. Although the new location is impressive, there were several things that impacted my experience.\n\n- Service:  5/10 We arrived for our reservation about 5 minutes early. I didn't necessarily care for where they seated us (right in the aisle way from the kitchen) and requested we be moved elsewhere, which they willingly did and we appreciated. However, it then took our server anywhere from 10-15mins to acknowledge us. There's also a 2hr limit per reservation and dress code doesn't seem to be strictly enforced. Our sever was friendly though and apparently hadn't been notified that we were now in his section. He also wasn't very attentive throughout the course of our dinner.\n\nOur seat was in a better spot but located near a door directly connected to the kitchen area (open concept) where the food was being plated. Before our food even came out, we noticed a fly pestering another table that eventually came over to our table when our food did come out, and a gnat that tried to climb into one of our wine glasses. I was also a bit turned off at seeing some of the staff walk into this same door directly from the walkway near valet with McDonald's drinks left right near the plates and the same area where the guests' food was being plated and put onto trays to be served. They stayed there for the remaining 1hr 30 we were seated, with one being placed directly on the shelf near some unused plates. I also didn't think it was very professional or sanitary to see staff use their bare hands to add garnishing onto peoples plates. It's super easy to subconsciously touch something that's been contaminated, so I'm surprised gloves aren't required here especially when the kitchen is in eyeshot of several guest tables.\n\n- Food: 10/10  I always get the lamb chops here and as usual, they didn't disappoint. My boyfriend didn't care for the Crab Risotto Croquettes. I enjoyed them, but we were both surprised at the size/portion.\n\nThe new location is great as well as the food, but the level of service is not on par with that I've experienced in the past with this restaurant (This seems to be an ongoing trend with restaurants in Atlanta these days). All in all, a great Friday dinner destination spot depending on when you go.",
+        "language": "en"
+      },
+      "date": "2022-08-07T13:46:57Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BloG-Clogk_x_dkJ08oJ-Q/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Melony G.",
+        "user_id": "IX_IJCGGknA2hZ5_dUBfbw",
+        "link": "https://www.yelp.com/user_details?userid=IX_IJCGGknA2hZ5_dUBfbw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dO3iLyMwcjyY7svwQsjgHw/180s.jpg",
+        "address": "Panama City Beach, FL",
+        "friends": 74,
+        "photos": 17,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "Nice atmosphere! Food excellent service top notch! The lamb chops are everything, you won't go wrong when you order them!",
+        "language": "en"
+      },
+      "date": "2022-08-15T01:52:01Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mi6MWwxJWYd8ibdJX4HmYg/o.jpg",
+          "caption": "Tiramisu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Gts5xA3tILZC1_PEbMxKYA/o.jpg",
+          "caption": "Spice Roasted Double - Cut Lamb Rib Chops"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Keith H.",
+        "user_id": "DrCbKOnnm1-sHQNfHqiVnA",
+        "link": "https://www.yelp.com/user_details?userid=DrCbKOnnm1-sHQNfHqiVnA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RKpa3Ln21Cp6UgQXp7nADA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 698,
+        "photos": 36,
+        "reviews": 129
+      },
+      "comment": {
+        "text": "Divan Restaurant & Bar(The Castle),  87 15th Street, Midtown Atlanta ( 15th Street, on the hill across from Woodruff Center) 470-388-5558 divanatlanta.com/  Divinely Divan's, a friend and I were going to a show at the Alliance Theatre, we wanted to find a spot for a quick bite, we were on a time limit. We first tried the restaurants at Colony Square they were all booked, so we decided to try the castle on the hill, Divan's. You've passed by it numerous times and never went in, so I decided to do it for you. (LOL) Divan's is multilevel, 4 floors, which encompasses a private dining room, a hookah lounge, a bar, so many cozy and quaint rooms. Divan's is casual with a touch of chic, the food creatively yummy.  My guest had slow cooked lamb shank with saffron, fava beans and dill balsamic rice.  I had blackened verlasso salmon with oyster mushrooms, linguine alfredo., oh I also had cardamon tea, so good!\n\nWe passed on dessert, it was time to head on over to the Alliance Theatre.  I'm excited to revisit so I can try their desserts and explore more floors, I hope to see you there.",
+        "language": "en"
+      },
+      "date": "2023-02-22T18:44:46Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sean S.",
+        "user_id": "3Ec62vUZ31YkaIN4SFt6bQ",
+        "link": "https://www.yelp.com/user_details?userid=3Ec62vUZ31YkaIN4SFt6bQ",
+        "address": "Charleston, WV",
+        "friends": 0,
+        "photos": 8,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "Wonderful restaurant ! Excellent menu with many choices. We started with the humus duo with tabouleh salad -'all delicious. Then we had the lamb chops and the salmon. All cooked to perfection! We also enjoyed a wonderful\nCabernet! Attentive and excellent service!! Loved this restaurant - highly recommended !",
+        "language": "en"
+      },
+      "date": "2023-04-03T20:07:36Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Stephanie M.",
+        "user_id": "orYPlE3BvH6dH3N9wxuzgw",
+        "link": "https://www.yelp.com/user_details?userid=orYPlE3BvH6dH3N9wxuzgw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/aqmgpl-t4Hrc4Xe9NE0sCg/180s.jpg",
+        "address": "Garden Hills, Atlanta, GA",
+        "friends": 95,
+        "photos": 454,
+        "reviews": 238,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Prefect date nice super cool\nQuiet atmosphere with light music in background . Private rooms this place so amazing and has been a staple of atlanta for years ! Ok so now on to the food!!! Big portions and bold flavors the unique crafted flavored all blend and make even staple dishes different and delicious! Duck confit was by far best I've ever had !!the lamb chops are big not lollipop at all! And the potatoes are crazy flavoring with a sweet finish. The shank is tender like falling off the bone. I'm\nConvince you can't go wrong here with any choice on the menu !!",
+        "language": "en"
+      },
+      "date": "2021-08-02T02:41:43Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Nya B.",
+        "user_id": "az5ohFmakiyVyulirEDA7A",
+        "link": "https://www.yelp.com/user_details?userid=az5ohFmakiyVyulirEDA7A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ojXfmjMBcnBIpBeDQvvOSQ/180s.jpg",
+        "address": "Alpharetta, GA",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Went for a friends birthday dinner and the food was amazing I would definitely go there again 10/10!",
+        "language": "en"
+      },
+      "date": "2022-10-24T21:06:45Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6rYMRFo5_dXomJOhZI8uKQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SH-yLwk0TTDq6rwtKcxLbQ/o.jpg",
+          "caption": "Blackened Verlasso Salmon  Spice Roasted Double - Cut Lamb Rib Chops"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Gina L.",
+        "user_id": "RdpLOQp3FlP2GfT9VzEwMA",
+        "link": "https://www.yelp.com/user_details?userid=RdpLOQp3FlP2GfT9VzEwMA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8VmdmXoCCoPsgLUH9b8HXw/180s.jpg",
+        "address": "Hollywood, FL",
+        "friends": 0,
+        "photos": 11,
+        "reviews": 26
+      },
+      "comment": {
+        "text": "great  date night  celebrating our 6th anniversay! Waitress  was  very pleaseant  food was delicious   and we even had some drama  in the table  next to us jajjaja  Will definately  retur  when back in town",
+        "language": "en"
+      },
+      "date": "2022-09-11T18:01:37Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SApOzzfvBGipVrfNt6TBpw/o.jpg",
+          "caption": "Basil Caramelized Sea Scallops very yummy"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mgg5WDYmvLHMN21Z5NAqQw/o.jpg",
+          "caption": "Hummus Duo with Tabouleh great   choice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/a7YlumkqVGsQVmOTm23ahA/o.jpg",
+          "caption": "Spice Roasted Double - Cut Lamb Rib Chops MUST TRY"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tim N.",
+        "user_id": "MLl5ZVlPbdPbdFjcHjmX3Q",
+        "link": "https://www.yelp.com/user_details?userid=MLl5ZVlPbdPbdFjcHjmX3Q",
+        "address": "Tuscaloosa, AL",
+        "friends": 43,
+        "photos": 16,
+        "reviews": 32
+      },
+      "comment": {
+        "text": "The cool historical structure sets an inviting tone. Service was top notch. The crab rice ball appetizer was delicious. It was a fair portion for one but too scant for two. But things were different for the entrees. Four of some of the largest scallops I've ever seen, most restaurants would serve three of these and get away with it -- so that was a bonus. They were perfectly cooked, and although I did want a little more flavor from the sauce (which maybe was just a little too subtle for my tastes), I'd still giving the dish five stars because four would be too low. The cauliflower side dish was perfectly seasoned and cooked, so believe your waitperson if they recommend it. The roasted potatoes I got as a side were two steps above most roasted tater sides, topped with bits of extra tasty diced aromatics. My wife's steamed PEI mussels were delicious and expertly prepared. All thumbs up.",
+        "language": "en"
+      },
+      "date": "2023-03-01T02:09:03Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D87eYuYAdT9fetlb5dwU6g/o.jpg",
+          "caption": "Scallops with cauliflower side, roasted taters, PEI mussels,"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mike R.",
+        "user_id": "oSKkJksRDa1RnzJVzRSJUw",
+        "link": "https://www.yelp.com/user_details?userid=oSKkJksRDa1RnzJVzRSJUw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5PJvk6gWGO0-f_loO1P4bw/180s.jpg",
+        "address": "Rancho Santa Margarita, CA",
+        "friends": 20,
+        "photos": 5,
+        "reviews": 75
+      },
+      "comment": {
+        "text": "great location. Best Lamb Chops i ever had. Shrimp was great as well and service is excellent!!!",
+        "language": "en"
+      },
+      "date": "2023-03-08T22:49:12Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Amber G.",
+        "user_id": "7Vynt6BGPGBV9idTB8I0Sw",
+        "link": "https://www.yelp.com/user_details?userid=7Vynt6BGPGBV9idTB8I0Sw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/t4JQWehOpvU-RohGkdChpQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 32,
+        "photos": 298,
+        "reviews": 181,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Awesome. Great customer service. India was our server and she was great! Parking is validated by the restaurant in a nearby garage. Complimentary valet was not available on the night we went.  I recommend the duck appetizer and also the shrimp appetizer. I enjoyed the lamp chops as an entree and the Persian donuts for dessert were a hit! Love the new venue! Great for date night and groups!",
+        "language": "en"
+      },
+      "date": "2021-12-18T03:00:29Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fJzuD0QhJVHKcbFn0kwN0A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DPRReT4Lg092Q-Xng7N2RA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Paf2qf_Cu_3Smz77KYvtJQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Fadam A.",
+        "user_id": "gEa6kvNMaZ98YGTVjP8HyA",
+        "link": "https://www.yelp.com/user_details?userid=gEa6kvNMaZ98YGTVjP8HyA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/G51jpxxDbnauVTdk0hvwqA/180s.jpg",
+        "address": "Baltimore, MD",
+        "friends": 6,
+        "photos": 1,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "This place was perfect. Low key , quiet and elegant but still so relaxed. The food was perfect and the service was exceptional. I'm sure it's busy on the weekend. I will be back for sure",
+        "language": "en"
+      },
+      "date": "2023-03-06T04:38:30Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tonisha C.",
+        "user_id": "xutDH6pbreufu2BRiCwI0A",
+        "link": "https://www.yelp.com/user_details?userid=xutDH6pbreufu2BRiCwI0A",
+        "address": "Douglasville, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Food was great! Hot and cooked to perfection! drinks were good! Friendly staff! service was great, loved the ambiance!",
+        "language": "en"
+      },
+      "date": "2023-10-04T18:24:25Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kevin S.",
+        "user_id": "nDmepXfhRQW8JMOP3CvzHA",
+        "link": "https://www.yelp.com/user_details?userid=nDmepXfhRQW8JMOP3CvzHA",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "I had higher expectations for this place but the food served to us was reheated and not freshly made.  A leftover from the previous night.",
+        "language": "en"
+      },
+      "date": "2023-09-02T23:21:15Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Harsh D.",
+        "user_id": "85UHhiNHg4nqDskkaiOqfg",
+        "link": "https://www.yelp.com/user_details?userid=85UHhiNHg4nqDskkaiOqfg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wpTIoLjiHMIBpDwDBU7ogQ/180s.jpg",
+        "address": "Edison, NJ",
+        "friends": 81,
+        "photos": 2,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Lovely place and delicious food. Jordan was our server and he was super nice and helpful. He gave us good suggestions and was fun to talk to. Will definitely recommend this place.",
+        "language": "en"
+      },
+      "date": "2022-09-10T23:43:41Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VOWOLpLXjtHUl28YqjrPVg/o.jpg",
+          "caption": "Divan 's Spice Blend Lamb Kabob"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/msa3gFWHC3YzoES70e28Cg/o.jpg",
+          "caption": "Springer Mtn Saffron Chicken Kabob"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Michael M.",
+        "user_id": "KOzbHMy1t-KNLbKK6YuVLA",
+        "link": "https://www.yelp.com/user_details?userid=KOzbHMy1t-KNLbKK6YuVLA",
+        "address": "Atlanta, GA",
+        "friends": 9,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "I threw myself a birthday party at Divan about a week ago. I had never been but a good friend highly recommended it. I was looking for a sophisticated spot with good drinks, hookah lounge, and good food. Divan had all of these, and I was more than satisfied with my experience. Here's an all-inclusive snapshot of my night there(if you've got a minute):\n\nPulled up to the spot and they've got $10 valet service. The valets were on point but they had me go across the street to pick up my car (not cool).\nThe doorman is definitely good at his job, and always had the door ready coming and going.\nThe hostesses were a bit snobby. Definitely beautiful to look at, though.\nThe place may have been a house and might even be historical. There were 4 floors. Bottom two had open bars and dining. Third floor was the hookah floor with private rooms (where I was at) and open dining. The top floor I didn't know much about but super high status up there (so I assumed). A few of us chilled at the second floor bar before the party and the ambiance and vibe was just right. Lights were a bit dim, the crowd is enjoying themselves, and it had a very positive feel. I loved it.\nMy attendant to the room (G) was on point. He provided excellent service, understood how to take care of my guests, and was agreeable to my requests without hesitation. I won't go into the details but he and his staff went above and beyond that night.\nThe room was definitely relaxed and intimate. We had control of the thermostat, lighting, and could keep the door closed. Hookahs we're burning all night, the Mediterranean cuisine was probably up there with the best in the city (the lamb was incredible!), and the cocktails were outstanding. By the end of the night everyone was really enjoying themselves and no one wanted to leave.\nFinally, I want to thank misdee, the event coordinator. I contacted her through the Divan website and she responded within the hour. She was available and responsive anytime I called or emailed her. I was in contact with her on and off up until the event and she was very cool, helpful, knowledgeable, and willing to work with me during the entire process. There was never any confusion between us about the contract, what was included, any adjustments, or the bill. She certainly has the skills to plan an event and she means business. I wouldn't waste her time or Divans unless you're serious.\nAll in all, expect a great experience all around because that's what my guests and I had and what you deserve. Definitely going back! 5",
+        "language": "en"
+      },
+      "date": "2023-08-31T20:16:42Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Cindy Z.",
+        "user_id": "eCrF7PH812mYPAjMffUseg",
+        "link": "https://www.yelp.com/user_details?userid=eCrF7PH812mYPAjMffUseg",
+        "address": "Toco Hills, Atlanta, GA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "The place is pretty amazing, Good ambiance, good food with a super friendly and helpful Staff .",
+        "language": "en"
+      },
+      "date": "2023-02-08T13:01:51Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/r42egatrGJkr0aJa6gSO_Q/o.jpg",
+          "caption": "Duck Leg Confit"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/f1TvEMhLvfupnW-_9sYkjg/o.jpg",
+          "caption": "Spicy Shrimp"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Stella N.",
+        "user_id": "ptqEF0QqXl0bj0vff_Ya_g",
+        "link": "https://www.yelp.com/user_details?userid=ptqEF0QqXl0bj0vff_Ya_g",
+        "address": "Cumberland, Atlanta, GA",
+        "friends": 118,
+        "photos": 7,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "We came for Valentines & everything was amazing, especially the food!! Our total was $170 excluding tip & it included the 2 meals, 2 margaritas, 2 bottled water, & 1 hookah . Our server (I believe it was Silas) was amazing & made sure to check on us regularly even though it was quite busy . The ambiance is nice! We used to go to the old location but this is bigger & better with 2 or 3 levels . There's a parking deck right next door & it was $15. Overall, wonderful place!",
+        "language": "en"
+      },
+      "date": "2023-02-21T23:12:49Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Mix0IgS1DY_E49q9dN5gag/o.jpg",
+          "caption": "Creekstone Natural Angus Filet Mignons"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/14hLIYQsVrYV7MZ9yph2Ag/o.jpg",
+          "caption": "Blackened Verlasso Salmon"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Donna T.",
+        "user_id": "Tz1iTOAW8vaGVY-A9RqPkQ",
+        "link": "https://www.yelp.com/user_details?userid=Tz1iTOAW8vaGVY-A9RqPkQ",
+        "address": "Weatherford, TX",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 42
+      },
+      "comment": {
+        "text": "Geeat ambiance.  The pinot noir wine I ordered from Italy was very smooth.  I started off with the crab risotto croquettes.  So good.  For the entree I had the salmon which was in the top 3 reccomendations by the bar tender.  Cooked perfectly.  I ended with the Persian donuts.  Even though I was full I ate them all.  The grand marnier was the kicker.  Service was okay.  So convenient to the Arts center so I will definitely go again before a performance.",
+        "language": "en"
+      },
+      "date": "2023-09-16T12:10:05Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "T W.",
+        "user_id": "UL8yQJLp7DXAYfMN1npnHw",
+        "link": "https://www.yelp.com/user_details?userid=UL8yQJLp7DXAYfMN1npnHw",
+        "address": "NC, NC",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Planned a birthday event with the help of the GM Andrew, and it was GREAT!! The Service, Food, Drinks, Ambiance, EVERYTHING was on point.  Divan never disappoints me..",
+        "language": "en"
+      },
+      "date": "2023-08-12T13:44:38Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jane C.",
+        "user_id": "D2ozKRpgWJCALJZhmY2_Fw",
+        "link": "https://www.yelp.com/user_details?userid=D2ozKRpgWJCALJZhmY2_Fw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4uM_zHdIHDfcS3UEpS93Qg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Wow, this is one of the best meals I've had out in a while. I've been dining out frequently these days and to be honest they've all be letting me down sadly... but Divan really showed up.\n\nMy friend and I shared Turkey meat balls, The Duck leg Confit and the Lamb Shank. \n\nThe Turkey meat balls was fantastic. It was perfectly creamy with some texture and also the tomatoes and onions on top were great. They also give you unlimited bread to go with it. Delicious.\n\nThe Lamb Shank truly wowed me. I love Lamb but have eaten way too many overcooked Lamb at restaurants before. This was not the case with the Lamb here. It was moist and it felled of the bone. Also, perfectly salted.\n\nService was great, staff is kind and attentive! The only downside is the cocktails not up to par, but the General Manager came say hi and explained that they're about to launch a craft cocktail program, very experienced and professional individual and also a certified sommelier, He recommended a glass of wine that really hit the spot instead of the overly sweet taste less Strawberry margarita!\n\nI'm so happy we got to eat here - I had dinner with a friend but I'm planning on coming again with my spouse.\n\nAlso, my Persian friends said they love this spot so that's all I really need to confirm this place is legit!",
+        "language": "en"
+      },
+      "date": "2022-08-27T20:54:59Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "M W.",
+        "user_id": "2_1DrGUzFKaAJ8Vmm3l6fA",
+        "link": "https://www.yelp.com/user_details?userid=2_1DrGUzFKaAJ8Vmm3l6fA",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "I had brunch. The blackened salmon and Brussels were wonderful. Service was on point. Didn't want for anything. The owner was around and she was very friendly offering us local information such as where to buy beef bacon. If you haven't tried beef bacon, don't hold back because it's awesome. Ambiance was relaxing.",
+        "language": "en"
+      },
+      "date": "2023-08-27T17:59:41Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Cecilè C.",
+        "user_id": "hLYBFgDSylWiB84h6zJd5g",
+        "link": "https://www.yelp.com/user_details?userid=hLYBFgDSylWiB84h6zJd5g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-R97bk5yqJ3n1gW76CO86A/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 291,
+        "photos": 797,
+        "reviews": 304
+      },
+      "comment": {
+        "text": "Must go.\n\nFood is good, service is A+\n\nValet..\n\nNot like home but it's pretty close.\n\nHookah is good considering the $$.\n\nDon't sleep on Divan..",
+        "language": "en"
+      },
+      "date": "2022-06-23T00:03:43Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jared B.",
+        "user_id": "PLhmfdI7yH1KihnQ-7gPsg",
+        "link": "https://www.yelp.com/user_details?userid=PLhmfdI7yH1KihnQ-7gPsg",
+        "address": "Sandy Springs, GA",
+        "friends": 3,
+        "photos": 1,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Highly recommend. Great environment, friendly staff, and the food was perfect. Price reflects the experience. I will make this a stop on my next trip to Atlanta for sure!!",
+        "language": "en"
+      },
+      "date": "2023-02-07T20:26:01Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qfatzJGioMsIVOnIpd79TA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Denise W.",
+        "user_id": "IL2hl3XofTSPdjw2mvmb4Q",
+        "link": "https://www.yelp.com/user_details?userid=IL2hl3XofTSPdjw2mvmb4Q",
+        "address": "Decatur, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "i love love love this place. my favorite restaurant in atl. when i visit i have to go here. the lamb chops are to die for. the customer service is amazing & the building is like a beautiful castle. date night is right here. go here if you want great food and a great night",
+        "language": "en"
+      },
+      "date": "2023-12-10T18:20:52Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Farzana Z.",
+        "user_id": "rU23YJOYGpwwi5azzA7IKQ",
+        "link": "https://www.yelp.com/user_details?userid=rU23YJOYGpwwi5azzA7IKQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CVzzFPwg71rjIiDvVKqr1Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 288,
+        "photos": 577,
+        "reviews": 126,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I bookmarked this restaurant 6 months ago, and finally\nhad the chance to try it out. I heard that their hookah is pretty decent but haven't tried it out myself. The ambience is perfect for a date night! However, if you want to go with family, then I will suggest to reserve table 1 because it can accommodate up to 5 people and is in a separate room from the main dining area. The manager and the servers are very welcoming. \n\nEach and every dish we ordered turned out really tasty. Sadly, they didn't have a vegetarian option on their entree menu but that wasn't a problem at all because they have a delicious falafel appetizer and various veggie sides. I was well satisfied with my entree of Bakhtiyari kabob as the meat was tender and flavorful. Please be careful with their hot sauce because even though it is tasty, it is extremely hot. \nThe best part of the dinner experience was the dessert! When our server said there will be a 15 minutes cooking time for their most popular dessert, I was going to ask for the check but then I thought of giving it a try. I am so glad I waited and tried it, the saffron ice cream was mind blowing and the chocolate tarragon cake was heaven! I would go back any day for this cake.",
+        "language": "en"
+      },
+      "date": "2020-01-22T20:27:03Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LmJDwmOh7lGINmpyTkgpsw/o.jpg",
+          "caption": "Jalapeno Falafel appetizer $9 Side of Garlic Green Beans $5 Basmati Rice $5"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ue_F5wQFT17jNzkWxtaAkQ/o.jpg",
+          "caption": "Bakhtiyari Kabob  Beef tenderloin and Chicken Saffron kabob with pickled beet, sumac onion, onion with parsley and a charred tomato $31"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Rvk9JTgKuocUxL_dEmLs1w/o.jpg",
+          "caption": "Chocolate Tarragon Cake with Saffron Ice cream $7"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/v8CL5nKwi4VJsFYNqoav2g/o.jpg",
+          "caption": "Spicy Potatoes for Appetizer  $7  Soup of the day- Tomato Basil $6 Prosecco from Italy $11"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 2,
+        "cool": 3
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=usob9YcE7rhpJcaCwv5J_Q&start=160"
+  }
+}

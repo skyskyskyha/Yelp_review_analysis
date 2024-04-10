@@ -1,0 +1,1600 @@
+{
+  "search_metadata": {
+    "id": "65f0a276e93ff4694faf941f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f0a276e93ff4694faf941f.json",
+    "created_at": "2024-03-12 18:44:06 UTC",
+    "processed_at": "2024-03-12 18:44:06 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/vFulipMlcFyN60_SyAhjyA?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a276e93ff4694faf941f.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a276e93ff4694faf941f.prettify",
+    "total_time_taken": 1.81
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 170,
+    "num": "50",
+    "place_id": "vFulipMlcFyN60_SyAhjyA"
+  },
+  "search_information": {
+    "total_results": 1013,
+    "business": "Twin Smokers BBQ"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 1013
+    },
+    {
+      "hl": "pt",
+      "count": 1
+    },
+    {
+      "hl": "es",
+      "count": 2
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "May C.",
+        "user_id": "qzjMPTmaZ6o-zNfQEPeALA",
+        "link": "https://www.yelp.com/user_details?userid=qzjMPTmaZ6o-zNfQEPeALA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/J2Y-JiZQLaCcIOlNuFNPWg/180s.jpg",
+        "address": "Jersey City, NJ",
+        "friends": 553,
+        "photos": 808,
+        "reviews": 779
+      },
+      "comment": {
+        "text": "Um yeah, I wouldn't come here. My husband and I were craving BBQ so we stopped here for dinner. The space itself is very nice - it feels very open and there's a lot of seating available. When we went to place our order, we asked for the combo platter (2 meats with 2 sides) and a small order of the chicken. We wanted to get the ribs and brisket, but our waiter told us they ran out of that and we were supposed to be told prior to being seated. Okay, off to a rough start, but fine, we'll get something else. Sausage please! Nope, also out of that. Are you guys kidding me? How are you out of food already? It was only 6:30 pm!\n\nWe received our order within 5-10 minutes of placing it. That's odd, barbeque takes time and this came out super quick. And we finally found out why. Brisket was a bit dry and pulled pork was nothing to rave about. The only meat I liked was the chicken. That was actually very juicy and flavorful. The mac and cheese honestly takes like kraft mac and cheese. The corn souffle was amazing, but it was drenched in butter. The butter settled at the bottom of the dish - it was quite disgusting once you realized how much butter they used to make that side.\n\nService was okay, nothing to brag about. Overall, I wouldn't come back. There are much better BBQ places that is also cheaper.",
+        "language": "en"
+      },
+      "date": "2018-09-18T02:54:21Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 4,
+        "funny": 2,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Victor G.",
+        "user_id": "NPA6KXWonGKeILWFpswuWA",
+        "link": "https://www.yelp.com/user_details?userid=NPA6KXWonGKeILWFpswuWA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZGJ2gn5-UbG929i-8A8GGQ/180s.jpg",
+        "address": "Doral, FL",
+        "friends": 113,
+        "photos": 28,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Impressed. Really good tasty food, fast service, right in the heart of downtown Atlanta. I wasn't sure what to expect until I walked in from a cold/rainy Atlanta, the minute I got in, the southern/Texas bbq style smell really hooked me. Price is not bad at all. Definitely a must stop while in A-Town next time...",
+        "language": "en"
+      },
+      "date": "2019-01-13T01:29:43Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lzkM6sD1QckxMkaTIcvHyQ/o.jpg",
+          "caption": "Pulled pork, brisket, Mac & Cheese and delicious chilly"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Paul M.",
+        "user_id": "tI07ZdOpLPBWNoXW88mqVA",
+        "link": "https://www.yelp.com/user_details?userid=tI07ZdOpLPBWNoXW88mqVA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Qd7KQ1KeGTFlTX6iHgwlNg/180s.jpg",
+        "address": "Lake Worth, FL",
+        "friends": 68,
+        "photos": 29,
+        "reviews": 39,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Found this place via yelp reviews. It lived up to your ratings. If you are in Atlanta and closer to the Dome. It's a great retreat. I hope you enjoy it as much as I did. Smoked wings appetizer was great.",
+        "language": "en"
+      },
+      "date": "2016-10-29T17:51:54Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E5YsnaF-y7O6spA6aUnCMg/o.jpg",
+          "caption": "BBQ sauce on the side."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9RI14blS1mq_WpaV-Thwag/o.jpg",
+          "caption": "Wings appetizer and blue platter."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/q7ujpu6q8MTDHyxvxMLm6Q/o.jpg",
+          "caption": "Bells three hearted ale. Nice IPA without the excessive pine tar notes of big IPA's"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Bill B.",
+        "user_id": "yQNCO1vBTz9N3yzCp_oXwA",
+        "link": "https://www.yelp.com/user_details?userid=yQNCO1vBTz9N3yzCp_oXwA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ht6I72VbG44uWjhq84Yz3A/180s.jpg",
+        "address": "Orange Park, FL",
+        "friends": 42,
+        "photos": 0,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Might be a great place normally,  I went during the SEC Championship game and the service was totally overwhelmed. Took an hour to get a table, and that's while seeing tables sit open for 30 min plus. Once seated it took another 20 minutes to get water and 10 after that to get an order taken. Still waiting for food after another 20 minutes... we'd have left if we hadn't  already invested so much time...\nOk, food was good. Based on the other reviews this is probably a good place to eat... just needs more help during events - which I assume is a good part of their business?",
+        "language": "en"
+      },
+      "date": "2019-12-07T19:57:36Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jai R.",
+        "user_id": "8k5hpUJ8b_uaGihQmsatgA",
+        "link": "https://www.yelp.com/user_details?userid=8k5hpUJ8b_uaGihQmsatgA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ImK46nhjMt7yo4uPQcRttA/180s.jpg",
+        "address": "Saint Louis, MO",
+        "friends": 8,
+        "photos": 4,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "This meal was AWESOME! Had the pulled pork belly, mac and cheese, and potato salad. Potato salad was made with red potatoes, corn, and a mayo base... mac and cheese had bread crumb topping. \n\nTry the sweet and spicy Memphis sauce!!!",
+        "language": "en"
+      },
+      "date": "2017-06-11T03:13:58Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VJYWK9fOSX9geihNelg2Ig/o.jpg",
+          "caption": "Pulled pork mac and cheese, potato salad"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Paul And Kelly T.",
+        "user_id": "t0Cfqts6o8i20eOuqWmFKQ",
+        "link": "https://www.yelp.com/user_details?userid=t0Cfqts6o8i20eOuqWmFKQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/USNt9q_m2HUoGtuoykvQSw/180s.jpg",
+        "address": "Boca Raton, FL",
+        "friends": 131,
+        "photos": 31,
+        "reviews": 80
+      },
+      "comment": {
+        "text": "Well WOW IS ALL THAT I CAN SAY \n\nFrom the amazing smoked wings to the smoke Mac and cheese and the damm cornbread was on fire.   I honestly can say that when I return to Atlanta this is my go too !!!!!\n\nAwesome awesome",
+        "language": "en"
+      },
+      "date": "2019-02-24T17:55:39Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Paul H.",
+        "user_id": "-Nyv5ksigt0OvHgDsj87AQ",
+        "link": "https://www.yelp.com/user_details?userid=-Nyv5ksigt0OvHgDsj87AQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DuCZV3n-f-rWCwEZ8Mvyqg/180s.jpg",
+        "address": "London, United Kingdom",
+        "friends": 32,
+        "photos": 3,
+        "reviews": 45
+      },
+      "comment": {
+        "text": "Cruised in here solo for a late lunch recently. I would happily say it's now in my top 3 bbq experiences to date.\nI had a mixed plate of ribs and brisket with slaw and mac n cheese on the side.\nJust perfect really. The brisket was the best I've ever had.\nGreat staff, great looking restaurant, I haven't a single negative to add. I'll be back!\n\nEdit : I actually came back the next day with 2 friends. It was just as good second time around.",
+        "language": "en"
+      },
+      "date": "2016-08-28T13:32:16Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/I4jSYaIrUeKHsbMUZAFaqw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Greg L.",
+        "user_id": "REFGsoLynoBWxdTEJeXYfw",
+        "link": "https://www.yelp.com/user_details?userid=REFGsoLynoBWxdTEJeXYfw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PvQXDfaSP-7Dic6JqVbJtA/180s.jpg",
+        "address": "Collegeville, PA",
+        "friends": 114,
+        "photos": 1497,
+        "reviews": 974,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Was in town for a conference and was hoping to get some good BBQ while I was down south. Went with the BBQ brisket sandwich and mac-and-cheese for my side. Maybe I should have asked for lean meat as there was a bit more fat in my sandwich than I like. The meat also didn't quite have the smokey flavor that I like. The mac and cheese was decent although a little dry. All in all, just OK for me.",
+        "language": "en"
+      },
+      "date": "2016-09-26T00:44:57Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ew8p7slAOM8tlYtmv_RBRQ/o.jpg",
+          "caption": "Brisket sandwich with mac and cheese for side"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Davina G.",
+        "user_id": "nZnTw4Nabs4LjelL3n2qew",
+        "link": "https://www.yelp.com/user_details?userid=nZnTw4Nabs4LjelL3n2qew",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gi7JIgPjtAsCD8h_B7BK_w/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 67,
+        "photos": 204,
+        "reviews": 670,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This is my second trip to this restaurant, first time was mediocre and second visit was below mediocre. The issue is the meats are just dry as a bone. The first rack of ribs brought to me were so well done, the top was burnt and the meat inside was dehydrated. Sent them back and asked for something less well done; server complied but second go round still meh. All the sides were dry too (mac n cheese, corn casserole etc). My hunch is they smoke early, meat is re-warmed for hours; sides are preprepared early to the same affect. Very limited menu too. Wouldn't recommend.",
+        "language": "en"
+      },
+      "date": "2018-08-16T04:43:03Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Arlena S.",
+        "user_id": "bkOdbb0TfTwpzSmTzBBGBg",
+        "link": "https://www.yelp.com/user_details?userid=bkOdbb0TfTwpzSmTzBBGBg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/E-SFCeL7hbSniDWzgR4-sQ/180s.jpg",
+        "address": "Panama City, FL",
+        "friends": 63,
+        "photos": 9,
+        "reviews": 25
+      },
+      "comment": {
+        "text": "Great BBQ!!! \nEverything we had was amazing. My husband had the pulled pork sandwich, collard greens, and cornbread. I had the St. Louis style ribs (half rack) and mac and cheese. The ribs pretty much fell off the bone and were well seasoned. I used the Spicy BBQ sauce but they could have been eaten plain honestly. The mac and cheese was amazing great homestyle baked recipe. \nMy husband was in love with the cornbread and loved every minute of it. I also had a margarita which wasn't great and the first one had something in it. The staff was very polite and helpful.",
+        "language": "en"
+      },
+      "date": "2018-08-22T22:40:52Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Pooja L.",
+        "user_id": "uAnD62wikPAMZibuVUApdw",
+        "link": "https://www.yelp.com/user_details?userid=uAnD62wikPAMZibuVUApdw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ki77qBAQmZ3hwHPaLAuqeg/180s.jpg",
+        "address": "Modesto, CA",
+        "friends": 386,
+        "photos": 111,
+        "reviews": 98,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Stopped in Atlanta for a quick bite to eat before getting back on the freeway. We're from California and really wanted to eat southern BBQ. The service here was great, very attentive waitress. The restaurant itself is really nice as well. Sadly the food was only okay. I got the pulled chicken with potato salad and my bf got the ribs and brisket with cornbread and Mac and cheese. The chicken needed a little more flavor in my opinion, even with massive amounts of their bbq sauce smothered on the meat, still tasted bland. I wasn't expecting my potato salad to be chunks of potato, lol. The Mac and cheese was alright, the cornbread was different to me, but tasted really good! The ribs and brisket were okay said my boyfriend but idk really. He's spoiled with his brothers bbq. Nice location, and they validate parking if you park across the street. Probably wouldn't come back if I was in Atlanta again.",
+        "language": "en"
+      },
+      "date": "2018-10-15T04:33:32Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VkW5hDnf01Nuyhgip08PpQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Destinee D.",
+        "user_id": "vcV213_BFuK7OyZ0DRqPLA",
+        "link": "https://www.yelp.com/user_details?userid=vcV213_BFuK7OyZ0DRqPLA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qOQGgo8zUGfphtgpoZNHFQ/180s.jpg",
+        "address": "Newport News, VA",
+        "friends": 127,
+        "photos": 17,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "The brisket and ribs were amazing. Really tender and juicy. The greens had this sweet tangy taste that I did not like. The Mac and cheese was good, my fiancé's Mac and cheese was really cheesy but mine was dry. The potato salad potatoes were a little hard. It it wasn't for the actual barbecue I would give it a 2.",
+        "language": "en"
+      },
+      "date": "2019-06-24T21:35:14Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/P_cWe2mPCJbIamE2dobldQ/o.jpg",
+          "caption": "Bar"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Twin S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/EqrOGI0iaE_EcuIxET-jMA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for your review Destinee!  We have followed up on your notes since this review.  We are currently closed for renovations, but will be re-opening at the end of this month.  We hope you can come back and try us again next time you are in the neighborhood!",
+          "date": "2019-08-11T17:01:52Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Erikka N.",
+        "user_id": "EEg9ObZyU6lwMYuHUvg5lw",
+        "link": "https://www.yelp.com/user_details?userid=EEg9ObZyU6lwMYuHUvg5lw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xyqKCNmqT_HCcybRiPtv9g/180s.jpg",
+        "address": "Jacksonville, FL",
+        "friends": 259,
+        "photos": 432,
+        "reviews": 292
+      },
+      "comment": {
+        "text": "So after doing some tourist-y things in Atlanta, we worked up an appetite.  So we were right between Twin Smokers and Stats. Twin Smokers had higher stars, so we went there.  This is what makes Yelp so awesome.\n\nTwin Smokers motto is 'Burbon and bbq'.  They do both very well. We were seated immediately and then our server brought us some pork rinds...which were very tasty!  I had a brisket sandwich with corn soufflé as a side.  The brisket had an excellent smoke flavor and was VERY tender.  The corn soufflé was excellent as well.  They have a variety of BBQ sauces based on different regions of the south. I went with Memphis. \n\nI also had a cocktail....Georgia peach tea...it had Burbon in it. A perfectly balanced drink...not to strong, not too sweet. \n\nI cannot wait to come back to Atlanta and eat here again.",
+        "language": "en"
+      },
+      "date": "2016-06-07T13:39:58Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vmMxnCyhkjUjGoHapKjrPQ/o.jpg",
+          "caption": "Complimentary pork rinds"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SJl4SVKvojcLUUkZ8GBzew/o.jpg",
+          "caption": "Georgia Peach Tea"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/B1MlWdfounclbz8vlZWm4g/o.jpg",
+          "caption": "Beef brisket sandwich and corn soufflé"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Douglas Y.",
+        "user_id": "UPC4orX2XMblQosGrH-nwQ",
+        "link": "https://www.yelp.com/user_details?userid=UPC4orX2XMblQosGrH-nwQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ou7vrmiJBn8lDjbRxQFGlQ/180s.jpg",
+        "address": "Chicago, IL",
+        "friends": 653,
+        "photos": 110,
+        "reviews": 69
+      },
+      "comment": {
+        "text": "I was not very impressed with Twin Smoker's. The service was great, and the sides as well. However it is the meat that makes a bbq joint, and they fell a bit short for me.\n\nMy girlfriend and I shared 1/2lb of pulled pork and the blue sky combo plate with brisket and the sausage. The pulled pork was dry. Putting sauce on it helped (and they have a great sauce selection), but I shouldn't need to douse my pulled pork in sauce to enjoy it. Their brisket was good (not dry!) with good flavor. My issue is there was barely any of it! For the price of the combo I was expecting more meat and was very disappointed when I saw how much was on the plate. The sausage tasted good, but nothing too special.\n\nSides: Cornbread was really good - I love cornbread and theirs is one of the top ones ive had. Mac and Cheese was delicious, very cheesy. Their season side was this cream of corn kind of thing and it was tasty, a nice blend of sweet/savory.\n\nFor the price I was expecting better barbeque, but everything else was decent. Maybe I am spoiled from the bbq in Texas but Twin Smoker's didn't meet my expectations.",
+        "language": "en"
+      },
+      "date": "2016-08-17T17:36:08Z",
+      "rating": 3,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4y6PKVOs-_O5eMxUXaEKCg/o.jpg",
+          "caption": "Great sauce selection!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rK014UTkZSHB-pGLg0L9CA/o.jpg",
+          "caption": "Pulled pork. Was dry :( but cornbread was great!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FnGQhlZFCarn4aYTImUGcQ/o.jpg",
+          "caption": "Blue sky - why so little meat!?"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Daniel L.",
+        "user_id": "rgbjH5ZDNlo3XecTAP0LEw",
+        "link": "https://www.yelp.com/user_details?userid=rgbjH5ZDNlo3XecTAP0LEw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/E9CIu2qZFGK1WTqXhp4JZw/180s.jpg",
+        "address": "Seattle, WA",
+        "friends": 206,
+        "photos": 91,
+        "reviews": 137
+      },
+      "comment": {
+        "text": "Not what it used to be. I first came here a couple of years ago when the Mac n cheese was quality cheese with unique noodles, but in my visit today the cheese tasted like shredded cheese from a grocery store. The ribs were a bit dry. However, the brisket was delicious as always and are writhing coming in for a try. Also, the varieties of various bbq sauce is great. They have sweet, spiced sweet, and spicy for those with numb taste buds. Solid place, but a bit overpriced for what you get these days. Nonetheless, I finished all my food cuz I'm not a chum and I love some good southern bbq.",
+        "language": "en"
+      },
+      "date": "2018-07-16T05:31:31Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zXb_sNrhKOl1x5AV0JP9nQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Randy A.",
+        "user_id": "6xP9_2UsxmfVT7cBsl7nvw",
+        "link": "https://www.yelp.com/user_details?userid=6xP9_2UsxmfVT7cBsl7nvw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OLFXzOvQWx-Oi8zyqYDr6w/180s.jpg",
+        "address": "Sacramento, CA",
+        "friends": 26,
+        "photos": 47,
+        "reviews": 49
+      },
+      "comment": {
+        "text": "First time we tried to dine here, around 8:30 on a Thursday, they were already sold out of BBQ. So the next time we made sure we arrived earlier in the day.\n\nA quick walk from Centennial Park/Coke Museum the newly renovated location was very comfortable and had great customer service. \n\nWe had a large group, so we ordered a little bit of everything. All of it was tasty. Ribs and Brisket seem to be the overwhelming favorite of the group. Great Beer selection, but most of it is in cans. A nice ice cold glass is delivered to go with the beer, upon request. \n\nThe sides were Very good, especially the greens and broccoli salad. Everyone went home very full!",
+        "language": "en"
+      },
+      "date": "2019-09-11T02:22:59Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Twin S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/EqrOGI0iaE_EcuIxET-jMA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Randy, thank you for your review!  We are glad you and your group had a great time and were able to sample a little bit of everything.  Next time you are in town, don't be a stranger.",
+          "date": "2019-09-19T15:57:53Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Omar M.",
+        "user_id": "adanYQTUgetP_pT9qHDZzg",
+        "link": "https://www.yelp.com/user_details?userid=adanYQTUgetP_pT9qHDZzg",
+        "address": "Hialeah, FL",
+        "friends": 1,
+        "photos": 44,
+        "reviews": 43
+      },
+      "comment": {
+        "text": "Stopped in here before I headed to the airport. We sat down right away as the place was empty. Great smell upon walking in. We ordered and food came out in less than 5 minuets. \nI had the 1/2lb brisket with potato salad and corn bread. It was all very good. My wife ordered the 1/2 rack of ribs with a side of mac and cheese. The ribs they had a nice char on them and the mac/cheese was great.\n\nThis place also has a nice selection of sauces, about 5 to choose from. Overall a good experience.",
+        "language": "en"
+      },
+      "date": "2019-05-28T20:31:58Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R9ndumtzKPN-pcoCeIiM9g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/khikkSM3AZOyy4GM_b0w0A/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chris S.",
+        "user_id": "0raxI0uiOG-HLVdJD55i3Q",
+        "link": "https://www.yelp.com/user_details?userid=0raxI0uiOG-HLVdJD55i3Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HSMZTqqTNukgkYclh5YVOQ/180s.jpg",
+        "address": "Seattle, WA",
+        "friends": 4,
+        "photos": 0,
+        "reviews": 111
+      },
+      "comment": {
+        "text": "It's better BBQ than you'd expect from a place that serves martinis. It's far better than a chain restaurant in a mall parking lot. \n\nMaybe I was disappointed because I read some really thrilled-sounding reviews. As if people drove specifically to go here. Twin Smokers does nothing \"wrong.\" There's just nothing truly inspired about it. \n\nWhile authentic in terms their smoking low-and-slow chicken and pork, the result does not compete with places that put a lot of love into what they make. Also, the portions are small.\n \nThe variety of the sauces at the table is a welcome addition. My enthusiasm for pan-regional saucing made up for some of my disappointment when I saw the  ice-cream-scoop-size servings of meat and side. \n\nTrying one sauce after another, the \"Southern\" one was tasty - but none of them feel like they have been really cared for. These are not recipes that have been passed down through generations, or refined through passionate exploration. \n\nThe pickles flung on a piece of paper next to your plate for down-home flair, are made with a homemade brine. Those are a nice touch. \n\nIf you love bbq, it is not a destination spot, but it is solid. You might be really happy stumbling onto this bbq if you find it around the corner from your hotel.",
+        "language": "en"
+      },
+      "date": "2018-07-28T21:40:24Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brandon T.",
+        "user_id": "FlNpaycGSkrBbeZ1T3756Q",
+        "link": "https://www.yelp.com/user_details?userid=FlNpaycGSkrBbeZ1T3756Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PXdFMLGy2bVWm8WQYdOZXA/180s.jpg",
+        "address": "Dacula, GA",
+        "friends": 26,
+        "photos": 7,
+        "reviews": 17
+      },
+      "comment": {
+        "text": "I love barbecue!  I've eaten regional varieties from Chicago to St. Louis to Memphis to south Florida, and enjoy them all.  That's why I was excited to try Twin Smokers just around the corner from where I live.\n\nI've always said it's hard to find bad barbecue.  Well, you can stop looking.\n\nThis place looks and smells the part of great barbecue, but that ends at the taste buds, sadly.  \n\nI tried the wings.  I couldn't finish an order of five.  They were extremely tough, not tender the way smoked meat should be.  They were dry and rubbery, with way too much smoke flavor, which obscured the taste of the meat.  Unable to finish two, I moved on.\n\nThe pulled pork was also tough and dry.  Drowning it in sauce made it edible.  The macaroni and cheese was -- continuing the theme here -- dry and seemed old.  It appears to be smoked also, because there is black in there.  Macaroni and cheese shouldn't be black.  \n\nSurprisingly, this place doesn't offer barbecue baked beans.  That should've been my first red flag.  Instead they offer pinto beans.  I like a good pinto, so I thought it would be a suitable substitute.  Wrong.  If you hate pintos but love onions and onions and seasonings and seasonings and parsley (or was that cilantro?) you'll like the watery pintos, the only thing that wasn't dry.\n\nTo finish it off, the banana pudding was passable, but the recipe tastes exactly like the Eagle brand condensed milk recipe for banana pudding, made with whipped cream.  It's light and tasty, but when you're eating out, you want something more than you can make at home.  There was just nothing special here.\n\nI really wanted to love this place.  It's in walking distance from home and I'd be a regular customer.  Sadly, I won't be returning.  It was truly that bad.  The hours posted on the door say they're open from 11:00 until the meat runs out.  With taste like this, the place will never close.",
+        "language": "en"
+      },
+      "date": "2019-03-09T05:56:24Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kim T.",
+        "user_id": "MD5qo5pO2PV6gFbmsqXtjw",
+        "link": "https://www.yelp.com/user_details?userid=MD5qo5pO2PV6gFbmsqXtjw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GTW2UAw5QALvYofWLqCxbQ/180s.jpg",
+        "address": "Ventura, CA",
+        "friends": 535,
+        "photos": 309,
+        "reviews": 140
+      },
+      "comment": {
+        "text": "Came there at 7ish on a Thursday night and they ran out of baby back ribs and all the beef! So I was left with the St. Louis ribs or chicken. Opted for the St. Louis ribs - basically pork ribs but less fatty I think- and a side of potatoes. Pretty good!\n\nPros:\n- ribs are smoked perfectly. Some parts were more well done but overall not bad.\n- love all the bbq choices! \n- potatoes are great!\n- friend loved the chili (which has beef if you love chili and beef!)\n- great service! I cut my finger the day before and asked for some band-aids and gloves (yes, I eat ribs with gloves) and they gladly provided. \n\nCons:\n- ran out of meat so early \n- some parts of meat too well done",
+        "language": "en"
+      },
+      "date": "2016-05-29T05:35:57Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6LBq4FOKppMRvo_HtouT_A/o.jpg",
+          "caption": "St. Louis ribs w side of potatoes"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sabrina S.",
+        "user_id": "zy9T7ovUOFQCLcYeikPfuQ",
+        "link": "https://www.yelp.com/user_details?userid=zy9T7ovUOFQCLcYeikPfuQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dtgoWCU-tlCEKmffJVqZBw/180s.jpg",
+        "address": "Manhattan, NY",
+        "friends": 0,
+        "photos": 11,
+        "reviews": 62
+      },
+      "comment": {
+        "text": "O.M.G.!!! I have DIED and gone to BBQ heaven!! Was in the neighb in the ATL on biz and, suddenly overtaken by an insane craving for BBQ that would not be ignored, happened upon Twin Smokers via Yelp just now on a rainy late afternoon.\n\n#DIVINEINTERVENTION!!\n\nI have discovered the South's Best BBQ!! The St Louis-style ribs were falling off the bone, pure lean meat and BEYOND succulent.  The Memphis sauce is what God intended BBQ sauce to taste like.  The brisket was so tender (14 hours in the smoker! #WhosOnTheNightShift?!!??) that I asked Tim the Cook, who was clucking over us like an attentive Mother Hen once he saw we were on our maiden voyage to the restaurant, if they offered a Senior Citizen discount (because if your Grandma forgot her dentures, she would STILL love that brisket, it's so tender!!)!!\n\nThe sides will wreck your diet, but are worth every calorie!   I, a true french fryaholic, did not miss their absence ONE NANOSECOND! Because I was distracted by the fluffy corn soufflé (corn pudding to the Real Southerners but that's semantics!)! And the broccoli salad!  The coleslaw! (Ok, the latter two are healthier options but oh, THAT CORN SOUFFLÉ!!)\n\nSlap your Mama good.  Which is pretty much the highest accolade a daughter of the Deep South can give.\n\nIt's better than Texas' Salt Lick. Better than Virgil's in NYC. Better than Southern Soul on St Simons Island in Georgia.  I don't know WHO the pit masters are behind the Twin Smokers (which are adorable and painted fire engine red btw -- #cute!!), but congrats, y'all, on the #SouthsBestBBQ!  And on your terrific staff serving it up -- Tim and Rachel were awesome.\n\nForgive me if I rave!",
+        "language": "en"
+      },
+      "date": "2016-08-18T22:28:51Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ufHgHa6H5C_-DBOMNqTz7Q/o.jpg",
+          "caption": "The Twins!! Wood-burning smokers -- #14HoursToDeelish"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Katherine D.",
+        "user_id": "eHmfyVsqT7GD0NcEkxfCeQ",
+        "link": "https://www.yelp.com/user_details?userid=eHmfyVsqT7GD0NcEkxfCeQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/g8y6QcYUJ6EwuG4p5qLLmg/180s.jpg",
+        "address": "Fort Lauderdale, FL",
+        "friends": 128,
+        "photos": 46,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "Sat at the bar and had very quick service with great meat and great drinks. Our favorite part was the selection of sauces to use for the meats. Both cocktails I had were good, the Oh Honey was a bit too spicy for me but was still good! Only complaint was it was just a bit expensive for the 2 of us for a meal and two drinks each.",
+        "language": "en"
+      },
+      "date": "2019-04-26T18:51:32Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qmUyKxH6J9JYFeDRJHGw-Q/o.jpg",
+          "caption": "Buffalo Roamer"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WqBphFSXzEgvvRK5mnpc3A/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Gabriel S.",
+        "user_id": "WBuM8k97Oo3jAKiSMGZrww",
+        "link": "https://www.yelp.com/user_details?userid=WBuM8k97Oo3jAKiSMGZrww",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JpAKtsVD6CcCzLXcb0gfTw/180s.jpg",
+        "address": "Anaheim, CA",
+        "friends": 232,
+        "photos": 10,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "I have no idea why this place has 4 stars, it deserves the 5! Other than limited seating the atmosphere is great, the brisket and hot links are the main reason everyone goes. If you just came out of the Aquarium or the Coke museum and you're hungry, come here! You won't regret it.",
+        "language": "en"
+      },
+      "date": "2020-02-21T20:00:12Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3o7hdwsUxUVw9YGY9SnPSg/o.jpg",
+          "caption": "Certified Angus Beef Brisket Sandwich Coleslaw Mac ' N Cheese Potato Salad  Twin Smokers Signature Sausage"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Viviana E.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/UaDvPLPkZvw5PUw8MmMbCg/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thank you for the 5 star review! We love the food photo!",
+          "date": "2020-03-04T20:04:57Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Karen R.",
+        "user_id": "-Q6JIMNhTO4k94_2OztBPg",
+        "link": "https://www.yelp.com/user_details?userid=-Q6JIMNhTO4k94_2OztBPg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/A_79dLgyMxSNUHoGnER7vQ/180s.jpg",
+        "address": "Menifee, CA",
+        "friends": 42,
+        "photos": 378,
+        "reviews": 287,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Great first impression on Atlanta regarding food...just landed and followed yelp review here! My biggest bbq comparison is lucilles so this was amazing",
+        "language": "en"
+      },
+      "date": "2016-08-22T19:42:59Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/m8VRry_5dHjKYNkyNBlA6A/o.jpg",
+          "caption": "Pimento dip"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xs5_jTkxNU3YI5iCCv5MJw/o.jpg",
+          "caption": "Half rack ribs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6qzkvJWlVhIpwRHD36fs8Q/o.jpg",
+          "caption": "Sweet tea"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/asGT3du8JBEY5e6Aq_Jq_A/o.jpg",
+          "caption": "Indoor"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jay B.",
+        "user_id": "w1HBGBVDUZNZcd7KJ5bc_w",
+        "link": "https://www.yelp.com/user_details?userid=w1HBGBVDUZNZcd7KJ5bc_w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tNIQUGVbKxiRG5l2DVpXgg/180s.jpg",
+        "address": "La Puente, CA",
+        "friends": 8,
+        "photos": 40,
+        "reviews": 60
+      },
+      "comment": {
+        "text": "Staff was friendly. Food was great and proceed reasonably. I'm in town on business from Southern California and this was a great treat. Not too many good BBQ spots out there with real smokers. I've been to Fox Bro's and this place is a great alternative if you want to avoid the crowds and horrendous parking.",
+        "language": "en"
+      },
+      "date": "2018-11-02T19:28:39Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/33_Hda2XTyoI1mgxaAqbZQ/o.jpg",
+          "caption": "Combo setup: brisket, St. Louis ribs, seasonal Brunswick chili, mac & cheese, and cornbread."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rhTUMkLJPFawcaWIVsBuRg/o.jpg",
+          "caption": "Delicious!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X0BTer-25Snv7TtMJ900Lg/o.jpg",
+          "caption": "Good food, good price."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ASJxoY01eA8MzN6VrqVTEQ/o.jpg",
+          "caption": "Where the magic happens."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tunicia W.",
+        "user_id": "246MeCEVYzuJQ-TtWi9y6g",
+        "link": "https://www.yelp.com/user_details?userid=246MeCEVYzuJQ-TtWi9y6g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/96yG1mQOKPxb6rJy3i8Z7Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 742,
+        "photos": 311,
+        "reviews": 436,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Lawd have mercy the Brisket sandwich was so flipping good. I don't think I have had anything just melt in my mouth like that. It is easily one of the best items on the menu. It comes on a fresh toasted bun, and of course you have an array of sauces to choose from on the table already. I got mine with collard greens and the greens were pretty darn tasty! I'm glad my friend picked this to go to. I wanna go back, like right now, as I sit here starving at my office desk. Get the brisket-you will not be disappointed.\n\n*minus one star because everyone else at the table ordered mac and cheese that wasn't that great. Maybe if it was piping hot, that would have made the difference.*",
+        "language": "en"
+      },
+      "date": "2016-03-10T16:52:13Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 3,
+        "funny": 2,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Alan G.",
+        "user_id": "sXB9_1sFODKdtfssGoXF0A",
+        "link": "https://www.yelp.com/user_details?userid=sXB9_1sFODKdtfssGoXF0A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UI6WSe7c9WsXtcXN46YzTQ/180s.jpg",
+        "address": "Old Westbury, NY",
+        "friends": 95,
+        "photos": 1,
+        "reviews": 264
+      },
+      "comment": {
+        "text": "Went with a crowd and everyone  came away with a smile.  They use different types of woods and display the wood as decorations.  Brisket was well prepared.  Got raves from others on the ribs and chicken.\nGreat version of mac and cheese.   Great cornbread.",
+        "language": "en"
+      },
+      "date": "2018-09-24T15:39:21Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jeff A.",
+        "user_id": "s0NylAXaclJumWeKkhSvtg",
+        "link": "https://www.yelp.com/user_details?userid=s0NylAXaclJumWeKkhSvtg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/biyP5q6Oib93dAHqXdkbZQ/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 448,
+        "photos": 1451,
+        "reviews": 385,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "First time visiting this downtown Atlanta BBQ spot. Met a friend from out of town who also like BBQ as much as I do so this was a no brainer primarily due to location near all the key downtown venues near Centennial Park. We  arrived right at the 11:30 AM opening time and were greeted and seated quickly. A quick look at the simple menu made us realize the tough choice of meats and sides. We settled on brisket, pulled pork, mac & cheese and corn soufflé. The brisket was good but I like mine a little more fatty. The bark and smoky flavor were spot on and really added to the flavor. The pulled pork hit the spot as well. The surprise of the day was the corn soufflé, it was simply smack yo mamma awesome. I have never had this side before but will certainly be on the lookout for it and will more than likely make a trip back to Twin Smokers just for this dish as it was incredible. Bottom line, if you are downtown and looking for some top notch BBQ, be sure to check out Twin Smokers. BBQ.",
+        "language": "en"
+      },
+      "date": "2018-07-14T01:18:31Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/s8RvvKVIIsHts9wSJdJWtQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shawn W.",
+        "user_id": "vLyUXJ3i3Jr8ZE-IQqlRgQ",
+        "link": "https://www.yelp.com/user_details?userid=vLyUXJ3i3Jr8ZE-IQqlRgQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tuknKxMJ0hD7D8Bnqmniag/180s.jpg",
+        "address": "Euclid, OH",
+        "friends": 0,
+        "photos": 16,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "First time here brisket and Mac and cheese very good and southern peach tea the drink will put you on your back",
+        "language": "en"
+      },
+      "date": "2019-02-14T20:31:59Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GMjPsxbIxRCIvpNfHHE6zw/o.jpg",
+          "caption": "Frist time here Brisket sandwich and Mac and cheese  very good"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alice L.",
+        "user_id": "hGFGvI-jVxNB2xwZY6KrjQ",
+        "link": "https://www.yelp.com/user_details?userid=hGFGvI-jVxNB2xwZY6KrjQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/e_sTtXalSSZR2qt7kDP1tg/180s.jpg",
+        "address": "Tustin, CA",
+        "friends": 417,
+        "photos": 790,
+        "reviews": 436
+      },
+      "comment": {
+        "text": "Cool place for bbq in downtown Atlanta. It's near some of the main tourist attractions, such as the Coca Cola museum and Centennial Olympic Park, so its location is pretty convenient. I found this place on Yelp and decided to grab dinner there with a colleague on a Sunday night. I ordered the blue sky combo plate ($19), which came with two meats and two sides. I chose the brisket and the ribs, which according to the server were the two most popular. Both were good, but of the two, I would choose the brisket since I prefer baby back ribs and these were pork spare ribs. However, both meats were tender, smoky, and went great with their bbq sauces (lots of sauces to choose from and all at your table too!). For the sides, I chose the coleslaw and the mac and cheese. You can't go wrong with either, but nothing I would write home about. Overall, decent food, reasonable price for good portions, and nice ambiance so worth a try.",
+        "language": "en"
+      },
+      "date": "2020-01-05T00:09:02Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/clwBNTB23c6vrpVbs1zeFQ/o.jpg",
+          "caption": "Blue sky combo plate ($19)"
+        }
+      ],
+      "feedback": {
+        "useful": 7,
+        "funny": 2,
+        "cool": 5
+      }
+    },
+    {
+      "user": {
+        "name": "Salem M.",
+        "user_id": "PiYn-FMe_eTaiwLQiW-QZg",
+        "link": "https://www.yelp.com/user_details?userid=PiYn-FMe_eTaiwLQiW-QZg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZPNCa0spAuUv8MWas_uNtA/180s.jpg",
+        "address": "Upper Darby, PA",
+        "friends": 4,
+        "photos": 0,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "Great food. My wife and I were here for the aquarium and Coca Cola world and ended up coming here for lunch. We had:\nSmoked wings -5/5 meat was soft and had a sweetness to it\n\nBlue sky combo plate- 4/5 I had the beef brisket/sausage/ potato salad/ Mac and cheese- beef brisket was very tender and flavorful along with the sausages, the sides were average\n\nBanana pudding-4/5 decent desert but the bananas were not fully ripe at the bottom\n\nBonus: Great homemade sauce selections and friendly staff\nI would highly recommend this place if you like BBQ",
+        "language": "en"
+      },
+      "date": "2018-02-28T00:28:42Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Twin S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/EqrOGI0iaE_EcuIxET-jMA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for the review! Sounds like you and your wife had a great visit around Downtown Atlanta. We hope to see you again soon.",
+          "date": "2018-03-12T16:08:12Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Darius R.",
+        "user_id": "-oj3ilB68KpxWpgtvlYi8A",
+        "link": "https://www.yelp.com/user_details?userid=-oj3ilB68KpxWpgtvlYi8A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZY1XpXOlf4StEqzLitnFNw/180s.jpg",
+        "address": "Jonesboro, GA",
+        "friends": 157,
+        "photos": 9,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Great environment but the food was not the best. I've eaten a ton of BBQ in Atlanta however Twin Smokers was underwhelming. I ordered the Blue Sky Combo with chicken and ribs, and both were pretty dry, and lacked the smokey BBQ taste. The Mac and cheese had a weird after taste and the Collards were undercooked and hard to chew. Despite the food, this place is still worth a visit because it's a great place to go and have a drink and watch your favorite sporting events on one of the many tv screens. I overheard the bartender state that the beer is specially brewed next door so I decided to order a drink while I wait for my to go order and it was really good. If I were to return it would be for the awesome staff and vibes.",
+        "language": "en"
+      },
+      "date": "2019-09-01T15:44:06Z",
+      "rating": 2,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ROgPuWcMPk1FglCCjnP5UA/o.jpg",
+          "caption": "Blue Sky  Cornbread Mac ' N Cheese Collards"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Twin S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/EqrOGI0iaE_EcuIxET-jMA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Darius, thank you so much for your kind words about the staff and vibes!  I have also sent you a private message.",
+          "date": "2019-09-19T16:01:29Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ko A.",
+        "user_id": "H7cAPbuWdYxgxuJKNmFBNA",
+        "link": "https://www.yelp.com/user_details?userid=H7cAPbuWdYxgxuJKNmFBNA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sgtsmVSm2ZZkF6eQweA4_A/180s.jpg",
+        "address": "Union City, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Romel our server was very pleasant and courteous, he made us feel like part of a good family reunion. We will definitely return to Twin Smoker BBQ in Atlanta and ask for Romel to be our server. This Resturant is absolutely great. My lady and I had the 1/2lbs Briskets, 1/2lbs Pork ribs, comes with four slices of bread, two southern corn bread, fresh salad and drinks. Keep up the excellent customer service Romel. We also send shout out to the chefs and managers. Romel reflects your restaurants great culture. Sincerely Ko and Ruby.",
+        "language": "en"
+      },
+      "date": "2019-09-01T00:20:16Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Twin S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/EqrOGI0iaE_EcuIxET-jMA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Right on, Ko!  Thank you!  Our Twins family is here and ready to serve you and Ruby any time!",
+          "date": "2019-09-19T16:12:03Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Thomas P.",
+        "user_id": "cVY5mQRfQ1Bv2Bya39YEUg",
+        "link": "https://www.yelp.com/user_details?userid=cVY5mQRfQ1Bv2Bya39YEUg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/r1PP3cVLiHfeCrHsFSo5Xg/180s.jpg",
+        "address": "Honolulu, HI",
+        "friends": 252,
+        "photos": 222,
+        "reviews": 192
+      },
+      "comment": {
+        "text": "Well, it was a ten minute walk down the way from my hotel, and recommended. The service is prompt, and friendly. We had a choice for table or bar, so selected a table. Couldn't figure out why the table was wet? The high humidity, with the air conditioners in this place, easily a formula for dripping condensation, water from above off of the ducting! So, don't sit directly under the air con ducting! We moved a few seats over and was fine. Drink and dinner was fast smoked brisket, smoke ribs and two sides Mac n' cheese and potato salad ( Atlanta version). The food was good, moist and tasty! Under $25 , refillable drink included. \n  So after we got our checks, I take a look at my check and they ran my card twice for two meals? Error? Or..... Yeah, I wanted to be positive and give the young lady the benefit of the doubt, a clerical mistake. So, first time, I was told it wasn't charged twice. Lucky I have real time check, no it was ran twice for two meals. The waitress, who said it wasn't, says now she'll correct it. The absence of my credit card started to raise my concerns. So, a Manager got involved cancelled error charges, and ran my card again. In actuality my meal was $22 and some change, but my credit card got impacted for almost $70.00 not too happy! So, overall atmospheres casual, experience would have rung up close to 4 1/2 , but the whole bill thing, didn't sit right with me and felt as a Manager, to compensate the customer. NOTHING! Not expecting, but you always , always give back extra hoping your business gets revisited or a great review! My thoughts? How many people eat and run without checking their dinner bill? Yeah! You hear me on that one! I'm full, enjoyed dinner",
+        "language": "en"
+      },
+      "date": "2018-06-20T02:54:41Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1m9P4UCdT_Oi-ltqbOCCBw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Zhicao F.",
+        "user_id": "sQarquZSwKsEIekegCSGKw",
+        "link": "https://www.yelp.com/user_details?userid=sQarquZSwKsEIekegCSGKw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OcNbYJ-TrcDDnuBA1Qg8HQ/180s.jpg",
+        "address": "Baltimore, MD",
+        "friends": 153,
+        "photos": 667,
+        "reviews": 385
+      },
+      "comment": {
+        "text": "Perfect BBQ and good beers in a casual place. They have both Texas and Southern (Southeastern, to be more precise) style BBQ options. Ordered half rack of St Louis ribs, and they were some of the best I have ever had. The surface was grilled to a pleasant, mouth-watering crisp, while the inside remained juicy and moist. Think about the joy of chewing up crispy skin while the inner layer fat literally melted in the mouth; it made me want to eat the ribs for as long as possible. Beer was also good. Very friendly and helpful staff. Not pricey at all ($30 tax included for half rack of ribs, a beer and a side). Totally worth it. Will visit again if coming back to Atlanta!",
+        "language": "en"
+      },
+      "date": "2018-06-16T00:47:11Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LK-qfmLtCDBdDfpcAjfE7Q/o.jpg",
+          "caption": "St Louis ribs half rack. Delicious!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mat G.",
+        "user_id": "7G0I3h4y3mNPLKj5zqAvSg",
+        "link": "https://www.yelp.com/user_details?userid=7G0I3h4y3mNPLKj5zqAvSg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MMoQ22Aow5trC8GQROtNAw/180s.jpg",
+        "address": "Bethesda, MD",
+        "friends": 337,
+        "photos": 496,
+        "reviews": 424,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Pretty good bbq as I liked a few of their smoked meats.  Their potato salad and cornbread were quite nice too.  The South just does bbq the best!",
+        "language": "en"
+      },
+      "date": "2018-02-23T21:01:53Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jayce S.",
+        "user_id": "Dom0cS3C2ZjYr9rv9DCH2A",
+        "link": "https://www.yelp.com/user_details?userid=Dom0cS3C2ZjYr9rv9DCH2A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gu4ww_c6O3de1ktxtwd8lg/180s.jpg",
+        "address": "Miami, FL",
+        "friends": 3,
+        "photos": 106,
+        "reviews": 45
+      },
+      "comment": {
+        "text": "Food was amazing. Mac n cheese is a must try. You could see the smokers with the meats when you walk in. They are located in the rear. The bar is well stocked with all types of whiskeys. The bbq sauce was very tasty. Must try the wings. Very crispy juicy and they give you blue cheese to dip them very good. The pork ribs are great as well.",
+        "language": "en"
+      },
+      "date": "2019-01-01T03:13:00Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/s1zfzTM--EjQY8BOJ8jXqw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TTlUT42FFepHo8ATlxVVRQ/o.jpg",
+          "caption": "The wood used to smoke the meats"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2fkOgIKTbXm16TBxCd750Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JVwS-b8Z94_WkTmfOrxevA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kristen O.",
+        "user_id": "etA9kHEAkzSblIOML015nQ",
+        "link": "https://www.yelp.com/user_details?userid=etA9kHEAkzSblIOML015nQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/eDTsr-LdJjLVE6TO_MTcWA/180s.jpg",
+        "address": "Chattanooga, TN",
+        "friends": 7,
+        "photos": 3,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "We only ordered at the hostess station for takeout so I couldn't comment on the table service. The hostess was amazingly helpful in explaining the food choices as it was our first visit. \n\nWe had the recommended foods mention in other reviews, smoked chicken wings, brisket, corn soufflé and the house bbq sauce. The seasonal side was broccoli salad, so we got it for the green vegetable we need to eat to get well needed fiber and vitamins, LOL. It was very tasty, a traditional recipe with broccoli, sunflower seeds, raisins and mayonnaise dressing.\n\nAll the food was packaged so nicely in recyclable trays, and you get a very big portion of side dishes in deli containers.  With the smoked wings you get Ranch style dressing and bbq sauce, both made in house and tasty. I don't care for Ranch but this was really tasty. I would save it for my boring salad the next day. Brisket was tender and juicy. The corn soufflé is like a dessert to me because it is rich and sweet and buttery. All in all I would give 4.5 stars.",
+        "language": "en"
+      },
+      "date": "2018-08-31T01:50:46Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Danielle B.",
+        "user_id": "yJA7ubWj8CqD9F5N7WeN0A",
+        "link": "https://www.yelp.com/user_details?userid=yJA7ubWj8CqD9F5N7WeN0A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AreroF5Sh0mSmE8DZx3_xA/180s.jpg",
+        "address": "San Francisco, CA",
+        "friends": 308,
+        "photos": 94,
+        "reviews": 52
+      },
+      "comment": {
+        "text": "Delicious BBQ! Service was a bit slow but overall a pretty good experience. Located right in Centennial Park",
+        "language": "en"
+      },
+      "date": "2019-10-26T19:22:37Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/50jMJu9Ft1g1wUMi08MEcQ/o.jpg",
+          "caption": "Brisket Sandwich"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Katie M.",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Thank you for your review Danielle!",
+          "date": "2019-11-14T18:33:55Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Viviana P.",
+        "user_id": "9SrrUjlI4qYzR6fhAKlObQ",
+        "link": "https://www.yelp.com/user_details?userid=9SrrUjlI4qYzR6fhAKlObQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vbevqUCqL52ez89JrGQJyw/180s.jpg",
+        "address": "Miami, FL",
+        "friends": 271,
+        "photos": 98,
+        "reviews": 63,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This was a great place! I wanted to try a good bbq spot in Atlanta and Twin Smokers definitely delivered! I love their seasoning and their pulled pork is delicious! The service is amazing and the staff is super friendly. I can't wait to visit Atlanta again and stop by here for lunch",
+        "language": "en"
+      },
+      "date": "2018-05-06T01:10:19Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "John W.",
+        "user_id": "kboxzMrfldIqIuhUcWs-fA",
+        "link": "https://www.yelp.com/user_details?userid=kboxzMrfldIqIuhUcWs-fA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8boFptSpQcQx-Ddn4yraBQ/180s.jpg",
+        "address": "Staten Island, Staten Island, NY",
+        "friends": 1,
+        "photos": 5,
+        "reviews": 33
+      },
+      "comment": {
+        "text": "We were in Atlanta for a cheer competition and need to get some food. We walked around for a bit an decided on this place which was a great call. The service was great the food was surprisingly delicious.  The menu is a huge one basic choices but no matter what you pick your in for a treat. I had the ribs which were perfectly cooked and the assortment of BBQ. My wife had the pulled pork and my daughter had ribs also along with sweet potato which was also amazingly. If you are near this place it is well worth the visit. The price was cheap for all we had. Can't wait to go back",
+        "language": "en"
+      },
+      "date": "2020-03-10T19:44:41Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Viviana E.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/UaDvPLPkZvw5PUw8MmMbCg/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks for the five star review! \"No matter what you pick, you're in for a treat\" is our goal and we look forward to having you back at Twin Smokers BBQ.",
+          "date": "2020-03-13T15:50:13Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Alyssa M.",
+        "user_id": "2Qon26j49xih9GAmo9JMDg",
+        "link": "https://www.yelp.com/user_details?userid=2Qon26j49xih9GAmo9JMDg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/w7qlw4z4Zcm0R2Nb8R95XQ/180s.jpg",
+        "address": "Clarksville, TN",
+        "friends": 215,
+        "photos": 115,
+        "reviews": 139
+      },
+      "comment": {
+        "text": "I got a brisket sandwich, with Mac n cheese and an extra side of chili. My fiancé got ribs and brisket with pinto beans and coleslaw, our daughter got the chicken and mac. \nIt was great! I loved the Texas spicy sauce with my sandwich. My fiancé's ribs were amazing, they smell so wonderful he said he wanted a candle in the smell of the ribs haha. The pinto beans were very earthy but good. My daughter didn't like her food but she's picky so I ate it for her and I thought it was great haha. \nThe staff is friendly and it's a very chill atmosphere. I enjoyed it and will be back next time I'm in Atlanta.",
+        "language": "en"
+      },
+      "date": "2018-06-15T20:39:55Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tiffany S.",
+        "user_id": "amK3Y569k18oXNsdJE6wlg",
+        "link": "https://www.yelp.com/user_details?userid=amK3Y569k18oXNsdJE6wlg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gy6HD4O7mRQezFikx61cDA/180s.jpg",
+        "address": "Palm Beach Gardens, FL",
+        "friends": 2,
+        "photos": 48,
+        "reviews": 52
+      },
+      "comment": {
+        "text": "Yep! I'm leaving a review as we finished our meal! I would say \"Everything\" we ate was delicious  The wings are a MUST and we got the \"Blue Sky\" with Pork, Chicken and Brisket along with a side of \"Mac and Cheese\" (delicious). My son got got the \"Ribs\" and said they were awesome. Our server (Phuong) was perfect and on tops of things. Totally recommend while \"Atlanta\".",
+        "language": "en"
+      },
+      "date": "2018-06-15T17:58:15Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Yk2NLFWjmIwn-YbxyuIS-w/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Joseph C.",
+        "user_id": "qhoG_783747wtFT_rS_vnQ",
+        "link": "https://www.yelp.com/user_details?userid=qhoG_783747wtFT_rS_vnQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5QM-_ZBORvXT4bDl6guPQQ/180s.jpg",
+        "address": "Smyrna, GA",
+        "friends": 147,
+        "photos": 59,
+        "reviews": 84
+      },
+      "comment": {
+        "text": "Didn't know anything about this place until my buddy came in town and someone recommended it to him. It was really good BBQ. The two big smokers and stacked wood inside give it an amazing atmosphere. Still need to try more items on the menu in order to give it that fifth star but I definitely recommend trying this place.",
+        "language": "en"
+      },
+      "date": "2020-05-09T04:50:53Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Katie M.",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Thank you for the stellar review, Joseph!  Please watch our facebook page for when we will reopen for business and we hope to serve you again.  Until then, stay safe!",
+          "date": "2020-05-12T22:41:13Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "amy R.",
+        "user_id": "vrnc3kHvN9FOHN1yyeKg2A",
+        "link": "https://www.yelp.com/user_details?userid=vrnc3kHvN9FOHN1yyeKg2A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rDNbDJQkcdggcP5LYk-9Cg/180s.jpg",
+        "address": "Jacksonville, NC",
+        "friends": 263,
+        "photos": 157,
+        "reviews": 63
+      },
+      "comment": {
+        "text": "The food was really good! The staff was super\nFriendly. Clean & good environment. Best bbq we have had in a long time. If we were local we would definitely be back! Thanks again!",
+        "language": "en"
+      },
+      "date": "2018-09-22T02:50:58Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kyle S.",
+        "user_id": "bQCTHiz5LpZuDFS5DYl2bw",
+        "link": "https://www.yelp.com/user_details?userid=bQCTHiz5LpZuDFS5DYl2bw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/O_IwiZpV2V8FAAcCTDOczQ/180s.jpg",
+        "address": "New Albany, IN",
+        "friends": 160,
+        "photos": 659,
+        "reviews": 723,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Twin Smokers BBQ is what you get when you plant a backyard, shack-style BBQ in the middle of a downtown metropolis area.  It is amazingly good, seems kind of out of place, but is seriously done well.\n\nLet me make this a compliment sandwich.\n\nThe food is excellent.  The menu is simple, straightforward and the staff is willing and able to help you make your decision on what side(s) you want.  Go with the pork or the brisket.  I use pulled pork as my BBQ barometer, and it certainly satisfied.  The coleslaw was probably the best that I have ever had.  Seriously.  Also, there is a very good local beer selection; more bottled than on tap, but I was very happy when the bartender gave me samples of my preferred types in tiny glasses before making a choice.  The fact that there were no fewer than 7 sauces to select from (I enjoyed the Sweet and Southern) was an added bonus.\n\nService is both good and bad.  The individual servers are amazing.  Please don't get me wrong, I was highly impressed by Amy's ability to give me knowledgeable suggestions on the food and drink menu.  However, there are simply not enough people behind the bar.  I watched who they had working and they are seriously hustling.  I can't imagine anyone not getting flustered by the amount of orders and people surrounding the large bar they have there.  They were working the their capacity, but they could have used some help.\n\nThe environment was pretty sweet.  Lot's of folk art, the smell of smoking meats, a huge pallet rack of wood and \"The Twins\" Elizabeth and Matthew at the back cooking the pork, brisket and chicken clear to everyone in the place made this a truly enjoyable spot to visit.\n\nAll said, I would frequent Twin Smokers if I lived in the area.",
+        "language": "en"
+      },
+      "date": "2016-04-15T20:39:23Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Michael S.",
+        "user_id": "VrYzGwl9LJTslZGvTpU6Zg",
+        "link": "https://www.yelp.com/user_details?userid=VrYzGwl9LJTslZGvTpU6Zg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_PBZBKxXzZBXkN9FP6vHFw/180s.jpg",
+        "address": "Clarksville, TN",
+        "friends": 1,
+        "photos": 7,
+        "reviews": 27
+      },
+      "comment": {
+        "text": "For good barbecue, it is usually recommended to go to dumpy little places by the side of the road. However, this place, despite being very nicely decorated and modern inside, has some fantastic barbecue! They have different smokers for different kinds of meat and that sort of attention to detail shows through in the food. \n\nLoved the brisket especially. \n\nI wish I could remember our waitress' name, but she was fantastic! Very friendly, patient, and helpful. \n\nI also enjoyed the adult milkshake to finish the meal.",
+        "language": "en"
+      },
+      "date": "2018-11-22T21:22:17Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Patti M.",
+        "user_id": "ptBRc6my502eVi3PWs50ZQ",
+        "link": "https://www.yelp.com/user_details?userid=ptBRc6my502eVi3PWs50ZQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cNcMxZO79Nr9S4gr5IXw0Q/180s.jpg",
+        "address": "Gainesville, FL",
+        "friends": 711,
+        "photos": 108,
+        "reviews": 902,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The mac and cheese was really tasty.  The man and I devoured the pulled pork sandwiches.  I did this order as a take out and while I waited, sipped a fabulous margarita.  The bartender was on top of it and I didn't wait more than fifteen minutes for my order.",
+        "language": "en"
+      },
+      "date": "2017-12-07T00:45:51Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Reena P.",
+        "user_id": "15SLDq8ODdeg3YOGlZYKWQ",
+        "link": "https://www.yelp.com/user_details?userid=15SLDq8ODdeg3YOGlZYKWQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2PwPZGJ3ppRJFLF4SERhTA/180s.jpg",
+        "address": "Merritt Island, FL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Where should I start..... table was so dirty I need to wipe before I even sit. I ordered 10pcs smoked wings with mac and cheese..... I am a huge smoked wings fan but this one I couldn't eat 2-3...it was so dried and taste nothing like smoked chicken wings at all..... \nAbout mac and cheese....it's so dry and smells so pungent one bite and couldn't take another one.....\nWaste of money.......",
+        "language": "en"
+      },
+      "date": "2019-06-18T23:27:02Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Katie A.",
+        "user_id": "uKJM3QP3yNig9xk9U1JaNw",
+        "link": "https://www.yelp.com/user_details?userid=uKJM3QP3yNig9xk9U1JaNw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VVybbdVwuTbVxphJwerErw/180s.jpg",
+        "address": "Monroe, NC",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "Phenomenal Brisket. Awesome service. Natasha is amazing. She was super helpful and nice. \n\nThe American Mule is amazing as well.",
+        "language": "en"
+      },
+      "date": "2019-06-17T23:15:39Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Twin S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/EqrOGI0iaE_EcuIxET-jMA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the review, Katie!  We shared your props with Natasha and the team!",
+          "date": "2019-08-11T17:38:39Z"
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=vFulipMlcFyN60_SyAhjyA&start=220"
+  }
+}

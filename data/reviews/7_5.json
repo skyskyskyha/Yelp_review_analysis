@@ -1,0 +1,1653 @@
+{
+  "search_metadata": {
+    "id": "65ef2fb195bf9257aa6cb4d7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c435cd11c3877dff/65ef2fb195bf9257aa6cb4d7.json",
+    "created_at": "2024-03-11 16:22:09 UTC",
+    "processed_at": "2024-03-11 16:22:09 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/ZKZGgOsRPpAjc9oMBT_uBw?",
+    "raw_html_file": "https://serpapi.com/searches/c435cd11c3877dff/65ef2fb195bf9257aa6cb4d7.html",
+    "prettify_html_file": "https://serpapi.com/searches/c435cd11c3877dff/65ef2fb195bf9257aa6cb4d7.prettify",
+    "total_time_taken": 1.49
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 70,
+    "num": "50",
+    "place_id": "ZKZGgOsRPpAjc9oMBT_uBw"
+  },
+  "search_information": {
+    "total_results": 239,
+    "business": "Kinnotori Ramen Bar"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 239
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "S T.",
+        "user_id": "7T4Z6WjLIEeHvxoy_uqYyA",
+        "link": "https://www.yelp.com/user_details?userid=7T4Z6WjLIEeHvxoy_uqYyA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5314VToU9hsiQ0NsP1OnYg/180s.jpg",
+        "address": "Oakland, CA",
+        "friends": 1,
+        "photos": 9,
+        "reviews": 270
+      },
+      "comment": {
+        "text": "Amazing to have this ramen shop in ATL. It's so good. I come from an area full of great ramen and it's taken me two years to find kin no tori in ATL. The spicy miso is very yummy as well as the yasai. Portion size, the proportion of veggies and meat toppings to broth and noods are all wonderful. Been there 3 times in a week... need I say more? Thank you  kin no tori!",
+        "language": "en"
+      },
+      "date": "2023-05-24T12:33:27Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Pat M.",
+        "user_id": "a1xHZIhJL7bh0xSalePjMQ",
+        "link": "https://www.yelp.com/user_details?userid=a1xHZIhJL7bh0xSalePjMQ",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "This place really knows Ramen. Very good! We really enjoyed it.  It's has very limited seating that's why we had seen so many take outs.",
+        "language": "en"
+      },
+      "date": "2023-11-05T14:01:30Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sue Y.",
+        "user_id": "2ZhgirY5AhqlGdOexv2bIw",
+        "link": "https://www.yelp.com/user_details?userid=2ZhgirY5AhqlGdOexv2bIw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/j4iOgnqh-6Mez5v_Yq7epQ/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 155,
+        "photos": 114,
+        "reviews": 56
+      },
+      "comment": {
+        "text": "One of the more cleaner Japanese ramen broths I've had. I'm not a huge fan of Japanese ramen because I think they're too heavy and oily but the ramen broth here is made of chicken so much cleaner and leaner. \n\nMy husband and I ordered the crispy Brussels sprouts, takoyaki, tori Paitan, and the ultra spicy tori paitan (level 5). Our waiter was a gem for recommending these dishes. First off the takoyaki is a must. One of the better ones I've tried. The brussel sprouts were delicious but nothing out of the ordinary. If you like spicy, the ultra spicy level 5 isn't too spicy. They do have their homemade spicy sauce you can ask for and add to the side as well if you want a bit more kick. Overall, good ramen and service!",
+        "language": "en"
+      },
+      "date": "2021-12-27T12:33:24Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TzZJjlNvpL2J4v7CIfuenw/o.jpg",
+          "caption": "From top to bottom: Tori Paitan, Crispy Brussel Sprout, Takoyaki, Ultra Spicy Tori Paitan level 5"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7nqJf5Sq0dc3iptqscvkGw/o.jpg",
+          "caption": "Crispy Brussel Sprout and Takoyaki"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Christina I.",
+        "user_id": "aTUwAufITMXwJN8Y91zSDg",
+        "link": "https://www.yelp.com/user_details?userid=aTUwAufITMXwJN8Y91zSDg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Tl56908e3ZoPoQ-djG-0OQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 226,
+        "photos": 308,
+        "reviews": 247,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Recently visited Kinnotori for a date night and was pleasantly surprised at how cozy the place and how yummy the food! \n\nTucked in the busy midtown plaza across the street from Ponce City Market. Kinnotori shares parking with Home Depot, TJ Maxx, Whole Foods,etc and nestle Ed right next to Tacos & Tequila. Parking was free and easy but it could potentially be congested during peak hours.\n\nLate on a rainy Sunday night, we were seated quickly; however the place is on the smaller side so this may not be the case on a normal day. Tables are socially distanced. Servers kept their distance and wore masks. They also have the Menu setup as a QR code on the table that you're able to access on your phone. Really appreciate the steps taken during this pandemic for those of us wanting to give our business and willing to sit inside!\n\nOn to the food! The pork steamed buns were very delicious and some of the best I've had in the city. Plus 2 for $5!? Can't go wrong with that deal in my book. Honestly I could come back just for those. I also enjoyed their spicy miso ramen with grilled chicken. They give you an option for either grilled or fried chicken with your ramen. The ramen wasn't much spicy but very flavorful. I throughly enjoyed it and thought the portion for the price was spot on. \n\nOverall I had a great experience and will be back to this convenient little ramen spot!",
+        "language": "en"
+      },
+      "date": "2020-12-01T01:58:13Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ebDVEAO9ibYve6z_tG_w-g/o.jpg",
+          "caption": "Spicy Miso Ramen"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TFjZB8u7lp3jofdE_qjKQg/o.jpg",
+          "caption": "Pork Bun"
+        }
+      ],
+      "feedback": {
+        "useful": 10,
+        "funny": 7,
+        "cool": 9
+      }
+    },
+    {
+      "user": {
+        "name": "D.F. C.",
+        "user_id": "gI4PHxFPg6hxKjPl4zL0BQ",
+        "link": "https://www.yelp.com/user_details?userid=gI4PHxFPg6hxKjPl4zL0BQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TnrGF7jUbSyLxyjOpM3NFg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 63,
+        "reviews": 69
+      },
+      "comment": {
+        "text": "Spicy miso ramen was very good--robust broth, perfectly cooked egg, great flavor. Brussels sprouts also delicious, with a yummy sauce and scallions that added a nice freshness.  I put some of the brussels sprouts in my Ramen, it was outstanding. Least favorite thing was the truffle fries, which were fairly boring and pedestrian. There was only one server working the lunch shift. He did his best to be helpful and accommodating but was a little bit overwhelmed and distracted. Overall very good experience. I would definitely go back.",
+        "language": "en"
+      },
+      "date": "2022-11-12T06:05:39Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/P4q0SoCdCnAH9_I5NJUvKw/o.jpg",
+          "caption": "Brussels sprouts"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bVF8Eo4E6YmD1oHVp8XP5g/o.jpg",
+          "caption": "Spicy miso with pork belly"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qAQJijeu6f-Vt68Y4EHuyA/o.jpg",
+          "caption": "Truffle fries"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Vikia J.",
+        "user_id": "oJ5efRDz2O6QnfHiz0T2xA",
+        "link": "https://www.yelp.com/user_details?userid=oJ5efRDz2O6QnfHiz0T2xA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/X46djc2JJKEiB_zYz2vb1Q/180s.jpg",
+        "address": "Covington, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "I've been coming here since they opened! Bryce and his amazing team have been more than accommodating! The Ambiance is lovely and soothing. The food, again!, was superb! I will always recommend Kin Not Tori to anyone that ask where to get ramen in the city!!!",
+        "language": "en"
+      },
+      "date": "2023-06-19T01:02:11Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Antonio R.",
+        "user_id": "ZZWLBQA_cD0Bo2rC_4bKAQ",
+        "link": "https://www.yelp.com/user_details?userid=ZZWLBQA_cD0Bo2rC_4bKAQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vbVgLQjpIJXk8aqZ88IKew/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 28,
+        "photos": 755,
+        "reviews": 294,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We love ramen and our friend wanted to try this place out. It looked good in the reviews so we gave it a try.\n\nWe waited about 30 mins for a table. This place is small so there will probably always be a wait. When we went to order drinks, we found out that they do not have a liquor license so they can't serve you beer, etc. that was very disappointing.\n\nWe went ahead and ordered our ramen anyways since we were hungry. I ordered the ramen with fried chicken and it was perfect. I enjoyed all of it.\n\nThey do not have the normal pork broth ramen which is also disappointing.\n\nIf you don't need a beer with your ramen or pork options, go ahead and give it a try.",
+        "language": "en"
+      },
+      "date": "2021-04-23T20:05:05Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WGGU0oslaq7SpOsiYIQYbA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/H4HCMQJW0TE60gNHFRAReQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jim T.",
+        "user_id": "w0-fJfxQL_rz4vJhPCUbOA",
+        "link": "https://www.yelp.com/user_details?userid=w0-fJfxQL_rz4vJhPCUbOA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CqaHM6T5kN-y92mXfka04w/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 1,
+        "photos": 8,
+        "reviews": 38
+      },
+      "comment": {
+        "text": "Very tasty and substantial bowls of noodles and reasonable prices too!  The service was quick, friendly, and efficient.  Not a lot of seating, but comfortable.  Kinnotori deserves its high rating!  They do ramen right!",
+        "language": "en"
+      },
+      "date": "2023-04-21T20:07:52Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Isabel W.",
+        "user_id": "UBOeYsQgpUaHjYUVEQvtyQ",
+        "link": "https://www.yelp.com/user_details?userid=UBOeYsQgpUaHjYUVEQvtyQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KuVD7e_qyu_Fwf4aaRHjfw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 545,
+        "photos": 1154,
+        "reviews": 419,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Atmosphere/service: plenty of parking in the plaza, don't think you can park here, eat and cross the city to Ponce though, they will definitely tow or boot your car. The space inside the restaurant is pretty small with limited seating which is why they ask for your full party to be present before they seat you. Service was great!\n \nFood/price: so the interesting thing about this place in my opinion is that they do chicken broth vs pork/bone broth as their signatures. They also have a seafood or vegetarian broth option as well and you can tailor the spicy level (L1-5 are their options). Their menu is easy and not overly complicated, just one page including appetizers, entrees, and desserts. Cocktail menus are separate. My husband and I shared\n-          Fried squid legs ($10): seasoned fried squid legs with spicy mayo. Thought the portion size was a bit small but it was really good and seasoned well. Would get again.\n-          Ultra spicy tori paitan ramen ($13): original tori broth, comes topped with Sapporo style bean sprout and onion, seaweed, green onion, and habanero. Choice of fried or grilled chicken (extra $3) - we opted to sub for charsu for $3. The charsu was not what we were expecting, it was essentially just three small slices of pork belly that were pan fried versus the circular rolled pork belly charsu that I know from other ramen establishments. I would say the pork is not worth it. The broth was good, we got the L3 spice and it had a kick to it from the fresh habanero.\n-          Seafood ramen ($18): original seafood broth infused with tori paitan. Comes with squid, bay scallops, torched onion, bean sprout, fresh seaweed and green onion. Choice of whole shrimp with head on or battered fried shrimp. You get 3 shrimp - we got the whole shrimp with head on. Good bits of seafood in there, broth was good and noodles were chewy.",
+        "language": "en"
+      },
+      "date": "2021-12-14T22:53:27Z",
+      "rating": 3,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OnzyIpyVZTbN6zc3AbCIUQ/o.jpg",
+          "caption": "Fried Squid Legs $10"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xKtK2De0uozDzxa25QVi_A/o.jpg",
+          "caption": "Seafood Ramen $18"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NgfAhCuQC9JLtQrATG91pw/o.jpg",
+          "caption": "Ultra Spicy Tori Paitan subbed chicken for charsu ($16)"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Tonya W.",
+        "user_id": "iTrxtMylclrpNaCcO5qzww",
+        "link": "https://www.yelp.com/user_details?userid=iTrxtMylclrpNaCcO5qzww",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YsZmvautQzzGVf8n7S0O6w/180s.jpg",
+        "address": "Riverdale, GA",
+        "friends": 83,
+        "photos": 0,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "Everything was delicious and the server Michael was excellent. The manager on duty was great as  well.",
+        "language": "en"
+      },
+      "date": "2023-04-29T17:13:35Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Christina H.",
+        "user_id": "ErWPjeuK5uKHLmtz4BM9ng",
+        "link": "https://www.yelp.com/user_details?userid=ErWPjeuK5uKHLmtz4BM9ng",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/aocB44S82e9JWIEmpl5_8A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 402,
+        "photos": 551,
+        "reviews": 277
+      },
+      "comment": {
+        "text": "Yum! I'm finding that Atlanta has plenty of solid ramen options, with KinNoTori being one of them!\n\nCame here for a quick dinner on Saturday (around 6:30 pm) and the place was quite packed. It's a very intimate setting, so don't expect to come here with a large group and get seated right away. I managed to get a seat at the bar area facing the kitchen. \n\nI wouldn't describe the vibe as authentic Japanese, but it's more of a trendy/modernized feel - lofi music blasting over the speakers, Sanrio decorations/figurines, and the place can get quite loud just given how dense it gets in the modest-sized space. \n\nFor drinks, they don't have hard liquor, but they do offer a few sake and beer options. Since there was no Sapporo or Asahi, I chose the Ukiyo premium lager (brewed in Georgia, lol..) which was really smooth and had a nice finish. For food, I chose the spicy miso ramen with fried chicken (per my waitress' recommendation) and it was really tasty! Broth was the perfect level of spice, egg was cooked exactly how it should be, chicken was nice and crispy (before eventually getting soaked in the broth of course). Portion sizes are quite small here, especially given the relatively steep prices. \n\nService was pretty average during my experience - for some reason I expected above-and-beyond hospitality based on all the previous reviews, but didn't get that. Maybe just an off night?\n\nDefinitely want to keep exploring other ramen options in ATL, but I would come back here again!",
+        "language": "en"
+      },
+      "date": "2021-11-07T14:46:17Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/crZlGiOAX5uGGppdKa86Tw/o.jpg",
+          "caption": "Spicy Miso Ramen"
+        }
+      ],
+      "feedback": {
+        "useful": 5,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Haley R.",
+        "user_id": "gZESh1OBYM6T1H_v5pbKbg",
+        "link": "https://www.yelp.com/user_details?userid=gZESh1OBYM6T1H_v5pbKbg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/p3HixP8yQLwDlYUepiOIBA/180s.jpg",
+        "address": "Central Naples, Naples, FL",
+        "friends": 34,
+        "photos": 7,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "We were in from out of town and craving ramen- this place is the move. Don't hesitate!! From the exceptional service, amazing food, and cozy vibe, we would be here every week if we lived closer. Assistant manager was super attentive and so freaking helpful.",
+        "language": "en"
+      },
+      "date": "2022-11-01T01:58:02Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GSk2dW9DiYM83crQt5Bshw/o.jpg",
+          "caption": "We sat at the bar! Ultra spicy ramen level 1 (w/ pork chashu + extra egg) with edamame."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kyle S.",
+        "user_id": "yACLb6lUDPjw0g5JrNwXMg",
+        "link": "https://www.yelp.com/user_details?userid=yACLb6lUDPjw0g5JrNwXMg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SeO7QiA--zprDZO_F2Y5Hg/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 396,
+        "photos": 388,
+        "reviews": 261,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place is great! This place is a little different than other ramen places in that, as far as I remember, the protein here is mostly chicken instead of the traditional pork chashu. The ramen was still excellently prepared.\n\nI value a great soft boiled egg at ramen places, and the preparation of mine was one of the top 5 soft boiled eggs I've had. Their baos are good too, and I like the hybrid of a bao with karaage. Crispy and delicious. \n\nThe service here is great as well. The servers are always making sure the food is okay, making sure your drinks are full. \n\nWill definitely come back here.",
+        "language": "en"
+      },
+      "date": "2020-12-17T03:35:15Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JPjxjFbJnRf3fz9Uf01Ung/o.jpg",
+          "caption": "Spicy Miso Ramen"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FW3RrVmeLQ62NboPeIdziw/o.jpg",
+          "caption": "Steamed Bun with Japanese Fried Chicken"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Emily W.",
+        "user_id": "t8-c-ymeefAE3pgVRmnIfQ",
+        "link": "https://www.yelp.com/user_details?userid=t8-c-ymeefAE3pgVRmnIfQ",
+        "address": "Moultrie, GA",
+        "friends": 31,
+        "photos": 1,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Sere ice was excellent and food was delicious!  My server, Caroline, explained everything as I was a newbie to this style food. Highly recommend!",
+        "language": "en"
+      },
+      "date": "2023-02-07T00:33:54Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FkDOgxMxkCSduekAE0EDDw/o.jpg",
+          "caption": "Ultra Spicy Tori Paitan"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Haley L.",
+        "user_id": "zdm6UUgZp8kbnKDmE8lWCA",
+        "link": "https://www.yelp.com/user_details?userid=zdm6UUgZp8kbnKDmE8lWCA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_MILRM0Xy0D-Rumv2WMxNg/180s.jpg",
+        "address": "Tucker, GA",
+        "friends": 36,
+        "photos": 2,
+        "reviews": 44
+      },
+      "comment": {
+        "text": "I found this ramen spot to be just average.  I will start off with the good.  My husband had one of their seafood ramens which he said had generous portions of seafood and he said broth was good not too salty.  They don't have a wheat noodle without eggs which was a little disappointing as a vegan.  They also didn't have a kids option on the menu like other ramen spots we have tried around Atlanta.  The service was okay.  It wasn't warm or inviting but more cordial than anything.  Food came out a bit slow and our ramen came before our appetizer.  While they did have vegan options, the options were a little underwhelming.  I got the Yasai with kale noodles and the broth was so salty it wasn't edible.  The server let me replace it with the veggie teriyaki don which was much better, and I felt happier with that selection.  The shiitake bao was not bad but again a bit salty.  It was edible un like the ramen.  We asked for chili oil that we never got with our meal which was a bummer.  Overall it was an okay experience.  We might go back again at some point for a date night but I don't think it's the best spot to go as a family.",
+        "language": "en"
+      },
+      "date": "2023-09-09T20:26:47Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ash C.",
+        "user_id": "a2u6HUnv6UWzDDqgIzXKIg",
+        "link": "https://www.yelp.com/user_details?userid=a2u6HUnv6UWzDDqgIzXKIg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gUa7qc7K367NmpYgMt91ww/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 100,
+        "photos": 1031,
+        "reviews": 320,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "A new Ramen restaurant on Ponce in Midtown. Right across the street from Ponce City Market. They require all customers to wear masks and social distance.\nWe waited maybe 10min for a table, because we preferred a table over sitting at the bar. The staff cleaned and disinfected the table before seating us. \nWe got waters and ordered the Gyoza as an appetizer. They offer it steamed or fried. Currently the restaurant does not have their liquor license, so they only offer soft drinks and teas. While waiting for the appetizer, we ordered the Honey Miso Tori Paitan, Tori Paitan, and the Yasai Spicy Ramen. Everything was delicious!\nThe waitress was also very pleasant and hospitable.",
+        "language": "en"
+      },
+      "date": "2021-01-16T17:55:58Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9XaQIuzg0CdfpD1eVvzUiw/o.jpg",
+          "caption": "Already mixed....Honey Miso Ramen with fried chicken and shitaki mushrooms."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3kQKpbh0-Gvvta24HpH9sw/o.jpg",
+          "caption": "Japanese Gyoza"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brandy C.",
+        "user_id": "9gv3Kd9rLh_fKnxwW5IEoQ",
+        "link": "https://www.yelp.com/user_details?userid=9gv3Kd9rLh_fKnxwW5IEoQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1_djuQWzR94PVyfFOSyTSA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "I went here on a Sunday afternoon after reading Yelp reviews. The reviews are extremely accurate! This place is great...the food, the atmosphere, the drinks, the service. Everything was A1  I'll be back!",
+        "language": "en"
+      },
+      "date": "2023-05-14T21:22:16Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ravi B.",
+        "user_id": "wQ9-iHbzSDO_8E1_dIgbMQ",
+        "link": "https://www.yelp.com/user_details?userid=wQ9-iHbzSDO_8E1_dIgbMQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MoM7M0HVe6hZIAPMssUh4w/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 1805,
+        "photos": 2543,
+        "reviews": 764,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My friend was visiting from Tampa and he and I are big ramen fans and we found this place on Yelp when we were near Emory University and decatur. We actually went to Hiro Ramen and they were closed for lunch :O so we found this place nearby and we are so glad we found it. It was a small space, but the staff was super nice, the prices were accommodating, and I loved all the anime decor. They have many anime figurines and posters and I am a huge fan of Pokemon/Dragon Ball Z/Sailor Moon. They were playing, I think J-pop, and that made it even more fun. The serving sizes were large and everything was flavorful and tasty. I'm already planning to go back again!",
+        "language": "en"
+      },
+      "date": "2021-09-14T01:32:20Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M3443L71Irk9jZfmPmW0xw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Lh6G8on7Xqzw1AB2wlbw7A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5KcdkgdVKBduFkxqnIsasg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9nWHQFeoabuPIFDQO72BsA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Nicole A.",
+        "user_id": "RlG8zsrWfYNaMzmT9ILCiA",
+        "link": "https://www.yelp.com/user_details?userid=RlG8zsrWfYNaMzmT9ILCiA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/H4a4L_CtZefD0TeTFmAZhQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 410,
+        "photos": 233,
+        "reviews": 224
+      },
+      "comment": {
+        "text": "We stopped by tonight for the first time - between being pregnant and all this cold weather, I have been CRAVING good ramen and it did not disappoint! The actual restaurant is small and cozy and funky in the best way. Our service was very quick and helpful and we both actually commented several times that this is the first time in a long time we have been somewhere with enough staff to actually keep things running smoothly and to engage with customers. Everyone was so nice constantly walking around checking on tables.\n\nMy husband and I almost never order the same thing but both ended up getting the Tori Paitan with pork, and shared the crispy brussel sprouts as an appetizer. The sprouts were huge so there weren't a lot but they were delicious. The ramen was perfect! Lots of perfectly chewy noodles and an impeccable soft boiled egg. The pork was fattier than I would have liked, so I'd probably just get it without meat next time but minor detail.\n\nI'll definitely be back to try more, there is so much on the menu that piqued my interest.",
+        "language": "en"
+      },
+      "date": "2022-02-05T02:40:21Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9iypgMbuPdfx-dFhMiiN4A/o.jpg",
+          "caption": "Crispy Brussel Sprout"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7yuS7-y3xYxdtYeLV56qaA/o.jpg",
+          "caption": "Tori Paitan with pork"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sarah L.",
+        "user_id": "vhY3ZSvxPgEI-_spGr-0uA",
+        "link": "https://www.yelp.com/user_details?userid=vhY3ZSvxPgEI-_spGr-0uA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ovsKTcQ5V1q-TUjrN_UzQQ/180s.jpg",
+        "address": "Pooler, GA",
+        "friends": 65,
+        "photos": 49,
+        "reviews": 29
+      },
+      "comment": {
+        "text": "This was a nice, cozy little place to pop into the day after a late night downtown. Staff was incredibly friendly and helpful, explaining menu items and providing prompt service. This was the best ramen I have had at a restaurant. Everything was seasoned so well and was full of flavor. I would give it 10 stars if I could!",
+        "language": "en"
+      },
+      "date": "2022-07-08T20:15:00Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ta8NEVoRZezUUqNy_VWdeQ/o.jpg",
+          "caption": "Spicy Cucumber"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/okXQxFKimtxdZb4KcDFALg/o.jpg",
+          "caption": "Tori Paitan with pork belly and shiitake mushrooms added"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Lisa J.",
+        "user_id": "tLXzED47gia_lJsWbtzz8g",
+        "link": "https://www.yelp.com/user_details?userid=tLXzED47gia_lJsWbtzz8g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-e44Ktc1MVPrIh7EIcFddA/180s.jpg",
+        "address": "Bellevue, WA",
+        "friends": 116,
+        "photos": 361,
+        "reviews": 337,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I heard that this place is the best ramen restaurant in Atlanta and I can see why! \nWe started with the takoyaki (octopus dumplings) which were very good and the octopus pieces were good portions (some places can be skimpy with the octopus pieces but this place gave good size pieces in each dumpling piece). Also I had the sweet yuzu hot tea and it was very delicious! \nI ordered the spicy paitan ramen and it comes with fried karaage chicken pieces, ramen egg and very spicy chicken broth. The noodles were perfectly al dente and the curly thick kind that goes perfectly well with the broth! Be aware that the spicy ramen is VERY spicy! I love spicy foods so I was able to tolerate it but definitely wanted to cry at the end of my meal. Overall I loved my ramen. My boyfriend had the classic paitan ramen which also had the fried chicken pieces but he was able to customize with roasted corn and he loved the smoky flavors of the corn with the ramen. \nStaff were very friendly, the place was clean and although there aren't many tables we were seated immediately. I don't have anything bad to say about this place! \nIf you love ramen and you love fried chicken, definitely give this place a try! I really enjoyed my experience here and can't wait to come back.",
+        "language": "en"
+      },
+      "date": "2021-09-07T02:36:50Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UCCvc5rzKGEgeRbe2-DVfw/o.jpg",
+          "caption": "Ultra Spicy Tori Paitan.. yum!!!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YmT7JZDYzgsnbfBK6FXGWA/o.jpg",
+          "caption": "Tori Paitan with roasted corn. So good!"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Mia K.",
+        "user_id": "h1N4u0tYv8_chOsNoUMOJg",
+        "link": "https://www.yelp.com/user_details?userid=h1N4u0tYv8_chOsNoUMOJg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/igZy15h-j4tILStCUaniYw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 4,
+        "photos": 34,
+        "reviews": 58
+      },
+      "comment": {
+        "text": "This was my second time here. I loved their ultra spicy tori Paitan so I had the same thing again. I ordered level 5 spicy because I love love love spicy food - it was a good level of spiciness.  \n\nI also like their takoyaki (octopus ball) as an appetizer. Tho, it came after ramen - I don't really mind the order of food but if you want appetizer first, you should let them know. \n\nThis ramen place is definitely on my top 3 ramen shop in ATL!",
+        "language": "en"
+      },
+      "date": "2022-01-31T02:14:56Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/buMNWbViyor-2nRDAmfgYQ/o.jpg",
+          "caption": "Ultra Spicy Tori Paitan"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Christiana A.",
+        "user_id": "lML1ZZUqjKqVk16JxLvREg",
+        "link": "https://www.yelp.com/user_details?userid=lML1ZZUqjKqVk16JxLvREg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NEFJ0ksYBnlEjv3hOkD1rQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 38,
+        "photos": 212,
+        "reviews": 95,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Ordered take out from here. My husband loves the spicy ramen, and I'm obsessed with the seafood ramen! The portions are really great! We always get the takeaway, so we haven't really been beyond the front hostess stand. The packaging for the takeaway containers is great and mess-free. We are looking forward to eating in the restaurant soon. The tokoyaki was just okay (by the time we got it home, it wasn't as hot). I know that when you eat it fresh out the kitchen, it must be delicious. If you love spicy ramen (and being able to control the spice level), or you're looking for excellent seafood ramen (shrimp, scallops, and more), look no further than this ramen bar!!",
+        "language": "en"
+      },
+      "date": "2021-09-09T17:42:11Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Gabriella Rose S.",
+        "user_id": "xkNmDENHmKICv6xQJAjRbw",
+        "link": "https://www.yelp.com/user_details?userid=xkNmDENHmKICv6xQJAjRbw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uQr_s1nHdhvXpJYF_IbJLA/180s.jpg",
+        "address": "Wildwood, FL",
+        "friends": 0,
+        "photos": 4,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "SUCH A GOOD PLACE! Visiting from Florida, amazing ramen! The atmosphere was great! Waitress was amazing! Everything was wonderful and I'm actually upset I don't live here cause I would be here probably every week!",
+        "language": "en"
+      },
+      "date": "2022-10-21T02:27:57Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fvJWugx5eBJoSywDOJjrMQ/o.jpg",
+          "caption": "Outside"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nyE-jf-uJRf8CAhq_F-8FA/o.jpg",
+          "caption": "Ramen"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jDQwSC_UuDMo0eH0h4DKPw/o.jpg",
+          "caption": "Inside counter top"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ayumi M.",
+        "user_id": "v2BR5iYIMBFXexXP13UXug",
+        "link": "https://www.yelp.com/user_details?userid=v2BR5iYIMBFXexXP13UXug",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ze_R-G2_no-8NFRnaWGrRg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 12,
+        "photos": 124,
+        "reviews": 60
+      },
+      "comment": {
+        "text": "This place is pretty small but we went on a Friday night and it wasn't crowded at all. The ramen noodles were delicious and chewy and I liked the toppings they had, including the kale.  They also had a good kpop playlist playing. The servers were attentive but sometimes very loud when they were talking amongst themselves and it didn't feel that professional. But overall, decent ramen in the area.",
+        "language": "en"
+      },
+      "date": "2022-08-15T16:03:09Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t70xo1lP3u9YjvbfyXkZ5A/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Patti S.",
+        "user_id": "NWsrQ9EscoTQ4Hcx6b5AIg",
+        "link": "https://www.yelp.com/user_details?userid=NWsrQ9EscoTQ4Hcx6b5AIg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RBiK0yKlT6-YsQqPSS7w4Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 25,
+        "photos": 175,
+        "reviews": 94,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Did not expect to be so wow'd by this place! We decided to step out of the house for food and decided on Kinnotori because we wanted something cozy to eat and the reviews here were nearly perfect.\n\nI can now say that's for good reason! We got the shrimp and pork buns - there are 2 mini buns in each order. We also got a side/app of Brussels. All of the apps were delicious! Loved the shrimp bun, and the Brussels sprouts were very well prepared and season, not soggy at all!\n\nFor entrees we got the spicy miso and the ultra spicy miso ramen bowls with fried chicken. My friend got the level 3 spice in his ultra spicy miso and thankfully he didn't go higher--he actually sweated and it def cleared his sinus pathways. The 3 is def spicy enough for spice-lovers, any higher and you might hurt yourself! \n\nMy spicy miso was pretty standard and very tasty--the servings are good/generous, I actually didn't finish mine and had to take it to go. \n\nThe last things I want to add is that the service was very fast and friendly, and the Sweet Plum Tea is a MUST. It's so shockingly delicious and pleasant--I'm completely obsessed. Can't wait to return for the fried squid legs!",
+        "language": "en"
+      },
+      "date": "2020-12-17T02:16:42Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tF9IS2itRe1NnI-f6k9Pig/o.jpg",
+          "caption": "Spicy Miso Ramen, shrimp and pork buns, Brussels sprouts"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ShPxqNIWVd1bAs24JA5_2w/o.jpg",
+          "caption": "Pork and shrimp buns"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pwy92ATYDgCqjE6hGWK_BA/o.jpg",
+          "caption": "Spicy Miso Ramen"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alaysha H.",
+        "user_id": "xqVsqfoGSDg1t0sVMO9VNw",
+        "link": "https://www.yelp.com/user_details?userid=xqVsqfoGSDg1t0sVMO9VNw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oJsqFP2OZDpHhyZ4p76rgw/180s.jpg",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Absolutely positively love this place. They're my first and last option when it comes to food. Their plum tea is the best thing I've ever had (getting it to-go sucks though because the plastic cup changes the flavor). But the ramen here is amazing. The servers and service are on point. It's always 15 minutes or less. And the ambience is amazing, it reminds me of those Lo-Fi cafe videos on YouTube. The music, lighting, decor and more all blends so well.",
+        "language": "en"
+      },
+      "date": "2023-03-14T18:10:23Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Key M.",
+        "user_id": "WLwlxVIhPrvyQgfdJlnuaA",
+        "link": "https://www.yelp.com/user_details?userid=WLwlxVIhPrvyQgfdJlnuaA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QhO1bXxrQuzt5wnB9shGvA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 11,
+        "photos": 266,
+        "reviews": 158,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Little ramen restaurant tucked away across from Ponce City Market. They opened this spring, unfortunately right before coronavirus happened. However, they're open for take out and now dine-in. I went for lunch today and got the Honey Miso Tori ramen. It was good, and came with an egg (it was gooey in the middle and really satisfying), green onions, kale, and grilled chicken. And of course noodles.\n\nInstead of pork, they use chicken in all their ramen. You can also add quite a few thing in for a little extra. I was full afterwards and the ramen really hit the spot. The broth was good and overall it was a nice experience. They have a lot of different teas to try on the menu as well.\n\nThe service was excellent, and I was happy to support this business - especially with coronavirus going on, and restaurants and their employees really needing the help right now. I enjoyed the atmosphere and music and will be back soon! Thank you!",
+        "language": "en"
+      },
+      "date": "2020-06-09T21:54:02Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ebRG2x8L9tlBzehSrNVVNg/o.jpg",
+          "caption": "Main area"
+        }
+      ],
+      "feedback": {
+        "useful": 5,
+        "funny": 0,
+        "cool": 4
+      }
+    },
+    {
+      "user": {
+        "name": "Tanni D.",
+        "user_id": "qRp-5RKOD9sBLKapaWn_RQ",
+        "link": "https://www.yelp.com/user_details?userid=qRp-5RKOD9sBLKapaWn_RQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oNRjz5farc3WRqmMRlNH6Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 21,
+        "photos": 828,
+        "reviews": 299,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My partner and I have been here for a while and visited most of Atlanta's ramen joints. We were craving ramen again today, and came across KinNoTori Ramen Bar online. The menu looked amazing and due to its high review, we faced the city's crazy traffic for a while to get to KinNoTori.\n\nAlthough there are plenty of parking spaces outside, it took us a bit of time to find a parking spot but hey, I'm not complaining since it was free! The interior of KinNoTori is super cute and cozy, and the staff are friendly. We ordered Pork Buns, Takoyaki, Spicy Miso Tori, and the Ultra Spicy Tori Paitan (heat level 5 because I LOVE spicy food). The Takoyaki was chewy and savory. I preferred it over the Pork Buns, which was a bit too dry for me, but my partner enjoyed it. The portions for the ramen were decent. The Spicy Miso Tori had a mildly spicy chicken broth and was topped with a soft seasoned egg, onion, bean sprouts, green onions, burdock root, pickled red ginger, and fried chicken. Although it was flavorful - including the noodles - we're not used to ramen having a chicken broth. Same thing with the Ultra Spicy Tori Paitan. Although I chose the highest heat level, the ramen wasn't too spicy and it was still tasty.",
+        "language": "en"
+      },
+      "date": "2021-11-06T21:43:23Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UtUipiFLOiODAal-OZbCHw/o.jpg",
+          "caption": "Pork Buns, Spicy Miso Tori, and the Ultra Spicy Tori Paitain (heat level 5)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gypRlqmEuYByXdWBaxeMeg/o.jpg",
+          "caption": "Spicy Miso Tori"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ibDHGIz7n0qy6x065S-oMw/o.jpg",
+          "caption": "Pork Buns with a slice of Cucumber that's topped with Mayo and Scallions"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pWig8bLaO0wk_E6A-I22Jg/o.jpg",
+          "caption": "Ultra Spicy Tori Paitan (spice level 5)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1oDgIX0MASL_8xd1JB0lxw/o.jpg",
+          "caption": "Takoyaki"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lexi W.",
+        "user_id": "6wfF39xxNz1Bjyl_AmFWFg",
+        "link": "https://www.yelp.com/user_details?userid=6wfF39xxNz1Bjyl_AmFWFg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CLxhUffPB6WjI9y99xZTRQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 258,
+        "photos": 3955,
+        "reviews": 412
+      },
+      "comment": {
+        "text": "Located in the massive Midtown Place shopping center across from Ponce City Market, Kin No Tori is a tiny spot tucked in an outbuilding. If you can't find it, look for the large Tacos & Tequilas signs; their entrance is right next door.\n\nThough the space is small, they've done a lot with it. There's a ramen bar, a number of two-tops and at least one large group booth. This is definitely not the spot for large groups dining in, unless you're OK sitting separately. The vibe is upscale casual, with cool smoked glass light fixtures and reclaimed wood (looking, at least) floors. The hallway to the bathroom is papered in fun posters. There wasn't any music playing, so it was a quiet place to eat while checking my emails. \n\nI popped in for lunch while running errands in the Midtown Place shopping center - seriously, there are so many stores all in one place! It was quiet, with only two other solo diners having lunch. The staff greeted me and seated me immediately, and my friendly server was all over it, grabbing me a water by the time I'd even settled in. \n\nThe menu's digital, with stickers affixed to the tables and the ramen bar you can scan with your phone. Not entirely sure what to order, I went with my gut and got both an app and a ramen bowl. Portions were surprisingly big, and came out nearly immediately. (Not sure if they're really just that efficient or it was a factor of no one else being in there are the same time, but either way I appreciated it. \n\nThe Kakuni ($6; braised pork belly appetizer) was just that - a bowl of nicely bite-sized chunks of tender pork belly in a sweet-and-salty soy-based sauce. \n\nThe Honey Miso Tori Paitan ($12-$14; chicken broth, beans sprouts, green onions, kale, sweet corn, a seasoned egg, and choice of fried or grilled chicken) was a little underwhelming. I was expecting a milkier, richer broth but I did like the chicken (tori) broth as it was a bit lighter at lunchtime, and unlike those heavy, salty broths, it didn't make me feel full and bloated afterwards. I was really tempted to try the fried chicken bun app and so I supplemented my ramen with fried chicken. I'll probably go a different route next time and get something with seafood in it - and those fried chicken buns.",
+        "language": "en"
+      },
+      "date": "2021-06-14T17:34:21Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9lvAQKOa13XZ6j-tunxoSQ/o.jpg",
+          "caption": "Interior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Eb3bf9Lz1xFl5fYEMpJDrw/o.jpg",
+          "caption": "Honey Miso Ramen"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uRJVaaK79Qi2YP2vXOwMoQ/o.jpg",
+          "caption": "Hallway to the restrooms"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/93cBzcZR48UAoh2ZFOdQEw/o.jpg",
+          "caption": "Kakuni"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pevz-oSEuGZ9fYD-BlCvow/o.jpg",
+          "caption": "Interior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/38JI5_9k7adIDpquKjBi7g/o.jpg",
+          "caption": "Honey Miso Ramen (Kakuni in the back)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oyyy9vxDhqQja_qZYwVstA/o.jpg",
+          "caption": "Kakuni"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2wJzvU0d5jhh-r-5mgt1Dg/o.jpg",
+          "caption": "Exterior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/v7kTKaieTP-Chg_YmLptHA/o.jpg",
+          "caption": "Kakuni"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/24etYw-5ruR3yMZ5jMgM1Q/o.jpg",
+          "caption": "Honey Miso Ramen"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Tia R.",
+        "user_id": "QxshYu0DUqcVwHks7qvlbA",
+        "link": "https://www.yelp.com/user_details?userid=QxshYu0DUqcVwHks7qvlbA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cKADHG1Y0AGJEBRnJWz0Fw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 38,
+        "photos": 139,
+        "reviews": 161,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I enjoyed the teriyaki chicken and rice bowl and the different ramen broth choices ( chicken, and veggie instead of pork). The place is small but I saw one big table for 5 or 6. There is ample parking in the shopping plaza and soon they'll have a full bar, instead of  just bottles of imported beer and sake.",
+        "language": "en"
+      },
+      "date": "2021-09-26T21:16:20Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VPErczaLWY31Ah_YQMvjAg/o.jpg",
+          "caption": "Spicy Miso Ramen (no meat, chicken broth)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5Z1r6uVaFmSFRkO2RTAMaA/o.jpg",
+          "caption": "Spicy Miso Ramen (no meat)"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tiery C.",
+        "user_id": "6NnTiDcv6jfLkJFeThXovA",
+        "link": "https://www.yelp.com/user_details?userid=6NnTiDcv6jfLkJFeThXovA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Q3rYJCab7MEbUFopiYWhbQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 4,
+        "photos": 80,
+        "reviews": 32,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The best ramen I've ever tasted! Kinnotori's ramen is soooo bomb and their buns are delicious too! It's so good, I ended up going there the next day. Let's talk about the their broth - SO MUCH FLAVOR and tastes very fresh. SUPERB ramen.",
+        "language": "en"
+      },
+      "date": "2021-08-28T16:09:09Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/T2YmYu32uAbHqOb8zdzZ1w/o.jpg",
+          "caption": "Seafood Ramen"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EfG-pPg5V_nTjsYckdLEEA/o.jpg",
+          "caption": "Spicy Miso Ramen"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QgyWlA1oz-RK1h6Q38Yhjw/o.jpg",
+          "caption": "Chicken Bun"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5jemsrl9k5di1IdkQ8Eh7g/o.jpg",
+          "caption": "Shrimp Bun"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Robleh I.",
+        "user_id": "1hPnu7WDjldcLsclvULFMw",
+        "link": "https://www.yelp.com/user_details?userid=1hPnu7WDjldcLsclvULFMw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bk5EuHUZgnHU4tBGCHeXxg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 922,
+        "photos": 329,
+        "reviews": 117
+      },
+      "comment": {
+        "text": "I love Ramen and I'm a huuuge Ramen connoisseur so I was very excited when I seen a new Ramen spot open up near Ponce City Market.\n\nI must say, the Ramen was very flavorful. It was really good. I got the Spicy Miso which is a pretty standard Ramen dish, however the spice level was pretty low for my liking. It more so mild if you ask me. I feel like I should've ordered the Ultra Spicy Tori Paitan.\n\nMy overall experience was a pleasant one and will definitely be going back again. One thing I enjoyed about the menu at Kinnotori Ramen Bar is that they have a variety of both veggie and chicken broth options. Where as to traditional Ramen restaurants they normally use pork broth for a lot of their Ramen options.\n\nAnother thing to note is this restaurant is extremely small, so I would not recommend going in large groups.",
+        "language": "en"
+      },
+      "date": "2021-04-28T16:57:37Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6TkCuQiBkiBoe-xE67B3Uw/o.jpg",
+          "caption": "Spicy Miso Ramen"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Qcxy5-sOFO6gW2StFhBr4Q/o.jpg",
+          "caption": "Ramen is life :)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AAfzh2pJEyx4S6T026hSEQ/o.jpg",
+          "caption": "Japanese strawberry Soda"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Pam B.",
+        "user_id": "rYae9xsiZZOKCPiwNaaCpA",
+        "link": "https://www.yelp.com/user_details?userid=rYae9xsiZZOKCPiwNaaCpA",
+        "address": "FL, FL",
+        "friends": 0,
+        "photos": 7,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "This restaurant hands down is the best. Not only are they hospitable and kind, they accommodate us a party of eight right before they closed when two restaurants in Atlanta turned us down because we had kids with us. Their food is exceptional and the owner came out to serve us. Highly recommend the spicy ramen, boa buns, and spicy cucumber. There was nothing we ordered that wasn't good. We spent over $400 and service was terrible quick.",
+        "language": "en"
+      },
+      "date": "2022-11-14T21:31:05Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UrIGSDVzGwbW4R2DWk5yvg/o.jpg",
+          "caption": "Edamame cooked perfectly and lightly seasoned with salt."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1kqcjOmvAt38mp9TQ0R2gw/o.jpg",
+          "caption": "Truffle fries, perfectly fried."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hnVZZ-d26l25fW-96LyjOg/o.jpg",
+          "caption": "Fried chicken bowl buns, SUPERB!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/k4bOD7x3Z171DhBjWva_fw/o.jpg",
+          "caption": "Gin, mixed cocktail. Excellent!!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Hiro T.",
+        "user_id": "rbzCzf_YkwXbojs8m6KL2A",
+        "link": "https://www.yelp.com/user_details?userid=rbzCzf_YkwXbojs8m6KL2A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/N_uIcfujCQBwoDwCuB_FCQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 214,
+        "photos": 81,
+        "reviews": 467,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "So let's start with the good. The restaurant is very clean. The inside is small, but has enough seating and there is bar seating as well. Service is very prompt and friendly. The interior is also decorated with anime paraphernalia. Now the food, so went with the Chicken Gyoza, Tori Paitan, and Honey Miso Tori Paitan. \n\nChicken Gyoza: tasted pretty standard. There could have been a little more meat in the gyoza since there was an unbalanced wrapper to filling ratio. \n\nHoney Miso Tori Paitan: this dish was okay. The chicken broth bases soup is very light and lacked enough flavor to give the dish a flavor profile. Because the soup did not have a strong flavor to serve as the base of the ramen, everything else just seemed out of place without a unifying element.\n\nTori Paitan: the soup for this dish had a little more flavor, but the ingredients just didn't go with the dish. The fried onion seemed out of place, as well as the tomato. The noodles are also pretty bland and don't really add a dimension to the dish. I personally prefer more alkaline noodles so maybe this is just my bias.\n\nOverall, the restaurant itself is really quaint and clean. Service is good. Not really somewhere I would recommend to others for ramen or would go back to on my own though.",
+        "language": "en"
+      },
+      "date": "2021-06-19T20:48:53Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Daniela M.",
+        "user_id": "Swr8jbTf95JvxPcIzICvxg",
+        "link": "https://www.yelp.com/user_details?userid=Swr8jbTf95JvxPcIzICvxg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/a69v-fcZQiAvrVC2KobOmg/180s.jpg",
+        "address": "Three Chopt, VA",
+        "friends": 39,
+        "photos": 10,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "Love ramen and this is definitely one of the best places. Small space but definitely can fit enough people. Walking in you're greeted by a host and seated down. Appetizers cocktails ramen",
+        "language": "en"
+      },
+      "date": "2022-04-03T23:40:35Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8rm0dbntlrhhPYJSILA4rA/o.jpg",
+          "caption": "Spicy Miso Ramen and tokoyaki"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Emma R.",
+        "user_id": "LTbTI7jCv0VkKzcQbIzKQA",
+        "link": "https://www.yelp.com/user_details?userid=LTbTI7jCv0VkKzcQbIzKQA",
+        "address": "Atlanta, GA",
+        "friends": 341,
+        "photos": 4,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Came for a lunch on a Tuesday. Just one server (Ronin) after the lunch rush and he was prompt on seating and greeting! Gave great recommendations and was pleased to see a variety of pescatarian/veggie options. Everything came out in a timely manner and you get free stickers at the end!!! Cute ambiance, friendly faces, I will certainly return to try more ramen.",
+        "language": "en"
+      },
+      "date": "2023-07-18T19:05:38Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Traci S.",
+        "user_id": "iX5-23BKYTSNo1Z6rz54PA",
+        "link": "https://www.yelp.com/user_details?userid=iX5-23BKYTSNo1Z6rz54PA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FEw-94Ms7w5soilUEiVTOw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 4,
+        "photos": 13,
+        "reviews": 30
+      },
+      "comment": {
+        "text": "Shh, don't tell anyone I told you about this \"locals only\" secret, but OMG this place is amazing and my new fave spot for ramen!  The inside is small and unassuming, but they serve up scrumptious freshly made ramen in a variety of fun and innovative preparations, including my go-to: spicy miso with fried chicken!  Pro tip: if you do get the fried chicken, ask them to put it in the side for you so it stays crispy!  The staff is super helpful and friendly so I always make sure to tip generously.  Additionally they have a decent variety of beer including several Japanese selections. Give it a shot!",
+        "language": "en"
+      },
+      "date": "2022-05-18T19:57:21Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/I8dFOrDFQehU0G9zWHKzng/o.jpg",
+          "caption": "Spicy Miso Ramen"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kee K.",
+        "user_id": "TKJlJPTZF98geewFJtukdQ",
+        "link": "https://www.yelp.com/user_details?userid=TKJlJPTZF98geewFJtukdQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zNrdbS3zvgmfgDXTliSsCw/180s.jpg",
+        "address": "Sandy Springs, GA",
+        "friends": 200,
+        "photos": 1849,
+        "reviews": 317,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Wonderful experience! The food is great and the customer service is above par! Glad I chose this location for lunch today. I like the fact, you can pick between five levels of spice in your ramen. I went with level three and it was just what I needed in terms of spicy. I will return when I'm in the area.",
+        "language": "en"
+      },
+      "date": "2021-01-11T00:05:24Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HxGYsCI-ys-f33X0UnERwQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Erica G.",
+        "user_id": "y_Pt8T1xZmovvrZWdlS1EQ",
+        "link": "https://www.yelp.com/user_details?userid=y_Pt8T1xZmovvrZWdlS1EQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zF2irTBRmLF2kz4ofNsIYw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 550,
+        "photos": 1431,
+        "reviews": 270,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I was really craving ramen, but I hate going to the same place twice so I did a quick Yelp search and found Kin No Tori! We were quickly seated in an adorable warm booth and served very quickly with water. We ordered Takoyaki, an original Tori Paitan and their Seafood Ramen. We both really liked our bowls. They were so filling, we couldn't even finish! Personally, I loved the egg in mine. It was delicious! The noodles were also perfect and chewy. Since the broth was chicken (Tori) it was creamy and pleasurable. For me the pork broth can be too heavy and sometimes makes my stomach hurt. They have a variety of broth options for those with dietary restrictions. For those who do not eat pork or have other restrictions such as vegetarian, pescatarian or vegan this is your ramen spot! Give them a try, it would be sad to loose such a hidden gem!",
+        "language": "en"
+      },
+      "date": "2020-12-02T02:16:58Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Jfe3EjTrtJRpoz9dd1AakQ/o.jpg",
+          "caption": "You've gotta check it out! Seafood Ramen and original ramen"
+        }
+      ],
+      "feedback": {
+        "useful": 5,
+        "funny": 3,
+        "cool": 6
+      }
+    },
+    {
+      "user": {
+        "name": "Maria R.",
+        "user_id": "U-FPCJ016AHK6uUE5dVftg",
+        "link": "https://www.yelp.com/user_details?userid=U-FPCJ016AHK6uUE5dVftg",
+        "address": "Trenton, NJ",
+        "friends": 0,
+        "photos": 5,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "Food a this place is so tasty. I ordered spicy miso ramen, with fried chicken, added pork and sweet corn... it was delicious. The mushrooms bun was incredibly tasty too. This is must have when visiting Atlanta.",
+        "language": "en"
+      },
+      "date": "2023-05-28T18:19:04Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Glenn S.",
+        "user_id": "R12dFZvGpMaRhIr3to4Kyg",
+        "link": "https://www.yelp.com/user_details?userid=R12dFZvGpMaRhIr3to4Kyg",
+        "address": "Del Mar, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Very disappointed. Came from 20 minutes away and arrived at 9:15 pm. The site said they close at 10pm. I was told that they were closed. What?  They offered me the chance to get carry out. Don't come after 9pm apparently. They need to do better!!  Post when you close or close when you post!!",
+        "language": "en"
+      },
+      "date": "2023-05-25T01:32:06Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Teisa S.",
+        "user_id": "i0PALtwBj_WzyfRTNgz6Bg",
+        "link": "https://www.yelp.com/user_details?userid=i0PALtwBj_WzyfRTNgz6Bg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Z56hsb2F-n61d6UpMc_R-A/180s.jpg",
+        "address": "Dallas, TX",
+        "friends": 86,
+        "photos": 15,
+        "reviews": 26
+      },
+      "comment": {
+        "text": "I wish this place were inside Ponce City Market - Their profits would surely soar imo (in my opinion) lol. Every time I stop by this place I'm greeted in a short amount of time - no more than 2 minutes - and the owner is super kind. He's a busy bee, but usually gives a nice, quick hello or offers his assistance when I'm inside. \nThere's a point program that's free to sign up for too! I got $5 off after about 3 orders I think. \n\nThe spicy miso is my favoriteee! Jam-packed with flavor and not actually that spicy in my opinion  (take that with a grain of salt lol - I really enjoy spicy food so my tastebuds are probably fried ). I like to get my ramen without the egg, but it's just as tasty with the friend chicken as it is the grilled. Still prefer it with the friend chicken though lol. \n\nOrders come up pretty fast! I can't remember waiting more than 10 minutes, if that, since I usually come here solo. Best spicy ramen I've tried in the city so far, and I've lived here just under 6 months. Portions are not huge or small enough to disappoint - Perfect portions + definitely worth the price! \n\nIf there's another location opening up, I really hope the ambiance is set up for a nice dinnertime - the ambiance here gives me lunchtime vibes.",
+        "language": "en"
+      },
+      "date": "2021-12-06T01:21:18Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 3,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Terinna C.",
+        "user_id": "q2A-MykoF5RZnVjWwt6V1g",
+        "link": "https://www.yelp.com/user_details?userid=q2A-MykoF5RZnVjWwt6V1g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rLQqlwGlRaED50d3H78PHA/180s.jpg",
+        "address": "Ladson, SC",
+        "friends": 531,
+        "photos": 472,
+        "reviews": 260
+      },
+      "comment": {
+        "text": "It's in the shopping plaza right across the street from Ponce City Market. The inside of the restaurant is a bit small but I love the cozy feeling of the place! Their ramen menu is a bit confusing at first... but once they explained it it made sense. \n\nMy mom had the ultra spicy bowl- it is ultra spicy! The broth is extremely rich in flavor and a bit salty if you're used to eating lighter. My mom asked for a cup of hot water and poured the whole thing in and when I tasted it, I couldn't tell it was \"watered\" down. \n\nMy dad and I had the pork bone base and I added extra chashu on mine with bamboo shoots and it was amazing! I didn't find the pork bone base as salty as my mom's so I thought it was super UMAMI. \n\nI wasn't super impressed with the chicken karage- i didn't care for their version of the batter but it was still juicy on the inside, but not as flavorful. \n\nMy kiddos loved their steamed version of their gyoza- it was soooo good! :)",
+        "language": "en"
+      },
+      "date": "2022-01-02T15:51:50Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sha L.",
+        "user_id": "IslPd-BUNxYx4JJL_SXO9g",
+        "link": "https://www.yelp.com/user_details?userid=IslPd-BUNxYx4JJL_SXO9g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WMiX8nxxnm0IXUatKHRh4Q/180s.jpg",
+        "address": "College Park, GA",
+        "friends": 1,
+        "photos": 19,
+        "reviews": 34
+      },
+      "comment": {
+        "text": "I had the shrimp bun , brussel sprouts and the Yasai (spell check) ramen level 2 and it all was delicious. My waiter was also pleasant and very nice. Great food and overall service was good also .",
+        "language": "en"
+      },
+      "date": "2022-01-30T17:03:06Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/i4Uv5hC5Lw0_un3OJV30Dg/o.jpg",
+          "caption": "YASAI SPICY RAMEN (Vegan)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cAvaaFDkWq17Gq-i-JnXpg/o.jpg",
+          "caption": "Brussel sprouts & shrimp bun"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Shamockalee W.",
+        "user_id": "esdnpnCrp5nsLye09lnPZg",
+        "link": "https://www.yelp.com/user_details?userid=esdnpnCrp5nsLye09lnPZg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SVmTgh7GawQorvx_fWUqGA/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 0,
+        "photos": 8,
+        "reviews": 17
+      },
+      "comment": {
+        "text": "Very nice little Ramen spot, ramen was amazing. Service was on point. I will definitely keep in my list as a top go to .",
+        "language": "en"
+      },
+      "date": "2022-12-07T14:34:38Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Paris W.",
+        "user_id": "u5aEHe0FDXn5pvwyxFkJgg",
+        "link": "https://www.yelp.com/user_details?userid=u5aEHe0FDXn5pvwyxFkJgg",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "I ate at the Alpharetta location today and it was amazing! I had a sampling of the gyoza (fried and grilled both delicious!) The ramen was amazing and full of flavor. The broth was not salty but made just right. The chef even brought over a new shrimp dish for us to try. The service was simply excellent. I love this place and will be back!",
+        "language": "en"
+      },
+      "date": "2023-06-07T19:32:21Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Janice S.",
+        "user_id": "1CLyOKPWeQT8efP3vKWViA",
+        "link": "https://www.yelp.com/user_details?userid=1CLyOKPWeQT8efP3vKWViA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pGFRRS6QuT_eUuJCUx6-oA/180s.jpg",
+        "address": "Bellflower, CA",
+        "friends": 4,
+        "photos": 135,
+        "reviews": 72
+      },
+      "comment": {
+        "text": "First time here and it was amazing!! The \"pot stickers\" were amazing and got them fried. I tried the spicy miso ramen and it was phenomenal. I added seaweed on the side since I couldn't eat the seasoned egg that it came with. My boyfriend tried the seafood ramen and he really enjoyed it. Honorable mention, the plum tea that they had was amazing. Would definitely recommend.",
+        "language": "en"
+      },
+      "date": "2022-04-01T05:49:03Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OgjC8MJrmZ5aVgA8_NmU2g/o.jpg",
+          "caption": "Japanese Gyoza"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oolgAnZa0dd0222Y1CWcew/o.jpg",
+          "caption": "Seafood Ramen"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oWSj-E39G__D2EH-aWQf2A/o.jpg",
+          "caption": "Spicy Miso Ramen"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Heidi T.",
+        "user_id": "-BUcrz9BBBygRymCNB_Mqg",
+        "link": "https://www.yelp.com/user_details?userid=-BUcrz9BBBygRymCNB_Mqg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QpougaZRG1VWPGgeWsIfAA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 18,
+        "photos": 121,
+        "reviews": 87
+      },
+      "comment": {
+        "text": "This is my favorite ramen spot in the ATL! And I've tried SEVERAL! I normally get the Shoyu ramen (it's vegan!), and my husband gets the Shoyu add pork. Most of their ramens are served as a base and you have options for add ins. The shoyu comes with kale, corn, bean sprouts, fried onions, and chives. I normally add mushrooms, extra corn, and their version of a spice bomb (bokudan sauce). Fresh, prompt, and nicely packaged. And the noodle to broth ratio is perfect! \n\nI've only done take out from here so I can't really speak to the ambiance or dine in customer service. But if it's even close to my take out experience I'd give it a 10 out of 10. \nThe ramen always travels to home (about 15-20 mins) in one piece. Heating instructions are super easy. Pour the broth on the noodles and other ingredients, microwave for 2 mins,  and boom--best ramen in ATL! If you dont like the microwave, I'm sure you can heat on the stove.",
+        "language": "en"
+      },
+      "date": "2021-11-04T17:24:44Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Crystal C.",
+        "user_id": "BRhPR6neqB0O72Ii640QSw",
+        "link": "https://www.yelp.com/user_details?userid=BRhPR6neqB0O72Ii640QSw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rM10b_RYj71PTIASfrLFUA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 374,
+        "photos": 173,
+        "reviews": 92
+      },
+      "comment": {
+        "text": "I like this place! I've never been to any country in Asia, but the decor gives me authentic/traditional vibes. It is a little small with very little seating. If they ever get really busy it won't be good. However, the ramen is nice. I also tried the Okonomiyaki which is like a Japanese pancake. It was all pretty tasty. I've visited twice. I'd go back and take friends.",
+        "language": "en"
+      },
+      "date": "2021-12-03T04:09:55Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ogCWz3mGhDcgklp9DJVO8g/o.jpg",
+          "caption": "Okonomiyaki"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/236epJHYxssj6Vod_XbFCw/o.jpg",
+          "caption": "Ultra spicy ramen"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=ZKZGgOsRPpAjc9oMBT_uBw&start=120"
+  }
+}

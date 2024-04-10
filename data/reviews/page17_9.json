@@ -1,0 +1,1713 @@
+{
+  "search_metadata": {
+    "id": "65f0a1da2c084481182097a2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f0a1da2c084481182097a2.json",
+    "created_at": "2024-03-12 18:41:30 UTC",
+    "processed_at": "2024-03-12 18:41:30 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/YIPzFF0CVgMCcly67VHgjw?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1da2c084481182097a2.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1da2c084481182097a2.prettify",
+    "total_time_taken": 2.72
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 160,
+    "num": "50",
+    "place_id": "YIPzFF0CVgMCcly67VHgjw"
+  },
+  "search_information": {
+    "total_results": 898,
+    "business": "bartaco"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 898
+    },
+    {
+      "hl": "fr",
+      "count": 1
+    },
+    {
+      "hl": "es",
+      "count": 3
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Sun K.",
+        "user_id": "_2YOusjN34IXUJxYsXgn1g",
+        "link": "https://www.yelp.com/user_details?userid=_2YOusjN34IXUJxYsXgn1g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/b1LN2gUxKM3XuDTAcHbH9A/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 144,
+        "photos": 726,
+        "reviews": 264
+      },
+      "comment": {
+        "text": "I was visiting some friends and work colleagues in Georgia and I was suggested to try this spot. Safe to say that I absolutely LOVE bartaco. The service, ambiance and food quality are all amazing. I think I've referred about 6 couples here as a dinner date option. \n\nIt was dinner rush so the host put our party on the waitlist for ~ 30 minutes. Got a text and seated around ~20 minutes. Super friendly and introduced us to our friendly waitress. She was quick to get us some waters and utensils and did not hover over us while we browsed the menu.\n\nThey have a large variety of meat selection and the salsas are amazingly fresh! I wish I able to get a photo of our meals before devouring them. \n\nI would definitely hope this restaurant goes quickly and they come to California to open one because they would do some amazingly here.",
+        "language": "en"
+      },
+      "date": "2021-07-16T22:44:02Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Esther O.",
+        "user_id": "YbVVYXOmgiV-mjswQHN0ow",
+        "link": "https://www.yelp.com/user_details?userid=YbVVYXOmgiV-mjswQHN0ow",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uUuAMwiaG9i03A-a4XUR0Q/180s.jpg",
+        "address": "New York, NY",
+        "friends": 72,
+        "photos": 216,
+        "reviews": 169,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "A friend of mine suggested that we check out this place for a late lunch and a small group catch up. This is located in a very cute part of Atlanta and one of my favorite locations.\n\nI ordered the watermelon margarita and chips w/ guac to start. The guacamole was amazing and the drink recommendation was perfect.\n\nI ended up getting two baha fish tacos and one shrimp taco. The shrimp taco was just ok and had a slightly bland taste to it, but the fish tacos were absolutely delicious and I highly recommend it.\n\nThe servers here are sooo friendly and made sure we were enjoying are time there.\n\nI would definitely check out this spot if your ever in the area.",
+        "language": "en"
+      },
+      "date": "2018-12-29T01:43:57Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hSoxdzDbzpAxUB4ASUthZA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uRAXFy7MbXCkRTCYnfKbGA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HHdSbd8xL6U56oOtzyr5-A/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Elizabeth G.",
+        "user_id": "p45X9TF6ZlCjsvAG_ag6Xw",
+        "link": "https://www.yelp.com/user_details?userid=p45X9TF6ZlCjsvAG_ag6Xw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZbxOwR6yzd6XZ84m_BAgaw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 320,
+        "photos": 415,
+        "reviews": 308,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This quarantine is no joke but atleast we can still order our fave tacos and bowls from Bartaco! My husband and I would normally go out to eat on the weekends pre-covid so this past weekend was no exception and we did Bartaco Take Out! Our experience was phenomenal:\n\n- Ordered over the phone and the girl on the other end was so kind and friendly. It feels nice to hear another person's voice now a days, amiright?\n- Food was ready when we arrived with a little smiley face drawn next to our name. How sweet!\n- Margaritas to-go? Heck yea! Bartaco is doing \"Margarita Kits\" that come with their freshly squeezed Margarita mix of limes and oranges, salt for the rim, and limes for garnish. All you need at home is tequila and you're set to have a good time. The kit makes 4 margaritas for $8.\n- The flavors of everything was just as we remember it to be. With so any aspects of our lives changing it's comforting to taste something that reminds us of what Normal is. \n\nThanks Bartaco for being open during these times. I'm sure you need us now more than ever and I hope this review will encourage folks to order takeout!",
+        "language": "en"
+      },
+      "date": "2020-04-10T02:59:29Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Calvin H.",
+        "user_id": "mYHgjnjiegH4TQCJESz3Yw",
+        "link": "https://www.yelp.com/user_details?userid=mYHgjnjiegH4TQCJESz3Yw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vruct0U6g6wLBe472OFYkQ/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 583,
+        "photos": 30,
+        "reviews": 22
+      },
+      "comment": {
+        "text": "This place was very good. It's taste as close as you can ever get to the street tacos in Cali. I suggest you order a side of beans and side of rice to add to your taco to enhance the experience of the taste(just my opinion). The tacos are small so order two of them as an equivalent to one standard size taco. The menu with the QR code was different and very convenient. I'll most definitely recommend this as a place to try while in the Midtown Atlanta area.",
+        "language": "en"
+      },
+      "date": "2021-06-13T03:45:51Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QaJBEpsmQB0yWMxIuI1iLg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Velecity G.",
+        "user_id": "q9S_WUb8ZSn6ArAe9cXNhQ",
+        "link": "https://www.yelp.com/user_details?userid=q9S_WUb8ZSn6ArAe9cXNhQ",
+        "address": "Jonesboro, GA",
+        "friends": 227,
+        "photos": 79,
+        "reviews": 52
+      },
+      "comment": {
+        "text": "This wasn't my first time here and it definitely won't be my last. I love the tacos here, they are so flavorful. They are small so I suggest getting a couple. The tres leche was so tasty and the corn is a must! The staff is super helpful and friendly which I loved and the sauce is for sale so if you like it, make sure you get a bottle!",
+        "language": "en"
+      },
+      "date": "2022-07-28T20:06:20Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/18hfOyTZayDJ_zdpEE0p4w/o.jpg",
+          "caption": "Grilled Corn - Elote"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lom2B-8wiYug8C9tEBmGQw/o.jpg",
+          "caption": "Tacos"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D_DeYwJBuOstPJD8Qci2QQ/o.jpg",
+          "caption": "Tres Leche"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kyle K.",
+        "user_id": "k1pBUbc6cZfJ_mqsPpzjrg",
+        "link": "https://www.yelp.com/user_details?userid=k1pBUbc6cZfJ_mqsPpzjrg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dgLCor0sRAhmuQeMBC5yOw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 3,
+        "photos": 26,
+        "reviews": 39
+      },
+      "comment": {
+        "text": "Felt like they are taking covid seriously and their protocols made us feel safe.\nFor dinner, I ordered their chicken verde, carnitas and steak tacos, added cheese. The tacos are small but full of flavor! These taste great paired with Tecate.\nVery please with the staff, safety and overall staff.",
+        "language": "en"
+      },
+      "date": "2020-08-17T19:53:53Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TMdgngR2o-7WLYXGwleI7Q/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Emily G.",
+        "user_id": "nSOf0NLbCxggtojX-BD0tg",
+        "link": "https://www.yelp.com/user_details?userid=nSOf0NLbCxggtojX-BD0tg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3G4MzVkYmTrNOdKSP1-Mqw/180s.jpg",
+        "address": "Queens, NY",
+        "friends": 315,
+        "photos": 1205,
+        "reviews": 918,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I'd definitely recommend Bartaco. My friend brought me here after persistently trying to convince me to try it out. Although I wasn't hungry enough for a full meal, this hit the spot especially after two amazing tacos. The prices were great- $2.50-3 for ea. \nIt had great vibes for a date night or small party of friends- dimly lit and chill. \nI loved my tacos- i tried the spicy chorizo and the duck. The meats were cooked so well with great seasoning and flavor. \nI enjoyed the way you ordered- you tally off how many of each menu item you want, and the waitstaff collects it for you once you've jotted it down. Usually one paper = one check but they put it all on the same bill so Id advise to remind them before paying how you want to do it.\n\nWill definitely come again to try out more of the tacos AND desserts!!",
+        "language": "en"
+      },
+      "date": "2018-11-21T12:28:55Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/U_z5kNQN2CTXiF-S_-yyiQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rochelle W.",
+        "user_id": "vao6oF3sO8wMD9VqA6V8Kg",
+        "link": "https://www.yelp.com/user_details?userid=vao6oF3sO8wMD9VqA6V8Kg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8MFYR_z2fqd_afDHY2k7Rg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 196,
+        "photos": 953,
+        "reviews": 261,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I will never get tired of this place\nGreat food, great location, and when I'm dining alone I love sitting at the bar. The patio is a great place to hang out with family and friends",
+        "language": "en"
+      },
+      "date": "2018-11-10T14:27:48Z",
+      "rating": 5,
+      "tags": [
+        "7 check-ins"
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Trent R.",
+        "user_id": "b0dwCeXzwOZVDCMvHBdqjw",
+        "link": "https://www.yelp.com/user_details?userid=b0dwCeXzwOZVDCMvHBdqjw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Q1d1Pj6Id30uzi6USgoxYw/180s.jpg",
+        "address": "Fayetteville, AR",
+        "friends": 270,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Great location and yummy food. Great staff as well! Would definitely recommend checking this place out!",
+        "language": "en"
+      },
+      "date": "2022-08-16T01:54:38Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ro P.",
+        "user_id": "Cx_my7_-YBDdue_d7v45GQ",
+        "link": "https://www.yelp.com/user_details?userid=Cx_my7_-YBDdue_d7v45GQ",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "If you're at the bar ask for Slim. She mastered this tequila lemon drop. Great service from the door !",
+        "language": "en"
+      },
+      "date": "2023-02-09T23:32:07Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Christen A.",
+        "user_id": "lCilj5INKp9g8RDevJSkWA",
+        "link": "https://www.yelp.com/user_details?userid=lCilj5INKp9g8RDevJSkWA",
+        "address": "Decatur, GA",
+        "friends": 0,
+        "photos": 11,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "If catfishing was a restaurant! My sauce container was bigger than the meat portion. \n\nTo write a hateful review is hard for me. I even waited several days before writing this just to not be as harsh. \nThe only reason they get a 2 star is because the food is truly good. The churros suck but used to be great. They used to make homemade churros but now they sell the frozen kind that you can get at grocery and heat up yourself. \n\nI ordered the family meal $50 bucks for a family of four. Okay, makes 16 small tacos. Great deal, yeah not from here.  $70 dollars worth of food later and they gave me more sauce than chicken. If you look at their website photos you will see what the meat is supposed to come in, but not for me they gave me a single portion of chicken in a take away in a box. That amount of chicken is supposed to make 8 tacos. The fish was also tiny and supposed to make 8 tacos.",
+        "language": "en"
+      },
+      "date": "2021-03-30T01:14:30Z",
+      "rating": 2,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kVML_ILAULzmAxmQvVn3vw/o.jpg",
+          "caption": "Family meal. Chicken supposed to make 8 tacos. Smaller portion of meat than the sauce."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uBrRDFTKZcmqk757hOuzjg/o.jpg",
+          "caption": "8 portions of fish in family size tacos. The fish is as tiny as it looks. This is all 8 in this box."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MPvGBXg6JkSQ4JDlugxctw/o.jpg",
+          "caption": "They gave less meat than sauce. Chicken family dinner supposed to make 8 tacos."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Cv5kGNULNEstWB1pLePJ-Q/o.jpg",
+          "caption": "Nothing homemade here. This is supposed to be 2 orders in one box. What a rip."
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Papa G.",
+        "user_id": "4V38Q5PbVEn-RVoPspuB0Q",
+        "link": "https://www.yelp.com/user_details?userid=4V38Q5PbVEn-RVoPspuB0Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/P-LARYEX3gaEq2y6Xm61vw/180s.jpg",
+        "address": "Hilton Head Island, SC",
+        "friends": 0,
+        "photos": 6,
+        "reviews": 71
+      },
+      "comment": {
+        "text": "Food is good, but nothing is served hot here. Everything is ordered through your device, so you feel like a boomer if you have to ask a human for anything. The liquor/cocktail pours are pathetic, and the beer list leaves a lot to be desired. Bartaco is 90% style and 10% substance. Will be a hit with your friends that have to post every second of their lives.",
+        "language": "en"
+      },
+      "date": "2022-04-16T03:04:13Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ashley P.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/TsM2WTN2mrUQ4GMB6VUKIQ/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "I am so sorry to hear about your experience in our restaurant. We pride ourselves on good, friendly service. You shouldn't have been treated that way, and for that we apologize. To make it up, I would love to invite you back to get the true bartaco experience! Please reach out to me drhodes@bartaco.com",
+          "date": "2022-04-19T20:20:14Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Erin K.",
+        "user_id": "w1Kx0pLwThUc9CmwP8UWRg",
+        "link": "https://www.yelp.com/user_details?userid=w1Kx0pLwThUc9CmwP8UWRg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NIoul_j80AyS81la1UMZwA/180s.jpg",
+        "address": "Walnut Creek, CA",
+        "friends": 122,
+        "photos": 557,
+        "reviews": 528,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "VEGAN REVIEW:\n\nI had two of the mushroom and mole tamales, and I was not impressed. They were $5 each but very small and I couldn't taste the mushrooms OR the mole!\n\nThe good thing is if you fill out a comment card, you get a token for one free taco.\n\nPRO TIP: Park in the parking deck and get your ticket validated!",
+        "language": "en"
+      },
+      "date": "2018-01-10T21:58:20Z",
+      "rating": 2,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BlAeVmiPOaMMDY7xnN1MFg/o.jpg",
+          "caption": "Mushroom mole tamale - vegan $5 each"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fvxNbpvt9fRk3yo-VV-x5w/o.jpg",
+          "caption": "Mushroom mole tamale - vegan $5 each"
+        }
+      ],
+      "feedback": {
+        "useful": 5,
+        "funny": 4,
+        "cool": 3
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ashley P.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/TsM2WTN2mrUQ4GMB6VUKIQ/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Erin,\n\nI sent a message to your inbox last week, we would love to have you back in to try some more items. Your feedback is important to us!",
+          "date": "2018-01-15T21:19:23Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Rishina J.",
+        "user_id": "metJ2KWsIv_auVgtpT1CXg",
+        "link": "https://www.yelp.com/user_details?userid=metJ2KWsIv_auVgtpT1CXg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/u6FLRBecO_4ktkuMtmdceA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 51,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "Loved the place! Wasn't too busy the vibe was great food was great as well will definitely be back.",
+        "language": "en"
+      },
+      "date": "2021-09-26T13:23:36Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WYJHkVEZawOhjSKErbeNUw/o.jpg",
+          "caption": "Spiced chicken verde rice bowl   Salsa Roja with Chips"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3ppFcGcU2YVVO8vGr9z7uQ/o.jpg",
+          "caption": "Reviver"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NO8FSQs5qM_NSTj0S2GaxA/o.jpg",
+          "caption": "Spiced Chicken verde rice bowl   Salsa Verde with Chips"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VCsRF50kLyX1MJnRh6X9_A/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Dee L.",
+        "user_id": "5DyQwiqxGYmZ1D0d92_qRw",
+        "link": "https://www.yelp.com/user_details?userid=5DyQwiqxGYmZ1D0d92_qRw",
+        "address": "New York, NY",
+        "friends": 0,
+        "photos": 6,
+        "reviews": 82
+      },
+      "comment": {
+        "text": "The first time there it was okay but I enjoyed the food (drinks not too great) for the most part so I tried it a second time and it was terrible.\n\nThe service was horrible.  It wasn't even that crowded. We ordered drinks and we waited and waited and waited... I got up and asked about the drinks because our waiter disappeared. They brought the food before the drinks. Eventually they comped the drinks. However, I won't be returning",
+        "language": "en"
+      },
+      "date": "2022-08-03T13:57:14Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ashley P.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/TsM2WTN2mrUQ4GMB6VUKIQ/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hey Dee, thank you for your feedback; it helps us improve and grow as a team. I'm so sorry to hear that you waited so long for your drinks and that you were not satisfied with the resolution. If you'd be willing to give us another chance we'd love to make it up to you. Feel free to email me at vholland@bartaco.com and we can find a time to try again. Best wishes, Victoria",
+          "date": "2022-08-06T03:58:01Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Diana T.",
+        "user_id": "LchTJaJysKCLpLZsPu0Skw",
+        "link": "https://www.yelp.com/user_details?userid=LchTJaJysKCLpLZsPu0Skw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6SO3eh0hwD___ZYWcJQ9vw/180s.jpg",
+        "address": "Suwanee, GA",
+        "friends": 629,
+        "photos": 539,
+        "reviews": 619,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Bartaco will always get 5 stars in my books. From the service to the food, it's always consistent. My favorites are the Baja fish, pork belly, duck, and oyster tacos. Pair with their habanero hot sauce. I also enjoy their street corn and plantains!",
+        "language": "en"
+      },
+      "date": "2021-02-07T22:34:52Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 4,
+        "funny": 2,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Mandy C.",
+        "user_id": "o56tStlnUtDjV-jeERdG9w",
+        "link": "https://www.yelp.com/user_details?userid=o56tStlnUtDjV-jeERdG9w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rgETmhcAuovozYYuAcscUg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 535,
+        "photos": 480,
+        "reviews": 191
+      },
+      "comment": {
+        "text": "We were able to get seats at the bar which is open seating on a busy Friday night. The service was really slow because it was packed but the bar manager took care of us when he saw us waiting for something which was really helpful. The bar had a stench to it that smelled a little funky so I feel like I wouldn't want to sit at the bar again.",
+        "language": "en"
+      },
+      "date": "2022-02-05T13:42:57Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 4,
+        "funny": 0,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ashley P.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/TsM2WTN2mrUQ4GMB6VUKIQ/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hello Mandy! Thank you for taking the time to provide feedback on your experience with us! We’re so glad the bar manager was able to assist! As far as the unusual scent at the bar, this is not something we’ve heard before but we will definitely pay close attention to!",
+          "date": "2022-02-07T04:11:13Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Victoria F.",
+        "user_id": "TeeFQdhwCPpgI3mU6Q0Amg",
+        "link": "https://www.yelp.com/user_details?userid=TeeFQdhwCPpgI3mU6Q0Amg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/k1dQIs9Vx0hPZKfxK192NQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 452,
+        "photos": 191,
+        "reviews": 83
+      },
+      "comment": {
+        "text": "Cute spot in Inman park. Pro tip: download the Bartaco app to join the waitlist from home. It saved us quite a bit of time. We ordered the guac which was simple but good. The chicken soup was very flavorful. The chicken empanadas are ok. I could pass on those next time. We ordered a variety of mini tacos. They are pretty small so you need at least 4 per person depending on how hungry you are. We had the duck, sesame ribeye. Both are good. The managers come around to check on your table which was nice. Dante was super sweet and helpful.",
+        "language": "en"
+      },
+      "date": "2021-03-22T15:57:42Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/deWqM9nKJ9P1FRxDp6dCjQ/o.jpg",
+          "caption": "Too hungry to check in before the guac hahaha"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/K6AfXucDZnzFmy6hi-bn4Q/o.jpg",
+          "caption": "Chicken empanada"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/c4FxXtoVYuzDgaT3yo4XqQ/o.jpg",
+          "caption": "Chicken Soup"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NqEWqTlJWS26kpterNzgSA/o.jpg",
+          "caption": "Chicken empanada"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Vance B.",
+        "user_id": "Ee7QGBYrP_G1JTyCwwCZ-g",
+        "link": "https://www.yelp.com/user_details?userid=Ee7QGBYrP_G1JTyCwwCZ-g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/l4IgcZiNcc7wAcjhUBI1lA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 17,
+        "photos": 0,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "We just walked out of this place. 30 minute wait so we put our names on the waitlist. No problem, right, we'll just get a drink at the bar. Sat at the bar for 20 minutes and neither bar tender recognized our existence. Completely ignored us like we were invisible. Was busy but not that bad. Spoke to manager and he was surly. Said wanted to fix it but offered no apology or explanation. Too cool for school. Walked out and will never return. If you want any hospitality, don't go here.",
+        "language": "en"
+      },
+      "date": "2022-02-21T00:11:20Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ashley P.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/TsM2WTN2mrUQ4GMB6VUKIQ/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thank you for providing feedback on your experience Vance! I want to apologize for the lack of awareness that happened while at the bar with us. The next time you consider dining in please let me know so we can ensure you're taken care of. Thanks again Vance!",
+          "date": "2022-02-25T02:50:21Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Tara B.",
+        "user_id": "H4ygzaGIg61ys0KqVuWM9A",
+        "link": "https://www.yelp.com/user_details?userid=H4ygzaGIg61ys0KqVuWM9A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PvAtfkO2pS0zFpsKIvTRyw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 80,
+        "photos": 1372,
+        "reviews": 273,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Bartaco never disappoints!! This location seems to season everything better than the others I've been to. I dig it. \n\nTried the chopped salad for the first time. Yumm!! My taste buds approve!! Comes with a cilantro lime dressing that is delish. Very fresh and crispy, ever so tasty on the pallet. \n\nCrispy Rock Shrimp taco is one of my favs. Comes with this chipotle slaw that had a nice little kick to it. Breaded shrimp that a good taste to it. \n\nRoasted Duck taco was freaking awesome! My favorite!! I've had it other Bartacos but they just seem like they prepare their food even. After than other locations. I dig it! \n\nGrilled corn on the cobb is always amazing. Has cotija, lime and cayenne on it. So so good. Couldn't eat it on a date night because it gets all in your teeth. Then again, might be worth it. Lol\n\nGreat atmosphere. This was my first time to this location. Super cute place for a date night! As busy as it was, service was still good and pretty quick.",
+        "language": "en"
+      },
+      "date": "2018-08-13T00:04:44Z",
+      "rating": 5,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NzZ_t_7I82xS6cIeVr5lXQ/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qgMGZX84KRPSpawCGBWK9w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jwUOuE3XMT3L6aAD_CIGAg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qOqhdfYNJ6SxO4uFyRIa-Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DwFPMwWaja1leVaaH3tkNw/o.jpg",
+          "caption": "Corn. Comes with two of them. The first was so good I forgot to take the pic first. Lol"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MGLBev08P-0SBQ6TAwEAIg/o.jpg",
+          "caption": "Chopped salad. Sooooo good!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8FCayD8wmlpYpuELY777zA/o.jpg",
+          "caption": "Tacos!! Duck is definitely my fav!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yYYRMyRS0XSSvF1JmIl35Q/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ivana S.",
+        "user_id": "Q7z79xji4Jube-VuaEe32A",
+        "link": "https://www.yelp.com/user_details?userid=Q7z79xji4Jube-VuaEe32A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VItcV4EqKX6DMasUDP435Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 728,
+        "photos": 576,
+        "reviews": 192,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The manager was very kind and checked in on us multiple times- great outdoor seating and dog friendly (huge part) you can never go wrong with the refresher cocktail.",
+        "language": "en"
+      },
+      "date": "2021-03-22T15:58:26Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Corey S.",
+        "user_id": "Qw7DflnZmVZ-iSYU767KdA",
+        "link": "https://www.yelp.com/user_details?userid=Qw7DflnZmVZ-iSYU767KdA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/iNwsWXsFxpDhGNAGpW_wYg/180s.jpg",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 33,
+        "photos": 10,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Great place for cheap but tasty food. Service was not amazing. \n\nThe restaurant itself is very cozy and all the wait staff was friendly. We needed to ask for things (water, refills, ordering) and the food did not all come out at the same time, but besides that there were no problems. \n\nAppetizers:\nGuac + roja + verde\n\nI thought the guac was very good and the other two sauces were tasty but not exceptional. The chips were fantastic, but we had to ask for more to finish the sauces. \n\nTacos: \nChicken Chorizo\nMy favorite of the tacos I got. The flavor of the chicken and the sauce worked really well together. \n\nMojo Pork Carnitas\nThe pork was good but left a slightly greasy after feel. \n\nMushroom\nGreat option for vegetarian people. The mushrooms were nicely seasoned and cooked. \n\nCarne Asada\nOf the 4 tacos this one was my least favorite. Nothing really popped out. \n\nDessert:\nChurros\n\nThe flavor was sweet and eggy and they had a nice crunchy exterior with a fluffy interior. The chocolate dipping sauce was dark but complimented the sugary churros well. \n\nI would give it 5 stars but I'm picky about having to repeatedly ask for things such as water, and I only liked 3/4 tacos. If you are a big sauce person, ask for extra sauce on the side because they don't give a lot.",
+        "language": "en"
+      },
+      "date": "2019-11-18T04:23:00Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TsYTN--UcykN6EvmEpDJVQ/o.jpg",
+          "caption": "Guac Roja Verde with Chips"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L6SpZu1_7_68wcsfjE3p6Q/o.jpg",
+          "caption": "Pork, Chicken, Mushroom, Steak"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3Y5oRyki9hLqEoLOSfP-Jg/o.jpg",
+          "caption": "Churros with Chocolate Sauce"
+        }
+      ],
+      "feedback": {
+        "useful": 5,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Sina G.",
+        "user_id": "nmeXJwAe6hK5fG3ptSiGxg",
+        "link": "https://www.yelp.com/user_details?userid=nmeXJwAe6hK5fG3ptSiGxg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/M0YaNXFGCmDpUp1-dFXnKg/180s.jpg",
+        "address": "Laguna Niguel, CA",
+        "friends": 200,
+        "photos": 106,
+        "reviews": 98
+      },
+      "comment": {
+        "text": "I love Bartaco's cocktails especially their margaritas and the one with Mezcal. Food is always good and the servers are quite welcoming. Try different combinations of Tacos for sure. \n\nalmost always, there's something (either food/drinks or the service) that beats my expectation. Would definitely recommend.",
+        "language": "en"
+      },
+      "date": "2021-06-24T21:35:22Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lauren J.",
+        "user_id": "hIl6HlX1jxAVR-WZ5y_KpA",
+        "link": "https://www.yelp.com/user_details?userid=hIl6HlX1jxAVR-WZ5y_KpA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gMOLIIokQRCAUbkpT6b2NQ/180s.jpg",
+        "address": "Buford, GA",
+        "friends": 754,
+        "photos": 318,
+        "reviews": 157,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Love love love bar taco. Service at this location is a hit or miss- usually it's absolutely stellar but like most restaurants there are a few servers that make you contemplate coming back. They've implemented a new virtual ordering system that still has a few kinks, especially for larger parties. Basically, your entire party scans a QR to download a menu and then you all order under the same tab. In order to place any orders, you have to link a credit card and then when paying, you can split the tab from your phone. In theory, it sounds great but when you have multiple people ordering multiple things, it gets messy super easily. So be warned but the good tacos should make up for any ordering confusion",
+        "language": "en"
+      },
+      "date": "2021-05-08T23:16:26Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Aishwarya I.",
+        "user_id": "8V5LgH5oOpgP9Kcj5MufFw",
+        "link": "https://www.yelp.com/user_details?userid=8V5LgH5oOpgP9Kcj5MufFw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gs7aq6yvi_tGVojVNpWDeg/180s.jpg",
+        "address": "Seattle, WA",
+        "friends": 35,
+        "photos": 248,
+        "reviews": 180
+      },
+      "comment": {
+        "text": "I was pleasantly surprised by the overall experience here! I've been lamenting a lack of a good taco spot that offers vegetarian options, but this might be my new go-to. The mushroom tacos here are SO good, definitely get them if you're a mushroom lover. The cauliflower taco was okay, it could've used more of the sauce--but the sauce was also just spicy, it didn't have much flavor to it besides that. Note the tacos are small and bite-sized, so if you normally eat two you might end up getting four here. Get the reviver if you like a refreshing drink, it was excellent, one of the best I've had. The chips are interesting because they come as whole crispy tortillas that you break off yourself. The guac and the esquites (off the cob corn) were solid as well. I really loved their contactless ordering & payment system, I think more restaurants should adopt that. We ended with the churros and they were also some of the best churros I've ever had--they were warm and surprisingly authentic, and served with a little side of chocolate sauce that wasn't too sweet. The one thing that kind of bothered me was that the service slowed down considerably near the end of our visit--which is ironic because we showed up during the dinner rush, and service was very quick then, but near 9pm we struggled to get a hold of any servers and had to wait much longer to get our second round of tacos and had to call the manager (Ashley) over to check on the churros for us. She was truly wonderful though!",
+        "language": "en"
+      },
+      "date": "2022-02-20T13:43:28Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Y9YSYfTe9j5E3_j-DBy-bA/o.jpg",
+          "caption": "Mushroom taco and cauliflower taco"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bHc_XaXihYRp8lZg9glvfg/o.jpg",
+          "caption": "Churros with Chocolate Sauce"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KJSVVf4NRx3yjP7xeHq-Zw/o.jpg",
+          "caption": "Reviver"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CrFvnlTOSq0x1YQaVwh63Q/o.jpg",
+          "caption": "Esquites"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0hPf7gRRTTOX4U45vAutFA/o.jpg",
+          "caption": "Small Guac with Chips"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ashley P.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/TsM2WTN2mrUQ4GMB6VUKIQ/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thank Aishwarya for the feedback! I'm sorry your food took longer than normal towards the end of your dining experience. It was a pleasure to have you and look forward to having you back soon! We will turn this 4 stars into 5 on your next visit :)",
+          "date": "2022-02-25T01:16:15Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Josh S.",
+        "user_id": "4RwHKngMkn6ie4JVbRLSYg",
+        "link": "https://www.yelp.com/user_details?userid=4RwHKngMkn6ie4JVbRLSYg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/70agdIRx8so2-rOuS3VBxQ/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 0,
+        "photos": 4,
+        "reviews": 45
+      },
+      "comment": {
+        "text": "Does anyone work here?  Good luck finding any help   10 mins and the place has a couple customers",
+        "language": "en"
+      },
+      "date": "2022-05-18T16:17:07Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ashley P.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/TsM2WTN2mrUQ4GMB6VUKIQ/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Josh, thank you for taking the time to leave feedback. Would love to connect with you and learn a little more about your experience and where we dropped the ball. Please feel free to reach out to me at akahn@bartaco.com. Look forward to hearing from you, thanks!",
+          "date": "2022-05-19T12:47:48Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Bianca C.",
+        "user_id": "UK9fDefKLMGv5LWjaSfZnQ",
+        "link": "https://www.yelp.com/user_details?userid=UK9fDefKLMGv5LWjaSfZnQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gzOk7O5bxFMIqizFX6LUeQ/180s.jpg",
+        "address": "East Point, GA",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "First Of all, I had no intentions of coming here however the service was bad at another restaurant and we needed to find something to eat. I was pleasantly surprised when we found this restaurant. The outside is inviting from the street trimmed in white and some patrons have their dogs outside and I must say they were well behaved. We asked to be seated outside and were seated immediately! The seating was on the front patio with a view of the street and side view of the outdoor fireplace. Our server was really nice and made us aware of tapas which we love. What was extremely convenient but savvy was the digital menu ordering app. Pretty easy to add to your tab too. We ordered a pineapple margaritas, fish tacos, duck, shrimp bowl with street corn. All very delicious at an affordable price. This one is definitely on my list of Atl foodie finds.",
+        "language": "en"
+      },
+      "date": "2021-11-12T05:46:14Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KGO_1vz8ntttQzIPS13iVQ/o.jpg",
+          "caption": "Grilled Corn, shrimp Steamed Brown Rice bowl  Crispy Fish Taco"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kristen L.",
+        "user_id": "zovrNSrfMGVh9gogExI85w",
+        "link": "https://www.yelp.com/user_details?userid=zovrNSrfMGVh9gogExI85w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oTJB6POl4qzyDRvxbxX0lg/180s.jpg",
+        "address": "Baton Rouge, LA",
+        "friends": 5,
+        "photos": 55,
+        "reviews": 73
+      },
+      "comment": {
+        "text": "I prefer this location to the Midtown location for sure. The service is super quick and friendly and there's ample seating. Everything is still order and pay by QR code which I really like, nobody really bothers you unless you put the little card up to signal they need service. I couldn't find street parking but there's a parking garage right behind it, I think I paid $7 for about an hour which is kind of steep but if you get lucky, street parking is free. It's also located in a really nice area so you can walk around if you're waiting for a table or to walk off the meal. The duck tacos are absolutely to die for. I love how simple but balanced they are, and whatever broth they come in is something I would drink. Keelah was awesome! She was very attentive and even recommended the duck birria to me which I didn't know they had since I hadn't been in so long. Thanks for the hookup, they were amazing!! Definitely will be back, the midtown location is much closer to me but this location is worth the extra minutes!",
+        "language": "en"
+      },
+      "date": "2022-11-08T02:42:43Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Trecie S.",
+        "user_id": "JHwlvmY_DSuPWvwGm9oHAg",
+        "link": "https://www.yelp.com/user_details?userid=JHwlvmY_DSuPWvwGm9oHAg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_PoV4j8Wi4VSZnGZp1MfoQ/180s.jpg",
+        "address": "Paris, France",
+        "friends": 3,
+        "photos": 3,
+        "reviews": 22
+      },
+      "comment": {
+        "text": "Gentrification of tacos. There are much better places to get tacos even different and \"fancy\" ones. Salsas have way too much vinegar. Taco flavors are missing the mark. Cute and trendy but not a place if you're looking for authentic.",
+        "language": "en"
+      },
+      "date": "2022-01-06T20:56:31Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ashley P.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/TsM2WTN2mrUQ4GMB6VUKIQ/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thank you for taking time out of your day and providing feedback Trecie! However, we are sorry to hear our tacos missed the mark. Our tacos deliver different flavor profiles so we are very disappointed you weren't able to experience this! Please let me know the next time you're in the area so I can share some of my favorites with you! apina@bartaco.com Ashley",
+          "date": "2022-01-07T15:28:28Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kat M.",
+        "user_id": "Y6tX7RmXZjNUsbHGywi0MQ",
+        "link": "https://www.yelp.com/user_details?userid=Y6tX7RmXZjNUsbHGywi0MQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xGrPCmKkuT7wX_4dJwkxug/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 66,
+        "photos": 3,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "So, this bartaco is amazing!!! Def the best in the city. Let me tell you, Blake and Saeed were the best (sorry if I spelled your name wrong I really tried). Anyway, we were waiting awhile for a large party & Blake immediately took care of us when we got seated; apologized and everything. He was the best!!!! Saeeed was the best (sorry again), because he brought out our drinks.... But not only that, he was kind enough to go above and beyond to get what we needed. I'm talking about top tier service. Everyone was sooooo great. And we are frequent fliers with bar taco so the foods always good. But the service was amazing over here. 10/10 would recommend.",
+        "language": "en"
+      },
+      "date": "2022-07-02T01:34:32Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Angie P.",
+        "user_id": "exEElE4pG-ZwoCMwoYddeg",
+        "link": "https://www.yelp.com/user_details?userid=exEElE4pG-ZwoCMwoYddeg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vuyqhXC8E52c0ypizPeUGA/180s.jpg",
+        "address": "Charlotte, NC",
+        "friends": 510,
+        "photos": 412,
+        "reviews": 1028,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "YAY for date night, yummy food & delicious cocktails!\nWent to bartaco for the first time Thursday night & was instantly happy. \nMy date & I sat at the bar (it was 10 PM-ish) & still a lively scene in the restaurant​. He's a regular there, so he already knew what he wanted.\n\nLots of choices for alcoholic​ beverages & food! I went with the mojito. (GREAT choice!) I ordered rock shrimp tacos & a spicy cucumber salad. I love the ordering process (for food). Individual order, where you just write the quantity beside the food items you want. Easy! \n\nWe didn't wait too long for our food to arrive & I loved the presentation. Metal trays, with thin, brown paper lining. The tacos were AMAZING. Love the grilled, corn tortilla & the shrimp were a good size. The spicy cucumber salad was spicy, but oh so delicious. The cilantro really kicked it up a notch!\n\nVery cozy space. Reasonable prices. I definitely want to return!",
+        "language": "en"
+      },
+      "date": "2019-09-01T00:08:59Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 4,
+        "funny": 2,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Elizabeth K.",
+        "user_id": "-KO6nzV33_YwdO3kJxzxkw",
+        "link": "https://www.yelp.com/user_details?userid=-KO6nzV33_YwdO3kJxzxkw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FqDTI447726CZ4JjfcG55g/180s.jpg",
+        "address": "Boca Raton, FL",
+        "friends": 2,
+        "photos": 2,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "YES TO BARTACO!!!!! We were looking for a Sunday brunch spot, but found something better - Vibes, service & MARGARITA'S!!!!! Best spot on the Inman Park strip. Digital ordering, so you don't have to wait for a server to order more. Staff works together to serve you, rather than one person you have the entire restaurant taking care of you. Great concept, will definitely be back the next time I am in town. Do yourself a favor and order the spicy margarita.",
+        "language": "en"
+      },
+      "date": "2022-05-16T14:02:47Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Banysha S.",
+        "user_id": "LRN80qZHQrN00cGclxrEAQ",
+        "link": "https://www.yelp.com/user_details?userid=LRN80qZHQrN00cGclxrEAQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qfKwi3j3jRwKodOLE8R-IA/180s.jpg",
+        "address": "SOUTH BASE, GA",
+        "friends": 56,
+        "photos": 17,
+        "reviews": 34
+      },
+      "comment": {
+        "text": "Great atmosphere and delicious food. I love the contactless ordering. The pork belly and ribeye tacos are the best. Also, try the Paloma fresca... great balance of flavors.",
+        "language": "en"
+      },
+      "date": "2022-02-04T19:05:54Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kenya S.",
+        "user_id": "3Y4RRCcAVmGOYmcHJC7kuQ",
+        "link": "https://www.yelp.com/user_details?userid=3Y4RRCcAVmGOYmcHJC7kuQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/A-NGql72iI_DTRc5uO-PzQ/180s.jpg",
+        "address": "Midtown, Atlanta, GA",
+        "friends": 4,
+        "photos": 8,
+        "reviews": 70
+      },
+      "comment": {
+        "text": "I get the Cod fish tacos every time along with their mayo based, sour cream alternative. Always amazing. I also get their Roja salsa. A bit spicy, but so much flavor. Next time, I'll try their grilled Corvina tacos. They're so tiny, I can eat 4 or 5. Lol\n\nAlso, I love their new cashless, online payment system. It's so convenient. I get annoyed when waiting for a waiter/waitress to take my order.",
+        "language": "en"
+      },
+      "date": "2021-04-22T13:23:43Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jing L.",
+        "user_id": "P4AxBC_5533A7CzkrFgsnw",
+        "link": "https://www.yelp.com/user_details?userid=P4AxBC_5533A7CzkrFgsnw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5WnZkhyE_QJK5MayR1SV-w/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 492,
+        "photos": 1057,
+        "reviews": 315,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I love this place! \n\nThis is my first time here at this location but I've been to the buckhead one before as well. Both places are packed on the weekends! We had to wait at least 40 mins just to get seated and it was at 10pm on a Friday. \n\nThe first time I went to Bartaco I was a little skeptical I'd like it. I'm usually pretty particular about the way my tacos are made but everything here is soooo good. My favorite taco is the pork belly one hands down. I also loved their corn on the cob, but I usually tell them to take it off the cob so it's less messy. Tuna tatake is really good too. And if you like mojitos, theirs is theeee best I've had! I usually like to add a flavor to it, but this one didn't need it. \n\nI definitely recommend this place if you haven't been!! You won't regret it, I promise! :)",
+        "language": "en"
+      },
+      "date": "2017-08-05T21:49:13Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9lQYCSzCq6ZcptmoZD7weA/o.jpg",
+          "caption": "Corn off the cob"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/asfANUeZNnH4z9PFCwUA5w/o.jpg",
+          "caption": "Spicy cucumber salad"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Wn1OT25b1Cct8l2XeVycFg/o.jpg",
+          "caption": "Tuna"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SJTYEV7_FuDpaLql7n9_pQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HjI-4BpoT3BFLmfaK-95og/o.jpg",
+          "caption": "Tuna tatake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ReLE2cR_b3bkpRhtll7niQ/o.jpg",
+          "caption": "Mojito"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 2,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Rachel M.",
+        "user_id": "3Qd3m7jEe3LoiL6I49tY_w",
+        "link": "https://www.yelp.com/user_details?userid=3Qd3m7jEe3LoiL6I49tY_w",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 0,
+        "reviews": 26
+      },
+      "comment": {
+        "text": "Bartaco is arguably my most frequently visited restaurant in Atlanta. This location in particular is my favorite. I always order Baja fish tacos (three), tuna poke, corn, and slaw. The margaritas are a must as they are freshly squeezed!",
+        "language": "en"
+      },
+      "date": "2022-09-07T15:03:22Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jane C.",
+        "user_id": "8m8io8Ajo-XWoF7cEL7wCg",
+        "link": "https://www.yelp.com/user_details?userid=8m8io8Ajo-XWoF7cEL7wCg",
+        "address": "Calabasas, CA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 25
+      },
+      "comment": {
+        "text": "An hour and a half in and we still hadn't received our food even though the rest of our party had eaten and was ready to leave. Awful service",
+        "language": "en"
+      },
+      "date": "2022-11-19T17:34:55Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ashley P.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/TsM2WTN2mrUQ4GMB6VUKIQ/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hey there Jane, \nThank you so much for taking the time to reach out. I am so sorry that you did not have a great experience with us and that things did not come out to you in a timely manner. I would love to chat with you about your visit and invite you back in to show you what bartaco is really about. I look forward to speaking with you soon, please reach out to me at dscherer@bartaco.com.",
+          "date": "2022-11-20T03:21:58Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jasmine J.",
+        "user_id": "XWv15rzvAnk37UqA0B5RXQ",
+        "link": "https://www.yelp.com/user_details?userid=XWv15rzvAnk37UqA0B5RXQ",
+        "address": "Midtown, Atlanta, GA",
+        "friends": 164,
+        "photos": 19,
+        "reviews": 17
+      },
+      "comment": {
+        "text": "Confession: because this was a chain, I totally underestimated this place! I was invited to a bday dinner & boy was I delightfully surprised. Everything was great from the 2 tacos to the street corn to the sweet plantains. I ordered a margarita that was tasty but can't remember the name. The ambiance was perfect for summer time dining. We were inside but it felt like outside due to the entire left side being open so we were exposed to the outdoor seating area as well. \n\nThe ordering process was unique in that it's all on your phone. Scan the QR code, place your order online then pay with your card. It allows you to add things to your order without doing a brand new transaction if you do so within a certain time frame. They do bring things out at random so for example you may get your side of corn beside your tacos or luck you & have them at the same time, it just depends. I think that's the style of the place tho.  Definitely a chic, community vibe though so no one in our party was pressed to get anything in any particular order. I enjoyed!",
+        "language": "en"
+      },
+      "date": "2021-07-24T05:27:55Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6eqi7o3HK_3AGGJCUGKjWw/o.jpg",
+          "caption": "Spiced chicken verde taco & some sort of beef taco street corn & sweet Plantains."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rachel K.",
+        "user_id": "HYrPGn0aC2HeekeeV-jbTA",
+        "link": "https://www.yelp.com/user_details?userid=HYrPGn0aC2HeekeeV-jbTA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/aBoCSdUiYfKG_wDYLYhDVg/180s.jpg",
+        "address": "Fort Lauderdale, FL",
+        "friends": 1,
+        "photos": 41,
+        "reviews": 26
+      },
+      "comment": {
+        "text": "First of all, the food was absolutely amazing! We had the Baja Fish Tacos, oyster, pork belly, chicken and steak and every single one was so good! The service was exceptionally good. Thomas came over to greet us and checked up on us multiple times and gave us some really great recommendations. It's been so hard to find good customer service these days and Thomas really went above and beyond. We will definitely be sure to come and visit again!",
+        "language": "en"
+      },
+      "date": "2021-05-05T22:52:43Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/V5Fc0bjdAWL9bWik4tHZVA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kaja G.",
+        "user_id": "BKtgSIAUFW9n73VLJ3Pd_A",
+        "link": "https://www.yelp.com/user_details?userid=BKtgSIAUFW9n73VLJ3Pd_A",
+        "address": "Fairburn, GA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "Let me start off by saying that Dante the GM is amazing! Came in tonight with my party of 10 had about a 30 min wait, but it was fine. The foooooood was the real star. The duck and Baja fish tacos are a must do! Remember to ask for birria sauce for duck tacos and tarter for fish on the side! Thank me later! Also Fin at the bar made the most amazing margaritas!!!! Dante and staff you all were amazing! Keep up the great work!!!!",
+        "language": "en"
+      },
+      "date": "2022-11-18T05:15:32Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Danielle J.",
+        "user_id": "lDu8CcYVJt13kCGXn1v8fQ",
+        "link": "https://www.yelp.com/user_details?userid=lDu8CcYVJt13kCGXn1v8fQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1UTSNpuREf_-bylU2yU5QQ/180s.jpg",
+        "address": "Portland, OR",
+        "friends": 105,
+        "photos": 266,
+        "reviews": 126,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Tapas andTacos :).  Bartaco is the perfect spot for lunch with friends or just a quick catchup date with someone from out of town. The Baja fish and the shrimp tacos are my favorite and don't get me started on the drinks; they'll keep you there -- happily. The last time I was here the regional manager was there critiquing some meals so you can rest assured knowing the quality of the food is always maintained at a high standard.",
+        "language": "en"
+      },
+      "date": "2020-02-23T00:21:39Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rIHGCYPPlTN4Tjfwh4kPeA/o.jpg",
+          "caption": "Cocktails and beer"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/m8YfylJuZhPXeuhixKbJBw/o.jpg",
+          "caption": "Wine"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jim W.",
+        "user_id": "heHpUJJ3niOhTQJ1Lr4CYA",
+        "link": "https://www.yelp.com/user_details?userid=heHpUJJ3niOhTQJ1Lr4CYA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Cz90cRUD1eRPliRRRzFkIA/180s.jpg",
+        "address": "New York, NY",
+        "friends": 160,
+        "photos": 669,
+        "reviews": 377
+      },
+      "comment": {
+        "text": "Got a small guac that came with a whole piece of tortilla chip. It was something new -- various tacos like beef, pork belly, salmon, chicken, and shrimp. I like the beef asada the most. \nI got a sour beer in a can ( $7), and my gf got a cocktail. I said, skip the beer since the cocktail takes more effort to make. We forgot to bring our parking ticket to get it validated. Parking is $6.50 no matter how long you park with each additional hour $1/hr added on top. I like the experiment, and this is the cleanest and most westernized sushi restaurant I have been to. Authenticity is questionable just like taq de sol (another one of my favorite) but if you want real taco to check out El Ray on Buford.",
+        "language": "en"
+      },
+      "date": "2019-08-29T18:50:19Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vc1gEo4DTHfBn33jJR7vrg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qHblbOce3bRpyTpnIpeJig/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Tianna H.",
+        "user_id": "3mFMCcMx74kP577NrkbXDw",
+        "link": "https://www.yelp.com/user_details?userid=3mFMCcMx74kP577NrkbXDw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xwBMKaaGwaJSvT-lHSHxVw/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 206,
+        "photos": 242,
+        "reviews": 103
+      },
+      "comment": {
+        "text": "Bartaco is a cute, beach restaurant that serves really good street tacos and some of the best margaritas. Let me emphasize...the margaritas are great and made with freshly squeezed lime juice and what ever fruit they have for the day. I come here pretty often and you can't go wrong with anything on the menu. Some of my favorite tacos are the pork belly (slightly sweet touch), Baja fish, and the portobello. You have to order the guacamole as an appetizer because it's fresh and seasoned perfectly. I have also tried the roasted chicken and the chicken soup. Both are bigger portions if you looking for more food. \n\nThey validate parking in the Inman Quarter parking garage or you can always grind street parking. \n\nThey are a cashless restaurant.",
+        "language": "en"
+      },
+      "date": "2019-12-19T00:57:33Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Mxo9vDNP4IXmyLvT1NXSww/o.jpg",
+          "caption": "Crispy Rock Shrimp (left) and Baja Fish (right)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oGmfKnCBjRACWY7RF8x4Lg/o.jpg",
+          "caption": "Chopped salad, Baja fish tacos, and Crispy Rock Shrimp tacos"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4o5DrDestPjqZvqJZxywRQ/o.jpg",
+          "caption": "Pineapple margarita (sooo good)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mIkhqktpBhUouu12zIz3tg/o.jpg",
+          "caption": "Chopped salad"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Latavia H.",
+        "user_id": "hXeMPAK2ofecxG9wtYgO0g",
+        "link": "https://www.yelp.com/user_details?userid=hXeMPAK2ofecxG9wtYgO0g",
+        "address": "Morrow, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "I ordered shrimp tacos and as i bit into the taco a long black hair slid out from the middle of the taco. I immediately spit it out. I loved bartaco but that was disgusting.",
+        "language": "en"
+      },
+      "date": "2021-10-25T05:39:17Z",
+      "rating": 1,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_zrtxtcIJizNfa0xVrQIxw/o.jpg",
+          "caption": "Hair inside my taco"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 1,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ashley P.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/TsM2WTN2mrUQ4GMB6VUKIQ/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hello Latavia,\n\nWe were sorry to hear about your recent experience at out location. As a standard we require all cooks/chefs to wear head coverings in order to minimize the likelihood of this occuring. Unfortunately we were not able to avoid this occurrence in your situation and would love the opportunity to make this up to you on your next visit. Please reach out to me directly prior to your next visit as I would like to treat you to a few of my favorite tacos and a dessert on us. You can reach me via email jbarber@bartaco.com. Please let me know if you have any additional questions or concerns.",
+          "date": "2021-10-25T15:30:12Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Rae J.",
+        "user_id": "FX1bS_oWM4mfrJQ5ivPFIA",
+        "link": "https://www.yelp.com/user_details?userid=FX1bS_oWM4mfrJQ5ivPFIA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2_FEKCqBGWWp1aIop8Gefw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 233,
+        "photos": 106,
+        "reviews": 167,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Love this location! The decor is beautiful, very rustic/home vibe. I lIke that they have outdoor seating with heaters for the winter! There's a big lot with plenty of space and validaTeD parking. I came in on a Friday around  lunchtime and didn't have to waIt! Bartaco has a range of veggie friendly tacos on their menu which I greatly appreciate. I generally go for three which fills me up! I also love the salsa assortments they have ready on the table. The server we had was very attentive and accommodating, and the  manager stopped by the table to check in which I always appreciate!",
+        "language": "en"
+      },
+      "date": "2020-01-18T15:05:16Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/N7XIwtNjWmriVAYuh8iDUQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vWoYSKSD8qRN2Stpx6Efzw/o.jpg",
+          "caption": "Tres leches"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EThLmSoCG8GxqmKVbLm7qQ/o.jpg",
+          "caption": "Bartaco secret taco! Chili lime shrimp"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yqixIH5X0dnwDIOqQSZXHw/o.jpg",
+          "caption": "Plantains and corn fritters"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/29wH482ZuC7-QGNSKa8IRQ/o.jpg",
+          "caption": "Cauliflower, brussel sprout, mushroom, Crispy Rock Shrimp, and Baja Fish!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gvmkLbaMrEm13CcxlgGAnA/o.jpg",
+          "caption": "Churros with Chocolate Sauce"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "David W.",
+        "user_id": "35Co07qCps-mC0wc9idL_A",
+        "link": "https://www.yelp.com/user_details?userid=35Co07qCps-mC0wc9idL_A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pbxnhdU0LnbpnyMxNFKTwA/180s.jpg",
+        "address": "Washington, DC",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "All their systems seem broken and staff is inconsiderate. I ordered online and am told they'll send a text when the food is ready. After waiting almost an hour, still no text, so I walk in to pick up an order and am standing under the large TAKE OUT sign. I'm waiting about 5 minutes and finally get someone's attention. \n\n\"Oh, carry out is now at the bar in the middle\"\n\"But you have a giant sign right here.\"\nSILENCE. Certainly no apology\n\nNo one at the bar. I search for my order, which includes a bottle of water. How am I supposed to know it's not a twist off? \n\nGo to bartaco if you want rude service, cold tacos, and a drink you can't open.",
+        "language": "en"
+      },
+      "date": "2020-12-23T03:10:10Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ashley P.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/TsM2WTN2mrUQ4GMB6VUKIQ/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi David we were sorry to hear about your less than ideal experience. We will be sure to improve communication with guess in regards to our new takeout procedure. If you have anymore feedback please feel free to email me directly jbarber@bartaco.com. ",
+          "date": "2020-12-24T21:46:18Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kennedy J.",
+        "user_id": "3Tz158oMQvSFiRRRRmdG0Q",
+        "link": "https://www.yelp.com/user_details?userid=3Tz158oMQvSFiRRRRmdG0Q",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "only good for drinks and guacamole everything else is nasty, baha fish was dry as I don't know what.  their was nothing on the tacos and theirs no side items to add on  like rice, queso, lettuce ,avocado etc  for u to add on so ur basically eating on 2 ingredient tacos. shrimp tacos has casserole  on it , not a good mixture. Mexican corn was dry.it was just cheese and Tajin And you gotta pay for parking just to sit and eat nasty food.",
+        "language": "en"
+      },
+      "date": "2023-05-29T03:37:14Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Neil S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/kU-cX_bU7nbtdpObWg5C_Q/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Kennedy! Thank you for your feedback. So sorry to hear you did not enjoy your visit. Based on your comments, I do see alot of errors that we could have fixed at the restaurant but unfortunately dropped the ball. I would love to discuss further about what I can do to ensure you have a better dining experience upon your next visit. My email is jwhite@bartaco.com . I hope to hear from you soon ! - Jessica",
+          "date": "2023-05-29T15:32:18Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Nichelle W.",
+        "user_id": "mVUqWgi85oMreuq2Svi6LQ",
+        "link": "https://www.yelp.com/user_details?userid=mVUqWgi85oMreuq2Svi6LQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bp27DxW7_33EAVAsUADEdA/180s.jpg",
+        "address": "Miami, FL",
+        "friends": 129,
+        "photos": 902,
+        "reviews": 490,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My first stop after my 6 Hour Drive from Orlando. Love love love the atmosphere cozy yet spacious love your light decorum. The peach margarita perfect, your Baja and carne Asada street tacos were Great and tasty. Will definitely be my favorite go to place when visiting my niece who lives close.",
+        "language": "en"
+      },
+      "date": "2019-06-03T03:13:35Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pX8Q-fmUKUkDT3O6HQOfWQ/o.jpg",
+          "caption": "The menu and stuff, bouts to order my peach margarita."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tnE58pOnGYjvstTNIH5c6g/o.jpg",
+          "caption": "My niece and her boyfriend"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pJbu5u8ilpk-zFHGMd-mhw/o.jpg",
+          "caption": "Me and my niece, yeah I know I'm usually cuter remember I had a 7 Hour Drive and it's hot in these here parts, LOL"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ashley P.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/TsM2WTN2mrUQ4GMB6VUKIQ/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks Nichelle for the great review! We are so glad you love our tacos & Peach Marg. We hope to see you again soon. ",
+          "date": "2019-06-05T15:11:55Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Willow B.",
+        "user_id": "J_cMCOE1Z6ASK6X-mWUP_Q",
+        "link": "https://www.yelp.com/user_details?userid=J_cMCOE1Z6ASK6X-mWUP_Q",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "YES YES YES! I sat with the manager Dante today and he really made it a time to remember. The service here lately has been a big improvement from when we visited in the spring! Keep it up and come north to Alpharetta soon!",
+        "language": "en"
+      },
+      "date": "2022-12-16T03:17:17Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shari D.",
+        "user_id": "wpW0yW75HLahHY2H6s5vsg",
+        "link": "https://www.yelp.com/user_details?userid=wpW0yW75HLahHY2H6s5vsg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vbvagSroqxl8jmhSGMnyPQ/180s.jpg",
+        "address": "Washington, DC",
+        "friends": 32,
+        "photos": 504,
+        "reviews": 300,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This spot is AMAZING! They have an array of tacos and sides. They make their own tequila so the drinks are very good. When you arrive, ask for HAM, he is an attentive server who is funny, witty and so knowledgable. Get the brussel sprout tacos, it's like something you've never tasted before-I promise you. The carne asda tacos were my second favorite, so well seasoned and tasty! Also get the plantains, they've got a hint of salt on them that just pairs well with the sweetness of the plantain!",
+        "language": "en"
+      },
+      "date": "2019-12-29T22:48:57Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uWhX9k0skzJedhRVNbhR1g/o.jpg",
+          "caption": "Bartaco Margarita"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LvxuxjvYE0OQlNwkmbh2RA/o.jpg",
+          "caption": "Matchbox takeaways"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=YIPzFF0CVgMCcly67VHgjw&start=210"
+  }
+}

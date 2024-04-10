@@ -1,0 +1,2310 @@
+{
+  "search_metadata": {
+    "id": "65ef301bb5961e945a57b9b7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cba2f21086e022a5/65ef301bb5961e945a57b9b7.json",
+    "created_at": "2024-03-11 16:23:55 UTC",
+    "processed_at": "2024-03-11 16:23:55 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/hmrRb7qX3K705MuxHHfgNA?",
+    "raw_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef301bb5961e945a57b9b7.html",
+    "prettify_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef301bb5961e945a57b9b7.prettify",
+    "total_time_taken": 2.2
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 40,
+    "num": "50",
+    "place_id": "hmrRb7qX3K705MuxHHfgNA"
+  },
+  "search_information": {
+    "total_results": 1534,
+    "business": "Cafe Intermezzo - Midtown"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 1534
+    },
+    {
+      "hl": "ja",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Mel M.",
+        "user_id": "G30ajgAl8JAIf083Up-IZQ",
+        "link": "https://www.yelp.com/user_details?userid=G30ajgAl8JAIf083Up-IZQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/eZ9zraynlPL4BFtNR96NIg/180s.jpg",
+        "address": "Freehold, NJ",
+        "friends": 84,
+        "photos": 726,
+        "reviews": 703,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "ATLANTA, GA: Cafe Intermezzo is an old-style European cafe that has dog friendly and covered outdoor seating!  They are open for brunch, lunch, dinner, and late night with a really nice menu and pastries!\n\nAnd, it wouldn't be a cafe without coffee specialities including spiked options, cappuccino, and hot cocoa! A full bar and nice wine list round out the selection.\n\nThe ambiance is elegant and we love they give back to the community!",
+        "language": "en"
+      },
+      "date": "2022-11-20T17:48:05Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WyXDI_EUpSYewTbDUtIbbw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 1,
+        "cool": 3
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Mel for calling attention to our dog friendly atmosphere and covered outdoor seating!  We're thrilled to know that you enjoy all that we have to offer!  \nWe take very seriously our community outreach and charitable giving program and we appreciate you mentioning it. We consider all of our guests, including you, to be a part of and essential to this ongoing effort.\nHave a great week!  \nPage and Brian Olson, owners",
+          "date": "2022-11-20T20:11:44Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jill F.",
+        "user_id": "QG6dSzv7EgfA9nfXw5LlYQ",
+        "link": "https://www.yelp.com/user_details?userid=QG6dSzv7EgfA9nfXw5LlYQ",
+        "address": "Marietta, GA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 95
+      },
+      "comment": {
+        "text": "Great coffee and Oreo cheesecake. Wasn't a fan of the coffee torte. Quick efficient service.",
+        "language": "en"
+      },
+      "date": "2024-03-02T19:05:32Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Jill, thank you for coming to our cafe. And, thank you for your review.\nI'm curious which pastry you ordered.  If you are willing to let me know, here is my email address: polson@cafeintermezzo.com\nAgain, thank you\nPage Olson, co-owner",
+          "date": "2024-03-03T17:40:52Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Aisha M.",
+        "user_id": "EScHOSV_rGOu28T5NMEPCw",
+        "link": "https://www.yelp.com/user_details?userid=EScHOSV_rGOu28T5NMEPCw",
+        "address": "Hampton, GA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Gorgeous ambience, service is superb, The food is good , lots of choices. Drink menu is extensive and any coffee lovers dream! Our server bogi was excellent! Super helpful and dealt with us and our picky tastes. Was attentive and did not have any issues switching anything out for us. 100% will come again!",
+        "language": "en"
+      },
+      "date": "2024-02-13T18:52:22Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zfmc2XfaHrO74YHz-JAShQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VbD6hE1XHO2PNJVwrAHk4w/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Aisha, thank you!  It's great hearing that you were pleased with our menu offerings and service!\nHappy Valentine's Day!\nPage Olson, co-owner",
+          "date": "2024-02-14T17:04:35Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kien H.",
+        "user_id": "4UMYSQLSd3_rQe8bhqWreg",
+        "link": "https://www.yelp.com/user_details?userid=4UMYSQLSd3_rQe8bhqWreg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/m9tI9Pw5P7u5S4urIZanDg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 111,
+        "photos": 1694,
+        "reviews": 464,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "So ended up here after a lunch meeting. This place is kind of a one stop shop. Coffee for the caffeine drinkers... Cake for the sugar lovers... Brunch food for the brunch hunters... And a full bar for the alcoholics! It's a dim and intimate spot that gives off Victorian mansion vibes (lots of statues and pillars all around). It's perfect for a date spot.\n\nNo I'm not a coffee drinker by any means, but I hit up the coffee there is good. Now the cake, I can be here for that! I tried the apple crumb cheesecake and I got the raspberry white chocolate cheesecake. Both of them were fire! If you want to quiet setting to have some coffee and some dessert, or maybe a cocktail, I would definitely suggest this spot.",
+        "language": "en"
+      },
+      "date": "2022-12-20T21:56:06Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7bv87QEmqlg24dQSSwY3TA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/j-nrmmLklpeMBk_njUhs2Q/o.jpg",
+          "caption": "Raspberry white chocolate cheesecake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nkLchwVydgXhVoufzEa90A/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Kien, Wow!  Thank you for such a beautiful review!  Your words reflect the intent of our cafes which is something that my husband, Brian. will certainly smile about!\nCheers,\nPage Olson, co-owner",
+          "date": "2022-12-21T18:53:12Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ruby G.",
+        "user_id": "Vm2yOObost__sEnNyDuk6A",
+        "link": "https://www.yelp.com/user_details?userid=Vm2yOObost__sEnNyDuk6A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zqoDAZ29kyliKb5-Kz6Rig/180s.jpg",
+        "address": "Portsmouth, OH",
+        "friends": 36,
+        "photos": 206,
+        "reviews": 81
+      },
+      "comment": {
+        "text": "Brunch! Stopped in for a quick lunch during a conference break, and was excited to see brunch options! I opted for Turkish coffee and Salmon Eggs Benedict. Both were very tasty, and about $22 total. \nInterior is very pretty. Good sized bar considering size of restaurant. I was served within 10 minutes, coming in during a rush. Outdoor seating available. 8 minute walk from Midtown MARTA stop, right around the corner from Loewe's hotel. \n\n**Turkish coffee is thick..... be prepared. The taste is worth it, trust me.",
+        "language": "en"
+      },
+      "date": "2023-07-19T16:54:33Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-8IFDq6wpmc9SLJ7IN3XKA/o.jpg",
+          "caption": "Exterior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5vUVbZMDswzbOkG4UcRBng/o.jpg",
+          "caption": "Turkish coffee"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zcJs7me0aE_51jYVRTeeNQ/o.jpg",
+          "caption": "Bar"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XlA6qbCKDye9u7yvP7Joqw/o.jpg",
+          "caption": "Salmon Eggs Benedict with Rosemary potatoes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6AJxZFOY7CgNzOH-KeMiPw/o.jpg",
+          "caption": "Interior, rear room"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Ruby, thank you for coming to our cafe and thank you for the information you have shared in your review!  We also offer 2 hours of free parking (with validated ticket) in our building - enter on 11th or 12th.\nPage Olson, co-owner",
+          "date": "2023-07-20T15:31:59Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jackie S.",
+        "user_id": "n5l-7dptybSO_bYtY9NduA",
+        "link": "https://www.yelp.com/user_details?userid=n5l-7dptybSO_bYtY9NduA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FL90Sjad9oe3ESQg4UG69Q/180s.jpg",
+        "address": "Orlando, FL",
+        "friends": 41,
+        "photos": 485,
+        "reviews": 98,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We visited here on a rainy morning for breakfast, and it was the perfect ambiance! The cozy cafe and European feel were just what we needed. We started with what may be the best latte drink I've ever had - the Cioccoloccino! With rich chocolate and espresso and milk... I can't describe how good it was! I enjoyed the American breakfast, that came with a flaky croissant, eggs, bacon, and great breakfast potatoes. Filling and great quality! We also enjoyed the omelette, eggs Benedict, and avocado toast - hits all around. Friendly service. Don't wait too long to get a table on a Saturday - go right when they open!",
+        "language": "en"
+      },
+      "date": "2023-04-29T16:56:09Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w5-TOn5nP2tlxt1NX2QTvQ/o.jpg",
+          "caption": "Interior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/g0vlpYLK20rvKADy546Ysg/o.jpg",
+          "caption": "American Omelet"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7HoejziRIjUeojOep_Ch2g/o.jpg",
+          "caption": "Avocado Toast"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1u5cpsTr8PfyIPfZchQJkw/o.jpg",
+          "caption": "Cioccoloccino"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/us61ydppi0m4JQRlBrsDnw/o.jpg",
+          "caption": "Eggs Benedict"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Gw4rVsDk54hhOUMtbVwhMw/o.jpg",
+          "caption": "American Breakfast"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much Jackie for coming to our cafe!  It's heartwarming to know that we were the right place for you on that rainy morning.\nPlease come see us again.\nPage and Brian Olson, owners",
+          "date": "2023-04-29T20:02:45Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Christina K.",
+        "user_id": "50LOI3r4_CqIhLFSw8Mm1g",
+        "link": "https://www.yelp.com/user_details?userid=50LOI3r4_CqIhLFSw8Mm1g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HrJdl0_q0Z7KDgv9H-9m9A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 30,
+        "photos": 149,
+        "reviews": 132,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I love tiramisu and I heard a lot of great things about theirs so I finally decided to go and dang, people did not exaggerate. The tiramisu was delicious! I do think for the price they could've given a bigger slice but taste-wise it was perfect. It was so creamy and tasted very coffee-y. Highly recommend! I would buy a whole tiramisu from here",
+        "language": "en"
+      },
+      "date": "2023-06-07T18:37:52Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EUqTMyHE33RDK8JrPXFsoA/o.jpg",
+          "caption": "tiramisu"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Christina for coming to our cafe and for selecting our traditional Tiramisu.  It is imported from Milan, Italy and has been a guest favorite for years.  \nAll the best,\nPage Olson, co-owner",
+          "date": "2023-06-08T17:31:12Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Faye Y.",
+        "user_id": "5GLB61xLOP6T-pNsr7rslg",
+        "link": "https://www.yelp.com/user_details?userid=5GLB61xLOP6T-pNsr7rslg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/9nh-YUeGIs3N5HzBG10N8w/180s.jpg",
+        "address": "Philadelphia, PA",
+        "friends": 876,
+        "photos": 714,
+        "reviews": 368,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Always a fun visit to Intermezzo, my first tine at Midtown location since I last went to Dunwoody. I enjoy the slow laid back vibe since service is good but a bit slow. We came in a large group but were able to be seated right away since we split into two small groups.\nMy girl friends and I enjoyed the spicy seafood dip and the mango arugula salad that we added cooked salmon on top. We each got a drink - johannes, alpine, oj and hot chocolate. Each drink was great. My only suggestion is that they melt the white chocolate in the alpine instead of putting cold chunks in there. It all falls to the bottom and you can't really enjoy it after that.\nThe spicy seafood dip was delicious and warm, as was the bread. We also enjoyed the salad, so refreshing. \nOverall a good place to visit. It just needs a little renovation / refresh soon!",
+        "language": "en"
+      },
+      "date": "2022-10-19T03:27:31Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sHa2meT3Kx4GYyZBdYDJ8Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/J6UXVKZESL8qUmFa_n4s2Q/o.jpg",
+          "caption": "Orange juice Caffe Alpine Caffe Johannes Hot chocolate"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hBdPXuoeiiiYpkJHxRrbfg/o.jpg",
+          "caption": "Spicy seafood dip"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iTLgbOOME0SO6wWg7KZv5g/o.jpg",
+          "caption": "Spicy seafood dip"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MILtvhDfuvuqF0-NfvDytw/o.jpg",
+          "caption": "Spicy seafood dip Mango arugula salad with added salmon"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Faye for choosing to visit the cafe with your girlfriends!  I have made a note of your suggestion - thank you for this as well!  All the best, Page Olson, co-owner",
+          "date": "2022-10-19T18:08:50Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Katie K.",
+        "user_id": "vN3AFQq6OUlg46YkH2IM3g",
+        "link": "https://www.yelp.com/user_details?userid=vN3AFQq6OUlg46YkH2IM3g",
+        "address": "NJ, NJ",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Great Tricolor Pasta and Mango Coconut Crepe. It was a pretty place too. I thought the Tiramisu and Chocolate Cake were mid tho.",
+        "language": "en"
+      },
+      "date": "2024-03-02T15:24:02Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Katie for choosing to spend weekend-time at our cafe!  We are very appreciative of your business and for you taking the time to let others know about your experience through your review.\nPage Olson, co-owner",
+          "date": "2024-03-02T18:50:50Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Connie C.",
+        "user_id": "o-ZK0Nau6C8s94mZvyIeAA",
+        "link": "https://www.yelp.com/user_details?userid=o-ZK0Nau6C8s94mZvyIeAA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WbCi_6TUZ4vCJ1auL9NZFg/180s.jpg",
+        "address": "Lithia Springs, GA",
+        "friends": 4,
+        "photos": 0,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "The place was packed and I don't know why.  I went specifically for the croque monster. It was horrible.  The replacement wasn't much better.",
+        "language": "en"
+      },
+      "date": "2024-02-03T20:00:19Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Connie, I am very sorry  to know that you didn't enjoy your menu choice.  This will be addressed with our kitchen team. We will be very happy to refund you if this hasn't already happened.  Here is my email address so that you can provide the additional information that will be needed: polson@cafeintermezzo.com\nWe are very appreciative of all guests that choose to spend time at our cafes.  For 44 years we have been providing a unique experience that our patrons enjoy.  I am sorry that we didn't appeal to you.  Fortunately, there are wonderful options in the Midtown area that are great alternatives to us on very busy evenings.\nI look forward to hearing from you!\nPage Olson, co-owner",
+          "date": "2024-02-04T18:17:44Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ebony M.",
+        "user_id": "wWv1LFTcnK1z83723IEQhg",
+        "link": "https://www.yelp.com/user_details?userid=wWv1LFTcnK1z83723IEQhg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tmzvBZCXn-0TMwq2VbZUww/180s.jpg",
+        "address": "Grandville, MI",
+        "friends": 195,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "I usually have a great time at Intermezzos mid-town But today February 2nd after a 25 minute wait we were seated and then told we had to be removed from our seats to change tables with 2 other couples that have already been sitting at a table beside us. We were asked to be removed from the table and wait again so the table can be cleaned for us to switch. I just decided to leave. I don't recommend going when it's crowded, it doesn't seem that they can handle it.",
+        "language": "en"
+      },
+      "date": "2024-02-03T04:48:51Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Update:  I was able to gather information from our GM about this mixup. Our server did not follow cafe protocol by asking our hosts about moving his table of already seated guests to yours.  I am very sorry about this Ebony. \n\nHi Ebony, I responded to your same review of our cafe on google.  Again, I apologize.  Staff changing seats once guests are seated is very rare for us.  Your additional details - what time you were there and where you were seated will help us better address your experience.\nThank you,\nPage Olson.  polson@cafeintermezzo.com",
+          "date": "2024-02-03T18:03:58Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Rachel W.",
+        "user_id": "Da-uRM2y3dWI5wt-9cmgRA",
+        "link": "https://www.yelp.com/user_details?userid=Da-uRM2y3dWI5wt-9cmgRA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UZXbWFAeSnkwi8RREhVUFw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 106,
+        "photos": 601,
+        "reviews": 154,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I have previously given Cafe Intermezzo two 5 star ratings, one on Google and one here on Yelp. However, as of today I don't feel inclined to continue being a patron. I've had two bad experiences in the last few months. Around Christmas I went to the Alpharetta location for the 1st time and I felt the servers were cold and the cake I ordered (the pumpkin torte) was nooot good and overpriced. However, I didn't leave a review about this because I thought it was either a fluke or just that location. However, today I went back to the Midtown location as usual and I just was not pleased. \n\nLong story short, I had a horrid long day of traveling which resulted in me getting home 2-2.5 hours later than planned. I had flight delays, had to run through customs, all due to things out of my control. I had no time to eat during the day so my plan was to go to Cafe Intermezzo when I got home since I knew they were open until 1am. However, when I got back to ATL the Marta shuttle that was supposed to pick me up didn't show which resulted in me walking a few blocks home with a big bag of luggage. The ONLY reason this detail is relevant is because during my walk I called Cafe Intermezzo 3 times in hopes of placing a To Go order. No one answered any of my calls. But since most places are closed by 12am I was desperate so when I finally got home I rushed to my car to drive to Cafe Intermezzo to see if I could place the order there. I got there maybe at like 12:35. When I got to the bar the lady tells me the kitchen is closed as it closes 30 minutes before the restaurant. I informed her I had been calling them to place an order but no one picked up. Then I asked if there is anything already made I can order so they wouldn't have to cook anything. (I had a specific order in mind but I was sooo hungry I'd take anything). Anyhow, she asks the manager if there's anything they can offer me and the answer she received was No. So I just got a piece of cake and coffee since coffee usually helps suppress my appetite. When I got home to eat the strawberry torte cake it was dry! I had to separate the bread from the icing, warm it up for a few seconds, and drizzle some milk so it could be moist.\n\nTonight I wasted $17, my time, and ate food that was not in any way filling or tasty. I should have just gone to sleep hungry and tired instead of trying to eat. To be clear I understand me having a bad day of flight delays has no connection to CI. However, them missing 3 calls for me to place an order & them not doing anything to try to compensate is what is the issue. There wasn't even a sense of urgency in getting the coffee and cake that I did order. It was just weird. Also I suggest putting on your website the times the kitchen closes.",
+        "language": "en"
+      },
+      "date": "2023-03-26T06:04:40Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Update:  Hi Rachel, I apologize for responding so late to your updated review.  I just saw it.\nYour day of travel does sound exhausting.  \nI am sorry that the cafe did not answer when you called.  I am also sorry that our kitchen had closed when you arrived.  We do note on our website that our kitchens stop preparing menu items 30 before closing.  \nRespectfully, \nPage Olson    polson@cafeintermezzo.com\nRachel, we're happy to get you a great meal anytime you're in Atlanta! We love being a hangout spot as well as a serious location for date night's and big events, so we really appreciate you coming down here with friends and having fun at our bar. You're always welcome to stop by when your in town -- we love having you.\n\nBest,\nCafé Intermezzo Team",
+          "date": "2019-11-11T18:10:26Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Anna J.",
+        "user_id": "mRubz6q_qETHj_yM_iD1oQ",
+        "link": "https://www.yelp.com/user_details?userid=mRubz6q_qETHj_yM_iD1oQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0Zy84NXxwnqx7zAZuX9W4g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 50,
+        "photos": 558,
+        "reviews": 259,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Came here on a Friday night around 11:30-Midnight for some late night dessert. Best thing about this place is that they validate for the deck in the building which is the best so definitely park there\n\nIt was packed inside but our table for 3 was seated relatively quickly. We sat down and each ordered a drink a slice of cheesecake to share. The drinks took forever to show up and we had finished the cheesecake by the time they did but everything still tasted phenomenal! Service was also great. To drink, I got the espresso martini and it had to be one of the best espresso martinis I have had in a long time. To share we had just the plain cheesecake and it was so simple but so delicious!! No disappointments here and we all decided to come back for more late night dessert.",
+        "language": "en"
+      },
+      "date": "2022-10-30T21:23:57Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hPEhDrVtFwrw2y3CxG5fdQ/o.jpg",
+          "caption": "Cheesecake plain"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/o61KCzFXvCeEO7aI7DSktw/o.jpg",
+          "caption": "Espresso martini"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Anna, thank you. You awarded us 5 stars even with the sequencing of your order being served to you incorrectly.  I apologize that your drinks took a long time to arrive to your table.  This will be addressed with our team.  Page Olson co-owner",
+          "date": "2022-11-14T19:37:22Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Nia G.",
+        "user_id": "jJLEYCjFhhJywZxp_zyqkA",
+        "link": "https://www.yelp.com/user_details?userid=jJLEYCjFhhJywZxp_zyqkA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fVVQCL4hQLNTus1pIXzXCg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 355,
+        "photos": 880,
+        "reviews": 209,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Simply the BEST! A MUST visit for the sake of the experience or to taste the fine coffee and fresh pastries. I have eaten every tort in this place - a beautiful wedding gift to have all the varieties at my reception. You can not \"go wrong\" with any. \nStep out your box and try the Bourbon Crunch or Amaretto White chocolate \nToday was a quick run into grab a cake for a party( sadly we forgot to place the order 24hrs in advance) BUT the gracious hostess went to find us a cake ready for purchase. \nThey never disappoint in service and taste. \nThis was also the first resturant I met my friend, now husband, during the pandemic due to their outdoor seating. \nIts been a match made in heaven with him AND this resturant.",
+        "language": "en"
+      },
+      "date": "2022-10-16T20:10:59Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Lhzh1MNIsuAS-DKrWcsvBg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Nia for such a lovely review!  We appreciate all of your kind and encouraging words!  All the best, Page and Brian Olson, owners",
+          "date": "2022-10-17T16:21:57Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Mrs. D.",
+        "user_id": "fXkO51DcbiY7CADAyOylLg",
+        "link": "https://www.yelp.com/user_details?userid=fXkO51DcbiY7CADAyOylLg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/T1SUjLrxDjhFHFkSoPeOVA/180s.jpg",
+        "address": "City of Industry, CA",
+        "friends": 4,
+        "photos": 354,
+        "reviews": 205
+      },
+      "comment": {
+        "text": "Oh ATLANTA!! You do not disappoint  in the food department!! This cafe was clean all the way down to the fancy ladies bathroom with the speakers giving you a French lesson.\nThe hostess and the waitress were so friendly.We ordered a classic breakfast with chicken sausage and rosemary potatoes, baked brie, and a jam croquet monsiure...it was so delicious!! The house  coffee and the Cubano coffee were fantastic..\nI do recommend you try this cafe..",
+        "language": "en"
+      },
+      "date": "2023-04-16T17:41:45Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dPAtd4X46qnUJN2Gvs9T8w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DCCP4GfoCSyQ43Q11ii6RA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Mrs D, thank you!  We  are honored by your recommendation of our cafe to others.  Thank you for letting all of us know how well your were treated by our team.\nPage and Brian Olson, owners",
+          "date": "2023-04-16T19:32:03Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Amy L.",
+        "user_id": "5fbp1YEhgjjRTvlYxaK2jw",
+        "link": "https://www.yelp.com/user_details?userid=5fbp1YEhgjjRTvlYxaK2jw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BowwjsKCzyBIKne8fY0fpA/180s.jpg",
+        "address": "West Covina, CA",
+        "friends": 105,
+        "photos": 72,
+        "reviews": 60
+      },
+      "comment": {
+        "text": "Always love the ambiance here and wish they have a cafe intermezzo in Southern California where I'm at.  Delicious dessert and great place to hang out or go on a date.  Appreciate their late hours as well.  Service was okay but could be better.",
+        "language": "en"
+      },
+      "date": "2023-10-16T00:42:56Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XZt8yGxNgbPIoNtOFGyO7w/o.jpg",
+          "caption": "Some of the menu items we ordered."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ycvuu5txw7Dj8hUp6tfY7A/o.jpg",
+          "caption": "Seafood Dip Plate"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L8Q-vjaLa9eGEfzvtRQA8w/o.jpg",
+          "caption": "Hot Chocolate Deluxe"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JJiURXmsBA5U_WDgIzO3iw/o.jpg",
+          "caption": "Strawberry and banana Crepe"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Amy, thank you for coming to our cafe! I agree with you...it would be great to be in So Cal!  \nSafe travels.\nPage Olson, co-owner",
+          "date": "2023-10-16T16:26:20Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Joyce C.",
+        "user_id": "m3NpwATF2bwajpFlYp-xww",
+        "link": "https://www.yelp.com/user_details?userid=m3NpwATF2bwajpFlYp-xww",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8I-fE1sdaZKVbIJI0HelKg/180s.jpg",
+        "address": "St. Petersburg, FL",
+        "friends": 1,
+        "photos": 27,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Great coffee and dessert! They have a great variety of flavors to pick from. Very central location.",
+        "language": "en"
+      },
+      "date": "2023-11-12T06:24:43Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3tgqfxgQbjFTgpOOzOScIQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Joyce!  Thank you for being a patron of our cafe and for recommending us to others!  I'll add a note about parking - 2 free hours in our building with your ticket validated at the cafe.\nWhat a pretty pic!\nBest regards,\nPage Olson, co-owner",
+          "date": "2023-11-12T18:51:45Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Gelene J.",
+        "user_id": "lS5k7SC9bF_pI4-uUQah7w",
+        "link": "https://www.yelp.com/user_details?userid=lS5k7SC9bF_pI4-uUQah7w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YtuNE18audKvhv2pE8NJNg/180s.jpg",
+        "address": "Lithonia, GA",
+        "friends": 4,
+        "photos": 84,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "You can't go wrong with brunch in ATL, the food was good and not overly seasoned. Also the drinks were delicious and everything was fair priced.\n\nWe sat at the bar and had great conversation with the bartender and couple beside us. \n\nThe atmosphere is nice and you can have brunch with the girls or get some work done with a Parisienne vibe and calming music.",
+        "language": "en"
+      },
+      "date": "2023-05-16T17:07:33Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vaz4-58biixIItiO1ipONA/o.jpg",
+          "caption": "Croissant with Scrambled Eggs Classic French Toast"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/i1V3RVlpn1Eg1yYgROrlvA/o.jpg",
+          "caption": "Croissant with Scrambled Eggs Classic French Toast"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "What a lovely review Gelene!  Thank you!\nPage and Brian Olson, owners",
+          "date": "2023-05-16T18:24:37Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jessica S.",
+        "user_id": "6VDsLStprqcBTuBsKiwkzw",
+        "link": "https://www.yelp.com/user_details?userid=6VDsLStprqcBTuBsKiwkzw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WTdHb4HGoV5flxJkfsXojA/180s.jpg",
+        "address": "Chicago, IL",
+        "friends": 218,
+        "photos": 270,
+        "reviews": 133,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Super cute cafe in Midtown!\n\nCafe Intermezzo definitely gave me french bistro vibes with a nice interior and plenty of outdoor seating.\n\nTo start, I ordered an espresso martini which was fantastic!\n\nWe also ordered the spicy seafood dip. The dip itself was great, as was the bread that came with it. \n\nMy favorite part of the meal was probably the peaches and cream torte. The quality of the peaches were amazing and super fresh. While the torte was definitely very sweet and I couldn't finish most of it, it was great and I would definitely order again.\n\nThe cafe has plenty of dessert options on display. I am excited to come back soon! :)",
+        "language": "en"
+      },
+      "date": "2022-08-16T00:37:41Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/z1sjlgrdKHlfJ3L835b1xg/o.jpg",
+          "caption": "Exterior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GSPahWwK9YFewRjELuKxaQ/o.jpg",
+          "caption": "Spicy Seafood Dip Plate"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TSHHTBYYAxY9vSnW0qZ29g/o.jpg",
+          "caption": "peaches and cream torte"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Jessica, thank you for such a lovely review of our cafe!  We all feel very proud when our guests have enjoyed what we have to offer!  Best, Page and Brian Olson (owners) and Midtown team",
+          "date": "2022-08-16T18:14:28Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Audrey W.",
+        "user_id": "kRvkFrZO75MD3SLe7RlbJQ",
+        "link": "https://www.yelp.com/user_details?userid=kRvkFrZO75MD3SLe7RlbJQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gTRASjfalPXdtfxQViB5hw/180s.jpg",
+        "address": "Palm Beach Gardens, FL",
+        "friends": 56,
+        "photos": 1141,
+        "reviews": 290,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This is the first time we've been here during the daytime, in the summer. Whew! It's hot in here!  We wanted hot chocolates and coffees, so it made it very \"moist\" as we sat enjoying our amazing lunch! \nThe food is always on point here. though. The service here was great, as usual! Thank you, Rocky! \nStill our must-do place when we're in town.",
+        "language": "en"
+      },
+      "date": "2022-07-27T17:48:10Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DucetGZDToHadlL_fV-Jrw/o.jpg",
+          "caption": "Chocolate Cookie Dough cake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4Vd33fWn1K7HRSsWx2mhmg/o.jpg",
+          "caption": "Hot Chocolate Berlin in some mood light!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4UW1twLt8zycHjAc1INwOA/o.jpg",
+          "caption": "Frutti di Bosco Pastry"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xI8HDXZxmnj4XjbalLEkfw/o.jpg",
+          "caption": "Hot Chocolate Berlin--just oozing with hazelnut spread!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xvOUtowLmwE6FH35LWSZOw/o.jpg",
+          "caption": "Lox on Naan"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZZis2bkp2hRy8SJleqo26Q/o.jpg",
+          "caption": "Belgian Waffles with Strawberries a la Carte"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oKiAHIH8CD5qktalDJwrNQ/o.jpg",
+          "caption": "Single Belgian Waffles Strawberries a la Carte"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/U6HSpBDRLdaukuihmtTxkQ/o.jpg",
+          "caption": "Chicken Salad Croissant Sandwich with a house salad"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WRxjjsDhEptRILZ0Muw2wQ/o.jpg",
+          "caption": "Kids Nutella-Strawberry Crepe"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TWpAMOc04BzW7xSkLeqjaw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Audrey, oh goodness - thank you for such a great review!  We love being a tradition for our guests!  And yes - we agree with you on the spacing of our tables.  It's been one of the silver-lining results of the pandemic.  Hopefully, many of our guests agree.  Cheers.  Page Olson  co-owner",
+          "date": "2022-01-24T18:20:07Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kevin C.",
+        "user_id": "DVDLRYt37TdPXtluovM33A",
+        "link": "https://www.yelp.com/user_details?userid=DVDLRYt37TdPXtluovM33A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gvZvXLdtTY5QYJbrtXgX0A/180s.jpg",
+        "address": "Brookhaven, GA",
+        "friends": 1006,
+        "photos": 8654,
+        "reviews": 1051,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We were in Midtown on a recent Saturday evening and decided to get something dessert-y and sweet - like cake, and we just happened to be driving right past Cafe Intermezzo, which we knew served great tasting cakes.\n\nWe found paid parking available in the large parking garage between Peachtree Street and Juniper Street, entering it off of 12th Street.  Cafe Intermezzo validates parking for 2 hours, so bring the ticket for parking into the restaurant for validation.\n\nCafe Intermezzo is located at the corner of 11th Street and Peachtree Street.  We were greeted immediately by the hostess who led us to a table in the indoor dining area where we could look out the windows facing Peachtree and people watch.  R and I both went back to the entrance area where cakes and cheesecakes were in the refrigerated display cases so that we could gawk at their delicious presentation and decide which cakes we were going to order slices from.\n\nOur very courteous server, who provided great customer service throughout the entire time we were there, came by to take our orders after we sat down.  We told him that we were only going to have cakes and I was going to drink water, since we'd been outside in the sun and were close to dehydration.  I ordered a slice of German Chocolate torte, and R ordered Strawberry Creme torte and an iced vanilla latte.  In a very short time the iced vanilla latte was served, followed by the tortes a few minutes later.  I loved the German Chocolate torte, which had a delicious richness to it and not too sweet.  R thought his Strawberry Creme torte and iced vanilla latte were great.\n\nI was very impressed with Gaybriel (the name on our receipt), our server.  He was absolutely great.  Even though he knew that we were there only for dessert, he still came by periodically to check on us, and was constantly refilling my water glass, and showed a fantastic overall level of service.\n\nNot only are there indoor dining areas, there is also an outdoor covered patio area, which is a great place to watch traffic and people going by.",
+        "language": "en"
+      },
+      "date": "2022-06-22T15:02:58Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/j-3dt7ENaZExO9LlgYsjCg/o.jpg",
+          "caption": "Cafe Intermezzo entrance."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6vMv6LCAozCOp_GAjO6_sw/o.jpg",
+          "caption": "Iced vanilla latte."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wbpcyK26ctKMz10h2OO2TA/o.jpg",
+          "caption": "Cakes, tortes and cheesecakes are in the refrigerated dessert case."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qJkp0suxueaPnArihWySSg/o.jpg",
+          "caption": "Strawberry Creme torte."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EFTAzCBWEq8-OZI0CpoD0Q/o.jpg",
+          "caption": "German Chocolate torte."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9PRViuMpx8SOX9GFjfrbhQ/o.jpg",
+          "caption": "My view of the dining area."
+        }
+      ],
+      "feedback": {
+        "useful": 8,
+        "funny": 1,
+        "cool": 7
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Kevin!  I have read every word of your review and I appreciate all that you have said about your experience at our Midtown cafe.   It is well thought out and hits on the marks that we highly value - great service - great menu offerings - choices of where to dine - and FREE PARKING!  Thank you for choosing us and for taking the time to write such a thoughtful review!  Our Midtown team will feel very proud of what you have said.  Cheers, Page Olson co-owner",
+          "date": "2022-06-22T16:05:02Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Dove H.",
+        "user_id": "fQ6s0LxJGYu_EIsP6f6B0g",
+        "link": "https://www.yelp.com/user_details?userid=fQ6s0LxJGYu_EIsP6f6B0g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JAXOklme17ZTtB2zJ7u93Q/180s.jpg",
+        "address": "FL, FL",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "Oh this is one of my favorite spots in Atlanta. I've been here for both brunch and dinner. I love the caramel latte and moscato wine they have. The entrees are amazing but the desserts are to die for. I've also never had bad service here and the place is my all time favorite decor and aesthetic.",
+        "language": "en"
+      },
+      "date": "2024-01-03T18:10:35Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you, Dove, for being a patron of our cafe!  Might you be willing to email me at: polson@cafeintermezzo.com so that I can personally thank you?  Hope to hear from you!\nBest regards,\nPage Olson, co-owner",
+          "date": "2024-01-04T18:02:22Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Allison C.",
+        "user_id": "XM_LGQTJ2P1_giT8y4zZ1Q",
+        "link": "https://www.yelp.com/user_details?userid=XM_LGQTJ2P1_giT8y4zZ1Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PTYgUBtnzeAfpaFZuDU6Rw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 278,
+        "photos": 264,
+        "reviews": 88,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Such a romantic place to get your desserts! The interior is so well-decorated, creating a romantic atmosphere, which was perfect for date night. And the desserts are absolutely divine. Our frutti di bosco and cookies and cream cheesecake were so good and not incredibly sweet either, which was perfect for us. I'm not a huge fan of desserts that are so dense it makes you regret your life choices after you leave the restaurant. So Cafe Intermezzo was perfect :)\n\nI will say though, it got pretty crowded inside. There are a LOT of people who come inside to eat but just as many waiting to order by the display case.",
+        "language": "en"
+      },
+      "date": "2022-07-04T04:22:49Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/I3VC4hDLHu90663MJazOoA/o.jpg",
+          "caption": "Inside"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/u2GKxdRVrgbmEttf1tkwEg/o.jpg",
+          "caption": "White Hot Chocolate"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/x53d8F4uqu5j0o5jyU6zNw/o.jpg",
+          "caption": "Frutti di Bosco"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uuVxMNY7M5wrZkEwW7EyjQ/o.jpg",
+          "caption": "Cookies and Cream Cheesecake"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Allison for your very sweet review of our Midtown cafe!  The Frutti di Bosco is flown in from Milan, Italy and the cheesecakes are baked in our bakery in Norcross.  \nWe appreciate your business and your encouragement to others to check us out!  Happy holiday!  Page Olson, co-owner",
+          "date": "2022-07-04T16:12:56Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Molly B.",
+        "user_id": "gnZbVObeMnxj-MvMAiirFw",
+        "link": "https://www.yelp.com/user_details?userid=gnZbVObeMnxj-MvMAiirFw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/jai4p4Zrj0yxu5b5Y4ouFQ/180s.jpg",
+        "address": "Buckhead Heights, Atlanta, GA",
+        "friends": 73,
+        "photos": 104,
+        "reviews": 72,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Dim lighting adorned with romantic art and sculptures, sometimes I have to pinch myself to make sure I'm not in a scene from Ratatouille whenever I come here. The cheesecakes are Intermezzo's pride and joy, and you'll have to take one for yourself after a \"cheesecake tour\" is their selections. I typically opt for the Irish Coffee for something sweet, and finish it off with the spicy seafood dip - shrimp, scallops, crab, and garlic with a doughy baguette for dipping. In the 70's, people used to come here after a long night of disco dancing and I can totally see why. Intermezzo is Atlanta's gem, and I love collecting gems",
+        "language": "en"
+      },
+      "date": "2023-01-03T20:28:57Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jsptA_2OsAHfBNWdYBC-Mw/o.jpg",
+          "caption": "Spicy Seafood Dip Plate"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XKSuDs8ieQtWPgWUbXugQg/o.jpg",
+          "caption": "Irish Coffee"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Molly, what a wonderful review!  Thank you.\nThis past December we celebrated 43 years of offering our European-style coffeehouse to our guests.  And yes, back then we were open almost til dawn!\nOur bakery hand makes all of the cheesecakes in our displays!  It's so good to know that you enjoy them!\nThank you for being such a long time patron!  Please email me at: polson@cafeintermezzo.com so that I can personally thank you.\nPage Olson, co-owner",
+          "date": "2023-01-04T18:08:33Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Courtney M.",
+        "user_id": "SeLRNtIxwDsdx13DVPjRIw",
+        "link": "https://www.yelp.com/user_details?userid=SeLRNtIxwDsdx13DVPjRIw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HRsj9SywwbVgbo3gU4qMDA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 506,
+        "photos": 335,
+        "reviews": 213,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Cafe Intermezzo is an Atlanta staple known for drinks and dessert. The cheesecake is to die for! My favorite is the white chocolate amaretto cheesecake. It is absolutely amazing. Light, fluffy, creamy. My go-to drink here is the French 75. \n\nThere can be quite a bit of a wait, but you can typically find bar seating right away. \n\nThere's parking in the Loew's garage. Depending on which way you come, you may not see it right away, but be sure to park there and not the parking lot across the street (which costs double the price of the garage).",
+        "language": "en"
+      },
+      "date": "2022-06-12T02:48:21Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/K0Qc2UOdqOuDbyBOh5C8DQ/o.jpg",
+          "caption": "White Chocolate Amaretto Cheesecake and Tiramisu. Hands down the best cheesecake I've ever had in my life!"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Courtney, we love that you love our White Chocolate Amaretto CC!  We bake it in our bakery in Norcross and on it's production day the bakery smells so wonderful!  Thank you as well for mentioning the French 75 - it's a guest favorite!  Yes - everyone park in the garage - 2 hours free parking with your ticket validated at the cafe.  Have a great rest of the weekend!  Page Olson co-owner",
+          "date": "2022-06-12T18:10:22Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Pranjali S.",
+        "user_id": "V56ven0rPypaIW30HYzy6g",
+        "link": "https://www.yelp.com/user_details?userid=V56ven0rPypaIW30HYzy6g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZEs02x3miJE575g4Wpqx6w/180s.jpg",
+        "address": "San Diego, CA",
+        "friends": 98,
+        "photos": 1659,
+        "reviews": 556,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Very quaint cafe with great food!\n\nMy friend and I visited on a Monday evening and were seated immediately. I got the intermezzo hot chocolate while my friend got the intermezzo cappuccino to drink. For food, I got the seafood crepe and she got the chicken croissant sandwich. \n\nThe hot chocolate was delicious and presented very prettily. The cappuccino was good, but presentation- not so much. The food, on the other hand, was way better! That crepe was perfection and I cleaned up my plate (which I normally don't). My friend loved her chicken salad also but that portion was big enough to have leftovers. \n\nI really liked this place. I will be back when I visit Atlanta next.",
+        "language": "en"
+      },
+      "date": "2022-06-19T07:49:35Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4RcsLQJkm8scKPaJPhpD_g/o.jpg",
+          "caption": "Chicken salad croissant sandwich"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2qKMaqmwddf1VwSm0yASCg/o.jpg",
+          "caption": "Intermezzo Hot Chocolate"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ifexFC63NR8PaNAA5BhjMg/o.jpg",
+          "caption": "Seafood crepe"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9gNwTJ_XJmh1CNgZdfLtrw/o.jpg",
+          "caption": "Intermezzo Cappuccino"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are very appreciative Pranjali of your business and for you taking the time to review us on Yelp!  Thank you.  Page Olson co-owner",
+          "date": "2022-06-19T21:15:28Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Brenda J.",
+        "user_id": "vL_F9iA2FePRGCu1xs5y3Q",
+        "link": "https://www.yelp.com/user_details?userid=vL_F9iA2FePRGCu1xs5y3Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yN9bDerUbYsf2BK2e-uXWQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 128,
+        "photos": 322,
+        "reviews": 121,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I was a regular here until the pandemic drive a significantly reduced menu offering. I may never get over not being able to have their fabulous mushroom and brie burger (pictured below with previous review), but I digress.  I was in morning meetings at the Loews Hotel adjacent and wanted to avoid the round table social lunch so walked next door to Intermezzo and had a wonderful eggs benedict. It was a Thursday around 11:30 so not crowded and quick bar service. I was in and out in 30 minutes. Love the ambiance here and it gets really crowded late night. Great vibe and wonderful dessert case!",
+        "language": "en"
+      },
+      "date": "2022-12-21T22:25:24Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8PNZVSqV-oKe4vsKXzRC_A/o.jpg",
+          "caption": "Eggs Benedict"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Brenda, Thank you so much for joining us, we hope you will be back soon!\n\nYour Café Intermezzo team",
+          "date": "2021-05-27T17:05:25Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Phoebe W.",
+        "user_id": "bvMCtEu338T5UlaBODaujg",
+        "link": "https://www.yelp.com/user_details?userid=bvMCtEu338T5UlaBODaujg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AiJkPb8AvV7I5rzH-IQZsA/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 1,
+        "photos": 42,
+        "reviews": 30
+      },
+      "comment": {
+        "text": "Came here as a brunch spot. I ordered a Belgian waffle with strawberries and it was plated really nice and good to eat! My friends and I had also tried the tiramisu which was good. The ambiance of the restaurant is weird though for me. I feel like I don't really know the team that they are going for but that just might be for me! Also interesting to note that they try to teach you different languages in the speaker in the bathroom",
+        "language": "en"
+      },
+      "date": "2023-10-07T17:28:18Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QAPfM0PDM0VnbGRrb-k7hg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Phoebe, thank you for coming to our cafe and then for taking the time to review us on yelp.  Being a European-style cafe, we love serving guests from many cultures and of all ages!\nHave a lovely weekend.\nPage and Brian Olson, owners",
+          "date": "2023-10-07T19:40:23Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Gretel Y.",
+        "user_id": "nhlXSTW453F3587FKo-Rsw",
+        "link": "https://www.yelp.com/user_details?userid=nhlXSTW453F3587FKo-Rsw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/abwpL-XlX1alsz5Uwb14tg/180s.jpg",
+        "address": "Gilbert, AZ",
+        "friends": 2399,
+        "photos": 9236,
+        "reviews": 1285,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Came here for a meeting one weekday afternoon. There's a parking garage right behind Cafe Intermezzo and they validate the first two hours. It's $6 per hour after that. This location stays busy. The place was packed. I arrived over an hour early for my meeting and sat at the bar to get coffee, lunch and get some work done.\n\nThe staff was friendly and helpful. I ordered a honey cinnamon oat milk latte and a salmon caesar salad. I didn't finish my lunch before my meeting and the staff helped me move my food over to the table with my group. The coffee was nice and strong, as usual. The caesar salad was great - fresh and tasty. My group also enjoyed their coffee and salads. I don't normally come to Cafe Intermezzo for lunch. It's my go-to for coffee and dessert, but they have great brunch and lunch options!",
+        "language": "en"
+      },
+      "date": "2022-05-25T03:24:45Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OhptZFbQUWW75nCRVDEx9w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qRRklRLCjmgSGNMUkVeusg/o.jpg",
+          "caption": "Latte"
+        }
+      ],
+      "feedback": {
+        "useful": 12,
+        "funny": 1,
+        "cool": 10
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Gretel for switching gears with us and telling others about your positive experience!  And, thank you so much for reminding guests about our 2 our free parking.  We just need to validate the parking stub when you're at the cafe.  All the best, Page Olson co-owner",
+          "date": "2022-05-25T16:36:37Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Eric C.",
+        "user_id": "h6aIrYhi7sBbIfvZXpQfxQ",
+        "link": "https://www.yelp.com/user_details?userid=h6aIrYhi7sBbIfvZXpQfxQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6-78DbWGfBQa-lX5tA6vYg/180s.jpg",
+        "address": "Colorado Springs, CO",
+        "friends": 0,
+        "photos": 5,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "This place has great ambiance, coffee and sweets. Take your date here! The cakes and cheesecakes are awesome!",
+        "language": "en"
+      },
+      "date": "2023-12-25T00:42:22Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Eric, thank you!  We're delighted to know that you enjoyed our cafe!\nPage Olson, co-owner",
+          "date": "2023-12-25T19:01:24Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Chris W.",
+        "user_id": "VHy7T17GRPuWe46pgqoadA",
+        "link": "https://www.yelp.com/user_details?userid=VHy7T17GRPuWe46pgqoadA",
+        "address": "Clermont, FL",
+        "friends": 0,
+        "photos": 7,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "Ambiance is cool, dim. But it's packed which is a good sign if the staff wasn't so dismissive and the place wasn't so poorly setup, it feels very small. Compare it to going to a busy bar with bartenders that act high and mighty if they don't know you type of vibe. \n\nSecond time here we just stopped by to grab a slice of cake to go, $12 and they asked for a tip... for slicing and bagging a slice of cake. Maybe that's why they had us wait 6 mins at the front of a busy front entrance... for a slice of cake. The icing on top was... well see the attached photo \n\nCake itself was, alright. Nothing to write home about.",
+        "language": "en"
+      },
+      "date": "2023-09-28T01:19:49Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D1uUoeY1l0m6Cn9aR21A9g/o.jpg",
+          "caption": "might as well not even included whipped cream lol"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Chris, I am sorry to hear that you do not enjoy our cafe.  I appreciate your review.  I agree that the whip cream in your takeaway should have been to our standards.\nTo others reading my response to Chris, our cakes are $10.80 and our cheesecakes are $11.80\nHowever, we never ask for tips.\nRespectfully,\nPage Olson, co-owner",
+          "date": "2023-09-28T16:50:05Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Elizabeth G.",
+        "user_id": "p45X9TF6ZlCjsvAG_ag6Xw",
+        "link": "https://www.yelp.com/user_details?userid=p45X9TF6ZlCjsvAG_ag6Xw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZbxOwR6yzd6XZ84m_BAgaw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 320,
+        "photos": 415,
+        "reviews": 308,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We've been here many times and keep coming back! We like the ambiance and of course- desserts! This time my husband and I had just finished watching The Great British Baking Show and were in the mood for sweets. \n\nLos Guidry's Thoughts and Recommendations:\n- Be prepared to wait. We came here on a Friday night and had to wait about 45 minutes for a table. There were plenty of tables available but the restaurant was understaffed so it makes sense they couldn't seat everyone.\n- Frutti di Bosco! This was our favorite dessert. Light, fresh flavors, not too sweet and overall delicious. Highly recommend if you like fruit tarts.\n- Hot chocolate can be skipped. It was far too sweet for us. All we could taste was the sugar. \n- Naan and Lox! From the dinner menu this was our favorite item. We weren't looking for large plates since it was late at night and a big meal would be too heavy. This starter was absolutely delicious and plenty to share for 2.\n\nAny time I've been here I order the Tiramisu which is INCREDIBLE. I didn't order it this time but always recommend if coffee desserts are your thing. Overall Cafe Intermezzo continues to be a staple in Atlanta. It's whatever you make it- a fun night out with friends or a romantic date night with your SO.",
+        "language": "en"
+      },
+      "date": "2022-07-13T16:05:18Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/83MKx3IZWeKfATxAoqBP4w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sQvW1mZOXQTmmReTsmH27Q/o.jpg",
+          "caption": "Chocolate Raspberry Mousse"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QNIgbgTCoGeHmYncBnfKag/o.jpg",
+          "caption": "Frutti di Bosco Pastry"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Elizabeth!  Thank you so much for such a thorough and honest review of our cafe.  The Frutti di Bosco is flown in from Italy as well as the Tiramisu (currently out of stock while Bindi returns production to the traditional one we've served for decades).  Your comment about our hot chocolate is heard and will be addressed.  And, the Naan and Lox is quite yummy! It's a personal favorite of mine.  We have loved serving our guests the European-style coffeehouse experience for almost 43 years and look forward to many more.  Your patronage is very appreciated!!!  All the best, Page Olson co-owner",
+          "date": "2022-07-14T17:10:52Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Bonnie K.",
+        "user_id": "qmzYMwLb2OOi4sbYYkNvmw",
+        "link": "https://www.yelp.com/user_details?userid=qmzYMwLb2OOi4sbYYkNvmw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/mubq0wi-NbTzNqvOfyIyCw/180s.jpg",
+        "address": "Melbourne, FL",
+        "friends": 3,
+        "photos": 204,
+        "reviews": 47
+      },
+      "comment": {
+        "text": "we are visiting Atlanta, and we stopped in to Café intermezzo on a whim as we walked by and saw the menu on the outside. We had a late breakfast. The bacon was amazing and my husband had a seafood crêpe. That was delicious. I had a peach martini that was not too sweet but light enough for a hot day. We had dessert there are there are a ton of cheesecake options and quite a few torte options. We had a coconut cream torte the cake was so moist. The filling was amazing and the frosting was sweet, but not overly so. My husband had a coffee drink that was vanilla ice cream with a double shot of espresso and whipped cream and he thoroughly enjoyed that. If and when we return to Atlanta, we will definitely be stopping here again. Our waitress Tina, and her colleague Damien we're both excellent and the host Jeff was the host with the most.",
+        "language": "en"
+      },
+      "date": "2023-06-29T22:23:45Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IpRduKsSxI1KUMRZOpu9dQ/o.jpg",
+          "caption": "Peach martini"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FPX2TuDW73pzbUGyoZ4ZgQ/o.jpg",
+          "caption": "The hostess greeter at front door"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iXYIWYoQMxaeFMCMjsG4GA/o.jpg",
+          "caption": "Pretty little table flower"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2hXPVEasI8eQY21uZih6zQ/o.jpg",
+          "caption": "my feet, lol, and the entry medallion."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much Bonnie for checking out our cafe!  We're delighted that you enjoyed our service and offerings!\nSafe travels.\nPage and Brian Olson (owners) and Midtown team",
+          "date": "2023-06-30T17:10:36Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Mike V.",
+        "user_id": "qWPafIRJpkmr3xAdTKre4g",
+        "link": "https://www.yelp.com/user_details?userid=qWPafIRJpkmr3xAdTKre4g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/strh7c5Cf5SMK9APUXPDZQ/180s.jpg",
+        "address": "North Central, San Antonio, TX",
+        "friends": 109,
+        "photos": 7,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Super nice set up, great food and timely service! I'll be back again. The pasta was pretty great, not sure if it's a weird combo to have with coffee? Idc",
+        "language": "en"
+      },
+      "date": "2023-08-20T18:54:56Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AguN48AfHUhU_3Xd3dTn2g/o.jpg",
+          "caption": "Cioccoloccino"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/h25yBr15xtT-tQe7EWCa-Q/o.jpg",
+          "caption": "TOMATO BASIL PASTA"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hey Mike!  Thank you for coming to our cafe!  And, thank you for your nice review and pretty pics!\nHave a lovely week.\nPage Olson,\nco-owner",
+          "date": "2023-08-21T00:00:01Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ana N.",
+        "user_id": "V98-R-fyNZG2VqZiJp9WlQ",
+        "link": "https://www.yelp.com/user_details?userid=V98-R-fyNZG2VqZiJp9WlQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vRgeVM61LGFOGaxESe70CQ/180s.jpg",
+        "address": "Durham, NC",
+        "friends": 405,
+        "photos": 58,
+        "reviews": 47
+      },
+      "comment": {
+        "text": "While the service was decent and the restaurant was extremely beautiful on the inside, the food does not live up to the experience. \n\nWe got their French toast with mixed berry and spicy tortellini and I left like the French toast was very average and not as fluffy as I would like it. The spicy tortellini was not bad but got a bit too salty the more I ate it. \n\nWe also got their lattes which might be more worth your time as they were pretty standard. Overall, I wouldn't recommend coming here for food, but potentially for desserts or drinks instead.",
+        "language": "en"
+      },
+      "date": "2022-12-07T19:01:23Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XL5my_RwgcuiQTWP74U-sQ/o.jpg",
+          "caption": "Classic French Toast, Spicy Tortellini"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Ana.  Thank you for checking out our cafe and for reviewing us on yelp!  I'm so sorry that you were disappointed with some of your menu choices.  Were you able to share this information with your server or a manager?  Either one would have been delighted to take those items off of your tab and offer more favorable options.  \nHere is my email address if you'd like to contact me directly - I would welcome it!   polson@cafentermezzo.com. \nAgain, thank you.\nPage Olson, co-owner",
+          "date": "2022-12-09T17:41:42Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Beth M.",
+        "user_id": "pfyUF46x1CAczTTYNIrV5Q",
+        "link": "https://www.yelp.com/user_details?userid=pfyUF46x1CAczTTYNIrV5Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MYBnfsHzM0G3jHmXHjziMw/180s.jpg",
+        "address": "Mount Hope, KS",
+        "friends": 64,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "I keep coming back for the hazelnut cappuccino. Learned their coffee is great also. The food never disappoints either.",
+        "language": "en"
+      },
+      "date": "2023-12-18T03:59:08Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Beth, we are very appreciative of your business and of your 5 star review!  Thank you so much.\nAll the best,\nPage Olson, co-owner",
+          "date": "2023-12-19T17:17:06Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Venie N.",
+        "user_id": "Q2u2dim_zEF3dWGEmYE__Q",
+        "link": "https://www.yelp.com/user_details?userid=Q2u2dim_zEF3dWGEmYE__Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2JRVKZLQm5YDAUOiJu-06Q/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 22,
+        "photos": 147,
+        "reviews": 68,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My friend and I stopped by to drink some cappuccinos and eat a crepe. We walked in without a reservation and we're sat immediately! The restaurant was pretty busy though and it was Sunday afternoon. The cappuccinos were really good and I loved that you can pick what size you want. The crepe was also very tasty and authentic. They have a lot of cake options as well. Overall, Intermezzo has always been a great cafe and next time I will have to dine in because the food looked great too.",
+        "language": "en"
+      },
+      "date": "2022-11-13T01:51:14Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vpJEXyW-zSBsLiJE5m0LjQ/o.jpg",
+          "caption": "Caramel Cappuccino  Intermezzo Cappuccino"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Venie, thank you for such a thorough review!  We are very appreciative of your business and for you letting others know about your experience.  \nAll the best,\nPage and Brian Olson, owners",
+          "date": "2022-11-14T19:46:10Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "D Janelle A.",
+        "user_id": "sTKM1eESrhfNOWdk4-BEUg",
+        "link": "https://www.yelp.com/user_details?userid=sTKM1eESrhfNOWdk4-BEUg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pBMyYKCs9DyD6vFRnpftmg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 12,
+        "photos": 29,
+        "reviews": 26,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Where do I begin, I loved everything I ordered!  Ordered the Eggs Benedict and swapped the English muffin for a croissant, highly recommend. Intermezzo Cappuccino, Hot Chocolate Berlin, Crepe with strawberry & banana, Red Velvet Torte, Tiramisu Cheesecake, Spicy Tortellini (with salmon)... ALL yummy. Espresso Martini was strong, but I'm not a martini type of person Friendly hosts and wait(ers)(resses)! Family friendly environment & cute spot for a date with friends.",
+        "language": "en"
+      },
+      "date": "2022-12-12T14:49:09Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/y78QHEsmWzhwZ8fjPAmtyg/o.jpg",
+          "caption": "Intermezzo Cappuccino"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pZXGRXvtWQlnsCGaVYAjIQ/o.jpg",
+          "caption": "Eggs Benedict (swapped English muffin for croissant) + Crepe with strawberry & banana with Nutella on the side"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tmVkVz540-M_F7hNX36fTg/o.jpg",
+          "caption": "Espresso Martini with Eggs Benedict (swapped English muffin for croissant)"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "D Janelle, thank you so much for your patronage to our cafe and for your very positive review on yelp!  You definitely ordered some very tasty menu items!\nPage and Brian Olson, owners",
+          "date": "2022-12-12T19:25:41Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Erika B.",
+        "user_id": "JtGWD-Y0gLGEmpCef2IYxw",
+        "link": "https://www.yelp.com/user_details?userid=JtGWD-Y0gLGEmpCef2IYxw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SCUSQtKuLUgiuCmir_waJQ/180s.jpg",
+        "address": "Alpharetta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "I come here every Sunday for brunch regardless of the heavy meditating I have to do prior. I just love the ambiance. I love the Bloody Mary's here even though you have to be prepared for them to come out after your food has already come out. This place is not for the impatient as you're lucky if your water comes out before your food. I put Tabasco on everything and although I ask for it I always end up wandering around the place to fetch it myself. But even with this - I keep coming for the vibes. Let me tell you why I will not be returning. \n\nAll of the above happened but THIS time my eggs Benedict came out wrong as a salmon Benedict instead and I was actually so stoked about this. I got to enjoy my Bloody Mary as my food was being fixed. Fortunately, I was a bit tipsy from this by the time I took a big ole bite into my eggs Benedict. Why? Because at this moment, I find myself on a beautiful day, sun shining, ambiance out the wiz, with a gooey string of raw egg white hanging about 3 inches out of my mouth. I'm embarrassed to say that I then slurp it up praying that it is extremely cohesive egg yolk and end up swallowing the translucent insides of a raw egg. On the upside, I have involuntarily checked the raw egg challenge off my bucket list. On the downside, I had to summon the courage to tell my waiter about this. \n\nI finish the confrontation off by saying please no need to tell the kitchen to remake it as the bloody Mary's and potatoes filled me up! At this point I'm planning on tipping the waiter more because I feel so bad he is having to deal with this. The news I receive next was enough to make the slimy whites come back up with vengeance. I receive the bill and was fully charged for RAW egg on a chilly English muffin. I summoned the courage to tell the waiter about this even with crippling social anxiety and was still charged. \n\nEveryone makes choices in life and I'm not sure I'm prepared to gamble paying for salmonellae again. I'll get salmonellae, but I sure would appreciate not paying for it.",
+        "language": "en"
+      },
+      "date": "2023-05-27T18:46:40Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 2,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Erika, you should have not been charged for the menu item that was not to your satisfaction.  Please contact me directly so that I can work with you to remove the charge from your credit card.\nI apologize that this didn't happen at the cafe when you were there.\nPage Olson, co-owner.   polson@cafeintermezzo.com",
+          "date": "2023-05-28T18:05:30Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ashley T.",
+        "user_id": "F4CdHCX-BKmXj3ih37jjhQ",
+        "link": "https://www.yelp.com/user_details?userid=F4CdHCX-BKmXj3ih37jjhQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OqVsbt04m-_SCvhunwpuhQ/180s.jpg",
+        "address": "Old Fourth Ward, Atlanta, GA",
+        "friends": 131,
+        "photos": 884,
+        "reviews": 450,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Happened to be in the area and wanted a piece of cheesecake so decided to stop in.  It was a little busy  and the staff member that took my order didn't seem to be that thrilled to be working so I didn't ask a lot of questions.  I ordered two pieces of the Oreo cheesecake and spent almost $27.  When I got home I realized that they slices were a lot smaller than in the past and both my husband and I thought it tasted not as good as the previous cheesecake we've had from there.  The cheesecake didn't have a lot of Oreo mixed in and just missed a bit of flavor.  Not sure exactly what it was but it just wasn't that great and this was a pretty mediocre experience for a place I've had some really good experiences.",
+        "language": "en"
+      },
+      "date": "2023-05-14T12:38:12Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Ashley, I am sorry that your Oreo Cheesecake wasn't satisfying.  We use the very same recipe as we have used for many years.  We make no modifications.  Only premium ingredients are used and we use the same measurements for every cake.\nThe cakes are cut with a special tool that has been designed by my husband to ensure that every slice of cake is cut perfectly.  The shorter cakes are a wider cut while the taller are.more narrow. \nOur cheesecakes are $11.80 \nPlease contact me directly so that I can personally apologize for your disappointment.  Here is my email address: polson@cafeintermezzo.com\nThank you,\nPage Olson, co-owner",
+          "date": "2023-05-14T18:26:55Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Uchejo O.",
+        "user_id": "xE9OvsRU4ZcHyM1JmMobpw",
+        "link": "https://www.yelp.com/user_details?userid=xE9OvsRU4ZcHyM1JmMobpw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cp1ac_CTdyI4KtVXRnxpXg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 4,
+        "photos": 0,
+        "reviews": 41
+      },
+      "comment": {
+        "text": "My husband and I come here for dessert after dinner occasionally and we have always had a good experience. I usually get Tiramisu and/or an espresso and it always satisfies my sweet tooth.",
+        "language": "en"
+      },
+      "date": "2023-09-16T14:12:09Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Uchejo for choosing us to be a part of your evenings out!  We are honored by your patronage.\nPage and Brian Olson, owners",
+          "date": "2023-09-16T17:29:37Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Dayremis B.",
+        "user_id": "F1dlCyv56vsf9L2crAjQOw",
+        "link": "https://www.yelp.com/user_details?userid=F1dlCyv56vsf9L2crAjQOw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QmM8DDTJwbSefT0OWDMMqw/180s.jpg",
+        "address": "Miramar, FL",
+        "friends": 66,
+        "photos": 64,
+        "reviews": 27
+      },
+      "comment": {
+        "text": "On vacation I had been searching for espresso martini throughout the city of Atlanta and no one could get it right! Until I was recommended to try it from this lovely place. Let's just say I was extremely satisfied and will come back before my flight back home! Our bartender was so sweet and knew exactly what I wanted! I'm looking forward to coming back before my flight back home!",
+        "language": "en"
+      },
+      "date": "2023-02-27T04:48:15Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8HMYNrnjX_4V0JhIvfN0xw/o.jpg",
+          "caption": "Bar area"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3AbzVUXHKGGbNNuNB4NP7A/o.jpg",
+          "caption": "Espresso martini"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Pz6G03Ilxx0GhQosCAobog/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 3
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Dayremis, we are delighted that you found the perfect espresso martini at our cafe!\nSafe travels.\nPage and Brian Olson (owners) and Midtown team",
+          "date": "2023-02-27T07:52:01Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Lisa W.",
+        "user_id": "o2Or6xqxeWaE46tdzK0UGg",
+        "link": "https://www.yelp.com/user_details?userid=o2Or6xqxeWaE46tdzK0UGg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WSAi7U51sNZG0tTzWeLblg/180s.jpg",
+        "address": "San Marcos, CA",
+        "friends": 3595,
+        "photos": 16394,
+        "reviews": 3151,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Cool late night spot! \n\nWe came around 9:30pm and was told that the wait was 45 minutes and it wasn't even a closed prediction by the hostess. But at least the food is good.\n\nWe ordered the seafood dip. It was like a clam chowder dip. Flavorful, a little weird sounding but good. Then we got the mussels and it was perfectly seasoned and the sauce was very good. Probably will work with even pasta in that sauce. We also got the tortellini and added salmon. The salmon was perfectly cooked. The tortellini was good too. \n\nOverall a good late night spot! Heard it was good for breakfast too.",
+        "language": "en"
+      },
+      "date": "2022-01-31T15:16:51Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/O7TrBb_duR2pQebEUPjOrA/o.jpg",
+          "caption": "Pasta and salmon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/N0HN-llNFU7kKssA011rkQ/o.jpg",
+          "caption": "Seafood Dip Plate"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9uXrMtYCMawCsGPzNpXwOg/o.jpg",
+          "caption": "Mussels"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/u1Nat-4CKXYMZpbChzKoIQ/o.jpg",
+          "caption": "Cakes"
+        }
+      ],
+      "feedback": {
+        "useful": 10,
+        "funny": 4,
+        "cool": 10
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Lisa,  Thank you for writing a review about us on Yelp.  I believe that you also wrote about us on Google, which I responded to over the weekend.  Again, we are very appreciative of your business and your favorable description of our kitchen-fare!  Yes, our brunch is very popular so please come join us  for it sometime in the near future.  Best regards, Page Olson co-owner",
+          "date": "2022-01-31T20:20:35Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "DeeDee C.",
+        "user_id": "cc85fZFW8iHaO6SOdAYhVw",
+        "link": "https://www.yelp.com/user_details?userid=cc85fZFW8iHaO6SOdAYhVw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QKzscCzl60lL-mhHyplxGA/180s.jpg",
+        "address": "Dumfries, VA",
+        "friends": 73,
+        "photos": 148,
+        "reviews": 134,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place was amazing. My friend took me here for my birthday and I simply enjoyed it. The drinks were good as well as the food. We went around brunch time and I got the french toast with eggs and bacon and a slice of the strawberry creme cake and savored all of it. The drinks were really good too. I got two mimosas and a sweet tea. Its hard findinf good sweet tea! Next time I am in town I am definitely coming back. The atmosphere was relaxing as well. Not overly lit and the waitress was a sweetheart too.",
+        "language": "en"
+      },
+      "date": "2022-10-27T19:26:59Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TywYRloQPlcDUpcUDBsjuw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much Dee Dee for your patronage to our cafe and for your lovely review!  Nice pic as well!  Page Olson, co-owner",
+          "date": "2022-11-14T19:32:38Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Lydia C.",
+        "user_id": "c-obIhyfBVCnqHppGAlrAw",
+        "link": "https://www.yelp.com/user_details?userid=c-obIhyfBVCnqHppGAlrAw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/eFkJLV0hdda70pyQ3OCQuQ/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 64,
+        "photos": 6,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "An atlanta classic  \nOn nice weather days the outside seating is great, just make sure to get a reservation if it's a weekend/busy day. The coffee selection is great, and the hot chocolate is really good if you are into the Parisian style",
+        "language": "en"
+      },
+      "date": "2023-01-25T01:27:37Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TEm7J1GVUwjN0UIT3kJrRA/o.jpg",
+          "caption": "Tomato Basil Pasta, Spinach Artichoke Dip Plate"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Lydia!  We are so happy to know that you enjoy our cafe!  \nJust a note to those reading my response, we are a first come, first serve cafe so unable to take reservations.  If your time is short consider joining us on a Monday or Tuesday.  Thank you!\n\nPage Olson, co-owner",
+          "date": "2023-01-25T19:52:45Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Nicole D.",
+        "user_id": "etkVnzKg4dlxMVUSsZuGOw",
+        "link": "https://www.yelp.com/user_details?userid=etkVnzKg4dlxMVUSsZuGOw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RsX5H7OoUPGxSzoyXa_ZnQ/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 17,
+        "photos": 155,
+        "reviews": 67
+      },
+      "comment": {
+        "text": "I hadn't been here in a while, and I'm not planning on coming back anytime soon. The à la carte menu makes sense only if it were to have better portions and better quality ingredients. The skillet potatoes didn't have any crunch or anything special about them, the French toast had approximately two strawberries cut up into thin slices, and it was not well executed. Definitely not worth $24. The cioccolaccino was good, however. It was not too sweet and the whipped cream was a good contrast.\n\nI would only come here for their desserts/beverages. A bit disappointing considering I used to come here more often.",
+        "language": "en"
+      },
+      "date": "2022-11-11T17:11:15Z",
+      "rating": 2,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BLEXq97d2nzaPEaLPV0JSg/o.jpg",
+          "caption": "French toast with strawberries, skillet potatoes, and cioccolaccino"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ECcJD86kkDjfVFOK9h9OQw/o.jpg",
+          "caption": "Cioccoloccino"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Nicole, I am sorry that you didn't enjoy your menu choices.  Were you able to let your server or a manager know about it?  They would have been very happy to replace the items with something else or take it off of your tab.  Here is my email address if you'd like to contact me directly: polson @cafeintermezzo.com. Thank you.  Page Olson co-owner",
+          "date": "2022-11-14T19:42:08Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Hailey R.",
+        "user_id": "RwXd5g2ILgcqzxCL2uRJIw",
+        "link": "https://www.yelp.com/user_details?userid=RwXd5g2ILgcqzxCL2uRJIw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3IzcvlzNCkSa0nJ_pyanfw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 231,
+        "photos": 143,
+        "reviews": 113,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I've been to Cafe Intermezzo a handful of times and based on those experiences, I've found that it's a great place for cheesecake and dessert drinks. \n\nThe vibe is truly unlike anywhere else in Georgia. The patio is large (with windows that close up around it if it rains) with a European bistro vibe. While the outside is charming, the indoor seating option is intimate! I love that it's open late -- the perfect place to end a night! The service has always been top notch for me, and they have their own validated parking lot.\n\nThe best item(s) to get are the cheesecakes -- they have a wide range of flavors, all rich and delicious. Unfortunately, I cannot say the same for the cakes and tortes I've had. Some are great, others are dry or one dimensional. It seems like the quality varies. So, if you like cheesecake, definitely stick to those because you can't go wrong. The non-dessert options I've had (tortellini, spinach salad) have not been my favorite, especially at the price point. \n\nThe drinks are great. Their espresso martini is top 3 for me (!!!) Emphasis is on \"espresso\" rather than \"martini\" which is to say it's creamy and sweet instead of boozy. The Mexican Hot Chocolate is also amazing...so much whipped cream! Their iced coffee on its own is not my favorite, compared to others in the area. The sugar is just packet cane sugar which didn't dissolve well and the flavor was lacking. \n\nOverall, highly recommend if you're in the area and looking for dessert after dinner (or just craving cheesecake at midnight...) It's worthy of the hype if you know what to get!",
+        "language": "en"
+      },
+      "date": "2022-04-17T23:46:27Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Hailey for your very generous review!  We are very appreciative of your business and for you detailing our menu offerings.  I know...sugar is such a tough one in cold beverages.  Best regards, Page Olson co-onwer",
+          "date": "2022-04-18T17:40:13Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Zumba W.",
+        "user_id": "0Bu91_deB5t6N89f3mmYcQ",
+        "link": "https://www.yelp.com/user_details?userid=0Bu91_deB5t6N89f3mmYcQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/a_dRxWEc9TMf1Cg6mwTxlQ/180s.jpg",
+        "address": "Columbus, GA",
+        "friends": 162,
+        "photos": 0,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "Never had a bad experience... food is always amazing  I would suggest getting there when it first opens.",
+        "language": "en"
+      },
+      "date": "2023-10-31T02:54:05Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you, Zumba!  We're delighted to know that you always enjoy your menu choices!  to know that you are a patron of the cafe is quite an honor.\nPage and Brian Olson, owners",
+          "date": "2023-10-31T16:18:38Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Steven G.",
+        "user_id": "PJ6vYl--Zej77EMJYLhQTw",
+        "link": "https://www.yelp.com/user_details?userid=PJ6vYl--Zej77EMJYLhQTw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Fv5y8suWUBy2UMuUMbhcRQ/180s.jpg",
+        "address": "Naples, FL",
+        "friends": 1,
+        "photos": 3,
+        "reviews": 25
+      },
+      "comment": {
+        "text": "Not the one to leave a bad review but here I am, was really looking forward to trying some coffee from here, we are staying at a nearby hotel and it's always busy so we figured we just pick up some drinks to go, I purchased a regular iced vanilla latte over the phone and was told it would be ready in 10 minutes which it was. I got my latte, but it did not taste like a latte at all. It tasted more like a super sweet chocolate milk which I was not looking for at all. \nThe ambience and atmosphere appears to be really nice but if they don't have good quality products to back it up, I will always leave disappointed. \nI am open to trying again in the near future and hopefully I have a better experience. I would be happy to revise this review. If the drinks I order next time are more on par for midtown Atlanta.",
+        "language": "en"
+      },
+      "date": "2023-08-10T18:11:16Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Steven, I apologize that your beverage was not to your satisfaction.  Please contact me directly so that I can work with you to resolve to your satisfaction.  I'd also like to know when you were at the cafe so that our GM can address this with the barista that prepared your coffee.  Here is my email address: polson@cafeintermezzo.com\nThank you.\nPage Olson, co-owner",
+          "date": "2023-08-11T15:46:32Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Aamir S.",
+        "user_id": "E80Po4M_5oEsDK_Hno6dtA",
+        "link": "https://www.yelp.com/user_details?userid=E80Po4M_5oEsDK_Hno6dtA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yK9oDXE3AfZe65_WCHuCHQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 16,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "I'd describe our experience here as extremely mid. To start - we called to reserve, but they don't take reservations. When we got there, they said it would be a 25 min wait. We decided to wait at the restaurant which is likely why they gave us a table in just 10 mins, so props for that. \nOur waitress was really friendly but did not know about allergy info and had to keep going back to check. We ordered 2 hot chocolates since we've had them previously and remembered the taste being fantastic. This time it tasted as if it was store bought powder with milk. The red velvet was okay - nothing special. \nThe atmosphere is really nice and warm as well as the service.\nParking is validated at the garage.",
+        "language": "en"
+      },
+      "date": "2022-12-16T20:59:14Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R-1icu38deRUVhG3UH16mA/o.jpg",
+          "caption": "Outdoor seating"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zaBruYjdYizMsl4Ubyrthw/o.jpg",
+          "caption": "Red velvet cake, White Hot Chocolate Deluxe, Intermezzo Hot Chocolate"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Page O.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/XPfiEj02QceMrpyn4XcUmg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Aamir, thank you for coming to our cafe and for taking time to write your review.  The chocolate for our hot chocolate is imported and it's very high quality.  Maybe our baristas made it incorrectly?  I'll definitely look in to it to make sure they are following the recipe. Thank you for letting us know about this.\nI also oversee our bakery - might you have a suggestion about our Red Velvet Torte?  Here is my email address: polson@cafeintermezzo.com.  \nI would love to hear from you!\nPage Olson, co-owner",
+          "date": "2022-12-17T17:26:49Z"
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=hmrRb7qX3K705MuxHHfgNA&start=90"
+  }
+}

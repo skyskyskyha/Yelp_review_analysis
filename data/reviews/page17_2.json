@@ -1,0 +1,1610 @@
+{
+  "search_metadata": {
+    "id": "65f0a1bcc90e0ab36c4ca440",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f0a1bcc90e0ab36c4ca440.json",
+    "created_at": "2024-03-12 18:41:00 UTC",
+    "processed_at": "2024-03-12 18:41:00 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/jbKI2uM4nrRIlBT2sMX3MQ?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1bcc90e0ab36c4ca440.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1bcc90e0ab36c4ca440.prettify",
+    "total_time_taken": 2.03
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 160,
+    "num": "50",
+    "place_id": "jbKI2uM4nrRIlBT2sMX3MQ"
+  },
+  "search_information": {
+    "total_results": 1243,
+    "business": "Grindhouse Killer Burgers"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 1243
+    },
+    {
+      "hl": "es",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Kiran J.",
+        "user_id": "G71FbozkbK7yNhARGpJn1g",
+        "link": "https://www.yelp.com/user_details?userid=G71FbozkbK7yNhARGpJn1g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JeeDvOwJXs2lIoFdAz4JkA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 198,
+        "photos": 42,
+        "reviews": 41
+      },
+      "comment": {
+        "text": "My go to burger place in Atlanta! Been there so many times and just now realizing they have several locations! Most recently we went, we got the  Grindhouse Style Burgers but this time also tried their dirty fries. Oh my goddddd. My mouth is watering writing this review two days later. I dont even like chili but their Brisket chili had me licking the bowl. It was spicy by itself too but loved it on the fries with all other toppings. We ordered takeout but ate on their patio. So they gave us the chili on the side, so the fries don't get soggy, which I do prefer. Can't believe I had never tried those fries before. Def will be getting those or at least the chili every time we go. Brisket chili. Wow. Just wow.",
+        "language": "en"
+      },
+      "date": "2020-12-31T03:32:34Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FoUeADmHTPVKakTuLmmZfQ/o.jpg",
+          "caption": "Grindhouse Style Burger with Crinkle Cut French Fries"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Dk8C6dEufOWHp8mjLM-8BQ/o.jpg",
+          "caption": "Right- Dirty South Fries with Championship Brisket Chili on the side; and left - Grindhouse Style Burger and Crinkle Cut French Fries"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Kristine F.",
+        "user_id": "QiG_jnC0dvnNVCl5yr-tGg",
+        "link": "https://www.yelp.com/user_details?userid=QiG_jnC0dvnNVCl5yr-tGg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pIxQvjlUM2nz0JLq4VAgYw/180s.jpg",
+        "address": "Kennesaw, GA",
+        "friends": 6,
+        "photos": 39,
+        "reviews": 32
+      },
+      "comment": {
+        "text": "If I didn't have to worry about calories, I'd be here every night. \n\nClosest thing to the best chili cheese fries I left back in Cali and they make a simple burger taste 5 star. \n\nGot a large marge and almost didnt make it. Either I'm getting older or I'm just a lightweight but damn, I had to sit out on the patio and sip slow",
+        "language": "en"
+      },
+      "date": "2019-10-09T19:11:43Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D2cECmWLiA00KkFmpC51jA/o.jpg",
+          "caption": "Fries w/chili and cheddar and grindhouse style burger."
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jose A.",
+        "user_id": "A17gO96FNAJ3VoI-v0k-Gg",
+        "link": "https://www.yelp.com/user_details?userid=A17gO96FNAJ3VoI-v0k-Gg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SoUlHQO5jZf2XFHr8g2CTA/180s.jpg",
+        "address": "Northside, Jacksonville, FL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "The grind house at ATL airport was terrible compared to the one on Piedmont Rd. Very greasy",
+        "language": "en"
+      },
+      "date": "2022-06-12T15:52:34Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Al M.",
+        "user_id": "MEYWD3nf64p3INCsJ5KOaA",
+        "link": "https://www.yelp.com/user_details?userid=MEYWD3nf64p3INCsJ5KOaA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gB5xWy-tcIApaUkh2yEyqQ/180s.jpg",
+        "address": "Ann Arbor, MI",
+        "friends": 2017,
+        "photos": 5632,
+        "reviews": 626
+      },
+      "comment": {
+        "text": "It's late on a Friday night after flying into Atlanta from the Motor City and your body is yearning for a little protein action.  \n\nOf the many options the Peach has to offer, we chose the casual-no frills Grindhouse with it renowned Killer Burgers. \n\nDespite the late hour, there're is the ever-present line out the door which takes about 15 minutes to wade through. \n\nOrdering a double Beef Monster Burger with its ground chuck and brisket blend, we found a seat and grabbed a cold one at the bar. \n\nI added grilled onions and sautéed 'shrooms to my burger with an order of the Grindhouse's Visalia Onion Rings. \n\nThis was a solid 4-star hit of protein when you're in need in the ATL. Recommended late-night fare.",
+        "language": "en"
+      },
+      "date": "2019-05-19T17:49:54Z",
+      "rating": 4,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8GWzu8xRTXuEoZfloeNtYw/o.jpg",
+          "caption": "10:30 pm on a hot Friday night in the  Peach."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ca0gZjSwfc7rn3JDjgx_GQ/o.jpg",
+          "caption": "Covered open-air seating."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/y5edi_pbNb6mh2RD3NPsLQ/o.jpg",
+          "caption": "It's Friday!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vAEDvkQQMxXEg34ddWzAZA/o.jpg",
+          "caption": "Busy bar."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/shJ47dBK_ixUR5AGtpiRWQ/o.jpg",
+          "caption": "Fried Pickles w/ Grindhouse Sauce....recommended."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nNplqQQWj58uUEES1hm-kA/o.jpg",
+          "caption": "Juicy ground chuck-brisket combo..a double!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/amOSqlTY4Cc9JniojfgPag/o.jpg",
+          "caption": "Comfort food at its best."
+        }
+      ],
+      "feedback": {
+        "useful": 40,
+        "funny": 21,
+        "cool": 42
+      }
+    },
+    {
+      "user": {
+        "name": "Chris M.",
+        "user_id": "cOAPYZkZSYlc8oXK5Sf-lg",
+        "link": "https://www.yelp.com/user_details?userid=cOAPYZkZSYlc8oXK5Sf-lg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tqLn2c2nnWAkXYNTIGJhFQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 98,
+        "photos": 853,
+        "reviews": 175
+      },
+      "comment": {
+        "text": "First off, there are some parking issues, their parking lot was full so we slowly navigated other cars looking for spots for a few minutes before street parking nearby. Not a big deal, but keep that in mind. Next up was the very unfriendly cash register operator, which was one of 2 people we encountered during our visit. She was clearly having a bad day (slamming cups down, unfriendly, unhappy), but definitely shouldn't have been on the registered as one of the only person guest interact with.\n\nOk with the negatives out of the way... let's get to the burgers, which matters most. We ordered a \"junior\" (single patty) hillbilly burger with pimento cheese, brisket chili and jalapenos... oh it was delicious. The fries were tasty and crispy. We also had an impossible burger (single patty) and to that I added pepper jack cheese and brisket chili. They chili is an amazing topping for these burgers, would recommend for sure. The impossible burger patty (available at many places nowadays) was almost indistinguishable from the standard beef burger... but with no meat! Incredible!\n\nThe sweet potato fries were probably a bit tastier than the normal fries, mostly because they were crispier, which is my preference. Overall, very tasty burgers, without being too greasy or messy. Interesting topping options and pre-selected burger options compared to basic burger spots.\n\nThe only other downside is that despite the large patio, dogs are only allowed outside the patio... aka 1-2 tables next to the parking lot, probably not a great place to bring your dog (thankfully we did not).",
+        "language": "en"
+      },
+      "date": "2019-07-30T15:17:22Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E3W1x8PAzpnG3V8H3P1T7g/o.jpg",
+          "caption": "Hillbilly burger"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8pmy0-TNdiye6aewMvxZxA/o.jpg",
+          "caption": "Patio"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Maeghan E.",
+        "user_id": "eonBtjXTwEa9XLO2dKWOog",
+        "link": "https://www.yelp.com/user_details?userid=eonBtjXTwEa9XLO2dKWOog",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/szgO2Mp_48Jqji4ae5kkCQ/180s.jpg",
+        "address": "Southwest Jacksonville, Jacksonville, FL",
+        "friends": 201,
+        "photos": 94,
+        "reviews": 57
+      },
+      "comment": {
+        "text": "Our go to burger joint in Atlanta! We love their burgers and the selection they offer. The drinks are a great pairing for anything you choose. Thanks for the quick service and following COVID guidelines.",
+        "language": "en"
+      },
+      "date": "2020-12-24T18:55:13Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AZ_s0qvRuiq5Oj31TTYPkg/o.jpg",
+          "caption": "Double cowboy burger"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8Wb46nJTgslTaVq2bz0wYg/o.jpg",
+          "caption": "Impossible burger gringo style"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Carla J.",
+        "user_id": "XOKMY_UD0x-F8jIE4eEsrw",
+        "link": "https://www.yelp.com/user_details?userid=XOKMY_UD0x-F8jIE4eEsrw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TOr3enqbX-WmPFoIkzkwRQ/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 9,
+        "photos": 175,
+        "reviews": 78
+      },
+      "comment": {
+        "text": "As fast as cookout but better! Great burger and beer options . Staff is pleasant and the restaurant is clean. There's usually a long line at lunch time but it moves fast. Burger was slightly over cooked but I will return.",
+        "language": "en"
+      },
+      "date": "2021-03-08T16:13:37Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wtB_lNIJHm62zr7k5IGKHA/o.jpg",
+          "caption": "Cowboy Style Turkey Burger (Junior) with Brussel sprouts"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3VQCN9Vh5-iufs454e_dYw/o.jpg",
+          "caption": "Bar area"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5KnO7M-7QytcI7R5n_7Uag/o.jpg",
+          "caption": "Cowboy Style Burger combo (Junior size)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MUsl7QUOx3up3mX7zWjG0Q/o.jpg",
+          "caption": "Outdoor seating"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Thzu-oSyh3IK97nfGAbjOA/o.jpg",
+          "caption": "Menu"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brittany H.",
+        "user_id": "djwK1sVoBGRK--Nli3INUw",
+        "link": "https://www.yelp.com/user_details?userid=djwK1sVoBGRK--Nli3INUw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NuEhs1IqMn_7X0zrQjxlcw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 275,
+        "photos": 128,
+        "reviews": 99,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Want a burger that's 100% beef no additives?! You've found it here. Make sure you get it medium. It's juicy, well seasoned and all around amazing. I normally get jr beef burger medium with ketchup,mustard Grindhouse sauce and bacon. It's so good I can't put it down. I'll drive up to 20mins when I'm craving a burger. Friendly upbeat staff and overall clean establishment for the amount of traffic.  \n\nParking can be a bit rowdy but it's worth it.",
+        "language": "en"
+      },
+      "date": "2019-12-23T09:33:42Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tonya K.",
+        "user_id": "dUiZH7E5Pd-upJHHm6F92w",
+        "link": "https://www.yelp.com/user_details?userid=dUiZH7E5Pd-upJHHm6F92w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/i7dGKryhITDg5WNcFl4VCA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 57,
+        "photos": 487,
+        "reviews": 145
+      },
+      "comment": {
+        "text": "Not quite Chicago's Au Cheval but close enough. My burger was juicy and made just the way I wanted. The fries were good. My daughter ordered the fries with cheese and bacon and it was enough for four people, so if youth thinking of ordering them please note that it's enough to share with the table. \n\nThe parking is terrible and don't look for over friendly servers since it's quick service.",
+        "language": "en"
+      },
+      "date": "2019-11-16T00:28:37Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/p3vO7pCqGXvljMWGiFUoTQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Christina I.",
+        "user_id": "aTUwAufITMXwJN8Y91zSDg",
+        "link": "https://www.yelp.com/user_details?userid=aTUwAufITMXwJN8Y91zSDg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Tl56908e3ZoPoQ-djG-0OQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 226,
+        "photos": 308,
+        "reviews": 247,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I can say Grindhouse is one of the best Atlanta chain burger joints....\n\nThis location has limited parking so be aware during peak meal times. Once you walk in, it's a total vibe. It's got this cool dive bar in space aura with a big projector that is always showing cool films. There's a good bit of indoor and outdoor seating which is great on lazy summer nights. \n\nFood wise, Grindhouse is great. Start easy with the traditional Grindhouse style burger. The burgers are melt in your mouth good. The buns they use are soft and before you know it, it's done. The fries are traditional krinkle fries which they give a healthy portion of. Grindhouse has decent milkshakes but is one of the few places with boozy milkshakes which are also yum but very specific flavors so beware. \n\nOverall I love Grindhouse and it's one of the first places I recommend to anyone looking for a great burger in town especially with all the locations!",
+        "language": "en"
+      },
+      "date": "2019-12-16T23:47:33Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ryan S.",
+        "user_id": "nzaKwYFdrd9MOHwM6dhdtA",
+        "link": "https://www.yelp.com/user_details?userid=nzaKwYFdrd9MOHwM6dhdtA",
+        "address": "Duluth, GA",
+        "friends": 154,
+        "photos": 1,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "Great food!! Like the atmosphere! Just about the normal on price in the area! The have indoor and outdoor seating",
+        "language": "en"
+      },
+      "date": "2022-10-13T19:18:45Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tari O.",
+        "user_id": "WoEfl5cpreTvMC5d_0UOMQ",
+        "link": "https://www.yelp.com/user_details?userid=WoEfl5cpreTvMC5d_0UOMQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gD-MhWOJt8aTfs2KeS_eDA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 170,
+        "photos": 2846,
+        "reviews": 791,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I recently ordered online a pickup order from Grindhouse. It was surprisingly easy and my order was neatly packed and organized! I ordered the impossible burger with a lettuce wrap instead of the bun. The impossible burger was cooked properly(not dried out like I've seen occasionally). The only concern was that the burger was just laid on top of 2 pieces lettuce. It was not a wrap at all. \n\nAs an FYI there's also an upcharge for the impossible burger.",
+        "language": "en"
+      },
+      "date": "2019-04-17T18:57:24Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sukesh Hickson M.",
+        "user_id": "GQFPFDCa3qUU9RBMy0muUg",
+        "link": "https://www.yelp.com/user_details?userid=GQFPFDCa3qUU9RBMy0muUg",
+        "address": "San Francisco, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Had a great time. \nBurger was awesome. Also ordered the artichoke starter. Was pretty good.",
+        "language": "en"
+      },
+      "date": "2022-05-19T20:26:53Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chioma I.",
+        "user_id": "cfMgTfD4TkPhjdTd6OfYCQ",
+        "link": "https://www.yelp.com/user_details?userid=cfMgTfD4TkPhjdTd6OfYCQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Qizjg-N5FNZ8N_8Z1Zv5iw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 72,
+        "photos": 726,
+        "reviews": 190,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "It took several tries before I was able to get through and place an order for pick-up one Sunday. I'm not going to embarrass myself and say how many times I tried but I really wanted that Impossible burger! When I went to pick up my order I could see why it took sooo long. The place was packed and the line for ordering was long. Fortunately I was able to bypass it and checkout at the bar. The total was $16 and some change for my Junior Apache Impossible burger with cheesy poofs (what Southerner can resist fried pimiento cheese?!). Everything was really good. The impossible burger definitely lives up to the hype. As a meat eater I wouldn't have known this was plant-based meat if you hadn't told me. Not sure what trickery/voodoo they're doing in the kitchen but as long as it's safe I'm here for it. The cheesy poofs were just that, cheesy balls of fried pimiento cheese. Can't go wrong here. I found the sweet chili sauce it came with to be a little funky. Weird since I typically like sweet chili sauce. I ended up having them with the chipotle ranch sauce instead and it was delicious. I'd order the burger or poofs again without question. \n\nParking is tight to say the least. I lucked out and someone was pulling out as I got there but if you go during peak times you may be playing a game of parking lot musical chairs for a while waiting for someone to leave.\n\nDefinitely worth checking them out if you're looking for a good plant-based burger.",
+        "language": "en"
+      },
+      "date": "2019-03-14T00:55:04Z",
+      "rating": 4,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6Am71jOQWeys74f1VdYueA/o.jpg",
+          "caption": "Interior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TCgi_HOaZngXr52YVnBQUg/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bDBLEVYr7N9TXU2ywucm6w/o.jpg",
+          "caption": "Cheesy poofs. Delicious. Skip the funky sweet chili sauce they come with and get the chipotle ranch instead. You're welcome."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EVCgPn9duB7D7FQAbXmqYQ/o.jpg",
+          "caption": "Junior Apache style Impossible burger. Delicious. Highly recommend for vegetarians and meat eaters alike."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6Slpbtif7YXer5kQQD9fJw/o.jpg",
+          "caption": "Junior Apache style Impossible burger. Delicious. Highly recommend for vegetarians and meat eaters alike."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KKBCZw6l44IpPkQUz-5PKQ/o.jpg",
+          "caption": "Inside of the cheesy poofs. Delicious. Highly recommend. Get it with the chipotle ranch sauce."
+        }
+      ],
+      "feedback": {
+        "useful": 6,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Gretel Y.",
+        "user_id": "nhlXSTW453F3587FKo-Rsw",
+        "link": "https://www.yelp.com/user_details?userid=nhlXSTW453F3587FKo-Rsw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/abwpL-XlX1alsz5Uwb14tg/180s.jpg",
+        "address": "Gilbert, AZ",
+        "friends": 2401,
+        "photos": 9238,
+        "reviews": 1286,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Grindhouse, you hamburgled my heart!\n\nStopped by for lunch one weekend. Parking is limited, so we parked on the street. Grindhouse is a counter service restaurant. The counter is right by the entrance. The restaurant is a decent size with plenty of seating indoor and heated and covered outdoor. Cool decor.\n\nIt was very busy when we arrived, and there was a short line at the counter. When it was our turn to order, the gentleman at the counter greeted us and was very patient with us as we asked questions and took some time ordering. We went with the following:\nFried Pickles $4.99\nImpossible Burger Dixie Style (double) $8.99\nTurkey Grindhouse Style (junior) $5.99\nCrinkle Cut Fries $2.50\nMai-Chete $8\n\nThe fried pickles were delivered to our table hot and crispy. It was so hot we actually had to wait a few minutes to eat it. Hubs got the Impossible Burger which is a plant-based meat substitute patty in Dixie Style: pimento cheese, fried green tomato, carolina cole slaw, and chipotle ranch. I took a bite of his burger and couldn't believe it was meatless. It had great texture and flavor. I ordered the Turkey burger, Grindhouse Style. It came with American cheese, grilled onions, lettuce, pickles, and grindhouse sauce. It was amazing! Probably the best turkey burger I've ever had. I ordered a junior, which is a single patty and it was plenty for me. The fries were good. I also had the Mai-Chete which consists of pineapple, lime, and guava mai tai, bali hai tiki gold rum, and tabasco. I am a wuss when it comes to alcoholic drinks, so it was strong for me, but I enjoyed all the flavors. The hubs also ordered a beer, but I don't remember the name of it.\n\nI'm glad I finally got to try GKB. It has been on my list for a long time, and it didn't disappoint! Can't wait to try other burger styles!",
+        "language": "en"
+      },
+      "date": "2019-02-25T14:09:05Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jdcwZG2Q5ZFslofh05aIaw/o.jpg",
+          "caption": "Outside"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PGip3luMbrXy_cdwqHF_zA/o.jpg",
+          "caption": "Turkey Burger Grindhouse Style Junior Stack $5.99 + Fries $2.50 & Mai-Chete drink $8"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6uZIqmoG43Sn7gcs4DwkgQ/o.jpg",
+          "caption": "Turkey Burger Grindhouse Style Junior Stack $5.99 and The Impossible Burger Dixie Style Double Stack $8.99 + Fries $2.50"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RGoUNRCm_iSzXR4amPJXeg/o.jpg",
+          "caption": "The Impossible Burger Dixie Style Double Stack $8.99 (top) and Turkey Burger Grindhouse Style Junior Stack $5.99 (bottom) + fries $2.50"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xHDdOfsukQMEok_FX0bW6g/o.jpg",
+          "caption": "Fried Pickles $4.99"
+        }
+      ],
+      "feedback": {
+        "useful": 9,
+        "funny": 1,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Aly S.",
+        "user_id": "M-DYA_hDSqrPacMAuG3mpg",
+        "link": "https://www.yelp.com/user_details?userid=M-DYA_hDSqrPacMAuG3mpg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3jyaRNx4vZ_M8RF8FUMYNQ/180s.jpg",
+        "address": "NORTH HOLLYWOOD, CA",
+        "friends": 510,
+        "photos": 69,
+        "reviews": 178,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Oh heellllll ya. \n\nThis spot is incredibly customizable, great prices and delicious food. \n\nFried pickles...... don't forget them. \n\nI will be back and I can't wait try more items!!!!",
+        "language": "en"
+      },
+      "date": "2019-11-02T01:09:01Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Breoni M.",
+        "user_id": "34K6YxU-EjR-eQ_Yl7XiQg",
+        "link": "https://www.yelp.com/user_details?userid=34K6YxU-EjR-eQ_Yl7XiQg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VvLm6M2T7Wl8NcoYdu5Qvg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 30,
+        "photos": 321,
+        "reviews": 75
+      },
+      "comment": {
+        "text": "Been coming here since I saw on triple D years back. And booooy Guy Fieri, doesn't disappoint. This joint is slammed with people every time I stop in. \n\nBlack bean burger- packed with flavor. Doesn't fall apart like some veggie burgers. \nToppings - jalapeños , mixed greens, onion, pepper jack cheese and tomatoes. \n\nImposible burger- its just that, impossible !! First time trying it here and I'm glad I waited. It's full of flavors and you would never think it was a vegan alternative. I smelled it about a million times in disbelief. Just try it !!! \n\nCrinkle fries - banging' !! Nicely seasoned and fried to perfection. Not to crispy and not to soft. \n\nStaff- welcoming, very up beat , lively crew here. Personalities are vibrant. \n\nCustomer service - second to none. Staff member go out there way to assist you in any selection and making sure your food experience is  to your expectations. \n\nParking -limited .... I usually park across at the sprouts out front.",
+        "language": "en"
+      },
+      "date": "2019-09-28T00:20:09Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/THnOoKnSLYIF9NbWEsjsEQ/o.jpg",
+          "caption": "Black bean burger/Crinkle fries & sauces"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yw_-cdwHJUlF2CJZmoGKEg/o.jpg",
+          "caption": "Impossible burger"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/U7YZxXDfmYykGhXFcvj_aw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brad M.",
+        "user_id": "gpEGnPufL_L9sdrEbUuiYg",
+        "link": "https://www.yelp.com/user_details?userid=gpEGnPufL_L9sdrEbUuiYg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/f_Mo24t1JKLHL_fmluldeQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 24,
+        "photos": 47,
+        "reviews": 78,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Grindhouse is on my short list of best burgers in Atlanta.  You can tell their beef is of high quality, and they offer a variety of alternative meats that are also great (have not tried the Impossible yet).  The french fries are excellent and I love that they offer a twice-fried extra crispy option...nothing worse than soggy fries!  The hot dogs are also very good, though note if you opt for the chili topping it has a decent kick to it.  Also excellent are the sweet potato chips; oddly the Piedmont location seems to offer them only as an appetizer.  The atmosphere is very cool (you'd be hard pressed to find a more diverse clientele in ATL), but if you're wanting carry out check out the app...it makes ordering really easy and you can customize your order any way you like.  If it's a nice day and you have time, eat on the generously-sized patio.  Overall, highly recommend Grindhouse for satisfying your burger cravings!",
+        "language": "en"
+      },
+      "date": "2021-11-04T16:51:40Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kara T.",
+        "user_id": "cIEqkm4ZwsAjiOujXr6NOw",
+        "link": "https://www.yelp.com/user_details?userid=cIEqkm4ZwsAjiOujXr6NOw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5bO88ZdEF756CwWszpuwZQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 314,
+        "photos": 682,
+        "reviews": 255,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The first time I had a Grindhouse burger was at the airport. The consistent quality there encouraged me to head to their real location on Peachtree. I was very pleasantly surprised by the more expansive and creative menu and clean, open, garage-themed ambience. \n\nI order the veggie burger with all of the vegetables, ketchup, and diablo (dark-colored smoky homemade hot) sauce. There is a large list of free veggie add-ons. Next time I will order the burger more well-done so maybe it won't be quite as soft, but the flavor is great. All of the burgers come on a soft, buttery classic bun that isn't too thick and compliments the burger well. It collapses some when it's wrapped up to go, but the prettiest burgers aren't usually the tastiest anyway. Their sweet potato fries are the best I've ever had. They are not sweet at all. They ARE crispy! Crispy is a feat when it comes to sweet potato fries! Mmm. \n\nThey also have a full bar, local beer on draft and in cans, and a nice list of boozy milkshakes that I didn't try but all sound AMAZING. I want to go back and dine-in... desserting with one of their creations. Their prices are reasonable and food delicious.",
+        "language": "en"
+      },
+      "date": "2017-03-06T19:44:47Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Y_8AkdMktmQY5IOtfw7F8w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FbOK_7Di8nzLJjlYJDl2hA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 1,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Janea W.",
+        "user_id": "h_ePrU9YCHDzdP-VFvnWZw",
+        "link": "https://www.yelp.com/user_details?userid=h_ePrU9YCHDzdP-VFvnWZw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TBE3IYYwKCSYSEJBj6CKsw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 3,
+        "photos": 28,
+        "reviews": 26
+      },
+      "comment": {
+        "text": "My cowboy burger was soooo good.The app made it very easy to order .I was in and out; Also the employees were very friendly and approachable which is always nice.Will be back.",
+        "language": "en"
+      },
+      "date": "2021-02-14T09:43:30Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/K9-thkixpIBC6BdQ9cZCFQ/o.jpg",
+          "caption": "Cowboy style burger \"medium\""
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Asha S.",
+        "user_id": "Y9NP1eJ_lo5CoxhYfhu2Sg",
+        "link": "https://www.yelp.com/user_details?userid=Y9NP1eJ_lo5CoxhYfhu2Sg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1uY41nEggY5ZNMUcdKhTaA/180s.jpg",
+        "address": "Duluth, GA",
+        "friends": 55,
+        "photos": 633,
+        "reviews": 204
+      },
+      "comment": {
+        "text": "I tried this place after reading the rave reviews and hearing great feedback from some co-workers. When I got to Grindhouse, I lucked out and got a parking spot right next to the entrance. My friends were not so lucky. Grindhouse has limited parking and it's kind of tight and hard to navigate. Depending on how busy they are, be prepared to park a few blocks down or along the residential street that runs up to the restaurant. \n\nThere will definitely be a line during lunchtime. My friend honestly just ordered her meal online for pickup instead of waiting in the long line! \n\nI tried the Yankee cheese burger with sweet potato fries and it was a decent meal. Not going to lie, I wasn't as blown away by the burger as I was hoping to be... don't kill me hardcore Grindhouse fans, but I liked my Culver's burger better than this one. Don't get me wrong, it wasn't bad, it just wasn't necessarily anything special or memorable. \n\nThe sweet potato fries were pretty good. Nice and crispy and seasoned well. \n\nThe service here was pretty good considering how busy they were during the lunch rush. A server/host was assigned to the outside patio area where we were seated and did an great job running around getting everyone condiments, silverware, and anything else we tracked him down for.",
+        "language": "en"
+      },
+      "date": "2019-06-05T16:57:10Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Mij_2J5AYGjInaVSnaEZhg/o.jpg",
+          "caption": "Menu 5.17.2019"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JGtuRLwVzlWqiHzDy8ljew/o.jpg",
+          "caption": "Yankee burger on lettuce wrap with sweet potato fries"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NPvVrAIzgGTuvYhRp6VVuw/o.jpg",
+          "caption": "Inside waiting in line"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rochelle W.",
+        "user_id": "vao6oF3sO8wMD9VqA6V8Kg",
+        "link": "https://www.yelp.com/user_details?userid=vao6oF3sO8wMD9VqA6V8Kg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8MFYR_z2fqd_afDHY2k7Rg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 196,
+        "photos": 953,
+        "reviews": 261,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place will always be my favorite place as long as they continue to put out the impossible burger and have a burger any Grindhouse burger way absolutely love them all locations conveniently have great parking in the location that I'm at today actually has seating if you want to bring your dog to enjoy a quiet house burger as well",
+        "language": "en"
+      },
+      "date": "2019-05-24T22:20:07Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9sHBnvfpZjaVeChDpzKpvQ/o.jpg",
+          "caption": "Impossible Burger aka the cowboy"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jQKqSGnE4YI08MgRnjIrHw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Priya K.",
+        "user_id": "8ZHraSLx7xGwRROZplhLxw",
+        "link": "https://www.yelp.com/user_details?userid=8ZHraSLx7xGwRROZplhLxw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yrEfrgBjxm7H2eODrERqzw/180s.jpg",
+        "address": "Lilburn, GA",
+        "friends": 137,
+        "photos": 16,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "I loved the burgers here! The variety of patties are nice and convenient since anyone can eat there. We got a double Grindhouse burger and a junior (1patty) hillbilly burger, both cooked medium. The Grindhouse burger had caramelized onions and a homemade sauce. The hillbilly had some freaking awesome chili and jalapeños! My main complaint would be that the burgers were over cooked. The fries were seasoned with some sort of Cajun tasting seasoning. All together, it was a great experience!\n\nPlus the outside is pet friendly. We love a pet and vegan friendly location.",
+        "language": "en"
+      },
+      "date": "2019-07-06T17:26:26Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-T9uxI63fFOUY9f05pBiKQ/o.jpg",
+          "caption": "Hillbilly burger junior! (Left) Grindhouse burger double! (Right)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hhOVY1HLJg_ceiW1xqvrKA/o.jpg",
+          "caption": "Double Grindhouse burger, fries, drink"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/inZFVxAK7RYsq7NnwB503g/o.jpg",
+          "caption": "Junior Hillbilly burger, fries, drink"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Timothy S.",
+        "user_id": "6WqCQmPFlwWLEBm_HiOJ2A",
+        "link": "https://www.yelp.com/user_details?userid=6WqCQmPFlwWLEBm_HiOJ2A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/R1mUGojCHgQ0EfeMmgRPAg/180s.jpg",
+        "address": "Pooler, GA",
+        "friends": 59,
+        "photos": 230,
+        "reviews": 108,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Be prepared to find somewhere close to the restaurant to park due to the small parking lot like most places in Atlanta. Great atmosphere for both inside of outside. They have good selections at the bar and even boozy shakes assuming you aren't stuffed after your meal lol. This is easily the juiciest burger I've ever had it was so delicious. The diablo sauce had a nice pepper kick to it to complement the burger. I'm not the biggest fan of crinkle cut fries but these were legit. They give you plenty of cheese and bacon and the fries are perfectly seasoned as well. The service is great and the food didn't take long at all surprisingly since they had a pretty good crowd. The price you pay is easily worth it for the great quality you get. Was gonna get a shake but I was completely stuffed. Next time I'm in Atlanta I'm definitely getting one.",
+        "language": "en"
+      },
+      "date": "2019-05-05T03:46:12Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E2fgGTmzC_nEc36HToVoQw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Joy M.",
+        "user_id": "9nTfUFQzynwchNGqEtg_qw",
+        "link": "https://www.yelp.com/user_details?userid=9nTfUFQzynwchNGqEtg_qw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MLorgW_JyHggAmtJlN3prg/180s.jpg",
+        "address": "Conyers, GA",
+        "friends": 3,
+        "photos": 116,
+        "reviews": 90
+      },
+      "comment": {
+        "text": "Grindhouse was awesome as always. The burgers were juicy and filling. Those dirty south fries were to die for. I ordered a yankee double burger and bf ordered a grindhouse double turkey burger. Just delectable!!!! On top of the excellent food the service was just as wonderful. Shout out to the bartenders for their impeccable service. Great job to the chefs and everyone providing service at this location.",
+        "language": "en"
+      },
+      "date": "2020-11-20T19:05:35Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xoPJwtKLCI6MsfLAqhLcXg/o.jpg",
+          "caption": "Dirty South Fries!!!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bjuzpgJD6z-nWxC9NCTENw/o.jpg",
+          "caption": "Double yankee burger"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Katie H.",
+        "user_id": "E3_J84yoe6zAm7ZM5HUuHQ",
+        "link": "https://www.yelp.com/user_details?userid=E3_J84yoe6zAm7ZM5HUuHQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/jGOi3TWmL5bbeP0uBYOLRQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 344,
+        "photos": 11,
+        "reviews": 59
+      },
+      "comment": {
+        "text": "Props on offering a beyond burger option! But there are no vegan cheese or good spread options for plant based diets and no indication whether the buns are vegan",
+        "language": "en"
+      },
+      "date": "2022-01-20T03:19:36Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Taylor C.",
+        "user_id": "lvncxjNHe-2UYtyngse8QA",
+        "link": "https://www.yelp.com/user_details?userid=lvncxjNHe-2UYtyngse8QA",
+        "address": "New Tacoma, Tacoma, WA",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Ordered the yankee burger and added avocado, frings, side of chipotle ranch, and their house lager with lime. All of it was incredibly good, well cooked, and full of flavor that isn't your run of the mill. It's seat-yourself seating in or outside. Patio is super comfortable and spread out and it's a nice feel in the neighborhood if you like the city but also don't want to be in a clogged area. Super nice and helpful staff. Just a traveler passing through, but I'll definitely come back.",
+        "language": "en"
+      },
+      "date": "2022-04-28T01:13:41Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2jL-W4RDrpJS4cKYpYKJkg/o.jpg",
+          "caption": "Burger, frings, beer"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shantel M.",
+        "user_id": "JRbfCqE3maYmf0xI8XqgtQ",
+        "link": "https://www.yelp.com/user_details?userid=JRbfCqE3maYmf0xI8XqgtQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-dQKCXdVOHWmZa1U91j9Iw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 129,
+        "photos": 624,
+        "reviews": 189,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place was decent. I had chili dogs and fries and a banana shake. The chili dogs were really good. The banana shake tasted like nothing but sugar and maybe a little bit of banana flavoring. I did enjoy the fact that it has easy order for pickup through their app which was nice. The parking lot had a huge dip which since my car is low it is a negative. Not that many spaces. Overall think there are other burger joints out there",
+        "language": "en"
+      },
+      "date": "2019-08-11T02:35:20Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TSfWeRVPnkLtv_PLAY-0Nw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/k7UbhgyI3ZHh8iU050FHEg/o.jpg",
+          "caption": "Menu"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Michaela R.",
+        "user_id": "oMcBz3NfDnpJ0ktVosC1cw",
+        "link": "https://www.yelp.com/user_details?userid=oMcBz3NfDnpJ0ktVosC1cw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/w9XE721Q4KNX3vjmntMyhw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 471,
+        "photos": 229,
+        "reviews": 81
+      },
+      "comment": {
+        "text": "Just finished a killer workout and was craving a turkey burger. Went on yelp and found this gem!\n\nWalked in pretty late around 9:30pm. Ample parking, well lit restaurant, and areas for both a chill and vibrant vibe. \n\nOrdered the create your own junior turkey burger with sweet potato fries. The prices were very affordable - I believe my meal was about $8. \n\nThe order was pretty long (I took my food to go) but WELL worth the wait. \n\nI snuck a bite of fry on the way home and was instantly excited for when I could sit down and dive in. \n\nTook my first bite of the turkey burger and my eyes lit up. IT WAS SO GOOD and juicy! \n\nI live very close so I will 100% become a regular here. Delicious food. Good prices. Good vibes!",
+        "language": "en"
+      },
+      "date": "2019-10-31T02:07:40Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8_gkTsQwthaNTUCbMkQTVg/o.jpg",
+          "caption": "Turkey burger with sweet potato fries"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rachel M.",
+        "user_id": "3Qd3m7jEe3LoiL6I49tY_w",
+        "link": "https://www.yelp.com/user_details?userid=3Qd3m7jEe3LoiL6I49tY_w",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 0,
+        "reviews": 26
+      },
+      "comment": {
+        "text": "Grindhouse has one of my favorite burgers around! Highly recommend the Grindhouse burger with fries and extra Grind House sauce. The prices are extremely affordable and the food is always consistently great! Awesome beer prices as well!",
+        "language": "en"
+      },
+      "date": "2022-09-07T15:54:36Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Taelor C.",
+        "user_id": "GPL_U2ukfEIYSgMnC7D3DQ",
+        "link": "https://www.yelp.com/user_details?userid=GPL_U2ukfEIYSgMnC7D3DQ",
+        "address": "Snellville, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Super delicious, the workers are very nice and give speedy service ! They'll have your food out before you can press order.",
+        "language": "en"
+      },
+      "date": "2022-10-21T01:18:06Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Evelyn N.",
+        "user_id": "ZOB_mpq5ftFgXKRUYjM8ow",
+        "link": "https://www.yelp.com/user_details?userid=ZOB_mpq5ftFgXKRUYjM8ow",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BXvBMKgIpTmSQGdl5z_E8w/180s.jpg",
+        "address": "Woodstock, GA",
+        "friends": 346,
+        "photos": 193,
+        "reviews": 125
+      },
+      "comment": {
+        "text": "SO GOOD.  Came here specifically because I'm from L.A. and was craving a burger from Tommy Burgers and I saw Grindhouse has a chili burger. While it's not identical, it was still super freakin good and totally worth the cheat meal . \n\nTip: There was a giant line so I ordered using their app and I got my food way before everyone I would have been in line with :)",
+        "language": "en"
+      },
+      "date": "2020-10-17T23:54:51Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Summer B.",
+        "user_id": "Gl2rKlRGvdSfDhAeJp00eg",
+        "link": "https://www.yelp.com/user_details?userid=Gl2rKlRGvdSfDhAeJp00eg",
+        "address": "San Francisco, CA",
+        "friends": 0,
+        "photos": 13,
+        "reviews": 37
+      },
+      "comment": {
+        "text": "Less than 15 bucks for a goooood quality burger and fries! The bun being gluten free was the icing on top of the cake. Like that you order at the front and wait for it to come out and then you eat it at the table. Would highly recommend!",
+        "language": "en"
+      },
+      "date": "2022-04-17T17:49:08Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gAtwhovBfKFfL2weyoj-Ug/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Leshonda K.",
+        "user_id": "PHgwdjdZCHp7qkFa2LYSEw",
+        "link": "https://www.yelp.com/user_details?userid=PHgwdjdZCHp7qkFa2LYSEw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-ANfycNeKciGQp8QsYw6_g/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 46,
+        "photos": 316,
+        "reviews": 176,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I love that they now have the Impossible Burger for those that dont eat meat. The onion rings are also great the onion is cut thick. The line is long if you go early in the day, however the food comes out pretty quickly.",
+        "language": "en"
+      },
+      "date": "2019-07-06T23:01:17Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qQuBN80E6VI-0RzGbIRGpw/o.jpg",
+          "caption": "Impossible Burger"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3XvSCuAmBnedntnhbCMrtQ/o.jpg",
+          "caption": "Plant Base Burger"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Simran A.",
+        "user_id": "VjMh5NdgZYXGaUVuGSHFeA",
+        "link": "https://www.yelp.com/user_details?userid=VjMh5NdgZYXGaUVuGSHFeA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/jEyU7WhPSw5tilfJG15OhA/180s.jpg",
+        "address": "San Francisco Bay Area, CA",
+        "friends": 95,
+        "photos": 107,
+        "reviews": 65
+      },
+      "comment": {
+        "text": "I was super shocked how good their burgers were! My friend and I needed some good ol'fashion hangover food to soak up the previous night so we weren't looking for anything extravagant, but this place was a shock with how delicious their food was! ALSO--LOAD UP ON THEIR LEMONADE. Not a lot of places make good lemonade but you can trust there's is worth it!",
+        "language": "en"
+      },
+      "date": "2021-08-22T00:59:01Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Randy C.",
+        "user_id": "IvVe8LaHBuhjEw6GvjhOoA",
+        "link": "https://www.yelp.com/user_details?userid=IvVe8LaHBuhjEw6GvjhOoA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Dma-2vBOyKI1kyneCH4DsA/180s.jpg",
+        "address": "Cleveland, TN",
+        "friends": 495,
+        "photos": 180,
+        "reviews": 723
+      },
+      "comment": {
+        "text": "I keep coming back to this Grindhouse, because it is pretty convenient when making the trip to, or from, Atlanta airport...and because they have The Impossible Burger.  Now I have always liked the veggie burgers at Grindhouse, but the boy LOVES the Impossible Burger, so there is that.  I get mine with green chiles, sometimes avocado...sometimes grilled onions.   \n\nThe side of slaw is pretty good.  Wife does the onion rings and they are one of the better rings out there, not greasy.  Fries are always good.\n\nWish they had more dark beers, but it is what it is.  Service has always been spot on.  Parking here is hit or miss...hopefully not literally.  ProTip, turn into the drive way parking area to the side, not the one off the side street.  The one off the side street has no way out and you have to turn the car around.  The other one, you can go behind the building and that puts you into the other parking area.  Worst case, park on the street.",
+        "language": "en"
+      },
+      "date": "2018-10-17T23:20:27Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BPCssKGNE5FyMXeeZWXDQw/o.jpg",
+          "caption": "Impossible Burger, less one bite. Side of fries. Side of slaw."
+        }
+      ],
+      "feedback": {
+        "useful": 5,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Alex R.",
+        "user_id": "7kP-m-9fDb4yO0iEU2WLRQ",
+        "link": "https://www.yelp.com/user_details?userid=7kP-m-9fDb4yO0iEU2WLRQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/eTup0EJ-JpzS_hea6Rx7Jw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 5,
+        "photos": 15,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Great burger. Soft, moist and seasoned perfectly. I'll totally be coming back. \nThe atmosphere of the place is very different, cool and really has its own style. It's like going back in time and going into an alternate modern burger joint. Love it!",
+        "language": "en"
+      },
+      "date": "2021-03-16T02:04:04Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Yuechen Y.",
+        "user_id": "qLMOGxrRPIIV12PUv2X1IA",
+        "link": "https://www.yelp.com/user_details?userid=qLMOGxrRPIIV12PUv2X1IA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NZW--y7v2Q9nCKLHkMaRkQ/180s.jpg",
+        "address": "Santa Rosa, CA",
+        "friends": 198,
+        "photos": 1958,
+        "reviews": 210,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Yay another delicious burger spot that you can't miss if you are in Atlanta. I came with my family on a Wednesday night, and it took us a while to find parking. There were some parking spots around the restaurant, but the spaces were very limited. You could try street parking in the back of the restaurant in the neighborhood though. \n\nThis is like the fancier version of In-N-Out. You order your food at the counter, get a number, and wait for the food to be delivered to your table. \n\nI ordered two make your own burgers with my own choice of meat and cheese. The meat was really tender and juicy. You could also customize your toppings as well, and some of the toppings might cost you a little extra. The burgers were both very delicious! I also got a side of the Onion rings, and a coffee milkshake. The onion rings tasted really plain to me and it didn't have that crispy texture, while the coffee milkshake was way too sweet...\n\nOverall, a great place if you want to have some delicious burgers! Maybe I'll try some of the beer selection they have, and order a side of fries instead of onion rings next time.",
+        "language": "en"
+      },
+      "date": "2016-09-30T02:21:52Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/x9EZ2WLbi1YlQ_cWN2I4oQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 7,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jes G.",
+        "user_id": "AIjA_jJQyAhoxtYd335Ekg",
+        "link": "https://www.yelp.com/user_details?userid=AIjA_jJQyAhoxtYd335Ekg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/iakChbgfGOwWsgoV-If8iA/180s.jpg",
+        "address": "New Orleans, LA",
+        "friends": 409,
+        "photos": 406,
+        "reviews": 750,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Spent the morning in Piedmont Park playing with the puppy and needed some serious sustenance on a hot May afternoon to keep us going!\n\nSaw that Grindhouse was dog-friendly on the patio and decided to give it a go.  Ordered a burger Dixie-style, mostly because I had brought my puppy Dixie, but also because it comes with Pimento cheese and a fried green tomato on it, so YUM!!  Picked up a side of fries and a chocolate shake as well, because (duh) hot day in the park.\n\nThey have dog bowls on the patio (not the enclosed/covered part, but there are tables there that have large umbrellas over them.  I was a bit annoyed to be separated out like that, but it was comfortable enough and the food came quickly enough that I was happy.  There were about four pups out there with us and it appeared as though a good time was had by all, no matter the species!  I'd love to go back and sample more of the menu next time I get a chance.",
+        "language": "en"
+      },
+      "date": "2019-05-23T02:27:17Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "D. K. C.",
+        "user_id": "BXz2HAGbW9zShg1pZoRDsQ",
+        "link": "https://www.yelp.com/user_details?userid=BXz2HAGbW9zShg1pZoRDsQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/E9fJN6vozoN8d5YWvOyBYw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 3255,
+        "photos": 1271,
+        "reviews": 367,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Absolutely an AWESOME Burger! Today was the last day of $5 Burger Week and I wanted to try some place new.  The name is what attracted me at first. Upon arrival I was impressed by the design of the establishment. The simple yet eye catching outdoor sitting area was an added draw. The line was out the door, however, it moved very swiftly. I ended up not even getting the $5 Burger as the menu offered such a great variety of items. I ordered the Beef burger well done, Double with Swiss add Bacon. O. M. G. The burger was SUPERB. Perfectly cooked. Perfectly seasoned. Grilled potato bun. Ahhhhhhhh. I am having flashbacks. LoL! The crinkle fries were perfectly made with the right amount of seasoning salt. \n\nThis was an amazing experience and the food is well worth the prices they charge. \n\nThe service is great as well.",
+        "language": "en"
+      },
+      "date": "2017-04-29T19:01:42Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/02E2fVgtgj-FgGEXnTeDDw/o.jpg",
+          "caption": "An amazing Burger experience."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GvSBTk_4n-IwUf_MeQuWtg/o.jpg",
+          "caption": "Look at that perfectly cooked Bacon just hanging off the bun."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/B2PNrBnNSbkI1d9xERxSew/o.jpg",
+          "caption": "Great Presentation for a Great Meal."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rocco V.",
+        "user_id": "LhAqqgmfZY9LFRvRcaU3Lw",
+        "link": "https://www.yelp.com/user_details?userid=LhAqqgmfZY9LFRvRcaU3Lw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NLjdBywUjPSe7dy7JhILqw/180s.jpg",
+        "address": "Peachtree City, GA",
+        "friends": 0,
+        "photos": 15,
+        "reviews": 60
+      },
+      "comment": {
+        "text": "We are always on the hunt for a fun quirky spot with good food. We drove 35 min and this place was worth the drive.  \n\nWe sat outside on a sunny Saturday afternoon and enjoyed a delicious burger (yes, I added a friend green tomato), onion rings (omg) and  Crinkle cut fries (good). \n\nI would definitely come back with other friends as it was a thoroughly nice excursion.",
+        "language": "en"
+      },
+      "date": "2021-02-24T00:28:02Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jasmin M.",
+        "user_id": "OwhXERuCp3KVS1Yn2raQQQ",
+        "link": "https://www.yelp.com/user_details?userid=OwhXERuCp3KVS1Yn2raQQQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KOvHfhwbdjTi0kGUZd3ucg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 332,
+        "photos": 154,
+        "reviews": 78
+      },
+      "comment": {
+        "text": "Another great burger joint!\n\nI came here one night with a bestie and had a good time. I ordered a double Turkey burger with grilled onions, mushrooms, lettuce. Tomato, American cheese, and a side of sweet potatoes fries. Everything tasted great. \n\nMy only disappointment was that there drink machine was broken so we could only choose from water or a canned drink. Other than that the food was great.\n\nI didnt have any issues with parking but it wasnt very busy, so I'm curious to see how parking is when its busy. \n\nI will be back again. I definitely want to try the veggie and impossible burgers next.",
+        "language": "en"
+      },
+      "date": "2018-09-21T23:16:37Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9Qxcm9-q08TPLJkhWqFF1A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bmO-M0iJ-wWmYCUiAjqcBQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Victor N.",
+        "user_id": "bUk9_ib06KqMNxAANeZpYA",
+        "link": "https://www.yelp.com/user_details?userid=bUk9_ib06KqMNxAANeZpYA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MwxCfQoEKt7baRVFiSw5Tg/180s.jpg",
+        "address": "College Park, GA",
+        "friends": 98,
+        "photos": 538,
+        "reviews": 223,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I think we enjoyed people watching more than the food lol. Sunday afternoon we wanted to stop here after seeing this establishment on Atlanta eats. \n\nThe parking situation can be a little sticky. They only have room for a few cars. The car wash next door allows Grindhouse patrons to park there after 5 pm. You can also park on the neighborhood street that's next to Grindhouse. Please be careful not to block the neighbors driveways or mailboxes. We witness the tow service get two cars while eating! \n\nOrder from the menu upon entering,  take your number and find a seat. Decent crowd but service was pleasantly quick and attentive. It was a beautiful day so the patio was nice. The motley crew of other customers was definitely entertaining. The food wasn't spectacular but decent. I Opted for the cowboy style J.R. burger with chili cheese fries...OK. The lady had the same with regular fries, no complaints but not impressed. I think we will try them again maybe another location. This establishment goes on the familiar eats list. Cheap date stamped and approved!",
+        "language": "en"
+      },
+      "date": "2019-04-10T08:13:29Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ernest F.",
+        "user_id": "c-EHwbbHhcfvlyd70vBqDg",
+        "link": "https://www.yelp.com/user_details?userid=c-EHwbbHhcfvlyd70vBqDg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/267I6gIeDP5aPMW_MJbjbQ/180s.jpg",
+        "address": "Henderson, NV",
+        "friends": 653,
+        "photos": 544,
+        "reviews": 124
+      },
+      "comment": {
+        "text": "This spot was very nice an friendly. I had a great time at this location. The homemade blue cheese sauce was amazing an tasty.",
+        "language": "en"
+      },
+      "date": "2021-04-04T02:01:46Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CV42efXhXNkmIH197qAH6Q/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yikISq3dRPsPV-JjSHKAhQ/o.jpg",
+          "caption": "Extra Sauce"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PYVNq-Hd2piyGuf1CYftLw/o.jpg",
+          "caption": "Impossible Burger"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "TooHonest F.",
+        "user_id": "qJ6q90kWVTUmdsvjdhuJXQ",
+        "link": "https://www.yelp.com/user_details?userid=qJ6q90kWVTUmdsvjdhuJXQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GjCwCrdv9kWFjIFhBfCdXg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 856,
+        "photos": 95,
+        "reviews": 172
+      },
+      "comment": {
+        "text": "Not the best, but not the best either. Good, prompt service and a killer toy robot collection displayed by owner. Two visits in, no more returns.",
+        "language": "en"
+      },
+      "date": "2021-08-18T18:35:36Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Annie L.",
+        "user_id": "ms7gg62p6gEfc6-YHNaebQ",
+        "link": "https://www.yelp.com/user_details?userid=ms7gg62p6gEfc6-YHNaebQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6oQkXjZUKKp7XHxgjYyiAw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 804,
+        "photos": 1828,
+        "reviews": 1128
+      },
+      "comment": {
+        "text": "Oh my burger. I've heard of Grindhouse before but never had much interest to venture to this joint. I can't even. This is by far the BEST burger I've ever had in my life. The beau loves this place and it's easy to see why. Whatever they sprinkle in the meat is addicting. Turkey burger FTW and don't forget to try the sweet potato fries. SO GOOD.",
+        "language": "en"
+      },
+      "date": "2020-05-27T07:18:06Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5HuUCS9P0actDne5zQcFpw/o.jpg",
+          "caption": "Turkey burger"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Alex K.",
+        "user_id": "vo5pU1BbkO6Z2BK1Lwx3VQ",
+        "link": "https://www.yelp.com/user_details?userid=vo5pU1BbkO6Z2BK1Lwx3VQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HM7gpudBZs7xo0ojAjKstg/180s.jpg",
+        "address": "Duluth, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 81
+      },
+      "comment": {
+        "text": "Located in Atlanta \nDecent amount of parking \nSpacious interior \nOutdoor seating \nGot the yankee style burger \nToo much blue cheese to a point where I couldn't taste anything else. \nThe Athens location made the burger tastier than this location. \nI'll probs be back to give this location another try.",
+        "language": "en"
+      },
+      "date": "2021-01-24T23:27:37Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "B C.",
+        "user_id": "Ecl8smb6pFH_rmKNi-4yUA",
+        "link": "https://www.yelp.com/user_details?userid=Ecl8smb6pFH_rmKNi-4yUA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OzK11Q0DdicJ-QfKfrTuPw/180s.jpg",
+        "address": "Dallas, TX",
+        "friends": 2,
+        "photos": 4,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "Quite possibly the slowest service I've ever seen, really, really bad.  The guy behind the counter couldn't care less and the bartender is talking waaaay too loud!\n\nGood burger, not worth the wait tho.",
+        "language": "en"
+      },
+      "date": "2020-12-17T18:32:14Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Marvin S.",
+        "user_id": "5QoxlVZO1xUbZ_YnkRgkAQ",
+        "link": "https://www.yelp.com/user_details?userid=5QoxlVZO1xUbZ_YnkRgkAQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/aqGm_gjFNQKpsMkJnWAe_w/180s.jpg",
+        "address": "Portland, OR",
+        "friends": 80,
+        "photos": 238,
+        "reviews": 59
+      },
+      "comment": {
+        "text": "I have been wanting to try Grindhouse for a while and was finally able to check it out. It was worth the wait. I got the Apache style burger double- green chiles, pepper jack cheese, lettuce, grilled onions and tortilla strips. Everything worked perfectly together. Adding chipotle ranch sauce pushed it over the top as one of the best burgers I've ever had. I could tell the burger was made fresh. \n\nWe went on a Wednesday night about an hour or so before closing and got in and out with no problem. The guy bringing out burgers was very attentive and quick. The only not so positive critique I have is the portion size. The burger size is perfect for one and not 2. Already planning my next visit.",
+        "language": "en"
+      },
+      "date": "2019-05-02T02:38:04Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vrc4ZygZtTk1XTs2msQnMg/o.jpg",
+          "caption": "Apache style- lettuce, grilled onions, green chiles, pepper jack cheese, and tortilla strips with Grindhouse sauce and chipotle ranch"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "K P.",
+        "user_id": "Sona33W7wUjnHVzKuAe43Q",
+        "link": "https://www.yelp.com/user_details?userid=Sona33W7wUjnHVzKuAe43Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zIRDIM_lmH2HH6OJ2o9JTg/180s.jpg",
+        "address": "Richmond, VA",
+        "friends": 19,
+        "photos": 339,
+        "reviews": 123,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place was awesome. I went here during a visit to Atlanta.  I wanted a burger and yelp provided this place. I loved that you could customize your burger or choose from their own creations. I ordered a turkey burger with swiss, pepper jack, and pimento cheese, tomatoes, pickles, the house habanero sauce and mayo. I was disappointed that they did not have honey mustard sauce, but the fact that they had Sriracha sauce in the table instead of hot sauce made me happy. I was able to create a creamy Sriracha sauce for my fries. Those crinkly fries were cooked just right. \n\nMy significant other ordered the Yankee burger and said it was delicious. He also order a drink, the John Dandy (I believe that is the name) and he said that it was good and he tasted no alcohol (it crept up on him later). \n\nI was also grateful that they have vegetarian and vegan options as a friend is vegan, do she order the black bean hummus as an appetizer and the veggie burger and Fries for her meal. She said everything was good. I tasted the black bean hummus and it was good. \n\nHer husband ordered and I cannot remember the burger he ordrred, but he said everything was good. too. \n\nAt this place, you place your order and then find a seat. That's cool with me. We have a place in Richmond that is that way, too. It has a heated enclosed patio, too. It's not very big and there was a line when we arrived, but it moved rather quickly. \n\nI will definitely eat here upon another visit to Atlanta.",
+        "language": "en"
+      },
+      "date": "2017-02-03T01:55:30Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Y0qRHMHH-EXE6Ortnt6GzQ/o.jpg",
+          "caption": "My custimized turkey burger, fries, and my created creamy Sriracha sauce."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=jbKI2uM4nrRIlBT2sMX3MQ&start=210"
+  }
+}

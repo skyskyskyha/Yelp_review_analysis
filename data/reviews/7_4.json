@@ -1,0 +1,1525 @@
+{
+  "search_metadata": {
+    "id": "65ef2f952c08448a30b2dfd8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c435cd11c3877dff/65ef2f952c08448a30b2dfd8.json",
+    "created_at": "2024-03-11 16:21:41 UTC",
+    "processed_at": "2024-03-11 16:21:41 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/-CHazLwo2j2G8gWEZN53hA?",
+    "raw_html_file": "https://serpapi.com/searches/c435cd11c3877dff/65ef2f952c08448a30b2dfd8.html",
+    "prettify_html_file": "https://serpapi.com/searches/c435cd11c3877dff/65ef2f952c08448a30b2dfd8.prettify",
+    "total_time_taken": 2.82
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 70,
+    "num": "50",
+    "place_id": "-CHazLwo2j2G8gWEZN53hA"
+  },
+  "search_information": {
+    "total_results": 1011,
+    "business": "Eclipse Di Luna"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 1011
+    },
+    {
+      "hl": "es",
+      "count": 1
+    },
+    {
+      "hl": "fr",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Nina L.",
+        "user_id": "yGt3L1yr_6ayQPaQxE8tdw",
+        "link": "https://www.yelp.com/user_details?userid=yGt3L1yr_6ayQPaQxE8tdw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/l7C6q2JDP1A81P167dzBIQ/180s.jpg",
+        "address": "Miami, FL",
+        "friends": 11,
+        "photos": 90,
+        "reviews": 66,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This was my second time coming and it was just as great as the first. We ordered several tapas and just shared everything (group of 3) and we also had a bottle of wine. Considering everything we ordered, it was a good final price. Heads up, be prepared for it to be a more noisy restaurant because it's always busy but also because they have music and dim lighting. It was a Saturday night and there was a live band starting around ~8:45pm. I knew there would be music so this was the vibe I was going for and it was great. The parking situation was easy since there is a big parking lot. The food was quick too! I look forward to coming back here.",
+        "language": "en"
+      },
+      "date": "2022-06-26T01:42:36Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vUKN4MyyHBqjyuCd1aM7iQ/o.jpg",
+          "caption": "Pimientos Rellenos con queso de Cabra"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Anne P.",
+        "user_id": "oAg7NPECqUnG1LtpUdT3yA",
+        "link": "https://www.yelp.com/user_details?userid=oAg7NPECqUnG1LtpUdT3yA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_xL5SMhDC_mfFPVC5s4aSQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 109,
+        "reviews": 38
+      },
+      "comment": {
+        "text": "If you're looking for a light dinner and good tapas, this place is good. Service is good too! If you like an ambiance with good live music, this place is perfect!",
+        "language": "en"
+      },
+      "date": "2023-02-27T02:58:23Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/09ywY40e4k6ciVvgTNhwYA/o.jpg",
+          "caption": "Chuletas de Borrego Dinner and Pltanos fritos"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GbAHgwLomMguh-3At3x0Qw/o.jpg",
+          "caption": "Ensalada de Manzana Dinner and Raviolo y Carne Mechada"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alessandra V.",
+        "user_id": "qqZzUr0H3wrZRTXT4a8z1Q",
+        "link": "https://www.yelp.com/user_details?userid=qqZzUr0H3wrZRTXT4a8z1Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DmSNDJ5LU88ySWZWEhPzmw/180s.jpg",
+        "address": "Delray Beach, FL",
+        "friends": 34,
+        "photos": 1728,
+        "reviews": 370,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "live music & good food. they also have a separate menu for vegan and gluten free. they had the fans on in the middle of winter not sure why",
+        "language": "en"
+      },
+      "date": "2022-12-20T20:38:22Z",
+      "rating": 4,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/44KvGAOjyABHmkQw6JN-6w/o.jpg",
+          "caption": "gnocchi special"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ThykHURJHA3FeW5uNNCqWQ/o.jpg",
+          "caption": "pisto manchego (gluten free)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6E3cMfOvh9UvgaBMD5FaUA/o.jpg",
+          "caption": "gluten free menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vo__M1wodqunF9MftJvUlQ/o.jpg",
+          "caption": "vegan menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/deE16NfqbTuu9SEovD3G6w/o.jpg",
+          "caption": "empanada de vegetales & platanos fritos"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GMA6I985FsTAhvKS3osYlw/o.jpg",
+          "caption": "taco de salmon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EMA5nmPNhiFieKPVTfbfdA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_q3Nke57BgZcQUv-Cb257Q/o.jpg",
+          "caption": "gambas al ajillo & ensalada de manzana"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Donyule S.",
+        "user_id": "ux1LHsc5lOmaYvRDXDPbHg",
+        "link": "https://www.yelp.com/user_details?userid=ux1LHsc5lOmaYvRDXDPbHg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ko2z5arKGGl0NWItLI2afQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "The food is great and the bartender MARCIE makes the best drinks no make what you ask for. I love the chill atmosphere you won't be disappointed",
+        "language": "en"
+      },
+      "date": "2023-08-28T19:51:41Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ahmad W.",
+        "user_id": "h3mjE4ZcgC_qEt6AiC5S7g",
+        "link": "https://www.yelp.com/user_details?userid=h3mjE4ZcgC_qEt6AiC5S7g",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "I ALWAYS enjoy my experience at Eclipse Di Luna. The food and the drinks are well priced and everything I've tried taste AMAZING. The service is 10/10 everytime plus, the ambiance is perfect for any occasion.",
+        "language": "en"
+      },
+      "date": "2023-12-09T18:59:03Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Trey H.",
+        "user_id": "CdBkJu-oW9gCpkbvCGtUSQ",
+        "link": "https://www.yelp.com/user_details?userid=CdBkJu-oW9gCpkbvCGtUSQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_l8zg5qDRlRYE55KhEy_bg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 317,
+        "photos": 120,
+        "reviews": 114,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I don't give 5 stars often, but this place I must say deserves 6 if I could give it. We've been looking for authentic Spanish food since relocating to atl from nyc, and they nailed it. We've been to Barcelona and have had some of the dishes from their menu there. I can say it's the closest I've tasted to it stateside. You can tell the ingredients are quality and the recipes are not altered for \"American taste\". We had 6 tapas, and the truffle Mac is hands down my favorite so far. We have plans to finish the rest of the menu.\n\nIt also helps that they have an amazing vibe, great tasting cocktails, and live music! We'll most certainly be regulars.",
+        "language": "en"
+      },
+      "date": "2021-09-15T05:51:09Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FJWiZmel7Fdhof8jrzcY7w/o.jpg",
+          "caption": "Gambas al Ajillo , pescado , and octopus  so good!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mDA1GzhB7nePMyIyjlM6fw/o.jpg",
+          "caption": "Macarrones con Trufa   And patatas"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Erin S.",
+        "user_id": "B-nz1ZBp9GdevG3pCuLo-A",
+        "link": "https://www.yelp.com/user_details?userid=B-nz1ZBp9GdevG3pCuLo-A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7HV7gBNZpQLGIh7Hd_OzFg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 377,
+        "photos": 4089,
+        "reviews": 783,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We had a reservation for a party of 7 for 7:30 on a Friday night. They sat us inside, but were so gracious in moving us after we requested to sit on the enclosed patio. They required masks and staff were wearing masks. Tables are decently spread apart. They also converted part of the parking lot into an open patio and really zhuzhed it up with some cute planters and café lighting.\n\nLiterally everything is always good. You can't really miss at Eclipse di Luna. They change their menu seasonally. Definitely try the specials! We just had Braised Brisket over Chick Pea Puree and Heirloom Tomato, as well as Pan Seared Diver Scallops over Celery Puree and Chili Oil, and both were amazing.\n\nThese classics are my favorites:\n- Chuletas de Borrego (lamb chops)\n- Hummus Tradicional\n- Patatas Bravas\n- Macarones con Trufa (or whatever is in season)\n- Pimientos Rellenos con Queso de Cabra (goat cheese-stuffed peppers)\n- Ejotes Crujientes (fried green beans)\n\nTheir margaritas are always good and they don't skimp on the tequila. We split 2 pitchers between 7 people and it was the perfect amount.\n\nWe had their Tres Leches for dessert and it was increeeeedible. Highly recommend.\n\nIt varies, but expect to spend about $20-$30 per person here, without alcohol. With alcohol, expect to spend about $40-$50.\n\nWe always take people from out of town here and it's always a huge hit!",
+        "language": "en"
+      },
+      "date": "2021-04-25T22:20:25Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BJxIVgwdP47PrjKUEcIxNg/o.jpg",
+          "caption": "Food"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pTrHL5WsCIdoA8qTi0DA4Q/o.jpg",
+          "caption": "Patatas Bravas"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Eeag1_Q021Vgd7Fw5Xr2Lw/o.jpg",
+          "caption": "Chuletas De Borrego"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/c8-Atjllb-Hcya94IQGQVg/o.jpg",
+          "caption": "Esparragos a la Parrilla"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZHWCT7bkffYaGiJXlT2isQ/o.jpg",
+          "caption": "Pulpo Salteado"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PAkLYpoVzhMdR9ws9ZW29Q/o.jpg",
+          "caption": "Filete de Res"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/smX-Ovsz3kmz8KS3VJFMsA/o.jpg",
+          "caption": "Macarrones con Tomate Seco y Queso"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Anv72_uKEs6gBG6G5b8TXA/o.jpg",
+          "caption": "Pimientos Rellenos Con Queso de Cabra"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Hj7IPE4mNJozspxbBQPhng/o.jpg",
+          "caption": "Ejotes Crujientes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/845JXCrQUsl8iet2sLoSTQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 1,
+        "cool": 4
+      }
+    },
+    {
+      "user": {
+        "name": "Samantha D.",
+        "user_id": "nrTs_Iva28wDvFFUzLOrzA",
+        "link": "https://www.yelp.com/user_details?userid=nrTs_Iva28wDvFFUzLOrzA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AxfQXqazGVdiRmzzcQSZWQ/180s.jpg",
+        "address": "Miami Beach, FL",
+        "friends": 14,
+        "photos": 5,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "Great Latin ambiance. Delicious food! Must try the calamari, the pan catalan with chorizo, and the Raviolo y Carne Mechada.",
+        "language": "en"
+      },
+      "date": "2023-01-08T03:34:20Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eYeDO_qTYy1B-XOTzZUPyQ/o.jpg",
+          "caption": "Raviolo Y Carne Mechada"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "D B.",
+        "user_id": "4LsyaGpAXwyqTFz0xW7mKQ",
+        "link": "https://www.yelp.com/user_details?userid=4LsyaGpAXwyqTFz0xW7mKQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0PS6ZZ904GU6Tx0uwjIPgA/180s.jpg",
+        "address": "Smyrna, GA",
+        "friends": 24,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Love it.  Enjoy the tastey tapas! Also, the pitchers of Sangria are the bomb. The fried octopus is also a great starter.",
+        "language": "en"
+      },
+      "date": "2023-07-18T18:30:59Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Camille G.",
+        "user_id": "cZChclkibDO4Ikx8oT7T-w",
+        "link": "https://www.yelp.com/user_details?userid=cZChclkibDO4Ikx8oT7T-w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/iU_czoUPmtavSUZjp7J0mQ/180s.jpg",
+        "address": "Piscataway Township, NJ",
+        "friends": 229,
+        "photos": 1423,
+        "reviews": 612,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We were in the hunt for another night of great music and came across this place. \nThe biggest plus was it had a huge parking lot. It's hard finding parking Buckhead, Ga.\n\nLoved  the tropical decor and long bar with happy bartenders. The DJ was great playing all our favorite music. We had a few Mojitos and danced the night away. I would definitely go back on my next visit to try their food. \nWe enjoyed Luna!",
+        "language": "en"
+      },
+      "date": "2022-03-09T04:56:42Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 5,
+        "funny": 1,
+        "cool": 4
+      }
+    },
+    {
+      "user": {
+        "name": "Artelle P.",
+        "user_id": "U8S3MV4TwBuxm8oWrhTmHw",
+        "link": "https://www.yelp.com/user_details?userid=U8S3MV4TwBuxm8oWrhTmHw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/mvGe-hq9ChMp2vnOeVbnZw/180s.jpg",
+        "address": "Morningside-Lenox Park, Atlanta, GA",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 38
+      },
+      "comment": {
+        "text": "I was there when Paul Lina was at his pinnacle, service affordability, quality, presentation & quickness was his signature of small bites & repeat! The entertainment was a GREAT added+‼",
+        "language": "en"
+      },
+      "date": "2023-07-06T18:06:11Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kim H.",
+        "user_id": "Zd0sgXbBramNUUzEC_hlZg",
+        "link": "https://www.yelp.com/user_details?userid=Zd0sgXbBramNUUzEC_hlZg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DJRLFp9yuMv-IYiIGTc0mA/180s.jpg",
+        "address": "Manchester, MA",
+        "friends": 50,
+        "photos": 339,
+        "reviews": 94
+      },
+      "comment": {
+        "text": "This place was delicious and fun!! Dinner here was a highlight of our Atlanta trip! The tapas were creative and OH SOOOOO GOOD! Our server recommended the lamb (which I would not have picked on my own) but it ended up being my absolute favorite! The mojitos were also incredible!! I had a coconut mojito and again, by recommendation of our fantastic server, my husband had the bourbon mojito which was GREAT! -and not on the menu.  \n\nThere was a band playing which added to the fun artsy vibe.  It wasn't too loud - we were able to enjoy the music and our conversations.  The service was over the top with knowledgeable staff who made excellent recommendations and really added to the overall experience!  I would HIGHLY recommend going here.",
+        "language": "en"
+      },
+      "date": "2022-12-05T12:37:52Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sheila B.",
+        "user_id": "6a2xXsadOJwNxmfvi0Y9vA",
+        "link": "https://www.yelp.com/user_details?userid=6a2xXsadOJwNxmfvi0Y9vA",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 5,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Came to Eclipse Di Luna with my sisters and mom on  Friday night  and per usual the experience was GREAT! The live band was amazing and the overall ambiance of the restaurant is great especially at night. The service was great and our waitress Theresa (or Teresa) was super sweet and attentive. \n\nI hate that I didn't take any pictures but the food was just too good. It's hard to choose just one favorite so I would recommend the calamari, Manchego bread, fried green beans, and the ribs. We also got a pitcher of red sangria which was a perfect amount for the 4 of us. Highly recommend coming here!!",
+        "language": "en"
+      },
+      "date": "2023-07-29T02:30:30Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tanicia D.",
+        "user_id": "vReB2-OjOxFGYmbYSFa_xA",
+        "link": "https://www.yelp.com/user_details?userid=vReB2-OjOxFGYmbYSFa_xA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GaET9e61fgJaqhps7hDf6A/180s.jpg",
+        "address": "Central Omaha, Omaha, NE",
+        "friends": 1,
+        "photos": 6,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "I absolutely love this place!! Zailey was an amazing server!!! She was very attentive and kind. She was very informative about the menu. She made our experience pleasant. I'm definitely coming back!!",
+        "language": "en"
+      },
+      "date": "2023-07-28T22:08:46Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sabrina C.",
+        "user_id": "pUshW76J0vGRcRrVxOPUQw",
+        "link": "https://www.yelp.com/user_details?userid=pUshW76J0vGRcRrVxOPUQw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fNuslzPTL5NRu30MFnfarA/180s.jpg",
+        "address": "Charlotte, NC",
+        "friends": 123,
+        "photos": 870,
+        "reviews": 119,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Visiting Atlanta & looking for a solid dinner experience slightly off the beaten path?  Eclipse Di Luna just might be your spot!\n\nI checked it out for a low-key Saturday night with friends & it did not disappoint.  Good customer service, solid cocktail menu (get the coconut mojito), and an extensive list of tapas--including some suitable for vegetarian palates.  Great live music & enough of a dance floor to enjoy rounded this experience out.  Beware of tables located directly under the pipes visible across the ceiling, as they will drip onto your table & you will want to move.  Otherwise, Eclipse really is a good time!",
+        "language": "en"
+      },
+      "date": "2021-07-20T16:49:22Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NA0xOMWSf_NEPG0dBkk9nw/o.jpg",
+          "caption": "Calamari, Mussels, Lamb Chops, & Patatas Bravas"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Helena E.",
+        "user_id": "EhWPugJIfXTlPnBP9RiaIg",
+        "link": "https://www.yelp.com/user_details?userid=EhWPugJIfXTlPnBP9RiaIg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DhLHckBAPUV46nJfE-OA2Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 261,
+        "photos": 514,
+        "reviews": 311,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I've been to Miami Circle dozens and dozens of times and it took me until this year to visit Eclipse Di Luna. There is plenty of lot parking. Once you get inside, you realize how large the space actually is. We dined in on a Friday night and overall had a great experience. We really enjoyed this restaurant. The service was great and the food was delicious. The tapas are honestly very well portioned. We ordered ceviche de pescado blanco, chuletas de borrego, which were both delicious. I'm picky when it comes to ceviche, so that's saying a lot. My husband ordered the Pescado Rostizado (pictured) and really enjoyed his meal. He said the fish we cooked very well. We ordered a pitcher of sangria, which in hindsight seems overzealous. The joke was on us because you get soooooo much drink! It's actually very much worth it if you come to drink in a group. I also recommend trying the tres leches. It was pretty good. We will definitely be returning to try the rest of the menu.",
+        "language": "en"
+      },
+      "date": "2022-10-27T18:53:10Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/W42LNGzukH_4plfuPfC4uQ/o.jpg",
+          "caption": "Flounder"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MWwIhNxwWpBRB430E-fBBw/o.jpg",
+          "caption": "Ceviche"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tauheedah M.",
+        "user_id": "39Pn3pbPLpF68pAAP-u9YA",
+        "link": "https://www.yelp.com/user_details?userid=39Pn3pbPLpF68pAAP-u9YA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RCLqLzYfm_4-IiA1aUnRWw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 67,
+        "photos": 582,
+        "reviews": 235,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I love it here.\n\nDrinks Food & Live Music and they have the audacity to all be good!!!\n\nWe had Mojitos and Caipirinhas and they were sooooooo good. \n\nService was Excellent. \n\nEverything and I mean EVERYTHING we are was Delish!!!!",
+        "language": "en"
+      },
+      "date": "2021-04-01T15:33:17Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/voOo3RKZxaEvHKNKugHStA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ImpyJ_nQwZtrJpL8KO3KJQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5YVNvyyBfjZXfSQOuYfgqw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TAawe6L2fST6KkDA8FMFvA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nBICB_Bv8Tw-OLlyyakXqg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alex F.",
+        "user_id": "Z-JTSVQcmey51wWq414JWA",
+        "link": "https://www.yelp.com/user_details?userid=Z-JTSVQcmey51wWq414JWA",
+        "address": "Vinings Estates, Mableton, GA",
+        "friends": 158,
+        "photos": 0,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Super fun spot in Buckhead with an amazing atmosphere.  I went with a date on Salsa night and we both had a great time, good food/drinks, with some dancing mixed in.  Highly recommend this place.",
+        "language": "en"
+      },
+      "date": "2023-10-18T14:47:00Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Anna Claire S.",
+        "user_id": "GgBLwJCLtJXbDH3mztngqg",
+        "link": "https://www.yelp.com/user_details?userid=GgBLwJCLtJXbDH3mztngqg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5UntJflRcbP5KAiOvcWJVQ/180s.jpg",
+        "address": "GA, GA",
+        "friends": 16,
+        "photos": 138,
+        "reviews": 50
+      },
+      "comment": {
+        "text": "You cannot beat eclipse di Luna for a date night! Amazing, fun music Monday-Friday. Food is delicious and sooo reasonably priced compared to other tapas restaurants around the area. Fast and hot food",
+        "language": "en"
+      },
+      "date": "2022-11-19T14:46:29Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qiuAw9wuzXh5NbBuZYMVFg/o.jpg",
+          "caption": "Mejillones"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Courtney J.",
+        "user_id": "DvR6sUmPaaozMuYVjULnvA",
+        "link": "https://www.yelp.com/user_details?userid=DvR6sUmPaaozMuYVjULnvA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OH46102s0WcFIPTJsygOAA/180s.jpg",
+        "address": "SC, SC",
+        "friends": 114,
+        "photos": 12,
+        "reviews": 38
+      },
+      "comment": {
+        "text": "The food and the staff were amazing! We came as a large party and we got a chance to try almost everything and let me tell you everything we tried we loved! Amazing food and drinks combined with the restaurant and you truly don't feel like you are in Atlanta, but transported to Spain!",
+        "language": "en"
+      },
+      "date": "2023-03-25T11:17:56Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Maria M.",
+        "user_id": "XeYVBWzFH-v6Veu6hEbyAQ",
+        "link": "https://www.yelp.com/user_details?userid=XeYVBWzFH-v6Veu6hEbyAQ",
+        "address": "Rochester, NY",
+        "friends": 0,
+        "photos": 8,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "went during happy hour ! Drink specials were\nso delicious, service was kind and very quick. ambiance was beautiful, sat outside and loved the decorations \nBacon Wrapped Dates, Fried Calamari, salmon a la parilla",
+        "language": "en"
+      },
+      "date": "2023-05-09T21:16:26Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZCqlhFwl9tdt7LDZV_RlfQ/o.jpg",
+          "caption": "Calamares Fritos"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7hpT4lT5R0YoGGw9sj6MiQ/o.jpg",
+          "caption": "outside patio"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cNcI08cgUyt32sKHwP-eGg/o.jpg",
+          "caption": "Brocheta de Chorizo"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VvLxVig1pybt179ltTYrog/o.jpg",
+          "caption": "Mojito"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Carol T.",
+        "user_id": "qasfVIfnw-ck5Ds5IsoDrw",
+        "link": "https://www.yelp.com/user_details?userid=qasfVIfnw-ck5Ds5IsoDrw",
+        "address": "Rayville, LA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "My husband and I have been frequenting this wonderful establishment for 20 years! The food is always exceptional, the atmosphere delightful, and the service quick and friendly.\n\nThis is one of Atlanta's hidden gems!",
+        "language": "en"
+      },
+      "date": "2023-05-01T16:31:20Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "James G.",
+        "user_id": "AwQJ28jjuEYgA4HwigAQ_Q",
+        "link": "https://www.yelp.com/user_details?userid=AwQJ28jjuEYgA4HwigAQ_Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/k_tYYZlkcRakAnkPMld3Xg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 7,
+        "photos": 46,
+        "reviews": 47
+      },
+      "comment": {
+        "text": "My girlfriend and I were in Buckhead and both wanted Mexican for lunch. We just had tapas for dinner a night or two ago and when I asked if she wanted tapas for lunch instead of Mexican she was excited. \n\nMiami circle is hard to turn into but with traffic and construction heading south on Piedmont, sitting at a restaurant being waited on sounded so much better. At the time of day we pulled in (Sunday at 1pm), Miami circle was dead. Eclipse di Luna is at the very end and is nearly completely hidden. If you didn't know it was there, it would be easy to miss. Parking was a breeze. \n\nAfter walking in, we were asked if we had a reservation. No. I was worried maybe we wouldn't be able to get in. Luckily it wasn't slammed so we were in luck. We were given the option of indoor or patio. We chose indoors but we both regretted it. Ask for the patio if given the option. It's covered and enclosed so even on a gross day like today you'd be fine. \n\nThere was a random child walking around which was odd. We both assumed it was the hostess' kid or manager's kid or something. We got to our table and the waitress was there to greet us. Overall she was friendly and nice but had far too much energy for us. \n\nWe ordered drinks, had a toast, and quickly ordered some tapas staples. Patatas bravas, bread with tomato purée (pan Catalan), Brussels sprouts, fried green beans, and a brisket empanada. Everything was delicious. The potatoes were good but not divine, however the sauce was great. The pan Catalan (bread) was incredible. The green beans were so unexpectedly great. The empanada was super tasty, but I was somewhat surprised it only came as a plate of one. \n\nWe snagged the bill and took off. 2 drinks & 5 plates of food was about forty bucks. Not bad at all. If we're in Buckhead, we'll go back for sure.",
+        "language": "en"
+      },
+      "date": "2021-12-05T22:55:58Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YcuAJvHW9EH0ORvNNPgH-A/o.jpg",
+          "caption": "Fried green beans"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pdYr21QemYPBSCJEi_KCxw/o.jpg",
+          "caption": "Empanada de Res"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3JOI_INAwgr8YXzLIHnmLA/o.jpg",
+          "caption": "Patatas Bravas"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QnkxSDt2TuYPJStJH2ld-w/o.jpg",
+          "caption": "Brussels sprouts"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Gt77LUj1yBtReLS0phFw5Q/o.jpg",
+          "caption": "Pan Catalan"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Tarangee A.",
+        "user_id": "SAyKKZEHGHJA1iwQMApdxQ",
+        "link": "https://www.yelp.com/user_details?userid=SAyKKZEHGHJA1iwQMApdxQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8r2BXzIv-1I5tTtmT5Q7EA/180s.jpg",
+        "address": "Suwanee, GA",
+        "friends": 22,
+        "photos": 217,
+        "reviews": 83
+      },
+      "comment": {
+        "text": "It was on a Friday night live music birthdays up the ying yang I sat in the front not the back the\nDrinks were delicious. Put on dancing shoes  I didn't understand the words but my rhythm was there. It was a\nLot going on so and I sat\nIn front of where the\nServers coming in and out",
+        "language": "en"
+      },
+      "date": "2021-09-24T17:15:08Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cVilAcrG-wnmCKhtXJRwGA/o.jpg",
+          "caption": "Peach sangria"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hJxG8kSaehBPUxoOAdBIPQ/o.jpg",
+          "caption": "Lamb"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HQdQtaO1IXwhELjFcmkRKA/o.jpg",
+          "caption": "Potatoes"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Sigmund W.",
+        "user_id": "y_o1sh4o9ljTAr5M4EPWgQ",
+        "link": "https://www.yelp.com/user_details?userid=y_o1sh4o9ljTAr5M4EPWgQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3o4J7OxDMmEOe1hf812AjQ/180s.jpg",
+        "address": "Garland, TX",
+        "friends": 2,
+        "photos": 5,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "Great food, great atmosphere, great drinks.  I had the calamari, ribs, green beans, potatoes and the best passion fruit mojito.  I only wish there was one in Texas",
+        "language": "en"
+      },
+      "date": "2023-03-10T20:31:06Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "India B.",
+        "user_id": "ooEEjTX3cvCR0U_7046H_A",
+        "link": "https://www.yelp.com/user_details?userid=ooEEjTX3cvCR0U_7046H_A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kAmlZB4qXZnAWxWwzdPblg/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 257,
+        "photos": 958,
+        "reviews": 112,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Eclipse di Luna brought back an ounce of normalcy in these pandemic times. It was the first restaurant I've been to that was truly bustling with people AND following proper COVID-19 protocol (trust me on the latter, I'm an epidemiologist). \n\nWe made reservations on a whim for table around 7pm on Friday. The soonest available was 8:30, we were in the area and arrived a bit early but were still able to be accommodated for patio seating. For COVID-19 protocol, all staff have on masks and gloves, sanitizer is available. Spacing on the patio is adequate and patrons must wear a mask when walking through the restaurant.\n\nNow on to the food and drink, this wasn't my first or even 5th time at either EDL location but everything was truly amazing this visit -- the paella del día, calamares fritos, the chuletas, the sangria, the strawberry mojitos -- everything was divine! The service was also amazing. From the food to the ambiance, for about two hours, I had forgotten about the months of sheltering in place and being unable to dine in this nature.",
+        "language": "en"
+      },
+      "date": "2020-08-25T16:40:22Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/44MAHL8pVrNJy3zanCnt7A/o.jpg",
+          "caption": "Calamares Fritos"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3kH1Pn9BBcZKVgyqe79fHg/o.jpg",
+          "caption": "Patatas Bravas"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/h-2IY6KKQ2-K6zH0O2UOfg/o.jpg",
+          "caption": "Paella del Dia"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PCO7TM8x-Mi3pPzOMgB0Bg/o.jpg",
+          "caption": "White sangria"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TvVZ-9J-1FmUQhlKw0baVQ/o.jpg",
+          "caption": "Chuletas de Borrego"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Amanda S.",
+        "user_id": "2UnDSY4-Z8QCoQfL358lcA",
+        "link": "https://www.yelp.com/user_details?userid=2UnDSY4-Z8QCoQfL358lcA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RNZCtFc34ZJ_1Oyqpihjzg/180s.jpg",
+        "address": "Sandy Springs, GA",
+        "friends": 309,
+        "photos": 345,
+        "reviews": 241,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I have never had a bad tapas experience in atlanta, and eclipse di Luna continues that tradition! Tucked away at the end of a bunch of closed shopping centers and warehouse looking buildings, the restaurant isn't hard to find, but just trust your gps when it seemingly tells you to continue going into deserted zombie apocalypse land.\n\nThere is both indoor and outdoor seating in the restaurant, and there was live music when I went with my friends. There were four of us, and three of us decided to share tapas together. We got 6 total and my absolute favorites were the lamb, bacon wrapped dates, and Mac n cheese, with the lamb being one of the best I've ever had (Atlanta dining had turned this former lamb hater into a lover so kudos to all of the Spanish/Mediterranean/Indian cuisine out here!) besides those dishes, we had patatas bravas, caprese, and calamari which were all ok, but I think other tapas in atlanta do those dishes better. \n\nOverall, the price was pretty cheap compared to what you'd find at other tapas restaurants, the menu size was pretty average, and we walked away having spent around $25 per person. If you want a fun lowkey dinner, I would highly recommend this place!",
+        "language": "en"
+      },
+      "date": "2021-07-21T17:29:46Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 3,
+        "funny": 1,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Yong L.",
+        "user_id": "sKZv8SnhMUkEWgRZIKAwIQ",
+        "link": "https://www.yelp.com/user_details?userid=sKZv8SnhMUkEWgRZIKAwIQ",
+        "address": "Grayson, GA",
+        "friends": 9,
+        "photos": 0,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "Amazing food.\nLive music at moderate volume that contributes to the ambiance without overshadowing good food and conversation.\nWaitress was attentive and kind.",
+        "language": "en"
+      },
+      "date": "2023-02-25T04:00:51Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Victoria V.",
+        "user_id": "KqDWllA2wb3Z-nR_pnVCcw",
+        "link": "https://www.yelp.com/user_details?userid=KqDWllA2wb3Z-nR_pnVCcw",
+        "address": "Allentown, PA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "Wish I could give this 5+ stars! This spot has been a frequent in my rotation for many years. Great spot to spilt tapas with friends and have a crisp cocktails with a Spanish flare. I recently had a larger work event here and was blown away. They were so accommodating, easy to work with, we had incredible attention, and the food in a buffet style was incredible. Our group was raving the whole way home about what a pleasure it was dining there. Hats off to this team!",
+        "language": "en"
+      },
+      "date": "2023-06-22T05:48:39Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "John AndLaura C.",
+        "user_id": "2xi_DjogfOoRggukOoevJQ",
+        "link": "https://www.yelp.com/user_details?userid=2xi_DjogfOoRggukOoevJQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BHH6pMjuyMilLAqMLyfaJQ/180s.jpg",
+        "address": "Thomson, GA",
+        "friends": 9,
+        "photos": 40,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "We were in Atlanta for a getaway. This place was recommended and we are so pleased that we decided to eat here 6/22/22. Our server Jessica was one the sweetest, friendliest servers we have ever had. We had the small plates of plantains and Spanish-style ribs, along with traditional paella for our main course. Not exaggerating when l say that this may have been the best meal l have ever eaten in a restaurant. Every dish was hot, fresh and bursting with flavor. My wife claimed that she would come to Buckhead(we live about 130 miles away) and spend the night just to eat here again. The manager Johnny stopped by our table a couple of times to chat and ask if everything was good. Most definitely would reccomend this restaurant to anyone. Oh, and the pitcher of sangria was fantastic as well.",
+        "language": "en"
+      },
+      "date": "2022-06-21T23:27:52Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9zhYz0tHzPYG2M07irK-FQ/o.jpg",
+          "caption": "Dining area"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pfP1cS0YO6DpEqcwDQ-2xA/o.jpg",
+          "caption": "Bar"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wMipaYurEMaA5RTrnzSoCg/o.jpg",
+          "caption": "Ceiling decorations"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RuwShRYXNEf1v1J2NKssqQ/o.jpg",
+          "caption": "Ceiling decorations"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/84igMHwcd0ArtCPrzlZGrA/o.jpg",
+          "caption": "Paella. We couldn't wait to dig in!"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Steve R.",
+        "user_id": "sYaOYMkmiUKAA13rMFlP2A",
+        "link": "https://www.yelp.com/user_details?userid=sYaOYMkmiUKAA13rMFlP2A",
+        "address": "Charlotte, NC",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Great food and atmosphere.  Staff was friendly and energetic\nLots of Gluten Free options too!\n\nWill definitely be back.",
+        "language": "en"
+      },
+      "date": "2023-03-17T02:44:18Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Madonna Angela V.",
+        "user_id": "nmHX8csRhLFj4fGtQNPJ1w",
+        "link": "https://www.yelp.com/user_details?userid=nmHX8csRhLFj4fGtQNPJ1w",
+        "address": "SoMa, San Francisco, CA",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Love the food, drinks and the ambiance! It is for sure one of our go-to's for small plates / tapas",
+        "language": "en"
+      },
+      "date": "2023-09-01T21:06:29Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jen C.",
+        "user_id": "2e1F-zL9kJQxCys9cyFWzQ",
+        "link": "https://www.yelp.com/user_details?userid=2e1F-zL9kJQxCys9cyFWzQ",
+        "address": "Saint Johns, FL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "We have loved this restaurant for 15 years and were absolutely thrilled to see Marcie behind the bar! She has always been such a delight. The service and drinks were amazing per usual and Marcie made us feel like we were right at home. Can't say enough good things.",
+        "language": "en"
+      },
+      "date": "2023-08-24T15:42:59Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Samantha B.",
+        "user_id": "nw06rWrsYyRv6DzAjpC78A",
+        "link": "https://www.yelp.com/user_details?userid=nw06rWrsYyRv6DzAjpC78A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/aMI4GAfUapu-3ihVw1pPnw/180s.jpg",
+        "address": "Upland, CA",
+        "friends": 10,
+        "photos": 83,
+        "reviews": 132,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This felt like home away from home. Visiting from CA and this was an amazing dinner stop. From walking in, felt so welcome. The food was exceptional and flavorful, not a single even mediocre food item. Everything was delicious and the sangria was amazing! Can't recommend this place enough. A little out of the downtown area but a short Uber ride!",
+        "language": "en"
+      },
+      "date": "2021-09-26T17:34:09Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wqKjMzPGN801-ydTW6YiEA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Erica R.",
+        "user_id": "15cFeAXS94wkFnjfGwapog",
+        "link": "https://www.yelp.com/user_details?userid=15cFeAXS94wkFnjfGwapog",
+        "address": "Powder Springs, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Theresa is the best server/bartender in the place! We ha d a party of 15 last night and she took great care of us. Extremely personable and lots of fun. She's the best!",
+        "language": "en"
+      },
+      "date": "2023-07-30T15:46:23Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rashad C.",
+        "user_id": "t3r0q-aVlgFfC3r-gPk7xQ",
+        "link": "https://www.yelp.com/user_details?userid=t3r0q-aVlgFfC3r-gPk7xQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/p2poQyhTtmdct9zW-rMUwQ/180s.jpg",
+        "address": "Towson, MD",
+        "friends": 884,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "When I tell you I love this place and come here solely for the employees. \nThey have the absolute best energy and great service! \nI come here 3-5 times a week and sit at the bar. \nMy favs are Marlena, Marcie , Donovan , Caroline and aturo! If you come in ask for any of them and I promise you , you're in for a treat! \nIt's all good vibes! \nBest spot in Buckhead!",
+        "language": "en"
+      },
+      "date": "2022-08-26T01:21:50Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "M A.",
+        "user_id": "ZyUOn8yLxhXwM2mXlZhNvQ",
+        "link": "https://www.yelp.com/user_details?userid=ZyUOn8yLxhXwM2mXlZhNvQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lWBx9_vBrBWZJtZ0dgXWxg/180s.jpg",
+        "address": "Sugar Hill, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 22
+      },
+      "comment": {
+        "text": "Always a good time. Has been a staple for over ten years! Love the live music. Food is always great! Patata bravas are the best in Atlanta",
+        "language": "en"
+      },
+      "date": "2023-02-07T06:36:49Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ed K.",
+        "user_id": "Kql6ZzSmUbP22TyKNin_qQ",
+        "link": "https://www.yelp.com/user_details?userid=Kql6ZzSmUbP22TyKNin_qQ",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Great food and atmosphere and Marcie always makes sure everyone with us is taken care of at the bar.",
+        "language": "en"
+      },
+      "date": "2023-08-24T20:59:10Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Y Yelp Y.",
+        "user_id": "apLLSjFTslCOZmIDEPBOMw",
+        "link": "https://www.yelp.com/user_details?userid=apLLSjFTslCOZmIDEPBOMw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZC2WjpvLkpELbvy6SHrfgQ/180s.jpg",
+        "address": "Alpharetta, GA",
+        "friends": 3,
+        "photos": 843,
+        "reviews": 533
+      },
+      "comment": {
+        "text": "***FOOD: Ok Food, ordinarily we love tapas food, this place sort of disappointed, food was Ok not really fantastic nor bad, it was just OK\n\n***COST (OUT OF 4$)  $ $  Reasonable cost, calamari app $9; patatas bravas $7\n \n ***DÉCOR/LOCATION: dark interior, loud noisy, haphazard decor, tables very close to each other, in an upscale industrial park basically, lots of parking\n \n ***SERVICE: long wait for service, not overly impressed\n \n ***RECOMMEND: Ok Recommend, it was ok place. We probably wouldn't go back since it's not near us and not really that noteworthy for us\n\n***MEAL: Calamari-OK, Patatas Bravas-dry; Gambas Shrimp-OK; lamb chops-good; empanada - ok; flan-ok",
+        "language": "en"
+      },
+      "date": "2022-07-08T00:38:46Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rafael C.",
+        "user_id": "-h1hZoaLBY9prSeOpWG0dg",
+        "link": "https://www.yelp.com/user_details?userid=-h1hZoaLBY9prSeOpWG0dg",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "The restaurant had an amazing vibe! The salsa music fit the aesthetic so well. The food was soooo good too. Our server (Kim) had beautiful energy and was so welcoming and attentive. She recommended the shrimp empanadas and the lamb and neither disappointed. I'll definitely be coming back for more!",
+        "language": "en"
+      },
+      "date": "2023-07-29T22:00:45Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Caio D.",
+        "user_id": "ar5ug6Jp361omRkMiOeF4w",
+        "link": "https://www.yelp.com/user_details?userid=ar5ug6Jp361omRkMiOeF4w",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "great time there on a Thursday night. Great music and our bartender Marcy was awesome.",
+        "language": "en"
+      },
+      "date": "2023-08-25T03:52:59Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Millian S.",
+        "user_id": "NKCvpar36eJcrMq77JjqSg",
+        "link": "https://www.yelp.com/user_details?userid=NKCvpar36eJcrMq77JjqSg",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Marcie is the reason i come other than the food. I work at Amazing Lash Studio and it's literally around the corner. I always come after work because Marcie gets me right! She is so personable and not to mention her top notch drinks at the bar. I absolutely love her! The food is amazing! You have to catch the happy hour to start off the night. They have half priced drinks and tapas. You come in wanting to stay no longer that an hour and you end up here all night. Between the amazing food and excellent customer service, like where else would you want to be?!?! I recommend the apple salad, ribs, veggie empanada, and  veggie pallea. I love the atmosphere. It's very warm and inviting. This place is definitely a hidden gem!",
+        "language": "en"
+      },
+      "date": "2023-08-11T22:38:07Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Candice T.",
+        "user_id": "ntvV64ksqg-PcfNi8yHlaA",
+        "link": "https://www.yelp.com/user_details?userid=ntvV64ksqg-PcfNi8yHlaA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gTHSwDQ5XIBjoOqVPMDbdg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 4,
+        "photos": 111,
+        "reviews": 80,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Came here tonight for our good friends' rehearsal dinner. There was a very large group of us, and the service was great. We had the ensalada de manzana, empanada de vegetales, macarrones con truffa, pollo a la parrilla, and calamares fritos. Mostly everything was good and seasoned well. Quite a few people in our party thought the calamari wasn't great and the truffle macaroni had a little too much truffle. But the staff did a great job attending to everyone and making sure we were well taken care of. Job very well done. We appreciate you!",
+        "language": "en"
+      },
+      "date": "2022-05-22T06:27:54Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Kenny L.",
+        "user_id": "Oa9XvACxD-Mul0FZ-BsYIw",
+        "link": "https://www.yelp.com/user_details?userid=Oa9XvACxD-Mul0FZ-BsYIw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WtWWO4b3CDoX8g_TnyQOAA/180s.jpg",
+        "address": "Tucker, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "We had our company yearly party here. Wow, what a blast. The food was fantastic, drinks were Great and we had a dd driver. The place is off the Chain. Lol I'm old but this place made me feel like i was a teenager.",
+        "language": "en"
+      },
+      "date": "2023-02-04T14:28:43Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kee K.",
+        "user_id": "TKJlJPTZF98geewFJtukdQ",
+        "link": "https://www.yelp.com/user_details?userid=TKJlJPTZF98geewFJtukdQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zNrdbS3zvgmfgDXTliSsCw/180s.jpg",
+        "address": "Sandy Springs, GA",
+        "friends": 200,
+        "photos": 1849,
+        "reviews": 317,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "think Eclipse di Luna is one of the more reasonably priced tapas restaurants I've been to, but that did not affect the quality of the food! We enjoyed everything we got, and I especially loved the manchego, apple, and walnut salad (Ensalada de Manzana). Usually salads aren't a stand out dish, but I just loved the flavor combination! We get patatas bravas at any tapas restaurant that we go to, and I'm always looking for crispiness and flavor - these had both! My friend's got the lamb chops (Chuletas de Borrego), and I got the grilled chicken (Pollo a la Parilla). Both were good, and I appreciated that they even had a dish with grilled chicken breast, as most tapas restaurants don't. Our server was great, and the food came out quick. Overall, we had a good experience and always a great time coming here.",
+        "language": "en"
+      },
+      "date": "2022-02-28T05:44:49Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 5,
+        "funny": 0,
+        "cool": 5
+      }
+    },
+    {
+      "user": {
+        "name": "Denice L.",
+        "user_id": "sGtBRoD3NxSgKUScOVaLlg",
+        "link": "https://www.yelp.com/user_details?userid=sGtBRoD3NxSgKUScOVaLlg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/J8NUsn_Qk46mUvwms0uQQg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 14,
+        "photos": 532,
+        "reviews": 243,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Always a great time here. Cousin came in town for a little rest but fun as well so this was our first stop. We ordered several things from the menu as you see from the pictures. Drinks, service and food was on point!!! This will always be our first before we move to the next phase of our day. You will not be disappointed!!!",
+        "language": "en"
+      },
+      "date": "2021-06-27T21:29:20Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pIt2wuAtF-mhz2474Na8Eg/o.jpg",
+          "caption": "The bar"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xKE0qa_MUiil1i5zxkS0hw/o.jpg",
+          "caption": "Lamb chops"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5cQ6CJXQXSdDMaIX_bYlkw/o.jpg",
+          "caption": "Plantains"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DhpGkTAYnqbYcvedBqJv7Q/o.jpg",
+          "caption": "Prawns"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Dee M.",
+        "user_id": "BM0fCekH-5hNXWRh6I4Y7g",
+        "link": "https://www.yelp.com/user_details?userid=BM0fCekH-5hNXWRh6I4Y7g",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Theresa (aka Tree) is the BEST!!!!!!! We loved her recommendations, service, and conversations. The food was phenomenal and perfect portions to share. Can't wait to come back :)",
+        "language": "en"
+      },
+      "date": "2023-08-02T00:47:08Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ang C.",
+        "user_id": "A7GMyC6K0WpjBJQkj5weZg",
+        "link": "https://www.yelp.com/user_details?userid=A7GMyC6K0WpjBJQkj5weZg",
+        "address": "U-MED District, Anchorage, AK",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Marcie and Chris are awesome bartenders! the tapas menu is amazing, particularly during happy hour, when two people can eat fabulous food (salmon, ribs, etc) for just $20! My favorite drink: Lemon Ginger Martini. Yum!!",
+        "language": "en"
+      },
+      "date": "2023-07-28T21:19:30Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kam M.",
+        "user_id": "a2pHeokH8l7r3T8nXach0A",
+        "link": "https://www.yelp.com/user_details?userid=a2pHeokH8l7r3T8nXach0A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2LLnjIvr0y9yMen135cJKQ/180s.jpg",
+        "address": "Chandler, AZ",
+        "friends": 126,
+        "photos": 799,
+        "reviews": 288,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Eclipse De Luna was 1 of my favorite after work happy hour places pre-corona as the Dunwoody location is enroute to my home. Today I was in the mood for some of their tapas and decided to place an order via Grubhub for pickup.\n\nGrubhub screwed up my order and when I got home I realized that I had seafood instead of vegetable paella. I called the location and the manager was very apologetic. He offered to have another order and even credited me back the cost due to me having to drive all the way back to the restaurant.\n\nLocation: This location is smaller than the Dunwoody location and in a weird spot at the end of a strip mall in the back of Miami Circle.\n\nDecor: Spanish style with an intimate feel as the lights were dimly lit.\n\nFood: Empanada De Vegetales corn, and black bean with tortilla cheese and a cilantro sour cream sauce\n\nHummas Tradicional Roasted garlic and spiced chickpea hummus, feta with basil oil\n\nPaella De Verduras made with assorted summer vegetables\n\nI never give 5 stars but the manager was great and I appreciate his assistance with correcting my order.\n\nThe food is always delicious and the have a separate vegetarian menu.\n\nHopefully the pandemic will be over soon and I will feel comfortable to dine in for happy hour drinks.",
+        "language": "en"
+      },
+      "date": "2020-07-13T23:14:40Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KQ7W3Vol8R8DMn-nBylnmA/o.jpg",
+          "caption": "Paella de Verduras"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PtECQmTlxi2Sud-0xsUudA/o.jpg",
+          "caption": "Hummus Tradicional"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0IslPwJmxlZ1mBrfeF07VA/o.jpg",
+          "caption": "Empanada de Vegetales"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chloe S.",
+        "user_id": "KsZileSdJQn9RCStqhsJmw",
+        "link": "https://www.yelp.com/user_details?userid=KsZileSdJQn9RCStqhsJmw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/J2MvxlhCsb-bMIwps7QBOA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 463,
+        "photos": 116,
+        "reviews": 193,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Came here last Friday and had a delicious meal. We got here around 7 which was the perfect time because a band started around 8. We tried the ceviche, lamb chops, bread with goat cheese and mushrooms (can't think of the name), and a vegetable empanada. My date got an old fashioned and I got the jalapeño cucumber margarita. Everything was very delicious! The lamb chops were cooked just as asked and service was quick and our server was kind in helping make suggestions. I will say that the band was super loud (even though we were sitting in the back room. I was glad we were finishing dinner shortly after they were starting because it would have made it talking (even across the table) difficult. That's the only complaint I would have, so just be mindful. Would be fun for a lively evening, not so much for a catch-up dinner. The parking lot is huge and there is ample free parking, always a plus.",
+        "language": "en"
+      },
+      "date": "2022-11-09T14:55:26Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=-CHazLwo2j2G8gWEZN53hA&start=120"
+  }
+}

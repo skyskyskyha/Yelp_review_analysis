@@ -1,0 +1,1307 @@
+{
+  "search_metadata": {
+    "id": "65f09ce52ff4211a36a01e04",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f09ce52ff4211a36a01e04.json",
+    "created_at": "2024-03-12 18:20:21 UTC",
+    "processed_at": "2024-03-12 18:20:21 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/1WJH896e7eD9m0BO79vnwg?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f09ce52ff4211a36a01e04.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f09ce52ff4211a36a01e04.prettify",
+    "total_time_taken": 1.85
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 130,
+    "num": "50",
+    "place_id": "1WJH896e7eD9m0BO79vnwg"
+  },
+  "search_information": {
+    "total_results": 257,
+    "business": "Truva Turkish Kitchen-Highland"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 257
+    },
+    {
+      "hl": "fr",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Quansherria B.",
+        "user_id": "RZseHWq9fyC1g9WvPM6t8g",
+        "link": "https://www.yelp.com/user_details?userid=RZseHWq9fyC1g9WvPM6t8g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bC6rNpFKHqg9frLyocxw2Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 4,
+        "photos": 11,
+        "reviews": 24
+      },
+      "comment": {
+        "text": "This octopus and bass fish is Devine!!!! Seriously amazing food!!! The atmosphere is cool gotta try other items on the list",
+        "language": "en"
+      },
+      "date": "2021-12-02T21:32:57Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Katie L.",
+        "user_id": "0GCkkof_74D7FEooy5gp2g",
+        "link": "https://www.yelp.com/user_details?userid=0GCkkof_74D7FEooy5gp2g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hYVMfY0g-gpNKsNFXY9MOg/180s.jpg",
+        "address": "State College, PA",
+        "friends": 3,
+        "photos": 11,
+        "reviews": 17
+      },
+      "comment": {
+        "text": "Great food, lovely & enthusiastic service on a week night! Helped to make my friend's birthday celebration special. Will definitely be back!",
+        "language": "en"
+      },
+      "date": "2021-11-25T02:27:25Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tanisha B.",
+        "user_id": "ReiDa33O7BnNhlYFA9nrxg",
+        "link": "https://www.yelp.com/user_details?userid=ReiDa33O7BnNhlYFA9nrxg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kU9-knL-zZm7NGDBl82zWQ/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 11,
+        "photos": 35,
+        "reviews": 67
+      },
+      "comment": {
+        "text": "Customer service is TRASH! There is a woman at the bar with a disgusting attitude. I mean DISGUSTING... I literally had to breathe to calm myself down. It's so bad, I will NEVER return to this restaurant.",
+        "language": "en"
+      },
+      "date": "2021-08-05T16:52:11Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nishank J.",
+        "user_id": "XKsmj0lrOobzAWq_GqgUDg",
+        "link": "https://www.yelp.com/user_details?userid=XKsmj0lrOobzAWq_GqgUDg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/byKYQK2_KcSt3jLhaTNW6Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 67,
+        "photos": 39,
+        "reviews": 72
+      },
+      "comment": {
+        "text": "One of my favorite spots in town. Amazing food and great staff. We usually order Babaganoush and Muhammara for appetizers. For entrées it is always Shakshuka and Zucchini Pancakes (a must try!!) . Their wine selection is good too. And yes pets are welcome!!",
+        "language": "en"
+      },
+      "date": "2020-11-15T00:22:06Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yBxOcdM6bG7_vKuWEoHzRA/o.jpg",
+          "caption": "Zucchini Pancakes"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Seanan O.",
+        "user_id": "MDHrH9hG4LQHhxYfzfH3sw",
+        "link": "https://www.yelp.com/user_details?userid=MDHrH9hG4LQHhxYfzfH3sw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OY3QWBSGLIiuT-u-IYbvYQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 21,
+        "reviews": 47
+      },
+      "comment": {
+        "text": "Outstanding!! Dined here 6/11/2021. Huge outdoor covered patio, great service, and the food was amazing. We had a group of five so we were able to sample a good selection of the menu.  Highlights included the free appetizer bread and sun dried tomato oil, hummus, Turkish rice, beets and burrata, murh... something spread, Turkish coffee, and the kanefah for dessert. I've never had kanefah before but will actively seek it out again, delicious! It was a great evening! Can't wait to come back.",
+        "language": "en"
+      },
+      "date": "2021-06-12T04:53:25Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Clarke W.",
+        "user_id": "ij_V5bhjJMy8I8v5FPJtGQ",
+        "link": "https://www.yelp.com/user_details?userid=ij_V5bhjJMy8I8v5FPJtGQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/s_d0k_wVwqLnI5ZwUglLxA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 25
+      },
+      "comment": {
+        "text": "Went to Truva for the first time last night. Lovely restaurant, great atmosphere friendly and efficient service, and most importantly, great food! \nWell socially distanced, so very at ease. The sun dried tomato dipping sauce for the bread was wonderful, as was the dumpling and my entree, the charred salmon with rice and spinach. My friends chicken kabob was good, but on the dry side, but great flavor. They also had no problem making a great \"MOCKTAIL\" for me as i am doing \"dry January\". Look forward to going back , or getting pick up.",
+        "language": "en"
+      },
+      "date": "2021-01-31T22:05:45Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kendra W.",
+        "user_id": "US49yiYQLRwxucGkhPGUCQ",
+        "link": "https://www.yelp.com/user_details?userid=US49yiYQLRwxucGkhPGUCQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gIuVRl7_KqVHqmIvoxNICw/180s.jpg",
+        "address": "Washington, DC",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "I just ordered takeout from these guys and felt compelled to write a review. Food arrived early which is always a plus. The baba ghanoush? OUT. OF. THIS. WORLD. It puts all other eggplant purées claiming to be baba ghanoush to shame. The chicken kebab? Immaculate. Their kunefe? Blew my socks off. I'm bloated now cause I couldn't stop eating it. They also included what seemed like complimentary bread which was perfectly crisp on the outside and chewy in the middle. 10/10 would recommend.",
+        "language": "en"
+      },
+      "date": "2021-05-17T00:25:01Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Bahar A.",
+        "user_id": "pPXUDgWkYxoPb42vUs6h8A",
+        "link": "https://www.yelp.com/user_details?userid=pPXUDgWkYxoPb42vUs6h8A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pflE2tSHO0d9iBn9IbOVfQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 15,
+        "photos": 169,
+        "reviews": 95
+      },
+      "comment": {
+        "text": "We went to Truva for a birthday dinner, and we were impressed with the fairly quick service for a large group. We started with bread and hummus, which were both solid. Then we shared a mixed grill plate that allowed us to sample the different kebabs. I personally prefer chicken and thought the chicken kebabs were really good, especially with the sauces that came with it. My boyfriend prefers beef and lamb, and he really enjoyed the different options. The only issue with our meal and that of a friend was that we had asked for our beef to be cooked medium and we both got rare. For that reason, I didn't even try the beef, but my boyfriend still thought it was good. That issue aside, we enjoyed our experience and would return on our own in the future.",
+        "language": "en"
+      },
+      "date": "2020-03-08T16:39:09Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EUT-9dv1VoQd74jAI9itug/o.jpg",
+          "caption": "Mixed Kebab Plate"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Murat A.",
+        "user_id": "81P_3sSR8TG4KI62iMX7VQ",
+        "link": "https://www.yelp.com/user_details?userid=81P_3sSR8TG4KI62iMX7VQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hAjgddOMdLe8msa0r6lkpQ/180s.jpg",
+        "address": "Jacksonville, FL",
+        "friends": 1,
+        "photos": 4,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "It was a classy place. Me and my family enjoyed the food. Staff was friendly. I recommend this place to everyone",
+        "language": "en"
+      },
+      "date": "2021-09-05T22:07:40Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kennedy M.",
+        "user_id": "rhL9GMGf5mK_IKCcvzhxFw",
+        "link": "https://www.yelp.com/user_details?userid=rhL9GMGf5mK_IKCcvzhxFw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CJfJAWH5aJXWSxhxBEuiXw/180s.jpg",
+        "address": "Downtown, Augusta, GA",
+        "friends": 2,
+        "photos": 17,
+        "reviews": 34
+      },
+      "comment": {
+        "text": "Trivia is tucked away in the poncey-highlands neighborhood. The restaurant was well-decorated with plenty of with plenty of indoor/outdoor seating options. The drinks were very strong (so strong I had to send 1/3 drinks back haha) and I enjoyed the cocktail menu. The food was just okay. I've had better Mediterranean food in the Atlanta area. The music was also killing the vibe. It was obviously being shuffled on the bartender's cellphone.",
+        "language": "en"
+      },
+      "date": "2021-10-15T02:26:07Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "John V.",
+        "user_id": "qxU0XTIVLt-uXq-Xdhqmdg",
+        "link": "https://www.yelp.com/user_details?userid=qxU0XTIVLt-uXq-Xdhqmdg",
+        "address": "Marietta, GA",
+        "friends": 1,
+        "photos": 7,
+        "reviews": 303
+      },
+      "comment": {
+        "text": "The meals others in our group had looked good, but the sea bass was TERRIBLE.  I've had sea bass hundreds of times elsewhere but It was a small whole fish.  They did not warn us when we ordered.  Small, not much flavor, very little to eat, and FULL OF BONES.  Yuch",
+        "language": "en"
+      },
+      "date": "2022-05-06T13:19:15Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nandi R.",
+        "user_id": "3SEnN4mHmMSEN3csS4680g",
+        "link": "https://www.yelp.com/user_details?userid=3SEnN4mHmMSEN3csS4680g",
+        "address": "Tucker, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Danny is an amazing server!! He is attentive, polite and personable. He made my first time at this restaurant such a great experience. I can't wait to come back and ask for him the next time I come. Great food, great vibes!!",
+        "language": "en"
+      },
+      "date": "2022-08-16T02:16:43Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Morgan S.",
+        "user_id": "8aM6NJNdkFHTJDx6y4OSNA",
+        "link": "https://www.yelp.com/user_details?userid=8aM6NJNdkFHTJDx6y4OSNA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ikr46G59n8XTfaVoZVzrdA/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 96,
+        "photos": 33,
+        "reviews": 120
+      },
+      "comment": {
+        "text": "They came here with my family for an early Sunday dinner. It was absolutely delicious and the service was fantastic. For appetizers we shared the cheese and hummus and cauliflower. Both of these were great dishes to start out with. Entrées for the table included the trout, lamb kebabs, red lentil soup, and zucchini pancakes. Everything was incredibly delicious. Ample serving sizes so we had leftovers to take home. Our server was so kind and attentive. When we went there was free parking. But I believe paid parking starts at 5:30. No one ordered any alcoholic drinks while we were there but the list looked great, I'd get one next time!",
+        "language": "en"
+      },
+      "date": "2021-06-28T17:54:40Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Gale S.",
+        "user_id": "OdG5_8Dep2p0q0xn-SktmA",
+        "link": "https://www.yelp.com/user_details?userid=OdG5_8Dep2p0q0xn-SktmA",
+        "address": "Marietta, GA",
+        "friends": 58,
+        "photos": 1,
+        "reviews": 24
+      },
+      "comment": {
+        "text": "Made our anniversary fabulous. When I had dietary restrictions around bread he\nBrought out a giant plate of veggies for me to go with my foursome of spreads. The lentil soup portion was huge and filling. We had falafel and calamari which was crispy and tasty, the babaganoush was divine, and my partner loved his baklava. Everything was brought out quickly and every course had me\nOohing and ahhing. Definitely worth dropping by for a special occasion!",
+        "language": "en"
+      },
+      "date": "2021-06-10T02:25:37Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Megan T.",
+        "user_id": "AAtu44P5EQHK03f52B4lcQ",
+        "link": "https://www.yelp.com/user_details?userid=AAtu44P5EQHK03f52B4lcQ",
+        "address": "Midtown Atlanta, Atlanta, GA",
+        "friends": 0,
+        "photos": 5,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Very reasonable pricing with good food. The complementary bread with roasted pepper dip that comes with the meal was great. Comfortable seating at the booth.",
+        "language": "en"
+      },
+      "date": "2021-11-07T21:29:28Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MBcy1wYIhl7_CUKpIJVQDA/o.jpg",
+          "caption": "The salmon dish was a wow. Extra creamy everything. The presentation was great also."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3aYAPSiI0q7F1UoX2HHbmQ/o.jpg",
+          "caption": "The eggplant puree was the best!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Blake J.",
+        "user_id": "VZMT6MI5kBjasvjlCWj2QA",
+        "link": "https://www.yelp.com/user_details?userid=VZMT6MI5kBjasvjlCWj2QA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zjBqIZqWv8FdaCHDfdT5Sw/180s.jpg",
+        "address": "Austin, TX",
+        "friends": 6,
+        "photos": 527,
+        "reviews": 163
+      },
+      "comment": {
+        "text": "absolutely yum! Got the hummus, chicken wrap and falafel wrap. the cilantro French fries were really good. Bread served with the hummus was also great! Chicken wrap was better in my opinion than the falafel wrap but both were delicious.",
+        "language": "en"
+      },
+      "date": "2020-03-16T00:21:12Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/olyetdrDYEUqOKoG_ap-Qw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Qrzght5yzxgnFd7k2koJiQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lnPIkeNoApBgonW6GJvAug/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AuwXtkjkUV-pBDxv6Pjupg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Tamara R.",
+        "user_id": "jiM85Cu7ifMwZyCs-D6K_g",
+        "link": "https://www.yelp.com/user_details?userid=jiM85Cu7ifMwZyCs-D6K_g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RoiZgg98kopToi_7CSN9Yw/180s.jpg",
+        "address": "Auburn Hills, MI",
+        "friends": 25,
+        "photos": 4,
+        "reviews": 26
+      },
+      "comment": {
+        "text": "Ok, this was not the best experience but I really hate that I have to give this place a bad review. Firstly, we wanted to be seated outside, and we were. BUT, it appeared that there were a few tables added to the outdoor area and it was in a dark corridor with one florescent light (picture included). We waited an hour at our table before I flagged down the 'manager' to check on our meal. To be fair to him, he did a great job cleaning up several messes the staff were making but the service was just not good. We started with the '3 mix the spreads' with hummus, muhammara and tabbouleh. Very good spreads, I would definitely order it again. For the mains, we had the grilled salmon and the shrimp kabobs. Very good food, but it took over an hour to receive. I would definitely order to go but the service here is just really bad. And then, to insult to injury, a bus boy came by. He set his tray on the table, requiring us to put our plates on his tray. He then preceded on to another table and gathers up a full tray of plates and such. He then requested that one of us, get out of our seat and open the door for him with his tray of plates.. I was literally beside myself... let me say again that the food was great and the manager tried to make up for his staff's shortfalls but it was not a place I would go to sit again until the service has improved.",
+        "language": "en"
+      },
+      "date": "2021-06-27T01:55:51Z",
+      "rating": 2,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vuWMJgkJLIfYcnec7EdwIA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Aries G.",
+        "user_id": "UEyd5e9nH381JOvjN6whNg",
+        "link": "https://www.yelp.com/user_details?userid=UEyd5e9nH381JOvjN6whNg",
+        "address": "TX, TX",
+        "friends": 0,
+        "photos": 7,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "The service is phenomenal and so is the food. Thank you so much for the amazing food! Definitely Recommend",
+        "language": "en"
+      },
+      "date": "2022-02-23T17:46:43Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lizi C.",
+        "user_id": "GAV2H1oI16DJQWCy6whPiA",
+        "link": "https://www.yelp.com/user_details?userid=GAV2H1oI16DJQWCy6whPiA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BhLfOEJFV5cxhWFyG46Ifg/180s.jpg",
+        "address": "Charlotte, NC",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Delicious!  Visiting area and looking for non-chain food.  Service was great. Hummus, beet arugula salad, grape leaves, falafel wrap and fries all delicious.",
+        "language": "en"
+      },
+      "date": "2021-07-31T19:41:50Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ron F.",
+        "user_id": "1sm7sSTkGcFFJbX2BboM3Q",
+        "link": "https://www.yelp.com/user_details?userid=1sm7sSTkGcFFJbX2BboM3Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LCnZjea0PJtACm0Q5ebgTg/180s.jpg",
+        "address": "Roswell, GA",
+        "friends": 1,
+        "photos": 0,
+        "reviews": 48
+      },
+      "comment": {
+        "text": "The food at Truva is SO good, whether you're getting traditional Turkish dishes or my new personal favorite the salmon with spinach and rice. Service is great and the owner is always there making sure everything is perfect.",
+        "language": "en"
+      },
+      "date": "2021-04-17T23:38:57Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Molly C.",
+        "user_id": "dVoAKCQuiUH97e15-tQhsA",
+        "link": "https://www.yelp.com/user_details?userid=dVoAKCQuiUH97e15-tQhsA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vq1sWCfRExIHkbaO7UmZBw/180s.jpg",
+        "address": "Ooltewah, TN",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "My daughter had reserved a table for my hubby's birthday. We were greeted by a sweet lady who gave us a choice of outside or indoor seating. We were served with slices of the fresh house made flat bread. It was served with a deliciously flavorful sauce. I ordered the beef burger and fries. The burger was cooked and seasoned well, the sesame bun was toasted and crisp, the fries were fresh and crisp. My hubby ordered the lamb that was so well prepared and presented. The serving size was large and the meat was delicious and succulent. The service was exceptional, the food was extremely delicious. The staff were pleasant, friendly and ensured that we were satisfied and took pride in making their customers happy.",
+        "language": "en"
+      },
+      "date": "2021-09-01T20:01:17Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Michelle C.",
+        "user_id": "kxBdzEvOUCVqKYUZlWZ2OQ",
+        "link": "https://www.yelp.com/user_details?userid=kxBdzEvOUCVqKYUZlWZ2OQ",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "My friend from Turkey brought me here for Christmas dinner. The food was exceptional, authentic flavors, reasonably priced, service was impeccable. I look forward to sampling more of the menu on future visits.",
+        "language": "en"
+      },
+      "date": "2021-12-25T22:54:17Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Becca H.",
+        "user_id": "IYtFg_nw30WCJ71i_X7eDw",
+        "link": "https://www.yelp.com/user_details?userid=IYtFg_nw30WCJ71i_X7eDw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ocyiBhTRQevKKlqyffwv0w/180s.jpg",
+        "address": "Casselberry, FL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "The food was absolutely amazing, the best i've had in a while, but when it gets busy, usually on the weekend, expect service to be a tad slow.. I ordered something that was never delivered (it ended up being okay since we were full anyways), and our tables second round of drinks took a very long time to get to us. Understandable considering they were busy, but still, organization is key when serving tables. Overall I would recommend this place! But just enjoy yourself and the food since it's so good. These are weird times so patience is key when dining anywhere :)",
+        "language": "en"
+      },
+      "date": "2021-04-17T01:37:08Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Drue E.",
+        "user_id": "98BNDZi9m4cxrCxOieobUw",
+        "link": "https://www.yelp.com/user_details?userid=98BNDZi9m4cxrCxOieobUw",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "It was a terrible experience! I came here around an hour before closing with my sister. A waitress dropped glass twice during our time here. Our waitress kept coming by while we were in a middle of a deep conversation to check if we were done because they were closing soon. If your restaurant is going to rush people close to closing then don't seat people 30 minutes- 45 minutes before closing. We also faced microaggressions at this restaurant from the staff! Terrible experience! Avoid it! Especially if you are a person of color.",
+        "language": "en"
+      },
+      "date": "2022-05-24T05:00:19Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Angela S.",
+        "user_id": "NLgyiJzFhO42kq_eEhqiNQ",
+        "link": "https://www.yelp.com/user_details?userid=NLgyiJzFhO42kq_eEhqiNQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/s8XklWvOuecr3s-aRgTbLQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 118,
+        "photos": 0,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "Here we are, still living the pandemic life, and as much as I am able, I try to find socially distanced patios to take my compromised mother. We found Truva's pretty little patio and sat outside. The bartender was waiting tables today and came to our table and made sure his mask was on. My mother is not only immune compromised, but has severely cognitively declined, but the waiter was aware, helpful, and his demeanor was kind. Even just a little kindness right now from a stranger is priceless to her because she is at home almost every day, lonely, and cannot go to her regular adult day care center with people she knows. My Moussaka, her Shrimp kabob, and our desert was perfect and delicious but the service was outstanding. Thankyou.",
+        "language": "en"
+      },
+      "date": "2020-09-01T00:42:20Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 4,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Hambri Enta M.",
+        "user_id": "zRRZW1XsVD434URJOVOqaw",
+        "link": "https://www.yelp.com/user_details?userid=zRRZW1XsVD434URJOVOqaw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DSBL-DDVpW61pz90jfgulg/180s.jpg",
+        "address": "Panama City Beach, FL",
+        "friends": 147,
+        "photos": 305,
+        "reviews": 785
+      },
+      "comment": {
+        "text": "Recent addition to the neighborhood. Because they are so new I understand they are working out some glitches. I waited a bit at bar at 12 p.m. then finally had someone come out, after chatting they took my water order but no menus presented until asked for. Once I got my order in, i got to take in the nice decor of the place. It is very modern and lounge like in the bar, with lush sofas for those who want a more relaxed gathering\n\nI had lamb kabobs. The meat portion was decent, flavor was goooood. The veggies were really bland, really really bland. I will be back in a few months",
+        "language": "en"
+      },
+      "date": "2019-03-11T14:23:41Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Richard H.",
+        "user_id": "BQcHGUVZ4ew1anEJ_fl5AQ",
+        "link": "https://www.yelp.com/user_details?userid=BQcHGUVZ4ew1anEJ_fl5AQ",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "ordered pickup, told ready in 15-20 minute, got there in 15 minutes. waited 50 minutes. no explanation. do not do take out here.",
+        "language": "en"
+      },
+      "date": "2022-11-21T03:24:06Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nopawan T.",
+        "user_id": "fqaq7mNbUUlGyhX2D3WKoA",
+        "link": "https://www.yelp.com/user_details?userid=fqaq7mNbUUlGyhX2D3WKoA",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 15,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "We road our bike to VA Highlands and decided to stop by Truva for dinner. We rode past this restaurant all the time and finally decided to give it a try. The food is good and very friendly service. They have patio seating, so for those who aren't comfortable with eating indoors during COVID, this is a good option.",
+        "language": "en"
+      },
+      "date": "2020-08-27T00:04:22Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sa1zmgorSS5918xgUtAUXw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OLQQ6fMd0Fg9kcWEkcoCyg/o.jpg",
+          "caption": "Pancake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oq4kmuE38oLAy8lOXhnFZg/o.jpg",
+          "caption": "Grilled Octopus"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Bill A.",
+        "user_id": "o9uT2mApsbdjN3aU5-wp2Q",
+        "link": "https://www.yelp.com/user_details?userid=o9uT2mApsbdjN3aU5-wp2Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Kfl5tIlLya0e1wu-V_FrXQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 5,
+        "photos": 6,
+        "reviews": 25
+      },
+      "comment": {
+        "text": "Very happy this place opened up so close to home. \n\nWe placed a large carryout order with a variety of entrees and apps for a family-style dinner. Chris was great in helping suggest substitutions for the items they didn't have (we accidentally planned the order off the downtown menu which is slightly different from this location). \n\nEverything was incredible - especially the \"Acili Ezme\" (hot spread) ...which we didn't actually order but they tossed 2 in for free as it's a popular dish. Now, it seems, we'll have to always have some on hand at home because it is delicious af.\n\nSaving the 5th star for when we can actually dine-in and enjoy all the beautiful tile-work. Not missing American Roadhouse at all!",
+        "language": "en"
+      },
+      "date": "2019-02-09T15:56:01Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Sandy G.",
+        "user_id": "2-g5t8X66sj1RvODc6ONjQ",
+        "link": "https://www.yelp.com/user_details?userid=2-g5t8X66sj1RvODc6ONjQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nEnnJ-kyt0WsQ-ewBRkZ2g/180s.jpg",
+        "address": "Hawkinsville, GA",
+        "friends": 0,
+        "photos": 10,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "The bread is made in house!!! This bread is awesome, crisp outside soft inside served with amazing tomato olive oil dipping sauce. The portion of seafood is not worth the $$$ but it was very good. The salads are fresh and very tasty, love the beets! Can't wait to come back for salad and lots and lots of bread!",
+        "language": "en"
+      },
+      "date": "2021-06-03T01:43:24Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Doug E.",
+        "user_id": "TCbTw51pVdwPIviEtoB52Q",
+        "link": "https://www.yelp.com/user_details?userid=TCbTw51pVdwPIviEtoB52Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lbvwlVTLQIRHajoKt4pkKQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 20,
+        "photos": 0,
+        "reviews": 19
+      },
+      "comment": {
+        "text": "Tried Truva based off a friends recommendation. Was looking for something different so thought it would be a good try. The food was good and the drinks were good. However, the service was ridiculous. Waiter kept pushing us to order. We ordered drinks and 3 of the dips. He then took our dinner order before the dips came out. We never saw him again except for when he brought the food. He dropped it on the table, and walked away. We never got a chance to order another drink or were even checked on by anyone. Thankfully, we had water or else it would have been really bad. When we finished, it still took 20+ minutes before the waiter came back. Again, food was good. Not sure we will go back as it seems like the service is a risk. If you have good service, might be worth it.",
+        "language": "en"
+      },
+      "date": "2021-03-28T01:22:25Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lindsey G.",
+        "user_id": "mgSTGmfbl_B8Tu6Ss7Wjlg",
+        "link": "https://www.yelp.com/user_details?userid=mgSTGmfbl_B8Tu6Ss7Wjlg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2H_KfXaKM80NM_kvOdKLQQ/180s.jpg",
+        "address": "Jacksonville, FL",
+        "friends": 487,
+        "photos": 67,
+        "reviews": 76
+      },
+      "comment": {
+        "text": "This place is so under appreciated and I'm so sad that it took me so long to discover it. \n\nThe atmosphere is amazing. The decorations are top notch; they are clean, perfectly themed, and comfortable. They have indoor and outdoor seating  as well as a bar. \n\nTheir happy hour starts at 3pm and is a great deal. They have discounted small plates, beer/wine, and cocktails. \n\nI had the hummus and falafel and they were so good. I even ordered a second order of falafel it was soo good. The kunefe for dessert was the perfect ending of a great meal. \n\nThe service was also super great. The server, Juliet, was attentive without being annoying and had great explanations for all of the dishes. \n\nI highly recommend this place if you're looking for something fun and different!",
+        "language": "en"
+      },
+      "date": "2019-05-20T02:49:50Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Kerim Ö.",
+        "user_id": "HrS2dBCioiARwAYFqCI2Ng",
+        "link": "https://www.yelp.com/user_details?userid=HrS2dBCioiARwAYFqCI2Ng",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 18,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "The Best Food ,The best Service,\nThe Best experince l had.\nThank you so much .\n\nyou shoul see that experince.\nexcellent)",
+        "language": "en"
+      },
+      "date": "2021-05-05T22:51:57Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chad A.",
+        "user_id": "Ik0obH-eVbA8Whgmngwj1A",
+        "link": "https://www.yelp.com/user_details?userid=Ik0obH-eVbA8Whgmngwj1A",
+        "address": "Decatur, GA",
+        "friends": 0,
+        "photos": 13,
+        "reviews": 143
+      },
+      "comment": {
+        "text": "Loved it. Came for lunch. The adana was my favorite but everything was delicious. Highly recommend and would say best Turkish restaurant in ATL.",
+        "language": "en"
+      },
+      "date": "2021-12-12T18:03:20Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rebecca E.",
+        "user_id": "r5at0KCMvHfEV7K-GWTQXA",
+        "link": "https://www.yelp.com/user_details?userid=r5at0KCMvHfEV7K-GWTQXA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/c1nz5o9AnWLi3WuIE3t-MA/180s.jpg",
+        "address": "Bogart, GA",
+        "friends": 1,
+        "photos": 27,
+        "reviews": 51
+      },
+      "comment": {
+        "text": "What does a vegan eat on Thanksgiving? This one ate Turkish food. It was delicious. I had the artichoke bottoms and the shakshuka. Both were amazing. I would gladly go back. Many items were vegan or could easily be made so but there were also a lot of meaty items so you could come here with a diverse group. My family is very picky in many different ways and we were all happy.",
+        "language": "en"
+      },
+      "date": "2019-11-28T23:57:11Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kdU2TI4An5kpTY4HV0EizQ/o.jpg",
+          "caption": "Shakshuka"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kOHAHm2us2_jwRnhMwckQA/o.jpg",
+          "caption": "Artichoke bottoms"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "M P.",
+        "user_id": "KTXdzYnTmCU3nJNjV-K3EQ",
+        "link": "https://www.yelp.com/user_details?userid=KTXdzYnTmCU3nJNjV-K3EQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/aWtnWC7yo1sxKM3abmRgVA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 25,
+        "photos": 4,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "Finally ate at Truva and really enjoyed the physical transformation of the old America Roadhouse site. Tried several things including the dumplings, cilantro rice, zucchini pancakes, falafel, and calamari. Everything was pretty good, although the pasta used in the dumplings was very dough-y, the meat filling was beautifully seasoned. I'm guessing that as things go forward, they'll work out some\nof the kinks. Def worth giving a try and providing feedback to help them do it.",
+        "language": "en"
+      },
+      "date": "2019-11-13T19:24:48Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brooke A.",
+        "user_id": "nRrUnoAIzqteIgNJtRFTIA",
+        "link": "https://www.yelp.com/user_details?userid=nRrUnoAIzqteIgNJtRFTIA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/s-BhUNqHdHFDQH6DwswnZg/180s.jpg",
+        "address": "Virginia-Highland, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Food is incredible!! Even the bread and dip you get for free is outstanding. Excellent service and such cool decor. Amazing experience!  The zucchini pancake was my favorite. They also have outdoor seating!",
+        "language": "en"
+      },
+      "date": "2021-03-04T23:35:02Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Okan D.",
+        "user_id": "pJ-XcrbbhntXN4L5bvzDnQ",
+        "link": "https://www.yelp.com/user_details?userid=pJ-XcrbbhntXN4L5bvzDnQ",
+        "address": "Doraville, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Food was average and desert and coffee was terrible here is picture of the coffee. The manager was serving coffee exactly as picture there should be a purpose to serve this!",
+        "language": "en"
+      },
+      "date": "2020-12-28T04:15:41Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Praveen K.",
+        "user_id": "02YoG-YS01zfvct6zJ3dMA",
+        "link": "https://www.yelp.com/user_details?userid=02YoG-YS01zfvct6zJ3dMA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3g4DsqaBna6reCVbNRtCHg/180s.jpg",
+        "address": "San Carlos, CA",
+        "friends": 66,
+        "photos": 42,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "Great atmosphere, clean , & wonderful food & drinks ..my favourite new spot ..!!\nVery attentive staff ,",
+        "language": "en"
+      },
+      "date": "2019-04-19T05:10:43Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ryan R.",
+        "user_id": "jQmnQgqPTYq17fUm0C5bmA",
+        "link": "https://www.yelp.com/user_details?userid=jQmnQgqPTYq17fUm0C5bmA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pOrX-5PNO-9iq-DuUrmFuA/180s.jpg",
+        "address": "Mechanicsville, Atlanta, GA",
+        "friends": 0,
+        "photos": 20,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "Ordered to-go from this place was really excited about trying the food. What I wanted initially was unavailable so I pivoted to the lamb shank, my partner had the Bronzini. The taste of my food was okay the lamb was cooked well but the sauce served with it was not my favorite. My partner's fish was served well and had a fresh taste but it wasn't well seasoned. Overall both plates left us wanting more. Wouldn't recommend.",
+        "language": "en"
+      },
+      "date": "2021-02-15T01:53:38Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alaina I.",
+        "user_id": "HMGnfI5g2yVoPhB6XsAkxg",
+        "link": "https://www.yelp.com/user_details?userid=HMGnfI5g2yVoPhB6XsAkxg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dk-nRR8m5x88sntZPJ9ONA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 7,
+        "photos": 3,
+        "reviews": 45
+      },
+      "comment": {
+        "text": "Excellent Turkish food! All three of us thought this meal was outstanding and look forward to our next visit.",
+        "language": "en"
+      },
+      "date": "2020-08-15T22:21:01Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Susana R.",
+        "user_id": "slsSMfIZA1KnrweMLAV5Ew",
+        "link": "https://www.yelp.com/user_details?userid=slsSMfIZA1KnrweMLAV5Ew",
+        "address": "East Side, San Antonio, TX",
+        "friends": 0,
+        "photos": 4,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "I visited from Texas to Atlanta for the first time. My sister and I absolutely loved it here. Everyone was fantastically friendly and attentive. The food was amazingly delicious and the drinks were just as great. I will absolutely return. Thank you!",
+        "language": "en"
+      },
+      "date": "2021-02-06T00:36:18Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OZ0QhC8cmglNaKmlH_bAxw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hYAqY96my0ZLsTHez1daAg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/r5fm3UavuY4VMNjG3rZAPA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2DQd4Z_3oBN-XpgjQuaHWQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Stuart F.",
+        "user_id": "h509vlltLz5H7ypiDX2aGQ",
+        "link": "https://www.yelp.com/user_details?userid=h509vlltLz5H7ypiDX2aGQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_sOC9XvBRPCYoC9Atu3PSg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 50,
+        "photos": 0,
+        "reviews": 19
+      },
+      "comment": {
+        "text": "Update to previous review. Went back to Truva for NYE dinner last night and was highly disappointed. Had reservations for 5 at 8:00. Showed up for dinner (on time) and was told there would be a 45 minute wait for our table... so, what's the point of making reservations??? Ended up eating at the bar. Bar staff was excellent and the food was good,  but I won't be going back anytime soon.\n\n\n\nFirst time here since American Roadhouse closed. New ambiance is really nice - looks totally different. Dinner experience was excellent - great service and very friendly. Recommend starting with the Turkish Mar Tea-Ni.\n\nThe food was excellent - had a number of appetizers - my favorite was the octopus. The lamb kebab was the favorite entree for our party.\n\nThe only thing I would mention in terms of opportunities to improve was that the food came out a little slow - but it wasn't a big deal.\n\nLastly, the portions are really generous - so I'd recommend splitting appetizers and/or entree's.",
+        "language": "en"
+      },
+      "date": "2020-01-01T13:17:52Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mike M.",
+        "user_id": "_ahokTelT7dYG5c8CnOF7w",
+        "link": "https://www.yelp.com/user_details?userid=_ahokTelT7dYG5c8CnOF7w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_8pe3AzuAesy_DibZZF_vw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 23,
+        "photos": 171,
+        "reviews": 25
+      },
+      "comment": {
+        "text": "Great location. They are now our new local favorite. Can't wait to go back and try more items from the menu. Don't let the 'Turkish' theme turn you off. Savory chicken kabobs with delicious rice. Everything we tried was well prepared and very fresh. Staff are friendly and really want you to have a good experience. The horseshoe shaped bar has a couple of TVs and is a great happy hour spot as well. \nThey are a breath of fresh air in our neighborhood.",
+        "language": "en"
+      },
+      "date": "2019-04-08T01:45:31Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brian B.",
+        "user_id": "tEdjYLyNhiEvXT996FfqWw",
+        "link": "https://www.yelp.com/user_details?userid=tEdjYLyNhiEvXT996FfqWw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WiZRouB6JHW0Bm1Vcjl9iA/180s.jpg",
+        "address": "Fort Lauderdale, FL",
+        "friends": 1,
+        "photos": 148,
+        "reviews": 68
+      },
+      "comment": {
+        "text": "Lovely restaurant. Service was terrific. Menu has a great variety of vegan and vegetarian options. Portion are nice size. Tried many items which I can not spell or pronounce  decor is very well done and patio perfect on nice evenings.",
+        "language": "en"
+      },
+      "date": "2019-10-12T00:04:11Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ifzSxvvQ9RUOsd5Kg6pDsA/o.jpg",
+          "caption": "Inside"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_B6915BoG2pDGah-PEDTKg/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/m5tllD3iItcTilGTfxGMPw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nsRsAOqFWFLnyILZHqe-4A/o.jpg",
+          "caption": "Bar"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wKxp75O_vIt9wAPJbDdK_g/o.jpg",
+          "caption": "Wine menu"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Will A.",
+        "user_id": "miSDYjl9ezKJQgdbp9pi5A",
+        "link": "https://www.yelp.com/user_details?userid=miSDYjl9ezKJQgdbp9pi5A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kVxy2jESwr9QNUTjdtj2uw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "I've been to the ViHi location several times and the downtown once. This location is definitely my favorite. I'm Greek and grew up on Greek food, which is pretty much identical and it's pretty tasty.",
+        "language": "en"
+      },
+      "date": "2020-12-22T15:36:58Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sharyn P.",
+        "user_id": "1mjz0NNjAiLVWYycNlpMWw",
+        "link": "https://www.yelp.com/user_details?userid=1mjz0NNjAiLVWYycNlpMWw",
+        "address": "Windsor Hills, View Park-Windsor Hills, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Really enjoyed the food.  Our table ordered the boneless trout, lamb chops, chicken kebab and scallops. Yum!!! All dishes were delicious with everyone taking a \"doggie bag\" home with us because the plates were hearty!   Wine and martinis were delish as well.  We sat outside with social distancing practiced and the service was excellent, especially our server Juliet.  She has a personality that needs to be replicated in so many other restaurants.  Definitely a place to remember and visit again.",
+        "language": "en"
+      },
+      "date": "2021-04-23T19:31:28Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Patricia B.",
+        "user_id": "DsCwiLWtuFZhRS_nDXCrfw",
+        "link": "https://www.yelp.com/user_details?userid=DsCwiLWtuFZhRS_nDXCrfw",
+        "address": "Loma Linda, CA",
+        "friends": 155,
+        "photos": 2,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "The photo doesn't do it justice, but the Mixed Grid was so good. We also had Cilantro Garlic Fries and Truva Dumplings. Everything tasted so good and the service was top notch. I will definitely be back.",
+        "language": "en"
+      },
+      "date": "2020-09-27T01:43:23Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GUxiDl1Rz5EXMVbjtAQlZg/o.jpg",
+          "caption": "Mixed Grid"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "David P.",
+        "user_id": "tvYw1RVAKAgcMqgfp7x6_g",
+        "link": "https://www.yelp.com/user_details?userid=tvYw1RVAKAgcMqgfp7x6_g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qP7p-rb2KFjW6NLwK9LjTQ/180s.jpg",
+        "address": "Tampa, FL",
+        "friends": 4,
+        "photos": 6,
+        "reviews": 54
+      },
+      "comment": {
+        "text": "First time.  Had the beef tenderloin, very delicious.  The tomato paste with the bread is delicious.  Nice atmosphere, kind pf soothing.  Bartender and staff were attentive.  Will return.  Good draft beer BtW.",
+        "language": "en"
+      },
+      "date": "2020-08-23T06:30:12Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kharla R.",
+        "user_id": "hnd9Cg2IqfWt2hxfOYV97Q",
+        "link": "https://www.yelp.com/user_details?userid=hnd9Cg2IqfWt2hxfOYV97Q",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "I looove the vibe and food here! The staff is always nice.  This place was my first try of Turkish food and I'm now so interested!",
+        "language": "en"
+      },
+      "date": "2021-06-27T02:11:45Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=1WJH896e7eD9m0BO79vnwg&start=180"
+  }
+}

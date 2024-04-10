@@ -1,0 +1,2256 @@
+{
+  "search_metadata": {
+    "id": "65ef2e6a17f9231054f59872",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cba2f21086e022a5/65ef2e6a17f9231054f59872.json",
+    "created_at": "2024-03-11 16:16:42 UTC",
+    "processed_at": "2024-03-11 16:16:43 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/bAybZImsqUwinMrzZlzVIQ?",
+    "raw_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef2e6a17f9231054f59872.html",
+    "prettify_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef2e6a17f9231054f59872.prettify",
+    "total_time_taken": 2.14
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 20,
+    "num": "50",
+    "place_id": "bAybZImsqUwinMrzZlzVIQ"
+  },
+  "search_information": {
+    "total_results": 1549,
+    "business": "True Food Kitchen"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 1549
+    },
+    {
+      "hl": "es",
+      "count": 2
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Shaun B.",
+        "user_id": "ZnUTyLbTlL7kfdpn0Jhg9A",
+        "link": "https://www.yelp.com/user_details?userid=ZnUTyLbTlL7kfdpn0Jhg9A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Iq3i6I7Bc5X_MOT1dXe18A/180s.jpg",
+        "address": "Key West, FL",
+        "friends": 0,
+        "photos": 28,
+        "reviews": 33
+      },
+      "comment": {
+        "text": "The food here is terrific if you are interested in healthier menu options that are actually tasty and creative. \nThe service team also command high marks and that's been my experience going here for a few years now.",
+        "language": "en"
+      },
+      "date": "2023-12-21T03:55:23Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Josh",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Vyfs-e8HmB-JAcxacj-5_g/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much for taking the time to leave a review! We're so glad to hear that you enjoy our tasty and creative menu options, as well as our high-quality service. We appreciate your continued support over the past few years.",
+          "date": "2023-12-21T07:03:41Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Stella F.",
+        "user_id": "Foc3xF1daowIeysCWFH7Dg",
+        "link": "https://www.yelp.com/user_details?userid=Foc3xF1daowIeysCWFH7Dg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/S6jcmgp6WUEhv3LaGrwW9g/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 35,
+        "photos": 515,
+        "reviews": 264,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My first time here and it was awesome! Came for dinner with my mom and sister. I had the hit ginger and honey tea that was perfectly sweet and so good that they ordered one too. We had the charred cauliflower app and I wasn't expecting it to be sauced but it was very good. Enough for 3 if you're not starving. I got the Mediterranean salad as my entree and it was a good size. My sister got the ancient grains bowl and my mom got the Panang curry. It was all delicious! And reasonably priced. All of our food and teas came to about $95. Service was great and free parking via the malls lot. Would return.",
+        "language": "en"
+      },
+      "date": "2023-07-08T18:48:34Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8PQ-9uj_X5fs5xsDGW-SVQ/o.jpg",
+          "caption": "Ancient grains bowl with salmon"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Stella, thank you for the 5 stars! We hope to have you back again soon!",
+          "date": "2023-07-09T13:22:21Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Cookie J.",
+        "user_id": "w7_JKfurJ6TLnhh2k41Y9Q",
+        "link": "https://www.yelp.com/user_details?userid=w7_JKfurJ6TLnhh2k41Y9Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0l4YIV7Wpx2L3axZddvHAA/180s.jpg",
+        "address": "Fresno, CA",
+        "friends": 1,
+        "photos": 112,
+        "reviews": 35
+      },
+      "comment": {
+        "text": "PROS: very good turkey burger, full of flavor & sweet potato hash was very good as well, service was excellent and ambiance was good.  Overall, rating the food, 1-10, I'd give it a 9.  I also had two Spritzers (not shown), prickly pear and peach, both were very good, light taste and spritzy, of course.  Of the two, the prickly pear was better.\n\nCONS:  can't think of any",
+        "language": "en"
+      },
+      "date": "2023-09-07T04:09:52Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oUR41iEfFHL8ZhDAEWU5_g/o.jpg",
+          "caption": "Hatch Green Chile Turkey Burger & Sweet Potato Hash"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qOQ-u4hoDPDZoqgfZnVpcQ/o.jpg",
+          "caption": "Watermelon Lemonade"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/q1W3Bz1Yq_pcK0Gt2wY7wg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Cookie, we appreciate you!",
+          "date": "2023-09-07T14:08:43Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Brionna R.",
+        "user_id": "QfYQTIsz-12bFHwSG3nQng",
+        "link": "https://www.yelp.com/user_details?userid=QfYQTIsz-12bFHwSG3nQng",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dBGmXk0tYdTt4uUqhGsUrg/180s.jpg",
+        "address": "GA, GA",
+        "friends": 178,
+        "photos": 164,
+        "reviews": 80,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Amazing food, drinks, and atmosphere. Every once in a while I find myself wanting fresh and tasty food and I end up at True Food Kitchen. The food is always flavorful and the bar tenders always provide excellent service.",
+        "language": "en"
+      },
+      "date": "2023-07-29T04:13:46Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vvRhkZCC95tcsKRx6OY6hA/o.jpg",
+          "caption": "Strawberry Mojito"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YxZBFTboTj20C0tCy7z5lg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vhfE77VrJt0YQg64vsFL6A/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Brionna, we appreciate you taking the time to post this. You are very important to us!!!",
+          "date": "2023-07-29T13:23:06Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Carmen H.",
+        "user_id": "PCaSAvbWWnZy5IyX25DNgA",
+        "link": "https://www.yelp.com/user_details?userid=PCaSAvbWWnZy5IyX25DNgA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ypD0nYnPlq1W5vDd8hRVYA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 374,
+        "photos": 2019,
+        "reviews": 282,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My husband and I were looking for somewhere healthy for a date night spot and decided on True Food Kitchen. When we arrived there wasn't a wait and we were able to be seated outside. It was a nice day, so the outside dining area was perfect. Our waiter, Martin, was fantastic. He provided great recommendations on drinks and entrees, while also being very attentive. We ordered the sparkling apricot tea, sparkling prickly pear tisane, spaghetti squash casserole with chicken sausage, and the teriyaki quinoa bowl. The drinks were very refreshing and the food was fulfilling, as well as delicious. We thoroughly enjoyed True Kitchen and will be back in the near future.",
+        "language": "en"
+      },
+      "date": "2023-06-19T18:35:44Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cEbjsAm2lgAM0TLMTDDM3A/o.jpg",
+          "caption": "Sparkling apricot tea"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MzjK_fitPzMk2Dzc4Ku7Cg/o.jpg",
+          "caption": "Teriyaki Quinoa Bowl"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wtu9pWeAvu584LykI_eC8A/o.jpg",
+          "caption": "Sparkling Prickly Pear Tisane"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Wlgbj62PYdFEEeT1G-sz6Q/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uRI544JSKTKS8t73UE6OIg/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zgX0s1avtk0Qwh7GFxeegA/o.jpg",
+          "caption": "Spaghetti squash casserole"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Carmen,\n\nThank you for leaving us a review! Our teriyaki quinoa bowl with fresh and house made teriyaki sauce is one of my favorite dishes! If you like spice, ask for some of our wok sauce to pour on top next time too. You will not be disappointed.",
+          "date": "2023-06-20T13:33:29Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Marya V.",
+        "user_id": "jqSKaohKcDSd14vmck5edQ",
+        "link": "https://www.yelp.com/user_details?userid=jqSKaohKcDSd14vmck5edQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DBUOtLCQYNbmpxyAdYOYRA/180s.jpg",
+        "address": "Albany, NY",
+        "friends": 0,
+        "photos": 6,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "This place is fantastic! We hosted a dinner of approx 23 people tonight at the Buckhead location. The service of Terrell and Gigi was OUTSTANDING!!! They were chipper, helpful with our selections and not a thing was missed. Alongside the fantastic service, everything was incredibly delicious, fresh, presented well and served hot and at the same time which is tricky for such a large group! Everyone raved about the atmosphere, options, drinks and appetizers. Highly recommend for a fresh yummy twist on a traditional evening out",
+        "language": "en"
+      },
+      "date": "2024-02-07T01:29:09Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Josh",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Vyfs-e8HmB-JAcxacj-5_g/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much for leaving such a positive review about your experience at our Buckhead location! We are thrilled to hear that Terrell and Gigi provided outstanding service and that you enjoyed the delicious food, presentation, and atmosphere. We appreciate your recommendation and hope to welcome you back soon!",
+          "date": "2024-02-07T07:21:18Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jada P.",
+        "user_id": "3SGDH42RffExzUBu_KMTfA",
+        "link": "https://www.yelp.com/user_details?userid=3SGDH42RffExzUBu_KMTfA",
+        "address": "Stonecrest, GA",
+        "friends": 0,
+        "photos": 10,
+        "reviews": 22
+      },
+      "comment": {
+        "text": "As a frequent visitor to True Food, I've always enjoyed my dining experiences here, which makes my recent visit all the more disappointing.\n\n(It's important to note that the food was good, as it has always been, and my critique is strictly regarding the service experience.)\n\nHaving worked in the service industry for several years, I understand the pressures and demands of the job quite well. This perspective makes me sympathetic to the challenges faced by servers, yet it also confirms my belief that the level of service I received at True Food was objectively subpar and not up to the standards of any dining establishment.\n\nUpon arrival, the service was startlingly indifferent. There was no greeting, and the only way I learned our server's name (Milan) was by glancing at her name card. Her approach lacked the basic courtesy I've come to expect not just at True Food, but in any dining establishment. Instead of a welcome, or even a Hello, she quickly asked if we wanted drinks, leaving us quite taken aback.\n\nHoping this was just an off moment, I waited for an improvement. Unfortunately, the service did not get better. When taking our order, there was no engagement, no recommendations, and no inquiry about potential allergies - just a straightforward request for our order. This lack of interaction was both surprising and disappointing.\n\nThe service continued to be lacking throughout our meal. Our server was absent for extended periods, over 20 minutes at one point, and we were left without basic necessities like straws, seasoning or ketchup the *entire meal. \n\nWe didn't receive a *single* check-in to see if everything was satisfactory or if we needed anything.\n\nTowards the end of our meal, she briefly appeared to offer to-go boxes, no desert, and then quickly left again. \n\nNotably, she attended to the table next to us with providing them with ketchup that we had been waiting for. Keep in mind, this was for another servers table. This discrepancy in service led me to feel uncomfortable and question the nature of this differential treatment...\n\nI am reluctant to jump to conclusions about the reasons behind this disparity in service, but it's disheartening to even consider that it might be related to bias or stereotyping. No customer should even have to feel they are being treated differently due to their appearance.\n\nI sincerely hope this was an isolated incident and not reflective of a deeper issue within the restaurant. True Food has always been a place I enjoyed, and it's disheartening to have such a negative experience. I believe in constructive feedback and hope that my review can contribute to improving the service for all patrons.",
+        "language": "en"
+      },
+      "date": "2024-01-30T08:23:05Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Josh",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Vyfs-e8HmB-JAcxacj-5_g/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Jada, on behalf of my team I want to sincerely apologize. We dropped the ball in multiple areas and really there will never be a valid justification or excuse as to why in my opinion. I have already had a conversation with my managment team, and we will be addressing this at every shift with our staff. Legendary service is something that we push for EVERY time, and you did not receive that on your last visit. Please give me a call and I'd love to invite you back in to dine with us and receive the expereince you should every time.\n\nMy direct number is 404-780-6867\nThank you,\nJake Camp\nGeneral Manager",
+          "date": "2024-01-30T15:43:10Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Henry H.",
+        "user_id": "keNQOJL_kIkL_LmXc8DWlw",
+        "link": "https://www.yelp.com/user_details?userid=keNQOJL_kIkL_LmXc8DWlw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FXOg6uqte4NmGjCuFpCcOQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1202,
+        "photos": 83,
+        "reviews": 134
+      },
+      "comment": {
+        "text": "Came back to True Food to try the resturant from the inside and was very happy.. if you're big into eating clean and calorie count this is a great place. The outside patio is warm under the heaters. Clean. Gigi was the most awesome server you could have, completely attentive. Healthy eats at the mall, not the food court yo!",
+        "language": "en"
+      },
+      "date": "2023-10-14T23:36:57Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the review and for mentioning Gigi!  We will be sure to recognize her",
+          "date": "2023-05-19T13:30:41Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Danielle S.",
+        "user_id": "V34qejxNsCbcgD8C0HVk-Q",
+        "link": "https://www.yelp.com/user_details?userid=V34qejxNsCbcgD8C0HVk-Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tQMRSOLHY_0B-vl75ieNyg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 457,
+        "photos": 425,
+        "reviews": 375,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "So glad we finally got to try the Atlanta location of True Food Kitchen. We went several years ago in Houston, and loved the large selection of healthy dishes, and this was very similar. The location at Lenox is humongous, with plenty of seating indoors and outdoors on a nice patio (where we sat). We were running some errands on a Friday night, and this was a treat to end the errands with.\n\nWe both enjoyed bowls, and my glass noodle bowl was delightfully spicy (just a hint, not overwhelmingly so). We loved that next to the cocktail menu they have a refreshers and tea menu. You can still drink something fun and delicious without alcohol if you are in a healthier mood (or if you're pregnant). The flourless chocolate cake with vanilla ice cream for dessert was the true highlight of the meal. Just perfection. Can't wait to come back when we're in the area!",
+        "language": "en"
+      },
+      "date": "2023-04-23T20:51:52Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Danielle, we are so thankful to have met you!",
+          "date": "2023-05-19T13:45:31Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Anand D.",
+        "user_id": "Eshe4FjH9Ao39OhFnyDFOQ",
+        "link": "https://www.yelp.com/user_details?userid=Eshe4FjH9Ao39OhFnyDFOQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ei418A6vmB4XWouG7G0NMA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 233,
+        "photos": 410,
+        "reviews": 108,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This wasn't my first time at True Food Kitchen, I've been a few times before. I enjoy coming to True Food, because the food always tastes so good, and it's honestly healthy too. I got the chicken sausage pizza and the spaghetti squash casserole with chicken sausage. The casserole was brought out first on accident, because the server must've misheard me when I said I wanted the chicken sausage pizza. Personally I didn't like it too much, I'm not as big fan of squash, so it was whatever to me. The pizza was excellent though. It was crispy and quite flavorful. I ended up having about 3 slices to take back home. I would definitely get it again. For my drink, I got a spicy pineapple margarita. It was really good and had a good balance to it. I would've given 5 stars for my rating, but the service was quite slow (they took forever for one of my friends' drink) and then they didn't even get my order right. They did comp the casserole though, (I asked to make sure I didn't get charge if I ate it.) Overall, True Food Kitchen is a great place to grab dinner or even lunch. I also think they started doing brunch recently as well. You also have the option to sit outside too (that's what I did when I went with some friends.) The menu has tons of options too, so you're bound to find something that you will enjoy. Don't hesitate to ask your server about the menu either!",
+        "language": "en"
+      },
+      "date": "2023-10-04T17:33:22Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dla0t27ETU9jWTSmi_A4Sg/o.jpg",
+          "caption": "Spaghetti Squash Casserole with Chicken Sausage"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PZBoQwFm2aiHin4j0q0HBA/o.jpg",
+          "caption": "Chicken Sausage Pizza"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Anand! we appreciate your support!",
+          "date": "2023-10-05T14:18:51Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Hollie M.",
+        "user_id": "IEHnXpJ3oeI6Odca52touw",
+        "link": "https://www.yelp.com/user_details?userid=IEHnXpJ3oeI6Odca52touw",
+        "address": "St. Augustine, FL",
+        "friends": 1,
+        "photos": 0,
+        "reviews": 63
+      },
+      "comment": {
+        "text": "Had a large group dinner with my team - who wanted to make sure their vegan boss had options. Turned out they all loved the health food and unique drinks. We had 12 people and excellent service. Prices are a little on the higher end but so is the quality of the food!",
+        "language": "en"
+      },
+      "date": "2024-02-16T03:18:45Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Josh",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Vyfs-e8HmB-JAcxacj-5_g/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for sharing your experience with us and for choosing our health food restaurant for your team dinner. We apologize if the prices seemed a bit high, but we are glad that you enjoyed the quality of our food and drinks.",
+          "date": "2024-02-16T06:47:37Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Tanya J.",
+        "user_id": "8VYURCOW3dlEajfW5I9big",
+        "link": "https://www.yelp.com/user_details?userid=8VYURCOW3dlEajfW5I9big",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tMf9zcO4Aj_w2WHaWLJu4w/180s.jpg",
+        "address": "McDonough, GA",
+        "friends": 81,
+        "photos": 124,
+        "reviews": 55,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Went to this healthy spot in a Saturday afternoon in February after attending the awesome Alvin Ailey Dance Team at the Beautiful Fox Theatre. My niece chose this spot and we both enjoyed it, it was our first time. It is located on the front side off Lenox Mall and of course it was traffic everywhere because it was such a beautiful day. We parked for free right outside the restaurant and the waitress was very nice. We both ordered the Korean Steak and had a good cocktail, everything was good! We were full and feeling great when we left ! Awesome Saturday Funday!!!!",
+        "language": "en"
+      },
+      "date": "2023-03-08T01:11:28Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UwNwSc8B54KqDlJkco0Iyg/o.jpg",
+          "caption": "This is the dish that I ordered, my steak was medium well! The dish was delightful"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Y5QAliuCvXT6l9gDYGmrXA/o.jpg",
+          "caption": "The Korean steak it was really good and flavorful"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ED5m_INbiMfBs7x8fnr81g/o.jpg",
+          "caption": "In side the restaurant"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zULd6bGjwP1oS4nMTXYO-w/o.jpg",
+          "caption": "Some of the staff"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SKqhC2cVHbkV_2tWQ2Mq2Q/o.jpg",
+          "caption": "Restaurant view"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Tanya! We are very grateful to have had you spend your afternoon with us! We hope you enjoyed your show as well!",
+          "date": "2023-03-08T14:46:58Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "James M.",
+        "user_id": "ge-C-N57rt2R4WnAsRTXEA",
+        "link": "https://www.yelp.com/user_details?userid=ge-C-N57rt2R4WnAsRTXEA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hx6pUPstKIJlYiSFQWXCbA/180s.jpg",
+        "address": "University, Las Vegas, NV",
+        "friends": 128,
+        "photos": 953,
+        "reviews": 475,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Had a wonderful dinner at true food. Diana was fantastic and gave some great suggestions. I had the grass fed burger and a hummus for a starter. Everything was very well prepared exactly what I expected.\n\nGood service great food",
+        "language": "en"
+      },
+      "date": "2022-08-01T23:58:50Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/s3M3OXKf1EEFEmI4OhJVjw/o.jpg",
+          "caption": "Hummus"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PkxBGxE50B29_YyhfTbpHQ/o.jpg",
+          "caption": "Grass fed beef burger with sweet potato hash"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you James! I am happy to hear that you enjoyed your experience with us! We will be sure to praise her as well!",
+          "date": "2022-08-02T22:45:58Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kimya B.",
+        "user_id": "7UdowqQfzVe4HYCjikpmVA",
+        "link": "https://www.yelp.com/user_details?userid=7UdowqQfzVe4HYCjikpmVA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3Ye8MdXky2cM-OKTLy0LOg/180s.jpg",
+        "address": "Chicago, IL",
+        "friends": 261,
+        "photos": 23,
+        "reviews": 19
+      },
+      "comment": {
+        "text": "I've been to True Food Kitchen a number of times before and it has never disappointed. I've been to this location twice as well as the one in Alpharetta and another one in Chicago. \n\nThe food is always fresh and you know exactly how many calories are in everything which is super helpful when you are counting calories. \n\nMy friend and I came to this location yesterday. We shared two appetizers -- the Tuna Tostada and the Herb Hummus. Both were delicious and very fresh. The hummus came with fresh cucumbers, cherry tomatoes, olives, and feta. This really helped to elevate the dish. The combination of the crunchy veggies with the salty feta and olives along with the smoothness of the hummus was divine. We loved it and would get it again. The tuna tostada was also very good. Well seasoned and fresh. \n\nFor our mains, I got the chicken sausage pizza with roasted fennel and a side kale salad. The chicken sausage was very flavorful and the crust had a nice fluffiness to it without being too thick. The kale salad was very fresh and well dressed. It was a nice addition to the pizza.  My friend had the noodle bowl with salmon. She said she really enjoyed it.\n\nFor drinks we both had Prickly Pear margaritas. We both loved that all of their cocktails are under 300 calories so there was no guilt in the indulgence. \n\nThe service was great. Our waiter Steve gave us lots of great recommendations. Also the decor of this place is beautiful. \n\nThis place has healthy and whole foods that you will honestly enjoy and not just tolerate. If you've never been here you should definitely check it out.",
+        "language": "en"
+      },
+      "date": "2023-03-04T22:01:26Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nze3qnoJptoi6CNXN3_nWw/o.jpg",
+          "caption": "Herb Hummus + Pita and Tuna Tostada"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mM-RnYshDzmlu6UEqDAVPQ/o.jpg",
+          "caption": "Noodle Bowl add Salmon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/V-eR1Egnk2u6CTgo5EGZKQ/o.jpg",
+          "caption": "Chicken Sausage Pizza and Side Kale Salad"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Kimya, Thank you for the review! We hope to earn that 5th star next time we serve you!",
+          "date": "2023-03-05T14:28:12Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Shani H.",
+        "user_id": "ETW3oHVvm1WLHjmT1VXcrw",
+        "link": "https://www.yelp.com/user_details?userid=ETW3oHVvm1WLHjmT1VXcrw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/56M1fn766qf4mgSSrKW_XQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 721,
+        "photos": 1724,
+        "reviews": 998,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This is a great restaurant for healthy food thats also flavorful. Some of my favorite items on the menu are the tuscan chicken panini, the kale salad and the glass noodles. I love sitting on the patio but also enjoy ordering via uber eats. The food is always consistent.",
+        "language": "en"
+      },
+      "date": "2022-12-05T01:29:05Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kqWwpmkPDHJFQxO8cqj9Zw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 2,
+        "cool": 4
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Shani, thank you so much for the kind words and 5 star review! We're proud to offer a variety of options for all diets and lifestyles. We look forward to serving you in the future!",
+          "date": "2022-12-05T14:57:12Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Tara B.",
+        "user_id": "H4ygzaGIg61ys0KqVuWM9A",
+        "link": "https://www.yelp.com/user_details?userid=H4ygzaGIg61ys0KqVuWM9A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PvAtfkO2pS0zFpsKIvTRyw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 80,
+        "photos": 1372,
+        "reviews": 273,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Freshness! That's the first thing that pops into my mind when I think of this place. We ordered all vegan options and our meal was nothing less than greatness! \n\nThey have several vegan options available. I can't wait to try them all! Lol\n\nKale Aid - kale, ginger, apple, celery, cucumber, lemon. Loved this! Strongest flavors were the kale and celery. Can't say that I'd order it again. At $9 a pop with no refills, it wasn't worth it for me. \n\nSparkling Prickly Pear Tisane - prickly pear, hibiscus, lime. I wasn't really a fan, but my guys liked it. $5\n\nEdamame Guacamole - Interesting but in a good way. Edamame seems like an unnecessary add because guac doesn't need anything added to its amazing taste but it was still good. \n\nAncient Bowl - miso sesame glazed sweet potato, turmeric, charred onion, snap pea, portobello, avocado, hemp seed, cilantro pumpkin seed pesto. Added tofu for $4, which was worth it to me! It came with the same sauce that was on the sweet potatoes, which was hecka tasty with a lil kick! Can't say that all the ingredients was tied together well in the bowl but I loved the combination. I'm also a person who loves to eat random foods together, so there's that! \n\nSpinach and Mushroom Pizza - organic spinach, roasted mushroom, garlic purée, caramelized onion, house-made vegan almond ricotta, aleppo chili. Tasty!! The ricotta had a pretty dominant presence, which I didn't mind at all! The chili (powder) had a good bit of heat to it. Not that spicy to the tongue kinda heat, but the karate chop to the back of your throat for the first taste. \n\nVegan Double Cheeseburger - house-made with portobello, walnut, beet, lettuce, pickled onion, organic tomato, vegan cheddar, vegenaise, flaxseed bun. Interesting, again in a good way. Doesn't give you the traditional burger feel if that's what you're looking for but was so good! I would have loved some type of sauce or some yellow mustard on it but still delicious! Ordered with half spinach/sweet potatoes. Not a fan of the kale and all it's bitterness. \n\nVegan strawberry cheesecake - I wasn't a fan of this at all. I'm picky about cheesecake and this wasn't it. The crust was good but the cheesecake wasn't quite executed. It almost had a savory taste, which is a no go. The bite with the fresh strawberry was better. It lacked a natural sweetener.",
+        "language": "en"
+      },
+      "date": "2022-06-19T23:18:56Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MPGg1dY179YFNcrE9rpVGg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5ZrDvtgqaf9RMRp8WQVE3A/o.jpg",
+          "caption": "Spinach and mushroom pizza"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WIvjsBfycFc40h73SQWRrw/o.jpg",
+          "caption": "Vegan strawberry cheesecake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ejuAqUh3ejETMgxzbwyxAA/o.jpg",
+          "caption": "Edamame guac"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fmAvkNqYgKrLPf_WrKpLOg/o.jpg",
+          "caption": "Vegan double cheeseburger, yum!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Xij4oqzj_Qz9EAym4NksHw/o.jpg",
+          "caption": "Ancient grain bowl with tofu. Delicious!!"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Tara, thank you for this review, we appreciate you!",
+          "date": "2022-06-20T13:34:44Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Alessandra V.",
+        "user_id": "qqZzUr0H3wrZRTXT4a8z1Q",
+        "link": "https://www.yelp.com/user_details?userid=qqZzUr0H3wrZRTXT4a8z1Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DmSNDJ5LU88ySWZWEhPzmw/180s.jpg",
+        "address": "Delray Beach, FL",
+        "friends": 34,
+        "photos": 1728,
+        "reviews": 370,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "ive been coming to this location true food for years now. i cant believe ive never reviewed it. ive never had a bad dish before. i had never come for the weekend brunch until now. i got the breakfast tacos and my bf had the sonoran bowl with steak (off the normal menu). my breakfast tacos were a 10/10. i could eat them every day. my bf loved his bowl as well. wished we had saved room for the chocolate chip cookies - those are fantastic and gluten free & vegan!",
+        "language": "en"
+      },
+      "date": "2023-07-11T15:36:00Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/enVrwe_5_tQto0xRQhdtEA/o.jpg",
+          "caption": "sonoran bowl with steak"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PG2wFiejo_5p1epnGMcviw/o.jpg",
+          "caption": "breakfast tacos and sonoran bowl + steak"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Dpum0Xzv1l7y0NH6jzzGBA/o.jpg",
+          "caption": "breakfast tacos"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Alessandra, we appreciate your review!",
+          "date": "2023-07-11T16:06:02Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jennifer B.",
+        "user_id": "XtwQCEEQqbC9vl3z3DIuJQ",
+        "link": "https://www.yelp.com/user_details?userid=XtwQCEEQqbC9vl3z3DIuJQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ohz-qCtyby1c8UfPNXEajQ/180s.jpg",
+        "address": "Biltmore Acres, North Druid Hills, GA",
+        "friends": 27,
+        "photos": 475,
+        "reviews": 158,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I enjoy the food at true food!\nIt's a little expensive but worth it because of the quality and healthy options on the menu. Drinks are good and different.\nService was ok, no complaints.\nHad an espresso after our meal..not the best.",
+        "language": "en"
+      },
+      "date": "2022-07-09T21:34:05Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ttRqs6pBj8BkLesPBreuiA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fmbwIfuYDRODuYThkNmi4g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/reBxpb7NP8VMcKrKAkEywQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7kjIe1MKmMBiqsKiz2oCdg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Jennifer B., thank you for the four stars and your review.  We would love to hear more about the service that was provided to you.  If you have an opportunity, you can give us a call at 404-481-2980 to give us more information about your experience.",
+          "date": "2022-07-10T12:38:48Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jasmine J.",
+        "user_id": "cA4S3MAQInY5YRMTVf0voQ",
+        "link": "https://www.yelp.com/user_details?userid=cA4S3MAQInY5YRMTVf0voQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hOEIBaKsU5wvNXthd2UH0g/180s.jpg",
+        "address": "Queens, NY",
+        "friends": 34,
+        "photos": 297,
+        "reviews": 132,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Consistent, nourishing and delicious. My go to is the kale aid & an ancient grains bowl w/ salmon. I've also tried the edamame dumplings, tuna tostada, brussels,  spaghetti squash casserole which did not disappoint. Hubby go to drink is the O.G. The service is usually pretty good at this location. The restaurant has lots of natural light, very roomy, modern concept w/ plenty outdoor seating.",
+        "language": "en"
+      },
+      "date": "2022-11-13T02:58:33Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3O8ISY_OqOfOgVC6CNSPlA/o.jpg",
+          "caption": "Teriyaki Bowl"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/me6Y8lqd3-iZ8rWFO9Nc3Q/o.jpg",
+          "caption": "Spaghetti Squash Casserole"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3sYukSajcOkY11h-sF2Fqw/o.jpg",
+          "caption": "Hibiscus & O.G"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Auy4rblnfPl8VQQLG5csNg/o.jpg",
+          "caption": "Ancient Grains Bowl"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 4
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Jasmine, we appreciate you!",
+          "date": "2022-11-15T15:31:07Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Dan M.",
+        "user_id": "2YBZHrWIiA4tDRnfTv9UGA",
+        "link": "https://www.yelp.com/user_details?userid=2YBZHrWIiA4tDRnfTv9UGA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/i9fLMzHTVadgd9yONVzKYQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 19,
+        "photos": 279,
+        "reviews": 372,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Place had a really good layout and I did enjoy the staff interaction, but sadly the food was average or slightly above average. \nStarted off with a pretty good watermelon salad which we shared with friends. Good taste, especially the sweet, chilled watermelon. \nWife and I split the Margherita pizza. Nothing special. Not horrible but just underwhelmed. Given the prices, I expected better food. A little more basil would have helped. \nAlmost went with four stars due to excellent staff but that was tampered down by the horrible parking situation at this location.",
+        "language": "en"
+      },
+      "date": "2022-07-06T14:27:28Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mT-Bog-6pxv9BvzZ5jV05w/o.jpg",
+          "caption": "Watermelon salad-tasty"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/izfM7Y_0f0FMTJKfTUy83g/o.jpg",
+          "caption": "Margherita pizza"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Dan, we hope you come by to give us another chance with to \"wow\" you with our food.",
+          "date": "2022-07-07T12:50:29Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Law M.",
+        "user_id": "6iEH25b16pS5rEArQOVJwg",
+        "link": "https://www.yelp.com/user_details?userid=6iEH25b16pS5rEArQOVJwg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Food is always fresh and very flavorful!!\nI love how based on the season the menu is altered",
+        "language": "en"
+      },
+      "date": "2023-12-10T01:30:09Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Josh",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Vyfs-e8HmB-JAcxacj-5_g/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for your review and feedback. We appreciate your kind words about our fresh and flavorful food, and we're glad you enjoy our seasonal menu changes.",
+          "date": "2023-12-11T06:02:10Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Katherine S.",
+        "user_id": "_iSS1m_QBY9E1f1xOZovlg",
+        "link": "https://www.yelp.com/user_details?userid=_iSS1m_QBY9E1f1xOZovlg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8IykT5NrrH95pdJV9lf6oA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1081,
+        "photos": 1789,
+        "reviews": 747
+      },
+      "comment": {
+        "text": "Came here when some friends for a late dinner. There weren't many people inside so we were seated quickly. We decided to sit in the coveted patio area, which was indoors but felt different from the rest of the indoor area. \n\nI got the adaptogenic tulsi tea, which tasted great. It tasted like a lemon ginger tea...not sure where the adaptogenic part comes in. For my entree I went with the fall pesto pasta which was amazing! It was a big portion too; I had enough for the next day.",
+        "language": "en"
+      },
+      "date": "2022-12-24T03:44:38Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3kxlBCvbPKMNKz0h9EJK6g/o.jpg",
+          "caption": "Adaptogenic tulsi tea"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8wstXxuxk64zy_JCQuNmSw/o.jpg",
+          "caption": "Fall pesto pasta"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Katherine, thank you for your review! We hope to serve you again soon.",
+          "date": "2022-12-24T14:15:36Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Susan R.",
+        "user_id": "e0c_bv6Y7u7wNaeEA46Hzw",
+        "link": "https://www.yelp.com/user_details?userid=e0c_bv6Y7u7wNaeEA46Hzw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3Fe6NNbYriTO7_TGL2k5jA/180s.jpg",
+        "address": "FL, FL",
+        "friends": 132,
+        "photos": 203,
+        "reviews": 98,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I was in town for work and needed a good dinner after traveling. I loved the Passion Colada.... I had two!  I had the grilled salmon for dinner and it was perfection. The right amount of flavor and cooked the way I like it. For dessert, you can't go wrong with the flourless chocolate cake.... Omg.... Simply amazing! Service was quick and friendly and I did not feel rushed. If I make it to Buckhead again, it will definitely be on my list!",
+        "language": "en"
+      },
+      "date": "2022-10-17T22:42:17Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7y5NRit6ykQ9Y3MaDxJ-7Q/o.jpg",
+          "caption": "Passion Colada"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KOLfWeL3qm1fRJW3Kr079A/o.jpg",
+          "caption": "Grilled Salmon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/k_f0hbUdY0xOFyQLUkknbg/o.jpg",
+          "caption": "Flourless chocolate cake"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Susan, we are thrilled with your review!",
+          "date": "2022-10-18T13:49:32Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Alexander D.",
+        "user_id": "xr8LGgZf7s_218ose91SxA",
+        "link": "https://www.yelp.com/user_details?userid=xr8LGgZf7s_218ose91SxA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HgdcjogWe3XYUobHdHWSSA/180s.jpg",
+        "address": "Milwaukee, WI",
+        "friends": 68,
+        "photos": 188,
+        "reviews": 87,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "True foods is absolutely one of my go to healthier food options but it can be pretty pricey. Parking is easy as it is just using the Lenox mall parking lot over by Nike and on the side as well. The overall service is pretty quick and for a Friday night the place was fairly empty. You can choose indoor or outdoor seating. \n\nI highly recommend getting a refresher and I loved the limeade as mine personally. I will also say the teriyaki quinoa bowl is one of my favorites and you can add a protein (I personally chose chicken) but I wish they would give you more than one slice of avocado especially for the price point.",
+        "language": "en"
+      },
+      "date": "2022-06-07T17:55:44Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tTrebx0qZ2ICPmroa_y2TA/o.jpg",
+          "caption": "Prickly Pear and Wild BlackBerry Limeade"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4DxjIhuDl65LWoTlrGCU7g/o.jpg",
+          "caption": "Teriyaki Quinoa Bowl"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AKLoYB07jHp5GSJHetIkSw/o.jpg",
+          "caption": "Kitchen"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the review Alexander! The teriyaki quinoa bowl is one of my favorites as well!",
+          "date": "2022-06-08T21:39:28Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Aliya M.",
+        "user_id": "pixWrNTkMTZiLOUZ3QaZzA",
+        "link": "https://www.yelp.com/user_details?userid=pixWrNTkMTZiLOUZ3QaZzA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uiVzL6iGJSEykY-GrBMOdA/180s.jpg",
+        "address": "Milwaukee, WI",
+        "friends": 15,
+        "photos": 285,
+        "reviews": 120,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We were seating quickly and parking was easy to find. I love the vibe of this restaurant. They have an outdoor patio which is very nice. The restaurant is a little pricey. You'll be paying about $15 per plate. \n\nI got the turkey burger which I thought was just okay. However my drink was SO good. I got the sparking prickly pear refresher which is a non alcoholic drink. I enjoyed it so much (very refreshing on a hot day). I would come back again for the drinks.",
+        "language": "en"
+      },
+      "date": "2022-06-07T17:53:27Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/F0utAsYdwPxRruNPmdQbGg/o.jpg",
+          "caption": "Refreshers"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/z_7Uo_7fr_RB_4Ozu33J6w/o.jpg",
+          "caption": "Turkey burger"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the feedback Aliya! We appreciate you!",
+          "date": "2022-06-08T21:36:26Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Erin H.",
+        "user_id": "BCLrmypBUt-YBxzf9rL1BA",
+        "link": "https://www.yelp.com/user_details?userid=BCLrmypBUt-YBxzf9rL1BA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6l64jMTDhoVMqynvpqMTWA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 19,
+        "reviews": 62
+      },
+      "comment": {
+        "text": "Be aware if the hidden fees.  When in doubt, ask.  Everything is ala cart.   Food is good but use to be better.\n\nServices need personality training.\n\nI won't be back!",
+        "language": "en"
+      },
+      "date": "2023-05-07T18:54:39Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Erin, this makes me very sad to see, as the majority of our food is not ala cart. If we made a mistake somehow with your experience, I would love an opportunity to correct this. Please contact Stephen at 404.481-2980. I hope to have an opportunity to regain your trust.",
+          "date": "2023-05-19T13:31:49Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "H G.",
+        "user_id": "Sm0kqOk2km0SEq52Mg1V8g",
+        "link": "https://www.yelp.com/user_details?userid=Sm0kqOk2km0SEq52Mg1V8g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PrW_6WFnRtrtTFsZbaYYDg/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 0,
+        "photos": 74,
+        "reviews": 61
+      },
+      "comment": {
+        "text": "This was my first experience at a True Foods kitchen. I don't think you could try to eat unhealthy in this place if you tried. That being said, everything on the menu looked delicious, it was hard to choose. I had the roasted corn flatbread pizza and the lasagna bolognese. They were both great choices recommended by the waiter. Friendly staff as well. I also like how the kitchen is open concept with the restaurant.",
+        "language": "en"
+      },
+      "date": "2023-08-09T00:25:27Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qXDT-DBURGo1F1YEhciH3A/o.jpg",
+          "caption": "Roasted corn flatbread pizza"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the review HG!",
+          "date": "2023-08-10T14:20:12Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Erica C.",
+        "user_id": "Eu_WG2u67iB-MSDJmoa3Tg",
+        "link": "https://www.yelp.com/user_details?userid=Eu_WG2u67iB-MSDJmoa3Tg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qmyjT7eBHthKUCSgNqeOsw/180s.jpg",
+        "address": "Tallahassee, FL",
+        "friends": 6,
+        "photos": 52,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Always fresh & timely. My favorite stop in Atlanta! Wonderful drinks too. Oh, and the staff is awesome",
+        "language": "en"
+      },
+      "date": "2023-09-01T05:41:12Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vs9UyHinGYPm3RoX3LvcMA/o.jpg",
+          "caption": "Salad"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ihzEXM12BK9_HFcAzJoL0w/o.jpg",
+          "caption": "Drinks"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7N-kbwrOY7yDVYV3hnxPGA/o.jpg",
+          "caption": "Decor"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Erica, Thank you so much for your review! We hope to serve you again soon!",
+          "date": "2023-09-01T13:28:06Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Aria S.",
+        "user_id": "XbHjJHJokZfS8GWTqmKVKw",
+        "link": "https://www.yelp.com/user_details?userid=XbHjJHJokZfS8GWTqmKVKw",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 3,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "We often go to True Food for brunch on weekends. The food always hits the spot - healthy, delicious, and a great variety. The restaurant is bright and upbeat. And the service is impeccable - the team is always very attentive and on top of their game!! They're clearly well trained as they're knowledgeable about the ingredients and so helpful with recommendations! \n\nToday, we got the Edamame dumplings, Korean noodles with salmon, crustless quiche, flourless chocolate cake, turtle Sundae and kale aid. Everything was fantastic! We'll be back soon!!",
+        "language": "en"
+      },
+      "date": "2023-08-26T23:28:21Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jmiREJEJEehXFW_KRkayGw/o.jpg",
+          "caption": "Turtle Sundae and Flourless Chocolate Cake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dvdCxsd7Cqi26YSoOJRJYg/o.jpg",
+          "caption": "Korean noodles"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AL2WebsiuvCJkwnrAIG6Cw/o.jpg",
+          "caption": "Crustless Quiche"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Aria, thank you for taking time out to write this review!  We pride ourselves in delivering exceptional service and great food.  We can't wait to have you back!",
+          "date": "2023-08-27T12:31:07Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Asikul M.",
+        "user_id": "cWYOzDBv-TafhBZPDA8XMg",
+        "link": "https://www.yelp.com/user_details?userid=cWYOzDBv-TafhBZPDA8XMg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/9KNSO9XPJgw0c1-rNndO4g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 161,
+        "photos": 2,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "It was mediocre both the times that I went there. Me and my wife got treated poorly by a server. He was very condescending with us. Until when he realize that I was upset. \nManagement should train their employee not to be Racial profiling, special by an African American to brown people.\nThe other time I went there the hostess were rude ti me because I was dressed a little under. \nLike what the the hell are you guys teaching your employees",
+        "language": "en"
+      },
+      "date": "2023-08-23T22:38:15Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Asikul,\n\nFirst off, I want to apologize that you have ever felt this way in our establishment. By no means is this an example of who we are as a location or brand! I do not want anyone else to feel like this when dining with us. Could you please give me a call at your earliest convenience so that I can gather some information in regards to when you came and who served you so I can address it directly?\n\nThank you for your time Asikul. I look forward to hearing from you soon.\n\nJake Camp\n404-780-6867",
+          "date": "2023-08-24T14:01:38Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Art M.",
+        "user_id": "8C1Hzaexqp4S0ZnOj6NtSQ",
+        "link": "https://www.yelp.com/user_details?userid=8C1Hzaexqp4S0ZnOj6NtSQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cPYmaJJuWQsJY3y1ZYQ2Ww/180s.jpg",
+        "address": "Phoenix, AZ",
+        "friends": 19,
+        "photos": 11,
+        "reviews": 56
+      },
+      "comment": {
+        "text": "Wow!  Chicken sausage pizza with almond flour crust!  BINGO\n\n Great drinks made with fresh fruit.",
+        "language": "en"
+      },
+      "date": "2023-06-16T17:12:38Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Art, thank you so much for your review, and we're glad that you enjoyed your experience.  We can't wait to have you back!",
+          "date": "2023-06-17T12:25:10Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Terrell Y.",
+        "user_id": "ZsaoQYmUYXJybQYNCgLjLQ",
+        "link": "https://www.yelp.com/user_details?userid=ZsaoQYmUYXJybQYNCgLjLQ",
+        "address": "SC, SC",
+        "friends": 72,
+        "photos": 4,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "Omg the food and service was amazing.\nThe inside looked great, but we sat outside on the patio and that was even amazing as well. All around great ambience. \n\nFood we had \nHummas & Pizza",
+        "language": "en"
+      },
+      "date": "2023-07-10T23:45:18Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HHE0RzWosIZ6kpFCITqIoQ/o.jpg",
+          "caption": "Lemonades we're amazing especially the pink."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0hmVX5ut8hX6V7a0okYrnQ/o.jpg",
+          "caption": "Chicken pizza with chefs special seasoning"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for this review Terrell! you won't have too many days left to sit on the patio, enjoy it before it gets too hot!!!",
+          "date": "2023-07-11T13:34:00Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Brooke Y.",
+        "user_id": "9R64wRCMpxo4tTrMS-VaCQ",
+        "link": "https://www.yelp.com/user_details?userid=9R64wRCMpxo4tTrMS-VaCQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LziLLZD6YzshgiAVbN46uw/180s.jpg",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 7,
+        "photos": 91,
+        "reviews": 25
+      },
+      "comment": {
+        "text": "I was actually really impressed with this restaurant. It's in a mall, so I wasn't expecting too much, but the food was really tasty!! They focus on using whole ingredients such as natural sweeteners and it showed! We ordered appetizers, dinner, and dessert, and we loved all of it. It wasn't anything special or amazing, but everything tastes great. \n\nThe service was good. Nothing to complain about, but nothing memorable. \n\nThe restaurant itself is very pretty. Very cool and uniquely designed. On warm nights I recommend sitting out on their outdoor patio at Lenox Mall.",
+        "language": "en"
+      },
+      "date": "2023-01-07T21:19:35Z",
+      "rating": 3,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aOLArFiv1g8TPEdiJabhsQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kNQk8YpRb9Pgk675D1571Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7Z2Ok1c-b83RXDFlm4qO_A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/98YQY0vRnjuUXZ55Nk7g4w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4s7KrsKyopzpimC90NMRtg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zn62DKjLAHTHyvywmUYrig/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eHs-Om6rykWI3C7syNts6A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8tMcteRK4wrKq4omqjgSfQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZRK_MNqgobmnXqb-9O6HKQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Olz6F2Zpt3PNriMfAvX1AQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Brooke, thank you so much for your review.  We hope to see you again to give an even better experience.",
+          "date": "2023-01-08T13:33:29Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Cody N.",
+        "user_id": "qSSdfPPXJZ2e7Zv9AdI72A",
+        "link": "https://www.yelp.com/user_details?userid=qSSdfPPXJZ2e7Zv9AdI72A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6OgZugK0imL-TgolNakm7g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Ive been coming to True Food for the past 3 years. The food is amazing and comes out so quickly. Besides the food I can't brag enough about the customer service I get every time from the bartender Ciara. She seems to always be in a great mood and makes me and my other friends feel special every time we go in. 10/10!!",
+        "language": "en"
+      },
+      "date": "2023-11-28T16:38:58Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Josh",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Vyfs-e8HmB-JAcxacj-5_g/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for your kind review and for being a loyal customer for the past 3 years. We appreciate your positive feedback on our food and the exceptional service provided by Ciara. Your satisfaction is our top priority.",
+          "date": "2023-11-29T06:31:25Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Cliff S.",
+        "user_id": "dsOOdEWc8f-i7gKLhnW4iQ",
+        "link": "https://www.yelp.com/user_details?userid=dsOOdEWc8f-i7gKLhnW4iQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Tbdsg3XpDxViwwzS_RG-NA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 292,
+        "photos": 35,
+        "reviews": 47
+      },
+      "comment": {
+        "text": "It's an easy way to eat healthy. There's a lot of great options with a ton of flavor. Service has always been good.",
+        "language": "en"
+      },
+      "date": "2023-10-21T15:23:08Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Cliff, thank you for your review!",
+          "date": "2023-10-22T12:18:29Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Sheena G.",
+        "user_id": "wCbCmpsRWzKzElFK-4kZRw",
+        "link": "https://www.yelp.com/user_details?userid=wCbCmpsRWzKzElFK-4kZRw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0m8cTlcrk6fwwKNR3C4aTw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 32,
+        "photos": 306,
+        "reviews": 377,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Order the cheesecske first!!!\n\nI dont even like cheesecake but this vegan option is delicious! so sweet and creamy.\n\nThis is a great spot for health concious people who love feeling full lol fresh ingredients and tons of great options.",
+        "language": "en"
+      },
+      "date": "2022-10-15T05:32:24Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the review, we appreciate you!",
+          "date": "2022-10-15T13:24:40Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Endrea P.",
+        "user_id": "SQqrKgG6sO-VbRzwluCPjQ",
+        "link": "https://www.yelp.com/user_details?userid=SQqrKgG6sO-VbRzwluCPjQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sSJ2qVXCShyqRAYGHmqvxw/180s.jpg",
+        "address": "NV, NV",
+        "friends": 1,
+        "photos": 81,
+        "reviews": 30
+      },
+      "comment": {
+        "text": "Grace was our service and she was amazing. However the kitchen seem to ran out of a lot of ingredient options that we ordered for our meal. No gluten free bread,  no guacamole appetizer, no marinara, our sweet potatoes were cold, had to send back.  Her service and personality was awesome but management needs to do inventory more often food was great",
+        "language": "en"
+      },
+      "date": "2023-04-10T21:21:41Z",
+      "rating": 2,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qQcjZG8cIM3Eo-J_mo3blQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tbOaeoIKsVVGkvA8b4SiXA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "I am sorry to read that your experience with us was not exceptional. We have been dealing with a lot of product shortages and I feel bad that this created a less than ideal dining experience for you. Please contact Craig at 404.481.2980, I would love to invite you back into the restaurant to experience our seasonal summer menu.",
+          "date": "2023-07-29T21:24:31Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "ChristianMadi T.",
+        "user_id": "5QLAQCgBNNJbMvgTCG_pjA",
+        "link": "https://www.yelp.com/user_details?userid=5QLAQCgBNNJbMvgTCG_pjA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nkIu103Wi9oBHD8VKD5jlg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 10,
+        "reviews": 49
+      },
+      "comment": {
+        "text": "Very delicious spot for all natural food! My favorite dish the watermelon feta salad and the strawberry margarita is delicious and has such a natural sweet flavor! Always amazing service as well, everyone is so nice here!!",
+        "language": "en"
+      },
+      "date": "2023-07-31T19:24:00Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qIClXkly78oM0pino8ZZAg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much for your review!  We hope to see you back soon!",
+          "date": "2023-08-01T12:17:33Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Dwight S.",
+        "user_id": "P0KKMKa-O1ycabueDxBE-g",
+        "link": "https://www.yelp.com/user_details?userid=P0KKMKa-O1ycabueDxBE-g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SWJodWDSgsz67QcURvz9VQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 8,
+        "photos": 159,
+        "reviews": 143,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I've been going to True Food Kitchen for the past 5+ years and am always impressed by the quality of the food. Fresh ingredients and unique combinations...as well as seasonal additions...make the menu quite appetizing for any of the lunch/dinner/brunch meals offered. Note that some of these dishes can be quite hearty! I happen to enjoy the edamame guac appetizer as well as their egg dishes for brunch. And don't forget about the drink menu - which offers some great options for both alcohol and nutritious elixirs.\n\nThe service is excellent. Waiters are friendly and helpful when placing orders. There's also an option to order online (at the table) if preferred.\n\nI never get tired of this spot. We happily dine here on a regular basis.",
+        "language": "en"
+      },
+      "date": "2022-04-06T13:34:04Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZeWPVEn7_zT76SY3y_XNTg/o.jpg",
+          "caption": "Chopped salad with tofu"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Dwight, we really appreciate you!",
+          "date": "2022-04-07T13:39:13Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Subira J.",
+        "user_id": "2OHHHFzn_jYB3_CknMcUww",
+        "link": "https://www.yelp.com/user_details?userid=2OHHHFzn_jYB3_CknMcUww",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/f9L24ixTlcO0OhhxiUBIkQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 376,
+        "photos": 920,
+        "reviews": 137,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Came for lunch with my girls! We had such a good time here. I really like true food kitchen because the food is consistently good, and they change the menu depending on the season. I am obsessed with their dumplings, I believe they are Korean dumplings in a broth. Edamame dumplings in broth. It's so good. So creamy and full of flavor but not overpowering. I love getting this with a salad on the side and it makes for the perfect lunch meal. Every time I come here the servers are kind, and there is great light streaming through windows which is important to me when I'm having lunch. I can't wait to see what their menu looks like this fall!!",
+        "language": "en"
+      },
+      "date": "2022-10-02T02:22:44Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EILmnrYYjY7Bl_zw9V8nNA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/z3IxMq0PXRMktUsM5Evbpg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0KzTUAgmg7yLv-oytOII9A/o.jpg",
+          "caption": "E"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for your review Subira.  If you would like to give us a call at the restaurant at 404-481-2980, we would love to hear how we can earn that fifth star.",
+          "date": "2022-10-02T12:48:45Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kina L.",
+        "user_id": "ZfG1T_noQnbOdXnz4USs0Q",
+        "link": "https://www.yelp.com/user_details?userid=ZfG1T_noQnbOdXnz4USs0Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/W5x0jGKfH_aQM-dh7REsIw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 92,
+        "photos": 1069,
+        "reviews": 525,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "True Food Kitchen is nestled against Lenox Mall around the corner from Cheesecake factory. Parking is difficult immediately in front of the location as its next to valet. Parking is free of course if you choose not to valet. \n\nWe came by on Monday at lunch time and even then it was busy. However, we were seated immediately with a server greeting us soon after. The menu is seasonal and fresh sticking with the \"true food\" theme. Prices however... are hefty (but probably about the same as other Buckhead restaurants). We split a panini and turkey burger which was amazing. I have had the curry here which was veggie packed and very fresh. Definitely a great option if you are looking to eat healthier in the area. Will be back.",
+        "language": "en"
+      },
+      "date": "2022-03-22T14:23:57Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IksXgojMX6B3Pf8Y9XLh4w/o.jpg",
+          "caption": "Turkey burger and chicken panini"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Kina, thank you so much for this detailed review. We are very thankful for your visit and very happy you enjoyed your experience. We are lucky to have you as our guest!",
+          "date": "2022-03-24T13:57:51Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Keith Biggs, R.",
+        "user_id": "Mszf59hz0AEBzGd4SUGXCQ",
+        "link": "https://www.yelp.com/user_details?userid=Mszf59hz0AEBzGd4SUGXCQ",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "What a fabulous, healthy and thoughtful place to dine.  My experience was amazing.  The staff was well versed in their offerings and the food was delicious.  Thanks for all you do in my community. \nKeith",
+        "language": "en"
+      },
+      "date": "2023-10-30T08:17:11Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Keith, thank you so much for your kind words.  We hope to have you back soon!",
+          "date": "2023-10-30T12:30:59Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Rene C.",
+        "user_id": "39tO83PyTJ8Kt1OTruiuFw",
+        "link": "https://www.yelp.com/user_details?userid=39tO83PyTJ8Kt1OTruiuFw",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "True food was a great experience! Our server Milan was amazing, so helpful and wonderful attitude!",
+        "language": "en"
+      },
+      "date": "2024-01-05T20:31:38Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Josh",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Vyfs-e8HmB-JAcxacj-5_g/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much for taking the time to leave a review for True Food. We are thrilled to hear that you had a great experience and that Milan provided excellent service. We appreciate your feedback and hope to see you again soon!",
+          "date": "2024-01-05T22:28:58Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Natriece S.",
+        "user_id": "Kal6kNoMEPcboS3lqEre6g",
+        "link": "https://www.yelp.com/user_details?userid=Kal6kNoMEPcboS3lqEre6g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2DiFt7ZboJDys_Zj8l80-g/180s.jpg",
+        "address": "Oakland, CA",
+        "friends": 214,
+        "photos": 282,
+        "reviews": 80
+      },
+      "comment": {
+        "text": "Still 5 lol I originally found this bright light during the dark part of a deep fast! Vegan burn out and food boredom are true things; TFK is like a AA for foodies. I love it even when I'm not fasting.\nThey a lot of what I needed & little of the temptations. I brought an herbivore friend to try them out and they loved it! \nParking: easy/free/mostly safe - Lennox Mall\nCus.Service: professional but it can be a lil dry unless one of the 'gworls' is helping\nAmbiance: good for families, groups, solos\nQuality: Excellent quality \nMenu: My go-to is the burger. If you ask they can deconstruct it for you. \n\nIf you're looking for health-focused vegan food or to break away from wings and fried things, or to just enjoy a nice ambiance and pleasantries, grab a bite here!",
+        "language": "en"
+      },
+      "date": "2022-08-17T20:45:11Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TIoD6cBc_XPurZNxb4Iczw/o.jpg",
+          "caption": "More burgers! Deconstructed of course"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/khD8dPGNJDdF__ZceDCyuw/o.jpg",
+          "caption": "I added the jalapeños!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kN6CIrTo5En6XlXE6sMa1g/o.jpg",
+          "caption": "Indoor and outdoor seating"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Stephen S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Ac9lu8Im_gu1x2dDEEiJzQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the 5 star review Natriece! Have a great weekend and we look forward to serving you again!",
+          "date": "2021-08-07T13:04:26Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Gianna G.",
+        "user_id": "7HTeJUcSe9IcRDKmJJgaOg",
+        "link": "https://www.yelp.com/user_details?userid=7HTeJUcSe9IcRDKmJJgaOg",
+        "address": "San Francisco, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Always have a great experience at True Food Buckhead. The service was great and the food comes out in a timely manner. Milan was a great waitress!",
+        "language": "en"
+      },
+      "date": "2024-01-05T20:55:38Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Josh",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Vyfs-e8HmB-JAcxacj-5_g/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for taking the time to leave a review about your positive experience at True Food Buckhead. We're glad to hear that you enjoyed the great service and timely food delivery, and we appreciate your recognition of Milan's excellent service. We hope to see you again soon!",
+          "date": "2024-01-05T22:28:50Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Travel G.",
+        "user_id": "c3Gqqp3CkG0uAPDZbHF5LA",
+        "link": "https://www.yelp.com/user_details?userid=c3Gqqp3CkG0uAPDZbHF5LA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Q4IsxX3806iswXCe3k4SHA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 32
+      },
+      "comment": {
+        "text": "Very healthy, very tasty and reasonable prices as well!\n\nUnfortunately, the parking sucks as it is on the western side of Lenox Mall where there never seems to be any parking. Allow extra time to park your car or call in the order and just pick it up.",
+        "language": "en"
+      },
+      "date": "2023-02-20T17:57:43Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for the 5 star review! We can't wait to have you back!",
+          "date": "2023-02-21T14:23:13Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Dallas N.",
+        "user_id": "uAHxE-otRxKDh06pC2vgFg",
+        "link": "https://www.yelp.com/user_details?userid=uAHxE-otRxKDh06pC2vgFg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Aw7EPBKdpCKdeQ6J-XTWsA/180s.jpg",
+        "address": "Concord, NC",
+        "friends": 243,
+        "photos": 4,
+        "reviews": 19
+      },
+      "comment": {
+        "text": "The Mediterranean Chicken Sandwich is out of this world! Super fresh, great service, don't miss this stop for lunch or dinner!",
+        "language": "en"
+      },
+      "date": "2023-07-12T22:22:27Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Dallas, we appreciate you!",
+          "date": "2023-07-13T13:33:50Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kathryn L.",
+        "user_id": "Bb9519xc5RbTOzOGFQ5N_A",
+        "link": "https://www.yelp.com/user_details?userid=Bb9519xc5RbTOzOGFQ5N_A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/j_BX480Gl_WEz5NrHeVPfg/180s.jpg",
+        "address": "Dunwoody, GA",
+        "friends": 685,
+        "photos": 15562,
+        "reviews": 1957,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I was a regular at the TFK in Bethesda, MD where the food & service never disappointed. Here, I really didn't feel the same, as the service started out good, yet it when became a little busier it decreased.\n\nThe Herb Hummus was good per usual. I haven't been to TFK since January 2020, so I took advantage of their new Vegan Double Cheeseburger, where I was not disappointed. The portobello, walnut, beet, & kuzu patty was a different combination, yet tasty. The pickled onions & housemade Vegenaise Remoulade rounded out the Vegan concept. My Niece's Turkey Burger was a little dry as with my Grand Nephew's Burger. Definitely will pass on the Watermelon Lemonade as it lacked the normal sweet melon aspect. \n\nAs a patio lover, the layout & covering work. However, the patio's furniture was disgusting. You can feel the coils when sitting down in addition to the dirty, dingy coverings. \n\nI don't recall TFK prices being this steep, as we didn't get the bang for the bucks. More importantly, we are still amongst a Pandemic, the lack of cleaning & sanitizing was too evident during our lunch. We had to ask for new dishes & ultimately ended up using plastic utensils. \n\nOne & done.",
+        "language": "en"
+      },
+      "date": "2021-08-13T22:06:51Z",
+      "rating": 3,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EPh0ysR7L59FHtLeOwjNRg/o.jpg",
+          "caption": "Patio Area, 8.10.2021."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wxnOX2WB9DtF9TN8x03CGA/o.jpg",
+          "caption": "Watermelon Lemonade, 8.10.2021."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dG-0YXM0lNgnjkTSju8bNg/o.jpg",
+          "caption": "Herb Hummus - cucumber, cherry tomato, onion, olive, lemon oregano vinaigrette & house-made pita points, 8.10.2021."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rQ2DK3WxzTzZurFgEaouMQ/o.jpg",
+          "caption": "Pita Points, 8.10.2021."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kJ9RTsPcYXUrrzDH03-HcA/o.jpg",
+          "caption": "Vegan Double Cheeseburger with Kale Salad & Sweet Potato Hash, 8.10.2021."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NnT5AjkrHlMMgYnb7KN1Yg/o.jpg",
+          "caption": "My Grand Nephew looking for the cheese LOL, 8.10.2021."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MyUfw9yY07eZ-vvg04JF0g/o.jpg",
+          "caption": "Turkey Burger-smashed avocado, organic tomato, butter lettuce, smoked gouda, jalapeño remoulade & flaxseed bun, 8.10.2021."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Hrgxjo8Bk887O8JaUWc8iQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XuFk9zPoo5KAxc-ijSfw5w/o.jpg",
+          "caption": "Side of Vegan Remoulade, 8.10.2021."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WbipeIcOO17c7t1_p2IWhQ/o.jpg",
+          "caption": "V Cheeseburger-portobello, walnut, beet, kuzu, lettuce, pickled onion, organic tomato, V cheddar, vegenaise & flaxseed bun, 8.10.2021,"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Stephen S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Ac9lu8Im_gu1x2dDEEiJzQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Kathryn, I am very disturbed to read this as we take our guest experiences, cleanliness and sanitation very seriously. I would like to hear more in regards to this so that I may correct all behaviors that led to this experience. I can be reached at (404)481-2980. I hope to speak with you soon!",
+          "date": "2021-08-20T14:25:34Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jai R.",
+        "user_id": "1fSWQrBH6SyIpSFdQ-ZOZQ",
+        "link": "https://www.yelp.com/user_details?userid=1fSWQrBH6SyIpSFdQ-ZOZQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Oa3dZfQdeWEC2ZFlrN02qQ/180s.jpg",
+        "address": "Knoxville, TN",
+        "friends": 15,
+        "photos": 183,
+        "reviews": 146,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Parking can be difficult but this is a great location with really good selections for gluten free and vegan guests. The food was delicious and I ordered to go so I can't over comment on service. I did go in and use the restroom and the ambiance was really nice I wish we had time to sit down and eat but were catching a flight. They have seasonal options so I feel like this place is always worth a look and the food is much better than some of the other tru food locations I've visited since.",
+        "language": "en"
+      },
+      "date": "2023-01-11T21:59:07Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you very much Jai, we appreciate you. Safe travels!",
+          "date": "2023-01-12T14:55:50Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Coco S.",
+        "user_id": "Hc3aMVm8dCvYOyvVecOu5A",
+        "link": "https://www.yelp.com/user_details?userid=Hc3aMVm8dCvYOyvVecOu5A",
+        "address": "Lawrenceville, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "The food here is good, but my major complaint is the false advertisement of the Quinoa bowl. The name of the dish is Teriyaki Quinoa Bowl which you would expect Quinoa to be the main grain but it's not, it's brown rice with a sprinkle of quinoa. \n\nThe issue with this is as a vegan who doesn't eat or buy brown rice as it does not digest the same as quinoa it's a problem.  I can do a sprinkle of brown rice, but not the other way around. Quinoa doesn't make me bloated, but brown rice does. The name of the dish should be updated as quinoa is not the main grain for those who typically stand clear of brown rice or prefers a small amount. \n\nThe menu does not even shown brown rice as a second ingredient so I'm not sure why the entire bowl is mainly brown rice it's false advertisement in my opinion. \n\nHere's how it reads on the menu. Broccoli, rainbow carrot, bok choy, green bean, snap pea, pickled shiitake, brown rice, avocado, Chef Matt's Magical Dust V GF. I didn't see broccoli at all but I sure did see the main grain being brown rice. \n\nI would recommend the name of this bowl be changed as brown rice is nothing like quinoa. Quinoa is an ancient grain while brown rice is not. \n\nPlease change your menu name to a brown rice bowl with a sprinkle of quinoa because that's what it is.",
+        "language": "en"
+      },
+      "date": "2023-06-26T12:36:08Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christine F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/aI1aHE-Br4Qeqb8GSl1abg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Coco, I am very sorry that you felt mislead by this dish and I can certainly understand where you are coming from. Social ratings play a very strong role on impacting business these days and I would love an opportunity to earn back your trust. If you have the availability, please reach out to Stephen on my personal number at 561.809-7522. I hope to hear from you soon",
+          "date": "2023-06-26T13:42:38Z"
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=bAybZImsqUwinMrzZlzVIQ&start=70"
+  }
+}

@@ -1,0 +1,1769 @@
+{
+    "search_metadata": {
+        "id": "65ef30ecd737d782eb005caf",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f3ac24a8377f2625/65ef30ecd737d782eb005caf.json",
+        "created_at": "2024-03-11 16:27:24 UTC",
+        "processed_at": "2024-03-11 16:27:24 UTC",
+        "yelp_reviews_url": "https://www.yelp.com/biz/83maS2mCXYZjuwEhozVtLA?",
+        "raw_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef30ecd737d782eb005caf.html",
+        "prettify_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef30ecd737d782eb005caf.prettify",
+        "total_time_taken": 1.93
+    },
+    "search_parameters": {
+        "engine": "yelp_reviews",
+        "start": 0,
+        "num": "50",
+        "place_id": "83maS2mCXYZjuwEhozVtLA"
+    },
+    "search_information": {
+        "total_results": 859,
+        "business": "Sweet Hut Bakery & Cafe"
+    },
+    "review_languages": [
+        {
+            "hl": "en",
+            "count": 859
+        },
+        {
+            "hl": "es",
+            "count": 1
+        }
+    ],
+    "reviews": [
+        {
+            "user": {
+                "name": "Tommy N.",
+                "user_id": "M858r4bHAhRTVD_wnkSMZg",
+                "link": "https://www.yelp.com/user_details?userid=M858r4bHAhRTVD_wnkSMZg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rWy22SWkJNVIJ5PUGP7y3A/180s.jpg",
+                "address": "Gulfport, MS",
+                "friends": 227,
+                "photos": 10,
+                "reviews": 14
+            },
+            "comment": {
+                "text": "Stopped by while I was in town and grabbed some lunch with my family. Food was absolutely phenomenal and all the pastries brought back a nostalgic feeling for me which made me love this place even more. \n\nBibimap burger: 8/10 delicious! I could probably do without the spinach though. \n\nLemongrass bbq pork sandwich: 10/10 amazing and the hoagie was so soft",
+                "language": "en"
+            },
+            "date": "2023-10-14T21:47:19Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Christina B.",
+                "user_id": "zG3edvGILw1S3f9kATLSiQ",
+                "link": "https://www.yelp.com/user_details?userid=zG3edvGILw1S3f9kATLSiQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-F06l0XVUBU3SllFVEgE5w/180s.jpg",
+                "address": "Nashville, TN",
+                "friends": 3,
+                "photos": 87,
+                "reviews": 49,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "A sweet spot to stop in for an on the go treat! I didn't realize all the goodies would be pre packaged, but it made it super convenient to take several home to try. Next time I'll have to try one of their drinks or hot food offerings, but the pre packaged treats were yummy. The people were very nice too!",
+                "language": "en"
+            },
+            "date": "2024-02-02T16:40:53Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xyr-yIKDVM7oQaKPa3aR3Q/o.jpg",
+                    "caption": "Taro Butterfly"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/K8bxvo9HL9qQIytB2I3U0g/o.jpg",
+                    "caption": "Red Bean Bun"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wrYoik3k_IsDda5a418O9g/o.jpg",
+                    "caption": "BBQ Pork Bun"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Heldanna S.",
+                "user_id": "ytHNuvQV7rbsEATYy3bJMw",
+                "link": "https://www.yelp.com/user_details?userid=ytHNuvQV7rbsEATYy3bJMw",
+                "address": "Midtown, Atlanta, GA",
+                "friends": 0,
+                "photos": 6,
+                "reviews": 10
+            },
+            "comment": {
+                "text": "I'm obsessed with this place! I've returned multiple times and ordered a variety of buns and they've all failed to disappoint. Their drinks are also reasonably priced. My only critique is that the fries are extremely salty, but not enough for me to dock a star.",
+                "language": "en"
+            },
+            "date": "2024-03-02T19:18:48Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/F9AiXCzhJHAhkzf843OXSg/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Don P.",
+                "user_id": "14M-sveYmSeTpgW77BXSyw",
+                "link": "https://www.yelp.com/user_details?userid=14M-sveYmSeTpgW77BXSyw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/llC0rlNYdFYJl3A2bI_u4w/180s.jpg",
+                "address": "Orlando, FL",
+                "friends": 83,
+                "photos": 126,
+                "reviews": 140,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Their biggest success is also my biggest challenge when visiting here .... excellent variety of selection. I want to try more than my body will allow. Very clean dining room and helpful service at the register. Everything is fresh and attractive. I try to stop here on my frequent visits to Atlanta, and I'll grab an extra item to eat on the plane trip home. \nVery easy to recommend to others. \nI do wish they had cartons/bottles of milk to accompany the pastries.",
+                "language": "en"
+            },
+            "date": "2023-08-06T14:27:27Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7hX-D9gFjvvTD4btBmheEw/o.jpg",
+                    "caption": "Pork Sung Bun is wonderful."
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Jetrina M.",
+                "user_id": "dnSq3r8SP9HXhk5BXVrzog",
+                "link": "https://www.yelp.com/user_details?userid=dnSq3r8SP9HXhk5BXVrzog",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/9M3tAa1oOQu9w_GKPMauIA/180s.jpg",
+                "address": "Los Angeles, CA",
+                "friends": 35,
+                "photos": 949,
+                "reviews": 484,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I love this place! I was staying at the Hyatt around the corner and was so delightfully surprised to find this place. It has many freshly baked pre-wrapped goods - both sweet and savory. They also have a menu of hot food to order and an extensive drink menu. I only bought the baked goods so cannot comment on the quality of their hot food or drinks.\n\nI ordered a mango bun, chocolate chip cookie, mozzarella bun and a chocolate filled roll. Everything tasted really fresh and the cookie was soft inside. My 4 items cost about $12. \n\nThere are many tables inside to sit and enjoy your food or do work. I think there was also a sign for free wifi but I was only here briefly. It's located right on Peachtree street so not sure what the parking is like. Would definitely recommend this place to anyone in the area!",
+                "language": "en"
+            },
+            "date": "2023-06-13T19:09:00Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jhrugaMpaj4fOhZDhJVrqA/o.jpg",
+                    "caption": "Bakery area"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tjFb1TCnytSJfUl64nt9IQ/o.jpg",
+                    "caption": "Baked goods"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aYNdbA7acjW6OKm3sPNTtw/o.jpg",
+                    "caption": "More baked goods"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Elisa M.",
+                "user_id": "7OZukW9lSz5AASG5sy8psA",
+                "link": "https://www.yelp.com/user_details?userid=7OZukW9lSz5AASG5sy8psA",
+                "address": "UT, UT",
+                "friends": 0,
+                "photos": 5,
+                "reviews": 5
+            },
+            "comment": {
+                "text": "FYI we only tried desserts. The tiramisu was perfect. So delicious would 10/10 recommend. The strawberry cheesecake was just ok. The flavors were good, the consistency was a bit off. \n\nAmbiance is great. The place is super cute and has a wide variety of desserts both packaged and made fresh daily. \n\nEmployees were super helpful and very friendl",
+                "language": "en"
+            },
+            "date": "2024-01-22T23:56:27Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KSwMYzarE4zDPUvibC4KCA/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kavi V.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/T4sj5On2tVN9hDW85kmTpQ/90s.jpg",
+                        "role": "MANAGER"
+                    },
+                    "comment": "Hi Elisa,\n\nThank you so much for paying us a visit! I'm so delighted to hear that you loved our tiramisu -- it's one of our popular items and definitelyyy one of my personal favorites. And I'll make sure to pass on to our team that you appreciated their kind and helpful service. Feedback like this always mean so much to us.\n\nHowever, I'm so sorry to hear that you weren't as pleased with our strawberry cheesecake! Do you mind detailing what about the consistency didn't sit the best with you? We wanna ensure that we're being proactive about making improvements within our space. If you feel comfortable to do so, you're more than welcome to email your thoughts to me at kavi@sweethut.com and I'll make sure to pass that right on to our management + kitchen so they're made aware and can act accordingly!\n\nThank you so much again for stopping by and we hope to see you again soon, Elisa!\n\nBest,\n\nKavi",
+                    "date": "2024-01-26T04:40:08Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Rob T.",
+                "user_id": "du3_MBEwg3ztJs87pYpODg",
+                "link": "https://www.yelp.com/user_details?userid=du3_MBEwg3ztJs87pYpODg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/__rJIXDOaNONTNyFC33i9g/180s.jpg",
+                "address": "Atoka, TN",
+                "friends": 264,
+                "photos": 8,
+                "reviews": 55
+            },
+            "comment": {
+                "text": "Excellent customer service --- Very good pastries, and an excellent selection. Busy Asian shopping center  ---- but glad we stopped!",
+                "language": "en"
+            },
+            "date": "2024-02-05T14:44:33Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Michelle M.",
+                "user_id": "UXykE7jg-6fUFlWf7b_JrQ",
+                "link": "https://www.yelp.com/user_details?userid=UXykE7jg-6fUFlWf7b_JrQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LpbaYMYRE6yu27GU5oaGNg/180s.jpg",
+                "address": "Orlando, FL",
+                "friends": 350,
+                "photos": 443,
+                "reviews": 253,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Such a cute place! You can grab a basket and fill it up with all the goodies you'd like as you walk through. All of the deserts and baked goods seemed very fresh, but some of them had a slightly eggy fishy flavor, maybe I'm just not used to it. Overall, majority of the things we tried were good!",
+                "language": "en"
+            },
+            "date": "2023-08-04T12:17:21Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DY1xKhIZsEAZo-bEuP6PpQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xBJdY-a1n0ZF9l2ctGhstQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sC_zrM_I6tY8_lvmt177cw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 4,
+                "funny": 1,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Dhriti N.",
+                "user_id": "a04sPffAkgwwgFAZSnOB4w",
+                "link": "https://www.yelp.com/user_details?userid=a04sPffAkgwwgFAZSnOB4w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/l1MbPKgZF-uSNzPEyoh7LQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 19,
+                "photos": 123,
+                "reviews": 44,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Love this place! The cr\u00e8me br\u00fbl\u00e9e milk tea is such a yummy milk tea. It tastes literally like crime br\u00fbl\u00e9e if it was a milk tea. It is quite sweet though. Even the actual creme br\u00fbl\u00e9e here is sooooo good. I love that you get two free toppings with the milk tea here. Also almost all the milk teas have customizable sugar and ice which is great! I don't enjoy boba that is too chewy, so the brown sugar crystal here is my absolute favorite boba topping I've ever tried. It's texture is the perfect blend between boba and jelly and the flavor is so yummy. I also love the custard pudding! Some of my food favs are the salt and pepper chicken nuggets (so spicy, have paprika not just salt and pepper), curry chicken bun (melt in your mouth sweet bun with super flavorful chicken inside), garlic cheese bun (so buttery, so cheesy, slight garlic, MELTS IN MOUTH). Taro and Thai tea are also pretty good here! The place is quite nice, good to work at! The teas are always made SO quick.",
+                "language": "en"
+            },
+            "date": "2023-11-28T04:28:14Z",
+            "rating": 5,
+            "tags": [
+                "4 photos",
+                "3 check-ins"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ju6Ay0OGixgqqv3vRT-9Qw/o.jpg",
+                    "caption": "Classic milk tea and Caramel Br\u00fbl\u00e9e milk tea"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pRmtA4P2HDeS_XqpVbpq3Q/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5yBZepI3k8KDZeIh45dd_w/o.jpg",
+                    "caption": "Oolong milk tea and Jasmine Green Milk Tea"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0GQJLCA3a0IgfsKujx8aog/o.jpg",
+                    "caption": "Creme Br\u00fbl\u00e9e milk tea"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Sydney R.",
+                "user_id": "hRqO92TWGSFND-EhjT8ggw",
+                "link": "https://www.yelp.com/user_details?userid=hRqO92TWGSFND-EhjT8ggw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GvUGAf-GC4FBWqb6Ckdfkg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 204,
+                "photos": 766,
+                "reviews": 233,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I visited Sweet Hut thinking this would be an average Bakery and Cafe but I was sooooo wrong.\n\nThe Marietta location specifically is built from the ground up for this establishment and you can tell they put lots of details into it. \n\nAs you walk in they have a section with all the pastries and bakery items. You can grab a little basket and glove and fill it to your hearts desires. everything is Malaysian or American inspired and baked fresh daily.\n\nNext you've got the cafe which offers both hot and cold snacks to meals.\n\nSweet Hut also offers Trivia on Tuesdays and is PERFECT for studying and working as they do offer free wifi. I personally enjoyed working here because the music and the volume from others was minimal. They also had TONS of space both indoors and outdoors so you didn't have have to feel cramped in or fight for outlets. \n\nAll in all, I would definitely recommend giving Sweet Hut a try if you're ever looking for fresh baked goods and a comfy place to work!",
+                "language": "en"
+            },
+            "date": "2023-06-26T01:40:18Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Rainn L.",
+                "user_id": "O6v44CY4C-anfU1IBlKCGQ",
+                "link": "https://www.yelp.com/user_details?userid=O6v44CY4C-anfU1IBlKCGQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hjlWW7UwSARUJGwzxFJfcg/180s.jpg",
+                "address": "Tampa Bay, FL",
+                "friends": 0,
+                "photos": 2,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "This place was so nice the ambiance, workers, and design. Would it be bad if I moved here just so I could come to this place everyday?",
+                "language": "en"
+            },
+            "date": "2023-12-16T00:31:17Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/e29l8evUsnWW_f29vMKxhA/o.jpg",
+                    "caption": "osmanthus oolong milk tea"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/y2lvbKdCv7sEWx-L-woj5w/o.jpg",
+                    "caption": "Matcha Bun, Egyptian bun, original croissant, and portuguese egg tart"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Sharon C.",
+                "user_id": "_cyszfH5u6DSvmKi7TFqeA",
+                "link": "https://www.yelp.com/user_details?userid=_cyszfH5u6DSvmKi7TFqeA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/szkGiGK2Vcyrm_D41ZmWHA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 268,
+                "photos": 253,
+                "reviews": 185,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I love Sweet Hut because the buns truly remind me of my childhood - specifically the dry pork sung bun & the various hot dog buns (spring onion is my fav)\n\nGrowing up Chinese, these buns were like the holy grail - and I think Sweet Hut does an insanely good job at the dry pork sung bun. Personally, it is my favorite place to get one, and my whole family agrees! \n\nI've tried a few other buns here, but personally find them too sweet or bland - but my go to's keep me coming back! \n\nThe drinks are also very delish & I'm a huge fan that you can personalize sweetness and ice levels! Here are a couple of my fav drinks:\n- Vietnamese Iced Coffee\n- Lychee Green Tea + double lychee jelly\n\nTotally check this place out for some great buns & drinks!",
+                "language": "en"
+            },
+            "date": "2022-11-16T15:13:48Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QKXrTZ2ipioV7EP5jTK2yA/o.jpg",
+                    "caption": "Buns galore!"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Claudia R.",
+                "user_id": "cAjTduC-x8sfr-KGxDX3JQ",
+                "link": "https://www.yelp.com/user_details?userid=cAjTduC-x8sfr-KGxDX3JQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fC0pvvGJeriq_eKmY0pKsg/180s.jpg",
+                "address": "Austell, GA",
+                "friends": 1,
+                "photos": 5,
+                "reviews": 25
+            },
+            "comment": {
+                "text": "Always love the tiramisu they serve. Good quality and plenty to select from. Their salads are huge.",
+                "language": "en"
+            },
+            "date": "2024-01-21T16:14:10Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Stephanie P.",
+                "user_id": "vq0RhJrEaAFOjyrLyKnvDQ",
+                "link": "https://www.yelp.com/user_details?userid=vq0RhJrEaAFOjyrLyKnvDQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hzPfkkuYdUpSC-gsoQogew/180s.jpg",
+                "address": "Wilmington, DE",
+                "friends": 42,
+                "photos": 781,
+                "reviews": 256,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "This is a sort of trendy Asian bakery. Very clean and we liked that the pick up items were all individually wrapped. The Vietnamese coffee with boba was fairly standard so it was enjoyable on a hot day. Not very strong which Vietnamese drip coffee can be at times. The fruit tart was a nice array of fruit and very fresh. The fruit laid on top of sweet whipped cream not custard and the tart itself was very thick and solid (not flaky). Would like to stop by to try another dessert next time I am in Atlanta.",
+                "language": "en"
+            },
+            "date": "2023-05-08T22:14:18Z",
+            "rating": 4,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/x9I9mNJEEeSUnHrAOiujfg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZLENmaq-7xfUV8_qfOtfew/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/l-DFDIXaaS4rJ5GBAyEDXQ/o.jpg",
+                    "caption": "Vietnamese Coffee with Boba"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/p463ECkCTqSj6g4XqJP5MA/o.jpg",
+                    "caption": "Fruit Tart"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FnyT3cnMyLRT6Tmn9ji24Q/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Nina K.",
+                "user_id": "V9Oi4JlcdJ8Zgax1txRcsg",
+                "link": "https://www.yelp.com/user_details?userid=V9Oi4JlcdJ8Zgax1txRcsg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5bpkWrWwzs-1oxfnPQAPlg/180s.jpg",
+                "address": "Bradenton, FL",
+                "friends": 4,
+                "photos": 120,
+                "reviews": 100
+            },
+            "comment": {
+                "text": "Nice and clean. Love how they package everything in baggie. Wish they would label them had no clue what I was giving my parents. Couldn't separate sweet buns from bbq buns. Price was a bit of sticker shock . $135 but that's ok. I had around  20 items or so . So bring money . It is Good .",
+                "language": "en"
+            },
+            "date": "2024-01-01T03:38:09Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jessica M.",
+                "user_id": "jZAfyPrwVaVNVrBhoBy5xg",
+                "link": "https://www.yelp.com/user_details?userid=jZAfyPrwVaVNVrBhoBy5xg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/f3KgVximPh-bokKmnrLzJA/180s.jpg",
+                "address": "Franklin, TN",
+                "friends": 57,
+                "photos": 272,
+                "reviews": 136,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Grab a convenient tray, place some delicious pastries on it, then take it to the counter to pay. Enjoy! \n\nThe whole process takes me back to my childhood trips to Japan and getting breakfast from a neighborhood bakery every morning. \n\nToday I had a matcha latte and a red bean mochi bun. So delicious! Please open a Sweet Hut in Nashville!!!",
+                "language": "en"
+            },
+            "date": "2023-03-30T18:50:11Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Benjamin C.",
+                "user_id": "HYv8WbZ8nrWqXVphJf0LyQ",
+                "link": "https://www.yelp.com/user_details?userid=HYv8WbZ8nrWqXVphJf0LyQ",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 7
+            },
+            "comment": {
+                "text": "Easy grab and go spot! I love the food and drinks. And staff was friendly. Great atmosphere to study and hang out.",
+                "language": "en"
+            },
+            "date": "2024-02-19T18:00:27Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Lily W.",
+                "user_id": "X0ThBT2nXkeEFzd7RSuy6Q",
+                "link": "https://www.yelp.com/user_details?userid=X0ThBT2nXkeEFzd7RSuy6Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KaqCQQBqtRR1SyJUFH9UXQ/180s.jpg",
+                "address": "Philadelphia, PA",
+                "friends": 299,
+                "photos": 685,
+                "reviews": 336,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I was visiting Atlanta on a girls trip and wanted Taiwanese food. I researched what's around my hotel, and stumbled across sweet hut bakery on Yelp. I called and ordered ahead, so glad I did because it was quite busy. I got the Taiwanese popcorn chicken and milk tea with boba. The popcorn chicken is delicious and the milk tea was pretty good. I wish the boba is a bit softer, but can't complain, still pretty tasty. I was happy to find out they do customized drinks. I cannot stand the taste of creamer or dairy free creamer powder, so they were able to make it with fresh milk for me. The bread selection there was awesome, i bought a taro mochi bun and a taro almond bun, both taste phenomenal. 10/10 I highly recommended this place.",
+                "language": "en"
+            },
+            "date": "2023-03-15T00:47:38Z",
+            "rating": 5,
+            "tags": [
+                "10 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ohFBRjss7xhbU6MIl7oIKQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UgVMlVhETVJMLDRE3dRqxA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5-YheA64WFzwMifWenrk-A/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1xhzQlazt03x9EiJOzxXog/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oU97j6KEn4YiC1dB09cphA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tUNmgq5i-ZhavBjWjnTWOA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EE16kYK1iN9GJjQIKFJ1yQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WAw6HhNlH7h2pVlXL5Lkjg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VDucNrbcPVOAKC5aUy3F5Q/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5g_ivEQceiUOHJDH8qO8dg/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jessica S.",
+                "user_id": "6VDsLStprqcBTuBsKiwkzw",
+                "link": "https://www.yelp.com/user_details?userid=6VDsLStprqcBTuBsKiwkzw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WTdHb4HGoV5flxJkfsXojA/180s.jpg",
+                "address": "Chicago, IL",
+                "friends": 218,
+                "photos": 270,
+                "reviews": 133,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Really cute bakery with a wide variety of bakery options!\n\nI got the lychee green tea at 50% sweetness which was super refreshing.\n\nFor the bakery items, the roll with corn and green onions was my favorite! Super soft and buttery.\n\nI definitely preferred the savory items, including the chili oil roll and the green onion roll.\n\nI would definitely recommend this spot for a quick bite!",
+                "language": "en"
+            },
+            "date": "2022-09-08T15:28:14Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Dct910FxAp3BjFEkXDiMXA/o.jpg",
+                    "caption": "Lychee Green Tea"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/e_vrj6__Ll3FK6YiNejbJA/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Haley T.",
+                "user_id": "guvb80W706AA9MmtnMrJkw",
+                "link": "https://www.yelp.com/user_details?userid=guvb80W706AA9MmtnMrJkw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HUkjr516ubV9E4MVWu_Xfg/180s.jpg",
+                "address": "Decatur, GA",
+                "friends": 562,
+                "photos": 102,
+                "reviews": 64,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Always a go-to spot for me when I want Asian-inspired pastries and desserts. I always go for a nutella bun, custard bun or the custard pudding. The Sweet Hut Milk tea is always a fan favorite as well! Service is usually good and the atmosphere is nice. Sometimes it can be a bit messy though since a lot of people use it as a hang out or work spot (students). I'll continue to support Sweet Hut and enjoy my yummy treats when I visit!",
+                "language": "en"
+            },
+            "date": "2023-02-10T21:26:07Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bioAatJ7DCUzSUyqFD0GGQ/o.jpg",
+                    "caption": "Custard Bun Sweet Hut Milk Tea Custard Pudding"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kavi V.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/T4sj5On2tVN9hDW85kmTpQ/90s.jpg",
+                        "role": "MANAGER"
+                    },
+                    "comment": "Haley!\n\nThank you so much for this sweet review and for your continued support. We're so happy to hear that you've been enjoying your visits with us. It's reviews like these that really warm our heart and make the hard work so worthwhile. Also -- the Sweet Hut Milk Tea is in my Top 3 favorites! If you're looking for something new, I recommend the Royal Milk Tea (75% sugar) with boba, he he.\n\nAnd we appreciate your feedback regarding the upkeep of our space. Being in the heart of Midtown, we definitely have a lot of foot traffic, but it's no excuse to have an untidy space. I'll send your review over to our management so they're made aware of this and can kindly remind our staff to conduct more frequent cleaning checks.\n\nThank you so much again, Haley, and we look forward to serving you again soon!\n\nBest,\n\nKavi",
+                    "date": "2023-02-16T02:57:14Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Tekia H.",
+                "user_id": "OBYq_M8mZJBgi55SAUVNTw",
+                "link": "https://www.yelp.com/user_details?userid=OBYq_M8mZJBgi55SAUVNTw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LXXkFKl8FQ4Mkp8jb6ACDw/180s.jpg",
+                "address": "Jacksonville, FL",
+                "friends": 163,
+                "photos": 1839,
+                "reviews": 339,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "This place is an absolute joy. So many great treats to try. I had a co-worker recommend we try this place during a conference in Atlanta. I was not disappointed. So many fun pastries and treats to try. Also, my favorite boba tea. I had to purchase a few treats for later. \n\nI love the variety of things they have. The pastries and not overly sweet which was a plus. The sweet breads were pill soft and a joy to eat. I wish I had one now. \n\nThe only thing that may be a draw back was a weird guy hanging around and kind of harassing my co-worker. He made us feel uneasy, so we left after getting our snacks. It wasn't the fault of the establishment, but it was just something that took away from my overall experience.",
+                "language": "en"
+            },
+            "date": "2022-06-30T18:04:39Z",
+            "rating": 4,
+            "tags": [
+                "10 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NZ4dpG7nSh-wMBSgw-qHpw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JbCnLOP3R2go6ZVaGUWlEA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ekTTboUJLBAWLR9CgH3RZg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZAYbukrBK3ssdb_7eRY1Ig/o.jpg",
+                    "caption": "Caramel Br\u00fbl\u00e9e"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Tt2PIe_eMiYdvv-ZsYnpKA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FkstXuFGEodrpAWiqrHOxA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cI9Pq2DHE3RtBm8tc_eyog/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/P_vKBlI4U80GSPJ_lT3TrQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oBM6tDk0lMF4X80VKISbfQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lMwPOJAbohBs7LB4yMqWpQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Lindsay E.",
+                "user_id": "o7An69TjwBD3NfuTqCiMyQ",
+                "link": "https://www.yelp.com/user_details?userid=o7An69TjwBD3NfuTqCiMyQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3ghqVgBKzvX-HZ0JL9JYzQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 196,
+                "photos": 1195,
+                "reviews": 356,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I always love a trip to Sweet Hut. Not only do they offer a wide variety of East Asian baked goods and custom cakes, but they have substantial lunch options like sandwiches and baos, samosas and fries. One of my favorites is the cheese foam assam tea. It's a sweet and savory iced tea treat. \n\nIf you're looking for a fun place to try foods you might be unfamiliar with, this is a great place for folks who haven't been exposed to much international cuisine. You're sure to find something that you enjoy!\n\nI have visited three Sweet Hut locations in the Atlanta / Duluth area, and each one has been a treat!",
+                "language": "en"
+            },
+            "date": "2022-06-10T17:28:22Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 3,
+                "funny": 0,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Remy L.",
+                "user_id": "deinJzkcJUpaGW8QoArGyg",
+                "link": "https://www.yelp.com/user_details?userid=deinJzkcJUpaGW8QoArGyg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DQQi0RNt9ZspxgYR_5ltZg/180s.jpg",
+                "address": "Portland, OR",
+                "friends": 251,
+                "photos": 30,
+                "reviews": 46
+            },
+            "comment": {
+                "text": "10/10!!!! Omg \n. Highly recommend the red bean mochi bun and the taro bun! Only thing I wish they would change is individually plastic wrapping everything.",
+                "language": "en"
+            },
+            "date": "2023-03-21T15:18:41Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lf6Ag6HTbGYx1R1K-taH0Q/o.jpg",
+                    "caption": "Red Bean Bun"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Soumya K.",
+                "user_id": "TIXQzFIgpzq7vBwQ6PlrXw",
+                "link": "https://www.yelp.com/user_details?userid=TIXQzFIgpzq7vBwQ6PlrXw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JeipRYPZYBPIbrPvZKbLXQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 16,
+                "photos": 82,
+                "reviews": 78,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I visit sweethut almost weekly and love them for their consistently good quality food and drinks. The pastries are delicious (my go to is the chocolate buttercream bun), the food is solid (salt & pepper nuggets and lemongrass bbq pork sandwich ), and all of their boba flavors are delicious. Although, I usually get 50-75% sugar level since their drinks are fairly sweet. \n\nWill continue to come here once every few weeks when I'm craving some sugar!",
+                "language": "en"
+            },
+            "date": "2023-02-03T20:03:22Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Hikari N.",
+                "user_id": "hT5o8CE_zgR5nFu3mY8iMw",
+                "link": "https://www.yelp.com/user_details?userid=hT5o8CE_zgR5nFu3mY8iMw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RWLnVp4c3uTFcrthjbJ_wA/180s.jpg",
+                "address": "FL, FL",
+                "friends": 17,
+                "photos": 107,
+                "reviews": 58,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "If you're looking for an Asian snack this is the place to go. So many variety to choose from it'll hit the spot for a variety of taste palettes. \nThe fired chicken was so good we definitely wished we ordered more. \nHighly recommend this place if you like Asian food and are on the go!",
+                "language": "en"
+            },
+            "date": "2022-07-30T14:19:44Z",
+            "rating": 5,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rnxARP3kZX-n743u1btwBQ/o.jpg",
+                    "caption": "Royal Milk Tea Boba, Strawberry Pudding, Caramel Pudding"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5D6GTPHiqEx0vNiuZLI_4Q/o.jpg",
+                    "caption": "Mochi Taro Bread"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2FsZzzxP5pFZ7KGR-2n0AA/o.jpg",
+                    "caption": "Japanese Cheesecake"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/N4o6NOkWvboccyv5yoCm_w/o.jpg",
+                    "caption": "Salt & Pepper Chicken Nuggets Platter, Spicy Bulgogi Chicken"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hUGTP23M4UCc0v2czWECyg/o.jpg",
+                    "caption": "Caterpillar"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Christina K.",
+                "user_id": "50LOI3r4_CqIhLFSw8Mm1g",
+                "link": "https://www.yelp.com/user_details?userid=50LOI3r4_CqIhLFSw8Mm1g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HrJdl0_q0Z7KDgv9H-9m9A/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 30,
+                "photos": 149,
+                "reviews": 132,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I love the vibes of this place! There are plenty of outlets everywhere, I can see myself coming here again in the future and doing some work. This was my second time here. The first time I had gotten a mocha frappe and it was delicious! Be warned, it's a huge portion! I had it after dinner and I thought I was going to explode afterward.\nMy second time I got the chocolate mousse and again, did not disappoint! The mousse was super creamy and chocolatey! They also validate parking for the Metropolis parking deck",
+                "language": "en"
+            },
+            "date": "2023-01-17T18:34:47Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Emily P.",
+                "user_id": "wFK9biRax1ZHQrvpU5039w",
+                "link": "https://www.yelp.com/user_details?userid=wFK9biRax1ZHQrvpU5039w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/S2FlfokbijssMMuQnbpNIw/180s.jpg",
+                "address": "Cleveland, OH",
+                "friends": 389,
+                "photos": 163,
+                "reviews": 102,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Super cute spot with very helpful and friendly staff. Huge variety of bakery goods and sweets with unique offerings. The Egyptian honey butter bun was so good. Everything looked beautiful.",
+                "language": "en"
+            },
+            "date": "2023-01-09T06:51:59Z",
+            "rating": 5,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aDwGO6N58sUkdCVGdOg7hQ/o.jpg",
+                    "caption": "Taro Cake"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gDhBEwf0qoziSEO3oEnEsw/o.jpg",
+                    "caption": "Inside"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bqUKrgr_lP6QSHkOGQylGg/o.jpg",
+                    "caption": "Ube tart"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iqWP1a83ushGPHFCPpUCPw/o.jpg",
+                    "caption": "Taro Cake"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Sabina A.",
+                "user_id": "CvNC0raqy5Bt_a1opW-b2g",
+                "link": "https://www.yelp.com/user_details?userid=CvNC0raqy5Bt_a1opW-b2g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cDk0HGFnPSe-FAINi94Jiw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 19,
+                "photos": 78,
+                "reviews": 44,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "This place truly is the sweetest little hut in midtown! Cozy atmosphere and yummy pastries. My favorite is the purple bun - I would buy these in bulk if I could. The pearl jasmine hot tea is also very flavorful and delicious.",
+                "language": "en"
+            },
+            "date": "2023-05-13T15:17:00Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Lisa T.",
+                "user_id": "i2CbMNgQSRt2RvvLGeQwsQ",
+                "link": "https://www.yelp.com/user_details?userid=i2CbMNgQSRt2RvvLGeQwsQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RLRVd1B_TMCvt7zkQuRlyw/180s.jpg",
+                "address": "Fullerton, CA",
+                "friends": 17,
+                "photos": 1426,
+                "reviews": 186,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "TOP CHOICES:\n- BBQ PORK PUFF PASTRY\n- BBQ PORK BUN\n- VIOLET TARO\n- STRAWBERRY BUTTERCREAM\n(would remove the dried cranberries)\n\nWOULDN'T GET AGAIN:\n- BLUEBERRY CREAM CHEESE (not enough filling)\n- CUSTARD BUN (not enough custard)\n\n$2.50 STRAWBERRY BUTTERCREAM (4/5):\nA soft and fluffy milk bun filled with a sweet strawberry buttercream, topped with dried cranberries (which tasted weird in this combo. I don't know why they included other than it's red, I threw them away) also had coconut flakes that were sweeter and a more subtle flavor than normal coconut flakes. If you look closely you can probably see they look like sugar flakes. I don't even like coconut flavor, but this was mild enough and worked with all the flavors. The ONLY thing I didn't like on here were the dried cranberries. Random and weird that they included on this. \n\n$2.50 CUSTARD BUN (3/5): \nBread was sweet and filled with a small amount of custard inside as filling. I wish it had more custard! I threw away the ends/outside of the bun since it was just plain bread and was slightly harder towards the outer ends. Still delicious!\n\n$2.75 BLUEBERRY CREAM CHEESE BUN (2/5): \nBarely ANY filling (see photo). Would not get this one again. Unless you want a plain\n\n$3.50 VIOLET TARO (4/5): I loved the texture of this one! If you like taro, get this! Taro flavored and filled with mochi. Yum\n\n$2.95 BBQ PORK BUN: LOVED THIS TOO! I don't even eat a lot of pork, but it had so much meat filling and the flavor was on point. It's not as good as the puff pastry one, but if you want the same flavor for cheaper, get this one! Delicious! I would get this every time I come. \n\n$4.50 BBQ PORK PUFF PASTRY: The absolute BEST one of the 6 I got! Flaky and buttery puff pastry filled with a TON of delicious flavored pork. YOU WON'T BE DISAPPOINTED. Get it!",
+                "language": "en"
+            },
+            "date": "2022-06-17T02:48:28Z",
+            "rating": 4,
+            "tags": [
+                "7 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mhLFddEnKyizOATF0QZhXA/o.jpg",
+                    "caption": "$2.50 STRAWBERRY BUTTERCREAM: Soft milk bun w/ sweet buttercream dusted w/ coconut flakes, dried cranberries on top were weird."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tXJITNeWjkJqfIgVou8CdA/o.jpg",
+                    "caption": "$3.50 TARO BUN: filled with mochi - I love this one!"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gflPAj2zD2p59pbzsT0Sig/o.jpg",
+                    "caption": "$3.50 TARO BUN: filled with mochi - I love this one!"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WX7UCrX-kvniYSXnvS1PGQ/o.jpg",
+                    "caption": "$2.75 BLUEBERRY CREAM CHEESE: barely ANY FILLING! What a rip off. Just plain sweet bread. Don't get this one."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/S9BGFYOYTc_JUqFSBuICUA/o.jpg",
+                    "caption": "$2.75 BLUEBERRY CREAM CHEESE: barely ANY FILLING! What a rip off. Just plain sweet bread. Don't get this one."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/91ifuI_-lYsM97seAiyE-A/o.jpg",
+                    "caption": "$4.50 BBQ PORK PUFF PASTRY: my favorite of the 6 I tried! So much pork filling & flaky buttery puff pastry crust! AMAZING!"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lyzfrb-BLV6-IekOdF-tQg/o.jpg",
+                    "caption": "$2.95 BBQ PORK BUN: same flavor as the BBQ PORK PUFF PASTRY, but not as expensive! It's one of my top choices always."
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "A. S.",
+                "user_id": "tAJPkRmztA51lpc9cz8RYA",
+                "link": "https://www.yelp.com/user_details?userid=tAJPkRmztA51lpc9cz8RYA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bvuiKUWdHoXAMMAEEk1O1Q/180s.jpg",
+                "address": "Orlando, FL",
+                "friends": 0,
+                "photos": 1,
+                "reviews": 6
+            },
+            "comment": {
+                "text": "Went to this Sweet Hut after not visiting for several years! The quality has greatly improved. Love to see the location thriving!",
+                "language": "en"
+            },
+            "date": "2023-08-16T04:53:13Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Stephanie G.",
+                "user_id": "WmDHqb_1Frb_q8sc0VLCuw",
+                "link": "https://www.yelp.com/user_details?userid=WmDHqb_1Frb_q8sc0VLCuw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ScMpLhi8oh-qJq9bW9ICOQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 99,
+                "photos": 529,
+                "reviews": 424,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "We used to frequent this place a lot when we lived in Midtown. This trip satisfied my bubble tea cravings even though they had limited options on pastries. I ended up getting the mango pudding bun with a jasmine green milk tea.",
+                "language": "en"
+            },
+            "date": "2023-05-03T19:11:57Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Sherri L.",
+                "user_id": "kySISFg7EqFZ9AC9Vk39oA",
+                "link": "https://www.yelp.com/user_details?userid=kySISFg7EqFZ9AC9Vk39oA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/q3i7tbdcIGG7zhnT2gCJRw/180s.jpg",
+                "address": "Providence, RI",
+                "friends": 38,
+                "photos": 0,
+                "reviews": 50,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Really Yummy desserts  . A wide variety of pastries and breads. They have bobateas too .\n\nI gave it a 4 'cause my table was a lil sticky (like, I kinda wish they'd gave someone wiping down tables & chairs more frequently.",
+                "language": "en"
+            },
+            "date": "2022-09-04T21:24:49Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kavi V.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/T4sj5On2tVN9hDW85kmTpQ/90s.jpg",
+                        "role": "MANAGER"
+                    },
+                    "comment": "Hi Sherril,\n\nThank you so much for paying us a visit! I'm so thrilled you enjoyed your visit with us. Which of our desserts was your favorite?\n\nAlso -- thank you so much for informing us about the sticky tables during your visit. We're forwarding your review to our management to remind our staff to conduct more frequent cleaning checks. No more sticky tables moving forward!\n\nThank you again, Sherril! We can't wait to see you soon!\n\nBest,\n\nKavi",
+                    "date": "2022-09-13T23:56:00Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Jacklyn K.",
+                "user_id": "PGnnQDGfFIwhIrHJlhCqGg",
+                "link": "https://www.yelp.com/user_details?userid=PGnnQDGfFIwhIrHJlhCqGg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0EhL3LbJWdTuqlzeAagokA/180s.jpg",
+                "address": "Poughkeepsie, NY",
+                "friends": 183,
+                "photos": 622,
+                "reviews": 323,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I love the milk tea here and the diverse assortment of baked goods! The taro milk tea was delish- loved that they have honey boba and also aloe Vera as add ins. I love a bubble tea spot that allows you to adjust sweetness and ice as well. The violet bun (taro filled bun) was pretty good and very unique. My husband especially loved that it wasn't too sweet but the texture was something new for us. I was disappointed in the lack of vegetarian savory options (lots of pork and chicken options). Pastry and a small milk tea was $9.20 so pretty middle of the road pricing. \n\nThe inside is kind of fast-food vibe to me, though there were lots of young people on computers or just chatting with each other. Interior could use some revamping ie new chairs and tables but overall a nice stop for a sweet treat or cold drink!",
+                "language": "en"
+            },
+            "date": "2022-03-31T01:16:01Z",
+            "rating": 3,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/29MwUdGoPrsS5Tmijnyx9g/o.jpg",
+                    "caption": "Violet"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sa4hHstbuBTs-MLe3sj4Zw/o.jpg",
+                    "caption": "Violet"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Arianne P.",
+                "user_id": "S2R3Sm6PYM62miLmRQLUIQ",
+                "link": "https://www.yelp.com/user_details?userid=S2R3Sm6PYM62miLmRQLUIQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5L3xUvpVs32AHv10cdc7NA/180s.jpg",
+                "address": "Alpharetta, GA",
+                "friends": 31,
+                "photos": 14,
+                "reviews": 24
+            },
+            "comment": {
+                "text": "Lovely cafe & bakery in Midtown by Georgia Tech that serves yummy pastries, a few hot food options, and of course milk teas, fruit teas, and boba teas.\n\nThere is free parking available in the deck behind Sweet Hut as long as you get a VALIDATION STICKER from the cash register.\n\nThere is such a large assortment of pastries that are available to grab. You walk in and can grab a tray and parchment paper plus tongs. You grab all your pastries that you would like, they usually are all individually wrapped (post-COVID). End at the register and order your drinks and pay for your food.\n\nI would recommend their spicy nuggets, bacon cheese fries, or if you are feeling hungrier, the bulgogi cheesesteak.",
+                "language": "en"
+            },
+            "date": "2023-04-06T14:39:30Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Allison C.",
+                "user_id": "XM_LGQTJ2P1_giT8y4zZ1Q",
+                "link": "https://www.yelp.com/user_details?userid=XM_LGQTJ2P1_giT8y4zZ1Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PTYgUBtnzeAfpaFZuDU6Rw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 278,
+                "photos": 264,
+                "reviews": 88,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "A cute little bakery in Midtown that sells Asian-inspired bakery items. The actually bread goodies I feel like are a little lacking in flavor - they all taste a pretty similar. I do enjoy the specialty desserts on the display case. They're never too sweet, which is perfect for me.",
+                "language": "en"
+            },
+            "date": "2022-07-24T02:25:17Z",
+            "rating": 3,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1FnpOI3HlLVEB1uiXMSZRA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yIPDk0yGiyX-vmJSjMxFMg/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kavi V.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/T4sj5On2tVN9hDW85kmTpQ/90s.jpg",
+                        "role": "MANAGER"
+                    },
+                    "comment": "Hi Allison,\n\nThank you for leaving such a kind review in regards to our desserts on display. I'm happy to hear they taste as good as they look!\n\nAnd I'm so sorry to hear that you didn't have as great of an experience with the pastries on our shelves! As you know, we have a pretty wide selection so we're super committed to helping our guests find something they really, really enjoy! Are there any other flavors you're fond of? Could be our pastries, hot food, drinks, etc. If you send me an email to kavi@sweethut.com, I'd be more than happy to provide you some of my personal recommendations should you give us another go!\n\nThanks again for your review, Allision! We really hope to seeing you soon!\n\nBest,\n\nKavi",
+                    "date": "2022-08-02T14:47:48Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Joshua J.",
+                "user_id": "YwbAskJ7IahphkHM-j4jVA",
+                "link": "https://www.yelp.com/user_details?userid=YwbAskJ7IahphkHM-j4jVA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2K72TOAeaSK2mk2Nl48PPg/180s.jpg",
+                "address": "Tampa Bay, FL",
+                "friends": 45,
+                "photos": 615,
+                "reviews": 132,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "If you want to find a nice spot to grab a sweet drink and a pastry look no further. I'm totally being petty a with holding one star because they forgot to make my drink. \nI went back to the counter and inquired about my drink, the lady making drinks told me to my face I didn't order one. Luckily the lady who actually rang my up was right there and was able to quickly rectify this. But they literally were standing by each other when I placed my order.  \n\nNext time check with your other teammates and staff before telling a guest something like that. Because In my eyes I was called a liar right to my face right after spending 45 dollars in this establishment. I have the right mind to put the ladies name in this review. But I understand people are human and make mistakes and it was the holiday season so I will just take an additional star.",
+                "language": "en"
+            },
+            "date": "2021-11-29T09:48:41Z",
+            "rating": 3,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vazZmTwWEB3uOSr2h_a1YQ/o.jpg",
+                    "caption": "Main Entrance"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Kavi V.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/T4sj5On2tVN9hDW85kmTpQ/90s.jpg",
+                        "role": "MANAGER"
+                    },
+                    "comment": "Hi Joshua, \n\nThank you for taking the time to reach out -- we are so sorry to hear about your experience. We strive to create a welcoming environment for everyone and appreciate the feedback so that we may ensure that we do better. I have forwarded your review on to management for this location so that they may be aware of your experience so it never happens again. \nIf you're willing, we would love for you to visit us again in a few weeks to see how we have improved. Please let us know how your visit goes when you do! \n\nBest, \nKavi",
+                    "date": "2021-12-04T15:29:02Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Lindsay S.",
+                "user_id": "AM7fRhWnBGxAxbyMWygVkA",
+                "link": "https://www.yelp.com/user_details?userid=AM7fRhWnBGxAxbyMWygVkA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UrAyVioFP_d8Y1Uw1Us8Fw/180s.jpg",
+                "address": "Rincon, GA",
+                "friends": 485,
+                "photos": 3058,
+                "reviews": 259,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I was in the mood for boba tea and stumbled across this place. I was pleasantly surprised to see that it's not only boba, but a bakery as well! The place was packed, but the service was quick. I ordered the creme brulee milk tea + boba and it was just as delightful as it sounds. The boba was cooked perfectly and the tea had a lot of flavor. I also got a caramel brulee cake, which was delish! There were three layers/consistencies, all of which were good. If you have a sweet tooth - this is definitely a place for you!",
+                "language": "en"
+            },
+            "date": "2022-04-26T01:38:28Z",
+            "rating": 5,
+            "tags": [
+                "6 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_MrzXPI0ERuYFN3icQuJmA/o.jpg",
+                    "caption": "Dessert case"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2hlmefPslInJNkUbRc5yug/o.jpg",
+                    "caption": "Carmel Creme Br\u00fbl\u00e9e"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D0yvow2l5yxt7FYZSSJGEg/o.jpg",
+                    "caption": "Dessert case"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oZ39TUvB78OCal4znQaAoA/o.jpg",
+                    "caption": "Creme Br\u00fbl\u00e9e milk tea"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OBk5f30HfxOxXSND43m87g/o.jpg",
+                    "caption": "The cute box of goodies"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D-jRXxy-ULR-LJZ_ez6E6A/o.jpg",
+                    "caption": "Lotus pastry"
+                }
+            ],
+            "feedback": {
+                "useful": 11,
+                "funny": 3,
+                "cool": 10
+            }
+        },
+        {
+            "user": {
+                "name": "Joshua W.",
+                "user_id": "9mA0KUsImHYxTc85i72k5A",
+                "link": "https://www.yelp.com/user_details?userid=9mA0KUsImHYxTc85i72k5A",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3uevJa1TdHH1M-KjcK3wBw/180s.jpg",
+                "address": "Decatur, GA",
+                "friends": 150,
+                "photos": 785,
+                "reviews": 135
+            },
+            "comment": {
+                "text": "I had a sweet tooth today and I didn't want just one thing so I came to Sweet Hut since I was in the area and I know they have a variety of delicious treats. \n\nI decided to get 3 Chocolate Chip cookies @ $2.95 each, the Chocolate Ganache & Mango Macarons @ $3.25 for a pack of 2, the Chocolate Ganache & Mocha Macarons @ $3.25 for a pack of 2, & 2 Red Velvet slices @ $7.15 a slice bringing my total to $31.00. \n\nFor starters, the cookies are great in size but they are also thick too. They taste even better warmed up with a glass of milk! The Macarons are amazing. Each one has a distinctive taste that corresponds to their flavor but you can literally devour them in 2 bites so savor that taste or buy more lol. My favorite were the Chocolate Ganache & Mocha. \n\nI thoroughly enjoyed the Red Velvet slices, but I'm a big fan of nuts in my red velvet and these didn't have them. However, that doesn't take away from how moist the cake is and how sweet the cream cheese filling is as well.\n\nAll in all if you're a fan of sweets this is definitely a place I recommend you go to. They not only have sweets but they also offer sandwiches, dessert buns and breads, tons of teas, frappes and so much more.",
+                "language": "en"
+            },
+            "date": "2022-08-15T14:16:42Z",
+            "rating": 5,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TngYgcRCRNANGPrnGzgp2w/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qZI-VZgX3j1WcTQieZkclg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8-plSGnSmuWjdPpnKB-CtQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JLn9ib_ynWe89gFAvMSvJQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "D Janelle A.",
+                "user_id": "sTKM1eESrhfNOWdk4-BEUg",
+                "link": "https://www.yelp.com/user_details?userid=sTKM1eESrhfNOWdk4-BEUg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pBMyYKCs9DyD6vFRnpftmg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 12,
+                "photos": 29,
+                "reviews": 26,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I love a Taiwanese bakery (a bit biased, but yes)! So many treats to choose from. They also have boba, wasn't the greatest matcha I've had, but not saying I wouldn't get it again. I'll probably try a coffee boba next time. Everything is individually packaged and neatly placed. A nice cafe to sit down & chat with friends. Ordered a hot sandwich (miso chicken) which was good & came out fast!",
+                "language": "en"
+            },
+            "date": "2022-12-15T14:59:14Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Colby H.",
+                "user_id": "TDJVOsBjiJS2dF44peTo0Q",
+                "link": "https://www.yelp.com/user_details?userid=TDJVOsBjiJS2dF44peTo0Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hd85JfymKWkZCFczjdxEnw/180s.jpg",
+                "address": "Miami, FL",
+                "friends": 501,
+                "photos": 37,
+                "reviews": 47
+            },
+            "comment": {
+                "text": "Went to visit home (Atlanta) for the weekend and had to stop by! I remember going to Georgia state university and this place had just opened. The taro, passion fruit green tea and the desserts are still AMAZING! Staff is still super nice, smiling and welcoming. Thanks for making my weekend back home a great one. I visited twice on a short 3 day vacation haha.\nEveryone check this place out!",
+                "language": "en"
+            },
+            "date": "2022-06-02T19:57:09Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0OH8eQkfbydHsUf2kFHEsw/o.jpg",
+                    "caption": "Philly with cucumber salad"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Chelsea G.",
+                "user_id": "ePuchEG6ZQzFPN93HWqVUQ",
+                "link": "https://www.yelp.com/user_details?userid=ePuchEG6ZQzFPN93HWqVUQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ecHVBbNvMLGKwGU_Asplvw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 79,
+                "photos": 1394,
+                "reviews": 373,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I'd define this place as the fast food version of a bakery--the \"McDonalds of pastries.\" Definitely not the greatest atmosphere or quality of food, but convenient and easy. The original, Duluth, location has a wider variety. \nThings you should know:\nI. LOCATION \nIn the heart of Midtown. Shockingly, there aren't too many restaurants in the heart of the city, unlike New York. So, I'm happy to see some cultured food flourishing so well. \nII. QUALITY\nI'm assuming everything is made fresh daily, but I've had pastries from other local joints that just, I don't know, taste better. It's good for a quick fix though. \nIII. SERVICE\nNo complaints \nIV. CAPACITY\nThis place is always poppin'. Traffic flow at all times of the day is pretty consistent. I'm very happy for the business owners..! Sometimes finding seating can be difficult because it gets so busy, but that's great and not something to complain about.",
+                "language": "en"
+            },
+            "date": "2021-09-02T19:33:12Z",
+            "rating": 3,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R7HvLDgZ-vbFFJWnVtVARw/o.jpg",
+                    "caption": "Red Bean Mochi Bun (cut in half)"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XYrWvyKnLG8gmulh8St22Q/o.jpg",
+                    "caption": "Violet Pastry (cut in half)"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Hannah W.",
+                "user_id": "2UP5ovlNOrbXr1vXL48SGQ",
+                "link": "https://www.yelp.com/user_details?userid=2UP5ovlNOrbXr1vXL48SGQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rj3UtTN4RCYAOTujWHSU3w/180s.jpg",
+                "address": "Brookfield, WI",
+                "friends": 26,
+                "photos": 368,
+                "reviews": 193,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "This is such a cool place. It is dessert HEAVEN with lots of regular American desserts and pastries in addition to super unique Asian (Korean) desserts and savory items. There is something here for EVERYONE with a sweet (or savory) tooth. The cases are filled with all kinds of different desserts and savory bakery items such as hot dog or scallion buns. There are cakes and puddings and tarts and buns and cheesecakes, you name it! They also serve bubble tea. The staff here are super friendly and accommodating. They are open to giving recommendations and were very kind. There is a microwave in the seating area so you can microwave a bun that you purchase to eat in the store. I think they also have some hot food that they make in their kitchen that you can order.\n\nIf you are in the area and have a sweet tooth or are interested in exploring some asian sweet and savory food - I definitely recommend stopping in to Sweet Hut (& taking several boxes of food home with you!)",
+                "language": "en"
+            },
+            "date": "2021-09-02T17:52:15Z",
+            "rating": 5,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NLfup35whH_CA1FBYrq25Q/o.jpg",
+                    "caption": "Seating area"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fhIVNd1HfODivTBnn7P1Uw/o.jpg",
+                    "caption": "Dessert case"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yReDKMBlJRHwcHIFo0zjjQ/o.jpg",
+                    "caption": "Dessert case"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ztRd8Z7NgiTunQwwro3eGg/o.jpg",
+                    "caption": "Mini Oreo Cheesecake"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Chiante H.",
+                "user_id": "_iPfwWTvjo_A23x5b-gxqw",
+                "link": "https://www.yelp.com/user_details?userid=_iPfwWTvjo_A23x5b-gxqw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yHesknEkyzkAojuxa7w5cQ/180s.jpg",
+                "address": "Decatur, GA",
+                "friends": 50,
+                "photos": 380,
+                "reviews": 124,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "my first time ordering from here Was through Uber eats. My fries were good my cheesecake was a little on the small side but it was still good. But the MVPs were the Chinese chicken nuggets and the Thai bubble tea. I used to go to a place called quickly on Buford Highway. And they were the only place I could find those nuggets and since I no longer work on that side of town , it is now too far for me to drive. I saw these on the menu and said I hope that they were similar. They were almost the exact same chicken nuggets. You can get them spicy and adjust your spice level. \n\nThey Have a lot of other selections for bubble tea and I will try those next",
+                "language": "en"
+            },
+            "date": "2021-08-30T03:23:35Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZOsoI9K5dxqgAHkULJPdVg/o.jpg",
+                    "caption": "Thai bubble tea with extra boba pearls"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Hg4KoHvRLxi9Ynq4_p0n7A/o.jpg",
+                    "caption": "Shoestring fries. They tasted like they were dusted with something. They were very good."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cnZmAGmvCt3YE5zUf2ak_w/o.jpg",
+                    "caption": "Chicken nuggets with extra spicy seasoning . AMAZING! These are the same as Quickly."
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Min-Ru G.",
+                "user_id": "JKC9UUQldIyOHVvuxu6HKw",
+                "link": "https://www.yelp.com/user_details?userid=JKC9UUQldIyOHVvuxu6HKw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/De9JQPYBMeUZr9VmSh5Hxw/180s.jpg",
+                "address": "Denver, CO",
+                "friends": 32,
+                "photos": 533,
+                "reviews": 183,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Yummy Taiwanese baked goods, drinks and savory foods in Atlanta. They have sweet and savory breads. They also have sliders and sandwich rolls. I like the drinks and the breads. I bought some to take back home .",
+                "language": "en"
+            },
+            "date": "2022-10-28T16:44:59Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Tiffany P.",
+                "user_id": "C2Zued2LNqcPqPirtGALRA",
+                "link": "https://www.yelp.com/user_details?userid=C2Zued2LNqcPqPirtGALRA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/waH5wsybsljLb6hG2xfhLg/180s.jpg",
+                "address": "Rio Rancho, NM",
+                "friends": 13,
+                "photos": 99,
+                "reviews": 152,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Great bakery! So many kinds to choose from. I especially like the ones with shredded pork because it's savory yet sweet! The Thai chili bread I had was okay but then taro bun was super delicious! I wish I got more before I left Atlanta:(",
+                "language": "en"
+            },
+            "date": "2022-05-30T21:12:55Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pPPEvgYRISJ6e2j7NBBqTw/o.jpg",
+                    "caption": "Thai bun"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Angela A.",
+                "user_id": "b3YnUEXNms8sh0yyDK9ulg",
+                "link": "https://www.yelp.com/user_details?userid=b3YnUEXNms8sh0yyDK9ulg",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 6,
+                "reviews": 4
+            },
+            "comment": {
+                "text": "Cute place Great Food!! Bulgogi burger was delicious and sweet potato fries done just right. The lemon blacked iced tea was just right on sweetness and freshness. And everything in the bakery was soft and not overly sweet! 10/10",
+                "language": "en"
+            },
+            "date": "2023-12-07T14:54:59Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Fname L.",
+                "user_id": "t8TaLBHf1UWFXgcN7JmJBw",
+                "link": "https://www.yelp.com/user_details?userid=t8TaLBHf1UWFXgcN7JmJBw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7FNML3k0RYUKUscsTd-ajQ/180s.jpg",
+                "address": "Bethesda, MD",
+                "friends": 27,
+                "photos": 11,
+                "reviews": 14
+            },
+            "comment": {
+                "text": "Great fried tofu bao and app. Kind service. Quaint ambiance. Cucumber Salad is tangy and yummy.",
+                "language": "en"
+            },
+            "date": "2023-06-13T16:03:33Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Taylor L.",
+                "user_id": "WwuU7UbgvgJvoFCFi9rx8A",
+                "link": "https://www.yelp.com/user_details?userid=WwuU7UbgvgJvoFCFi9rx8A",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Vs1fDDFseForUoftEgldQA/180s.jpg",
+                "address": "Decatur, GA",
+                "friends": 256,
+                "photos": 2,
+                "reviews": 9
+            },
+            "comment": {
+                "text": "Amazing selection of sweet and savory pastries from many different parts of the world in terms of recipes. Also some good sandwiches and salads though I haven't tried as many of those. Also they have a wide selection of both hot and cold teas, with or without Boba, as well as smoothies and coffee drinks. Great lunch spot! Highly recommended!",
+                "language": "en"
+            },
+            "date": "2023-04-04T18:58:23Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Ameena S.",
+                "user_id": "rUQRgLS4hhLuqaOBd0IYXQ",
+                "link": "https://www.yelp.com/user_details?userid=rUQRgLS4hhLuqaOBd0IYXQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yH7RMQI-uEjNkRugYhodZA/180s.jpg",
+                "address": "Philadelphia, PA",
+                "friends": 383,
+                "photos": 855,
+                "reviews": 250,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Very cool spot! I was looking for a cafe with wifi to sit and do some work, and this was the perfect place for that. They have all kinds of pastries, sandwiches, and drinks. I ordered a couple of different things, and they were all good. The wifi connection was strong, there are plenty of power outlets, and the music wasn't too loud. I'd definitely come back here again and try one of their tons of desserts!",
+                "language": "en"
+            },
+            "date": "2022-02-09T20:42:14Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2LMtKOrErXY1JZmQOn2KCQ/o.jpg",
+                    "caption": "Mango Mousse"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HKzFQvBGcWgMteNkm5MEhg/o.jpg",
+                    "caption": "Sweet hut iced coffee with boba"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4qS08IgA7Qc3a6C3GQVrEA/o.jpg",
+                    "caption": "Mango Green Tea with lychee jelly"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Saunsarae M.",
+                "user_id": "p4imwMv2Ym0Xl0Qlsux6yQ",
+                "link": "https://www.yelp.com/user_details?userid=p4imwMv2Ym0Xl0Qlsux6yQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cdkvqJyx4j86D0zHFBSt7Q/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 62,
+                "photos": 540,
+                "reviews": 190,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I ran up on this asian dessert/food business while I was taking a walk. Lots of great foods and desserts. They also have sandwiches/burger and drinks including boba. My eyes were so big! I got a few filled breads and desserts. The chocolate mousse was my fav. I definitely recommend and will return.",
+                "language": "en"
+            },
+            "date": "2022-03-23T23:33:40Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wiPuQIW35Sn0wOdSK8SA8g/o.jpg",
+                    "caption": "Breads and desserts."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/n_lfnzZXJFLF8CXK4FwZQg/o.jpg",
+                    "caption": "Container with my order. Breads selection in the back on the left."
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=83maS2mCXYZjuwEhozVtLA&start=50"
+    }
+}

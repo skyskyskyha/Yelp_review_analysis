@@ -1,0 +1,1716 @@
+{
+  "search_metadata": {
+    "id": "65ef2c923e86acbb0f65b95b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c435cd11c3877dff/65ef2c923e86acbb0f65b95b.json",
+    "created_at": "2024-03-11 16:08:50 UTC",
+    "processed_at": "2024-03-11 16:08:50 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/fYD-MJa3m4GprzhqyUsmwQ?",
+    "raw_html_file": "https://serpapi.com/searches/c435cd11c3877dff/65ef2c923e86acbb0f65b95b.html",
+    "prettify_html_file": "https://serpapi.com/searches/c435cd11c3877dff/65ef2c923e86acbb0f65b95b.prettify",
+    "total_time_taken": 2.12
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 60,
+    "num": "50",
+    "place_id": "fYD-MJa3m4GprzhqyUsmwQ"
+  },
+  "search_information": {
+    "total_results": 806,
+    "business": "St. Cecilia"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 806
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Leisa B.",
+        "user_id": "rPNnAG0tnnw7A6lB532pcA",
+        "link": "https://www.yelp.com/user_details?userid=rPNnAG0tnnw7A6lB532pcA",
+        "address": "Fort Walton Beach, FL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "The food was wonderful! We had my son's rehearsal dinner here and we could not be more pleased! The atmosphere was great and so was the service!! Would definitely recommend for a special occasion!!",
+        "language": "en"
+      },
+      "date": "2023-10-21T04:03:40Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sara K.",
+        "user_id": "dQ1j74FDtUecVELxQbyK0Q",
+        "link": "https://www.yelp.com/user_details?userid=dQ1j74FDtUecVELxQbyK0Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ilZQ458EPmB6Xtxs6LDf6w/180s.jpg",
+        "address": "Suwanee, GA",
+        "friends": 0,
+        "photos": 33,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "We were there for Mother's birthday dinner. The staff is great and beautiful place for a special day. The food was overall good. Some of the plates were great and some of it was not. For example, my appetizers (grilled octopus and arancini) was fantastic but main menus were bit salty especially pollo. Honestly, the bread they bring out at the beginning was the highlight, it was the best bread I have ever had!",
+        "language": "en"
+      },
+      "date": "2022-12-22T17:34:35Z",
+      "rating": 3,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/col0EeKpUhAr6ossRgOZ9A/o.jpg",
+          "caption": "Arancini"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/scDjmKZ-_lH_nNKo-vnYUA/o.jpg",
+          "caption": "Polpo Carbonizzato"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hbAid0tmIoYE-0QpTxGUbA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qdZGMBOHXIXsGa1OVKob-g/o.jpg",
+          "caption": "Mafaldini al nera"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jqeYBnmr0ZoQVBRvq-zt2w/o.jpg",
+          "caption": "Pollo al forno"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EoVQOwxl_zASfVSi2Cedfw/o.jpg",
+          "caption": "Halibut"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WHB96Uck_32GPfyj2DUfhA/o.jpg",
+          "caption": "Bread"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Coti H.",
+        "user_id": "mYvjnw9aHXGmPJbgHdrSbQ",
+        "link": "https://www.yelp.com/user_details?userid=mYvjnw9aHXGmPJbgHdrSbQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nCPJL1H_N099vu-IizMqzQ/180s.jpg",
+        "address": "Nashville, TN",
+        "friends": 241,
+        "photos": 100,
+        "reviews": 127,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "St. Cecilia was my favorite dining experience for a recent trip to Buckhead for work! We didn't make a reservation but were able to enjoy our dinner at the beautiful (& spacious) bar. We ordered cocktails from the very knowledgeable bartender before getting our fresh bread. Their bread is made in-house and it's so light and airy! I ordered the cacio y pepe as my main dish and it was incredible! I would have loved to dine longer at St. Cecilia, trying all of their delicious options but I will definitely be back!",
+        "language": "en"
+      },
+      "date": "2022-02-07T00:14:52Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NM04FSVLlgRF2ya5AwTBhA/o.jpg",
+          "caption": "Cacio y pepe"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Paul R.",
+        "user_id": "Y-BGED5H76HryuIuvK-OLg",
+        "link": "https://www.yelp.com/user_details?userid=Y-BGED5H76HryuIuvK-OLg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GkY52Le6Z2LFIqOq29I3_A/180s.jpg",
+        "address": "The Gulch, Nashville, TN",
+        "friends": 0,
+        "photos": 9,
+        "reviews": 209,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Great vibe and very stylish and trendy venue. Service was very good. Drinks and food (when it finally arrived) was very tasty (though as so often happens now) both pasta main courses had to be re-done to be served hot. My conclusion is that staffing is being stretched thinner at most high-end restaurants and food is simply left under not-so-hot lamps until the servers get to it; this reflects badly on the chef/kitchen team, is a big miss in my view and essentially costs them a star in my rating. Nevertheless, I recommend.",
+        "language": "en"
+      },
+      "date": "2022-09-11T17:22:43Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kyla G.",
+        "user_id": "27MNiJ11Omcu-4Tf2QmVcQ",
+        "link": "https://www.yelp.com/user_details?userid=27MNiJ11Omcu-4Tf2QmVcQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qmUKSG49N085neSDs07l4Q/180s.jpg",
+        "address": "Washington, DC",
+        "friends": 20,
+        "photos": 80,
+        "reviews": 60
+      },
+      "comment": {
+        "text": "Per my regular yelp process, all restaurants need at least  two visits before I can review but I HAVE to make an exception for St. Cecilia. \n\nI am not exaggerating when I say I had a wonderful experience from the time I made my reservation to the time we walked out. \n\nAmira was our server &  you'll truly be lucky if you have the pleasure of dining with her taking care of you. She knew the menu so thoroughly and provided AMAZING recommendations the entire night. She was diligent in checking in with us, coursing out our orders and just keeping up with the flow of the night. She is one of many reasons I'll be back. \n\nChef Eddie came to greet us during the appetizer course, which was such a pleasant surprise for my friend and brought us the arancini - DEFINITELY ORDER IT! It was so delicious; it contains smoked white fish and though I don't usually like fish this was wonderful & overwhelming in fishy flavor. \n\nLet me get into the details though:\n* Attire: It's more upscale dining so it's worth dressing but no need to go over the top. \n* Our order:\n   Appetizer:\n     * charcuterie: prosciutto (amazing) & burrata\n     * warm spinach salad: small enough for one person, but worth sharing if you're order lots of food\n   Entree:\n     * skate milanese: light, flaky, absolutely delicious\n     * 1/2 order cacio e pepe w/shrimp & truffle added: a classic that i just couldn't deny myself. \n     * 1/2 order angoloti w/ truffle: filled beef cheek purée this was probably my favorite of the two pastas and just barely! \n    Dessert:\n     * I can't recall the name but it was essentially an apple turnover topped with a vanilla ice cream. I hate that I was so stuffed by the time this came out because it was OUTSTANDING! Next time, I'm starting with dessert \n\nWe also had a whiskey cocktail per Amira's recommendation then I switched to a delicious Malbec  with my pasta & we concluded the night with a Moscato. \n\nThere is valet ($3) - totally worth it. \nCome here & treat yourself, spare no expense, and allow yourself to indulge in a truly worthwhile experience. \n\nI'll definitely be back to St. C's as well as trying all of Chef Ford's other restaurants!",
+        "language": "en"
+      },
+      "date": "2021-12-22T18:08:25Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9_TrQHosLrzsiiPZec7llQ/o.jpg",
+          "caption": "the bar facing Phipps Plaza"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JaAlze2muqf7p3erF_NpbA/o.jpg",
+          "caption": "Focaccia & Whipped Ricotta"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Marian D.",
+        "user_id": "-ZqY1Jvfq46ENE5DNXNS8Q",
+        "link": "https://www.yelp.com/user_details?userid=-ZqY1Jvfq46ENE5DNXNS8Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UMtxzPqemHGeYxbgw_5xcA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 107,
+        "photos": 897,
+        "reviews": 308,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "LIKED * LIKED * LIKED * LIKED * LIKED * LIKED * LIKED * LIKED * LIKED \n\nAmbiance was wonderful \n\nService was 5-star! \n\nCelebrated our Anniversary here, everyone acknowledged this as we dined. \n\nAll staff wore masks, masks required. Limited seating. OpenTable reservation.\n\nPre-Arranged a bottle of sparkling wine and St.Germaine  prior to arriving, they set this up very nicely and worked with me easily\n\nLoved the table bread\n\nWHOLE BRONZINO is so flavorful! My favorite dish here hands down. \n\nFregola & Clams \n\nSQUID INK MALFADINI\n\n\nDisliked * Disliked * Disliked * Disliked * Disliked * Disliked * Disliked * \n\nLOBSTER PAN ROAST: was not my favorite. The broth was fantastic but it didn't feel like the flavor made its way into any of the seafood. It seems the seafood was cooked separately from the broth and added last. I don't think I'd order this again.",
+        "language": "en"
+      },
+      "date": "2020-12-02T17:48:21Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/C9Vd8EEq5-O6IE_v-Zh7Ww/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Morgan B.",
+        "user_id": "qrVyms9efz7plX8oPLA7LQ",
+        "link": "https://www.yelp.com/user_details?userid=qrVyms9efz7plX8oPLA7LQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/i1jEJ3Io7ljnh8khxHCorg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 159,
+        "photos": 30,
+        "reviews": 52
+      },
+      "comment": {
+        "text": "Last night was my second experience at St. Cecilia and another 5/5. The service was great. We had the arancini, gnocho, and bread service to start. My husband and I split cacio e peoe, gnudi, and halibut. The halibut was spicy so I'm glad we got the chili oil the side. Chocolate torte was also incredible! The space is large which fit our table of 10 wonderfully. Modern decor. Very upscale. We will definitely be back!",
+        "language": "en"
+      },
+      "date": "2023-02-04T14:17:53Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Graham K.",
+        "user_id": "WOOhS3yC2dEjOkBCTXaLdg",
+        "link": "https://www.yelp.com/user_details?userid=WOOhS3yC2dEjOkBCTXaLdg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DSxPDAWS07NOVwk0O9UGHg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 206,
+        "photos": 760,
+        "reviews": 533,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Went here for a birthday dinner, party of 5, on a Friday night. Reservations required. Business casual attire. Good social distancing practices and a very cheap valet.\n\nThe lights were low, the music was soft. We ordered a huge variety of things and shared plates. I ordered the So Fresh So Clean cocktail, which was a lovely bourbon sour with a stable foam from the aqua faba.\n\nThe crudo parts of the meal were very tasty, very fresh, but serving size was tiny, especially for $16+. We got the scallop and sun choke soup which was very heavy and had flavors fighting for the spotlight. The chicken entrée was amazing, as was the buttery sun tile, a fish I hadn't tried before. Squid ink pasta was unique and slightly spicy. The pear toffee cake for dessert was really good, rich, heavy, dark caramel flavors.\n\nOverall most of what we tried was quite good, but this is a fancy night out.",
+        "language": "en"
+      },
+      "date": "2021-02-12T19:19:17Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SKjKTuUwegaprrT4iiZuGg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Cindy L.",
+        "user_id": "csNhaol-gnjG3dJYUDfQgQ",
+        "link": "https://www.yelp.com/user_details?userid=csNhaol-gnjG3dJYUDfQgQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Hg1RzjIEJd162hIgqglDpw/180s.jpg",
+        "address": "Nashville, TN",
+        "friends": 219,
+        "photos": 0,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "Went for my birthday! The food was amazing and flavorful. I didn't not have one bad thing while there. And when I left the staff had all signed a menu wishing me a happy birthday. Tentative, helpful, and kind staff and delicious good!",
+        "language": "en"
+      },
+      "date": "2023-02-06T22:04:22Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Shakirah M.",
+        "user_id": "qjFGfiCLXAbUJv6V6ZAs_Q",
+        "link": "https://www.yelp.com/user_details?userid=qjFGfiCLXAbUJv6V6ZAs_Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-LWJqpwgsXmAENYUPeyy4A/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "Love the ambience, great service, and even better food. Came here with some girlfriends and a baby, felt super accommodated as they had an elevator shaft to make transportation with a stroller easier. Great quality food, we definitely recommend for a dynamic and delicious night out.",
+        "language": "en"
+      },
+      "date": "2023-03-18T21:32:50Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shelby B.",
+        "user_id": "4kvvE6h6AgJ5ydPxk_DriA",
+        "link": "https://www.yelp.com/user_details?userid=4kvvE6h6AgJ5ydPxk_DriA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/USjmZntBgd5XQfRRfDE9DA/180s.jpg",
+        "address": "Jacksonville, FL",
+        "friends": 279,
+        "photos": 20,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "First off, had my birthday here and it's great for large parties. Second off, the food was out of this world. I got the short rib agnolotti it was excellent. An absolute need to try Italian restaurant in Atlanta. Overall from experience to drinks to food this place was great. Will be back.",
+        "language": "en"
+      },
+      "date": "2022-10-09T17:23:34Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0pl8S1b7R7Zv_AfjBXXPBw/o.jpg",
+          "caption": "Short Rib Agnolotti"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Helena W.",
+        "user_id": "hcvNEVqALm-ZQGnxzELPHw",
+        "link": "https://www.yelp.com/user_details?userid=hcvNEVqALm-ZQGnxzELPHw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/E86Y65PSudwnIcSh26VT1Q/180s.jpg",
+        "address": "New York, NY",
+        "friends": 332,
+        "photos": 147,
+        "reviews": 160
+      },
+      "comment": {
+        "text": "St. Cecilia is a great spot for a special occasion like a birthday, anniversary, etc. We went for a bachelorette weekend and really enjoyed it!\n\nFirst of all, this restaurant is beautiful. High ceilings, beautiful drapery, great lighting. Our server was excellent and accommodating to our gluten-free folks, but it did take a REALLY long time for us to receive our entrees. We also never got one of the apps we ordered, but we ended up being stuffed anyway, so that ended up being okay.\n\nWe ordered potatoes and bread with ricotta and tomato to start, which were DELICIOUS. The potatoes are so addictive. For entrees, I ordered the squid ink pasta, which was also excellent. Highly recommend. Everyone really enjoyed their pasta dish, from the cacio e pepe to the agnolotti. Drinks were delicious as well!",
+        "language": "en"
+      },
+      "date": "2022-07-24T21:56:10Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Adam B.",
+        "user_id": "Qc_DtvGgoqf4S9Np5zxvow",
+        "link": "https://www.yelp.com/user_details?userid=Qc_DtvGgoqf4S9Np5zxvow",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AdSaOMjU_7r_NDg_K4MNCw/180s.jpg",
+        "address": "Larkspur, CA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 25
+      },
+      "comment": {
+        "text": "This place was fantastic! We had a super helpful, friendly waiter who made great food and wine recommendations. We loved everything we ate and drank. My ONLY complaint is we got dropped off by an Uber and could not find the entrance!!",
+        "language": "en"
+      },
+      "date": "2022-11-09T21:42:55Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Paul M.",
+        "user_id": "CNaHLXC45cR07vtDeFYeww",
+        "link": "https://www.yelp.com/user_details?userid=CNaHLXC45cR07vtDeFYeww",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8_tgwhpM0KaCWOIicYDJ_Q/180s.jpg",
+        "address": "Southwest Ranches, FL",
+        "friends": 570,
+        "photos": 2592,
+        "reviews": 742
+      },
+      "comment": {
+        "text": "We were staying across the street at the Whitely and thanks to Yelp we decided to check out St. Cecilia.  The interior of the restaurant is gorgeous but since it was a nice day we decided to eat outdoors.  Our waiter was extremely friendly and incredibly helpful.  \n\nThanks to his suggestion, my daughter had the cacio e peppe and added some lobster.  Although this dish is simple, it is hard to find a very good version.  St. Cecilia certainly delivers.  They make their pasta fresh and it certainly shows in the taste.  \n\nMy wife had the risotto bianco and it was absolutely delicious.  I had the squid ink malfadini and it was also great.\n\nOverall, this was a great find in Buckhead and probably some of the best high end italian I have had in a while.  The service and restaurant are top notch and I would definitely return the next time we are in the area.",
+        "language": "en"
+      },
+      "date": "2021-05-15T19:04:25Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7bvYychUwFJ_239yQs3Ydw/o.jpg",
+          "caption": "Cacio e peppe with lobster - simply amazing"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sNRluW53wSy4LRhkUpcGPQ/o.jpg",
+          "caption": "Risotto Bianco - so good"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/j6BG8ZGGchaX2k9knwXZVw/o.jpg",
+          "caption": "Squid ink malfadini - delicious!"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 0,
+        "cool": 4
+      }
+    },
+    {
+      "user": {
+        "name": "Sierra A.",
+        "user_id": "A5KC8KYWTPqZQoqjxjQXhA",
+        "link": "https://www.yelp.com/user_details?userid=A5KC8KYWTPqZQoqjxjQXhA",
+        "address": "Winter Park, FL",
+        "friends": 0,
+        "photos": 13,
+        "reviews": 40
+      },
+      "comment": {
+        "text": "This was a recommendation from a friend who is local as we were in town visiting and it was SO GOOD!! My friend did say it was her favorite so had high hopes but it did not disappoint. Our waiter was super nice and helpful with suggestions. We had the insalata mista, the tonno - I believe? - it was the tuna crudo, the cacio papie, and the mushrooms. Ignore all my misspellings and try them all! So delicious! Also the focaccia is killer!! Go and enjoy! Would love to go back.",
+        "language": "en"
+      },
+      "date": "2023-08-02T23:47:38Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Christopher B.",
+        "user_id": "DvFDfCst0pWyvjG-xkWFTQ",
+        "link": "https://www.yelp.com/user_details?userid=DvFDfCst0pWyvjG-xkWFTQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bDF1FFOqj7o7EhjaztQcQA/180s.jpg",
+        "address": "Philadelphia, PA",
+        "friends": 617,
+        "photos": 441,
+        "reviews": 220,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I knew I had to visit St. Cecilia when I saw Cacio e Pepe on the menu. It's by far my favorite pasta dish. A very simple dish in terms of ingredients, but has a higher degree of difficulty in preparation (literally cheese & pepper). St. Cecilia hit the nail on the head with this. It's kind of creamy, salty, sharp and spicy. I washed things down with my go to MaCallan 12 Year.\n\nThe inside decor was decadent yet homey. I got a great feeling as soon as I walked in. The staff was also very pleasant to interact with. I sat and chatted with the friendly bartenders for a while given the amount of time I had to kill. Can't emphasize enough how great the service was. \n\nWill be back for sure!",
+        "language": "en"
+      },
+      "date": "2020-03-28T22:56:38Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NCq3itnWv05Q_rNDpglWfQ/o.jpg",
+          "caption": "Cacio e Pepe"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oyBltBwkHDqLSktIZMVcYQ/o.jpg",
+          "caption": "MaCallan 12 Year"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Christian G.",
+        "user_id": "w-aHjPj2L-3xoYFrd5C-vg",
+        "link": "https://www.yelp.com/user_details?userid=w-aHjPj2L-3xoYFrd5C-vg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VUmNhL2mGXg03J0NLMjf9g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 447,
+        "photos": 25,
+        "reviews": 32
+      },
+      "comment": {
+        "text": "This place has the ambiance of a hidden and fine restaurant, yet classy and relaxed. This is definitely a place where you can unwind with coworkers, bring a date, or merely relaxed by yourself while you enjoy a fine dinner with a martini. When I tell you that everything is so good, PLEASE BELIEVE ME!!! I try something new every time I go, and yes this is that type of place. Menu is also seasonal, so it's always morphing into creative, innovative, exquisite, and artful prices of art. Did I mention it's yummy!!?? Dress nicely because everyone else is \"up to par\" and you don't want to feel out of place.",
+        "language": "en"
+      },
+      "date": "2022-05-19T19:34:38Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_PiwlbCoi_PMkoMZezm96A/o.jpg",
+          "caption": "Gazpacho"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Rxs8g32cT1_WFXBuY9D_QA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BuOJTylxyWfcUcXCTDuSJw/o.jpg",
+          "caption": "Cacio Pepe and squid ink pasta, bread with ricotta"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BGoeRLZT9KhRUH7x6vFE2g/o.jpg",
+          "caption": "Squid ink pasta"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jT-s6mUISv4Cs4u2tMyOAA/o.jpg",
+          "caption": "Blue cheese stuffed olives Tito's martini"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Zae H.",
+        "user_id": "pK-xLBcOlHx7LVPvTDxorQ",
+        "link": "https://www.yelp.com/user_details?userid=pK-xLBcOlHx7LVPvTDxorQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SgagYiLnnPBZXUJ2OuipCA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 4,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Go to the back of the bus - Sigh\n\nI recently went to dinner here to celebrate my birthday with a couple of good friends (one black and his spouse white - this will become relevant shortly) Reservations were made ahead of time and it was a week night so no real wait. Upon walking in you notice the style and aesthetic of the restaurant which is very nice. We didn't really get to enjoy this as much as we would have liked as we were ushered to the very back of the restaurant, near the restrooms, storage, stacked chairs and seated behind a very large pillar.  This pillar obstructed the view of most of the restaurant. As we walked through we all noticed there were several empty tables, but just assumed they were reserved. We didn't think much of it and we initially brushed it off. \n\nTo let you know that I am completely unbiased here, I will let you know the waiter came out and he was exceptional. He was very knowledgeable and attentive throughout the whole evening.  A++ and kudos for our server Richard! The entire staff was very accommodating. All of our appetizers and meals were absolutely delicious. The signature cocktails and wine were top tier as well.\n\nHere is my issue and where I see an area of opportunity for St. Celia. We initially joked about being sat in the back of the restaurant as two of us in the party are people of color.  We really didn't think about it any further as we enjoyed our drinks.  However, as our meals came out another Black couple was seated in the back directly behind us.  Once again we joked about it and brushed it off. Clearly at this point we were already puzzled why we were seated in the back of the restaurant with so many available tables in the main seating area. We wondered if it was our attire, however many other people were wearing clothing far less casual than ours including T shirts, shorts, sneakers. As we continued our meal a 3rd Black couple was seated in the back behind us and next to the other couple. This couple was dressed in evening wear and looked amazing.  At this time we decided to walk through the restaurant and to our suspicion there were several open tables in the front and main areas of the restaurant. However, there were no people of color sitting in those areas.  What we had hoped wasn't true was now very evident. It still amazes me that in 2022 a restaurant in Buckhead would still consciously or subconsciously still have these practices. It was a very disappointing conclusion to our evening.  \n\nAs a side note, we decided to casually speak with a couple of the service staff out of curiosity.  They reluctantly confirmed this wasn't the first time they've seen this practice. We didn't speak with management about it, because we didn't want to come across as a \"stereotypical\" minority pulling the race card. We did feel however, this needed to be shared. I am writing this review only to tell you about MY experience. Hopefully, St. Cecilia will see this as an opportunity to improve and those guests who choose to go in the future will find it a different experience.\n\nUnfortunately, this put a huge damper on the ambiance of the evening for us. Given that Atlanta is a city with so many prominent and affluent minorities, this apparent display of discriminatory practices to non-caucasian dining guests is unacceptable and should be modified. While the food, drinks, and service were great, I cannot in good faith recommend St Cecilia for people of color or any ally accompanying them.",
+        "language": "en"
+      },
+      "date": "2022-09-08T21:02:20Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 8,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Robin Z.",
+        "user_id": "c3EZVfHXcnhnzfZoKHjN5A",
+        "link": "https://www.yelp.com/user_details?userid=c3EZVfHXcnhnzfZoKHjN5A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/t_-A6bzRzztEQdkjn5vf6g/180s.jpg",
+        "address": "Orange County, CA",
+        "friends": 412,
+        "photos": 407,
+        "reviews": 845
+      },
+      "comment": {
+        "text": "I'm going five stars.  Beautiful space, knowledgeable and friendly staff and THE FOOD! Outrageously good. The bread with the whipped ricotta is life changing.  The homemade pasta with lobster. Simple perfection. Even the regular salad was something special. Recommend when in Atlanta.",
+        "language": "en"
+      },
+      "date": "2022-10-13T20:57:45Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Melissa G.",
+        "user_id": "7Ehn6IraeOHwBGdLoH_4QA",
+        "link": "https://www.yelp.com/user_details?userid=7Ehn6IraeOHwBGdLoH_4QA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Kczcu0BALaq66hZQ8EdhAg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 30,
+        "photos": 7,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "Beautiful restaurant and the food was good.  I definitely think there are better Italian restaurants in the area!  The use to be Bluepointe restaurant prior and it was better I think!!  Definitely miss my time there then.  I've only ate here once as St. Cecilia.  I wouldn't go back.",
+        "language": "en"
+      },
+      "date": "2023-01-15T00:33:45Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nyceats W.",
+        "user_id": "wxUdUNoYuyLLs2AtXyN_oQ",
+        "link": "https://www.yelp.com/user_details?userid=wxUdUNoYuyLLs2AtXyN_oQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/enFGmF96ELy4scxIHrBubg/180s.jpg",
+        "address": "Upper East Side, Manhattan, NY",
+        "friends": 3,
+        "photos": 20,
+        "reviews": 30
+      },
+      "comment": {
+        "text": "Great vibe. Out waiter (Omar) was so helpful and friendly. Food and drinks- amazing. Recommend the crudos! Octopus- perfectly cooked, tender. \nSquid ink pasta with seafood and branzino were to die fo",
+        "language": "en"
+      },
+      "date": "2021-08-21T01:59:21Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lk48T048umjFRV5ldVyZZg/o.jpg",
+          "caption": "Octopus"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alin W.",
+        "user_id": "cWmiizDBlfWkGPwarq5EcQ",
+        "link": "https://www.yelp.com/user_details?userid=cWmiizDBlfWkGPwarq5EcQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZiXaNyoIqV7hJtyhinexdg/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 419,
+        "photos": 379,
+        "reviews": 149
+      },
+      "comment": {
+        "text": "I went to this amazing restaurant a little over a month ago and I loved it!\n\nThe location, huge bar and kitchen made it feel like such an exclusive restaurant but the atmosphere was very comfortable and welcoming. \n\nI tried a plethora of dishes but my favorite was the starter focaccia bread served with whipped ricotta cheese. We had a party of 4 and they served us with two large servings (1 per couple) yet it was so light and SO freaking delicious. I want to eat this everyday. \n\nThe dishes that we ordered were yellowfin tuna, hamachi, Pearson's peaches, squid ink mafaldini, tagliolini cacio e Pepe and lobster pan roast. \n\nThe yellowfin tuna tasted really fresh and light. The hamachi, I didn't care too much for. I thought it was weird that peaches would be served as an appetizer or piccolo piatti (small plate) since peaches are so sweet but the combo in the dish made it taste so savory. The squid ink pasta mafaldini tasted better than the tagliolini cacio e Pepe but they were most really delicious. The lobster pan roast was amazing and had lots of umami. \n\nAmazing place and food but the focaccia alone makes me want to return every week.",
+        "language": "en"
+      },
+      "date": "2021-07-10T00:11:27Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1bVX3DrH8ZUWfWk06Zsjyg/o.jpg",
+          "caption": "Pearson's Peaches"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Zo8iTJK0rSs3qaSek-EGJw/o.jpg",
+          "caption": "Yellowfin Tuna"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eyORuVN-WZE6hb9DPXgjHQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PWyzuEie0Kl-exn4uSyMuw/o.jpg",
+          "caption": "Hamachi Crudo"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fw0aKKZqKU8FPj9ryXS0dg/o.jpg",
+          "caption": "Focaccia bread with whipped ricotta cheese"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alison V.",
+        "user_id": "5oqi3mOFRuf10pBMUqYpLA",
+        "link": "https://www.yelp.com/user_details?userid=5oqi3mOFRuf10pBMUqYpLA",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Love St. Cecilia! As a Buckhead resident this is such a great local staple. The bar atmosphere is great, service is attentive, and they have phenomenal wines and pasta.",
+        "language": "en"
+      },
+      "date": "2023-07-28T02:24:30Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kellie N.",
+        "user_id": "x9_Hh1Y6DvoibgUBIvjO4g",
+        "link": "https://www.yelp.com/user_details?userid=x9_Hh1Y6DvoibgUBIvjO4g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/o7NRYJ3kfyFsdBo9gBcB2w/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 270,
+        "photos": 944,
+        "reviews": 541,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I've wanted to go here for years. I can't believe what I was missing out on. This restaurant is phenomenal. \n\nI'd send friends from out of town and wanted a recommendation and even they said it was amazing.\n\nThe restaurant is beautiful! The service is impeccable, and the food is absolutely beyond words amazing. \n\nI will be going back here more often (especially because I live so close now) so that I can try everything on the menu. \n\nCocktails are on point! They make an awesome Corpse Reviver 2. \nPasta is perfection: braised short rib ravioli AGNOLOTTI& TAGLIOLINI CACIO E PEPE \nAppetizers are fantastic HAMACHI\nThe duck and the other main course dishes are awesome ROASTED BLACK GROUPER and\nThey have a small dessert menu, but even the desserts are yummy!\n\n5 stars all the way!!!\n\nUpdate 1/28/2020 (lunch)\n\n\nThis restaurant is a staple in Atlanta for having amazing food, a great atmosphere, impeccable service, as well as being versatile for any occasion.\n\nToday was another example of a wonderful dining experience for both a friend's get-together and business meal.\n\nThe food is always outstanding and I am constantly impressed by the staff.\n\nThere isn't an item on the menu that isn't prepared with the perfect execution of flavors and presentation.\n\nI love bringing people from out of town here or recommending St. Cecelia to people who are looking for a memorable dining experience.",
+        "language": "en"
+      },
+      "date": "2020-01-28T20:37:33Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ozPO8B1fleyFlleTyD83pg/o.jpg",
+          "caption": "charcuterie board....we ate everything on the board!"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Katrina M.",
+        "user_id": "vfaFpFvo__jJE8JNYrAnpQ",
+        "link": "https://www.yelp.com/user_details?userid=vfaFpFvo__jJE8JNYrAnpQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MB6VbjviebryVUFQBso6fg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 118,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Food, service, drinks all exceptional.  We had them add alcohol to the nonalcoholic drinks and they were amazing",
+        "language": "en"
+      },
+      "date": "2023-01-22T16:44:09Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rebecca D.",
+        "user_id": "nJJ6g8gdjX_gXbrLBWS0lg",
+        "link": "https://www.yelp.com/user_details?userid=nJJ6g8gdjX_gXbrLBWS0lg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/N-699YZo_H5lcrzNo5FuVg/180s.jpg",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 210,
+        "photos": 15,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Delicious food and incredible service! Celebrated a friend for her bachelorette and the staff treated us so well. I had the Behind the Sun cocktail, with delish elderflower and lemon flavors. We shared a few focaccia and crispy potato apps for the table, and honestly, I'd go back for just those! SO GOOD. I had the Mafaldini Al Nera pasta dish - squid ink, calamari, shrimp, and clams. Definitely the perfect amount of spicy and rich flavors. I was served a very small portion compared to my friends who got the same dish, and our waitress & kitchen staff made it right immediately by bringing us a whole new dish for free. Can't wait to go back!",
+        "language": "en"
+      },
+      "date": "2022-07-24T01:58:58Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zmnfsObFwAmMJUfn5nEgOw/o.jpg",
+          "caption": "Behind the sun cocktail"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qtFgRN_JCgqRbBppn_iJiQ/o.jpg",
+          "caption": "Mafaldini Al Nera"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8vUD-8P199v0pZmFGcw0PA/o.jpg",
+          "caption": "Crispy Punched Potatoes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mdWc7naNQWn4gMbm3O4Beg/o.jpg",
+          "caption": "Focaccia"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-8xAenDyW5Pjqe_FITUuXQ/o.jpg",
+          "caption": "Mafaldini Al Nera"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jen C.",
+        "user_id": "bT3bDsqOrnkLV2cEAud_4g",
+        "link": "https://www.yelp.com/user_details?userid=bT3bDsqOrnkLV2cEAud_4g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LYuiUli8pwifkahTeRPIyA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 32,
+        "photos": 166,
+        "reviews": 92,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "One of my faves. Having been here many times, I'm finally writing... \n\nThe space is gorgeous and manages to be cozy despite it being large. The bar area is always lively, and the tables still feel tucked away. \n\nThe service, as in most of Fry's places, is not just friendly and competent, but the staff are routinely food geeks like me... Knowing all kinds of cool things about origins and backgrounds of ingredients and preparations. It's delightful. But if you want them to sit back a bit and be less chatty they read cues well without being at all inattentive! \n\nThe food is amazing, with carefully sourced ingredients and excellent preparation. I LIVE FOR the squid ink pasta. My dining partner most recently had the lobster and clam stew I think. We also had the charcuterie plate (yum!), the red snapper crudo with osetra caviar (yummm!) and a simple green salad that was just right. \n\nThe details are just done right here. Even at brunch, which I totally recommend...",
+        "language": "en"
+      },
+      "date": "2019-11-20T20:40:36Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PUHOkeJvWDcJ5oE3ik_4UA/o.jpg",
+          "caption": "Mixed Lettuces"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tD-lgkuIFbh16IOu6upKYg/o.jpg",
+          "caption": "Salumi e Formaggi"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/O679PLOn1gE9zzMYSgx20Q/o.jpg",
+          "caption": "Squid Ink Mafaldini"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yPgZqwnTCoiAjp8yTZXbpQ/o.jpg",
+          "caption": "Red Snapper Crudo"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Uche N.",
+        "user_id": "4u4aIWEVMDe6b2zLGL1BQA",
+        "link": "https://www.yelp.com/user_details?userid=4u4aIWEVMDe6b2zLGL1BQA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/X_h_GhFxWneIukOKyEODqQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 6,
+        "photos": 19,
+        "reviews": 72
+      },
+      "comment": {
+        "text": "Came here for my birthday! It started out very rocky because who knew that if you arrive 15 minutes late they do not call or text to let you know they are giving your table away. That was very disappointing especially being that it was my birthday. We sat at the bar waiting for another table to become available. We were put all the way in the back of the restaurant  and it was freezing. \n\nAside from that the food was excellent. We had the mussels to start. Very delicious. Make sure to dip the focaccia bread or else you are missing out. We had the squid ink pasta, half size portion of the agnolotti and the branzino. Hands down the branzino was the best I've ever had. Everything was delicious. For dessert, I chose the pear cake and it was SO good we had to order one to take home. \n\nI would definitely come back here for the food and the ambience. Hopefully next time there will be a better seating arrangement. One star docked for that. Overall go visit!",
+        "language": "en"
+      },
+      "date": "2021-02-17T13:19:14Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/f4JDTd6r4fn688Ocz_mUzg/o.jpg",
+          "caption": "Whole Branzino"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hk_k_DGEAI1KHpL0SaGCqQ/o.jpg",
+          "caption": "Squid Ink pasta"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t17LYPddDD5SSYOwVfamDw/o.jpg",
+          "caption": "Pear cake with rum gelato"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MTJ2sgxx4lWcREvJBbowtQ/o.jpg",
+          "caption": "Agnolotti"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Warren B.",
+        "user_id": "tSbsgZA58BF-EhAG16jQkQ",
+        "link": "https://www.yelp.com/user_details?userid=tSbsgZA58BF-EhAG16jQkQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WqzJycG-BPbaZnjeZDSLLQ/180s.jpg",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Nice atmosphere that draws business visitors on expense accounts. The wine list and craft cocktails are on point; however, plan on starters with your entree with sides. Food portions are on the stingy side with prices that aren't. Prepare to pay or leave hungry. The food is very good, though.",
+        "language": "en"
+      },
+      "date": "2022-03-17T23:35:17Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IkGQw1bizqQA02GNvdYQhg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wDuUtqhAaK_IjZ3fheT0Rg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ray B.",
+        "user_id": "OW56vrLDoMr5RMRxO7OtHQ",
+        "link": "https://www.yelp.com/user_details?userid=OW56vrLDoMr5RMRxO7OtHQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dB7gjWN8tTgxRidpUSVIpQ/180s.jpg",
+        "address": "New Orleans, LA",
+        "friends": 286,
+        "photos": 4,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Completely underwhelming. Odd atmosphere, seafood pasta with hardly any seafood; Pear cake without any pears. Food lacked in flavor. Service lacked in personality. Bar lacked in speed and taste. Menu lacked in variety and clarity - brussel sprout menu item is actually a salad. There's hardly any vegetables on the menu. Who wants to eat pasta and potatoes? \n\nExtremely lackluster vibe. You'll never find me here again. Our group was extremely disappointed in all capacities. Shame to see the Ford Fry name on this establishment. Go to No. 246 or Marcel instead.",
+        "language": "en"
+      },
+      "date": "2020-11-15T14:37:41Z",
+      "rating": 1,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LYvdBKU7NCUm8iCP6EUzoA/o.jpg",
+          "caption": "Nasty little sad tiny plate of beef pasta."
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 4,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Wade C.",
+        "user_id": "QgdzzdOmcHyHwETCqiy5sw",
+        "link": "https://www.yelp.com/user_details?userid=QgdzzdOmcHyHwETCqiy5sw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rlnIdHubKGRJIGzx0_h37g/180s.jpg",
+        "address": "Dacula, GA",
+        "friends": 1,
+        "photos": 23,
+        "reviews": 109
+      },
+      "comment": {
+        "text": "Took my wife here New Year's Eve to celebrate and try a new spot. St Cecilia is another stop on our Chef Ford Fry tour and it did not disappoint. \n\nThis place is SWANKY. Total New York vibe with shimmering candlelight, soaring ceilings, old-world class and choice background music. Stopped my meal several times to ask Siri to identify the music being played (take a listen to \"Save Me\" by Jem...). In the heart of Buckhead, across from Phipps and Lenox, excellent for people watching and a romantic encounter. We had a blast.\n\nWithout reservation I can say that Richard, our server, offered us the best service we have enjoyed in the city. First class experience. 5 stars just for that.\n\nBut the food...so much flavor! The meat and cheese boards, the salads, the fish, the desert, the drinks! Everything was beyond our expectations. Chef Fry hit it out of the park with this restaurant. Enjoy with confidence, take a date, pretend you are in a movie...",
+        "language": "en"
+      },
+      "date": "2022-01-03T16:37:18Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Connor B.",
+        "user_id": "XRlkx2OSzTfNyLGkGYR0_g",
+        "link": "https://www.yelp.com/user_details?userid=XRlkx2OSzTfNyLGkGYR0_g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/362GH6IVf7swMJzcc5PmhA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 1,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "Dinner or brunch on the weekends is a must. Their wine selection is expensive but also extensive. I recommend going for their seafood options, because it's hard to find quality seafood in Atlanta.",
+        "language": "en"
+      },
+      "date": "2022-12-15T02:27:00Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nisa W.",
+        "user_id": "PwBvD0Y8W3OzdFaEA2c59w",
+        "link": "https://www.yelp.com/user_details?userid=PwBvD0Y8W3OzdFaEA2c59w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/u4-x6dWuhcG1uab8haywhA/180s.jpg",
+        "address": "Cincinnati, OH",
+        "friends": 51,
+        "photos": 73,
+        "reviews": 36
+      },
+      "comment": {
+        "text": "The ambiance was so inviting and the food was marvelous! We were just passing though ATL and decided to try this hopping spot and soooo glad we did. If you're in the area or if you live in the area and have never tried it, you won't be disappointed. I promise!",
+        "language": "en"
+      },
+      "date": "2022-01-16T02:17:42Z",
+      "rating": 5,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HU6fVmbQKc2QnI26XYorhg/o.jpg",
+          "caption": "Beef Carpaccio"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gJHqHjGY2Qq_Ck2kr5RYHA/o.jpg",
+          "caption": "Beet Salad"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AUSC2V-MiLydN7CUOctbsw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mXilw4gGsAlOqrQYTVNr0w/o.jpg",
+          "caption": "Octopus"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4gDWCmgD8Jp1Eq0bOkR5sw/o.jpg",
+          "caption": "Crispy Punched Potatoes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yjacIvPZnWHGF7TLRy3KTw/o.jpg",
+          "caption": "Skate Fish"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VVxa-_eAUOtsokjpn_t8MA/o.jpg",
+          "caption": "Apple Ravioli"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Michael B.",
+        "user_id": "LK7D2yZQ1rsX4dF7ag4HfA",
+        "link": "https://www.yelp.com/user_details?userid=LK7D2yZQ1rsX4dF7ag4HfA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AiIad0eZTVcaoIS5vMjejQ/180s.jpg",
+        "address": "Buford, GA",
+        "friends": 285,
+        "photos": 698,
+        "reviews": 375
+      },
+      "comment": {
+        "text": "Briefly, the pasta was excellent, drinks good, charcuterie only ok.\n\nThe star was the squid ink, wow so much flavor and the pasta was spectacular. So much seafood, so tender...I want more!\n\nThe crab risotto was very nice though light on the crab, but I'd still get it again as the flavor a d texture was nice.\n\nSweet potatoes were excellent, I'd skip on the artichokes, kinda bland.\n\nThe charcuterie was ok, but I remember it being so much more inspired and clever. Also only came with on piece of bread. Very surprised at how not awesome this was. I'd probably skip this next tome.",
+        "language": "en"
+      },
+      "date": "2020-11-10T01:20:59Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MhX5Pd7JgDNi48bwr34CTw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/exSro6C2_42tqTHVeL81Ng/o.jpg",
+          "caption": "Charcuterie board, small (which wasn't small)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-5XIc4Z5_BBDVl8eY528SA/o.jpg",
+          "caption": "Focaccia bread compliments of the house"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wijbW-lhxwl9FTwVAp8GzA/o.jpg",
+          "caption": "AGNOLOTTI and CACIO E PEPE"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bvI8KGrXncI4U5jlw1QnGQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Lg7JiArRWcsJ314Rb0rJQw/o.jpg",
+          "caption": "Charcuterie was kinda sparse and uninspired"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6M5rWgZYh-YBG1B_bBNNCg/o.jpg",
+          "caption": "Chocolate brûlée"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nHssLUfW8XZMlUQQlAznsA/o.jpg",
+          "caption": "Squid ink SO GOOD"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NZQPV5lhvKZDXkK-vjnyWQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VkJGgF1x5zreMzY-zjsbjQ/o.jpg",
+          "caption": "Sweet Crispy Punched Potatoes"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Yi H.",
+        "user_id": "DcFlCrhPCdUxN2FHGuKVsA",
+        "link": "https://www.yelp.com/user_details?userid=DcFlCrhPCdUxN2FHGuKVsA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Btx7fsZRyT83PF7Hfh1VOQ/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 303,
+        "photos": 966,
+        "reviews": 235,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Stale hard bread, small portions, mediocre food. A dinner I regret going to. \n\nMy boyfriend and I were celebrating and decided to check out this place since it had great reviews and was next to the mall. We had a reservation so we were seated right away. However, the server put us in a corner facing the window that was blazing sun into our eyes.  All the other windows had big curtains except ours so we were both blinded by the setting sun. The couch seat that I sat on was also super worn and had a big hole. Not was I was expecting from a high end restaurant.\n\nThe \"house made focaccia bread\" was the worst bread I have ever had at a restaurant. Focaccia bread is supposed to be soft and resemble pizza bread. But this was so dry. My boyfriend and I both had such a hard time trying to tear into it. It was drizzled with some olive oil which did nothing to enhance the flavor or texture. \n\nFor appetizer we ordered the small cheese and meat board ($19) that came with three types of meat, two cheeses, a fig mustard sauce and local honey. This was actually pretty good - we both really liked it.\n\nFor entree, my boyfriend got the swordfish ($32 I think) and I got the squid ink spaghetti ($28 I think). The plating of the swordfish was very beautiful - it was two big pieces of fish with some sauteed vegetables and a grilled lemon. The portion was a bit small for only two pieces of fish but it was tasty. My spaghetti was just mediocre. Plating was kind of bad - just black noodles piled onto a plate. I also asked for no pepper and they still put a bunch in it. The calamari was good was there was only a few tiny pieces. \n\nMy boyfriend also ordered a cocktail that was around $15. It was good but nothing special. Our bill came out to be over $100 for the two of us. Even though the service was excellent the food and atmosphere was average. Definitely not worth it. Would not recommend.",
+        "language": "en"
+      },
+      "date": "2019-03-30T17:19:02Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 4,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Ivan O.",
+        "user_id": "0AGMsD7MfPxswuPfcG74rg",
+        "link": "https://www.yelp.com/user_details?userid=0AGMsD7MfPxswuPfcG74rg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Great experience.. best food I have ever had, great service..our waiter Tony was great!! Food was superb and beautiful ambiance..highly recommended. We will definitkey be back!!",
+        "language": "en"
+      },
+      "date": "2023-05-21T08:19:11Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lauren L.",
+        "user_id": "7uECm25CU4f0IfwqYUYUJQ",
+        "link": "https://www.yelp.com/user_details?userid=7uECm25CU4f0IfwqYUYUJQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lU-6JnViKUN0vDVUIan1kQ/180s.jpg",
+        "address": "Edwardsville, IL",
+        "friends": 239,
+        "photos": 3,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "Best pasta In ATL! The vibe in this restaurant is very relaxing and is now one of my favorites by far! A must try!",
+        "language": "en"
+      },
+      "date": "2022-05-14T16:36:11Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6U91KLDXKDblkWGeUrrw9A/o.jpg",
+          "caption": "Cacio E Pepe, Cavatelli, & Lumache. Absolutely DELICIOUS!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Carmen H.",
+        "user_id": "PCaSAvbWWnZy5IyX25DNgA",
+        "link": "https://www.yelp.com/user_details?userid=PCaSAvbWWnZy5IyX25DNgA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ypD0nYnPlq1W5vDd8hRVYA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 374,
+        "photos": 2019,
+        "reviews": 282,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My fiancé and I had reservations at St. Cecilia on Friday night. Upon arrival we were immediately seated. Once seated, we were greeted by our waiter, Brandon. He was super friendly and helped us decide what to order. We started off with ordering our drinks. We ordered the Pretty Little Ditty and a margarita. Unfortunately, they were out of another drink we wanted to try, but they did offer a full bar. For appetizers, we ordered the crispy squash blossoms, which were delicious. They were hot and fresh, very tasty. The only thing is, we wished more than 3 came with an order. Brandon also brought us complimentary focaccia bread with whipped ricotta. It was soooo good, it just melted in your mouth! We had to force ourselves to stop eating it, so we wouldn't spoil our appetites. For entrees, we ordered the Tagliolini Cacio e Pepe and Nera, which is a squid ink pasta with seafood. We really enjoyed both entrees; however, we thought the Nera could have had a little more seafood in it! Overall, we truly enjoyed our dining experience and Brandon was a very attentive waiter! We will definitely be back in the near future.",
+        "language": "en"
+      },
+      "date": "2021-10-19T16:27:25Z",
+      "rating": 4,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3BiipNyzQR57hORtP55hWg/o.jpg",
+          "caption": "Zucca-Crispy Squash Blossom, herbed ricotta"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/K249pobIZoJF2HNtS64PzQ/o.jpg",
+          "caption": "Complimentary Focaccia bread"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zDaAwinItfJkUr2nn6jtVg/o.jpg",
+          "caption": "Margarita"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Pyaxy8ZsRWEYe_vynUDxpA/o.jpg",
+          "caption": "Tagliolini Cacio e Pepe"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HloatU8swYFu1WINp8XS7Q/o.jpg",
+          "caption": "PRETTY LITTLE DITTY"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uYH9pUprWVak7ttRKc6EqA/o.jpg",
+          "caption": "Complimentary Focaccia bread with Whipped Ricotta"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9zPL7jQ5lEmMJmREwwZg9Q/o.jpg",
+          "caption": "Nera- Squid Ink, calamari, native shrimp, Sapelo Island Clams"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Laura P.",
+        "user_id": "IvH2wmiP_3wLLCC0GXkb3Q",
+        "link": "https://www.yelp.com/user_details?userid=IvH2wmiP_3wLLCC0GXkb3Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TC2zNneszWRgNxTbAzm2eg/180s.jpg",
+        "address": "Savannah, GA",
+        "friends": 481,
+        "photos": 4083,
+        "reviews": 846,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Simply delicious!  Every bite! Lovely hip, sheik venue!  Large and spacious outdoor patio dining. Valet parking available. Attentive service with a smile.  Open kitchen with wood oven. \n\nOur group started with a variety of perfectly mixed cocktails, and I was pleased to see they had 3 crafted non alcoholic options. I loved the non alcoholic Happy in Spring, which is a blend of cranberry, turmeric, lemon and soda. \n\nFor starters, our group ordered the charcuterie board and an entree of Short Rib Agnolotti (much like ravioli) to share.  My only complaint was the charcuterie was skimpy on the cheese, mustard and honey comb.  The shared Agnolotti was heavenly!  Delicious little pasta pillows of braised short rib meat and a variety of cheeses!\n\nAdditionally, everyone in our group of seven thoroughly enjoyed their entrees.  My Good Breed Chicken was tender, moist with a lovely crunch to the skin, and served with perfectly tender broccolini.  My daughter in law shared a bite of her Lobster and Clam Pan Roast, $38. Oh my goodness, this entree is divine, plentiful with seafood, and the seafood is swimming in succulent juices for dipping the accompanying toast - a home run!  Each entree is accompanied with sides, however, you can order additional sides to share. Their Cauliflower Roast Bake was loved by all, $9.  \n\nWe were celebrating my son's 31st birthday, and our waiter brought him a complimentary white chocolate flan, with a hint of orange, accompanied with a candle and matches!  Thank you so much for this wonderful birthday surprise!  \n\nTheir beer selection is craft beer from near and far. No domestic beer here. A nice wine selection on their menu, but an extensive additional wine menu is offered.  Hope to return soon!",
+        "language": "en"
+      },
+      "date": "2019-01-06T15:31:48Z",
+      "rating": 5,
+      "tags": [
+        "3 photos",
+        "3 check-ins"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5Y65WamiIR-bmyHoRhjsBg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/r_GWGKJNngNwmCdHynHRlw/o.jpg",
+          "caption": "Outside patio dining."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0UArycZt3MjMPsHqOO7Ing/o.jpg",
+          "caption": "Entrance"
+        }
+      ],
+      "feedback": {
+        "useful": 14,
+        "funny": 7,
+        "cool": 13
+      }
+    },
+    {
+      "user": {
+        "name": "Sarah-Bradley D.",
+        "user_id": "rPJKriJzkPircI8txuunVA",
+        "link": "https://www.yelp.com/user_details?userid=rPJKriJzkPircI8txuunVA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/y8ZxXL_9gxSeyOWXWkhdSQ/180s.jpg",
+        "address": "Charleston, SC",
+        "friends": 705,
+        "photos": 1026,
+        "reviews": 381,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place totally lived up to the hype. We spontaneously went on a Tuesday night at 8:45pm and the place was still packed. We sat at the bar and got a drink to start while we waited on our table. The tequila cocktail was powerful and different - we'd definitely order again. I also loved the cab. \n \nFor parking they have valet. Just as a heads up it costs $2 and is not comp'd so make sure you factor that in when you bring cash. You are also able to pull out of an ATM located right inside. \n\nThe meal started with wonderful bread and a whipped ricotta butter. Our waitress could tell we were hungry so sent us a complimentary kale and potato soup that was amazing and so thoughtful. Really can't say enough good things about the service here. \n\nWe got the fingerling potatoes and broccoli sides then the agnolotti and bucatini pastas. Everything was so good. The broccoli honestly was probably my favorite, there was lemon or something acidic that kept me going back for more. I avoided the potatoes because I was so overwhelmed by the pasta but my boyfriend made me try and wow that Caesar butter was incredible. With regards to a pasta we really couldn't pick a favorite, they were both great in their own right. The bucatini had a little heat to it and the agnolotti was super filling with the meat. \n\nWe wanted to try a dessert but were so full we couldn't do it. Guess that means we'll have to go back!",
+        "language": "en"
+      },
+      "date": "2019-09-11T13:32:06Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/g2w-P7fSIyU_xB1THUkCxw/o.jpg",
+          "caption": "Bucatini and broccoli"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rNM0hlLGzx2izQja42E0EA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/i6qFLbSIRIVxauUVpu_TQA/o.jpg",
+          "caption": "Agnolotti and potatoes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BZMr9nfk70qjfuocj-Sf2Q/o.jpg",
+          "caption": "Kale and potato soup"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Henry T.",
+        "user_id": "jrixwLYBcaZCzup2xDR9kg",
+        "link": "https://www.yelp.com/user_details?userid=jrixwLYBcaZCzup2xDR9kg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/R-1Aiyf3FdD5MMpmI-TrSw/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 207,
+        "photos": 1761,
+        "reviews": 494,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I just had a really great dinner here. We were celebrating an anniversary, and the staff did an excellent job congratulating us, both at the check-in counter as well as the server at our table.\n\nParking is valet and you drive around a circular driveway to hand off your car. St. Cecilia's restaurant is connected to an office building. They have a beautiful entrance, and I love the tall glass windows that stretch up two stories. It provides for great views and good lighting.\n\nThe server did an excellent job presenting the menu to us. I appreciated that he had tried all of the items on the menu and told us that if we weren't sure between two items, we couldn't go wrong either way. We asked for his top recommendations, and we were happy with the answers that we got.\n\nOur waiter was raving about the octopus dish as an appetizer, so we were sure to give it a try and it did not disappoint. It was grilled perfectly, and it came with some nice flavors and texture. For entrees, we ordered the Monkfish and Agnolotti. The Agnolotti was ok, but I really liked the Monkfish. The ingredients went together very nicely, and it had a really nice crunch to it. \n\nAt the end of the meal, the server brought out a dessert for us to celebrate our anniversary. It was a very nice touch, and we certainly appreciated the gesture. Overall, I really liked the decor and the food tasted great. Thank you for making this a great anniversary for us.",
+        "language": "en"
+      },
+      "date": "2018-09-12T19:49:30Z",
+      "rating": 5,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L7GCCO7o3RXxLQZ-PvHJMg/o.jpg",
+          "caption": "Entrance"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/m3L6sKuNNDuXCq7Qorf0lA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mrGObmuRuHVWRE04Q5D6Qg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-ciMewjCgbgCZP1Sy7ZJ6g/o.jpg",
+          "caption": "Agnolotti"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GAwPyIvPxM7foA7Qa62y-A/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vqVLokIvKTgqB6Q_hlyUTA/o.jpg",
+          "caption": "Bread"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/A9SwIVBWYuCikuV59oLbgg/o.jpg",
+          "caption": "Octopus"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/icOf8bKNwec0eZEEyuY5SQ/o.jpg",
+          "caption": "Monkfish"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Phyllis B.",
+        "user_id": "qrOJnzwKcmtKcY2MGXgAlA",
+        "link": "https://www.yelp.com/user_details?userid=qrOJnzwKcmtKcY2MGXgAlA",
+        "address": "Dunwoody, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Great service, delicious food, excellent valet parking, very nice atmosphere. Most enjoyable evening out!",
+        "language": "en"
+      },
+      "date": "2023-04-02T17:36:21Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Carmen T.",
+        "user_id": "Db5T2bFcdIoRdA6kPZxeQw",
+        "link": "https://www.yelp.com/user_details?userid=Db5T2bFcdIoRdA6kPZxeQw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yHyl0aWqLudC_o9JC5F0Lw/180s.jpg",
+        "address": "Columbia, SC",
+        "friends": 24,
+        "photos": 7,
+        "reviews": 27
+      },
+      "comment": {
+        "text": "A local Atlanta friend recommended this restaurant as her favorite, and it was across the street from our hotel, so we decided to stop in for an appetizer-focused meal before going to a concert.  The prosciutto with our charcuterie plate was really good--perfectly dry and salty. The burrata also was delicious. We had tempura fried squash blossoms stuffed with ricotta, and those were very tasty too. I saw several plates of the swordfish pass by us on the way to other tables, and they all looked delicious, and all the plates returned empty. The reservations were full, but we walked in and they were able to seat us immediately around 630 on a Saturday night.  Our server was great and caught the references to Zelda and ocarina of time that we made due to our children.",
+        "language": "en"
+      },
+      "date": "2021-08-14T23:22:47Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Fj-SSwL15_PemYJwJVixcg/o.jpg",
+          "caption": "View from back half of restaurant."
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Adam M.",
+        "user_id": "awW0TaAWLzoIdyDwm4YKnw",
+        "link": "https://www.yelp.com/user_details?userid=awW0TaAWLzoIdyDwm4YKnw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Pq7U3OBS79MWRxA4dYD7-w/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 597,
+        "photos": 311,
+        "reviews": 59
+      },
+      "comment": {
+        "text": "St. Cecilia is a TOP TOP restaurant in Atlanta and especially the Buckhead area. The space is absolutely gorgeous with high ceilings, marble columns and a hug bar. It's one of the more beautiful spaces in all of Atlanta. \n\nFor dinner my partner and I agree the whole bronzino, octopus, tagliatelle and a fall salad. \n\nEverything was exceptional down to the focaccia bread they gave us at the beginning of the meal. \n\nThe whole bronzino had an awesome lemon sauce that made it zesty and fresh. The fall salad was filled with classic fall flavors and was a great amount of food. The tagliatelle is easily my favorite pasta dish in all of Atlanta. The raised short rib melted in your mouth and the dish was incredibly tender. The octopus transported us to the Mediterranean and was the perfect amount of crisp and charred. \n\nFor drinks we had a bubbly rose that complemented everything well. \n\nThe staff were great and the restaurant was very covid friendly. \n\nWe really enjoyed our time here and highly recommend it for anybody in the Buckhead area looking for a good meal!",
+        "language": "en"
+      },
+      "date": "2020-10-29T21:03:09Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vhjzd-6KTnI4A-0mg57M_Q/o.jpg",
+          "caption": "Menu"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Henry M.",
+        "user_id": "EgbDqJHHDFaGVMsWbMSoEA",
+        "link": "https://www.yelp.com/user_details?userid=EgbDqJHHDFaGVMsWbMSoEA",
+        "address": "Boca Grande, FL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Beautiful decor, nice buzz and patrons, very good service and LOUSY food. \n\nWay overcooked fish -- snapper and swordfish, inedible potatoes but decent salad. Never again. \n\nYou need a new chef",
+        "language": "en"
+      },
+      "date": "2022-09-21T22:18:34Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Bahar A.",
+        "user_id": "pPXUDgWkYxoPb42vUs6h8A",
+        "link": "https://www.yelp.com/user_details?userid=pPXUDgWkYxoPb42vUs6h8A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pflE2tSHO0d9iBn9IbOVfQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 15,
+        "photos": 169,
+        "reviews": 95
+      },
+      "comment": {
+        "text": "We had dinner at St. Cecilia this past weekend and had an overall positive experience. We were able to make a reservation for outdoor seating, and the tables were spaced out for social distancing. All of the restaurant staff wore masks and gloves. \n\nThe definite highlight of the meal was the bread. It was light, fluffy, and AMAZING! For our appetizer, we got the burrata, which was mozzarella cheese, crispy eggplant, and bruleed fig. We enjoyed it, but I don't think it was worth $18 for the portion. For our main course, both my boyfriend and I got the chicken plate with a side of crispy potatoes. The chicken was good but not the best flavored. \n\nI was having a really good night, but the parking situation put a damper on things. They had valet parking available for $2, but we passed since we didn't feel comfortable with it considering the Covid risks. We only learned afterwards that self parking somehow cost four times the amount of valet ($8 for over 2 hours). To make matters worse, my parking ticket fell out of my purse at the restaurant, and we couldn't find it. The restaurant staff was helpful and spoke with valet to see if they could help, but where they parked was separate from our parking deck. In the end, we had to pay $25 for losing the parking ticket, which was a real bummer. \n\nAll in all, I'm not sure we'll return, but the restaurant is well located across Phipps and provides a nice overall dining experience, whether you're indoors or outdoors.",
+        "language": "en"
+      },
+      "date": "2020-07-28T14:58:45Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Wa-8KhJ-iwyMFUQPmzppVg/o.jpg",
+          "caption": "AMAZING bread (we already tore a few pieces off)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sxILR-lwiWEdUfSYgMEu2g/o.jpg",
+          "caption": "Burrata"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E2aZfFmY_4ZE7TtR4UzW8A/o.jpg",
+          "caption": "Good Breed Chicken"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5zyBfYnzRbnkEjRocJBOug/o.jpg",
+          "caption": "Crispy Punched Potatoes"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Molly M.",
+        "user_id": "cozQQEaFXrMzzZ3YR7GizA",
+        "link": "https://www.yelp.com/user_details?userid=cozQQEaFXrMzzZ3YR7GizA",
+        "address": "Brooklyn, NY",
+        "friends": 10,
+        "photos": 6,
+        "reviews": 62
+      },
+      "comment": {
+        "text": "3.5. Great atmosphere, good drinks, but the food is absolutely soaked in garlic. You can't escape it. Everything on the menu either has garlic in it, was cooked in garlic, or is covered in garlic oil. Bring mints and proton pump inhibitors.",
+        "language": "en"
+      },
+      "date": "2023-01-01T03:04:17Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Dynin D.",
+        "user_id": "Dmn4TM0ffqbOTGcD3jekBg",
+        "link": "https://www.yelp.com/user_details?userid=Dmn4TM0ffqbOTGcD3jekBg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hl75aADQDJrvlXYCq__3Ew/180s.jpg",
+        "address": "Paces, Atlanta, GA",
+        "friends": 5,
+        "photos": 143,
+        "reviews": 45
+      },
+      "comment": {
+        "text": "We had dinner here this past Thursday for our 1yr anniversary. Let's just say we were not disappointed from beginning to end of the night.  We were greeted at the door, and was seated right away , no wait. Started with half dozen oysters. I've had better oysters,  but they were still fresh. Which is always a plus. Next was the entrees \n-SQUID INK MALFADINI(pasta)\n-Whole Bronzino\n-Lobster Pan Roast \nAll dishes were fantastic. If I had to rank #1 whole Bronzino. Highly recommend this restaurant for a date night.",
+        "language": "en"
+      },
+      "date": "2020-11-08T00:59:53Z",
+      "rating": 4,
+      "tags": [
+        "9 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3QYxIbQMxqK1VYfPwcgIGw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_vOPjKDxjGVdxnqrYUNXvA/o.jpg",
+          "caption": "Maine Lobster Pan Roast"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3IwJr9LVJJ5nib_RTJHhLQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X-JqgyqcUmB_TWfggcq8rQ/o.jpg",
+          "caption": "SQUID INK MALFADINI"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yaUbJ6rt-EJ8OLRr-ZssyQ/o.jpg",
+          "caption": "Crispy Punched Potatoes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/G-7srL2zDg35BwHkO4y-pQ/o.jpg",
+          "caption": "Chilled Oysters"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zuNzeMEknd-oOivbbImCdw/o.jpg",
+          "caption": "Whole Branzino"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9vq7hfKty6HxB789RqMP2A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t-6gVmF5chfz3eBPHILaDA/o.jpg",
+          "caption": "COVID-19 Notice."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Craig P.",
+        "user_id": "VHuThczrdupsOKIs0id7qw",
+        "link": "https://www.yelp.com/user_details?userid=VHuThczrdupsOKIs0id7qw",
+        "address": "Montville, NJ",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Meh. Food is crazy expensive, not very good and parking is horrible. The people were nice, but you can only compensate so much",
+        "language": "en"
+      },
+      "date": "2023-02-10T01:12:44Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Paulina A.",
+        "user_id": "k7nA1n6AFp3lnLOJAdJ4rg",
+        "link": "https://www.yelp.com/user_details?userid=k7nA1n6AFp3lnLOJAdJ4rg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Pd9-n9QbX0SINATTJurwww/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 204,
+        "photos": 1385,
+        "reviews": 1051,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The squid ink pasta is so unique and the cacio e pepe is my personal favorite. We also had the oysters appetizer and everything was very scrumptious. I enjoyed it! I also like the layout of the restaurant with the tall glass windows for a nice view of Buckhead.",
+        "language": "en"
+      },
+      "date": "2021-08-26T06:20:43Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=fYD-MJa3m4GprzhqyUsmwQ&start=110"
+  }
+}

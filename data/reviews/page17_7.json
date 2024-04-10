@@ -1,0 +1,31 @@
+{
+  "search_metadata": {
+    "id": "65f0a1cdad7fa97d085a46b3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f0a1cdad7fa97d085a46b3.json",
+    "created_at": "2024-03-12 18:41:17 UTC",
+    "processed_at": "2024-03-12 18:41:17 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/iSDfCLj9utElzdvlUKyaIQ?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1cdad7fa97d085a46b3.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1cdad7fa97d085a46b3.prettify",
+    "total_time_taken": 4.06
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 160,
+    "num": "50",
+    "place_id": "iSDfCLj9utElzdvlUKyaIQ"
+  },
+  "search_information": {
+    "total_results": 118,
+    "business": "Culinary Dropout",
+    "reviews_results_state": "Fully empty"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 118
+    }
+  ],
+  "error": "Yelp Reviews hasn't returned any results for this query."
+}

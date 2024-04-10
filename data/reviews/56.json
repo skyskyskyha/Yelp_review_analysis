@@ -1,0 +1,1866 @@
+{
+  "search_metadata": {
+    "id": "65ef30c9a74fe0cf25fc5c05",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cba2f21086e022a5/65ef30c9a74fe0cf25fc5c05.json",
+    "created_at": "2024-03-11 16:26:49 UTC",
+    "processed_at": "2024-03-11 16:26:49 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/IOLwhRIF2wyhbTJl_J2khw?",
+    "raw_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef30c9a74fe0cf25fc5c05.html",
+    "prettify_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef30c9a74fe0cf25fc5c05.prettify",
+    "total_time_taken": 2.02
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 50,
+    "num": "50",
+    "place_id": "IOLwhRIF2wyhbTJl_J2khw"
+  },
+  "search_information": {
+    "total_results": 1858,
+    "business": "Breakfast At Barneys"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 1858
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Ian M.",
+        "user_id": "TKwONcLGa9PIptjbokyCGg",
+        "link": "https://www.yelp.com/user_details?userid=TKwONcLGa9PIptjbokyCGg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/i9AjiyxYgA7-TELZ2UsBqw/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 214,
+        "photos": 234,
+        "reviews": 189,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Flyyyyyy. This place is dope asf. The food is pushing 4 stars but the service earned the 4th. The peach cobbler was elite no lie, wish I didn't get it before the other food. The French toast was okay. Personally the southern style egg rolls coulda stayed. I shoulda got their earlier to order my food but it's okay. The whole party must be there to be seated/ordered. My friend ordered for me. While I wasn't disappointed I wasn't that much impressed (with the food at least) vibes and service was fosho worth it. Will be back .",
+        "language": "en"
+      },
+      "date": "2023-08-21T01:56:06Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pV1Ln8HIdgS5QKjhG_Ovag/o.jpg",
+          "caption": "Peach cobbler"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kv4zi7qN7TK8Q4ilOEpDxw/o.jpg",
+          "caption": "French toast peach cobbler egg roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9WZnKekDdBt44wdMjRB2kw/o.jpg",
+          "caption": "Peach cobbler egg rolls"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Gina P.",
+        "user_id": "_2WS29U__rpSKMMoGp_7hA",
+        "link": "https://www.yelp.com/user_details?userid=_2WS29U__rpSKMMoGp_7hA",
+        "address": "St. Louis, MO",
+        "friends": 0,
+        "photos": 11,
+        "reviews": 17
+      },
+      "comment": {
+        "text": "Food is so good. The soul rolls are everything.\nI also had the fish and grits! (chef's kiss) They have great vibes and usually have dope music playing too.",
+        "language": "en"
+      },
+      "date": "2024-02-16T21:38:47Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Bernice M.",
+        "user_id": "KuSzCbUiRNj3EVlidO7NHA",
+        "link": "https://www.yelp.com/user_details?userid=KuSzCbUiRNj3EVlidO7NHA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/m5y0n4bQMSv1DtClBn0qAw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 164,
+        "photos": 146,
+        "reviews": 50
+      },
+      "comment": {
+        "text": "What can I say? I always head to Breakfast at Barney's anytime my family comes to town because it's a hit. The wait is worth it. The ambiance is a vibe. The service is always pleasant and accommodating, even during their busiest hours. The food is great as well. I brought a family member who is incredibly particular about their meals and even she raves about this place! That's a win for sure. Just be mindful that there is a wait most times when coming here, however they typically turn over tables quicker than their expected wait times. Seating at the bar is always an option as well. Definitely check out this place and bring your friends and family next time they visit Atlanta.",
+        "language": "en"
+      },
+      "date": "2023-12-19T16:18:40Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/y_XRHkuoVFYAEb48_GKPvA/o.jpg",
+          "caption": "Catfish and grits"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_JqHmaTCDgAifd4Vxb6Ghw/o.jpg",
+          "caption": "Lobster Mac"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Notoya S.",
+        "user_id": "qwy2GXpkHahlXCbkBNO2MA",
+        "link": "https://www.yelp.com/user_details?userid=qwy2GXpkHahlXCbkBNO2MA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sfZNNf0vuUDg7OYiqAdG4g/180s.jpg",
+        "address": "Brooklyn, NY",
+        "friends": 14,
+        "photos": 1791,
+        "reviews": 427
+      },
+      "comment": {
+        "text": "Breakfast at Barneys deserves all the stars. The ambiance, service and food are beyond\nImmaculate. \nI had the Queen City shrimp and grits filled with shrimps , tomatoes and sausage.  My company had the waffle and chicken, the best in ATL.",
+        "language": "en"
+      },
+      "date": "2023-09-15T03:23:20Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uLOGPlYYkzlMo5Aq8VVoGw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/s7LtqbHJn7wT6pORyNGfeA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MarBfCOUPi43K69AKvbdlA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KMwubuGSF3zrBuivJTfnSw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tausyfA-hkw6lFci2OvlpQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L7nY8MLDcJPt_3_dl0QOrA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jimmy A.",
+        "user_id": "5R5d4mikIxTIoBZnICWzIA",
+        "link": "https://www.yelp.com/user_details?userid=5R5d4mikIxTIoBZnICWzIA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nFq9vemmS6ZGI3V3vhg02g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 2,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "My second visit left me with \nthe same impression as my first. This place does not disappoint with it's unmatched menu offerings. The emphasis on customer service is evident from the moment you enter the restaurant. Well spaced seating is definitely a plus for conversations to not drift onto other guests tables. I can't say enough about how much I enjoy Breakfast at Barney's.",
+        "language": "en"
+      },
+      "date": "2023-12-23T21:36:56Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Natasha B.",
+        "user_id": "HaxMdIjFvu5MPtMVWIpfxw",
+        "link": "https://www.yelp.com/user_details?userid=HaxMdIjFvu5MPtMVWIpfxw",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "The unprofessionalism of the hostess(es), changing wait times, bad service and expensive price point take completely away from the taste of the food. My initial experience at this restaurant was classy, pretty decent service but I had to ask to ask for Pancho to get it. \nIf we start to demand better service at our Black owned restaurants, this type of behavior would change. The bad attitudes, unwelcoming first impressions and bad communication is becoming an epidemic at our Black owned Atlanta restaurants. \nDo better Doc & Pancho - very bad reflection of your brand. I won't be back, the food isn't worth headache.",
+        "language": "en"
+      },
+      "date": "2024-02-25T20:16:20Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kaitlin B.",
+        "user_id": "vMPiIZaXl07b7KDp2F6Few",
+        "link": "https://www.yelp.com/user_details?userid=vMPiIZaXl07b7KDp2F6Few",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AO7cio14z6Mhx7xZri6CkA/180s.jpg",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 128,
+        "photos": 103,
+        "reviews": 67,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This is my second visit to Breakfast at Barney's and it did not disappoint ! We went on a super busy day and the wait time was up to 2 hours so we did the rich life option! I tell you that it is worth every penny ! We enjoyed a bottle of champagne breakfast in a private room and top notch service! On this trip I opted for the steak and eggs and instead of potatoes I got grits. This meal was super delicious and fulfilling everything on my plate was cooked to perfection!! I am dreaming about this right now. Our server was super sweet and kind loved her! I would recommend you get a reservation or get there early if you want to dine in or indulge in the rich life option!!",
+        "language": "en"
+      },
+      "date": "2023-08-14T19:22:50Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_DMpi8a9tGyLT80d8Iz0Wg/o.jpg",
+          "caption": "Steak and egg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/imdSzE1w1n9lIYCoKpS3Ew/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Krystian R.",
+        "user_id": "ZlZ8OTKzHVRKky4T4GHrmA",
+        "link": "https://www.yelp.com/user_details?userid=ZlZ8OTKzHVRKky4T4GHrmA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/54GuFTTpE-mzgJ7hxWrzwA/180s.jpg",
+        "address": "Virginia-Highland, Atlanta, GA",
+        "friends": 0,
+        "photos": 16,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "I give this restaurant 1 star, first there was a long line OUTSIDE, in November no inside waiting area! Then by the time my boyfriend and I got to the front of the line we went inside only to be told by the security to go back outside and wait for the host to come and seat us, which took her forever!!! After getting inside we enjoyed the decor and the full bathroom mirrors, we waited for our server which took the young lady 30 minutes to come and get us water for the table, when we were finally able to order the server only sent back my boyfriends food which took mine even longer to come out, nothing special about the food the only thing that was a 10/10 was the grits, the steak and lamb chops were grey, and unappealing the gravy on the lamb chops were thick and chunky with no taste. We were irritated we spent that much time in line and also at the table without food just to get something we both thought wasn't worth it! Sadly it's just the name, I wouldn't recommend this place if you're used to seasoning on your food, or great service! But if you want to say you ate at Breakfast at Barney's go ahead! Feel free to skim through my reviews I go to some pretty good eating joints so I KNOW what good food is, this isn't it! Enjoy",
+        "language": "en"
+      },
+      "date": "2024-02-19T14:25:33Z",
+      "rating": 1,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jwO6IGoNMuIAjS8Z50g1Ng/o.jpg",
+          "caption": "Lamb chops and eggs with grits"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/F2HfqbDlfQBDZ4VXNY15BA/o.jpg",
+          "caption": "Steak and eggs with potatoes and a cream sauce over the steak"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sK3ao2fJFfoi3gzSFrO51Q/o.jpg",
+          "caption": "Steak and eggs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sQtlK8PNTjKJrjBcBUGhmA/o.jpg",
+          "caption": "Single al a cart waffle"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zqkmtj_kN1o_5GQ45Orlwg/o.jpg",
+          "caption": "Lamb chops and eggs with grits and toast"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shirl B.",
+        "user_id": "rP9KTAPzKiAnnI6ONCSiUg",
+        "link": "https://www.yelp.com/user_details?userid=rP9KTAPzKiAnnI6ONCSiUg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/93CtHNFvL4NhbO5_AaUUww/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 7,
+        "photos": 29,
+        "reviews": 43
+      },
+      "comment": {
+        "text": "I'm late to the party but not at all disappointed.  \nWent on a Sunday morning around 10 and was seated right away.  \nService was excellent from the greeting to our sever Latoya W.   It's refreshing to visit a restaurant and your server knows the menu. Toya made great recommendations.  She was attentive, personable and funny.  \nBreakfast at Barney's gives French bistro with an urban touch.  Beautiful decor, R&B vibes and delicious food.    \nLots of brunch options in Atl but this made the top ten list.  \nWe will definitely return.  \nOverall, our goal experience was memorable.",
+        "language": "en"
+      },
+      "date": "2023-08-20T14:58:54Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EkIxRbO_1dipjqsJgK0Rsg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/I6wfplEAckykZemxBBt8gA/o.jpg",
+          "caption": "Steak & eggs"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Viccoria N.",
+        "user_id": "Tz8M30cLgj4GWv0ObMuQKA",
+        "link": "https://www.yelp.com/user_details?userid=Tz8M30cLgj4GWv0ObMuQKA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0Iap_RAksyDVwOWrVmg2aA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 177,
+        "photos": 82,
+        "reviews": 27
+      },
+      "comment": {
+        "text": "Came here on a weekday to avoid any wait times, and it was a success. We were seated once we arrived and even got to choose where we wanted to sit.\n\nOur waiter was great, she asked was this our first time and explained the menu and said which plates were the most popular.\n\nOur table of 3 food came fast, about 15-20mins after we ordered. Before we went, we read reviews that said the food was bad, but ours wasn't. It wasn't DAMN this is GOOD, but it was good. The only negatives were the size of the drinks that had a bunch of ice and the small portion size of the grits with the BBQ Salmon.\n\nAll in all, I will come back on another weekday.",
+        "language": "en"
+      },
+      "date": "2023-08-02T22:47:51Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NvuxM9zK2-2D3M-fRi_QZw/o.jpg",
+          "caption": "Mojito & Margaritas"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7ZyHoyfAoRYmhGNz1i90Mw/o.jpg",
+          "caption": "Fried Green Tomatoes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WG6uedX7L_cS-WSiwCeu5w/o.jpg",
+          "caption": "Shrimp & Grits"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AXeI7hmcN8GBtz5Hg_INrg/o.jpg",
+          "caption": "Emperor Breakfast"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BvzIoWvQ0V-OoUhQPwJK1Q/o.jpg",
+          "caption": "BBQ Salmon & Grits"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tony S.",
+        "user_id": "oVereeGTbaMlgkBmWK-4Dw",
+        "link": "https://www.yelp.com/user_details?userid=oVereeGTbaMlgkBmWK-4Dw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uLMW4rYWx61Fz7mJE9hZ-w/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 65,
+        "photos": 2455,
+        "reviews": 231,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I had eagerly looked forward to dining at Breakfast At Barneys. The restaurant seems to have a cult following so I wanted to experience it for myself.\nIt was a very frigid day in Atlanta on the morning of my visit, so my dining guest and I wore coats. I didn't see any coat racks so I asked our server if we could place our coats on a chair at an empty bar. She said \"NO!\" I asked the bartender and he said \"YES!\" I assured him I'd move the coats if the seat was needed.\n\nFor the food....\nMy friend ordered the Fried Catfish & Spicy Spaghetti and I had the Emperors Breakfast. The food came out after a reasonable amount of time, and presented nicely. The Fried Catfish & Spicy Spaghetti looked amazing! My Emperors Breakfast looked very appetizing but upon a closer glance I DISCOVERED HAIR ON MY TOAST AND PLATE. I informed our server and she promptly returned the meal to the kitchen to be remade (I hope it was).\nThe cheesy grits were great and the turkey bacon was very good too.\nMy friend enjoyed their meal also. The spaghetti was very spicy but tasty. \n\nWhen we left, there was a line forming outside on this unusually cold Atlanta day. I left with mixed emotions about my experience with the hair, and how our server offered only a \"NO\" about where to place our coats instead of directing me to a coat rack if there was one.\nI'm not likely to return to Breakfast at Barneys given FINDING HAIR on my food and plate.",
+        "language": "en"
+      },
+      "date": "2022-12-30T18:45:57Z",
+      "rating": 2,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OQdRSL397ZnSl3HU4ViB4g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wVDDjRyq9FMuiCfXfFHzvA/o.jpg",
+          "caption": "Emperor's Breakfast"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-NWllICVrIlkQ1821JR_Kw/o.jpg",
+          "caption": "Spicy spaghetti with catfish"
+        }
+      ],
+      "feedback": {
+        "useful": 5,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Robleh I.",
+        "user_id": "1hPnu7WDjldcLsclvULFMw",
+        "link": "https://www.yelp.com/user_details?userid=1hPnu7WDjldcLsclvULFMw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bk5EuHUZgnHU4tBGCHeXxg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 922,
+        "photos": 329,
+        "reviews": 117
+      },
+      "comment": {
+        "text": "my experience @ Breakfast at Barney's was very disappointing to say the least.\n\nLet's start off by saying, I was really looking forward to experiencing their brunch. You can always expect a long wait @ Breakfast at Barney's so make sure you are not starving prior to your arrival. Bring a light snack with you if possible because wait times vary.\n\nOkay now to review the restaurant, first of all .... after the long wait to be seated, me & my friend waited almost 30 minutes before anyone in the restaurant greeted us. Many servers walked past, NOTHING ...  Eventually, we took matters into our own hands & we flagged server down to ask for waters.\n\nAlready completely turned off by the restaurant, my friend didn't even want to order any appetizers or drinks & stated let's just grab some quick food and leave. We had already waited a combined 2 hours and we were just starving at that point.\n\nOnce our food arrived, it was mediocre at best.\n\nThe omelette was terrible, and the New Orleans Blackened Mahi was even WORSE!\n\nDon't know if I'll ever come back to Breakfast at Barney's again to give them another try! \n\nThey missed in every aspect of Dining! \n\nHighly disappointed :(",
+        "language": "en"
+      },
+      "date": "2023-08-26T17:06:19Z",
+      "rating": 1,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0fgP6wdUX7VHE3DkQkUkyA/o.jpg",
+          "caption": "Parking area"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uZoY0P_XDp_bbxGf1-ixrQ/o.jpg",
+          "caption": "Omelette"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Iam M.",
+        "user_id": "_TGY5eslNSSgE87zfpSBPw",
+        "link": "https://www.yelp.com/user_details?userid=_TGY5eslNSSgE87zfpSBPw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kPXOShxfB7iefR1Ao6jZDw/180s.jpg",
+        "address": "Manhattan, New York, NY",
+        "friends": 62,
+        "photos": 30,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Everything here was wonderful literally from beginning to end.  Outside is very decorative with beautiful murals, outdoor seating and a floral arch at the entry.  The plush green and blue furniture is very inviting.  We were quickly greeted and seated.  All of the food was delicious!!! There is also a private room for events. The only flaw was the ladies rest room.  Although beautifully and tastefully decorated, there are only 2 stalls with very little waiting area.  Even though it was not very busy while there, the line did back up.  Everything else was enough to not make this a deterrent to come back.  I will definitely be back!!!!",
+        "language": "en"
+      },
+      "date": "2023-12-31T20:24:08Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gP1k22wkTMEdywT9ekbO4w/o.jpg",
+          "caption": "Steak and eggs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CRgBvnatHk2iYuC-Asi7Tg/o.jpg",
+          "caption": "Strawberry lemonade"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4anD-yrimdd6KON7ABZkYQ/o.jpg",
+          "caption": "Egg rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6ntMFrfuA8cLIolcREjhDQ/o.jpg",
+          "caption": "Chicken and waffles"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ken O.",
+        "user_id": "P5acynk_YWHUczKXQMFu3w",
+        "link": "https://www.yelp.com/user_details?userid=P5acynk_YWHUczKXQMFu3w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/InAb2v4wJPewpIWq_rcJyw/180s.jpg",
+        "address": "Chatham, IL",
+        "friends": 2,
+        "photos": 16,
+        "reviews": 66
+      },
+      "comment": {
+        "text": "Breakfast food was okay but overall you could go to waffle house and get better grub. Service was great but made us wait too long to get water and coffee. 1st time here but not worth the 30 minute wait to get seated.",
+        "language": "en"
+      },
+      "date": "2024-02-03T17:45:29Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sasha S.",
+        "user_id": "xVuU-j4t52FHdXRZCByfig",
+        "link": "https://www.yelp.com/user_details?userid=xVuU-j4t52FHdXRZCByfig",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Xb_FI23HljVLqtWv69Uv-A/180s.jpg",
+        "address": "Miami Lakes, FL",
+        "friends": 117,
+        "photos": 874,
+        "reviews": 162,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We went as a group of 5 for a Christmas brunch while visiting Atlanta. The service is great and staff was super friendly and helpful. The ambiance is nice and vegan menu options for all day breakfast and brunch were great as well. Only two of 5 of us are vegan so finding restaurants that will cater to all dietary needs is a plus. \nOur server Ty, was amazing!!!",
+        "language": "en"
+      },
+      "date": "2022-12-25T17:33:13Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cicGrSulL7CfsJsAQZpqhw/o.jpg",
+          "caption": "Vegan \"steak\" and just egg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Teresa S.",
+        "user_id": "B-AQQqbCKcTSXTPCKOVTzw",
+        "link": "https://www.yelp.com/user_details?userid=B-AQQqbCKcTSXTPCKOVTzw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KeZbAD02BA-uoqKt3Z8eow/180s.jpg",
+        "address": "Lindridge-Martin Manor, Atlanta, GA",
+        "friends": 1,
+        "photos": 17,
+        "reviews": 17
+      },
+      "comment": {
+        "text": "I only gave four stars because there's always room for improvement. My meal was delicious. The service was mediocre and the ambiance was very pleasant.",
+        "language": "en"
+      },
+      "date": "2023-12-28T01:31:28Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4j2UcRPYzARC2iivvuxK6A/o.jpg",
+          "caption": "Fried Green Tomatoes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jHUF1uAbjLjUMrhTkur1ww/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/baBh8Qq_k42gkbYoE99xMg/o.jpg",
+          "caption": "Yardbird-Chicken and Waffles"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "LaWanda N.",
+        "user_id": "ESq2HTpDncEjOdZEyAJfaA",
+        "link": "https://www.yelp.com/user_details?userid=ESq2HTpDncEjOdZEyAJfaA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wPZHKp4WnZKcNflgauCrUQ/180s.jpg",
+        "address": "Morrow, GA",
+        "friends": 25,
+        "photos": 589,
+        "reviews": 224,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Prior to going to the HBCU - Celebration Bowl Game, we went to grab a bite at Barneys. Because it was only 9:30 or so, there wasn't too long of a wait.....maybe 20-minutes or so. We were able to grab a seat at the bar which was in close proximity to the door, and this worked out exceptionally well, considering my severe allergies to seafood. \n\nDJ, the bartender, took really good care of us, he was very pleasant, attentive and professional. We ordered and our food came out in a reasonable amount of time and it was definitely fresh and tasty! \n\nThe restaurant is nicely decorated and is very bright and inviting. We're looking forward to returning soon!",
+        "language": "en"
+      },
+      "date": "2022-12-19T13:49:53Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tUL7Be2fZOcKm9_oxrtqIw/o.jpg",
+          "caption": "Our lefties"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Frpwl2gZ_P3Fh7wifp8ORA/o.jpg",
+          "caption": "Mimosa"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/In3RvFEGfDfyyFyJF8mdyA/o.jpg",
+          "caption": "Me & the Hubs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DajKuP6DC7GEH57qcrx5LA/o.jpg",
+          "caption": "View of the decor with fresh flowers, from the bar"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ycv_dn1aljIKYkOV7TkDYw/o.jpg",
+          "caption": "Chicken wings & waffles"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/a6_Bi__DTvbDn2aWHZyWmA/o.jpg",
+          "caption": "Lamb chops, fried potatoes & eggs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TgoUKFRYyvmwAg7tPQVksw/o.jpg",
+          "caption": "Tea & cute little, engraved placemat"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4sF5i7LuM1BVKbNg4WS8Cg/o.jpg",
+          "caption": "Signage outside"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OaXUge8AjYNNaAqKJFXLaw/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/o7ZSUUlAUVMcCOjc8g8h7A/o.jpg",
+          "caption": "Tea (I forgot what kind, but it was delicious )"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Monique M.",
+        "user_id": "s4ZW3ETuVMtm9wYLx0muGA",
+        "link": "https://www.yelp.com/user_details?userid=s4ZW3ETuVMtm9wYLx0muGA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0RsDA8870rOS09KszckaOw/180s.jpg",
+        "address": "Smyrna, GA",
+        "friends": 78,
+        "photos": 375,
+        "reviews": 253,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I haven't been here in about two years because of the bad experience that I had the first time. However, I gave it another try since they revamped it. I'd have to say that the service was much better. This time I came during a weekday at lunch time. We say outside and it was nice and service was great! The food that I had was good. The salmon was cooked right and flavorful. The grits were really good . I also enjoyed the fried green tomatoes. I'd come again!",
+        "language": "en"
+      },
+      "date": "2023-07-23T23:47:42Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/K4lZyRE_bYDRT9Jc75xNGA/o.jpg",
+          "caption": "Salmon and grits"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Z4L1RD59TqCo4UJuxvLYAQ/o.jpg",
+          "caption": "Fried green tomatoes"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jordan T.",
+        "user_id": "K-T9ukFHqcw4DEQh42Xp4Q",
+        "link": "https://www.yelp.com/user_details?userid=K-T9ukFHqcw4DEQh42Xp4Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dYGV3vO-5Ivf2hiRlSURFQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 6,
+        "photos": 46,
+        "reviews": 57
+      },
+      "comment": {
+        "text": "Superior service. Quality food. Reasonable prices. Its a winner. You cant really go wrong with anything on the menu. Been a few times and thats the conclusion I've come to.",
+        "language": "en"
+      },
+      "date": "2024-01-26T02:01:04Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Amanda S.",
+        "user_id": "2UnDSY4-Z8QCoQfL358lcA",
+        "link": "https://www.yelp.com/user_details?userid=2UnDSY4-Z8QCoQfL358lcA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RNZCtFc34ZJ_1Oyqpihjzg/180s.jpg",
+        "address": "Sandy Springs, GA",
+        "friends": 309,
+        "photos": 345,
+        "reviews": 241,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Stopped by here after going to the airport and breakfast at Barney's has got to be one of the most popular brunch spots in atl because it's always busy! Even at 9am on a Wednesday, we had to wait for a table!\n\nI needed some caffeine so I opted for their peach basil tea which was so good, and then we shared the French toast and the yard bird. Probably should have read the menu better and not gotten two sweet dishes, but glad I got to try them out.\n\nI was a big fan of the yard bird! The fried chicken was so good and the waffles were a perfect mix of savory and sweet with the sage infusion + apple cider bourbon syrup. I thought the French toast was good too, but definitely overshadowed by the yard bird.\n\nGiven how good the savory items were, I'd definitely come back and try their standard breakfast items. Barney's is a kinda fancy, but totally worth the money and wait!",
+        "language": "en"
+      },
+      "date": "2022-12-06T16:55:47Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hVNjcHO8pncs-cq-1_iG-A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8iztSkjMn79fJCAMLQZFSw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Lauren J.",
+        "user_id": "mPR-Qclv9OPGsDCUv2e3_A",
+        "link": "https://www.yelp.com/user_details?userid=mPR-Qclv9OPGsDCUv2e3_A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NiN23xkjA3mgoDN825FIVg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 247,
+        "photos": 1,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Had an amazing experience here. The food was good and service was top notch. The juices are so good too. \nThank you so much Annette",
+        "language": "en"
+      },
+      "date": "2023-12-01T18:08:42Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Phoenicia S.",
+        "user_id": "ODUzZ_DYJUosAd3oarT5RQ",
+        "link": "https://www.yelp.com/user_details?userid=ODUzZ_DYJUosAd3oarT5RQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/aHAhyxaLEd9WRWpJ9dHxLA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 19,
+        "reviews": 30
+      },
+      "comment": {
+        "text": "rhe food was however the logistics is not the best. I DO NOT recommend going unless its a nice spring sunny day. Unfortunately in Atlanta and Ga it rains often and we have quit a few storms and it gets cold .",
+        "language": "en"
+      },
+      "date": "2024-01-28T01:41:05Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nia G.",
+        "user_id": "jJLEYCjFhhJywZxp_zyqkA",
+        "link": "https://www.yelp.com/user_details?userid=jJLEYCjFhhJywZxp_zyqkA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fVVQCL4hQLNTus1pIXzXCg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 355,
+        "photos": 880,
+        "reviews": 209,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I've been here twice and learned the secret is to get here very early(8ish) to beat the crowd! Preferably on a week day. \nHowever, if you can't still GO. \nIts a great experience- the decor is lovely (a nice Hollywood Glam)- many picture worthy pieces. \nService is excellent from hostess to the knowledgeable servers eager to offer cocktail suggestions\nThe food was quick(at the 8am time due to limited customers) and presentation lovely . \nI opted to bring my Real Estate team here for our monthly gathering and it turned out to be their first visit! Everyone enjoyed the various food options and not only was it as good to view- it was well prepared!",
+        "language": "en"
+      },
+      "date": "2022-11-30T15:26:10Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0dwL61V4eikIX6kvPbXOSA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UB0kZAJXkdlNM9gPsC1itA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JjSYSnZ-ZKK4G1SOaz1yQg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/olXnc7ihp6ZlJdHiMuRTyg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Linda P.",
+        "user_id": "sTl_rn4yyMnYYrM6Y6BMhQ",
+        "link": "https://www.yelp.com/user_details?userid=sTl_rn4yyMnYYrM6Y6BMhQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AcAqVSFA-DunWJmBTa745g/180s.jpg",
+        "address": "Tower Grove East, St. Louis, MO",
+        "friends": 188,
+        "photos": 531,
+        "reviews": 101,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We had a good time here! The flower decor outside was so eye-catching and beautiful. The vibes of the inside were very sleek and cool. We were seated in the back behind the booths so were overlooked for a while before getting service but the food was delicious. The 24k gold pancakes were the best pancakes we've had and the grits were sooo good. Love the aesthetics of the place and the food.",
+        "language": "en"
+      },
+      "date": "2023-07-02T17:20:51Z",
+      "rating": 4,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iEOM9v6d8bYWAq3qk0xBiQ/o.jpg",
+          "caption": "Parking garage"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7XVo9VJFAN6byDIHrB-miA/o.jpg",
+          "caption": "Front door flower decor"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oLrLce--oCyAXK91JH7tXQ/o.jpg",
+          "caption": "24k gold pancakes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WrM-FGytTmEwf3kglBwa4A/o.jpg",
+          "caption": "Hot tea and water"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WCZI9aqpk5etNpKO4I6ANA/o.jpg",
+          "caption": "Shrimp grits"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZhOgnkavRfJZCCbwgNKIrQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Angi T.",
+        "user_id": "H7C2FnpwCYaM0BC6qoWYkg",
+        "link": "https://www.yelp.com/user_details?userid=H7C2FnpwCYaM0BC6qoWYkg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RUtrPpinmhZPkEQwCVKDSw/180s.jpg",
+        "address": "Dallas, TX",
+        "friends": 365,
+        "photos": 2048,
+        "reviews": 259,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "While I was in Atlanta I finally got to express Breakfast At Barneys. I was told to go early to avoid the line that wraps around the building. I'm so glad my breakfast companion stressed that to me so I made a plans to go. Early. Baby I said EARLY, I fought my desire for sleep and made my way. I loved the mural near the parking garage and walked right in. My friend was enjoying a fresh juice flight at the bar and I could tell the place was about to get real busy. It was a weekday. The space is bright with small adornments to make it very inviting to me. We ordered the soul food egg rolls for the table. It was warm and delicious with just a touch of heat. Lush greens and macaroni wrapped for a perfect appetizer. I don't know what it is about breakfast but I want pancakes or french toast. I chose French toast with whipped butter and\nfruit. I'm not sure if they purchased the chicken sausage or made in house. I loved it. The staff was pleasant and helpful. I enjoyed gazing out the window.\nThe balance of the checkerboard floor tiles and complimenting with wall art. \nI will definitely go back to enjoy another meal.",
+        "language": "en"
+      },
+      "date": "2023-07-01T03:39:48Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IknG7TgnrvtzymXMwbPz9w/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lynn G.",
+        "user_id": "2xUnrYeNoSGndNortpdGqA",
+        "link": "https://www.yelp.com/user_details?userid=2xUnrYeNoSGndNortpdGqA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dik5Fe8Vv2oO1XbehEHX1g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 8,
+        "photos": 101,
+        "reviews": 110,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Service was magnificent, food is ok, and the ambiance is nice. I recommend trying it, be mindful it gets crowded earlier.",
+        "language": "en"
+      },
+      "date": "2023-11-04T10:52:05Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jalen W.",
+        "user_id": "d7TpXlGKASwMf1Jtp1yHdQ",
+        "link": "https://www.yelp.com/user_details?userid=d7TpXlGKASwMf1Jtp1yHdQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Tzpr1ZFQrPwR6AMWpdPgEA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 11,
+        "photos": 92,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "If you're looking for an Atlanta exclusive that lives up to the hype; then Breakfast at Barney's is a must try. As a result of being super popular this place doesn't accept reservations and is super busy from open to close. Nonetheless this spot is cozy, casual and the playlist is on point for the vibes!\n\nLet's get into the food - Despite having a full house the food came out fairly quick and everything tasted well cooked and had a lot of flavor. We started with the soul rolls, (highly recommend) which was a perfect combination of sweet and savory, followed by Chicken and Waffles(Yard Bird) and Docs Chicken Philly which were both cooked to perfection. \n\nOverall, I highly recommend Breakfast at Barney's for anyone looking for a truly memorable dining experience. The food and the vibes are top-notch, and I can't wait to come back and try more dishes. If you're a foodie, tourist or just looking for a great meal, It's definitely worth the wait!",
+        "language": "en"
+      },
+      "date": "2023-05-02T03:40:44Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pnViDMtOMIKGRdFGRqBv8Q/o.jpg",
+          "caption": "Saturday brunch!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wRM2rv-enzxtu7phpmyWmA/o.jpg",
+          "caption": "Yard Bird"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/T52DFrhHp56wcdwXI_9scA/o.jpg",
+          "caption": "Soul Rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QRdyBo0tAeozNmYpx40Lsg/o.jpg",
+          "caption": "Docs Chicken Philly"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Lorena C.",
+        "user_id": "D3DL4ehdOfd5y-yoDTIWiA",
+        "link": "https://www.yelp.com/user_details?userid=D3DL4ehdOfd5y-yoDTIWiA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wRJDvwvPUmQZQhgsWK4KlQ/180s.jpg",
+        "address": "New Orleans, LA",
+        "friends": 311,
+        "photos": 366,
+        "reviews": 195
+      },
+      "comment": {
+        "text": "From the curb appeal, Breakfast at Barney's is classy, clean, layout with period specific glamour. I was getting take out but waited inside. The hostess and a young brother in uniform were very friendly. The waitress I observed and the one who got my (burnt) $6 coffee were dry, curt. \nThe food was delicious: lamb chops cooked medium as they should be, without asking and exact medium over eggs with very creamy, perfectly seasoned grits.  Five stars to the chef. And some people say it's pricey, but it's downtown-ish Atlanta and the quality matches the price--except for the coffee. \n\nI couldn't figure out how to pay for an extra side side salad from ordering online. Additionally, it took a couple of tries for the system to work.  After reading other Yelp reviews, I would say weekend visits are smarter with a reservation; and I didn't notice if the parking lot is free or validated, but the Barney's experience is worth a visit for sure.",
+        "language": "en"
+      },
+      "date": "2023-06-26T15:08:41Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bEgU5l6M3snAbtKXv1H11g/o.jpg",
+          "caption": "Classy glamour starts at the curb ..."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_xqjexhhtmtfSZ_oqS0Aww/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jocelyn A.",
+        "user_id": "AZu6Oaz0-TDR-pn84YULDw",
+        "link": "https://www.yelp.com/user_details?userid=AZu6Oaz0-TDR-pn84YULDw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vkWsxOo-l4_IlJNyKqHPXg/180s.jpg",
+        "address": "Union City, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Went to celebrate by birthday. Food was delicious. Only con was that we had to sit downstairs - there is no light. It kinda feels like a basement.",
+        "language": "en"
+      },
+      "date": "2024-02-06T20:06:39Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Edna G.",
+        "user_id": "U8VA1pFdsvCt2bK28-IwZA",
+        "link": "https://www.yelp.com/user_details?userid=U8VA1pFdsvCt2bK28-IwZA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Q-IzkjLkGAi9R6QdnYJ2yQ/180s.jpg",
+        "address": "Fort Worth, TX",
+        "friends": 12,
+        "photos": 64,
+        "reviews": 31
+      },
+      "comment": {
+        "text": "Place it's nice, super busy. The rich'boy was delicious. Our server was not very good, nice or attentive. \nThe security guy by the entrance and the hostess were absolutely nice and attentive.",
+        "language": "en"
+      },
+      "date": "2023-06-25T14:09:23Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bSYlSnnhCr-k4OonmeBa5g/o.jpg",
+          "caption": "Rich'Boy - Shrimp / lobster"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ricky J.",
+        "user_id": "oI7ZxBxE1qp7wYkJRnXX0w",
+        "link": "https://www.yelp.com/user_details?userid=oI7ZxBxE1qp7wYkJRnXX0w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7JSlb4Eg_bIiuQXhfjiMWw/180s.jpg",
+        "address": "Sunrise East, Citrus Heights, CA",
+        "friends": 230,
+        "photos": 6,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "The food and service was amazing!! Ty was our experience specialist and she was great! Really nice and made sure we were good!",
+        "language": "en"
+      },
+      "date": "2023-11-10T13:41:49Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kLN2fOAKVk6boufK-ClbVQ/o.jpg",
+          "caption": "Queen City Shrimp & Grits"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0ChOw27CWhbrs_l2bMmR_g/o.jpg",
+          "caption": "Yard Bird"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jeanne E.",
+        "user_id": "lRFjD3wIKGif26nWcfRZ2A",
+        "link": "https://www.yelp.com/user_details?userid=lRFjD3wIKGif26nWcfRZ2A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wpxIZybqm7YEEkXRvRXCVA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 193,
+        "photos": 63,
+        "reviews": 19,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Loved this place. Upon arrival the line outside was crazy. I anticipated a long wait but was only 30mins (we had a party of 5 w/ 1yr old) I order the Spicy Spaghetti and it was definitely spicy but good. However my daughter ordered the shrimp and grits and it was even better. The baby even loved the grits!",
+        "language": "en"
+      },
+      "date": "2023-05-27T23:41:51Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZNtmzv3SjG6V0E-0eNf0kQ/o.jpg",
+          "caption": "Shrimp and Grits"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YHZreNxCTOdRmttyibk6sQ/o.jpg",
+          "caption": "Catfish Spaghetti"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Courtnie S.",
+        "user_id": "6K7QN65zgPsbw5IGveWFzw",
+        "link": "https://www.yelp.com/user_details?userid=6K7QN65zgPsbw5IGveWFzw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dav-IrYT5hAL400T8upyCg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 617,
+        "photos": 382,
+        "reviews": 160
+      },
+      "comment": {
+        "text": "The ambiance is what brought me in, the restaurant is expertly decorated, plays great music, and they do BRUNCH! The service I received at the bar was on point, they anticipated everything and I wasn't lacking or in need of anything. I love the juice that's made in house and food wise I ordered the salmon croquettes with creamy cheese grits- mouth watering and delicious! \n\nThere's usually a long wait here so be ready for that, and the valet costs 5$ even if you park and the wait is too long so you leave you'll still have to pay- keep that in mind. \n\nAll in all I love it here, every time I go I order the same thing because I think it's put together perfectly. This is a great vibesy spot for you and your friends to drink and have a good time with great food. Sometimes I order my food to go because it's so crowded but they haven't missed yet.",
+        "language": "en"
+      },
+      "date": "2023-04-07T20:20:31Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Lisa M.",
+        "user_id": "J-FCWokSC33t3fOg1H9s2w",
+        "link": "https://www.yelp.com/user_details?userid=J-FCWokSC33t3fOg1H9s2w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UO8ksqQHG2hU3xV3a-Q3jQ/180s.jpg",
+        "address": "Nashville, TN",
+        "friends": 0,
+        "photos": 90,
+        "reviews": 51
+      },
+      "comment": {
+        "text": "These days all\nRestaurants are understaffed. We waited about 30 min before anyone took our order. Nice servers would\nCome by and say they would be with us soon.. but dang, long wait. It was great food though and loved the atmosphere.",
+        "language": "en"
+      },
+      "date": "2023-07-05T07:29:04Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Di4X5kkD9UAHIQIypZUbYQ/o.jpg",
+          "caption": "Pecan sage waffle with fried wings \"Yard Bird\""
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QAyQ9OgU8tATcT2Mnyr5Tg/o.jpg",
+          "caption": "24 k pancakes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SYjQRwe9nbV96bisa7LuAg/o.jpg",
+          "caption": "Breakfast at Barney's Muriel"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Najah H.",
+        "user_id": "151ZfnkWzWKenBheoesFoA",
+        "link": "https://www.yelp.com/user_details?userid=151ZfnkWzWKenBheoesFoA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hC_OFUGf0HrNkI5SPw1tbA/180s.jpg",
+        "address": "Smyrna, GA",
+        "friends": 155,
+        "photos": 325,
+        "reviews": 158,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "First time dining at Barney's today with two girlfriends. We had plans for an event and this was on our way there. TikTok and Yelp rate this place pretty high but it wasn't that great to me. The taste and quality of the food warranted 4.5 stars but the poor service dragged this place down.\nUpon arrival there's a fully armored police or security officer at the door at 9:30 AM. I get that this is in-town and crime may be an issue but a doorman in a suit with a vest beneath his clothes would be more welcoming. It reads night club.\nThe hostesses failed. Just straight up set the tone for a poor experience and that's their job. The first thing they said is - hello, is your entire party here? (they were at the valet) then you'll have to wait. Okay. I took a seat at bar to order a drink or water - I was told to stand by the door and wait. Hmmm. Shortly after my friends arrived they quickly say it's card only. Okay, sure. Something else was mumbled on the walk to the table but it's hard to know when someone is talking with their back to you.\n\nWe skipped drinks and appetizers - straight to entrees to get out of there. \nThe food was delicious. The pictures don't do it justice. Kiss the chef! \nWe weren't asked to have anything else, just how to prep the check. It got pretty busy so it took a while to even close out the check. At the door on the way out - no farewell greeting, how was it or come back again. Never saw a Manager walking around either.\n\nThere's really something happening in the service industry that's been lost. Keeping customers happy. It's like patrons are doing the restaurateur a favor. Service and customer service needs to be paid way more attention for me to return. Probably just Doordash it to avoid the nonsense.",
+        "language": "en"
+      },
+      "date": "2023-05-22T01:31:54Z",
+      "rating": 2,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zN-A29msPZ-6iSMRVP0FQg/o.jpg",
+          "caption": "Queen City Shrimp and grits"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QSEVtgDoJdHBGzOc5cApUw/o.jpg",
+          "caption": "Barney's French toast"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7GnuOylDVw2XGfcC5ohChw/o.jpg",
+          "caption": "Emperor's Breakfast"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/we3P2-BLhsBfepb495t23Q/o.jpg",
+          "caption": "Menu"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Diane W.",
+        "user_id": "TkwrGlA6aBOuTafJKCTjvw",
+        "link": "https://www.yelp.com/user_details?userid=TkwrGlA6aBOuTafJKCTjvw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KolQUjMr9H9SRrbKcWWkKA/180s.jpg",
+        "address": "Winston-Salem, NC",
+        "friends": 29,
+        "photos": 80,
+        "reviews": 137,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "What an awesome place for Sunday breakfast! We picked a frigid day but they brought out heaters while we waited for a table, & the wait was worth it! We were a party of 5 & ordered the 24carot gold pancakes, the Emperor's Breakfast, French Toast & even hot chocolate!  Everything was delicious & the staff were so friendly we felt like we were home!  It was a super busy Sunday morning but the place runs SO efficiently & never rushed us to move along.  This place is an Atlanta treasure & we will always return when we are in town!",
+        "language": "en"
+      },
+      "date": "2023-04-13T21:21:03Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LAsU460WdWTI7lvFaOj8gA/o.jpg",
+          "caption": "Delicious hot chocolate!"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Brionta P.",
+        "user_id": "ZyZcwqK-IMApXsx-dNCyWg",
+        "link": "https://www.yelp.com/user_details?userid=ZyZcwqK-IMApXsx-dNCyWg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/H4rm7SlTwwbnQYnxqvr1_w/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 19,
+        "photos": 496,
+        "reviews": 150,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Breakfast at Barney is an absolute must! \nI normally would not visit a restaurant that has a lot of hype because usually all it is HYPE! But inn this case I was pleasantly surprise the food is FIREEE.\n\nThe food is to die for, literally. \nI have yet to try anything that I didn't enjoy and if you have read my reviews you will know that I am the flavor queen and if you lack I will let it be known. The cuisine is brunch with a southern flare and as southern girl fill me up! The fish and grits, the mac and greens, the French toast and spaghetti YUMMMM! I'm actually hungry just thinking about it. The 24k pancakes is enough to literally feed a family. \n\nThe service is pretty decent I have no real complaints but that's always my expectation if you're already automatically charging me 15-20% in gratitude. The food is usually delivered while still hot and you don't have to wait long for a drink.\n\nAlso, you can visit this location and avoid the weekends PLEASE do I beg of you or you will have a wait that's so ridiculous that'll make you change your mind about dining here. And being that they have no brunch specials for the weekend I 10/10 recommend going during the week if possible.\n\nBy the way this is not your standard brunch place, you have to worry about anyone twerk on your pancakes, the vibe is super chill and the music is really grown and sexy. But its still a vibe, the interior of the restaurant is super dope as well definitely insta-worthy.\n\nThe mimosas are pretty expensive so I suggest having your pocket on full if you plan to come here and leave with a brunch buzz. Unfortunately, they have ZERO specials for brunch and if you try to just purchase a bottle thinking that's the cheaper route you are absolutely wrong. They will attempt to charge you 150+ for a bottle you can get from the store for about $10-15.  \n\nAlso, the parking is pretty awful. I highly recommend parking around the corner on the street for free, it'll be a great way to walk off all that food you're going to enjoy. Or simply valet, but the line for valet is always a little back. \n\nDespite all the extra that comes with the place is sooooo very worth the price and the wait.",
+        "language": "en"
+      },
+      "date": "2022-10-03T01:25:17Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lG5Dggi94aW0Oag76HjJUA/o.jpg",
+          "caption": "Fish and Grits"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QiFhGTylMTUCQYK3zVHwNA/o.jpg",
+          "caption": "Fried Lobster with Mac and Greens"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jackie B.",
+        "user_id": "PfOmVS94iAU1fMx_ebogmQ",
+        "link": "https://www.yelp.com/user_details?userid=PfOmVS94iAU1fMx_ebogmQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AD7MIwjhgGpSDCUJ2L6kKg/180s.jpg",
+        "address": "Fisherville, TN",
+        "friends": 34,
+        "photos": 543,
+        "reviews": 107,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Pros\nBlack owned establishment\nDecor \nVariety of menu options \nLarge portions of food \nReasonably price\nGreat parking \nGreat customer service (ask for Annette.. she's awesome !) \n\n Cons\nDo not accept reservations \n3-4hour wait on Saturdays and Sundays ( we dined on a Monday morning at 8am) , so we didn't have this problem. We tried to go on Sunday and the line was out the door ..so we opted for what we thought would be a slower day",
+        "language": "en"
+      },
+      "date": "2022-10-10T16:45:58Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DXFZQ3nkmIFxGSEtYhvF6A/o.jpg",
+          "caption": "24kart pancake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3fZTyzuCqKslFsiXXGwCuA/o.jpg",
+          "caption": "Restroom hallway"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/G8OD3csYwUrYhV5LL3b6og/o.jpg",
+          "caption": "Ladies restroom"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xZLSDo-m34b4pprKtK307Q/o.jpg",
+          "caption": "Coffee"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DadJvNXDPCOWrQT2TILq9Q/o.jpg",
+          "caption": "Salmon croquettes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BSw86YoyU4ckhy3aeH2eRg/o.jpg",
+          "caption": "Restroom area"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/b3i_C_x3VPqEq3N91of5qA/o.jpg",
+          "caption": "Patio"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WTyEQOHfYV4-cRekQlmwRg/o.jpg",
+          "caption": "Dining"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZlvjXHGFPZ9rXfItX1s4Cg/o.jpg",
+          "caption": "Restroom hallway"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OB54Crk7QQfGCfLBJqc7JA/o.jpg",
+          "caption": "Mens restroom"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Lauren P.",
+        "user_id": "XW287kb3J6PDaBVLIPXCRQ",
+        "link": "https://www.yelp.com/user_details?userid=XW287kb3J6PDaBVLIPXCRQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/B4KwbLaVXITlfRMimHVBlw/180s.jpg",
+        "address": "Raleigh, NC",
+        "friends": 16,
+        "photos": 73,
+        "reviews": 48,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Barney's for brunch is def the move for a weekend in the area. My friend and I went on a Saturday morning (not realizing Beyonce was in town) and they handled the crowd perfectly! We were able to get a seat within an hour, and they have a text program so you don't have to wait outside. The music and vibes were perfect, and the food was absolutely incredible. We planned to take to go plates and there was so much food leftover we had a whole second meal. Several mimosa options as well as the option to buy a bottle and have different juices so you can add a much (or little lol) as you want to your mimosa. Great spot for a date or to catch up with your girls!",
+        "language": "en"
+      },
+      "date": "2023-10-13T18:32:04Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nicole H.",
+        "user_id": "Dc2x9wCrZ2--Vgz5rTeFAg",
+        "link": "https://www.yelp.com/user_details?userid=Dc2x9wCrZ2--Vgz5rTeFAg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7TTpkx3_iJ3oLETttAGdWw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 24,
+        "photos": 302,
+        "reviews": 110
+      },
+      "comment": {
+        "text": "Came here early on a Tuesday morning & sat at the bar. My server was friendly and the food came out quickly! Whoever prepared my omelette did a da*n good job! Although it lacked seasoning, it was cooked very well. I loved how comfortable I felt there, like I could sit at the bar with my laptop and get some work done. Now on the weekends, this place is packed, but from my experience the service is always A1.",
+        "language": "en"
+      },
+      "date": "2023-10-03T02:36:19Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KEGK8GHWiZu6VsMK4uD_Fg/o.jpg",
+          "caption": "Veggie Omelette"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Catika T.",
+        "user_id": "-vWN1nfMefCZbH1vOeNEJg",
+        "link": "https://www.yelp.com/user_details?userid=-vWN1nfMefCZbH1vOeNEJg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vzwMd9dlC919pyq2Ck7XjA/180s.jpg",
+        "address": "Griffin, GA",
+        "friends": 0,
+        "photos": 4,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "The food was horrible. Everything was pre cooked hours before. The chicken was fried earlier then when I ordered it they re dropped it in the grease. The lamb chops were boiled then gravy was threw on them. The eggs were dried out. The potatoes were dried out. The soul food egg rolls were cooked hours before then warmed back up when we ordered them. The only thing that was good was the fried green tomatoes and the margaritas. I was highly disappointed. They don't accept any form of cash. You can't change things on the menu. You have to order the food the way it comes. You can send any food back. If it comes out messed up you still have to pay for me. Our meal was $222.44. I will never go back. Plus the chef kept bringing our food to the table and her clothes were so filthy.",
+        "language": "en"
+      },
+      "date": "2023-10-25T23:10:50Z",
+      "rating": 1,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LJozjI1RqkqstQJwt6qPpA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lucie T.",
+        "user_id": "hMAnk05LsPlEjQ0ohTO7wg",
+        "link": "https://www.yelp.com/user_details?userid=hMAnk05LsPlEjQ0ohTO7wg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XA5oH-JOkrLCikmnK7pQoQ/180s.jpg",
+        "address": "New York, NY",
+        "friends": 263,
+        "photos": 2773,
+        "reviews": 335,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My friend treated me to Breakfast at Barneys, it was on amazing experience. When we arrived around 10am, it was already packed. The wait time was 30 minutes, we were seated close to 11am.\n\nOur server was friendly, attentive and prompt. We ordered the 24 Karat Gold pancakes, soul rolls, lobster Mac and Greens, chicken and waffles, million dollar margarita. Everything was delicious and delectable all around. The food was fresh, tasty and well prepared.\n\nWe had an amazing experience and will visit again when in Atlanta.",
+        "language": "en"
+      },
+      "date": "2022-09-07T03:00:39Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wA7jTkoNFvPzBq-9z8WKuQ/o.jpg",
+          "caption": "Soul rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/T_CGK4zEdP09VdGVgONoCw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5DXYkQN0t5IOK9Ovw-mEMg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NKmnhMXRhDmQ2yWRIqw3KA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IH2DN_F9kKGDZMqVLu1NyA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3qC6tQOTx-EBtkLB2rK2DA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fBffIoT8YYtCjO4lX0c1KA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/o_nDCsHSG7nMu91NZhMaJQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lX2rSr0TgdI6T5HacggeeQ/o.jpg",
+          "caption": "24K Gold pancakes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jT14VTeF939H0NQwXzLVMg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Abi A.",
+        "user_id": "VevMQNb3Bc9bfVVW5Ymshw",
+        "link": "https://www.yelp.com/user_details?userid=VevMQNb3Bc9bfVVW5Ymshw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7XOT5_jaq4sbQAk6NbjBQQ/180s.jpg",
+        "address": "London, United Kingdom",
+        "friends": 46,
+        "photos": 801,
+        "reviews": 154
+      },
+      "comment": {
+        "text": "Since they do not accept reservations, it's walk-in only. I went there on a Sunday afternoon with my friends and there were people waiting outside. We were told that it would be about a 90 minute wait. At this time, the host added us to the waitlist and we were number 30 on that list.\nWe left and then came back when we saw that we were number 6 on the list. At the time we arrived, we got the text that our table was ready and had only 5 minutes for the table to be held.\nMy friends decided to go on while I figured out the parking.\n\nWhen I got to the parking garage around 3.30pm, there was no space so I proceeded to the valet. I was told that valet was closed so it was self-parking. I attempted to park in one of the open valet spaces and was told not to park there, the space was valet only. I was irritated at this point because the valet is closed and the parking was just sitting there\nAt this time my friends called me that they were not allowed in because the whole party wasn't there. Mind you, one of them was with a toddler in the cold!\nShe asked the security if she could at least step into the entrance because of the cold for the sake of the child but was refused.\nAnyway, I eventually found parking as someone was leaving the garage.\nThe ambiance was nice and the place was full.\nThe food took a while but it was not bad\n\nLambchops\nThey tasted okay but was chewy and over cooked even though we asked for it to be medium\n\nEmperor's breakfast\nThe eggs had no single seasoning. Sausage was good and potatoes were just ok.\n\nSpicy spaghetti\nThe star here was the fried catfish. It was really tasty and well fried. They delivered on the spiciness of the spaghetti. \n\nOur server was attentive and nice too.\n\nI might order the catfish for takeout there but I won't be back to dine in. No place is worth a 90 minute wait.",
+        "language": "en"
+      },
+      "date": "2023-03-20T03:24:47Z",
+      "rating": 2,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DcZ12zmLo1-kxcvkh44LRg/o.jpg",
+          "caption": "Virgin mojito"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Jxw77FvnXRudPoAenmhNbg/o.jpg",
+          "caption": "Lambchops and eggs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QNGw3xDkIGPan7hz8HONUg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YKMn4DI1p3NUllxAhCZ8lQ/o.jpg",
+          "caption": "Spicy spaghetti and catfish"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AHBg832csEF6SFQ1Yfk8mA/o.jpg",
+          "caption": "Grape aventus"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eFaXQLm9efBe4zpYv4SUWw/o.jpg",
+          "caption": "Emperor's breakfast"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1qxwuMcxyvUNTb5wZKHOHQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Ryan S.",
+        "user_id": "nqAcFK82UZd-Nbua4Cnp5A",
+        "link": "https://www.yelp.com/user_details?userid=nqAcFK82UZd-Nbua4Cnp5A",
+        "address": "Hiram, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "1.No waiting area. \n2.Not allowed to sit at bar. \n3.18 mins after I sat down finally took drink order.\n4.cups dirty and had to return drinks\n5.Tried to order steak without sauce, but that's too complicated for the kitchen so it's against their rules. Sorry if you have allergies no accommodations will be made. \n6. Final tab $100 with tip for two people. Steak and eggs/ sausage,egg, grits coffee/pancakes/ +20% tip \n\nFinal assessment:\nTypical Atlanta novelty restaurant. Service sub par \nFood decent \nPrices high \nWill not be returning. \n6.",
+        "language": "en"
+      },
+      "date": "2024-01-02T16:34:11Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jazmine W.",
+        "user_id": "AAQUsWkkWd_2j0yB6nh2tA",
+        "link": "https://www.yelp.com/user_details?userid=AAQUsWkkWd_2j0yB6nh2tA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KY0n_qOKt-MukGExR9k_Cg/180s.jpg",
+        "address": "Sacramento, CA",
+        "friends": 196,
+        "photos": 2,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "Ok SO cute, first of all. Literally from the parking lot into the restaurant, they were decked out. We love it. I went on an earlyyy Friday morning because I'd been warned about Atlanta's busy food scene. It took a couple of minutes to get greeted but we were seated right away afterwards. There were fresh flowers on each table which is an adorable detail that really stood out to me. \n\nThey renamed their staff as Experience Specialists, which was super honorable as well. Tai was assigned to our table and did a wonderful job. She was very kind and efficient. \n\nTheir menu had a great variety of options. As an educator, I do have to say I spotted a couple of typos that should have warranted a reprint. \n\nFood was SPECTACULAR. I mean REALLY good. I loved it. 10/10. They earned my trust for sure and have every right to refuse those meal modifications because it's great as is!\n\nThe bathroom hallways had really inspiring photos highlighting black folks of high achievement. I thought that was really cool and had the potential to make their target audience feel seen. Bathroom appeared to not quite be serviced from the day before. It was appealing for the most part anyhow.\n\nWould for SURE go back in a heartbeat. More than happy that we made this our first stop in the ATL. Great job Brunch at Barney's . Lovely experience .",
+        "language": "en"
+      },
+      "date": "2023-11-10T15:04:00Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rochelle W.",
+        "user_id": "vao6oF3sO8wMD9VqA6V8Kg",
+        "link": "https://www.yelp.com/user_details?userid=vao6oF3sO8wMD9VqA6V8Kg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8MFYR_z2fqd_afDHY2k7Rg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 196,
+        "photos": 953,
+        "reviews": 261,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I was a little disappointed upon arrival \nI was seated and waited 15 minutes before a server approached the table\nI was not offered water not sure if this is a new thing because this is not the first time that has happened \nLuckily the food was good\nMy husband enjoyed the spicy spaghetti with fish and I had the French toast \nOverall not a horrible experience and by the way once I addressed the issue of waiting with my server, she turned out to be awesome.",
+        "language": "en"
+      },
+      "date": "2022-08-24T00:57:19Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AgvQMfPMZe9fd8uQ6NPrGg/o.jpg",
+          "caption": "Spicy spaghetti and fish"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D-N4kIEMtoWWIo0RJbfkqA/o.jpg",
+          "caption": "French toast"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Christie B.",
+        "user_id": "O-akd6lWSUawlT1cmHZ_0g",
+        "link": "https://www.yelp.com/user_details?userid=O-akd6lWSUawlT1cmHZ_0g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/W96EICiCGypqb2-rl8BpiQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 500,
+        "photos": 444,
+        "reviews": 313,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "They don't take reservations so know you will wait! It is worth it. The vibes, particularly the playlist are so nice. Breakfast is served until 5 when they close. Soul food, southern food, and black owned make it such a treat in my opinion. Servers are attentive and knowledgeable. I also think they turn tables fast since it is always so busy. I've had dates and business meetings here which also makes it a fave!",
+        "language": "en"
+      },
+      "date": "2023-02-19T14:31:26Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9zzpUnVgf-d4zjjxXw_Gaw/o.jpg",
+          "caption": "Lobster Mac"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GDbdEs-XehWcnfTYMCxQKg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Erin S.",
+        "user_id": "B-nz1ZBp9GdevG3pCuLo-A",
+        "link": "https://www.yelp.com/user_details?userid=B-nz1ZBp9GdevG3pCuLo-A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7HV7gBNZpQLGIh7Hd_OzFg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 377,
+        "photos": 4089,
+        "reviews": 783,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "They don't take reservations! We had a party of 3 at 12:00 pm on Saturday, 8/6/2022. They said it would be 1-1.5 hours wait and it ended up being 1 hour! They have valet parking for $5, plus tip. They don't have bacon, but they have bacon alternatives.\n\nWe each got a meal and we split another entree. We definitely didn't need to split another entire meal. Here's what we got:\n- Yard Bird ($18.50): The chicken and waffles both had really good flavor!\n- Emperors Breakfast ($15.50): Your average breakfast. We got it with chicken sausage and it was good.\n- The Breakfast Sandwich ($14.50): This was the best dish out of all 4 meals. The sauce on the sandwich was good!\n- Barneys French Toast ($15.50): This was the dish we all split. It was decent, but definitely not a must-order.\n\nWe didn't get any drinks, but boozy brunch is definitely the thing to do here!\n\nI'm glad I tried Breakfast at Barneys once!",
+        "language": "en"
+      },
+      "date": "2022-08-08T13:44:05Z",
+      "rating": 4,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/y92TsJFNztJhBEe95d09bQ/o.jpg",
+          "caption": "Yard Bird"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Xqf3DluBHotvxI_p62JYnw/o.jpg",
+          "caption": "Drink menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nLBdF__JG_UYz0fTjJHx5g/o.jpg",
+          "caption": "Emperors Breakfast"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t8AWl0akuJzqmdsl6dYzfQ/o.jpg",
+          "caption": "Breakfast Sandwich"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WXMWjIs3Ye1eB5HuHFlCXA/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UkgZbPT6R8JH184PeKYQ0A/o.jpg",
+          "caption": "Barneys French Toast"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 5
+      }
+    },
+    {
+      "user": {
+        "name": "Monique R.",
+        "user_id": "hQqxZWhtdGukg-nNUXWRtA",
+        "link": "https://www.yelp.com/user_details?userid=hQqxZWhtdGukg-nNUXWRtA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NtBBAS_hGP0TRP9iXuZzHQ/180s.jpg",
+        "address": "Queens, NY",
+        "friends": 215,
+        "photos": 17,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "UPDATE: I did end up getting sick after eating here. I will be contacting the Georgia Department of Health. \n\n\nCustomer service is deplorable here. \nI ordered shrimp and grits - they were CLEARLY undercooked, translucent and rubbery. I brought it to the attention of our waitress who went to the kitchen, came back and told me \"the chef said it's cooked\" but I'll get the manager. Another waitress then comes over to repeat \"the chef said the shrimp is cooked\". I then cut the shrimp for her to look at it - she makes a face and says \" ooo yea I see what you're saying\". Then the \"food and beverage manager\" who said her name was Emily - came over and told me \"the shrimp is cooked\" without event looking at the food. She was rude, condescending and told me \"I'm telling you it's cooked\". Then her remedy for the undercooked shrimp was for me to pay 50% of the meal and pay for a new entree. See attached photo of the undercooked shrimp. Do not patron this establishment is you care about not getting food poisoning or customer service.",
+        "language": "en"
+      },
+      "date": "2023-09-24T19:32:36Z",
+      "rating": 1,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DqHnvet3rs4qt4N2wD-FJg/o.jpg",
+          "caption": "Undercooked shrimp that the restaurant staff insisted was \"cooked\""
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ashley Y.",
+        "user_id": "DNmGVmGPvwr88suI7P3lCQ",
+        "link": "https://www.yelp.com/user_details?userid=DNmGVmGPvwr88suI7P3lCQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_cxxXBKD5ByhlfRK7WLDhA/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 147,
+        "photos": 869,
+        "reviews": 571,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I found this place since this is Yelp top rating.  But i have to agree most other yelpers l.  This is really a nice place to got for brunch. \n\nWe got there by Friday around 10am. We had a little wait like 30 min.  The service was pretty good. We had shrimp and grits and spaghetti. Shrimp and grit was great and I never saw spaghetti in brunch menu but it turned out a very good dish. \n\nThe ginger shot is really something else. It's great but it's a bit too strong for us. \n\nI will recommend to come here when you are in Atlanta.",
+        "language": "en"
+      },
+      "date": "2022-08-20T22:04:00Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QgQHV6zvN5haZCmc30RFUA/o.jpg",
+          "caption": "Spicy spaghetti"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/exdQvKLfJybG8MGJgmuBCQ/o.jpg",
+          "caption": "Ginger shot"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KvznlSRiCILMW_yWRPeWdQ/o.jpg",
+          "caption": "Shrimp and grit"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=IOLwhRIF2wyhbTJl_J2khw&start=100"
+  }
+}

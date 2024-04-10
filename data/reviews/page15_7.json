@@ -1,0 +1,1939 @@
+{
+  "search_metadata": {
+    "id": "65f09f62af630412b9452517",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f09f62af630412b9452517.json",
+    "created_at": "2024-03-12 18:30:58 UTC",
+    "processed_at": "2024-03-12 18:30:58 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/uZaT6J821lHMFrfrFno7lg?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f09f62af630412b9452517.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f09f62af630412b9452517.prettify",
+    "total_time_taken": 3.57
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 140,
+    "num": "50",
+    "place_id": "uZaT6J821lHMFrfrFno7lg"
+  },
+  "search_information": {
+    "total_results": 935,
+    "business": "Herban Fix - Vegan Kitchen"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 935
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Hena P.",
+        "user_id": "obOKiRBI4Nm877kUgE8wnA",
+        "link": "https://www.yelp.com/user_details?userid=obOKiRBI4Nm877kUgE8wnA",
+        "address": "Mount Prospect, IL",
+        "friends": 0,
+        "photos": 4,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Service was extremely slow!! It took over 30 minutes for the main entree to arrive. The waitress recommended the crispy fish curry, and she promised it doesn't taste like fish, but it did!! As a vegetarian who doesn't like meat substitutes, this restaurant was not at all for me. \n\nIf you like meat substitutes, you might like it. Also, it's ridiculously overpriced for no reason.",
+        "language": "en"
+      },
+      "date": "2021-07-06T20:28:34Z",
+      "rating": 2,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9veAbz5ZWcsdBMSqnifZ0g/o.jpg",
+          "caption": "Bao buns"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eBtA0TYoxSr3AnCBHAnc9w/o.jpg",
+          "caption": "The fish curry (vegan)"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Melanie L.",
+        "user_id": "8VKuvuaKn4tknAmeHjx7BA",
+        "link": "https://www.yelp.com/user_details?userid=8VKuvuaKn4tknAmeHjx7BA",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Not a vegan. But still go here quite often because it's so good. Nice cocktails and a fun menu. Lucky to have this spot in the neighborhood.",
+        "language": "en"
+      },
+      "date": "2022-11-06T01:19:19Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Perla G.",
+        "user_id": "HUCbyEDGYbSHqUH5hWe_uw",
+        "link": "https://www.yelp.com/user_details?userid=HUCbyEDGYbSHqUH5hWe_uw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rIukAI6v8V_qpPk69Uh8DA/180s.jpg",
+        "address": "Morrow, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Food is just okay. Not worth the price you're paying. A very westernized version of Asian vegan cuisine.",
+        "language": "en"
+      },
+      "date": "2022-04-13T17:57:54Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kiffany C.",
+        "user_id": "vQ-vQjm_C7YndLXLJoH1-A",
+        "link": "https://www.yelp.com/user_details?userid=vQ-vQjm_C7YndLXLJoH1-A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/k608XZVElrvXsGVPqiUAbg/180s.jpg",
+        "address": "Lilburn, GA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Very disappointing service tonight. Two orders, $20. I thought about calling the restaurant to express my concern, but I think this is more productive. Maybe they'll respond to this.",
+        "language": "en"
+      },
+      "date": "2020-10-16T01:07:07Z",
+      "rating": 1,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1u2huv2nZ_FpdaceEhAkZA/o.jpg",
+          "caption": "Paid $10 for this. Very disappointing, especially because we enjoy eating from here. We had 2 orders, so $20 spent, plus the Doordash fees."
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tianna W.",
+        "user_id": "Xc62ttiicogIjqRxAo2iaQ",
+        "link": "https://www.yelp.com/user_details?userid=Xc62ttiicogIjqRxAo2iaQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BEU-WBma5KjRE-u8iKSJxA/180s.jpg",
+        "address": "Beltsville, MD",
+        "friends": 0,
+        "photos": 30,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "Great vibe, my hot pot and this carrot cake was amazing!\nThey have reserved parking so that made it very convenient to go in the city. \nI will be back when I'm back in town.",
+        "language": "en"
+      },
+      "date": "2020-04-02T14:37:30Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XzA6LrRAt0E0LR7leDx08A/o.jpg",
+          "caption": "Carrot Cake, very tasty"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Haron K.",
+        "user_id": "NWt_557ZHA2KN6-7Umr2OQ",
+        "link": "https://www.yelp.com/user_details?userid=NWt_557ZHA2KN6-7Umr2OQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dNvt-NG-IVj1wn2WVkjoFQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 41,
+        "photos": 61,
+        "reviews": 289,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I have been hearing rave reviews about this place for about a year now and I finally made it...The 93 Current Health Score was a great start.\n\nIt smelled like \"Happiness\" when I walked in (I was VERY pleased) and I really enjoyed the atmosphere and the aesthetics.\n\nThe service was beyond stellar and the food was exxxxxcellent!!! \n\nWhether you are an Herbivore or an omnivore, if you come with a group, that is open to the idea, to maximize your dining experience, I would suggest getting a variety of entrées and appetizers and making it a communal thing, or sharing.\n\nIf I could give a 1/2 star, Herban Fix would definitely get a 4.5, but since I can't; What'chu see, is what'chu get.  I'm taking a star for the exorbitant price, for a less than generous portion, but if you're not a big eater or you're the freewheeling type, you should absolutely consider my \"4\" a \"5\" (I myself, lean towards the thrifty and I like MAXIMUM BANG for my buck).\n\nOverall, a GREAT restaurant though and still WELL worth the money, at least 1 time.",
+        "language": "en"
+      },
+      "date": "2019-04-06T02:21:04Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kristine A.",
+        "user_id": "RD9Mj5FkHM9GSwuJ1nFEqw",
+        "link": "https://www.yelp.com/user_details?userid=RD9Mj5FkHM9GSwuJ1nFEqw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AqPLQCO1oKWyWaOLkVOhaQ/180s.jpg",
+        "address": "Norcross, GA",
+        "friends": 70,
+        "photos": 322,
+        "reviews": 173,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "( ' -') first of all OMFG!! This place.... IS THE BEST VEGAN PLACE EVER!! We had went for Valentine's day and they had a specific menu that was a 4 course mea. IT WAS SO PERFECT I WISH I COULD GIVE 10 STARS!! I have NEVER been to a place where food was this perfect let alone vegan food. I have been gravitating more towards Vegan and Vegetarian food. If you've never had Vegan food GO HERE FIRST! It's eclectic and I'm come back for their actual menu!!! Please please please go here and try it!! I promise you won't be disappointed. I can now have shrimp again!! Even though it was fake in the version of tofu, YOU'D NEVER BE ABLW TO TELL!! Ah!!! I'm in love!!",
+        "language": "en"
+      },
+      "date": "2019-02-16T01:19:34Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PdV3ejg0tyEBf6bS4l2MLA/o.jpg",
+          "caption": "Valentine's Dessert"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w4AFUfHF0xMxHtu-K5ioSA/o.jpg",
+          "caption": "Main course for Valentine's Day Course #3"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ApvrCidfHQsHyKxpY9s7kA/o.jpg",
+          "caption": "Me enjoying refresh drink ahhh"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sWuNUQKFTjHY5YtlOuLMBA/o.jpg",
+          "caption": "Refresh drink!! So good"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SNIomqUMon0aV57OcyAMOg/o.jpg",
+          "caption": "Valentine's Day Course #1 lovely"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/al9gUMe3ar6iU34kD3RNOA/o.jpg",
+          "caption": "Valentine's Day Course #2 yummy"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Cameron C.",
+        "user_id": "kweSZ9NQ5WjWMYtzZtAzdA",
+        "link": "https://www.yelp.com/user_details?userid=kweSZ9NQ5WjWMYtzZtAzdA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xUXLm_ui0zPQsgSobR_9bQ/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 1,
+        "photos": 16,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "TLDR: I was physically grabbed by the owner of Herban Fix. \n \nI placed a to-go order at HerbanFix on October 19th and received less food than I have gotten in the past for this exact same order. I have frequently ordered this dish to-go (soy fish in curry laksa), therefore I am familiar with the portion size. When I received less food than expected, I walked back to the restaurant to inform the owner.The owner essentially teased me saying I was wrong and that he would bet $50-$100 dollars that I have never received the amount of food for the price I paid. I was baffled because I have a photo (which I showed him) of the exact order I place that night on another day, showing that I received 3 pieces of soy fish instead of 2. Another waiter came up to the owner and I and tried to explain to me what had occurred with my order (Apparently, when I called the owner did not understand that I was placing an order off of the to-go menu and originally rung me up for a higher price instead of the to-go price. Once the staff was made aware of this, they then removed the extra food from my containers, unbeknownst to me). I continue to argue my point that I have a photo showing my entire order from another day that proves I had gotten 3 pieces of food, and the owner decides to YANK my arm and tells me to listen to him and explain that I am wrong. The waiter tells him not to do that and he lets go of my arm. After this, I ask for a complete refund of my food. I am appalled that I was physically grabbed over a lack of communication, especially during a pandemic!! It is not my fault, that they do not advertise on their menu that you receive less food!! Especially when I have received the normal amount in the past at least 3 times!!",
+        "language": "en"
+      },
+      "date": "2020-11-05T00:54:47Z",
+      "rating": 1,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gVmG5vV6ZSjOK3gVN5rFjw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brittany E.",
+        "user_id": "p1g7MXxUUqI3nZXlv4WffA",
+        "link": "https://www.yelp.com/user_details?userid=p1g7MXxUUqI3nZXlv4WffA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/twuL3KwFeFehENwDiFYjqQ/180s.jpg",
+        "address": "Baton Rouge, LA",
+        "friends": 38,
+        "photos": 6,
+        "reviews": 19
+      },
+      "comment": {
+        "text": "Service was good, I love the creative  options for vegans! Spring Rolls are amazing! (Seriously) Best lemonade ever! And they make great cocktails. I would recommend going to this place!",
+        "language": "en"
+      },
+      "date": "2022-02-07T00:50:56Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Zach B.",
+        "user_id": "6w4yovN-kDs8tTH3eCskjg",
+        "link": "https://www.yelp.com/user_details?userid=6w4yovN-kDs8tTH3eCskjg",
+        "address": "Boone Hills, Kansas City, MO",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "The curried veggies and tofu was outstandingly good! I found this restaurant on a business visit and walked from my hotel. The staff was friendly and service was prompt. I decided on the curried veggies and tofu and was pleasantly surprised by the presentation and flavor. The waitress showed me the desserts which looked decadent but I ended up getting the fresh fruit instead. It was delicious! There were a few less than perfect looking grapes but that is literally my only critical thought. Loved it and will definitely come back if I can!",
+        "language": "en"
+      },
+      "date": "2021-10-06T17:30:07Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NmuMw0kBbP9yFv9D5xyHfQ/o.jpg",
+          "caption": "Creamy curry broth with tofu, veggies, and cashews  Creamy Curry Broth"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/v7IlKW4NVQJYBAa0r_kMzg/o.jpg",
+          "caption": "The menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SRoYXhJD7zDTsCegyJ5yqg/o.jpg",
+          "caption": "Fresh Tropical Fruits"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Angela D.",
+        "user_id": "Vt8YiIzud61UI13O8HU8vg",
+        "link": "https://www.yelp.com/user_details?userid=Vt8YiIzud61UI13O8HU8vg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/i1yzCHjG3T72P2bA8hADTQ/180s.jpg",
+        "address": "Locust Grove, GA",
+        "friends": 1,
+        "photos": 21,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "This restaurant follows Covid guidelines. They kept a table open between people, nobody was next to each other. I wish would've been able to try the entire menu. This is a good place for a light lunch or dinner. Even if you have an appetizer, entree, and dessert you will probably still be a little hungry. Which is understandable because everything is made in the kitchen and you can taste the freshness. I think it's perfect for lunch or something to eat before having a night in the city. The waitress was super nice and didn't have a problem making suggestions. I would come back here again and again to keep trying things on the menu. The curry was so good. I enjoyed the Thai tea, it wasn't too sweet. I tried three different cakes and they were so good.",
+        "language": "en"
+      },
+      "date": "2020-09-26T22:14:35Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pu8BwzM5R1YyKhHSG3xOvg/o.jpg",
+          "caption": "Ja Jiang Buckwheat Noodles. These were so good."
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Mohamed N.",
+        "user_id": "rrld9vMSlRnZK2XMboYhJg",
+        "link": "https://www.yelp.com/user_details?userid=rrld9vMSlRnZK2XMboYhJg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wZeLm6_96aph4gtIuEP08g/180s.jpg",
+        "address": "Durham, NC",
+        "friends": 434,
+        "photos": 509,
+        "reviews": 449,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "\"Delicious upscale vegan restaurant near downtown\"\n\nCame here on a Thursday night at just after 6pm without a reservation, and there were many tables available. The decor was trendy-- very high ceilings, intimately but not overly dark, and moderate overall space with tables not too close.\n\nOur group got drinks, a set of appetizers, and some mains. For the drink, I got the \"kale yeah\"-- I was nervous about a kale-based drink, but it was lightly sweet (no bitter) and refreshing. They did put a lot of ice in the cup, so I might advise asking for it without ice so you get more to drink.\n\n The appetizers were absolutely delicious. We started with the fresh tropical fruit-- it had a hint of lemon to stay fresh. The mango in there was soft and sweet, and the other fruits (e.g., cantaloupe) were also nicely ripe. The \"aburaage with radish\" was tasty-- presented as 4 bite-sized edible bags of delicious veggies. For me, though, the highlight was the steamed bun with soy duck. I would've eaten as many of those as they would've given me-- excellent flavor with the soy, cucumber, peanut, and cilantro. Each order only comes with 2, so we got two orders.\n\nFor the entree, I got the crispy eggplant dish. It was 4 HUGE batter-fried slices of eggplant with delicious sweet-and-sour like sauce and accompaniments, as well as a small side of brown rice. Delicious. Personally, I would've liked this more with a side beside it besides just brown rice, since the sweet-and-sour was a bit of a strong flavor after a while of eating, but it was still quite good, and it was also the least expensive entree on the menu.\n\nSpeaking of price, this place is not cheap. Three of us ate (and ate well), and the price was $110 before tip. Then again, the quality and presentation were stellar. Definitely a good \"date night\" or \"work dinner\" location, but not a weekly dining spot (unless you're rich).\n\nThe service was excellent-- they were very attentive and multiple people checked on us often.\n\nOverall, I'm a fan. Been here once before, and I'd happily come again. I should note that I'm NOT a vegan (or even a vegetarian), so don't feel like you have to be one to enjoy the delicious fare here.",
+        "language": "en"
+      },
+      "date": "2019-08-30T13:05:13Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ann C.",
+        "user_id": "kGKzgap3820RDVLJBihYxA",
+        "link": "https://www.yelp.com/user_details?userid=kGKzgap3820RDVLJBihYxA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/o6WNHLWwsZIBB1l3W04wJg/180s.jpg",
+        "address": "Bethesda, MD",
+        "friends": 142,
+        "photos": 1864,
+        "reviews": 563
+      },
+      "comment": {
+        "text": "I was somewhat dubious when I saw that this was a vegan restaurant (my experience has been that it is really hard to get the really rich and savory flavors I crave in vegan offerings, just because of the constraint on ingredients) but leaning on prior Yelpers, decided to give it a try. What a *great* decision ... the coconut soup was delicious, the two steamed buns with crispy soy duck were OUT OF THIS WORLD (but sadly, quite small), and the grilled eggplant super tasty. YUM.\n\nFor dessert, I tried the carrot cake - equally delectable. \n\nWish there was an Herban Fix closer to home, I'd definitely be a regular!",
+        "language": "en"
+      },
+      "date": "2018-10-24T04:12:05Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mbvrafRj3iZ49yBsnGGRag/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/V5K5Ku3WJjqvj4Gv78YNoA/o.jpg",
+          "caption": "Bar area."
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 2,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Maalavika G.",
+        "user_id": "Yq5Lt3EbvjD33J_0DvDijQ",
+        "link": "https://www.yelp.com/user_details?userid=Yq5Lt3EbvjD33J_0DvDijQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uHh8XBhiIwNHrtP5sZ4ZzA/180s.jpg",
+        "address": "Ijamsville, MD",
+        "friends": 72,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Came across this restaurant while doing a quick search of places to eat in ATL. I came with my sister & cousin and ended up ordering three dishes, which we all ended up sharing. The portion sizes were perfect and the meals were absolutely delicious. The restaurant is beautiful, large, and extremely clean (with staff & patrons all following COVID guidelines). We ended up ordering the green tea cake and chocolate ganache for dessert, both being delectable as well. So happy with the service and food here, it's a must visit place!",
+        "language": "en"
+      },
+      "date": "2021-08-08T01:27:48Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Sam T.",
+        "user_id": "KOsm-4MfUCrKNi3mcxFcBg",
+        "link": "https://www.yelp.com/user_details?userid=KOsm-4MfUCrKNi3mcxFcBg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/od2CRoiv1UWl2oxH8aCJ1g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 463,
+        "photos": 6997,
+        "reviews": 832,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Vegan Review: My wife decided to take me to Herban Fix for my pre-birthday brunch as my birthday was on a Monday this year. The free parking in the heart of midtown/downtown is an added bonus. Their Sunday brunch is an all you can eat buffet. I have to say, this was the most lavish buffet I have ever seen in my life! There were so many choices that would make Vegans and non-Vegans happy. We ate everything from all kinds of salads, mock seafoods made from soy, tofu, potatoes, vegetables, veggie sushi rolls, fabulous desserts, and more! My wife the non-Vegan enjoyed this meal just as much as I did. This was a top 5 all time Vegan meal for me as Herban Fix met my expectations plus some! I can't wait to go back!",
+        "language": "en"
+      },
+      "date": "2018-09-20T21:02:08Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Gl0in547r4d_0xLQsh6k_g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AQb87BQ_U-SzLAxsjuRy-g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KqsLqMMY5uPsPXehlSS2YA/o.jpg",
+          "caption": "Sunday Brunch"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/q0DtV6KupKa_Ne5IwYhClw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Z2b7gYxE1WA-wRf5ZskiiA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lZIF1KIRsA4XFeJW569xSg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hWYMhAjm7JjLhr1WtSBclg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5zza6JtG808000eOSjub5A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9V2-Bg6r4UjE1POL1f7v2w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/C3_e6y5WAdL3tnYgCvHzKQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 5,
+        "funny": 1,
+        "cool": 4
+      }
+    },
+    {
+      "user": {
+        "name": "Yohannes B.",
+        "user_id": "RF6HLsMNNHU6wVmwxiG-nQ",
+        "link": "https://www.yelp.com/user_details?userid=RF6HLsMNNHU6wVmwxiG-nQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hGPblNzW6pdRaFKIbQNLFQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 170,
+        "photos": 29,
+        "reviews": 33
+      },
+      "comment": {
+        "text": "Who needs a fancy steak house when you've got this gem here! The place is classy and open with a bit of Japanese feel to it. Tables were set nicely and the food just kept on delivering flavor upon flavor.  We ordered almost every item on the menu and we didn't skip desserts either. I would definitely be back here with more family and friends. Also the wait staff were very kind and one of them recognized us from when they had dinned at a place we use to work at. Food definitely brings us all together!",
+        "language": "en"
+      },
+      "date": "2021-08-18T17:43:50Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Ceriah R.",
+        "user_id": "bP1MEUfoBVEZwmd9XEIk1A",
+        "link": "https://www.yelp.com/user_details?userid=bP1MEUfoBVEZwmd9XEIk1A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1fxbv5bzEY71HL_YR5KxDg/180s.jpg",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 4,
+        "photos": 65,
+        "reviews": 22
+      },
+      "comment": {
+        "text": "One of if not my favorite vegan restaurant in Atlanta! There's a parking garage nearby since this restaurant is in the middle of the city in midtown. I came here for lunch with my family and tried just about everything off the the menu and it was so delicious! The appetizers are very filling and taste amazingggg. The crispy purple yam cakes have more of a savory taste which is really new and fresh. \n  The portions for the appetizers are fairly big for being appetizers which is great and everything off of the appetizer menu is filled with so much flavor. Now for the entree I had the stir fry soy chicken in citrus sauce. It comes with a small portion of brown rice and green beans. My younger brother didn't enjoy his vermicelli so we asked the waitress if he could  swap out his meal for another. \n\nThe waitress informed us that we could only add a meal and that their policy states that customers can not return a meal to get another one or take off something they didn't like so it will still be on their bill which is a very unreasonable rule to have seeing that everyone's tastebuds aren't the same and what's good to others might not be enjoyable to some so keep that in mind when you visit this restaurant because we ended up paying for a meal that no one ate and was a waste of money!\n\n After eating all of the entrees I'd recommend the stir fry or the eggplant dish because those are the best in my opinion. If there's any room for dessert you can't go wrong with their carrot cake since it's absolutely delicious! \nOverall my experience was great but I'm giving them four stars based on the fact that their policy on returning meals or taking off meals you didn't enjoy for something else is not allowed because I think this rule is completely ridiculous.",
+        "language": "en"
+      },
+      "date": "2019-03-17T15:09:00Z",
+      "rating": 4,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/axokaWlyWWN6faPELC2PVg/o.jpg",
+          "caption": "Stir-fry Soy Chicken In Citrus Sauce"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vc2AfmKoSJcNTpVu7wUoVw/o.jpg",
+          "caption": "Steamed bun with crispy soy duck and cilantro"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LZPeiuTHWs6_KTnsUboQ8A/o.jpg",
+          "caption": "Vegetable Spring Rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_5UsY8K8Vvl8mrjZlIlwcQ/o.jpg",
+          "caption": "Sesame Ginger Soy Chicken & Shiitake Kebabs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NyyZjpD353EVextCGEE-BQ/o.jpg",
+          "caption": "Stir-fry Rice Vermicelli"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/O9b76hKUZ4_wp9O8XEkyhQ/o.jpg",
+          "caption": "Crispy Purple Yam Cakes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ObG3ux7P2en1EvOagtapiA/o.jpg",
+          "caption": "Curried Rice Noodle"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Dinyar B.",
+        "user_id": "fCftn2ICg0CswBIUSdSbKQ",
+        "link": "https://www.yelp.com/user_details?userid=fCftn2ICg0CswBIUSdSbKQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8qgfNVto4-PepzXlPablrQ/180s.jpg",
+        "address": "Alpharetta, GA",
+        "friends": 14,
+        "photos": 11,
+        "reviews": 27
+      },
+      "comment": {
+        "text": "This is one of the best vegan restaurant in ATL so far. Its a great vegan option with lots of varieties. We order atleast 4 to 5 appetizer and 3 entre. The quality and quantity are perfect. I would recommend the steam bun and vermicelli noodles. The place is not cheap. Definitely on the high end. However its worth to eat once a while. One thing about this place is that the cheffs are not wearing mask while cooking. So thats one of the drawback. Secondly the table was quite small for a group of 4.   I would def rank this place as one of the to go to local restaurant in ATL",
+        "language": "en"
+      },
+      "date": "2021-01-26T02:28:02Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EoFwrOmD_H6Cvqj6ls9T-A/o.jpg",
+          "caption": "Menu"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Vee L.",
+        "user_id": "heY1w_hF_4SzmtQU6V0Owg",
+        "link": "https://www.yelp.com/user_details?userid=heY1w_hF_4SzmtQU6V0Owg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/n44haSjHO-onVDJCf7ZfGA/180s.jpg",
+        "address": "Lithonia, GA",
+        "friends": 3,
+        "photos": 47,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Vegan luxury! Tried Herban Fix for Valentine's Day and it was perfect for date night! Definitely recommend for vegans who want to dress up and dine!",
+        "language": "en"
+      },
+      "date": "2022-01-20T03:34:54Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sue S.",
+        "user_id": "CpFPGFffzarcc75pQ9lPUA",
+        "link": "https://www.yelp.com/user_details?userid=CpFPGFffzarcc75pQ9lPUA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GT2mupTKy6NpnXpb9mDb5w/180s.jpg",
+        "address": "Mauldin, SC",
+        "friends": 0,
+        "photos": 9,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Best. Restaurant. Ever. \n\nThe menu is so varied and the prices are SO low for the high quality. The decorations are so lovely. The music is so jazzy and inoffensive. The staff was friendly and inviting.\n\nThe appetizer was really impressive and aesthetically garnished. I got the yam cakes and What's Up Doc (carrot-apple) juice. So good.\n\nThen, we got the peanut pad Thai, mushroom tempura, and the vermicelli hot pot. Everything was very fresh, very flavorful, and very well-executed.\n\nI'm just so fantastically impressed. If anyone comes to Atlanta- even if you're not vegan- you MUST try this restaurant. I've never been so impressed. \n\nI wish my photos did this place justice.",
+        "language": "en"
+      },
+      "date": "2019-05-04T15:50:15Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6T1-MgmGO4CF1YVtGXy7RA/o.jpg",
+          "caption": "Mushroom tempura"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JzHERzCzQ1ztp8HH2nmCaA/o.jpg",
+          "caption": "What's Up Doc Juice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DQHTMeWY_res-FyeU4GgBQ/o.jpg",
+          "caption": "Peanut pad Thai"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/I9SZrKD1pl4zAPItRE1Fxw/o.jpg",
+          "caption": "Hot pot"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bSskSVV3DGaanTWgEOMxTQ/o.jpg",
+          "caption": "Yam cake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/do2RqnFhIZd9Age33dZ2VA/o.jpg",
+          "caption": "Hot pot"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Elizabeth G.",
+        "user_id": "obM6ybF-p5kRxBeT8a4Z6g",
+        "link": "https://www.yelp.com/user_details?userid=obM6ybF-p5kRxBeT8a4Z6g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OItjoONe_FaHBRvvECazyA/180s.jpg",
+        "address": "San Francisco Bay Area, CA",
+        "friends": 146,
+        "photos": 194,
+        "reviews": 230,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place is incredible. They have a Sunday buffet that is to die for. The fake seafood was incredible -- very similar to tuna and shrimp. I was so impressed. This is my new favorite vegan place in Atlanta.\n\nStreet parking is hard to come by, but there's a nearby parking garage.",
+        "language": "en"
+      },
+      "date": "2016-09-04T19:06:22Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rG-Ws-6olTkS0NVtWKON6w/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 1,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Britni W.",
+        "user_id": "yj9eI5R9jW1WKzRVwdBLNQ",
+        "link": "https://www.yelp.com/user_details?userid=yj9eI5R9jW1WKzRVwdBLNQ",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "DO NOT COME HERE. we came to celebrate a friend's birthday and we were told that that was not possible, which is fine i guess. the server was good so shout out to him but there was a bug crawling on the ground, a bug in my friend's drink AND the fried tofu was so bad. they could at least care about the quality of their food and customer's experience. they refused to take it off the tab even though the description is misleading. overall the experience was not good. maybe don't come here as a person of color (black at that).",
+        "language": "en"
+      },
+      "date": "2021-07-23T23:51:25Z",
+      "rating": 1,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/F8wRfr5PzR6wEcw8grGzqw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Bill H.",
+        "user_id": "Ev7Wl0omshb3HaLoormCFQ",
+        "link": "https://www.yelp.com/user_details?userid=Ev7Wl0omshb3HaLoormCFQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kRlq9UKICD00-9Bow0_apw/180s.jpg",
+        "address": "Des Moines, IA",
+        "friends": 27,
+        "photos": 74,
+        "reviews": 193
+      },
+      "comment": {
+        "text": "Vegan fine dining.. exceptional service and cuisine.. \n\nThe spring rolls stood out as dynamite!! \n\nFun lively atmosphere",
+        "language": "en"
+      },
+      "date": "2019-05-09T23:44:17Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OykPqELG2LPfBRQhbCJjEQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nick L.",
+        "user_id": "l91OHfTqmmYPbelgEkTSgw",
+        "link": "https://www.yelp.com/user_details?userid=l91OHfTqmmYPbelgEkTSgw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/l9pBaL7TsVGBVwjasTUqOw/180s.jpg",
+        "address": "Asheville, NC",
+        "friends": 495,
+        "photos": 375,
+        "reviews": 275
+      },
+      "comment": {
+        "text": "Great Vegan Brunch. Couple things to note to prepare you fully before this experience.\n\nFirst, brunch begins at 11am and goes until 3pm. $30 tax included. Special drinks are extra. Peak is certainly around the 12-1:30 range, so aim to get there early. Also this gives you plenty of time to lounge (and digest) so you can fully enjoy everything offered.\n\nSecondly, food-wise, the brunch menu is nothing like the lunch or dinner menu, lots of very simple but well prepared dishes. So if you anticipate being able to try 3 or 4 different normal dinner entrees at brunch, think again. As some not from around here, this was still a great opportunity to dive into Herban Fix's well crafted dishes, but it wasn't a copy paste from the normal menu.\n\nAll the dishes were either solidly prepared, or great in  my eyes. So the eatin' was good. A lot of dishes are fried, so anticipate that, not a lot of raw dishes. And dessert was awesome - vegan truffles, tapioca, flan - all well done. \n\nAll in all, a nice way to spend a sunday with friends or by yourself working through the dishes.",
+        "language": "en"
+      },
+      "date": "2018-11-04T18:55:38Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kHGu4clxcSbxxJVCUXU44g/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rizwan P.",
+        "user_id": "EaLnhvQ95zwMuPj203xL_w",
+        "link": "https://www.yelp.com/user_details?userid=EaLnhvQ95zwMuPj203xL_w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FUXgUNqV1ynouUrNUdXhlg/180s.jpg",
+        "address": "Tucker, GA",
+        "friends": 578,
+        "photos": 1259,
+        "reviews": 211
+      },
+      "comment": {
+        "text": "If you're looking for a vegan meal to taste amazing and still leave you full, Herban Fix is your spot. I dabble in veganism from time to time and this spot has definitely pleased my taste buds more than most vegan spots.\n\nI started with the dumplings (pictured) which were perfectly cooked and tasted as if I was at an actual Asian restaurant. Next, I had the spicy tofu soup (pictured), which was phenomenal. It wasn't too spicy (even though I LOVE spicy food), and had tons of flavor from the broth and strings of mushrooms. My main course was the mushroom steak which was unlike anything I have ever had. It didn't have a strong mushroom flavor, but the flavor was still present. It was crispy, and served in what I can assume was a soy-based sauce with bok choy - which was also cooked to perfection - and a side of brown rice which went well to soak up all that sauce once you finished the \"steak\".\n\nPros:\n- Location is great if you have plans downtown or in midtown.\n- Parking is ample in the attached garage and seemed safe enough.\n- Atmosphere is upscale casual.\n- Service is as friendly as it can get. We went during a busy time (Saturday night) and still got our food in a timely manner.\n- Food compliments the upscale atmosphere with elevated flavors that make you forget it's vegan!\n\nCons:\n- Whether you're a party of two or a party of 10, they make you wait until all your party is arrived before they seat you. Even then, they make you wait while they get your table ready (shouldn't they have a table ready if you've already gotten on the list or have a reservation?)\n- They had ample available seating but for some reason still weren't ready to seat many parties (reservations and walkins alike).\n\nAll-in-all, I will definitely be back soon to try more of their menu!",
+        "language": "en"
+      },
+      "date": "2018-08-26T19:17:46Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/btQjrtuFzjVFQmh-Bcazyg/o.jpg",
+          "caption": "Vegan Gyoza"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_Tg0ghJpsf9B2EWuJhLtCQ/o.jpg",
+          "caption": "Mushroom Steak with Brown Rice, Bok Choy"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Bka-Zf0F7ToN3Jd1T_ayDQ/o.jpg",
+          "caption": "Spicy Tofu Soup"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "L W.",
+        "user_id": "rV4WJmzDWOR6BlGPLeTs1g",
+        "link": "https://www.yelp.com/user_details?userid=rV4WJmzDWOR6BlGPLeTs1g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8RFX2PST9af74__6mafteQ/180s.jpg",
+        "address": "Winston-Salem, NC",
+        "friends": 3,
+        "photos": 49,
+        "reviews": 121
+      },
+      "comment": {
+        "text": "Truly a five star experience. Our server was top notch: she recommended items for us, checked on us frequently, and seemed to genuinely care that we enjoyed ourselves. \nThe food was amazing. We started with the scallion pancakes (YUM) and soy chicken/shiitake kebabs; both came out hot and were delicious. For entrees we had the truffle wild rice and a curry vegetable dish; I wanted to swim in both! We had a dessert that was out of this world; I've had enough vegan desserts to know this one was something special. \nThe atmosphere was very relaxing; there were lots of people there but it wasn't noisy or hectic. \nWill be back next time we're in town!",
+        "language": "en"
+      },
+      "date": "2019-10-10T21:12:37Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FZ8p-3XnsulvZALg4MEQ1w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qiuP8q3o_i6SkYzlBeHLbw/o.jpg",
+          "caption": "Truffle Wild Rice Topped"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "David C.",
+        "user_id": "-ekINnxJOVaDu0A2uVQsWA",
+        "link": "https://www.yelp.com/user_details?userid=-ekINnxJOVaDu0A2uVQsWA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/STUWjd6LXdShL1kmEBrZ6A/180s.jpg",
+        "address": "Sandy Springs, GA",
+        "friends": 228,
+        "photos": 159,
+        "reviews": 40
+      },
+      "comment": {
+        "text": "First Thought : It was very easy to find but the parking was confusing cause the signs on the wall or parking structure didn't list any of the restaurants names but since it said retail parking i thought it would be fine. As I walked up the the restaurant I didn't realized that it would be a fine dine in restaurant. I was expecting more of a casual restaurant. It was a great to see a restaurant like this for a Vegan people to enjoy. Amazing interior and nice open kitchen for you to see. They also had a sit in bar which was nice. The chairs were comfortable and it was very clean.\n\nService : Today my server name was Hannah. She was so nice and patient with me. I never been to this restaurant so she recommended me a lot of Appetizers, Entrée and Desert. Very polite, knowledgeable and professional. \n\nWait Time : 15 minutes\n\nFood : So for the Appetizer I ordered the Spinach and Mushrooms Ravioli in Curry Jus w/ Edamame. It definitely was very flavorful the curry reminds me of Thai Coconut Curry very delicious. The Ravioli was handmade and nicely executed with Spinach and Mushrooms. Now my main Entrée was Seared Pom Pom Mushroom Steak w/ assorted vegetables and a side of brown rice. Where do I begin the Mushroom Steak was the best Vegan Steak I ever had. It was better then eating beyond vegan meat. The mushroom was seared over a sauce that had a good salt like taste it was perfectly done. It wasn't bland or Salty. It was done right. I mixed my rice with the left over curry from my appetizer it was soooo good. The bahc choy that was sautéed in the Mushroom Steak sauce made it that much delicious. Now to end it with dessert was the best vegan keylime pie I ever tasted. I first thought to myself I thought the Keylime pie was supposed to be green color but my God it was heaven in my mouth. The serve asked if I wanted to take the rest home. But I was just savoring it cause it was that good.\n\nFinal Thoughts : I would definitely recommend this spot to all my friends and family. Definitely coming back cause it was worth every penny. For people trying to become vegan and miss steak this is the place to come too.",
+        "language": "en"
+      },
+      "date": "2020-05-10T19:53:49Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/P5BHn8uO2h7FZ8wJutEHhQ/o.jpg",
+          "caption": "Front Entrance - Host podium"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/I-l6CuA5Sa349IqkZHkdOA/o.jpg",
+          "caption": "Seared Pom Pom Mushroom Steak w/ assorted vegetables (CLOSE UP)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pjw_CZZ_NGCthbzKVfGM2w/o.jpg",
+          "caption": "Seared Pom Pom Mushroom Steak w/ assorted vegetables and Brown rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8H8h7VrmoiNjkdd4Y2D1TQ/o.jpg",
+          "caption": "Decent price"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nk3b84DAq7JZuziDdaEvpw/o.jpg",
+          "caption": "Spinach and Mushroom Ravioli in Curry aju w/ Edamame"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DiXCeCA6JYPeIUBcRwqjnw/o.jpg",
+          "caption": "If you see this sign then Parking is ok for Herban Fix Restaurant."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w1CH1C_pD8SohvwtaQjV0w/o.jpg",
+          "caption": "Full Bar Service at your disposal"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QpW1frZ5E4cPUVtpdqPuMw/o.jpg",
+          "caption": "Modified Hours"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ThfRCzBTk724oNmEwn2MCA/o.jpg",
+          "caption": "Keylime Pie w/ mint"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oD2T9iWUaAhaIopD3pjl5A/o.jpg",
+          "caption": "Open Kitchen and 2nd floor seating"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 2,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Sophie K.",
+        "user_id": "-OBCZTkgJRhi1ghT5R1DYw",
+        "link": "https://www.yelp.com/user_details?userid=-OBCZTkgJRhi1ghT5R1DYw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SEFultXG5j1wWQQnQgl4eA/180s.jpg",
+        "address": "New York, NY",
+        "friends": 706,
+        "photos": 543,
+        "reviews": 362,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I came here when a vegan friend was visiting town. I went back with a non-vegan, which should maybe say something. \n\nFOOD: Wonderful. The food here has a bit of an Asian flare, which is an interesting and tastey spin on vegan. My dad had the Seared Pom Pom Mushroom Steak (which I had last time I was here) which is great, especially if you like mushrooms. I had the Pean Seared Soy Fish with comes with kale and an AMAZING curry sauce. This sauce was also on our appetizer, the Sweet Pea Ravioli-- which holy moly was sooo good. \n\nSERVICE: Really great. Waiter was attentive, super nice, and entertained my dad's questions. \n\nAMBIANCE: Beautiful interior. High ceilings, nice decor, wide open space. Can see into the kitchen a bit, which I always enjoy. \n\nOVERALL: Great experience, good value. I don't give out 5 stars easily, but this place really is wonderful, even if you're not vegan.",
+        "language": "en"
+      },
+      "date": "2016-06-22T12:54:48Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/B5wXLz9D11x-rCkWvVS42Q/o.jpg",
+          "caption": "Pom Pom mushroom steak"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M43_IC-ymzlN4Yo8WUAoIA/o.jpg",
+          "caption": "Seared Soy fish with curry sauce"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FvpBC4brxroBmgRrulWZ0A/o.jpg",
+          "caption": "Sweet pea ravioli appetizer with curry sauce"
+        }
+      ],
+      "feedback": {
+        "useful": 6,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Jessica A.",
+        "user_id": "JL51vYTySetpIUc6ljtBaw",
+        "link": "https://www.yelp.com/user_details?userid=JL51vYTySetpIUc6ljtBaw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HYt-kr9LtBroDXEQWwj_Bw/180s.jpg",
+        "address": "Seattle, WA",
+        "friends": 19,
+        "photos": 96,
+        "reviews": 77
+      },
+      "comment": {
+        "text": "I was in town and on the hunt for vegan food (in 2020 prior to Covid) and this place popped up on my Google search. The atmosphere is so lovely and the staff is amazing. Perfect for a date night but also comfortable and casual enough for dinner with friends. I was served by Hannah WHO. IS. AMAZING. I came in during lunch hours (a little bit before they closed down to set up for dinner hours). Hannah took her time explaining the menu and helping us pick out food. We ended up talking for a good 20 min after receiving our meal and she gave us lots of vegan food  recommendation around the city. She is so sweet and has a passion for service and food. Now, let's talk about the food. The food was so delicious we had to come back the next day. The first day ordered the Crispy King Oyster Mushrooms, Pan Seared Soy Fish, and Coconut Soup. The texture of the Oyster Mushrooms were meaty and the sesame sauce that it came with was to LIVE for! I could drowned that over a tire. The soy fish was amazing. It has a strip of of nori around it so it gives this delicious fish like flavor. It's simmered in a yummy curry sauce. The coconut soup is light and filled with veggies. The combo of the lemon grass and the coconut milk is like loving marriage. The next day we ordered the Stir Fry Rice Vermicelli with mushrooms and seasonal vegetables, Seared Pom Pom Mushroom Steak with assorted vegetables, and Cashew Cheese Chocolate Cheesecake. Stir fry was delicious and the mushroom steak was MIND BLOWING! The texture was reminiscent of a juicy steak and was filled with flavor. I am not a fan of chocolate on chocolate deserts...but the chocolate cheesecake was BANGIN! This will def be my to go to spot whenever I am in town!",
+        "language": "en"
+      },
+      "date": "2021-07-14T16:49:21Z",
+      "rating": 5,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Rd2lMGMWP1ZSMBeuvF_piQ/o.jpg",
+          "caption": "Crispy King Oyster Mushroom Glazed"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/N14G1464zzcwGa5X4mPA4A/o.jpg",
+          "caption": "Pan Seared Soy Fish"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TDcvoDNGafgxjNBwuokmug/o.jpg",
+          "caption": "Coconut Soup"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/x99R_4_PqBcb5YPoUF5JIA/o.jpg",
+          "caption": "Dessert Tray"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kcgkIbJvU03WUXfU_-5jqA/o.jpg",
+          "caption": "Seared Pom Pom Mushroom Steak"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2LvSMQUO2uryEskk8U-GJg/o.jpg",
+          "caption": "Stir-fry Rice Vermicelli"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iye9ubM47IJXW2wQW3LdTg/o.jpg",
+          "caption": "Cashew Cheese Cheesecake"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Roz J.",
+        "user_id": "SJ7IbI1QVvia5muxByAv7w",
+        "link": "https://www.yelp.com/user_details?userid=SJ7IbI1QVvia5muxByAv7w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dgXFlE3ohlSWcACmVQh89A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 10,
+        "photos": 424,
+        "reviews": 161
+      },
+      "comment": {
+        "text": "It's your a vegan this place has really good food. My friends vegetarian so I treated her here for her bday. The food was not my kind but she loved it.  I enjoyed their dessert it was amazingly the highlight of my night.  \nThe layout was classy with open space concept. \nGreat place to great vegan friends or family.",
+        "language": "en"
+      },
+      "date": "2018-11-07T23:41:28Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/thgdFFZhCB93KgIJAuySyQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D44b7b2kgXg2VfcCiWSgew/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Bill D.",
+        "user_id": "_O8B-1Yg96JKI4cSoKeZCQ",
+        "link": "https://www.yelp.com/user_details?userid=_O8B-1Yg96JKI4cSoKeZCQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qjm6lFfmLiW6hzYe4xdpIw/180s.jpg",
+        "address": "Ridgecrest, CA",
+        "friends": 32,
+        "photos": 806,
+        "reviews": 205
+      },
+      "comment": {
+        "text": "Took an Uber ride across town to visit this place.. so glad I did.\n\nThe food was amazing and reasonably priced. The presentation of the food was excellent. I wanted to visit again but I couldn't afford another $50 for the Uber fares at the time. I was staying on the other side of town.\n\nThe wait staff are top notch. The place is upscale but they didn't mind that I was in a T-shirt and jeans. They made me feel welcome. They also went out of their way and let me borrow a phone charger because my phone had died.\n\nBased on the food alone this place deserves a 5 star rating but the staff deserves another 5 stars.\n\nHighly recommend and will visit again if ever visiting Atlanta.",
+        "language": "en"
+      },
+      "date": "2018-11-18T18:25:05Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3y722a6eZdsPrDGWC0QYdA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t1CVE10fkS2x3vJm3dzisw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OcBTLI32rVYUWRaLw4vlpQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7toTm2OAUqP8eSLTI92SbQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lKrpzp19Uo5KNH7M4QuPxw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Randy T.",
+        "user_id": "ITSnuLOu81doC5GGT5NMSQ",
+        "link": "https://www.yelp.com/user_details?userid=ITSnuLOu81doC5GGT5NMSQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VP1yYXa3MdsE3wd1BEXpCg/180s.jpg",
+        "address": "Boston, MA",
+        "friends": 306,
+        "photos": 1401,
+        "reviews": 501
+      },
+      "comment": {
+        "text": "Upscale vegan restaurant that serves up an Asian fusion menu that is tough to find elsewhere in Atlanta.  The interior of Herban Fix is modern and trendy.  Of the vegan restaurants I've been to in Atlanta, however, it is probably the best suited for a fancy date.  There's a brunch menu that is served on Sundays and a very expansive lunch and dinner menu served on the other days.  Soup choices include coconut and spicy tofu and salads are made of fruits, greens, or quinoa.  Appetizers include spring rolls, dumplings, ravioli, steamed buns, and sticky rice.  Entrees include hotpot, stir fry soy chicken, soy fish, grilled eggplant, and crispy oyster mushroom.  You can also order most of your favorite Asian rice or noodles vegan (Pad Thai, fried rice, soy beef noodle soup, and bibimbap).\n\nLocation/Parking: Herban Fix is located at the corner of Peachtree and Linden, two blocks south of Fox Theater and across the street from a huge parking lot.  The open parking lot is NOT where you park.  Driving south on Peachtree, turn left onto Linden and you should see a garage where you can park for free on the left side.\n\nOrdering Experience: Service is good and suited for a more upscale restaurant.  The servers were able to give good recommendations.  They will also show you the desserts available before you place your order.\n\nWhat I Tried:\nPan Seared Soy Fish with Organic Kale Simmered in Curry Laksa ($14) - The soy fish is even wrapped with seaweed to imitate the real thing more closely.   If you've eaten fishcakes before, the texture is about the same.  Less salty than store-bought fishcakes, which I think is a good thing.  Those familiar with non-vegan laksa will notice that the vegan version tastes a bit different, but the flavors of the curry are still strong and pair well with the soy fish.  For those with shellfish allergies, it is nice to be able to enjoy Southeast Asian flavors without worrying about which sauces have shrimp paste.\n\nSesame Ginger Soy Chicken & Shiitake Kebabs ($9) - Something that I would want to learn how to make for my next barbecue.  The soy chicken was well marinated and shiitake mushrooms just have a lot of flavor in general.  More tender than regular chicken but not quite the same as tofu.\n\nVerdict: Herban Fix is vegan and healthy - so the dishes will be less filling than their non-vegan counterparts.  That being said, you may have to spend a bit more to get full.  At the same time, from a taste standpoint it's the best vegan I've eaten in Atlanta so far.  If you can splurge a bit I would say it's worth the experience.",
+        "language": "en"
+      },
+      "date": "2018-05-15T11:18:58Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZPR-fE04wwWUL6GsRuysjw/o.jpg",
+          "caption": "Sesame Ginger Soy Chicken & Shiitake Kebabs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JQ_ufhIu3TDXfiQgLHmCWw/o.jpg",
+          "caption": "Pan seared soy fish with organic kale simmered in curry laksa"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mdCVC8y6DyAXp9dxZNGSzA/o.jpg",
+          "caption": "Chocolate ganache"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 1,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Karen G.",
+        "user_id": "kme90qFqjjAS_gisyONmww",
+        "link": "https://www.yelp.com/user_details?userid=kme90qFqjjAS_gisyONmww",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gRqTyCHmebJNzpyPssHAGg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 63,
+        "photos": 2215,
+        "reviews": 165,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Visited here on Saturday night to celebrate my birthday and enjoyed my time and the food tremendously! I had everything; fresh drinks, appetizers, main course and dessert!\nOur waiter was funny and gave us great advice on selecting the dishes and the host/manager was equally enjoyable! We will be visiting again for brunch!",
+        "language": "en"
+      },
+      "date": "2016-07-12T22:39:03Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WeMnk4yBr9hg32Tpdgn7-w/o.jpg",
+          "caption": "Appetizers with Kimchii"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/n-3qMojGdxuDKUXDsmYs1g/o.jpg",
+          "caption": "appetizers"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/09BQlDRE5iQh422l413UWg/o.jpg",
+          "caption": "Fresh Juice: Refresher"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YLE3saanYt3gxYhXy1xRZg/o.jpg",
+          "caption": "Fish"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pT6S5pK_9J-BmaUmHs-kkQ/o.jpg",
+          "caption": "Chicken"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AJmuIqlYEegNIinXMFrbAQ/o.jpg",
+          "caption": "Blended rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZwXtEz_qEBhnjhd9AEVvsg/o.jpg",
+          "caption": "Eggplant- this was my favorite dish we all tasted each other's meal the soy fish, soy chicken, and I preferred mine by far!!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w9CAucGCDZVvRAoxI9TzbQ/o.jpg",
+          "caption": "Sweet, sweet carrot cake!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/i44FVxc34qyKMWLkWgPQ-A/o.jpg",
+          "caption": "Nice set-up"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/z-ef5-pGGR3W9fQUU0lWfg/o.jpg",
+          "caption": "Dessert Table"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Rich S.",
+        "user_id": "Bx_wXVBsBBS46ZSaYdD5Iw",
+        "link": "https://www.yelp.com/user_details?userid=Bx_wXVBsBBS46ZSaYdD5Iw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pcqQcpE8tVjPCxIlCC6wvQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 0,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "I love this place.  I have NEVER had a bad meal and I am no Vegan.  Donald the owner is so pleasant and always welcoming.  Great Atmosphere.",
+        "language": "en"
+      },
+      "date": "2021-08-04T19:46:43Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rebecca R.",
+        "user_id": "o1K_wQexBX4YNLiIegYT2Q",
+        "link": "https://www.yelp.com/user_details?userid=o1K_wQexBX4YNLiIegYT2Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/k8oM2I3rvcp_BwKJEv1ecQ/180s.jpg",
+        "address": "Lancaster, PA",
+        "friends": 0,
+        "photos": 11,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "We were visiting over the holidays and I needed a good vegan meal! This was the closest vegan restaurant to us and has free parking inside a parking garage in Linden street. It is attached to a hotel and has a really nice, upscale look from the outside and when you first walk in. Once we were taken through and sat down though, I found the ambience a little confusing! It's open plan with an open kitchen (which I like) but it also felt like it was somewhere in between fine dining and casual. \n\nThe lunch menu is fully Asian, which was a little disappointing, but there was a lot of variety. My husband and I started with the fried dumplings with kimchi which were so good! We would have loved more. We then both got the hotpot and were concerned it wouldn't be filling, but it was well presented, we both really enjoyed it and it also came with a side of rice.\n\nThe dessert selection is brought out to you and they all looked delicious. We shared a slice of carrot cake which, again, was well presented and delicious!\n\nService was prompt and professional. Price points were reasonable.",
+        "language": "en"
+      },
+      "date": "2018-12-27T14:58:24Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UwagKi0PAE2fckPNDngv5w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zTDfLO3RxkVLQ1iTjMNsYg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4O5x7WT7i-sjLprbIR2aBQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KbyGreo21t24oeA5AiiJew/o.jpg",
+          "caption": "Hot pot with taro, tofu, vegetables and glass noodles"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aJJtfvI4EjVgfIEOeoRkhQ/o.jpg",
+          "caption": "Vegan carrot cake"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jen R.",
+        "user_id": "IcJfiXkrYuu30aVxnY1Z0Q",
+        "link": "https://www.yelp.com/user_details?userid=IcJfiXkrYuu30aVxnY1Z0Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fdakJKYhRmXXJrUIa-MrDQ/180s.jpg",
+        "address": "San Francisco, CA",
+        "friends": 55,
+        "photos": 0,
+        "reviews": 53
+      },
+      "comment": {
+        "text": "I was really disappointed with the food here, especially given the high prices and great reviews. Me and my date tried the scallion pancakes and fried duck buns for appetizers, he had the soy chicken dish and I had the beef noodle stew. \n\nThe scallion pancakes were cold, bland and greasy. I'm used to Korean scallion pancakes which are packed with flavor, but these were not. The duck buns were ok; the flavor of the dish was good with the housin sauce and crispy duck substitute, but the buns were cold and flat instead of being warm and chewy.\n\nMy date's soy chicken dish was tasty but he commented on the strange shape of the \"chicken\" which was thinly sliced and not like any chicken dish really. It was more like a scalloped potato with more flavor. \n\nI almost sent my beef noodle stew  back. The noodles were slightly undercooked which didn't help the dish. Instead of being a stew, it was really just a simple bowl of not-so-delicious ramen. The stock was a spicy five spice flavor with a few hunks of carrots in it. There were maybe 5 chunks of soy beef which was the best part of the dish but then after eating them I was left with a bowl full of undercooked noodles which I ended up wasting. I could have cooked tastier noodles at home for a fraction of the price. All in all, very disappointing!",
+        "language": "en"
+      },
+      "date": "2020-10-16T15:30:59Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Misty S.",
+        "user_id": "1pzP58PeWictHQzctMU0nQ",
+        "link": "https://www.yelp.com/user_details?userid=1pzP58PeWictHQzctMU0nQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/eUldHHHvqlpXdrM0T-xThQ/180s.jpg",
+        "address": "Carol Stream, IL",
+        "friends": 1652,
+        "photos": 48666,
+        "reviews": 1494,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This vegan and vegetarian restaurant will win over meat lovers, including myself.  The menu was filled with ingredients I'm not familiar with - galangal, enoki, baozi, Ponzu, aburaage, etc.  It's helpful to look at pictures beforehand or just go with the other ingredients that sounds familiar.  I feel like you can't really go wrong with any of the dishes here.  The food is gourmet and beautifully presented.  I liked everything I tried during my dinner here.  Overall great menu, good food, but on the expensive side.\n\nThe décor is modern and classy.  The service was good, albeit on the slow side.  I ordered a glass of wine and they seemed a little skimpy on the pour.  \n\nSpicy Tofu Soup $6 - This soup was good, filled with tofu and mushrooms, and not too spicy. \n\nVeggie Spring Roll $7 (2) - A step above your average spring roll, great flavors and wrap.\n\nSteamed Bun with crispy soy duck $9 (2) - I'm not sure I would have guess duck, but it was very tasty.\n\nPan Seared Scallion Pancakes with curry dip $6 - These were ok, more on the bland side.\n\nSeared Pom Pom Mushroom $19 - Served with a side of rice.  I had a bite of this popular dish and it was good.\n\nStir-fry Soy Chicken $18 - Served with a side of rice.  Taste and feel like chicken, it's amazing! \n\nThe Brussel sprouts were cooked perfectly.\n\nTruffle Wild Rice with assorted mushrooms $17 - This was my main dish of the night and I really enjoyed it.  It tasted like a very good fried rice with lots of mushrooms, very flavorful!  I didn't taste the truffle, but the flavors that were there were great.\n\nFor dessert, they offered different types of cakes and gelato.\nCardamom gelato $7 - Pricey but delicious!  It reminded me of those Indian sweets (the cookie looking ones).  I also tried a bite of the Espresso gelato, which was also good.\n\nFree parking in the garage around the corner from the restaurant on Linden St.  There's a sign by the garage entrance with the space numbers allocated to the restaurant.",
+        "language": "en"
+      },
+      "date": "2016-04-04T15:58:59Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XjcHMkAtdxe9_wCCNcIYJw/o.jpg",
+          "caption": "Entrance"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SzM7-9PjOQxtItWVTYJybw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Rp7P6a7f9ga6GO0s4JaL8Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TcGISF4zD9d1M1iWYhmq6w/o.jpg",
+          "caption": "Veggie Spring Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Oy_QXi7kVG-v6Sc_0SRIAA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Tq7SY1-q2574_7ASfrF1KQ/o.jpg",
+          "caption": "Stir-fry Soy Chicken"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lMKlwXtYCHQ23ZtWjBuCog/o.jpg",
+          "caption": "Parking"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LBymHZMluQcH7yWzADwPtQ/o.jpg",
+          "caption": "Pan Seared Scallion Pancakes with curry dip"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CPLr6iML5JFXcz4RaTB8Ww/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TComMwQ1t5X2eRWxwmYp9g/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 1,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Daniel B.",
+        "user_id": "j14WgRoU_-2ZE1aw1dXrJg",
+        "link": "https://www.yelp.com/user_details?userid=j14WgRoU_-2ZE1aw1dXrJg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AZ91dRaJnhwWt6ARSNVc3A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 4855,
+        "photos": 87990,
+        "reviews": 4856,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Herban Fix serves tasty Asian vegan food in a relatively upscale setting. The restaurant opened in December 2015 in the old Dogwood space on the ground level of The Reynolds condominiums, across the street from Emory University Hospital Midtown. Plenty of easy-to-find free parking is available in The Reynolds parking deck, accessible behind the restaurant via Linden Ave. Parking spaces #1-53 are reserved for Herban Fix customers.\n\nI'm not vegetarian nor vegan. My experience with vegetarian and vegan restaurants is very limited, so I don't have much to compare Herban Fix to. However, for dishes that didn't contain any meat or animal products, I thought the food here was pretty good. It's certainly healthy, which makes this place a great dining out option if you're looking to eat smarter.\n\nThe head chef, Wendy Chang, used to work at various Asian restaurants in metro Atlanta. She's Taiwanese. The restaurant serves lunch, dinner, and a Sunday brunch buffet. The food spans all sorts of Asian cuisine including Chinese (e.g. ja jiang noodles, steamed buns, pan-seared dumplings), Japanese (sesame gobo root, seaweed salad), Korean (organic bibimbap), Malay (pan-seared soy fish with organic kale in curry laksa), Thai (coconut soup, pad Thai noodles), and Vietnamese (spring rolls, described as \"crystal rolls\" on menu).\n\nAt lunch and dinner, appetizers, soups, salads, and sides are priced at $6-13 each. At lunch, entrees, rice, and noodle dishes are $12-15 each. At dinner, they're $15-19 each. Sunday brunch is offered from 11am to 3pm and costs $25 per adult and $12.50 per child aged 12 and under. Juices cost roughly $7 each.\n\nWe visited for Sunday brunch. I tried everything on the self-serve buffet. Here's a list of what was available:\n\nMain buffet in front of the open kitchen:\n* Legumes & quinoa salad\n* Mini pom pom mushroom cakes\n* Asian pancakes\n* Grilled portobello mushrooms\n* Bamboo shoots salad\n* Japanese seaweed salad\n* Salt & pepper soy chicken\n* Tofu crystal rolls\n* Kale & quinoa sushi rolls\n* Sesame gobo\n* Potato salad balls with vegetables\n* Fried zucchini\n* Mini pan-seared buns\n* Taiwanese noodles\n\nWok table (each of these was in a wok):\n* Sauteed chayote\n* Tofu scramble\n* Taiwanese spicy soy meat\n\nDessert table:\n* Flan\n* Various truffles\n* Rice balls\n* Fresh fruit\n\nMy favorite items were the grilled portobello mushrooms, Asian pancakes, Japanese seaweed salad, salt & pepper soy chicken, mini pan-seared buns, Taiwanese noodles, Taiwanese spicy soy meat, and flan. The portobellos were sliced into thin strips and were cooked with a savory sauce. The pancakes were flaky and appetizing. They came with a wonderful curry sauce.\n\nThe seaweed salad wasn't different than the seaweed salad you can get at most Japanese restaurants. Heck, it's even comparable to the stuff you can buy, ready to eat, in the plastic containers at H Mart, but it was still good. I'm a sucker for seaweed salad.\n\nI tried a fresh batch of the salt & pepper soy chicken and enjoyed it. The outside of the morsels were crispy and nicely seasoned, reminiscent of the salty and spicy Taiwanese-style chicken nuggets you can get at boba tea places like Quickly and Sweet Hut. Admittedly, it's not as good because it's not real chicken, but it's a worthy substitute.\n\nThe mini pan-seared buns burst with flavor. I was surprised and impressed. Same goes for the Taiwanese noodles. Those were served in individual bowls. The noodles were delectable. They came with mushrooms, a bit of scallion, and an addictive, vinegary sauce. Yum. The Taiwanese spicy soy meat reminded me of a smoky beef stir-fry. I'm not sure what they make these various \"meats\" out of, but the consistency of this one reminded me of tofu skin.\n\nThe flan was served in small cups. Each serving was topped with blueberries, chopped strawberry, and a blackberry. The flan was a little runny, but sweet and delicious. I slurped it all up. All of the fruits, including on the flan and the ones served separately (cantaloupe, kiwi, pineapple) were perfectly ripe. Of the fruits, I liked the kiwi the best.\n\nThe mini pom pom mushroom cakes tasted funny to me, but not in a bad way. I'm just used to meatballs tasting like beef. These definitely did not taste like beef (or any meat for that matter). The sushi rolls were unexpectedly decent. In addition to kale and quinoa, they were made with brown rice, seaweed, and avocado.\n\nI liked the sesame gobo. It's Japanese burdock root that's sticky and sweet. I think the staff needs to find a better way to serve it though. There was one big mound of it on the buffet and I saw several customers struggle to break pieces off for their plates.\n\nOther notes: Chayote is kind of like squash. The tofu scramble is like a mild non-meat version of mapo tofu. The fried zucchini is prepared like tempura.\n\nService was fine. At brunch, there were a bunch of old Asian ladies working in the kitchen. To me, it felt like a group of Asian grandmas getting together to make us brunch!",
+        "language": "en"
+      },
+      "date": "2016-02-23T14:54:05Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2_4cfyaUwIcbDrV7INj_kg/o.jpg",
+          "caption": "Outside. Storefront. Entrance. On Peachtree St across from Emory University Hospital Midtown."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fKpOMSUpp9cBF8Kg_jlyjg/o.jpg",
+          "caption": "Mini pan seared buns. Sunday brunch buffet."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CrabbAN9IDJfeeEp4DpWPA/o.jpg",
+          "caption": "Outside. Storefront. On Peachtree St across from Emory University Hospital Midtown. Free parking available in parking garage on Linden."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Gh2zzVQnqAQrVxRJsF1WPw/o.jpg",
+          "caption": "Sunday brunch buffet. Open kitchen."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mxlqzkpwWiW5Hn8rO8JeLg/o.jpg",
+          "caption": "Tofu scramble. Sunday brunch buffet."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VisY69iVnGNrgBSX3k4stg/o.jpg",
+          "caption": "Dessert table. Sunday brunch buffet."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qw6YdWFIz-8ir39BwhHSqQ/o.jpg",
+          "caption": "Sesame gobo, potato salad balls with vegetables, fried zucchini, kale & quinoa sushi rolls, tofu crystal rolls. Sunday brunch buffet."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uD36uXYWjSTCobNFyaAyDg/o.jpg",
+          "caption": "Dessert table with fresh fruit. Sunday brunch buffet."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FpCVfo1tqkd_v6wDPudxjA/o.jpg",
+          "caption": "Asian pancakes. Sunday brunch buffet."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iaELRTWK1XyJDhGJ1AGsJQ/o.jpg",
+          "caption": "Taiwanese noodles. Sunday brunch buffet."
+        }
+      ],
+      "feedback": {
+        "useful": 25,
+        "funny": 3,
+        "cool": 11
+      }
+    },
+    {
+      "user": {
+        "name": "Allie G.",
+        "user_id": "SCailpi8SV8yg5wZsPASmA",
+        "link": "https://www.yelp.com/user_details?userid=SCailpi8SV8yg5wZsPASmA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dteoazHiP5KecBPnpoRX5g/180s.jpg",
+        "address": "Foley, AL",
+        "friends": 2,
+        "photos": 15,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "who knew vegan food was good ?!?! my pad thai was so delish i was licking the bowl. the vibe was nice too. it was fancy but casual! i love that definitely a fun place to stop by for lunch but only if you have a higher budget because the prices are pretty high. i mean $10 for a small bowl of fruit is pretty ridiculous but hey it's my only complaint!",
+        "language": "en"
+      },
+      "date": "2021-07-17T19:03:40Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YxZbyHvglmwAHAIvO3RvCQ/o.jpg",
+          "caption": "Pad Thai"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nicki K.",
+        "user_id": "5Mk754BCQFmpKwlfqSmqzQ",
+        "link": "https://www.yelp.com/user_details?userid=5Mk754BCQFmpKwlfqSmqzQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/b8VH2JroOmd2dK6mFY08cQ/180s.jpg",
+        "address": "Duluth, GA",
+        "friends": 417,
+        "photos": 6217,
+        "reviews": 1286
+      },
+      "comment": {
+        "text": "Since becoming vegan, many people have told me to check out Herban Fix. What stopped me from coming sooner was the fact that I wanted most of my meals to be soy and gluten free. That's what mock meats are made from.\n\nBecause I wanted to really check out Herban Fix, I decided to finally give it a try. It's not like I eat soy or gluten that much throughout the week. I planned it a month in advance because the lunch buffet is only available once a week on Sunday's. Plus I wanted to share my vegan experience with someone with the same interest.\n\nMy co-worker started her vegan journey a month or so before I did so I asked her to tag along. Because I read about how crowded it could get at Herban Fix, I decided to make an online reservation. I'm telling you, right when we got there a little before 11 am, we already saw people lined up inside!!! They will not seat you without everyone in your party present. If you don't have a reservation, it's okay but your full party must be present before sitting down.\n\nI am glad I reserve for 11 am when they opened so that we could get seated. There is upstairs seating too so I wouldn't like to walk up and down to the buffet area downstairs.\n\nFood on the buffet wasn't ready right away. Despite this, the waiter asked if we wanted Tom Yum soup, which isn't on the buffet and he has to get. He emphasized that it is vegan. Everything they serve is vegan. Some items are gluten free. Others are soy free.\n\nAfter our tom yum soup came, the waiter told us, food on the buffet is ready. We got up to check it out. We were the first ones there. Although the area my look small. Trust me, there are plenty of food choices there. We took a little of everything but yet our plate was overfilled with food! It was a great problem to have. We haven't even got any desserts yet!!\n\nMy friend is not a sushi fan but took one to try and loooved it...so much that she went and got seconds. That's telling you something! The sushi is very delicious! We both agreed that the soy shrimp is our faves. It tasted so good, you wouldn't have known it's not \"real\" shrimp.\n\nThe banh mi was good too. It was like a chicken salad type of meat that was spread inside. You couldn't tell it was any in there cause it was the same color as the white bread but after biting into it, you could taste it.\n\nI really loved the pickled cucumbers. It was sweet, sour, and had that crispy texture after biting into it. \n\nHonestly, we were so full after 1.5 plates of food but we had to taste the desserts. I went and got one plate of the desserts so we could share.\n\nEverything on the dessert was yummy. Coworker is not a tapioca fan but loved the tapioca desserts there. I told her about the taro flavor in one of the tapioca desserts. The chocolate desserts were really really good too!\n\nHerban Fix is just a must try out for vegans. Even if you're non vegan, you won't be disappointed. It's the ONLY vegan restaurant in Atlanta that I know of. Don't get me wrong. You will find vegan options at other vegetarian options but ALL the food items are vegan at Herban Fix.\n\nOh yeah, free parking on the side of the building, lots 1-53. Quality food with quality service! Will come back.\n\n14/2018",
+        "language": "en"
+      },
+      "date": "2018-02-04T22:41:02Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GwF5mF3Nds4H6phWKzlntA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jTHRpcPDMKzdBvbtBKu4mQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JCtRzSW0XNOQpB0vZK0fbw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Spf9YcYRduDdrhGB72Qd4A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9cPKBED_o5KYXPLm8-FFcg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/G4AbssvO2ddwdFQMkDb2Rw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zGLgEgNUPw2x7H45NE_6Qw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bXvWHVv0CLyto_mD17nqrw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E-mHq8ZWB8Yp84apK5xWZQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CqS5XzKzuinwfnNnQh8PQQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 10,
+        "funny": 3,
+        "cool": 6
+      }
+    },
+    {
+      "user": {
+        "name": "Tiffani M.",
+        "user_id": "qqAxcl6WS86gwIc0nyAyVg",
+        "link": "https://www.yelp.com/user_details?userid=qqAxcl6WS86gwIc0nyAyVg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7GrrL8wJPWIStATAZi9Xdg/180s.jpg",
+        "address": "Dallas, TX",
+        "friends": 78,
+        "photos": 235,
+        "reviews": 69
+      },
+      "comment": {
+        "text": "I feel like I'm so late to the game in discovering this restaurant. I work (and as of just recently used to live) a few blocks north. I'm so glad that all roads (well, Peachtree Street mostly) led me here. I assure you that vegans/vegetarians and meat-eaters alike can find tasty options here. I'm not a certified vegan or vegetarian, but I do dabble in that lifestyle occasionally. \n\nEven after reading reviews here on Yelp stating that this restaurant is in The Reynolds condo building, I didn't expect to walk into the contemporary fanciness that is Herban Fix. It gives you the feel of an upscale hotel restaurant. I stopped by for lunch on a Thursday around 12:30. I was greeted at the hostess stand and escorted to my table. During that walk, I quickly erased my mental plans of ordering takeout and getting back to the office. I decided to sit on down and treat myself. Seating options include booth style and tables/chairs. At this time of the day, there were about six other parties dining in. One thing to note in case you may have extra sensitive allergies: there are small live potted plants on each table. I'm not sure what kind of plants they are, but maybe call ahead to see if a table can be cleared if that may bother you.\n\nMy server, Rachel, was nice and attentive the entire time. I ordered water and as a starter, the coconut soup. Y'all...the coconut soup here has officially ousted that of another restaurant which I ranked as the best in Atlanta! OMG! It is tangy with the perfect milky consistency. If you order it, you'll see the lemon and cucumber slices making it look oh so pretty and taste oh so delightful. I highly recommend trying the coconut soup. For my entree, I ordered the eggplant - another delicious selection from the menu. The eggplant slices are fried/breaded and topped with a sweet and sour sauce, and diced mango and peppers. You won't even know you're eating a vegetable. I paid about $20 for the food and a tip. For me, this place missed zero marks and was worth every penny.\n\nThere is reserved Herban Fix parking in The Reynolds garage free of charge. You don't even have to pull a ticket. The entrance is on Linden. After parking, I walked out of the garage toward Peachtree, looped to the right, and entered right into the restaurant (the door is labeled).",
+        "language": "en"
+      },
+      "date": "2018-03-23T20:44:04Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EmggCIafrDaCRAI8Anl0sQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L8GU9tGBq6onm8tOjrtlxQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RIBo9UB5ekh84slfp2n9Pg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QIpzFIUroUeXVBFy4GDpkQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/B820hrWot-tDjGayUzs1oQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gm-8C7GUMI7tcFCDz-xbvw/o.jpg",
+          "caption": "Crispy, tasty eggplant"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Monique J.",
+        "user_id": "M2eGjG1B9o06LE0kNr1srw",
+        "link": "https://www.yelp.com/user_details?userid=M2eGjG1B9o06LE0kNr1srw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/j7-C89Muuc9SUrHSFajPww/180s.jpg",
+        "address": "Tucker, GA",
+        "friends": 53,
+        "photos": 182,
+        "reviews": 56
+      },
+      "comment": {
+        "text": "I dined in at Herban Fix for the first time ever yesterday.  I went for Sunday brunch, and it did not disappoint.  The restaurant is Asian cuisine and for Sunday they have a buffet.  I'm okay with buffets but for those who are skeptically please fret not.  The restaurant and their buffet is kept clean, it's near the kitchen, and the workers are consistently putting out fresh foods. I came with a party of 7, and everyone tried and enjoyed all the foods.  \n\nThis is a 100% vegan spot, but who knew Asian food prepared vegan could be sooo good!!! I had tried too many dishes to name, but as a baby vegan I tried for the first time \"vegan shrimp\" here and it was delicious.  \n\nI recommend if planning to try to brunch to make a reservation as I did to ensure seating. FYI, for parties of more than 1, they only expect one form of payment(so bring cash if wanting to split payments).  Brunch is affordable priced and they even offer unlimited mimosas if your interested (for an up-charge).  They have free parking in the garage on the side of the building, however it is limited as the garage is shared with residential.\n\nI definitely highly recommend Herban Fix and will back again for brunch and to also to try their lunch and dinner menu.",
+        "language": "en"
+      },
+      "date": "2018-01-23T04:12:48Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 6,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Rashod C.",
+        "user_id": "BVOmiULgB-fMK2QNI4mv0Q",
+        "link": "https://www.yelp.com/user_details?userid=BVOmiULgB-fMK2QNI4mv0Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ukHTfWL5V2r86OmfXQuf5A/180s.jpg",
+        "address": "Doraville, GA",
+        "friends": 2,
+        "photos": 37,
+        "reviews": 19
+      },
+      "comment": {
+        "text": "My friend and I went to this amazing place out of curiosity .\nThe location is wonderful and they provide parking close to the restaurant; in a parking deck (secure)\nThe aesthetics of the actual restaurant from the outside and inside are beautiful, also the location is pretty active .\n\nThe food in the pictures was absolutely amazing , but the tan colored cake and the old fashion chocolate cake were not good in my opinion (kinda stale) \n\nI would've absolutely provided another star if :\n\n1.) The wait to get your actual entree was way too long , but the appetizers were delicious.\n2.) There weren't any napkins \n3.) Softer Cake  \n\nIt was still overall an amazing experience and I will absolutely be coming back",
+        "language": "en"
+      },
+      "date": "2018-08-28T18:26:56Z",
+      "rating": 4,
+      "tags": [
+        "9 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M-Y0ZVGvGn3cryA9m32k-Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rP2KJA9ZgJgaDNNeqM7N5A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Y7RDSUihFhZ6I5AV-5wi7w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Cl8N-zDuvoo3nRsXxcDkjQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LGZ8x5tTlGz-Ysmv-EsrFA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/j4M8Ekct94B18VCD1tIwsQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/C52llOVlIPXIevZlkybAaQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Y8iMOWHWNwLdcNRo_HQgCA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xTHU88wiIjU0VCkINvHoqA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chelsea C.",
+        "user_id": "Fb0Frfk-DstqWkzq9vGDrA",
+        "link": "https://www.yelp.com/user_details?userid=Fb0Frfk-DstqWkzq9vGDrA",
+        "address": "Denver, CO",
+        "friends": 438,
+        "photos": 33,
+        "reviews": 61
+      },
+      "comment": {
+        "text": "Wow, this was super tasty and the menu offered a lot of variety. Certainly not leaving hungry",
+        "language": "en"
+      },
+      "date": "2021-08-21T22:23:51Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Z36hPw6vLehB25f1WZvL9A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8pYMy0vr4R7-dZYZgkftcw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Eleanor R.",
+        "user_id": "oGNWYU2eiwLv-ftgV3JQxA",
+        "link": "https://www.yelp.com/user_details?userid=oGNWYU2eiwLv-ftgV3JQxA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xmTOmAhisRYMcskJfrZylQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 320,
+        "photos": 1501,
+        "reviews": 215
+      },
+      "comment": {
+        "text": "My spouse and I had the opportunity to enjoy this restaurant on its last day before Coronavirus lockdown. All the meals were fresh and delicious! My spouse ordered his entree twice it was so good! And he finished both. Also great cocktails. Beautiful decor and clean bathrooms. We will come back here again once they reopen.",
+        "language": "en"
+      },
+      "date": "2020-03-23T21:27:18Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5QmPUglCLPTUvPqQXCCVcg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1zSusveiZ1h8ldx1tpKAsg/o.jpg",
+          "caption": "The Vegetable Spring Rolls +  Cucumber  Drink"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aVahbyvBbN50ytz1MQ5Dsw/o.jpg",
+          "caption": "Coconut Soup"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YI3ry4c0WUWihzv4VduD0g/o.jpg",
+          "caption": "Vegan Creamy Curry Broth"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L1b7fhRDgYaXhNWB4j0S7Q/o.jpg",
+          "caption": "The Truffle Wild Rice Topped"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Amy S.",
+        "user_id": "jr6Fvs6ONtmtXSGZKCJZEg",
+        "link": "https://www.yelp.com/user_details?userid=jr6Fvs6ONtmtXSGZKCJZEg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YjkRIcMnt0EvmNCCoAjvjg/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 104,
+        "photos": 223,
+        "reviews": 185
+      },
+      "comment": {
+        "text": "Went here during a trip to Atlanta. This is an absolutely delicious all vegan Asian fusion restaurant. It was similar to Planta in Toronto. I went here with my mom and we shared appetizers. We got the spring rolls, steamed buns and scallion pancakes. The spring rolls were very good but typical of any very good spring roll. The steam buns were quite delicious. They had crispy soy duck, cucumber and cilantro inside. I've never eaten duck before but the vegan version was good. The star was the scallion pancakes. They were this wonderful eggy texture that I can't figure out how they made vegan served with a yummy curry sauce. My only complaint is I was disappointed with the dessert. I was hoping for a more Asian inspired dessert but they just had traditional American cakes. We got the Hummingbird cake. It was okay but kind of dry and obviously vegan. The savory food was good enough to make up for the lack lister dessert. Would definitely recommend if in Atlanta but would skip dessert unless they improve the menu",
+        "language": "en"
+      },
+      "date": "2022-05-17T14:59:09Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rae M.",
+        "user_id": "PpwrLJY0_xDNuwWG9-s7uA",
+        "link": "https://www.yelp.com/user_details?userid=PpwrLJY0_xDNuwWG9-s7uA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Yz5dMyKiF69IFHvPDQ-DDw/180s.jpg",
+        "address": "Washington, DC",
+        "friends": 0,
+        "photos": 11,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "The service was excellent! These entree's  and dessert were delicious! I have no pics of our appetizers, because they were eaten prior to taking these pics...lol The decor was great as well!",
+        "language": "en"
+      },
+      "date": "2020-11-23T17:03:33Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WzYaKW2Zfb5M5ZaQTyfewg/o.jpg",
+          "caption": "Chocolate Mousse"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/b9mjUf55Ju8fcvOGLBa-LA/o.jpg",
+          "caption": "Pan Seared Soy Fish"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/umdQYe_9qIrJKkN6Wff0ow/o.jpg",
+          "caption": "Seared Pom Pom Mushroom Steak"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Keisha W.",
+        "user_id": "WJ04SVNl485w8bFeEIsZIQ",
+        "link": "https://www.yelp.com/user_details?userid=WJ04SVNl485w8bFeEIsZIQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2RXcbAq5_7G5CElQyzJWCA/180s.jpg",
+        "address": "GA, GA",
+        "friends": 246,
+        "photos": 510,
+        "reviews": 97
+      },
+      "comment": {
+        "text": "This restaurant helped confirm my destiny as an up and coming vegan! \n\nTHANK YOU HERBAN FIX!! \n\nLocated in downtown Atlanta this restaurant couldn't be in a better spot than it is. Parking was a breeze either metered on the street or you could pick a parking garage, the choice is yours.\n\nOrdering:\n1. Spring Rolls: Were flaky and tasty. Quite satisfying for my fried food craving. \n2. Scallion Cakes: At least I think this is what it's called. This cake was amazingly yummy.\n3. Sweet Pea Noodles...: I know this is the incorrect name, but I love these. The boyfriend wasn't a fan. However he also doesn't like peas or beans.\n4. Asparagus: WINNER this is all\n5. Chocolate Cake: It's an acquired Tate's for someone not use to non dairy based desserts. I'd try it again though.\n\nVerdict: This is a must place to visit VEGAN or NOT!",
+        "language": "en"
+      },
+      "date": "2017-10-27T10:25:19Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_XxHFmw0374VaXcQqIL8ag/o.jpg",
+          "caption": "Old Fashion Chocolate Cake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5mCGD_qzfVlO4oYCDt6b9Q/o.jpg",
+          "caption": "Crispin Cider"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cCPGgkH3UR5m9Iiihieh0Q/o.jpg",
+          "caption": "Roasted asparagus"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YIkRB3mtPXna5GqmyB2uMA/o.jpg",
+          "caption": "Pan seared scallion pancakes w. curry dipping"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/g7xZPz4IB4N13OPvxoPGEw/o.jpg",
+          "caption": "Vegetable spring rolls w. glass noodles & turmeric sauce"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WYYiV4Z0CfeK9PLXFg84-A/o.jpg",
+          "caption": "Sweet pea ravioli in curry jus w. leeks & assorted mushrooms"
+        }
+      ],
+      "feedback": {
+        "useful": 8,
+        "funny": 5,
+        "cool": 7
+      }
+    },
+    {
+      "user": {
+        "name": "Charles S.",
+        "user_id": "0MeivhX0kZCfV3zMtHtk9Q",
+        "link": "https://www.yelp.com/user_details?userid=0MeivhX0kZCfV3zMtHtk9Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MfnFhoWrJfq6qIbzAsn18Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 343,
+        "photos": 491,
+        "reviews": 1022,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I've now been to Herban Fix three times.  And each time it's been  real treat. It's Asian fusion vegan food.  \n\nThe space is lovely.  The staff is both welcoming and helpful. There's free parking under the building (entrance to parking on Linden Avenue).\n\nBut best of all the food is great.  If all vegan food were this good, we'd all be vegans.\n\nI met a work contact at HF for lunch today.  We split an appetizer of Korean pancake with dipping sauce.  (It's appetizer sized, cut into fourths. It's not 24 inches across like in a Korean-Korean restaurant.)\n\nMy lunch friend had vegetables in Thai yellow curry, which she really liked. I had the \"seared pom pom mushroom steak with assorted vegetables.\" Despite the fancy name, it was actually very good.  For dessert we had green tea ice cream and a kind of vegan flan.  \n\nOne problem.  A personal problem.  The names of the dishes are complicated and I can't remember what I ate on my previous visits.  The upside is that thus far everything has been very good.",
+        "language": "en"
+      },
+      "date": "2018-08-07T21:32:10Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Sharon R.",
+        "user_id": "W1JxeFHz2JNKBzE1zm7WuQ",
+        "link": "https://www.yelp.com/user_details?userid=W1JxeFHz2JNKBzE1zm7WuQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UbbH-ysBB_RwJ1Z0yIJ0rg/180s.jpg",
+        "address": "Rockville, MD",
+        "friends": 31,
+        "photos": 1067,
+        "reviews": 513
+      },
+      "comment": {
+        "text": "Five stars for the food from the all you can eat brunch.\n- Sundays\n- 100% vegan\n- [very] pricey, but delicious, I think it was about $30\n- The brunch had it all. Sushi, dumplings, salad, pastries, all sorts of imitation meats\n- the service was meh. Strangely unhappy with us wanting to get a table that would sit the large group of friends we had coming, despite not having a large crowd. Also noticeably unhappy when we didn't order alcohol\n\nLunch was a 3/4 star\n- still 100% vegan, which gives it an extra point\n- food was okay, but not cheap still, and unlike the brunch, comes in small portions\n- service was still megh \n\nPersonally, I'd definitely go back for brunch if I'm in Atlanta, but may give another vegan restaurant a try for lunch.",
+        "language": "en"
+      },
+      "date": "2019-11-26T04:55:47Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 4,
+        "funny": 1,
+        "cool": 2
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=uZaT6J821lHMFrfrFno7lg&start=190"
+  }
+}

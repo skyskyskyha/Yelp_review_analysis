@@ -1,0 +1,2217 @@
+{
+  "search_metadata": {
+    "id": "65ef2e4947ccf1a34f076680",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cba2f21086e022a5/65ef2e4947ccf1a34f076680.json",
+    "created_at": "2024-03-11 16:16:09 UTC",
+    "processed_at": "2024-03-11 16:16:09 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/S9NvWyHUPsuYK7ObMV43pA?",
+    "raw_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef2e4947ccf1a34f076680.html",
+    "prettify_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef2e4947ccf1a34f076680.prettify",
+    "total_time_taken": 2.45
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 10,
+    "num": "50",
+    "place_id": "S9NvWyHUPsuYK7ObMV43pA"
+  },
+  "search_information": {
+    "total_results": 2176,
+    "business": "Desta Ethiopian Kitchen"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 2176
+    },
+    {
+      "hl": "it",
+      "count": 1
+    },
+    {
+      "hl": "es",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Tiffany P.",
+        "user_id": "gnoVtRxrGMSkeabptYp5hA",
+        "link": "https://www.yelp.com/user_details?userid=gnoVtRxrGMSkeabptYp5hA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZmhbsP6eDNBaIA6ftaJsEw/180s.jpg",
+        "address": "Stone Mountain, GA",
+        "friends": 3,
+        "photos": 18,
+        "reviews": 29
+      },
+      "comment": {
+        "text": "My bestie co-worker( we all have one) took me here because I had never tried Ethiopian food. I will say if you have never had Ethiopian food before, it would be in your best interest to go with someone who knows what to order. If she had not taken me and chosen the food items, I might not have enjoyed the food as much as I did. \n\nWe got the Meat Lovers, with salmon, chicken, and beef for our meal. Let me tell you, this is A LOT of food and enough to feed 3-4 people, so come hungry if you order this. The food is very flavorful and seasoned well. The only disappointment was the beef, as it was pretty overcooked and tough. However, the chicken and the salmon made up for it. I thoroughly enjoyed my meal, loved that the food was fresh, and left feeling satisfied. I now understand why people love Ethiopian food and can't wait to go back again!",
+        "language": "en"
+      },
+      "date": "2024-01-14T22:38:02Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AN9LeLKOw3jBuyQhjos5PA/o.jpg",
+          "caption": "Meat Lovers Plate!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Tiffany, thanks for the great review and trying us out! I'm sorry to hear your beef seemed to be overcooked. We definitely appreciate the feedback and will use it to improve. We look forward to serving you again soon!",
+          "date": "2024-01-22T14:54:14Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Fiona T.",
+        "user_id": "yxlnh-PjSN2jklc4u8KzKw",
+        "link": "https://www.yelp.com/user_details?userid=yxlnh-PjSN2jklc4u8KzKw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/E1HLXioSxRcK__lGKTN-5g/180s.jpg",
+        "address": "Chamblee, GA",
+        "friends": 34,
+        "photos": 492,
+        "reviews": 150,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Ah Desta, we meet again! It's been YEARS since I've been back and I'm so glad I found my way back home lol. \nAll these years later, the food is just as amazing as I remember. I ordered online for pick-up and as always, they were quite busy (both outside and indoors were packed). Luckily, Desta has a super convenient drive-thru window now and THIS is my favorite thing. \nI ordered lamb tibs over shiro with rice and a side of cabbage. I've never known this place to disappoint, so it was no surprise that the food was delicious, perfectly spiced and \"homey.\" Desta is an Atlanta staple for a reason. Honestly, no complaints. Just damn good food!",
+        "language": "en"
+      },
+      "date": "2023-10-07T13:06:57Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uNoOX4kGzIo_k5jcpuQzIg/o.jpg",
+          "caption": "drive-thru!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/76sPKxDDE1fiB_e2NJEFpg/o.jpg",
+          "caption": "Lamb tibs & cabbage"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much for your review! We're so glad you enjoyed and hope to have you dine with us again soon!",
+          "date": "2023-05-19T17:32:17Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Marni M.",
+        "user_id": "STh102kWVJW1R0jU55fb-w",
+        "link": "https://www.yelp.com/user_details?userid=STh102kWVJW1R0jU55fb-w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HVIggetIWB3dSA8dojLAuw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 322,
+        "photos": 2294,
+        "reviews": 1048,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This was my first time ever having Ethiopian food and I walked out soo happy with my entire experience. We came on a Friday at 6 pm as a party of 10. Unsure of how busy it was going to be, we made reservations just in case, which turned out to be a good idea since it had a high table turnover rate. \n\nThere's a full cocktail bar including beers. For appetizers we tried Sambusa and Kitfo salmon medium well (as recommended by our waitress). The (2)  sambusa were fresh and crispy. The wrap was huge and filling. \n\nFor entrees I shared the Vegan Platter with lamb tibs. Presentation was beautiful and also matched the variety of tastes, textures and temperatures. Although I could not tell you exactly what each item was, I knew it was good! \n\nPortions are huge and comes out fast. Staff were so friendly and really on their A game. Would love love to come again!",
+        "language": "en"
+      },
+      "date": "2023-08-26T17:32:54Z",
+      "rating": 5,
+      "tags": [
+        "7 photos",
+        "2 check-ins"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dPEflvAylF9Qpe_v5B9bIw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LUn3la8rDDWCpPvBXVkdEQ/o.jpg",
+          "caption": "Sambusa"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jrLLPZpgiJgKMVS0jCjGkw/o.jpg",
+          "caption": "Vegan Platter with lamb tibs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6RBeI6xrfhWUW6y-2BXOUQ/o.jpg",
+          "caption": "Vegan Platter with lamb tibs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Kctt13E3h-lovL4Ecig-CA/o.jpg",
+          "caption": "Kitfo salmon medium well"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GM1zN5_tofOj8_w5Cn5J_w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JTesGvg53omjT9MO7UEMGQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks so much for coming to check us out! We are so glad you enjoyed and hope to serve you again soon!",
+          "date": "2023-08-27T22:25:07Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Allicia S.",
+        "user_id": "WLPVEj67fdEIai1GCih2tA",
+        "link": "https://www.yelp.com/user_details?userid=WLPVEj67fdEIai1GCih2tA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7kSaiFFl2Ims8kCNnfqpnw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 234,
+        "photos": 931,
+        "reviews": 181,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Had heard about Desta from several sources over the years, but was loyal to other restaurants that serve similar cuisine. Due to closing of one of them recently I sought my desire for beets salad from Desta. The Briarcliff location offered parking in front and side lots.\n\nAs it had been a long day, I opted for takeout, and the young lady at the entrance, Eyerus , was more than accommodating. She showed me the QR code to scan for the most up-to-date menu, and provided samples of the beet salad a mushroom stew side, and gomen or collard greens. I opted for the signature lamb tibs with beet salad and mushroom stew as sides - one comes with the entree and starch options. Selected the basmati rice to complete my entree.\n\nAll were delicious and complimentary to make a satisfying meal. The lamb was what I called gamey or earthy as was told by the Eyerus. I am happy that I still tried it and mixing with the mushroom stew side dish was perfect. Will definitely return and try the 13 item vegan platter (highly recommended by Eyerus) and grouper.",
+        "language": "en"
+      },
+      "date": "2023-08-29T17:17:40Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TyYspuKzmeGn2TSa4EfWAw/o.jpg",
+          "caption": "Signage in front."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dfcAnKZm8mqpze_4XGB5jw/o.jpg",
+          "caption": "View from side lot."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JHLb_fezQabkAVsl81ILxg/o.jpg",
+          "caption": "My to go placed with Eyerus' recommendations. :-)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JT0Fq6uM4y7v1OHEfMBXdg/o.jpg",
+          "caption": "Summer Drink menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1k7lblzxgVU2iZXUe9DL3A/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Allicia, We're so glad you checked us out and had a great experience! Hope to have the opportunity to serve you again soon!",
+          "date": "2023-09-13T13:31:30Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jetta C.",
+        "user_id": "GY4SLkNHx9poz2qLDcRC0w",
+        "link": "https://www.yelp.com/user_details?userid=GY4SLkNHx9poz2qLDcRC0w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UV2TcWiN6vCAWaZM5EVHiw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 66,
+        "reviews": 33
+      },
+      "comment": {
+        "text": "Haven't been here in a few months, since my birthday in June. I would definitely come more often if it were closer to me. I love the food and the service is always stellar. Everyone tends to you and make sure that you are taken care of. It was a little chilly today so inside the restaurant was very cold, but that didn't stop people from coming in, we've had very cold weather here in Georgia lately. Thank you for always having great food and great service. whoever the manager is or the owner, they are doing a great job. I will continue to come here even if I moved out of state.",
+        "language": "en"
+      },
+      "date": "2024-01-18T22:15:27Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JpGFN0Vc7lQxV4pzIIQhXA/o.jpg",
+          "caption": "Sambusa"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/q_vNfPqDUQ16iP1L-P2sGw/o.jpg",
+          "caption": "Chicken Salad"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DwDryo5IxIYgS3QWekOaWQ/o.jpg",
+          "caption": "Grilled Chicken Salad"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for your kind review.  We are so glad your co-worked introduced you to us!  We are excited for you to try more menu options next time you dine with us.",
+          "date": "2021-06-23T14:50:15Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Naima M.",
+        "user_id": "wr--u9gWt0hGio5Yp-VXaQ",
+        "link": "https://www.yelp.com/user_details?userid=wr--u9gWt0hGio5Yp-VXaQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pbO48nCqDZoZTVrP1AuWcw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "never had a bad  meal there. lots of protein and veggie options to accommodate any palate or restriction. I've heard rumors about sad service experiences but I've never experienced them. I don't generally like sweet wines but the honey wine was good. the trr er on of us polished off a bottle!",
+        "language": "en"
+      },
+      "date": "2024-03-04T21:36:41Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sierra B.",
+        "user_id": "n8KxiiK7fCYvDTlucxC5ow",
+        "link": "https://www.yelp.com/user_details?userid=n8KxiiK7fCYvDTlucxC5ow",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/c8_pbSZ2H85RFHS71BIuAQ/180s.jpg",
+        "address": "Farmington Hills, MI",
+        "friends": 66,
+        "photos": 959,
+        "reviews": 268,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I absolutely love this place. I come here every time I'm in Atlanta. The food is always good and so is the service. There are 2 locations that I know of. I've been to both locations a few times and the service doesn't change, it's great at both places. The consistency is top tier. I wish the Ethiopian restaurants in Detroit served tibs dinner. I'm not sure why.",
+        "language": "en"
+      },
+      "date": "2023-11-05T02:01:35Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7jRSv2sGPzn5O2DGC2qGQQ/o.jpg",
+          "caption": "Salmon Tibs with greens and rice, all very good!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/O_ImDYj5Oh3wguA3c3rtUg/o.jpg",
+          "caption": "Salmon tibs, greens, tea, all very delicious"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lxaWPUhwHDtT7VnxVTRr5Q/o.jpg",
+          "caption": "Tibs platter"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ccn-mjTWXgKuDoDX0O8W3g/o.jpg",
+          "caption": "Rice"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are so happy that you enjoyed your food and your whole Desta experience.  We can't wait to have you come again next time you are back in Atlanta!",
+          "date": "2021-06-27T23:52:28Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Monique M.",
+        "user_id": "s4ZW3ETuVMtm9wYLx0muGA",
+        "link": "https://www.yelp.com/user_details?userid=s4ZW3ETuVMtm9wYLx0muGA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0RsDA8870rOS09KszckaOw/180s.jpg",
+        "address": "Smyrna, GA",
+        "friends": 78,
+        "photos": 375,
+        "reviews": 253,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "What can I say... this place never disappoints. I tried the meat platter (salmon, fish, lamb) , greens and rice. The food is so good. The greens were a little salty and garlicky (definitely not normal because I've eaten here a million times) but they were overall good . The service was great!! And I always like the ambiance.",
+        "language": "en"
+      },
+      "date": "2023-11-01T22:46:06Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nybgBcGMp-4nxdixYE65Kw/o.jpg",
+          "caption": "Salmon Tibs"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for coming by and introducing your cousin! Can't wait to serve you again soon :)",
+          "date": "2021-06-04T13:03:36Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Amber D.",
+        "user_id": "ff2AxjoV2VDicVB7j24N_w",
+        "link": "https://www.yelp.com/user_details?userid=ff2AxjoV2VDicVB7j24N_w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/i0z7CZmQ6Xb4ub1761ZmNA/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 30,
+        "photos": 252,
+        "reviews": 200,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "On my list of ATL food places to try when I visit and my friend was craving Ethiopian food. Service was quick and friendly. My friend had the TIBS and I had the vegan platter.  It was so good! The salad had a few peppers in it so if you can't handle jalapeño peppers, just be on the lookout for a pepper or two. Otherwise everything was really flavorful and delicious. I like that they have both indoor and outdoor seating, with the outside being able to be enclosed for rain. Definitely recommend.",
+        "language": "en"
+      },
+      "date": "2023-10-30T23:07:39Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fblQnxJZOjBDXhzFtI8Baw/o.jpg",
+          "caption": "Vegan Platter"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks so much for sharing your experience with us. We hope you feel comfortable sharing good or bad news with us because every review helps us better understand how we can improve. Thanks again, and we hope to serve you soon!",
+          "date": "2023-11-11T13:43:05Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Devon P.",
+        "user_id": "2kkdUsuIV1nu-hJB6tH2dg",
+        "link": "https://www.yelp.com/user_details?userid=2kkdUsuIV1nu-hJB6tH2dg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zKbKhoaPBna8o-ru1nQpZA/180s.jpg",
+        "address": "Stone Mountain, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Man let me tell you something.. don't matter if you a meat eater or vegan.. this place for you covered. So many options if food. And it's seasoned soooo perfectly! \n\nThe staff is the best, no matter what day it is. They handle you with the utmost respect..\n\nI use to go to the one on briacliff a lot.. but now I frequent the Marietta blvd one at least once a week.\n\nOverall this is the best place to try food outside of what you normally eat. I can go on for days about this place. Please try it atleast once",
+        "language": "en"
+      },
+      "date": "2023-10-22T14:21:58Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gyrlHHZCb97PcHLjtWYMgg/o.jpg",
+          "caption": "This is the pick 3  it's mushroom style(cooked with rice and potatoes) pita bread and side salad."
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for the amazing review, Devon!",
+          "date": "2023-11-11T13:43:45Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "James G.",
+        "user_id": "R058tkelWTebnODkxNAgrQ",
+        "link": "https://www.yelp.com/user_details?userid=R058tkelWTebnODkxNAgrQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1VXplMzvbY9p1s0S5IjNaQ/180s.jpg",
+        "address": "Buford, GA",
+        "friends": 962,
+        "photos": 8,
+        "reviews": 45
+      },
+      "comment": {
+        "text": "Best. Ethiopian food. In. Decatur.\n\nPossibly in the entire state of Georgia (given that Queen of Sheba is no longer with us ). Desta is my go-to.\n\nZil zil tibs = on point \n\nMissing their doro wat though! Hopefully they bring it back some day. Yum",
+        "language": "en"
+      },
+      "date": "2024-01-21T22:32:34Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "WOW! Thanks for the great review!",
+          "date": "2024-01-22T14:55:51Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ernest F.",
+        "user_id": "c-EHwbbHhcfvlyd70vBqDg",
+        "link": "https://www.yelp.com/user_details?userid=c-EHwbbHhcfvlyd70vBqDg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/267I6gIeDP5aPMW_MJbjbQ/180s.jpg",
+        "address": "Henderson, NV",
+        "friends": 653,
+        "photos": 544,
+        "reviews": 124
+      },
+      "comment": {
+        "text": "My first time here at this establishment an it's my wife favorite Ethiopian restaurant....so I decided to give it a try and I was very impressed...the environment was calm and laid back and we was greeted right away by the hostess....i ordered some water w/lemon and for the appetizer I ordered Sambusa....it was delicious...than we ordered the meat lovers plate(steak...salmon & lamb)it was delicious and we was full after that...I will definitely be back to try the rest of the menu....",
+        "language": "en"
+      },
+      "date": "2024-02-09T22:13:53Z",
+      "rating": 5,
+      "tags": [
+        "4 photos",
+        "1 check-in"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wfr0RhP8wYUeGEy1lwMbpg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/G4T3FtoYBlw0BWeHTEx5Fw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/snDHshshho3AzTTHmc9AMQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hstWDoVE_P6hOo9jeUFgaw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We're so glad you enjoyed!! Hope to serve you again very soon.",
+          "date": "2024-02-10T14:44:08Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Robin K.",
+        "user_id": "AXjHVxklbeyrZwcP4oge7A",
+        "link": "https://www.yelp.com/user_details?userid=AXjHVxklbeyrZwcP4oge7A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GMcn9eYEeklj8vxAnuEBNg/180s.jpg",
+        "address": "Tampa Bay, FL",
+        "friends": 374,
+        "photos": 2030,
+        "reviews": 356,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Wow, finger-licking goodness. \n\nThanks fellow yelpers for helping me find this gem. I LOVE Ethiopian food, i don't have it as often since it's very carb forward. Since i was on vacation, i had to lol. \n\nWe ordered Goden Tibs and Vegan platter with ingera. So many curries in the vegan platter, loved it all. Goden Tibs were phenomenal, we could've def eaten more of that. Lots of seating available, we sat on their patio, beautifully lit with lights. \n\nDef coming back for more",
+        "language": "en"
+      },
+      "date": "2023-02-22T12:58:33Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dWch6QbbKqDgsfNkCX1dDw/o.jpg",
+          "caption": "Goden Tibs and Vegan Platter: so good"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 2,
+        "cool": 4
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much!!Hope you had a great vacation! Come back and see us again :)",
+          "date": "2023-03-03T14:09:27Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Bruce K.",
+        "user_id": "j9Z1dcoZrwn8Ul9JTnjjug",
+        "link": "https://www.yelp.com/user_details?userid=j9Z1dcoZrwn8Ul9JTnjjug",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UbMdjqJI3Ujq1kYjSRGakQ/180s.jpg",
+        "address": "Norcross, GA",
+        "friends": 583,
+        "photos": 2675,
+        "reviews": 1286,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I've heard of just exuberant compliments on Desta since I moved down here and I finally got to try it out for lunch with coworkers. And I have to say, it's definitely solid Ethiopian food! \n\nThey only take reservations for 8, and our party originally had 8, but people got busy and didn't show up. We were the first ones there anyways so there was still seating for us. But I was surprised walking in that the dining area was so small! I thought it was going to be a lot bigger, but nope. Their outdoor seating is where bulk of the seating is at. \n\nFood wise, Desta is the place to go if you're ITP for Ethiopian food. Injera was plentiful, but I wished there was more lamb/meat. I was surprised there wasn't as much, but then again we went during lunch so that might have been different portion sizes. \n\nOverall Desta is great. I would definitely recommend people who have never had Ethiopian and is nearby to go and try new cuisines.",
+        "language": "en"
+      },
+      "date": "2023-04-21T10:55:32Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UOMppH21QehmDL63wh2iXA/o.jpg",
+          "caption": "Tibs: Injera, Lamb, and Gomen"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for the great recommendation. Hope to serve you again soon!",
+          "date": "2023-04-25T19:37:52Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Melanie H.",
+        "user_id": "uhnJbQWm18oa9CzeVzcNnA",
+        "link": "https://www.yelp.com/user_details?userid=uhnJbQWm18oa9CzeVzcNnA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/m8MK6XTfdIhXxljMctooZg/180s.jpg",
+        "address": "Newnan, GA",
+        "friends": 253,
+        "photos": 1428,
+        "reviews": 227,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "First time trying Ethiopian food, and man it was everything. So flavorful, and seasoned to perfection. We ordered the chicken tibs, and grouper tips. Both were exceptional. The grouper was my favorite. \n\nOur server was friendly, and our food came out pretty quickly. Can't wait to go back!",
+        "language": "en"
+      },
+      "date": "2023-02-22T02:23:19Z",
+      "rating": 5,
+      "tags": [
+        "5 photos",
+        "2 check-ins"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eF_Pzt3mmbNMJIDdNh-rtw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kccxk_-e71tN328eugH_WA/o.jpg",
+          "caption": "Chicken Tibs with Potato Stew and Injera"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ePzN1abVDsC-g9MXdeeLfg/o.jpg",
+          "caption": "Chicken Tibs with Potato Stew and Injera"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9di9LJUcdCbYAyR-GkItnQ/o.jpg",
+          "caption": "Grouper Tibs with Gomen, rice and Injera"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UqBeZjSJ4g0lmKp2EKfptg/o.jpg",
+          "caption": "Grouper Tibs with Gomen, rice and Injera"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the awesome review and checking us out!",
+          "date": "2023-03-03T14:00:35Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Briana L.",
+        "user_id": "fUsKTTxTTBPKmfUaio0YSA",
+        "link": "https://www.yelp.com/user_details?userid=fUsKTTxTTBPKmfUaio0YSA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/itD1C4nkW2zNasG9egdAkw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 17,
+        "photos": 401,
+        "reviews": 176,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I really enjoy coming to original Desta Ethiopian restaurant on Briarcliff. Desta is small but they developed patio seating with fans, still hot though if you're attending during the day. Customer service is always friendly and speedy. I came to the restaurant with 2 other coworkers and we decided on 2 orders of lentil samosas, my fav! And the meat lovers plate. We had an order of the fillet, fish and chicken. With the yellow, red lentils and collards. The meal was mild spicy with extra jalapeños if you needed it. But every bite was simply a burst of savory deliciousness. Highly recommend.",
+        "language": "en"
+      },
+      "date": "2023-08-26T19:47:45Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PaepcybAQGWZdoh4Dokn9g/o.jpg",
+          "caption": "The Original Meat Lovers"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Briana, thanks for your continued support! Great recommendations!",
+          "date": "2019-02-18T17:34:10Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Peter M.",
+        "user_id": "9XgsxgCg-rV3lgq6KgftQA",
+        "link": "https://www.yelp.com/user_details?userid=9XgsxgCg-rV3lgq6KgftQA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ezLyopxBfsSOsq6ye4QJYA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 107,
+        "photos": 204,
+        "reviews": 133,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I've never had Ethiopian food prior to this, but boy oh boy have I been missing out. Desta Ethiopian Kitchen offers up a phenomenal experience at a very reasonable price point. \n\nThe service was very helpful and friendly. They made some great recommendations (shoutout the beets and potato salad callout).\n\nI had the salmon entree with beet and potato salad and rice. The salmon was so flavorful, and it was cooked perfectly. The seasoning was on point! \n\nThe beet and potato salad was also phenomenal. The beet flavor is subtle but pairs great with the potato. Finally, the rice was cooked well and definitely belonged on the plate. \n\nSo excited to return here real soon.",
+        "language": "en"
+      },
+      "date": "2023-03-05T06:17:03Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WMNxao66NVigRdpq8KzCfw/o.jpg",
+          "caption": "Salmon Entree"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are so glad you had a great time! We hope to have you back again soon!",
+          "date": "2023-03-11T15:40:22Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Anya S.",
+        "user_id": "bALaDMB2aFcjJgufZdpvNQ",
+        "link": "https://www.yelp.com/user_details?userid=bALaDMB2aFcjJgufZdpvNQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hiU_Bqz8bNFBZvvXVrX82Q/180s.jpg",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 0,
+        "photos": 7,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "Omg! I am so glad my fiancé and I decided to try this place tonight! The food was incredible! So many different flavors that I had never had before but that worked so well I'll be remembering my first bite forever! The service was amazing and the vibes of the place were so cute! We will def be coming back!",
+        "language": "en"
+      },
+      "date": "2024-01-07T01:46:51Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/60wxhhj-GPkpecz0wwnfYA/o.jpg",
+          "caption": "Chicken Tibs cooked with potatoes. Sides of rice and potato stew!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for checking us out! We're so glad that you enjoyed. Looking forward to serving you again soon!",
+          "date": "2024-01-11T14:21:15Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ginny M.",
+        "user_id": "Kf0nn1MBs5Gx7Kq3ku2cjg",
+        "link": "https://www.yelp.com/user_details?userid=Kf0nn1MBs5Gx7Kq3ku2cjg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fG1momBeAltkW5J2LeG-CA/180s.jpg",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 10,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "That food was the bumdiggity !! I was doing the food dance under the table ! My 1st time there and my daughter and I absolutely loved it",
+        "language": "en"
+      },
+      "date": "2024-02-01T13:52:15Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for the great review! Looking forward to serving you again soon!",
+          "date": "2024-02-10T14:33:20Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "A O.",
+        "user_id": "-790vYeDw0ZYuTm-amfe2A",
+        "link": "https://www.yelp.com/user_details?userid=-790vYeDw0ZYuTm-amfe2A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kLAFT8dBun2_qfT8rFUJjw/180s.jpg",
+        "address": "Roswell, GA",
+        "friends": 68,
+        "photos": 0,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "Never had Ethiopian. Went based of a few people's recommendations. Didn't disappoint. The quality was there. Pleasantly surprised and would recommend. Don't expect it to be a fancy place.",
+        "language": "en"
+      },
+      "date": "2024-02-12T22:16:49Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for checking us out!",
+          "date": "2024-02-16T17:27:27Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kam M.",
+        "user_id": "a2pHeokH8l7r3T8nXach0A",
+        "link": "https://www.yelp.com/user_details?userid=a2pHeokH8l7r3T8nXach0A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2LLnjIvr0y9yMen135cJKQ/180s.jpg",
+        "address": "Chandler, AZ",
+        "friends": 126,
+        "photos": 799,
+        "reviews": 288,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I haven't lived in Atlanta in over a year, when I came for a visit with family the first place I go to is my favorite restaurant Desta Ethiopian Kitchen.\n\nSambusa - Stuffed with lentil\nVeggie pasta - pasta, sauteed with shiro and tomato based sauce. Served with a salad & pita bread.\n\nVegan platter - Shiro, misir, ater, dinech wot, gomen, cabbage, salad, azifa, mushrooms, beets and fitfit.\n\nI'm in town for 2-weeks so I will definitely be back before I go.\n\nI miss this place",
+        "language": "en"
+      },
+      "date": "2022-12-18T02:54:19Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HLsPmGB2Ihu41L-afTa27g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wbVzaJ3bKROVG91VGQIoYA/o.jpg",
+          "caption": "Vegan Platter"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Enp8zVl__-ZCPWGEZ-4npw/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/s8UI2RNxjxampDcOcoHx_g/o.jpg",
+          "caption": "Pasta with Veggies"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WttXH9Jywg8m1aQG4c9vkg/o.jpg",
+          "caption": "Vegan Platter"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Kam, Thanks for the review! We aim to please all of our guests and will gladly customize the spice levels to your liking, just let us know! Come see us again soon :)",
+          "date": "2020-04-30T01:09:28Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Blair S.",
+        "user_id": "6toEhpmJxknHFKBw5u3xWQ",
+        "link": "https://www.yelp.com/user_details?userid=6toEhpmJxknHFKBw5u3xWQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TaxLSfy7WbVQtSPLizgOoQ/180s.jpg",
+        "address": "Nashville, TN",
+        "friends": 72,
+        "photos": 218,
+        "reviews": 413,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Desta really brings out the variety of flavors and textures for which Ethiopian food is known. When I crave Ethiopian, it's Desta that I dream about. It's delicious.\n\nI recommend getting one of the tibs platters for lunch or dinner. All of the sides are delicious, but ask for recommendations if there are certain flavors you don't like. All items were fresh even though we arrived near the end of their day. Our waitress helped maximize the balance of dishes our kids would enjoy (less spicy) and the adults would enjoy. I recommend ordering extra injera if in a group, and getting everything in a single platter to share and explore together.\n\nThe inside was lively and a little loud, so my little guys asked to move to the patio. The staff was accommodating and moved us to a great table next to the tree that grows through the deck. The fresh air on a cool, late spring evening added to the ambiance. The kids loved the patio and staff kept encouraging them to walk around and explore before food arrived. The staff made it feel like a family gathering more than a visit to a restaurant.\n\nI can't wait to get back to Desta soon.",
+        "language": "en"
+      },
+      "date": "2023-06-20T12:27:47Z",
+      "rating": 5,
+      "tags": [
+        "2 check-ins"
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much for the great review! We love hearing about your guests experiences and hope to serve you again soon!",
+          "date": "2023-07-07T14:59:00Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jasmine S.",
+        "user_id": "wO69Lf23kTRYmAdjdi_flw",
+        "link": "https://www.yelp.com/user_details?userid=wO69Lf23kTRYmAdjdi_flw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1zcF7HpRrwI4VYz9qM8K6g/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 417,
+        "photos": 1603,
+        "reviews": 411,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I've eaten a lot of Ethiopian food, living in DC and in little Ethiopia in LA and this is by far my favorite! Their gomen (collard greens) and mesir (lentils) were TOP TIER. Lamb tibs were standard but their menu was more extensive than I've typically seen and although I wouldn't order it, I liked that they served pasta options with Tibs. They serve silverware here. Loved the options in injera as well.",
+        "language": "en"
+      },
+      "date": "2023-05-16T03:22:08Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for sharing! We love hearing of our guests experience and appreciate you coming by!",
+          "date": "2023-06-11T20:06:46Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Elizabeth Y.",
+        "user_id": "3n5Lx88iFbBm_JeBZhyeqg",
+        "link": "https://www.yelp.com/user_details?userid=3n5Lx88iFbBm_JeBZhyeqg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cfumDUdPag5DaAYaz66ntQ/180s.jpg",
+        "address": "Columbus, OH",
+        "friends": 517,
+        "photos": 283,
+        "reviews": 158,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I've been here multiple times and absolutely love it! The food is so full of flavor and the staff is very kind. This time we got a variety of tibs, which is basically sautéed cubed meat and veggies. We tried the shrimp, ribeye, and lamb. My favorite still is definitely the lamb but they're all good. As for the sides, my favorite is the red lentils. They are very flavorful. I also get the traditional Ethiopia bread which is injira. It's really good for picking up the food and compliments it nicely. This place can get very busy on the weekend so I suggest coming earlier. Highly recommend if you haven't been!",
+        "language": "en"
+      },
+      "date": "2023-07-08T21:25:53Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dbxHoQ3qdT-K8oontLVbYw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "It was a pleasure serving you. We appreciate you taking the time to share your feedback and being so open with us. We’re happy you enjoyed our service, and we hope you'll come and see us again soon!",
+          "date": "2023-08-06T17:16:20Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Blake Z.",
+        "user_id": "8uHyIW-Q9XrJdLK6yr2MiA",
+        "link": "https://www.yelp.com/user_details?userid=8uHyIW-Q9XrJdLK6yr2MiA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fuaHS8E23jsvs3nzuryLKQ/180s.jpg",
+        "address": "Coral Springs, FL",
+        "friends": 28,
+        "photos": 1092,
+        "reviews": 285,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "After driving more than 5 hours, we finally made it to the city of Atlanta! Being that my friend and I were nearly exhausted and hungry, we decided to settle on something delicious and close by. After looking around we decided to be adventurous, and go to Desta's Ethopian Kitchen! \n\nGoing in, the place had a cool atmosphere, and we decided to sit outside by the heat lamps. For dinner, we did the meat lovers platter and got 1x lamb, 1x grouper, and 1x chicken with are sides being the ater (red lentils), miser (collard greens), beets & potatoes, Injera rice, and teef injera (towel flat bread). \n\nMoving on with my review, the food for the most part was pretty good, but it could use some tweaking. \n\nAs for what we liked; the sides were ALL incredible! Really loved the aromatic spices, and garlickly flavor of the collard greens, lentils, and even the rice. I also like how you cup food in the teef injera for a delicious food combo! \n\nAs what could use improvement: Although, the fish, and other meats for that matter, contrasted nicely with the sauteed veggies its tossed in, there wasn't the same level of fragant spices and salt as were in the side dishes we tasted above. If there was a way to incorporate this into the main entrees, my rating would be much higher. \n\nDespite my criticism above, the entree was a great value for your buck. Also, service was friendly, and quick. \n\nFinal verdict is 3.5/5",
+        "language": "en"
+      },
+      "date": "2022-12-29T14:48:01Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qk9uOj80h6uFDz5vSuc1HA/o.jpg",
+          "caption": "What a vibe it was outside! Nice atmosphere."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/K2ac1m8nudKOo8gg-_F2wA/o.jpg",
+          "caption": "Meat lovers platter - lamb, chicken, grouper - sides collard greens, lentils, beetpotatoes - sides amazing, but entrees needed more spices!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for your feedback! We always appreciate it and use it to improve! Hope to serve you again the next time you're in Atlanta!",
+          "date": "2023-01-02T14:28:51Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Sarah L.",
+        "user_id": "Ebpme-IYuaEIFwfcF1-XKg",
+        "link": "https://www.yelp.com/user_details?userid=Ebpme-IYuaEIFwfcF1-XKg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gYcuR1tFTjQrMeOLXdRxlQ/180s.jpg",
+        "address": "Augusta-Richmond County consolidated government (balance), GA",
+        "friends": 8,
+        "photos": 140,
+        "reviews": 51,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I've never had Ethiopian food and my boyfriend is moving from Atlanta in two weeks so we decided we had to try!! This place came highly recommended and I get why!! We sat on the front porch which was covered and well lit with good music! The service was very friendly and helpful. I got the breakfast fowl with scrambled eggs and coffee... it was AMAZING. I never thought I would want to eat beans for breakfast but I am so glad I tried it. The lamb sandwich was so flavorful (I kept stealing bites). Definitely will come back again next time I'm in Atlanta!!",
+        "language": "en"
+      },
+      "date": "2023-05-09T17:06:54Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Qtfe2H7K6rBrsH_2Mwt7IA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IIv2C5zz-jnKwXGvOnW_Sg/o.jpg",
+          "caption": "Fowl"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/a94ckFcHAGbt5CiuCNJGRw/o.jpg",
+          "caption": "Lamb Sandwich"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks so much for your review! We love hearing about our customers’ positive experiences, and we can’t wait to have you back",
+          "date": "2023-05-19T17:31:51Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Melissa B.",
+        "user_id": "U9-cMd7LEpsMj1mVxJJ1kg",
+        "link": "https://www.yelp.com/user_details?userid=U9-cMd7LEpsMj1mVxJJ1kg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/I_jQ0c6kqAvuHeaxfGcqHw/180s.jpg",
+        "address": "Buford, GA",
+        "friends": 0,
+        "photos": 153,
+        "reviews": 134,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Having never tried Ethiopian food before, I wasn't sure what to expect. I was curious though, and after reading reviews, decided to try it. We sat in the smaller bar area, where Ikram took great care of us. We ordered a few dishes intending on sharing to experience as much of the menu as possible. We began our meal with the Beef Sambusa. It was so flavorful. And the ground beef was cooked to perfection. For our mains we ordered Potato Stew with Injera, and Filet mignon tibs with Cabbage and Rice. The Injera was my favorite. It's hard to describe based on taste and texture - you have to try it for yourself. I imagine that not everyone will enjoy it - but we did. I can't wait to go back! A slice of lemon cake was a refreshing way to finish our meal. Make sure you have a QR code reader on your phone, as you'll need it to look at the menu.",
+        "language": "en"
+      },
+      "date": "2023-05-01T19:42:21Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FIxI4Ff_VBN4TEo5DNL-rw/o.jpg",
+          "caption": "Lemon cake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/T1dxRsbD6-LMHxbP41go-A/o.jpg",
+          "caption": "A picture is worth a 1000 words."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KYn7G3vWBprAhKHoKLxPOA/o.jpg",
+          "caption": "Beef Sambusa. Very good."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zJa_J-47hKI_3wVafGLG3w/o.jpg",
+          "caption": "Filet mignon tibs with Cabbage and Rice. Potato stew with Injera."
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We're so glad you enjoyed! Thanks for sharing your experience!!",
+          "date": "2023-05-19T17:33:02Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Carlos P.",
+        "user_id": "XFzWyLtfZLvkQlYGA04SUw",
+        "link": "https://www.yelp.com/user_details?userid=XFzWyLtfZLvkQlYGA04SUw",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "Fantastic food, fantastic service. Have never had a bad meal with them. Honestly I can't pick a favorite.",
+        "language": "en"
+      },
+      "date": "2024-03-03T21:11:09Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Cornell R.",
+        "user_id": "A_VSL9ovSBoINHBuZjRzow",
+        "link": "https://www.yelp.com/user_details?userid=A_VSL9ovSBoINHBuZjRzow",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KeAH8SmjXaHKX-sZFiiaVQ/180s.jpg",
+        "address": "Conyers, GA",
+        "friends": 317,
+        "photos": 157,
+        "reviews": 120
+      },
+      "comment": {
+        "text": "Desta is an outstanding Ethiopian restaurant that offers a fantastic dining experience. From the moment you step inside, you are greeted with warm hospitality, and the service is attentive and knowledgeable.\n\nThe menu is extensive, and the food is authentic and delicious. The lamb, rice, and potatoes dish is a standout, with perfectly cooked lamb that is tender and flavorful, and the rice and potatoes are seasoned to perfection. The potato salad mixed with beets is a unique and refreshing twist on a classic dish, and it's the perfect complement to any meal.\n\nWhat sets Desta apart is the level of customization they offer. They are happy to accommodate dietary restrictions and preferences, and the server was extremely helpful in guiding me through the menu to find the perfect dish. The portions are generous, and the prices are reasonable, making it an excellent value for the quality of food and service.\n\nOverall, if you're looking for an exceptional Ethiopian dining experience, Desta is the place to go. With delicious food, attentive service, and a welcoming atmosphere, it's a must-visit for anyone who loves great food and a great dining experience.",
+        "language": "en"
+      },
+      "date": "2023-06-25T13:32:23Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kJoH93CfsnidnSbHRF175Q/o.jpg",
+          "caption": "Lamb with rice, potatoes, pita bread, and potato salad"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for your review! We're glad you chose us!",
+          "date": "2023-07-07T14:59:48Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "David G.",
+        "user_id": "e7yrnFzv59BJFAq_aZiaNg",
+        "link": "https://www.yelp.com/user_details?userid=e7yrnFzv59BJFAq_aZiaNg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xRL31cqum9M13KOq-AkZIg/180s.jpg",
+        "address": "Brookhaven, GA",
+        "friends": 2,
+        "photos": 52,
+        "reviews": 77,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Been coming here for years and years and it is fantastic! To give you an idea of how good the place is, my mother swore she could not stand Ethiopian food until the day she accidentally ate my leftover Desta.\n\nMy go to is the tibs, and I recommend the lamb or steak, although all of them are excellent. The combination of meat, veggies, and spices is mouthwatering.\nIf you're with some friends, sharing is the way to go, so get a few different ones and try them out. I also recommend trying the different side dishes, my favorite is the miser followed by the Gomen, but it's also exciting to mix and match the different meats with the sides and loading them onto your bread of choice. In terms of bread, I always go with injera, but it is somewhat acquired taste. Spongy and slightly sour, it soaks up the sauces and makes it easy to wrap up the meat and veggies. But the pita is a good option for those who don't like injera.\n\nIn terms less meaty options, it's a easy to do a veggie platter and load up on a few sides, but I'd also recommend the foul. It's hearty but nowhere near as big as a tibs plate, and I it may be the tastiest bean dish I've ever had!\n\nThe biggest downside is that Desta is no secret in Atlanta, so there can be quite a wait, especially during peak times. But it's worth it.",
+        "language": "en"
+      },
+      "date": "2022-11-18T18:16:44Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TbLpMNe-xvaz1r--HiWGxQ/o.jpg",
+          "caption": "Chicken tibs and miser!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for being a long time customer! We appreciate the awesome recommendation!",
+          "date": "2022-11-27T16:43:38Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Vincent W.",
+        "user_id": "EHbLYy5r9GiwVfn9mNVYGw",
+        "link": "https://www.yelp.com/user_details?userid=EHbLYy5r9GiwVfn9mNVYGw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FYYl4QNC5FyuyRVwsWwDdA/180s.jpg",
+        "address": "New York, NY",
+        "friends": 4,
+        "photos": 81,
+        "reviews": 75,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The food is always consistent. I usually get the veggie platter and lentil sombusas via vegan menu. The staff have exceptional service and fast. I like the renovation of this location. The aesthetic is eclectic for evening dining. During the warm months, dine on the patio.",
+        "language": "en"
+      },
+      "date": "2023-09-18T17:38:07Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for your continued business!",
+          "date": "2023-08-06T17:12:52Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Lynn A.",
+        "user_id": "U9JwwffI5_OmUDwmkccGJQ",
+        "link": "https://www.yelp.com/user_details?userid=U9JwwffI5_OmUDwmkccGJQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/a4EEIcnAEKc9GAeVvY55wA/180s.jpg",
+        "address": "Stone Mountain, GA",
+        "friends": 57,
+        "photos": 5,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "I am a fan of this restaurant! The food is very good. I had a catering expreience, which turned out well. My food was ready when I arrived to pick it up. I haven't had lunch or dinner at the restaraunt yet, but I do plan to dine in some time this Spring/Summer so I can sit in their outside section.",
+        "language": "en"
+      },
+      "date": "2024-02-02T19:32:54Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for your order! We look forward to having you dine in with us soon!",
+          "date": "2024-02-10T14:34:56Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Charito S.",
+        "user_id": "2J6ZK7e5riTUSChoP9E7og",
+        "link": "https://www.yelp.com/user_details?userid=2J6ZK7e5riTUSChoP9E7og",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PywFi4ZXZz4Ofew7NQVQiw/180s.jpg",
+        "address": "Charlotte, NC",
+        "friends": 35,
+        "photos": 264,
+        "reviews": 60
+      },
+      "comment": {
+        "text": "first time eating Ethiopian food & it was delicious!! Our server Maki recommended the meat lovers for two and a spaghetti dish for our 7-yr old. Highly recommend the ribeye, spicy lentils, cabbage, rice! \nwe got the baklava and tiramisu to-go!!",
+        "language": "en"
+      },
+      "date": "2023-06-02T14:18:03Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wqQ1kUPP5_kMprsuOQG_Eg/o.jpg",
+          "caption": "spaghetti w chicken - also delicious!!!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FQRBARHzmaQsgY1udQNRyA/o.jpg",
+          "caption": "meat lovers w ribeye, grouper, lamb. yum!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for the review! Hope to serve you again soon!",
+          "date": "2023-06-11T20:08:30Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Michelle P.",
+        "user_id": "PViJdD3wyby2ek2VFeA7QA",
+        "link": "https://www.yelp.com/user_details?userid=PViJdD3wyby2ek2VFeA7QA",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Most delicious Ethiopian Food in the Atlanta Metropolitan Area. Fresh, great tasting ! Customer service is always friendly and professional.",
+        "language": "en"
+      },
+      "date": "2024-03-02T16:25:32Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Daniel T.",
+        "user_id": "sK-7LNt04rEmGcs5t3pwKQ",
+        "link": "https://www.yelp.com/user_details?userid=sK-7LNt04rEmGcs5t3pwKQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZtoEqAWo9Y3xlnKAih68Mw/180s.jpg",
+        "address": "Duluth, GA",
+        "friends": 0,
+        "photos": 17,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Food was good and fulllll of flavor. Portions get your straight if your really hungry. I ordered and appetizer and entre I couldn't finish it at all. Service was attended and polite.",
+        "language": "en"
+      },
+      "date": "2024-01-17T21:14:34Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We're so glad you joined us! Looking forward to serving you again soon.",
+          "date": "2024-01-22T14:54:57Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kathy K.",
+        "user_id": "mcX-nCqJ4ffCMPO4K6T-Yg",
+        "link": "https://www.yelp.com/user_details?userid=mcX-nCqJ4ffCMPO4K6T-Yg",
+        "address": "Marietta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 27
+      },
+      "comment": {
+        "text": "Wanted to celebrate a special night with a new restaurant and chose Desta after many recommendations.  The lamb tibs were delicious and the service was wonderful.  Kudos to Samson for his great attention to us.  Happy to see a busy restaurant with smiling diners.  We will be back.",
+        "language": "en"
+      },
+      "date": "2024-02-29T14:48:04Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "John C.",
+        "user_id": "8c4LmcgUJ4JY_kgrbO9Y7Q",
+        "link": "https://www.yelp.com/user_details?userid=8c4LmcgUJ4JY_kgrbO9Y7Q",
+        "address": "Poughkeepsie, NY",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "Friendly staff. Great food. \nThey are cashless, bring a card. \nI could eat their food everyday.",
+        "language": "en"
+      },
+      "date": "2024-01-23T14:25:15Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks so much for the kind review!",
+          "date": "2024-02-10T14:29:50Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Charles J.",
+        "user_id": "8QjGuIcJi_TD-HaOZCoNwQ",
+        "link": "https://www.yelp.com/user_details?userid=8QjGuIcJi_TD-HaOZCoNwQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CheY0w-pNZWayU5IHxII5w/180s.jpg",
+        "address": "Mobile, AL",
+        "friends": 67,
+        "photos": 770,
+        "reviews": 182,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I think I found this place watching a SHOW on PBS. \n\nWhile in Atlanta I had the opportunity to spend some time with my daughter. We went to a different restaurant in Little Five Points but the server never came to our table.\n\nSo I used that moment as an opportunity to look for a different restaurant. And boy was that a great decision.\n\nThe food at this restaurant was amazing the service was on point and friendly. Definitely will return in the future.\n\nOnce we placed our order I think they started bringing the food to hour table in10-13 minutes.  No lie.  It was fast and hot. \n\nTil next time.",
+        "language": "en"
+      },
+      "date": "2022-10-01T13:55:04Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/W2FssL9Af9VkxRilIfWAdg/o.jpg",
+          "caption": "Art work."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UR6LC_mhyJskbu5oGsoKnQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R-JfHZsIKM5Jt3MlLIFlsg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rqH0zH_jnUQuHFDasMbFkg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We're so glad things worked out and you joined us for dinner! Hope to serve you again soon.",
+          "date": "2022-10-01T20:21:14Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Delano P.",
+        "user_id": "NVn3bis1v1xwMwT4AyxS2g",
+        "link": "https://www.yelp.com/user_details?userid=NVn3bis1v1xwMwT4AyxS2g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sSnd4pWQuM3gYYlfAWLKZA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 7,
+        "photos": 104,
+        "reviews": 45,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "It's the second time I've been here getting the same thing and it's just great. The portions are super filling and I had another great time getting to know Ethiopian food. \n\nMy now go-to? The salmon tibs, miser, and injera. Delicious and angling to put you right to sleep. I came hungry that day, so don't feel like you have to take on the cleaned-plate challenge yourself!\n\nGive this place a try! The service was great as well",
+        "language": "en"
+      },
+      "date": "2022-09-22T17:52:36Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/J0jU1lEe-BJfY3iyeFegAQ/o.jpg",
+          "caption": "Salmon Tibs, Miser, Injera"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qvTiPxnsUFeJ9Xzy6eeOEQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CdZTh6QhpJIPQ2Qza-TdUQ/o.jpg",
+          "caption": "Sambusa"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "It was a pleasure serving you. We appreciate you taking the time to share your feedback and being so open with us. We’re happy you enjoyed our service, and we hope you'll come and see us again soon!",
+          "date": "2022-09-24T20:33:42Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Dawn M.",
+        "user_id": "Nuwboy8rOueA4PMYu5gtRA",
+        "link": "https://www.yelp.com/user_details?userid=Nuwboy8rOueA4PMYu5gtRA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/iDtRKXuC5Cpz3hM_byYCBA/180s.jpg",
+        "address": "Jackson, MS",
+        "friends": 108,
+        "photos": 647,
+        "reviews": 246,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "It was recommended that I visit the original Desta location, so I did.  The hostess was not at the stand but eventually a server sat me on the deck. It was nice out on this day so this was fine.   \n\nMy server didn't bother to ask if this was my first visit or offer any specials so I ordered the lamb Tibs with a side salad and injera. Food came out in 15 minutes and was hot. Salad was very good. Had sliced jalapeños that added to the flavor.  The lambs was seasoned well with only a few pieces that were tough. I love injera. It was good too.  \n\nEnjoyed my trip and look forward to going back when in town again.",
+        "language": "en"
+      },
+      "date": "2022-09-10T00:04:35Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dpaCwuvwuaZyJL8zN7m7lQ/o.jpg",
+          "caption": "Lamb tibs"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "It was a pleasure serving you. We appreciate you taking the time to share your feedback and being so open with us. We’re happy you enjoyed our service, and we hope you'll come and see us again soon!",
+          "date": "2022-09-13T18:20:36Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jennifer P.",
+        "user_id": "WgaRoWpicXE0Hnf5PTgpAQ",
+        "link": "https://www.yelp.com/user_details?userid=WgaRoWpicXE0Hnf5PTgpAQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yojXVJzO8k1EWgWozqAiQQ/180s.jpg",
+        "address": "Old Fourth Ward, Atlanta, GA",
+        "friends": 24,
+        "photos": 44,
+        "reviews": 112,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I am now a huge fan of Ethiopian food!! The food is authentic so be ready to eat with people you trust since there will be cross contamination and be sure you and your guests have clean hands because your hands are your silverware. My cousin and I split the Meat Lovers. We ordered the salmon appetizer but it came out the same time as the food so we basically had 4 proteins. We were starving when we got here. In all I honestly think 3-4 people could have ate the Meat Lovers and salmon appetizer. We had the Ethiopian beer. It's very light tasting with a little hop. I recommend the Miser as a side. It is a tomato lentil dip. Unfortunately they don't have menus. You have to use the QR code so it was a little inconvenient to google their authentic sides I.e. miser.",
+        "language": "en"
+      },
+      "date": "2023-04-04T02:23:14Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bL8DudDW47BzgnI2j5B9mQ/o.jpg",
+          "caption": "Meat Lovers: lamb, rib eye, filet. Sides: mushroom, cabbage, miser (at the bottom)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TdFk36QWsAD7ueYwI62GKw/o.jpg",
+          "caption": "Salmon appetizer"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks so much for your review! We are looking forward to serving you again in the future!",
+          "date": "2023-04-10T13:22:47Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Aisha J.",
+        "user_id": "noFE2YAgzHWvc3yTac14mQ",
+        "link": "https://www.yelp.com/user_details?userid=noFE2YAgzHWvc3yTac14mQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ET0gtgDWOTIGKpwu750UxQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 30,
+        "photos": 592,
+        "reviews": 196,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My husband and I wanted to try an authentic Ethiopian restaurant on Sunday and decided to try Desta because of the great reviews and restaurant rating.\n\nWe ordered for appetizers two orders of Sambusa (lentil and beef). We actually both preferred the lentils over the beef.\n\nFor our entree: we order the meat signature entree platter which came with three meats. We selected the ribeye, salmon and filet mignon. For our sides we ordered the potato stew and cabbage with injera and pita bread. We were disappointed because they were out of lamb and short ribs that day. So we decided to go with the recommendation of our waitress Betty.\n\nAs far as our waitress Betty is concerned, she was just okay. She never came back around to fill up our water or ask us about our food and if we needed anything.\nThe food was mediocre. It was not as flavorful as we had hope. So we give the overall experience three stars.",
+        "language": "en"
+      },
+      "date": "2022-09-05T23:15:31Z",
+      "rating": 3,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UuT4rua2QBKNVrUF2riDWA/o.jpg",
+          "caption": "Meat lovers"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jO40DGFWAV9yNxVw0mXbkA/o.jpg",
+          "caption": "The Original Meat Lovers"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uoLqzZExAaOWrRy7BrhWtw/o.jpg",
+          "caption": "Meat lovers (salmon, ribeye, filet)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dOwjUwSk99LxtDyj_seEBg/o.jpg",
+          "caption": "Sambusa beef"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/I9LVAXxcTClOLlWL7lyKHg/o.jpg",
+          "caption": "Sambusa lentils"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aNjc9kkpeiA1q6jJLo87fA/o.jpg",
+          "caption": "Inside"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks so much for sharing your experience with us. We hope you feel comfortable sharing good or bad news with us because every review helps us better understand how we can improve. Thanks again, and we hope to serve you soon!",
+          "date": "2022-09-07T13:55:40Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Audrey Y.",
+        "user_id": "3EeLFkyHTlMVyKhrRpOamQ",
+        "link": "https://www.yelp.com/user_details?userid=3EeLFkyHTlMVyKhrRpOamQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_PDUJ-DbhelhpHQ8UvBScA/180s.jpg",
+        "address": "Winter Garden, FL",
+        "friends": 74,
+        "photos": 1,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "First try at Ethiopian food and it did not disappoint. Service was friendly and efficient. The ambiance was relaxed.",
+        "language": "en"
+      },
+      "date": "2023-10-13T07:23:44Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/92FoPX2nq3svUckVE3Aabw/o.jpg",
+          "caption": "Lamb Tibs"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for the great review!",
+          "date": "2023-10-20T17:09:38Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Lorenzo Y.",
+        "user_id": "IPEElk87GhzJeo04--6vvg",
+        "link": "https://www.yelp.com/user_details?userid=IPEElk87GhzJeo04--6vvg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BhzzD51kn5NY9aCDleUFyg/180s.jpg",
+        "address": "Columbus, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "Awesome Ethiopian food!!! Don't wait any longer to try!!! If you're culturally inclined, you don't want to miss out!",
+        "language": "en"
+      },
+      "date": "2023-12-29T20:25:37Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks so much!",
+          "date": "2023-12-30T14:16:31Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Asia S.",
+        "user_id": "Dw5X4hn-t-SblMvU4PsGrQ",
+        "link": "https://www.yelp.com/user_details?userid=Dw5X4hn-t-SblMvU4PsGrQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JUDXOeW4I3tAZLa2enhtFg/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 254,
+        "photos": 59,
+        "reviews": 47
+      },
+      "comment": {
+        "text": "They are very accommodating delicious, and the service is fast. I love the outdoor seating I highly recommend.",
+        "language": "en"
+      },
+      "date": "2023-09-22T00:45:29Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/S4Wq0kllr4Z_E0NnZKm1BA/o.jpg",
+          "caption": "Mushroom Tibs with chickpeas and lentils"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the great recommendation!",
+          "date": "2023-10-20T17:07:24Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kennadi J.",
+        "user_id": "rzUHQAJAJ9BciNFs1b9lSg",
+        "link": "https://www.yelp.com/user_details?userid=rzUHQAJAJ9BciNFs1b9lSg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Nt-2diljBJYhdl-p2Sf4Qw/180s.jpg",
+        "address": "GA, GA",
+        "friends": 20,
+        "photos": 177,
+        "reviews": 49,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Wow! Absolutely amazing. This was our first time going and I was more than pleasantly surprised. Our waiter was helpful when it came to choosing all of our dishes. No matter what you get, you won't be disappointed. I don't remember which beer we had but the Sheba was is nice and sweet. Will definitely be back",
+        "language": "en"
+      },
+      "date": "2023-01-05T23:24:13Z",
+      "rating": 5,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3xIPpJ8l_Lw9bxWjemZctA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TzDleMgmKEvOde4w2vLrsg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vfTGkmFvA3ncJXn_AiK-4Q/o.jpg",
+          "caption": "Injera , pita and rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4LJukWgyflNaLOwHPM-RzQ/o.jpg",
+          "caption": "Salmon Kitfo"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mbsc1fO-KIhy9nf7hKAiKA/o.jpg",
+          "caption": "Sambusa"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HGoZH7PcYv295eHAMaPnmQ/o.jpg",
+          "caption": "Beer"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HXRCyETtMM6u4KolYVLG4A/o.jpg",
+          "caption": "Tibs With salmon, injera, cabbage, Goden Tibs, Gomen"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for checking us out! We love hearing that you enjoyed your experience with us!",
+          "date": "2023-01-11T14:00:57Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Maurice J.",
+        "user_id": "pVZN9-xVryLNZfop1TLAEw",
+        "link": "https://www.yelp.com/user_details?userid=pVZN9-xVryLNZfop1TLAEw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QJKDqZR8lcYCKOxM16aGew/180s.jpg",
+        "address": "Austell, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Desta Ethiopian Kitchen is a must-visit for anyone seeking a taste of Ethiopia's culinary brilliance. It has become my preferred destination for flavorful and fulfilling African cuisine, and I look forward to returning for more culinary delights.",
+        "language": "en"
+      },
+      "date": "2024-01-01T07:42:28Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We appreciate your business so much! Hope to serve you again soon.",
+          "date": "2024-01-22T14:52:38Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Olivia G.",
+        "user_id": "Q_0hei_6tQw30A5QBC_qug",
+        "link": "https://www.yelp.com/user_details?userid=Q_0hei_6tQw30A5QBC_qug",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ARaZswJCFLeEsPGgcmMcvw/180s.jpg",
+        "address": "Sandy Springs, GA",
+        "friends": 89,
+        "photos": 455,
+        "reviews": 153
+      },
+      "comment": {
+        "text": "Excellent service & food at a great location. This was my first experience eating Ethiopian food and the flavor blew my mind! \nOur party pretty much sampled the whole menu lol. While I cannot recall all the dishes, I didn't eat anything that was NOT yummy. Will come back back again and again!",
+        "language": "en"
+      },
+      "date": "2022-12-01T21:04:32Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cxnsxnXkLHvOcaU0mhmOdg/o.jpg",
+          "caption": "Appetizers"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 3
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks Olivia!! We appreciate your business and look forward to serving you again soon!",
+          "date": "2022-12-07T18:27:38Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Amod G.",
+        "user_id": "jjwIZd7L0Ray_AFIh3R2Gg",
+        "link": "https://www.yelp.com/user_details?userid=jjwIZd7L0Ray_AFIh3R2Gg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rJve8hI2yxJL9pykzIOQIw/180s.jpg",
+        "address": "Grant Park, Atlanta, GA",
+        "friends": 47,
+        "photos": 167,
+        "reviews": 145
+      },
+      "comment": {
+        "text": "Desta is one of my regular, and I brought a friend who loves Ethiopian food.\n\nWe arrived early and were lucky to find availability, as the restaurant can be quite busy specially in the evening. I had the breakfast platter which included kinche, scrambled eggs, and chechebsa. I also added the fir fir because why not. The scrambled eggs were spicy and reminded me of egg burji in India.\n\nMy friend had the fish tibs which he enjoyed. The service was as usual, nice and quick.\n\nAll in all, I had a great experience at this Ethiopian restaurant and would definitely go there again. The food is always tasty and the service is always friendly. I highly recommend this restaurant to anyone looking for some delicious Ethiopian food.",
+        "language": "en"
+      },
+      "date": "2023-01-20T17:06:20Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/x0PnkpYoK3DkCCer-JB0kQ/o.jpg",
+          "caption": "Breakfast Combo"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for the awesome recommendation! We appreciate your business and look forward to serving you again soon!",
+          "date": "2023-01-22T17:02:31Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Daniel R.",
+        "user_id": "2qMqKqcV5hrvWaV89i2RPg",
+        "link": "https://www.yelp.com/user_details?userid=2qMqKqcV5hrvWaV89i2RPg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "This is a great place to go for your first experience with Ethiopian food. The staff is friendly and helpful, and they are very patient with customers who have no clue where to start. The food is great and the prices are reasonable.",
+        "language": "en"
+      },
+      "date": "2024-02-16T01:11:36Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Titi D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/0NZehmDBibndqcaEKH_HLw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for the great recommendation!",
+          "date": "2024-02-16T17:28:12Z"
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=S9NvWyHUPsuYK7ObMV43pA&start=60"
+  }
+}

@@ -1,0 +1,1379 @@
+{
+  "search_metadata": {
+    "id": "65f0a1caf26ac6a939d876ab",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f0a1caf26ac6a939d876ab.json",
+    "created_at": "2024-03-12 18:41:14 UTC",
+    "processed_at": "2024-03-12 18:41:14 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/077MWijQIKqatl7Dwl_P6w?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1caf26ac6a939d876ab.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1caf26ac6a939d876ab.prettify",
+    "total_time_taken": 1.91
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 160,
+    "num": "50",
+    "place_id": "077MWijQIKqatl7Dwl_P6w"
+  },
+  "search_information": {
+    "total_results": 340,
+    "business": "Big B’s Fish Joint"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 340
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Jonathan J.",
+        "user_id": "hT8ce-0felFA2aZoodOY2Q",
+        "link": "https://www.yelp.com/user_details?userid=hT8ce-0felFA2aZoodOY2Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ldo_SDJhBHbyBJWHrlzw8Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 110,
+        "photos": 97,
+        "reviews": 136
+      },
+      "comment": {
+        "text": "Casual seafood restaurant with great vibe. Always rather crowded but never a long wait. They have indoor and outdoor seating. During happy hour, they do have live music on the patio. The food is pretty good! Also awesome drink menu as well. Love the lobster roll and fried shrimp!",
+        "language": "en"
+      },
+      "date": "2021-10-25T04:31:51Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Sarah K.",
+        "user_id": "nq9HQjoXKaBnCpZwpxva8A",
+        "link": "https://www.yelp.com/user_details?userid=nq9HQjoXKaBnCpZwpxva8A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FN6JhzuvJu2kNgHp36fFoQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 134,
+        "photos": 1,
+        "reviews": 25
+      },
+      "comment": {
+        "text": "This place is amazing. We've heard good things for a while and finally got to go tonight! Tom took amazing care of us. We ordered 1 dozen oysters, fries platter with fish and shrimp, and blackened trout. Fries. Cheese grits, and broccoli raisin salad were our sides. Everything was incredible and I highly recommend. \n\nAlso, shoot to Henry, he's got the hustle you don't see much anymore! \n10/10 stars!!!",
+        "language": "en"
+      },
+      "date": "2021-04-15T02:11:34Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tamara F.",
+        "user_id": "lq0ZqJngvgA0aVm-p_LAdw",
+        "link": "https://www.yelp.com/user_details?userid=lq0ZqJngvgA0aVm-p_LAdw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HVZXcDHrb05xBAh8e1M9fQ/180s.jpg",
+        "address": "Norcross, GA",
+        "friends": 7,
+        "photos": 13,
+        "reviews": 29
+      },
+      "comment": {
+        "text": "The food and service were amazing. I got the blackened scallops, fries, and broccoli raisin salad. I can't wait to try other things on the menu!",
+        "language": "en"
+      },
+      "date": "2020-11-12T23:50:35Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JkcqRr4PaXfkWILBX4TCjA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lydia G.",
+        "user_id": "ovN-aXxRqaLwasGQDA3g7w",
+        "link": "https://www.yelp.com/user_details?userid=ovN-aXxRqaLwasGQDA3g7w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Iz3sYC0ghXk6vIYo5gC_gg/180s.jpg",
+        "address": "Roswell, GA",
+        "friends": 165,
+        "photos": 42,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "I have been coming to this restaurant for a couple of months now. I held my review because I was looking for consistency. When I tell you this place is AWESOME!!! The seafood is \"coastal\" fresh; not overly battered on the fried foods;  all waitresses and waiters are wonderful; management impeccable; COVID safe environment. I'm here at least twice a week. It's just that FRESH AND DELICIOUS. If I order pick up, it's always ready and I don't have to get out of my car. If I order an alcoholic beverage...I don't have to search for the alcohol....ijs. You can't go wrong.",
+        "language": "en"
+      },
+      "date": "2021-04-01T19:58:09Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JPr0tECT-2dWy08S6c9h4g/o.jpg",
+          "caption": "Me Fat, Full & Happy"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pXdHTlWlaQDAnJE_fvojbA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HugDF9ynB3_sYbxRmMDAVQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ScrTzEITa2jrwkKVeJOTdA/o.jpg",
+          "caption": "Gumbo"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VglTtsgG38AlrJy_McGMVA/o.jpg",
+          "caption": "Fish & Shrimp Platter"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rob M.",
+        "user_id": "p71qPpN4-tZXFPf4vpQn-w",
+        "link": "https://www.yelp.com/user_details?userid=p71qPpN4-tZXFPf4vpQn-w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dSoLVwWNkXnRP7Enx6ZTxQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 389,
+        "photos": 1,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Customer service was great! Due to Covid there were no servers on duty. The owner and the cooks brought our food and drinks out. We had the 12 for $12 oysters which is included in the happy hour that is daily 4-7pm. There were super fresh and tasted great. Nice size. We also had the Calamari which tasted great as well. For our entrees, we had the Lobster roll and it was nothing short of sexual. I will definitely be back! I also had a Gingerita that was tasty but not quite strong enough for me. I like my drinks stiff .",
+        "language": "en"
+      },
+      "date": "2020-06-10T23:49:18Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ih-2-EoewihvabAvuAgHag/o.jpg",
+          "caption": "Lobster roll"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shawn M.",
+        "user_id": "9AKhWf9YXFJpvyUfMIuSYA",
+        "link": "https://www.yelp.com/user_details?userid=9AKhWf9YXFJpvyUfMIuSYA",
+        "address": "Miramar, FL",
+        "friends": 19,
+        "photos": 0,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Restaurant is really nice on the inside and the food was good. I order the fried fish sandwich and a side gumbo. I highly recommend and the service was great!",
+        "language": "en"
+      },
+      "date": "2022-09-08T19:52:22Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Albert C.",
+        "user_id": "QzhnrdiYI_wkTImWA-LxLg",
+        "link": "https://www.yelp.com/user_details?userid=QzhnrdiYI_wkTImWA-LxLg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zV_l5ux-3OthYR-t2YyK5Q/180s.jpg",
+        "address": "Austin, TX",
+        "friends": 1,
+        "photos": 1,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "The best experience I've had at Big B's Fish Joint.\nWe were many but  they didn't disappoint. All of our order was done within the time frame. My dish was done according to liking. The best part of the experience was staff . They serve with their heart.\nWe were very happy with our meal. Desert was included. It was a nice brownly Sunday just the right size. Service from our waiter was memorable. They were ready to replenish drinks and get any thing we needed- bingo",
+        "language": "en"
+      },
+      "date": "2021-03-05T20:35:10Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "B C.",
+        "user_id": "zfnw8tvRSBlm-OeUUXVPVQ",
+        "link": "https://www.yelp.com/user_details?userid=zfnw8tvRSBlm-OeUUXVPVQ",
+        "address": "Marietta, GA",
+        "friends": 1,
+        "photos": 8,
+        "reviews": 27
+      },
+      "comment": {
+        "text": "Food was very good. Not great, but definitely a good place to go for casual dining. Atmosphere is very relaxed and servers are attentive. Oysters were best part.",
+        "language": "en"
+      },
+      "date": "2022-06-29T13:53:25Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Humna S.",
+        "user_id": "DBDhhteTqHrSPfOKQtEUKw",
+        "link": "https://www.yelp.com/user_details?userid=DBDhhteTqHrSPfOKQtEUKw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ug0K_Hi2UmH6q66l5eCEsQ/180s.jpg",
+        "address": "Cumming, GA",
+        "friends": 6,
+        "photos": 63,
+        "reviews": 116
+      },
+      "comment": {
+        "text": "I tried the fish and chips and sweet chili shrimp from appetizers. It was not tasty at all. This place is hyped up. The two stars are for service which was good.",
+        "language": "en"
+      },
+      "date": "2021-09-27T13:40:57Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Terry F S.",
+        "user_id": "DRUOenoR63KnZudKVC51ew",
+        "link": "https://www.yelp.com/user_details?userid=DRUOenoR63KnZudKVC51ew",
+        "address": "Stone Mountain, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "The fish was delicious. The portions were a nice size. I will definitely go back. The service was also great!",
+        "language": "en"
+      },
+      "date": "2022-05-23T01:57:01Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Morgan C.",
+        "user_id": "gc5tYs0jUiDOa9leTfAoGQ",
+        "link": "https://www.yelp.com/user_details?userid=gc5tYs0jUiDOa9leTfAoGQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CrzMzIuKo8wHKKUUoe9qrg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 356,
+        "photos": 229,
+        "reviews": 455,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We dined here on a Saturday night. There is ample parking in the parking lot and the restaurant is easily accessible. Upon entry, we were seated within 5 minutes. Our waiter, James, was great and very attentive. The manager was very kind and attentive as well. I ordered the blackened scallops with jasmine rice & broccoli. The scallops were very large and the serving size given was large. I believe there were 7-8 scallops which is much more than most restaurants give. They were really good. I would highly recommend the scallops. I tasted my mom's sweet potato tater tots and they tasted very good. Great side. My friend and mom both got the trout and said it was good. Everyone really enjoyed their meal. The ambiance of the restaurant is really nice & the staff is taking precautions for safety and COVID. I would recommend this restaurant if you want a nice seafood meal with exceptional service.",
+        "language": "en"
+      },
+      "date": "2020-08-30T02:40:50Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FnDJZCae6VHDRFAK0QoxFQ/o.jpg",
+          "caption": "blackened scallops with jasmine rice & broccoli"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nikkita F.",
+        "user_id": "vY-wmrXi1QrCbrhgGq51Dw",
+        "link": "https://www.yelp.com/user_details?userid=vY-wmrXi1QrCbrhgGq51Dw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/75CWZiBy3w4hXB72jhEpzA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 26,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "The food was hit and fresh. Everything tasted amazing and the restaurant was very clean.",
+        "language": "en"
+      },
+      "date": "2020-10-20T15:55:05Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4NwOQDifwZTJZTLshYymng/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Henry C.",
+        "user_id": "HT1OTyeJ2AuTOK9P_mA2sw",
+        "link": "https://www.yelp.com/user_details?userid=HT1OTyeJ2AuTOK9P_mA2sw",
+        "address": "Saint Charles, MO",
+        "friends": 0,
+        "photos": 36,
+        "reviews": 38
+      },
+      "comment": {
+        "text": "Just tried out happy hours for oysters and drinks special and I was not disappointed.  Service was great and oysters taste fresh.   Margaritas was good.",
+        "language": "en"
+      },
+      "date": "2022-07-15T01:20:46Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "eugene c.",
+        "user_id": "asHGLFI4gNZhB5Hf96wNJA",
+        "link": "https://www.yelp.com/user_details?userid=asHGLFI4gNZhB5Hf96wNJA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sLSkmWTd3SdwVx2-hosAtA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 285,
+        "photos": 1,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "Food fresh and price well.  Great casual seafoood \nSupport this place !  Fresh fish great  prices.",
+        "language": "en"
+      },
+      "date": "2021-01-21T01:30:56Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Angel L.",
+        "user_id": "p-3KJdrF4XYJ0y9ztydR2w",
+        "link": "https://www.yelp.com/user_details?userid=p-3KJdrF4XYJ0y9ztydR2w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/46oCGeEAlpU-yrGkLsnr0Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 280,
+        "photos": 112,
+        "reviews": 232
+      },
+      "comment": {
+        "text": "I highly recommend this spot. The food is good. Though, they just changed chefs which made the food decent. I'll give it some time for the food to transition to fantastic again. The service is impeccable. I would equate this place to a starbucks. It is dependable and a great place to meet people in small groups.",
+        "language": "en"
+      },
+      "date": "2021-08-12T19:10:43Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "J M.",
+        "user_id": "o8ABWFO2Reg5hcrB-39rUw",
+        "link": "https://www.yelp.com/user_details?userid=o8ABWFO2Reg5hcrB-39rUw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/U4U90BdHDl3MPeBtG8QUZw/180s.jpg",
+        "address": "Forest Park, GA",
+        "friends": 0,
+        "photos": 22,
+        "reviews": 52
+      },
+      "comment": {
+        "text": "After a visit to the vet, I frequently treat my fur-girl to a meal here. I came for the buttery lobster roll and stayed for darn near everything else. I find the fish to be fresh here, as this is also a fish market. Friendly staff always make us feel welcome. They are kind enough to cook a plain chicken fillet, and always have a ready water bowl for Avrora. I have had their salmon and catfish, and enjoyed them both. Their greens are nicely seasoned. And, their desserts are tasty. Don't sleep on their cocktails. You'll enjoy them. I'll be returning soon.",
+        "language": "en"
+      },
+      "date": "2021-08-23T23:40:42Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Karen W.",
+        "user_id": "RLWU-3m_nuB2K7Wv_-p87w",
+        "link": "https://www.yelp.com/user_details?userid=RLWU-3m_nuB2K7Wv_-p87w",
+        "address": "Charlotte, NC",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Excellent service and food was fresh and delicious. Will definitely come back when in ATL",
+        "language": "en"
+      },
+      "date": "2022-08-14T23:11:03Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lauren M.",
+        "user_id": "8vHsfxBXrLPJYbdRZh_jbg",
+        "link": "https://www.yelp.com/user_details?userid=8vHsfxBXrLPJYbdRZh_jbg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vlUzBXcahx8ERBhlpO6eRA/180s.jpg",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 490,
+        "photos": 311,
+        "reviews": 142
+      },
+      "comment": {
+        "text": "I really enjoyed this place!  It's in a new area that's pretty nice! There's indoor and patio seating. The seafood is all moderately priced compared to other seafood places in the Atlanta - which can be very overpriced!  I also love that this place is a bit more casual without being a shack.",
+        "language": "en"
+      },
+      "date": "2021-08-20T19:24:47Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Caroll B.",
+        "user_id": "LZ9MN1jxIznSeGZpIEJfQQ",
+        "link": "https://www.yelp.com/user_details?userid=LZ9MN1jxIznSeGZpIEJfQQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/L-iw2spmzQ1VSXPogLiOlw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 14,
+        "photos": 1,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "Staff did not wear masks. If you are going to advertise that your staff wears masks, make sure that it's true. I just picked up my food and nobody was wearing masks.",
+        "language": "en"
+      },
+      "date": "2021-07-13T22:25:12Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "David S.",
+        "user_id": "HyMp5x3w7coh80wXpNakJQ",
+        "link": "https://www.yelp.com/user_details?userid=HyMp5x3w7coh80wXpNakJQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WlX2gw88NQQr6zOibxOvsA/180s.jpg",
+        "address": "Cumming, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "Excellent sandwiches and fish and chips. Fries are top notch. Always received great and timely service.",
+        "language": "en"
+      },
+      "date": "2021-09-24T22:55:04Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Everett C.",
+        "user_id": "Flvse2Ckp4c2uphdpHbixA",
+        "link": "https://www.yelp.com/user_details?userid=Flvse2Ckp4c2uphdpHbixA",
+        "address": "GA, GA",
+        "friends": 24,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "My wife and I have been to Big B's several times and love the happy hour drink and appetizer specials. We love the shrimp and grits fritters, and I love the $1 raw oyster specials. Bartenders Dean and Michael are great. My only complaint is I wish they would bring back the hush puppies.",
+        "language": "en"
+      },
+      "date": "2022-08-06T00:10:40Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "K L.",
+        "user_id": "OxyP6WheoOUU5yS-2SocxA",
+        "link": "https://www.yelp.com/user_details?userid=OxyP6WheoOUU5yS-2SocxA",
+        "address": "Kennesaw, GA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "Service terrible. No where near capacity  in the restaurant. I walked in and asked for seating for 1. I was not asked if I had an preference for inside or outside dining. I was walked to the backside of the bar by the kitchen door.   Absolutely not for me. I then asked if there was any availability outside.  The manager/ host looked around as though he was going to choose a table and then said to me \"pick wherever you like. I choose my table. After a few minutes the bartender came to my table and informs me that he will be my server. I found this odd as there were only 2 additional parties seated outside.  Another party was seated 1 table away and was provided with a waiter. As the manager was leaving after seating the table that was 1 table away, I asked if he could send the bartender to take my order.  He then said he would take my order.  He returns with my drink and says that my order has been placed. I feel that I was treated less than because I was a Black  female dining alone. All of the other patrons where Caucasian and provided standard service. As I paid my check I asked the bartender how many tables he had outside. His answer confirmed my thoughts. I was the only table being served by the bartender. This is 2022. THIS ESTABLISHMENT MUST DO BETTER!  To add insult to injury, someone took it upon themselves to fill out my satisfaction card. Their comments did not reflect my experience (see attached) and I did not leave this false representation of my experience. I ordered wine and the lobster roll. Everything was good but the lobster roll was small for $29",
+        "language": "en"
+      },
+      "date": "2022-04-01T17:57:07Z",
+      "rating": 1,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/J89YhlFEs79L9hwHkMhRAA/o.jpg",
+          "caption": "Lobster roll."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0vVCWzJjJLtxWb-XOOZCQw/o.jpg",
+          "caption": "Satisfaction card"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mit P.",
+        "user_id": "8dqcpU2ld3Fz8mxUcfdRuw",
+        "link": "https://www.yelp.com/user_details?userid=8dqcpU2ld3Fz8mxUcfdRuw",
+        "address": "Atlanta, GA",
+        "friends": 96,
+        "photos": 42,
+        "reviews": 388
+      },
+      "comment": {
+        "text": "Since my previous review this place has improved its service.  So here's the latest:\n1) Great food.  I really like the fresh seafood and the wide selection they have.  Everything was prepared really well and tasted great.  My favorites are the fish sandwiches and fish tacos.  The slaw and fries are good too.\n2) The modular menu.  You can pick any fish and have it prepared how you want: fried, blackened, grilled, sautéed + Served how you want: Taco, Sandwich, Plate with sides, Salad.  This is really great and I wish more places did it this way.\n3) They are fairly quick with takeout.\n4) Good service\n\nWhy not 5 Stars?\nThere is some variability in the kitchen.  Sometimes the fish may come out a little overcooked.  It's not bad, but not always perfect.",
+        "language": "en"
+      },
+      "date": "2020-06-18T22:05:11Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6NgAe9rtJslMulYtfICpKw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Barry M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/S4PqE6HX4K5KmLN44r5URg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Mit.  Thank you for this feedback.  I sincerely apologize that your sandwich took so long to be delivered.  The situation should have been handled differently and is being addressed with staff.  Kitchen times will absolutely improve quickly over the next few days and I regret that the kitchen was not able to make that happen today.  I certainly hope that you will try us again in the near future and see our improvements.  Sincerely, Barry",
+          "date": "2019-11-16T22:41:33Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Melanie T.",
+        "user_id": "MFJjJKZRm26asUA9D74juw",
+        "link": "https://www.yelp.com/user_details?userid=MFJjJKZRm26asUA9D74juw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FsWCLxbnKa16b2nfO-pwWg/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 242,
+        "photos": 168,
+        "reviews": 125
+      },
+      "comment": {
+        "text": "We were so excited to try this place. The decor is cute and simple and the restaurant was spacious (and empty).  Unfortunately, we were pretty disappointed by the service and the food.\n\nThe host was reluctant to share recommendations from the menu which should have been a sign that maybe the food just isn't that good.\n\nMe: How are the scallops?\nHost: They are scallops. *insert very blank stare*\n\nUnfortunately, we did not take the hint and ended up ordering two sandwiches and fries. The food was underwhelming to say the least. I had to ask the waitress if they accidentally forgot to season any of the food. The only flavor was from the char marks from the grill. The green beans tasted like they were from a can.\n\nThere are better fish sandwich restaurants in Atlanta.",
+        "language": "en"
+      },
+      "date": "2020-01-21T18:16:47Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 4,
+        "funny": 2,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Dan B.",
+        "user_id": "WYW6R6QenoVuwKF4rfOlpA",
+        "link": "https://www.yelp.com/user_details?userid=WYW6R6QenoVuwKF4rfOlpA",
+        "address": "Marlborough, MA",
+        "friends": 9,
+        "photos": 29,
+        "reviews": 29
+      },
+      "comment": {
+        "text": "Blackened catfish was great! Bar staff was super friendly and helpful. Had the tiki rum mai tai and finished off with a old fashioned.  Great place nice atmosphere.",
+        "language": "en"
+      },
+      "date": "2021-07-29T00:48:05Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ylNAcFZ58TzwDXQY67weJw/o.jpg",
+          "caption": "Blackened catfish"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FMxA-ZvZgrUGhRRJgVa9AA/o.jpg",
+          "caption": "Tiki rum mai tai"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0QuHxHiIn2rzjftYaecMCQ/o.jpg",
+          "caption": "Old fashioned"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sydney P.",
+        "user_id": "R_xy8pkyoH4BASg4kpLMsg",
+        "link": "https://www.yelp.com/user_details?userid=R_xy8pkyoH4BASg4kpLMsg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NPkvM8_0a4OlOfTj56JXvQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 8,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "Tommy took care of us while we sat at the bar. We started with the clam chowder and a special Colossal peel n eat shrimp appetizer. Both were amazing! We moved on to the Alaskan cod sandwich and a dozen oysters.  Again, we were impressed by the freshness of the seafood and the attention to detail down to the homemade tartar sauce. Tommy made perfect cocktails for us and was a great conversationalist while we sat with him. It was a great afternoon. We will be back!!!!",
+        "language": "en"
+      },
+      "date": "2020-07-26T20:27:00Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/m1UbScaw11rD6ikZTeuE_A/o.jpg",
+          "caption": "Oysters and Alaskan cod sandwich"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9phhyq342_4F0NjFinPiJA/o.jpg",
+          "caption": "Brunswick Colossal shrimp"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_zMYq0OkPvmAqlh_B_4mgQ/o.jpg",
+          "caption": "Old fashioned"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chrissy M.",
+        "user_id": "Gz6up0E04_0RTVR1KCbWHA",
+        "link": "https://www.yelp.com/user_details?userid=Gz6up0E04_0RTVR1KCbWHA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MxAYQkQT4wEH-TbF6dHcbg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 26,
+        "photos": 8,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "Dined here tonight since we heard good things about this place via Facebook & Next Door. We were seated at 6:25 and order was taken at 6:35p. Food did not arrive until 7:20p. You can imagine how restless & hungry our 3.5 year old & 1.5 year old kids were...\n\nDishes we ordered:\n1. Blackened Snapper sandwich: tasty & fish was cooked well.\n2. Creamy Scallop pasta: scallops were cooked well but plain & not seared well. You get 5 good-sized ones. Linguine was al dente. Lemon butter parmesan sauce was soupy & filled up to the brim of the bowl.\n3. Grilled Salmon plate: cooked well (medium) but was this salmon fillet for a child? TINY serving.\n4. Kid's fish nuggets: pretty tasty & not super oily\n\nKitchen service/speed needs to greatly improve before we return. We received 3 free coupon for apps & may not even use them to be honest...",
+        "language": "en"
+      },
+      "date": "2020-01-25T01:37:31Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Carrie Neal W.",
+        "user_id": "s4NgvdIfBH3UQdccWCyARg",
+        "link": "https://www.yelp.com/user_details?userid=s4NgvdIfBH3UQdccWCyARg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QXKBKABq5E8UyorRk9eZYQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1113,
+        "photos": 1382,
+        "reviews": 1229
+      },
+      "comment": {
+        "text": "Good little place! Simple decor and high ceilings, and we grabbed a table over by the bar. \n\nThe fritters were a winner for the app. Sometimes there's an extra fish on the menu depending on what looked good coming in that day. The blackened mahi was just spicy enough with the seasoning and well-cooked. The mac & cheese has so much competition in this city that it was good, but not a best of contender! The cilantro lime rice was definitely lime-y which we like.\n\nNice server, and it was quiet around 8:30 on a weekday. The options of sandwich/salad/plate make it a spot I'll return to when in the area. Prices are pretty reasonable, even for what's too much to pay for a Coke or tea anywhere these days!\n\nNice addition to the complex.",
+        "language": "en"
+      },
+      "date": "2019-12-16T14:41:27Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Pamela D.",
+        "user_id": "Fe-v_HK8DCA7XQizhLmD_w",
+        "link": "https://www.yelp.com/user_details?userid=Fe-v_HK8DCA7XQizhLmD_w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VPddTIycs64s19k96ccshw/180s.jpg",
+        "address": "Chicago, IL",
+        "friends": 3,
+        "photos": 0,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "We came here for lunch on Friday and it was amazing! We had fried calamari and the crispy cod. Husband also had the key lime pie. Everything came out on time and it was delicious. The waiter Tommy was super nice and welcoming. We will definitely be coming back for more!",
+        "language": "en"
+      },
+      "date": "2021-06-25T21:39:56Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mia W.",
+        "user_id": "Ln3Un3bRt36JJczUAto5EQ",
+        "link": "https://www.yelp.com/user_details?userid=Ln3Un3bRt36JJczUAto5EQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3ABrM9wldPQGkNDeii6BXw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 125,
+        "photos": 322,
+        "reviews": 289
+      },
+      "comment": {
+        "text": "When I say there was no disappointment here!!! I went  in during the day on a weekday so it wasn't very busy and I sat outside and they have heaters so it was perfect!! Very crisp and clean decor. When I walked in I was great by a handsome sweet guy named Tommy and he actually was our server and bartender as well. We started with the shrimp and grits fritters, how is something to small filled with flavor and absolutely yummy!!! My friend had the salmon BLT and she said it was too die for and I ordered the Lobster roll, man oh man was it perfect and over filled with lobster that was yummy and perfect!! For dessert we has the Peanut Butter Pie and lawd have mercy on your taste buds!!! It was perfect. Tommy was absolutely amazing and so friendly and he made killer drink!! I don't remember the name of my drink exactly but I think it was French 75 but made with vodka and it was divine!!! I will definitely return again and again!!!",
+        "language": "en"
+      },
+      "date": "2020-12-27T22:48:53Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LZU6bHuwB4JVfFYLatjCQg/o.jpg",
+          "caption": "Lobster Roll with Old Bay Fries"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ou7KhXqMj9G8iP-E5UN0aA/o.jpg",
+          "caption": "Peanut butter pie"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ea8miI3fO6ibCmEPyGlouQ/o.jpg",
+          "caption": "Shrimp and Grit Fritters"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jamie P.",
+        "user_id": "RyMj9ackvlh4rmwlX0volw",
+        "link": "https://www.yelp.com/user_details?userid=RyMj9ackvlh4rmwlX0volw",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "Love this place-  Food is fresh and love the bar and patio.  Please add a lunch menu and or lunch specials!  \nThanks so much",
+        "language": "en"
+      },
+      "date": "2021-09-25T19:19:33Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Beth S.",
+        "user_id": "YagwLPy_HuRHQ848R3j14g",
+        "link": "https://www.yelp.com/user_details?userid=YagwLPy_HuRHQ848R3j14g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WmDC9bb4JR-8321fq9w00g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 3,
+        "photos": 2,
+        "reviews": 109
+      },
+      "comment": {
+        "text": "What a nice addition to the neighborhood! The oysters were super fresh. I also tried the fried fish sandwich. The batter is nice and light and the fish is a thick chunk with no dripping grease.. The shape is a little unusual- a rectangle that slightly resembles a frozen French toast stick but thicker and fresh.  The old bay fries were not over seasoned, just the perfect hint of spice. Service is excellent. Parking is easy. COVID practices in place.",
+        "language": "en"
+      },
+      "date": "2021-01-19T12:18:41Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Julia T.",
+        "user_id": "OIOTS3iWOl-Q5184PnyZ3g",
+        "link": "https://www.yelp.com/user_details?userid=OIOTS3iWOl-Q5184PnyZ3g",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 35
+      },
+      "comment": {
+        "text": "Big B's Happy Hour specials seem to be their forte.  As long as they serve fries and keep Old Bay seasoning around, I guess they'll do okay.  The seasoning on the rest of the food is not right or non-existent.  The portions are meager and the Old Bay seasoned fries take up most of the plate.  We had enough leftover fries to bring home and put in the freezer for dinner-at-home.",
+        "language": "en"
+      },
+      "date": "2022-05-10T05:58:51Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Barry M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/S4PqE6HX4K5KmLN44r5URg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Julia - You ordered off the kid's menu which intentionally has zero seasoning.  We have adult fish 'n chips with adult seasoning on our regular menu.   Thanks for your order and trying out our curbside pickup.",
+          "date": "2020-08-12T01:48:34Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Judy M.",
+        "user_id": "_deeW9WbLFf-yPcOSbBUmw",
+        "link": "https://www.yelp.com/user_details?userid=_deeW9WbLFf-yPcOSbBUmw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yojVpsXDODWQFFQvbtSBpw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Love their shrimp.  Have ordered it three times.  Miss their tomatoe cucumber feta side salad and hope it comes back in the spring. Salmon is excellent.",
+        "language": "en"
+      },
+      "date": "2020-02-14T21:43:42Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wiXlNb0bfIss6GHkNrbpYQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Austin F.",
+        "user_id": "1D6BGpWWUSWudxmmPc7sPQ",
+        "link": "https://www.yelp.com/user_details?userid=1D6BGpWWUSWudxmmPc7sPQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2srE-7lspnf3ESOUuGelFg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 579,
+        "photos": 1,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Quality seafood and great customer service! Trout dip appetizer is very flavorful and the lobster roll is to\nDie for!!!! Do yourself the favor of going by Big Bs Fish Joint ASAP!",
+        "language": "en"
+      },
+      "date": "2020-01-28T17:21:53Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "C W.",
+        "user_id": "ZXjci47jdcdJCy_4_BB8ng",
+        "link": "https://www.yelp.com/user_details?userid=ZXjci47jdcdJCy_4_BB8ng",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/b44LYJK6UysVTkwO2wDQIw/180s.jpg",
+        "address": "Fountain, CO",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 49
+      },
+      "comment": {
+        "text": "This place was amazing. Everything was cooked to perfection. The fish was fresh and well cooked. The cheese grits were perfectly cooked and cheesy, the greens were delicious. The waiter, Rashad, was extremely friendly and attentive. This is the best meal I've had in a while.",
+        "language": "en"
+      },
+      "date": "2021-08-27T02:06:26Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ryan M.",
+        "user_id": "t-sC5w7PnUchM6GLuCSTUg",
+        "link": "https://www.yelp.com/user_details?userid=t-sC5w7PnUchM6GLuCSTUg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/t8AomfjTTNfw-6jRv75bDg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 13,
+        "photos": 2,
+        "reviews": 31
+      },
+      "comment": {
+        "text": "Sorely disappointed. It seems like nothing can last in this location. Took 45 min to get our food on an average Friday night. My sandwich was fine but my wife's pasta dish was swimming in Alfredo sauce soup. It lacked any sense of finesse. Waiter was incredibly flustered the whole time but you could tell was trying. Kitchen service was just horrible. And walking into the restaurant smelled fishy. \n\nWill not be returning until the next restaurant opens. \n\nAs much as I'd like for a consistent local spot to win, I'd give it a year tops. Already wondering what's next.",
+        "language": "en"
+      },
+      "date": "2020-01-26T04:09:34Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 2,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Barry M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/S4PqE6HX4K5KmLN44r5URg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Ryan & Chrissy,  We are so sorry about this meal and hope you will give us another chance.  After reviewing the situation, we realized your server did not put your order into the system on time.  The kitchen did nothing wrong.  That is certainly still our fault and we fixed that issue right after reading both of your reviews.   Also, spoke with the Chef about our pasta having too much sauce and we fixed it. Next time, if anything happens, please let our managers know so that we can do our best to make it right while you are dining with us.  Thank you for your visit and taking the time to share both of your experiences with us.",
+          "date": "2020-01-27T21:45:56Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "J C.",
+        "user_id": "3MCJFYQCnxwj7VVYWGMZ2w",
+        "link": "https://www.yelp.com/user_details?userid=3MCJFYQCnxwj7VVYWGMZ2w",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 36
+      },
+      "comment": {
+        "text": "4 stars for food\nOrdered fish sandwich (fried catfish). Fish is overly  generous portion and overflows out of the bun but no complaints here! Was delicious and had a good batter\nHubby ordered the grilled trout, with 2 sides. He enjoyed it but thought my sandwich was better\n\n5 stars-  Online ordering and curbside pick up- very easy and on time! \n\nWe will be back!",
+        "language": "en"
+      },
+      "date": "2021-04-12T22:07:06Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mariana P.",
+        "user_id": "JOxksGQv9iLjJUp2HW9RNA",
+        "link": "https://www.yelp.com/user_details?userid=JOxksGQv9iLjJUp2HW9RNA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OSelR3dSLhvJGs28hlxNxw/180s.jpg",
+        "address": "Barcelona, Spain",
+        "friends": 260,
+        "photos": 8,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "Great place, options, great service, great price. We ordered the mahi mahi tuna with salad and sweet potato tots and the avocado toast of brunch menu. Everything was very tasty and portions are great. We also had the brownie, which was delicious. They were also careful with covid. Will definitely come back to try other things on the menu",
+        "language": "en"
+      },
+      "date": "2021-01-13T17:58:03Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kevin K.",
+        "user_id": "-ZyHNffjY-qUZuvTwtp4Mw",
+        "link": "https://www.yelp.com/user_details?userid=-ZyHNffjY-qUZuvTwtp4Mw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/9upMRc5pJjbL4KUS3pMnmg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 172,
+        "photos": 0,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Don't let the 3 stars fool you!  Dropped in yesterday to check the place out and I must say I was quite impressed with the food and staff.  Good selection of local craft draft beers and the blackened cod sandwich was spot on!  And those Old Bay seasoned fries were killer.  I also learned why they do not serve a grouper sandwich and that is due to price per pound.  Fine by me if you can serve a fresh cod fish sandwhich that is 5 oz for around $13. I'm all in!!!!\n\nNOW THE DOWNSIDE....NO WIFI!  As we are on the eve of 2020, to tell me they can't have customer WIFI because credit cards are tied to the system is just plane wrong.  This is a spot to bring in your laptop, sit at the bar, do a little work and eat some good food and drink a beer or two!\n\nYou guys need a new tech company handling your IT asap!\n\nLet me know when you have it fixed and I will be back regularly.",
+        "language": "en"
+      },
+      "date": "2019-12-31T12:16:49Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Barry M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/S4PqE6HX4K5KmLN44r5URg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hello Kevin.  We have wifi now.  Thanks for the kind words and sharing your feedback.",
+          "date": "2020-01-07T20:00:17Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Laura J.",
+        "user_id": "6q04a2ItQ5aG444GPzXagw",
+        "link": "https://www.yelp.com/user_details?userid=6q04a2ItQ5aG444GPzXagw",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Everything was overpriced and small quantities, but the food was delicious! We had just traveled for 6 hours and were desperate for food so we went in.",
+        "language": "en"
+      },
+      "date": "2022-06-25T00:28:37Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Daniella H.",
+        "user_id": "Kk2YZjU4hIYXxPFFRidqhw",
+        "link": "https://www.yelp.com/user_details?userid=Kk2YZjU4hIYXxPFFRidqhw",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 6,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "This Place was awesome! Firstly the food was great. Big portions and very flavorful. Great atmosphere. The bartender was very friendly and welcoming, she made a great old fashioned. The staff were all super friendly. It's clean and has a great vibe. The complex needed something like this. I had a cob fish plate with Mac n cheese and fries. All delicious. Anyone who says otherwise clearly has no tastebuds. \n\nCan't wait to go back!!",
+        "language": "en"
+      },
+      "date": "2019-11-15T18:35:07Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zWTbUcmZ910Za2Xv54xp7w/o.jpg",
+          "caption": "Cod Plate"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Barry M.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/S4PqE6HX4K5KmLN44r5URg/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you!!!",
+          "date": "2019-11-15T22:45:42Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Carly A.",
+        "user_id": "3mtGAz7EqNqbP6q9gz2ipw",
+        "link": "https://www.yelp.com/user_details?userid=3mtGAz7EqNqbP6q9gz2ipw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/u2uEqG_nKCmbf5Z5wKKPlw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 30
+      },
+      "comment": {
+        "text": "Popped in for a cocktail and an appetizer with a neighbor on a Saturday night, and I'm so glad I did. I've gotten take out for lunch from Big Bs before, which was fresh and delish, but have not had the chance to dine in yet. The wine/beer/liquor selection is great and always changing. Their new GM mentioned to us that if we have any recommendations to let him know and he'd get our beer on the menu. How nice is that? \n\nHave a feeling spring/summer here is going to be a big hit with their garage doors that open to the patio, and I know I'm personally looking forward to It. Hoping to keep this cute spot around for a while, so we have something other than mexican food in Chastain park!",
+        "language": "en"
+      },
+      "date": "2020-02-23T00:44:31Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tina C.",
+        "user_id": "McLLgJe4aNiGd3PHHLPzcQ",
+        "link": "https://www.yelp.com/user_details?userid=McLLgJe4aNiGd3PHHLPzcQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5z6Bzuu5ozfnW5FMba1VXg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 89,
+        "photos": 29,
+        "reviews": 72
+      },
+      "comment": {
+        "text": "This was my first time eating here. I read the reviews before visiting and they were all good, they were also spot on. The service is good, the atmosphere is good, the service is quick and the food is good. I would recommend this place. Oh and ask them to make sure the owners playlist is playing! It's awesome!!",
+        "language": "en"
+      },
+      "date": "2021-03-28T15:57:55Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tiffany J.",
+        "user_id": "kPhpCznzD_uKbtfTpxgFbg",
+        "link": "https://www.yelp.com/user_details?userid=kPhpCznzD_uKbtfTpxgFbg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "The pictures online do not do this place justice! The food selection, the staff and the restaurants decor is absolutely amazing. The kids menu and portion size was perfect. The atmosphere was great as well. We were kind of disappointed with the dessert selection. Maybe a cheesecake?? But we will go back!",
+        "language": "en"
+      },
+      "date": "2022-05-09T10:50:44Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ange A.",
+        "user_id": "GYurgIpiCwkKp2tGuQF5AQ",
+        "link": "https://www.yelp.com/user_details?userid=GYurgIpiCwkKp2tGuQF5AQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/APFUf9fBi-8mwLYGwMT-KA/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 52,
+        "photos": 110,
+        "reviews": 87
+      },
+      "comment": {
+        "text": "This was my first time eating at the Big N'a and overall I had a good experience. We stopped here for a quick family meal during lunch time and the restaurant wasn't crowded which was good for us. The host was also the only server who created us at the door and let us pick our seats. He was prompt with taking our food and drinks order and everything also came out fairly quickly. We had the calamari for appetizer and the fried fish sandwich with fries and the shrimp & grits for lunch. The calamari was tender and nicely seasoned and good overall. The fish sandwich was not bad but the fries were probably the best part of it. The one regret was the shrimp & grits which was underwhelming and left more to be desired. The grits could've been creamier/richer and thicker. All in all it wasn't a bad experience for a quick lunch but not sure we'll be back.",
+        "language": "en"
+      },
+      "date": "2020-10-08T13:32:29Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Tatiana M.",
+        "user_id": "g43V6OGJPHn8FCaD2C2GDA",
+        "link": "https://www.yelp.com/user_details?userid=g43V6OGJPHn8FCaD2C2GDA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nNqiHNAHw2pGAaXonXqwUw/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 28,
+        "photos": 0,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Delicious trout dip and lobster roll. Wrapped it up with a root beer float that was fantastic. Great attention to detail. Keep up the hard work!",
+        "language": "en"
+      },
+      "date": "2021-04-17T01:43:50Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Amani Z.",
+        "user_id": "IcFHByxrNcy4K_V8ZCRHgA",
+        "link": "https://www.yelp.com/user_details?userid=IcFHByxrNcy4K_V8ZCRHgA",
+        "address": "Lindridge-Martin Manor, Atlanta, GA",
+        "friends": 289,
+        "photos": 1,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Let's just say I discovered this place 4 weeks ago and I have been back once a week since . Clam chowder for starts , the fish sandwich or shrimp platter you can't go wrong . But THE BRUSSELS SPROUTS ARE AMAZING . The team is professional and the restaurant is always clean . I love the sound of Seagals in the restaurant it create such a great ambiance .",
+        "language": "en"
+      },
+      "date": "2022-03-26T01:56:21Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Candice C.",
+        "user_id": "RPTdpaGSy1ArOSbBUF7uPg",
+        "link": "https://www.yelp.com/user_details?userid=RPTdpaGSy1ArOSbBUF7uPg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FM89rA8_wO1ZxT6RW2_G0A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 611,
+        "photos": 25,
+        "reviews": 26
+      },
+      "comment": {
+        "text": "Cute spot. Fish was fresh and service was good. I had blackened mahi with collards and green beans. No complaints on my end. I think tHey upgraded  the menu a bit from the first time I was here and it looks to be a plus. Definitely worth checking out.",
+        "language": "en"
+      },
+      "date": "2020-02-27T01:24:33Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4CuGTu7vUfS7H5iybqh6BA/o.jpg",
+          "caption": "Mahi green beans and collards"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Bob S.",
+        "user_id": "hROYoxey_2VB7G32v5t8xA",
+        "link": "https://www.yelp.com/user_details?userid=hROYoxey_2VB7G32v5t8xA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tB83WX2gF0k1GR42wemaZg/180s.jpg",
+        "address": "West Des Moines, IA",
+        "friends": 27,
+        "photos": 8,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "The wife had a craving for fish and chips for lunch. We turned to Yelp and this is the first place that popped up and the reviews were good.  Off we went.   Parking was a little tight, but hey it's free in Atlanta.  We both had the Fish n' Shrimp.  The battered fish was amazing.  The battered shrimp was crispy and tasty.  Their tartar sauce and cocktail sauce were both fresh and tangy.  (I think they were both made fresh on-site).  She had the traditional sides, fries, and coleslaw.  I substituted the fries for sweet potato tots.  The sweet potato tots were very tasty, I will order them again.  We both felt the coleslaw was a little bland, but we added some salt and pepper and still ate it.  She requested some pickled onions and stirred them into her slaw.  The service was top-notch for a Friday lunch rush.   The server/bartender took great care of us and did not seem rushed.  The only negative we had was the malt vinegar bottle was sticky to the touch, but that won't prevent us from going again.",
+        "language": "en"
+      },
+      "date": "2022-02-27T17:47:29Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=077MWijQIKqatl7Dwl_P6w&start=210"
+  }
+}

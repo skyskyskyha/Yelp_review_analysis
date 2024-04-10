@@ -1,0 +1,1714 @@
+{
+    "search_metadata": {
+        "id": "65ef30fed036a75159a02072",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f3ac24a8377f2625/65ef30fed036a75159a02072.json",
+        "created_at": "2024-03-11 16:27:42 UTC",
+        "processed_at": "2024-03-11 16:27:42 UTC",
+        "yelp_reviews_url": "https://www.yelp.com/biz/24--2r1ZEgnmJs5iVVAOgQ?",
+        "raw_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef30fed036a75159a02072.html",
+        "prettify_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef30fed036a75159a02072.prettify",
+        "total_time_taken": 3.24
+    },
+    "search_parameters": {
+        "engine": "yelp_reviews",
+        "start": 0,
+        "num": "50",
+        "place_id": "24--2r1ZEgnmJs5iVVAOgQ"
+    },
+    "search_information": {
+        "total_results": 682,
+        "business": "Wagaya - Westside"
+    },
+    "review_languages": [
+        {
+            "hl": "en",
+            "count": 682
+        },
+        {
+            "hl": "zh",
+            "count": 1
+        }
+    ],
+    "reviews": [
+        {
+            "user": {
+                "name": "Helena M.",
+                "user_id": "GgwNOsdxR0E9s5R8DzHZSQ",
+                "link": "https://www.yelp.com/user_details?userid=GgwNOsdxR0E9s5R8DzHZSQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/l6m5Uw9PH8RRvQ3IMh2dRA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 29,
+                "photos": 378,
+                "reviews": 139,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Decided to try Wagaya on a random Friday and I'm so glad we did! Quaint little spot so a wait may occur but it moved relatively fast for a Friday evening. My party of two was seated after a brief fifteen minute wait.\n\nThe first thing that caught my eye was their amazing dinner plate deals. I mean, where else in Atlanta can you get two sushi rolls AND ramen for $25? It was such a steal. Sure, their rolls were the basic rolls but it definitely helped satisfy my ramen and sushi craving.\n\nI'm definitely coming back to check out their specialty rolls though!",
+                "language": "en"
+            },
+            "date": "2024-03-02T04:54:27Z",
+            "rating": 5,
+            "tags": [
+                "1 photo",
+                "1 check-in"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cwN4ecg3e7ebArNMz-Tqnw/o.jpg",
+                    "caption": "Tonkatsu Spicy Tuna Roll Crunchy Yellowtail Roll"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Christina P.",
+                "user_id": "KlMoX9KXraD2Pekcyj-Mhw",
+                "link": "https://www.yelp.com/user_details?userid=KlMoX9KXraD2Pekcyj-Mhw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6QkYW5HDOJkeb32z94N85Q/180s.jpg",
+                "address": "Boston, MA",
+                "friends": 15,
+                "photos": 309,
+                "reviews": 105,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Food was standard and good! Nothing outstanding, but I love a consistent place.\n\nPork gyoza (8/10): juicy, flavorful, wish they had a bit more of a crunch at the bottom! \nTakoyaki (7/10): octopus chunk was small inside, but good nonetheless! \nYellowtail roll (10/10): loved the scallion addition to the roll, gave it a bit of extra flavor. Yellowtail was good, fresh.\nSpider roll (7/10): batter on the crab was a bit soggy, but very standard without too much rice in the roll.\n\nService was okay, our waiter was not very attentive and I had to walk up to him to get the check. It wasn't really busy when we went, but they have lots of seating and can probably hold a larger party! Nice place to go if you want a quick fix of sushi near Georgia Tech at a reasonable, affordable price.",
+                "language": "en"
+            },
+            "date": "2024-02-11T02:47:36Z",
+            "rating": 4,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Udvuy1UEsdy-VG5RIcMmjA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lTKt9SKXmnDgEts-6V3aUw/o.jpg",
+                    "caption": "Pork Gyoza"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/B4Cx3zM74nABwFMCoqXktA/o.jpg",
+                    "caption": "Takoyaki"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EA8uLKdGlkYJHpz7wwyi_A/o.jpg",
+                    "caption": "Yellowtail Roll"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Hailey R.",
+                "user_id": "RwXd5g2ILgcqzxCL2uRJIw",
+                "link": "https://www.yelp.com/user_details?userid=RwXd5g2ILgcqzxCL2uRJIw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3IzcvlzNCkSa0nJ_pyanfw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 231,
+                "photos": 143,
+                "reviews": 113,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I love the location and the ambiance, but for the price, I expected Wagaya to be much better. The quality is not much different than any other regular fast-casual sushi place, but the prices made me expect a mid-tier restaurant -- not on the same level as omakase, but also not takeout quality. Unfortunately quality was closer to takeout. Especially obvious for the nigiri, where the fish quality (and the often overlooked rice!) is on full display.\n\nI would come back if a friend wanted to, but I would certainly stick to the rolls over the sashimi/nigiri (I think this is where I went wrong!) The katsu curry we had was also meh -- chicken was good, but the curry was just...plain brown sauce. No hate to Golden Curry cubes (if that's what this was!) but I like when there are potatoes, onion, or carrot added for more substance (which distinguishes a sauce from a curry, imo!) I heard the ramen was great, so maybe go for that. \n\nService felt rushed, which I understand -- it's a small place, but we were asked numerous times if we were ready to order before one of our other members (who was just parking, not late!) had even sat down. On the plus side, food came out very quick for those who arrive hungry.\n\nTLDR - prefer Nagomiya (by the same group) over Wagaya. Quality and service style is better -- maybe a touch more expensive -- but worth it in terms of experience. Wagaya seems to be at this odd inflection point of not quite being a fast casual bar, not quite being a mid-tier restaurant -- and it just didn't work for what I ordered and expected! As always, ymmv!",
+                "language": "en"
+            },
+            "date": "2024-02-08T00:09:34Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Ramiro R.",
+                "user_id": "S_0m12lMAYfo9_4LL14P4A",
+                "link": "https://www.yelp.com/user_details?userid=S_0m12lMAYfo9_4LL14P4A",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fO6OIR6NVnWo_xeXUTtYyA/180s.jpg",
+                "address": "Arlington, TX",
+                "friends": 77,
+                "photos": 55,
+                "reviews": 106,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Y'ALL!!! If y'all ain't know, I'm tellin' y'all NOW!\n\nAmazing. Portion and quality was perfect. \n\nService was immaculate. The vibe gave authentic Japanese. I felt like I was truly in a shinjuku establishment (read: authentic).\n\nThe miso was GIVING. 10/10",
+                "language": "en"
+            },
+            "date": "2023-12-07T04:43:31Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uSE37vULRv3lWpLGt4u_6g/o.jpg",
+                    "caption": "Decor"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/n-Qv6hf1MHbUEW-sCtJ06g/o.jpg",
+                    "caption": "Suzuki Mushroom Ankake, Eel Cucumber Roll, Miso Soup"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Shannon X.",
+                "user_id": "kHzAfMpHyPwmRjLR2MHL1g",
+                "link": "https://www.yelp.com/user_details?userid=kHzAfMpHyPwmRjLR2MHL1g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Lk4MOTut8eSokap9XespUA/180s.jpg",
+                "address": "Augusta, GA",
+                "friends": 170,
+                "photos": 315,
+                "reviews": 114,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I came here while looking for some Japanese food around downtown Atlanta. I did have difficulty finding parking, but I expected that from the big city. I ended up parking at a nearby parking garage and then walking to the storefront. \n\nI got their tonkatsu ramen (with chili oil on the side) and sushi meal set that cost ~$25 at the time of this review. It came with the bowl of tonkatsu ramen, a 6-pc California roll, 6-pc sashimi (salmon, tuna, and I believe yellowtail?), and a side of rice. I thought it was a lot of food for the price considering the type of food and the location. I definitely had leftovers after the meal.\n\nI thought the tonkatsu ramen was one of the best that I've had in a while. The broth was super savory, but not too salty. The noodles were well-cooked and the ramen egg was the perfect gel-like consistency. The chashu was pretty good too, but I didn't think it was as good as the other components of the ramen.\n\nThe sushi was also super fresh. The meat held together very well and there was not too much fishiness to them.\n\nIf I'm in the area and am craving some sushi or ramen, I'll probably come back again to try out another set menu!",
+                "language": "en"
+            },
+            "date": "2023-10-18T19:39:40Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vwno85stHrUq-6QpEJDPTg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/O86_FDq1H1TTJEOi5iFIZw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 1,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Mrg H.",
+                "user_id": "FwwcLMiHbAnJoF97EoUhBg",
+                "link": "https://www.yelp.com/user_details?userid=FwwcLMiHbAnJoF97EoUhBg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8nyMmJ9ezCjLPpBMjNpJ1w/180s.jpg",
+                "address": "GA, GA",
+                "friends": 0,
+                "photos": 8,
+                "reviews": 4
+            },
+            "comment": {
+                "text": "High quality sushi for a reasonable price, I understand why it was a 20 min wait the food is good. The place is quaint and the attached Asian market down stairs was really cool. I'm not a soup person but I tasted my husbands gyoza soup it was really good!",
+                "language": "en"
+            },
+            "date": "2024-03-04T23:04:15Z",
+            "rating": 5,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iKVDW5SL1eOyHPjpGM75jQ/o.jpg",
+                    "caption": "Asian market goodies"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XY07D1mqcbPN3rWtA6IrmA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0igOgkhbmE4kKUqtudUyMA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZGiqhwDvRVkeybWF0yrruw/o.jpg",
+                    "caption": "Gyoza soup"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aHeTOG4m3iqRc23aSHsq3Q/o.jpg",
+                    "caption": "Decor"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "John E.",
+                "user_id": "nwuO-ifpsecjxeFPYAFBwg",
+                "link": "https://www.yelp.com/user_details?userid=nwuO-ifpsecjxeFPYAFBwg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/htYE1f8tnTx4ELtg48Qizg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 1390,
+                "photos": 12796,
+                "reviews": 884,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "You can find Wa-Ga-Ya at 339 14th St NW, Atlanta, GA 30318 just west of I85 - it's in the middle of a small line of connected storefronts. There's parking in the back - probably room for about 10 or so vehicles so during lunch and dinner times it's jammed up (people park on the drive climbing up the hill). We ended up parking along the street about a block away (easy walk) - the street parking appears to only be limited to evenings.\n\nCame here as a recommendation from my friend Chris who visits the Japanese market beneath the restaurant (more on that later). The restaurant is fairly small so limited seating - the day we went we stopped in after visiting the phenomenal Samurai Armor exhibit at the High (highest recommendation from me). We sat towards the front (the host stand was right behind me) - we were greeted and seated immediately. The interior has the usual Asian motif with exposed rafters and a finished ceiling over the sushi chefs\n\nThe three of us went straight for lunch items and a couple of draft Sapporo - I asked for Asahi Dry but none to be found here. I sipped my wife's draft and it was surprisingly good (I should have gotten one for myself but demurred). As usual for me I sampled the spicy tonkotsu ramen (it was called \"ramen + 2\" on the menu and came with a few smallish rolls - California and crunchy salmon I selected from four available). The broth was very flavorful and noodles spot-on - I did find myself wanting a bit more chasu pork but otherwise quite good. My wife ordered what was basically a bento box (Nigiri Sushi Lunch - Tuna, salmon, yellowtail, shrimp plus California roll and Tempura). My wife commented on how good the tempura was and after taking a bite I agreed. Chris ordered the Nigiri Deluxe and was also very happy with it, commenting on the freshness of all the fish.\n\nIn all the food was very good and the service good (our server got busy so maybe not as attentive as he could have been - no fault of his).\n\nBeneath the restaurant is a Japanese market with many items chilled for immediate consumption - I have a rather great selection available to me near my home at BufHwy Farmers Market but did spot a few things that aren't available there (much more poki selection, for instance). Nice to be able to sample cold Japanese beers - we ended up not buying but now that I know this is here I'm sure I'll visit again.",
+                "language": "en"
+            },
+            "date": "2023-07-06T15:02:02Z",
+            "rating": 4,
+            "tags": [
+                "7 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6Nl-o3NPKc3BHfxEFeG9Aw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cSHSauPrlI0oYXRv2Sk06Q/o.jpg",
+                    "caption": "Menu Cover"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HTn47DoLxKkSZ3_EW0WztA/o.jpg",
+                    "caption": "Spicy Tonkotsu Ramen +2"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VaX1zNR4VAVU39tzF2A5fg/o.jpg",
+                    "caption": "Market Beer Selection 2 of 2"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9FFgrOd7yoEly5C_lwtFdg/o.jpg",
+                    "caption": "Market Beer Selection 1 of 2"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KBP0QbqHcCygxX6tjJZXYQ/o.jpg",
+                    "caption": "Nigiri Deluxe"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CoqDwc-3OBID-czgWhilMw/o.jpg",
+                    "caption": "Nigiri Sushi Lunch"
+                }
+            ],
+            "feedback": {
+                "useful": 3,
+                "funny": 0,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Abena O.",
+                "user_id": "l_PslqkwyVoqPSHEHjwLAg",
+                "link": "https://www.yelp.com/user_details?userid=l_PslqkwyVoqPSHEHjwLAg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/b5Vy9LXMD_c6KpjqF5WVbw/180s.jpg",
+                "address": "East Point, GA",
+                "friends": 201,
+                "photos": 170,
+                "reviews": 74,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Decided to try something new. Looking for more sushi spots. This one was pretty good. Parking can be an issue so be aware. There is street parking and a valet lot about a block up. It's a pretty small restaurant with a store downstairs. The service was fast and friendly. I order plum wine and when I got my cup it had lipstick on it. I know lipstick can be hard to get out of things so I just politely sent it back. I have always wants to try onigiri so we ordered that for an appetizer. I was disappointed with the amount of salmon on the inside. It was pretty much just a bunch of rice. The sushi we order was delicious though.  Get the Three Jewels if you like basic rolls. Three rolls for $17 is a great deal. The Firecracker was my favorite.",
+                "language": "en"
+            },
+            "date": "2023-10-06T17:08:17Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/b2DrrsgYHW0l6f_UnTCUcQ/o.jpg",
+                    "caption": "Onigiri. Very little meat inside"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cf5mfRJX_zFhN20041LfmA/o.jpg",
+                    "caption": "Three Jewel. This is worth it. You get to pick three rolls. Not bad for $17"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/g_b987ILMLEuA60TJDlCPg/o.jpg",
+                    "caption": "Fire cracker! Delicious"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Thao T.",
+                "user_id": "LirGoe31-X3hyNRLDgyvcg",
+                "link": "https://www.yelp.com/user_details?userid=LirGoe31-X3hyNRLDgyvcg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DJUIB1SO4Owdl6vzI20v9w/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 167,
+                "photos": 124,
+                "reviews": 130,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Fresh fish. Love the lunch options and prices. Beautiful presented. Service was great especially since it was packed for lunch. Have been a few times before this and loved what we got every time.",
+                "language": "en"
+            },
+            "date": "2023-09-18T18:52:54Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IfbGlttIECRpyoVxmahaEQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 1,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Vincent V.",
+                "user_id": "5ECtmLzrurE0RcNpmTwXaA",
+                "link": "https://www.yelp.com/user_details?userid=5ECtmLzrurE0RcNpmTwXaA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bJGm15vLRvqosr8E-qPgNw/180s.jpg",
+                "address": "GA, GA",
+                "friends": 2153,
+                "photos": 4567,
+                "reviews": 796,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Had this place bookmarked and finally was able to drop in. Two visits and while I enjoy the sashimi I don't feel like the other items are all that great. The Takoyaki was very flavorful but super tiny piece of octopus packed with dough.\n\nThe first time I had a sashimi ramen combo.  The Ramen was pretty bland the meat tasted like it was just placed in the broth, egg not that special and then the noodles were very lacking and would not repeat. The sashimi was good cuts of fish but kind of wish it was larger cuts. Then I came back a second time with my son and got a combo with teriyaki salmon and sashimi and the fish was super dry and very small. Not a fan and the sashimi was good like the first time. My son went with the spicy ramen and did not care for the noodles or the flavor of the broth. We had some nigiri as an appetizer and the quality was good but just not all impressed with the other options. Maybe 3.5 and I rounded it up to 4 stars.... lol",
+                "language": "en"
+            },
+            "date": "2023-08-14T02:02:19Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 5,
+                "funny": 1,
+                "cool": 5
+            }
+        },
+        {
+            "user": {
+                "name": "Emily B.",
+                "user_id": "V5Oc8lzysKnSHKWihgCvTg",
+                "link": "https://www.yelp.com/user_details?userid=V5Oc8lzysKnSHKWihgCvTg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vYtUqQ7P1VB6pnoduNlQFg/180s.jpg",
+                "address": "Southside, Jacksonville, FL",
+                "friends": 5,
+                "photos": 37,
+                "reviews": 12
+            },
+            "comment": {
+                "text": "Stopped by on a whim with my friends while we were in Atlanta and the food was pretty good for what we paid for. Everything was clean and our waitress was also very nice and accommodating! The only complaint I have is the onigiri didn't have as much filling as I would've liked in it but overall, I was satisfied.\n\n- Spicy tonkotsu: 5/5, broth was good & I could adjust how spicy I wanted it \n- Salmon nigiri: 4/5 \n- Grilled salmon onigiri: 3/5",
+                "language": "en"
+            },
+            "date": "2023-09-13T18:03:46Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pxpEyO123eEnPnDpN9nJ6g/o.jpg",
+                    "caption": "spicy tonkotsu ramen"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/atIGPOlCgbPx7U8QLaNqXA/o.jpg",
+                    "caption": "grilled salmon onigiri"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EtHa7Foivrc9npWdrP6WPQ/o.jpg",
+                    "caption": "salmon nigiri"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Elizabeth H.",
+                "user_id": "vf---pzT0AygrWzHrLUuSQ",
+                "link": "https://www.yelp.com/user_details?userid=vf---pzT0AygrWzHrLUuSQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XSsA_rp6auU7r_UuDldiJg/180s.jpg",
+                "address": "Rockville, MD",
+                "friends": 91,
+                "photos": 2835,
+                "reviews": 476,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "The sushi and udon combos are perfect for a quick lunch. \n\nThis spot is pretty popular so you may have to wait a few minutes for an available table during lunch hours. The udon was chewy and the broth was delicious. The sushi had great fish to rice ratio and the fish was fresh.",
+                "language": "en"
+            },
+            "date": "2022-12-17T13:02:28Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OZCTupVNj1gJRpaO1z6z5A/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QDoQ731VNYWVftpLGL4ciQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Lisa D.",
+                "user_id": "j-xCO334riP_-cnqzr804Q",
+                "link": "https://www.yelp.com/user_details?userid=j-xCO334riP_-cnqzr804Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/q7FTkahR2TblnMITbBEgRQ/180s.jpg",
+                "address": "Athens, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 10
+            },
+            "comment": {
+                "text": "Go to spot for some good sushi or ramen! Casual dining with good service, reasonable pricing, and quality food. Be sure to check out the market downstairs!",
+                "language": "en"
+            },
+            "date": "2024-02-04T14:58:46Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Ashley J.",
+                "user_id": "PDLmRSkVvi1DPhoP3I_vsw",
+                "link": "https://www.yelp.com/user_details?userid=PDLmRSkVvi1DPhoP3I_vsw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dxloIuBuLGwkxhb6QWcXew/180s.jpg",
+                "address": "Mauldin, SC",
+                "friends": 10,
+                "photos": 376,
+                "reviews": 202
+            },
+            "comment": {
+                "text": "Came here with a group of family friends and thoroughly enjoyed picking from the menu.  I wish it was zaishiki seating for a more in depth experience but the food accounts for a lot!   I recommend this spot for some Japanese food.",
+                "language": "en"
+            },
+            "date": "2023-10-24T21:32:46Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jde22LI6-efIy7LthxuBsw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9s_d2QJMfPsgYLL1FULPJw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Briana N.",
+                "user_id": "TgFv9KBVSGz1s8NpfTJvKA",
+                "link": "https://www.yelp.com/user_details?userid=TgFv9KBVSGz1s8NpfTJvKA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uglmsND2ORlYEQW6IGhErA/180s.jpg",
+                "address": "Liberty Hill, TX",
+                "friends": 375,
+                "photos": 1167,
+                "reviews": 357,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "All of the food here is very decently priced and generously served! I ordered the udon and katsudon combo and it was like $18 before tax and tip. But it honestly could have served as two different meals. \n\nThat being said, the food itself is good but not that special in my opinion. The udon was very typical, but still delicious. The katsu was really yummy. The egg on the meat added a softness and sweetness that I really liked. But the rice underneath was kind of plain. I ended up just using some of the udon broth on the rice. And I love the way they put chili powder on the side in a cute little container. The takoyaki was also good! The outside was nice and crispy while the inside was soft without being mushy or soggy. \n\nOverall, you'll get a good meal for a decent price. But it doesn't really blow your mind. But keep in mind, I only tried two dishes. I would love to go back to try out more food to make a more comprehensive verdict. \n\nAnd don't forget to check out the grocery store downstairs! It's very cute and has a lot of cool Japanese desserts and candy.",
+                "language": "en"
+            },
+            "date": "2022-12-01T19:00:57Z",
+            "rating": 4,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ahMAE6sOjWWqqVcbfPO6hw/o.jpg",
+                    "caption": "Ramen"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Dc-SbdvLrUtE8NsP0yotfw/o.jpg",
+                    "caption": "Takoyaki"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RtOcnwtvI3PQMiR_Fo-JoA/o.jpg",
+                    "caption": "Udon and katsudon"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_-khl9hQ5d2HUsHbECU_6g/o.jpg",
+                    "caption": "Kaisen"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Makenzie C.",
+                "user_id": "O97wdBSfibwVNh5EY8KhbA",
+                "link": "https://www.yelp.com/user_details?userid=O97wdBSfibwVNh5EY8KhbA",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "Does not accommodate allergies! I told the server I had a shellfish allergy and she told me they don't have clean counters, knives, or pans. Also mentioned how the shellfish is kept touching the other foods. When asking if they could clean a surface for a vegetarian dish (that should have no crossing with any meat/fish) they refused. When I asked which foods are safe to eat without contamination, she couldn't tell me a single item with certainty/confidence. I was told \"well there's this one salad but we use the same serving spoons.\" And \"I don't feel like calling an ambulance tonight.\" After this whole encounter I didn't feel comfortable ordering anything. If you're not going to accommodate an allergy, I suppose that's your right, but please make a note of it on your website or something so this doesn't happen.",
+                "language": "en"
+            },
+            "date": "2024-02-25T18:11:03Z",
+            "rating": 1,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Ivana S.",
+                "user_id": "Q7z79xji4Jube-VuaEe32A",
+                "link": "https://www.yelp.com/user_details?userid=Q7z79xji4Jube-VuaEe32A",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VItcV4EqKX6DMasUDP435Q/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 728,
+                "photos": 576,
+                "reviews": 192,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Yum yum yum! This restaurant is tiny! I mean tiny!! So they do not do reservations be aware to wait. We arrived and there was 20 minute wait but 30 people outside. I guess a lot of people go in and out it was a mad house. While waiting you can go downstairs to their Japanese grocery store that has everything and anything. Highly recommend purchasing something different!\n\nOnce seated it's definitely close to other tables but it's not bothering. The staff are friendly and honestly work their behinds off! I think only 3 waiters/waitresses but 20 ish tables and it was impressive.\n\nWe ordered the pork gyoza and that was good just like your typical gyoza anywhere you go nothing different. The octopus balls I forget what they are called were our favorite! Usually there's too much of an ingredient in them but here it was well balanced and cooked to perfection.\n\nWe also ordered two sushi rolls one was with shrimp and cream cheese it was a great roll and price if you like cooked food. The other one they caught on fire!!! It was wild. Overall the price and service are great and don't forget the grocery store.",
+                "language": "en"
+            },
+            "date": "2022-09-22T16:08:54Z",
+            "rating": 4,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wbtO6JkBRPx68hijIYV9HQ/o.jpg",
+                    "caption": "Ramen & Katsu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uXmR8a6REoRSQsyAI5ZXHw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eKKfV8Gg_TRRjvsSyH8cqg/o.jpg",
+                    "caption": "Pork Gyoza"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wxMVufdwdBZaiD019ZexUQ/o.jpg",
+                    "caption": "Octopus balls"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RV4__7uZm6j-43YugwUqtg/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Mayuran R.",
+                "user_id": "ykq1ZO1dNDOCtPg7BgHHaA",
+                "link": "https://www.yelp.com/user_details?userid=ykq1ZO1dNDOCtPg7BgHHaA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/z37r9DzyeZ_vISMLDpbZdw/180s.jpg",
+                "address": "Chapel Hill, NC",
+                "friends": 2,
+                "photos": 82,
+                "reviews": 35,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Loved the quiet, relaxed ambiance. Service was quick and friendly. Limited Gluten free options are available (including sashimi with gluten-free soy sauce), however all sushi rolls are not gluten free. Sashimi was fresh and delicious, the salmon melts in your mouth like butter. Will definitely be back.",
+                "language": "en"
+            },
+            "date": "2023-03-14T22:42:14Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qaOEEmt19cfhCxVJT0iR0Q/o.jpg",
+                    "caption": "Sashimi & Udon"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E_kSqfTBND-_U2NKTX6lCg/o.jpg",
+                    "caption": "Sashimi silver"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jessica M.",
+                "user_id": "OfYG6Kd2eClFeerVZY5bpg",
+                "link": "https://www.yelp.com/user_details?userid=OfYG6Kd2eClFeerVZY5bpg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kZ17MPljqNdYuJ7hmUZURQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 149,
+                "photos": 196,
+                "reviews": 150,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "We were in the mood for Asian food so we decided to stop in.\n\nI loved the decor of the place, the wooden and tables and chairs were a nice touch.\n\nWe ordered the four seasons roll, chuka dinner set with black garlic tonkatsu ramen and the traditional dinner set with chicken teriyaki.\n\nThe roll was delicious - no complaints and would recommend.\n\nLoved the variety that the dinner sets offered! Everything was delicious and to be expected.\nThe only issue I had with the chuka dinner was the karaage that came on the side - it was too salty for my taste. The side of rice helped with that though.\n\nOverall, I'd recommend this spot! There's likely something for everyone.",
+                "language": "en"
+            },
+            "date": "2022-07-16T23:06:54Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Re1bFhtLnuevbE7LBJYvcQ/o.jpg",
+                    "caption": "Chuka dinner set with black garlic tonkatsu ramen"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nv7cWsyT7Vb9REoW1gMWOA/o.jpg",
+                    "caption": "Traditional dinner set with chicken teriyaki."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gF8qmdVvi8pldocTOfSoyA/o.jpg",
+                    "caption": "Four seasons roll"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Fadi A.",
+                "user_id": "OMT0rurvl5XmPJuwx3zo9g",
+                "link": "https://www.yelp.com/user_details?userid=OMT0rurvl5XmPJuwx3zo9g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UO8bKyferTbsSesJMi8YAw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 2,
+                "reviews": 48
+            },
+            "comment": {
+                "text": "I won't lie, I still visit wagaya for quick sushi since I leave nearby. However, the quality of the fish is remarkably average.\n\nWould give 4 stars if the price was more in line with the quality. This place wouldn't survive in many other metropolitan cities I can think of.",
+                "language": "en"
+            },
+            "date": "2023-09-14T20:40:30Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Loppy L.",
+                "user_id": "4gukkpl1eTEL6xaAHEx6Rw",
+                "link": "https://www.yelp.com/user_details?userid=4gukkpl1eTEL6xaAHEx6Rw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Cpnu9W4RszIHuksDfUqZnQ/180s.jpg",
+                "address": "Jonesboro, GA",
+                "friends": 0,
+                "photos": 4,
+                "reviews": 4
+            },
+            "comment": {
+                "text": "Food at Wagaya is always good! Definitely one of my top 5 places in Atlanta to quince my ramen cravings. Service is always great! From the downstairs store to the upstate's dinning area, they make sure to treat you right every time! The portions are big, prices are a big high but hey, it's Atlanta!",
+                "language": "en"
+            },
+            "date": "2023-10-01T03:05:25Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MMoPPTzA8ZzrZnLdM1e0uQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Kiah R.",
+                "user_id": "PaTmgtHgpVbdIO1-isgGnQ",
+                "link": "https://www.yelp.com/user_details?userid=PaTmgtHgpVbdIO1-isgGnQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fWW8k8ttsuophOzQokbGtA/180s.jpg",
+                "address": "Atlantic Station, Atlanta, GA",
+                "friends": 287,
+                "photos": 218,
+                "reviews": 650,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I usually order take out here and the sushi is always amazing. I ate inside for the first time, the restaurant doesn't have much seating so get here early if you'd like a seat or expect a wait. I got sushi of course but finally tried their Ramen, it is pretty good, not the best I've had in the area. \n\nOur server was great, parking is limited behind the restaurant and across the street at the Jimmy John's so if you need to, carpool.",
+                "language": "en"
+            },
+            "date": "2022-11-17T21:25:17Z",
+            "rating": 4,
+            "tags": [
+                "2 check-ins"
+            ],
+            "feedback": {
+                "useful": 2,
+                "funny": 1,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Jane K.",
+                "user_id": "VmKqwtHxL5ZwWFXTuEQJPQ",
+                "link": "https://www.yelp.com/user_details?userid=VmKqwtHxL5ZwWFXTuEQJPQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RVknglzhIPISpYfe8PdGCQ/180s.jpg",
+                "address": "Duluth, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 11
+            },
+            "comment": {
+                "text": "I don't know what the hype is.  Everything is mediocre.  Server forgot and brought miso soup out after we were done with entrees.  Not going back.",
+                "language": "en"
+            },
+            "date": "2023-12-13T00:47:51Z",
+            "rating": 2,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Alexandra H.",
+                "user_id": "T2Oeb6Osg1FoWlMX8A1FGQ",
+                "link": "https://www.yelp.com/user_details?userid=T2Oeb6Osg1FoWlMX8A1FGQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ynbFANc8hZN-8PEc1KgfPQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 298,
+                "photos": 209,
+                "reviews": 174,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Cool spot! Love Wagaya's vibe as it's more casual but very nice, with great food & decent prices. I tried the green apple sour drink, which was really interesting! I haven't had a drink like that before and it was really refreshing. I then got the green typhoon and the spicy crunchy shrimp roll, both were good, just wish they were a tad bigger! They felt like mini rolls, but overall this place was great and I'll definitely return. My favorite part had to be parking, as there was plenty right behind the restaurant",
+                "language": "en"
+            },
+            "date": "2022-12-20T02:13:04Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Dan M.",
+                "user_id": "YdxVQPaJ1fkJgsp1ahHL6g",
+                "link": "https://www.yelp.com/user_details?userid=YdxVQPaJ1fkJgsp1ahHL6g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gi_ry3PL5Me9tt-PuiqoUQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 15
+            },
+            "comment": {
+                "text": "Good food! Friendly service. Free parking. I kind of need to add this to my list of regular delicious spots to go to.",
+                "language": "en"
+            },
+            "date": "2023-11-16T22:06:44Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Kristen B.",
+                "user_id": "1QbFPo6EZfjESzF3Gj1UEQ",
+                "link": "https://www.yelp.com/user_details?userid=1QbFPo6EZfjESzF3Gj1UEQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/R-GGqd1QPfhcovqBYya9UA/180s.jpg",
+                "address": "Sandy Springs, GA",
+                "friends": 910,
+                "photos": 2567,
+                "reviews": 266,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Went here last night because we wanted Japanese. They had a few appetizers and sides but there was only sushi on the menu. At first I was thinking they would have hibachi but it was only sushi. None of the options on the menu were vegetarian but I asked the waitress and she said they could do a veggie roll. It was pretty good, I got 8 pieces for 9$. My boyfriend got the volcano sushi and said it was very good! I think it was 17$. The atmosphere was calm and the restaurant was really nice. It was a bit difficult to find parking. I ended up parking my car somewhere down the street but I was a little worried it wasn't a real parking spot. Overall the place was good and I would definitely go back!",
+                "language": "en"
+            },
+            "date": "2022-09-18T18:59:59Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oP9pu8x-LzR4e4oM0CWsNQ/o.jpg",
+                    "caption": "Wagaya Westside"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2AORdl8DCql9GKSNajJGow/o.jpg",
+                    "caption": "Veggie roll"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_kU6a1AKj6MPKCMaJnilKQ/o.jpg",
+                    "caption": "Volcano"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Paola M.",
+                "user_id": "-2e5D5GQK1h1LSD1nQS7dg",
+                "link": "https://www.yelp.com/user_details?userid=-2e5D5GQK1h1LSD1nQS7dg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JNerevM6BITkae10xerTiQ/180s.jpg",
+                "address": "Boston, MA",
+                "friends": 113,
+                "photos": 0,
+                "reviews": 3
+            },
+            "comment": {
+                "text": "Treasure box Sushi was a squircle shaped roll comprised of 97% dry sushi rice and 3% fish and the Mind of Zen roll was served at an eerily tepid temp with dry tempura chicken (?) in the middle.\n\nI wanted to check out the store downstairs but I won't be going back.",
+                "language": "en"
+            },
+            "date": "2023-06-29T01:08:31Z",
+            "rating": 1,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Rebecca H.",
+                "user_id": "ggEXyDxnnjdLSDtcRXKqCA",
+                "link": "https://www.yelp.com/user_details?userid=ggEXyDxnnjdLSDtcRXKqCA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gQF5fV_4Ulm2uAtTpblT9Q/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 257,
+                "photos": 692,
+                "reviews": 201,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "simple sushi spot! quality sushi that won't break the bank. good service, no wait, good vibes",
+                "language": "en"
+            },
+            "date": "2023-02-24T03:05:29Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_zmmkJ0QybURD6tOcZKRcA/o.jpg",
+                    "caption": "Miso Soup"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Y7QGul9Ci81ivqt2HBic6Q/o.jpg",
+                    "caption": "ramen"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jieZxZQebAMTOelJo47HoA/o.jpg",
+                    "caption": "Rainbow Roll & Lobster Roll"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Carla J.",
+                "user_id": "XOKMY_UD0x-F8jIE4eEsrw",
+                "link": "https://www.yelp.com/user_details?userid=XOKMY_UD0x-F8jIE4eEsrw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TOr3enqbX-WmPFoIkzkwRQ/180s.jpg",
+                "address": "Marietta, GA",
+                "friends": 9,
+                "photos": 175,
+                "reviews": 78
+            },
+            "comment": {
+                "text": "If you love Japanese food,music,and anime you will love it! I suggest looking over the menu before going most people had order regret. The vegetarians in the group were disappointed. I did my homework and enjoyed my meal. Dishes could use a bit more meat. However, it reflects in their awesome prices! Fingers crossed that inflation doesn't affect this. \n\nFood:4/5\nDrinks:3/5\nAtmosphere: 5/5\nService:4/5\nCleanliness: 5/5\n\nAfter dinner go downstairs to shop for some goodies!!",
+                "language": "en"
+            },
+            "date": "2022-09-02T19:29:53Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GWgXyGZrNEdvWjdF5nMn6A/o.jpg",
+                    "caption": "Hitsumabushi"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PV4SxJsOUiZR4cofSLtmLA/o.jpg",
+                    "caption": "Ishiyaki Chashu Fried Rice"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SCQ3E68aCOb-CB7pP3SDSg/o.jpg",
+                    "caption": "Downstairs"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Vincent J.",
+                "user_id": "b3kyQQ86JGInqsecgy4nFg",
+                "link": "https://www.yelp.com/user_details?userid=b3kyQQ86JGInqsecgy4nFg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FNM5YHo8g3c90Qzdd-EV8w/180s.jpg",
+                "address": "Miami, FL",
+                "friends": 30,
+                "photos": 0,
+                "reviews": 12
+            },
+            "comment": {
+                "text": "This is a small place on14th Street but very popular at lunch. The food was real good and best of all service was prompt and wait staff polite. We had a number of different things and all were really good, I do wish they had more than one choice for hot sake however, which was a tad pricey.",
+                "language": "en"
+            },
+            "date": "2023-07-20T07:34:35Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Christina K.",
+                "user_id": "50LOI3r4_CqIhLFSw8Mm1g",
+                "link": "https://www.yelp.com/user_details?userid=50LOI3r4_CqIhLFSw8Mm1g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HrJdl0_q0Z7KDgv9H-9m9A/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 30,
+                "photos": 149,
+                "reviews": 132,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I got the red tonkotsu and it was pretty bland honestly. There wasn't really any depth to the flavor, it was just salty. The chili oil that was given was pretty good though, it had a nice kick.",
+                "language": "en"
+            },
+            "date": "2022-09-11T01:02:02Z",
+            "rating": 3,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AtX1M6s5_TUijrFackVbMA/o.jpg",
+                    "caption": "red tonkotsu"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Cindy T.",
+                "user_id": "l_KCiv1LVHfYMxuBUJEHjQ",
+                "link": "https://www.yelp.com/user_details?userid=l_KCiv1LVHfYMxuBUJEHjQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6jf4OKSJIOZutAgzG-pPeg/180s.jpg",
+                "address": "Peachtree Corners, GA",
+                "friends": 940,
+                "photos": 681,
+                "reviews": 483,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Wagaya never disappoints!\n\nThey offer great combinations of quality sushi, bowls, and ramens at a super affordable price. I always leave here STUFFED and so happy. \n\nMy favorite dish is their Tonkatsu Pork ramen. It's hearty and super rich. I love that there's a combo that comes with 2 sushi rolls for less than $20. During my last visit here, I ventured out and tried the beef curry udon and OMG - can you say perfect for cold weather?! I normally don't even like udon but the slightly sweet curry and crunch from the cabbage went perfectly with the udon noodles. It also came with a side of tempura which I was not expecting so that was a nice surprise. \n\nI love coming here anytime I'm craving some good Japanese food for a very reasonable price. Service is also always top notch!",
+                "language": "en"
+            },
+            "date": "2021-10-11T04:29:29Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BsxgMKpbcp_3aCpvGzsJUw/o.jpg",
+                    "caption": "Beef Curry Udon"
+                }
+            ],
+            "feedback": {
+                "useful": 2,
+                "funny": 2,
+                "cool": 3
+            }
+        },
+        {
+            "user": {
+                "name": "Sophia N.",
+                "user_id": "G6Ojom7BQfAYy246O2uHjg",
+                "link": "https://www.yelp.com/user_details?userid=G6Ojom7BQfAYy246O2uHjg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-izvo7icryuu8SXSGNmLPg/180s.jpg",
+                "address": "New York, NY",
+                "friends": 11,
+                "photos": 323,
+                "reviews": 234,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Solid Japanese food at a decent price. The eel was huge and I struggled to finish everything but the dashi helped switch up the taste if I needed it. We also got the peach sour which hit the spot after a hot day walking around the city!",
+                "language": "en"
+            },
+            "date": "2022-07-09T22:54:42Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t3ySf6SWaZ4ShSBS_Av48A/o.jpg",
+                    "caption": "Hitsumabushi"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Jarrod F.",
+                "user_id": "QFTEMZrk4QfAfbytjU9k3w",
+                "link": "https://www.yelp.com/user_details?userid=QFTEMZrk4QfAfbytjU9k3w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/loW8aFMX9mJ2j1XPL4ZaKQ/180s.jpg",
+                "address": "Peachtree Corners, GA",
+                "friends": 24,
+                "photos": 414,
+                "reviews": 117,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "So this was my second time trying out this restaurant and I must, this time was a lot more better than the first. This time around I ordered the Ramen + 2, which is a combo that comes with a ramen bowl and two sushi rolls, and the combo was fulfilling and affordable. \n\nSo I ordered the Tonkostu ramen bowl (safe bet if you're not sure what to order) and a California and spicy tuna roll. The ramen was a bit salty but overall it was pretty tasty, fresh and creamy. The California roll was decent, but not the best I've had. And I wasn't a fan of the spicy tuna roll at all, so I probably wouldn't recommend that one. \n\nOverall the food was decent. I do want to come back one more time to try one last thing on the menu (the Chuka dinner set), so stay tune for that review!",
+                "language": "en"
+            },
+            "date": "2021-08-28T20:41:53Z",
+            "rating": 3,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-prQ3lILdYVuFvIeiqRpfg/o.jpg",
+                    "caption": "Ramen + 2"
+                }
+            ],
+            "feedback": {
+                "useful": 2,
+                "funny": 1,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Elizabeth B.",
+                "user_id": "zzgsRFUKaWnfxGNMpLUn4g",
+                "link": "https://www.yelp.com/user_details?userid=zzgsRFUKaWnfxGNMpLUn4g",
+                "address": "Watertown, MA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 24
+            },
+            "comment": {
+                "text": "The food is the best! Huge fan of how fresh everything is. One of our faves. Oh--kids menu is great too.",
+                "language": "en"
+            },
+            "date": "2023-12-10T15:24:10Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Sarena T.",
+                "user_id": "nTJtllu04qNK0SXJ8lAfww",
+                "link": "https://www.yelp.com/user_details?userid=nTJtllu04qNK0SXJ8lAfww",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/v_bWsEzjp_g2zMdBgeAQkg/180s.jpg",
+                "address": "Austin, TX",
+                "friends": 62,
+                "photos": 474,
+                "reviews": 170,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "A solid place for Japanese food!\n\nYou scan the menu from a QR code on the table, and there is a ton of selections. \n\nI got the butter corn miso ramen, which was pretty tasty. Presentation could be better (as seen in picture). I was a little skeptical of how the different flavors would taste together, but it was pretty good! \n\nShoutout to our server Marie! \n\nThey have a small parking lot shared with other restaurants in the back, and a small Japanese grocery store next door.",
+                "language": "en"
+            },
+            "date": "2021-12-12T00:53:45Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eXUUCgqj5Mx8hEY2QtqEbA/o.jpg",
+                    "caption": "Butter corn miso ramen"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PQuOE-Fd43CQsdgJ1l5l8A/o.jpg",
+                    "caption": "Devil's breath sushi"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ioblo-Ci3vxnXCWFXVBUrQ/o.jpg",
+                    "caption": "Parking options"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Frankie M.",
+                "user_id": "H0MPiZSa10qvpcoy1VvLHA",
+                "link": "https://www.yelp.com/user_details?userid=H0MPiZSa10qvpcoy1VvLHA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ag_1RZfpnPxoJ-odbI4a6Q/180s.jpg",
+                "address": "College Park, GA",
+                "friends": 6,
+                "photos": 23,
+                "reviews": 36
+            },
+            "comment": {
+                "text": "Delish!!!! Had the chicken katsu curry and the pork dumplings / potstickers. Everything was fresh and had amazing flavor. I came in to get some food to-go , the staff was very friendly and happy to go over any of the menu items i had questions about , as well as make some great suggestions. \nEverything came packed perfect, hot and did not take long. \nThey also have a grocery store below , I was in a hurry so did not get a chance to check it out. \nWill def go next time i visit.",
+                "language": "en"
+            },
+            "date": "2023-02-17T23:25:59Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Alex P.",
+                "user_id": "XNPwLVwHPyrOaEQA_sI1wg",
+                "link": "https://www.yelp.com/user_details?userid=XNPwLVwHPyrOaEQA_sI1wg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DYve49ehlw6uHB755TD-fQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 877,
+                "photos": 3790,
+                "reviews": 1242,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Old grudges are just never good. After putting Wagaya on a five year block given a specific experience, the return of indoor dining in this latter stage of the pandemic felt like an appropriate time to revisit Wagaya and see if it changed. First of all, they've gotten rid of the reservation system which was very clearly mismanaged, with everything now turning into a first come first serve model, which is much more appropriate for this tiny casual space. They've experimented with a very cool Chirori Robata grill next to them which unfortunately closed during the pandemic. They've also opened a pretty neat grocery store right next to the restaurant. \n\nDespite the ongoing pandemic, Wagaya is still quite busy even on random nights in the week. The meal starts with a red tonkotsu ramen, which is a very flavorful and surprisingly mild at the same time. So, this ramen effectively caters to a guest who does not want to leave feeling like they ate a whole pig in a bowl. The sushi rolls are made well construction wise, but crunchy yellowtail roll was just unbearably salty. In the Ramen plus two combo, the pricing on them is pretty spectacular.\n\nThe atmosphere of Wagaya inside is very casual and woody, with a homey feel to it. Would be nice if they didn't have a ton of to go boxes and packing stations right in the middle of the dining room floor as that takes away from the ambiance somewhat. It's a very casual place, with matching prices and good service on recent visits.",
+                "language": "en"
+            },
+            "date": "2021-05-23T13:36:57Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dSdFbI9E2yv4paygiYoOSg/o.jpg",
+                    "caption": "Scorching the Rolls"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/F4qp3weU2mxr62x-y6K0aw/o.jpg",
+                    "caption": "Red Tonkotsu and two roll combo"
+                }
+            ],
+            "feedback": {
+                "useful": 19,
+                "funny": 7,
+                "cool": 15
+            }
+        },
+        {
+            "user": {
+                "name": "Tom T.",
+                "user_id": "jVYfhpNwbljlGpyfmTBfaQ",
+                "link": "https://www.yelp.com/user_details?userid=jVYfhpNwbljlGpyfmTBfaQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-SFM9uiH_kHLjIiq6k_KvA/180s.jpg",
+                "address": "Silver Spring, MD",
+                "friends": 55,
+                "photos": 951,
+                "reviews": 324,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "This little place cranks out some amazing sushi.\n\nDo not be fooled by the outside (next to a gas station) as this place is legit on the inside. The staff were suuuuper nice and fun and the service was crisp and timely.\n\nWe had a bunch of deelish rolls and nagiri and some fun sodas with marbles in them (don't worry, you won't swallow it).\n\nWe were very impressed by this place and will most def be returning when we are next in Atl.\n\nTry them out...you won't be disappointed.",
+                "language": "en"
+            },
+            "date": "2022-05-17T13:29:33Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Key M.",
+                "user_id": "WLwlxVIhPrvyQgfdJlnuaA",
+                "link": "https://www.yelp.com/user_details?userid=WLwlxVIhPrvyQgfdJlnuaA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QhO1bXxrQuzt5wnB9shGvA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 11,
+                "photos": 266,
+                "reviews": 158,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Hands down one of my favorite places in the Georgia Tech area. There is parking in the back, but if you can't get a spot there, there should be plenty of street parking.\n\nI always am super impressed and glad I make the choice to go here every time. The staff is very helpful and friendly, and as popular as it is, you don't have to ever wait too long to get a seat if it's busy.\n\nThe place is clean and it has a nice authentic sushi bar vibe. The food is amazing, it never disappoints. For an upscale place, it is very affordable as well. I believe this is the best quality for value place I've been to in Atlanta.\n\nYou must try the sushi if you go here. Many of the rolls are not that expensive either. The ramen is cheaper than most other ramen places I've been to.\n\nI also really like the mini mart and new restaurant that are right next door. Don't know if it's the same ownership, but it's a great addition.\n\nOverall, excellent place and a personal favorite. Even now after being a student at GT.",
+                "language": "en"
+            },
+            "date": "2021-05-07T15:38:43Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xO4LYJ6XANEj1ORInC_G7w/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 4,
+                "funny": 0,
+                "cool": 3
+            }
+        },
+        {
+            "user": {
+                "name": "Nancy B.",
+                "user_id": "f2-ZHyhJ025sJSrFHeUTZA",
+                "link": "https://www.yelp.com/user_details?userid=f2-ZHyhJ025sJSrFHeUTZA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0OuQypKRtGlL9S17ayC77g/180s.jpg",
+                "address": "Santa Monica, CA",
+                "friends": 231,
+                "photos": 1163,
+                "reviews": 573,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I wish I could give this place like a 4.5 because I felt it tasted better than a 4 but didn't wow me like a 5 would. I ordered the red tonkotsu and got the spicy chili oil on the side so I can control how spicy it was. I poured about half and it was perfect. A small kick but nothing crazy. It comes with egg, mushrooms and pork. The broth was delicious and the noodles were cooked just right. We also had the rolls and the California rolls are small but tasty. 5 stars for extremely fast service. Food was out 5 minutes after we ordered it. \n\nParking is located in the back of the restaurant. Small parking lot.",
+                "language": "en"
+            },
+            "date": "2021-10-15T23:57:30Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qgpc0YcnbVUAk6x_vZ-hcw/o.jpg",
+                    "caption": "Red Tonkotsu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3B3pctydp2kL9QhlYr3vjA/o.jpg",
+                    "caption": "California Roll avocado salmon roll"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/c8xTacmbcpB1eITupf3pQA/o.jpg",
+                    "caption": "Red Tonkotsu"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Sam L.",
+                "user_id": "2BRQ6kaReJjbz7UAOY5TLQ",
+                "link": "https://www.yelp.com/user_details?userid=2BRQ6kaReJjbz7UAOY5TLQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QRbZaLMyqx3bgyb72aGQEg/180s.jpg",
+                "address": "Los Angeles, CA",
+                "friends": 383,
+                "photos": 597,
+                "reviews": 346
+            },
+            "comment": {
+                "text": "The Ramen + Two deal is definitely the way to go here. It is the best bang for your buck. I personally got the Miso Ramen with California rolls. I also got the Agedashi Tofu, but I ended up splitting this with my friend because there was a lot more tofu in this dish than I thought.\n\nA couple of first impressions: I thought the broth was a bit lacking in miso flavor and depth and the Agedashi tofu had too much flavor (on the side of being too salty). Eating the ramen with the tofu balanced the saltiness better. The sushi was also pretty average. I do like the addition of bok choy - adds a nice pop of color distribution to the ramen bowl. The seasoned egg was also pretty good.",
+                "language": "en"
+            },
+            "date": "2022-04-13T03:20:28Z",
+            "rating": 3,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FX9E2GLgC9hauzF6KWh8CA/o.jpg",
+                    "caption": "Agedashi Tofu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eYN8GvPrmDYM81VP9mSqng/o.jpg",
+                    "caption": "Miso Ramen + California Roll"
+                }
+            ],
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Niaz P.",
+                "user_id": "_KtqpfKL0XSqPznd4TploA",
+                "link": "https://www.yelp.com/user_details?userid=_KtqpfKL0XSqPznd4TploA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tkfRyBfqidXg-S2AB0IcPw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 275,
+                "photos": 1046,
+                "reviews": 345,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "This place is located off of 10th street and there's a small parking lot in the back. Parking is free here.\n\nThe food is pretty good and quick. It's a casual place so you could go for a quick bite of sushi. There's also a grocery store attached. We ordered some pork gyoza to start with and it was tasty. I ordered the shittake roll and the spicy crunchy shrimp roll and they were very filling and affordable. A little bit on the smaller side but it wasn't a specialty roll so it made sense. Everything tasted good quality and great. I'd recommend this as a great ITP sushi place.",
+                "language": "en"
+            },
+            "date": "2021-07-31T20:01:51Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9ijDtx2H45jqVnGXbdXfNQ/o.jpg",
+                    "caption": "Sashimi Platter"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FIWiu_UiIIanfE9jltDzCg/o.jpg",
+                    "caption": "Shitake roll and Spicy Crunchy Shrimp Roll"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Tais F.",
+                "user_id": "mcvKl321ws8848xLMSd68A",
+                "link": "https://www.yelp.com/user_details?userid=mcvKl321ws8848xLMSd68A",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/POq0FMzRPcPpTfGa83HxnA/180s.jpg",
+                "address": "Alpharetta, GA",
+                "friends": 7,
+                "photos": 29,
+                "reviews": 32,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "My favorite Japanese restaurant! This place is seriously amazing. It's a tiny authentic Japanese spot in west midtown with the best prices. Their dinner prices are not bad at all and they have incredibly cheap lunch specials. I got the nabeyaki udon and the tonkotsu red, the udon came with shrimp and veggie tempura and the udon itself. The portions are huge as you can see and the broth of both noodles was amazing. Favorite ramen plCe",
+                "language": "en"
+            },
+            "date": "2022-05-24T19:22:57Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aQ7berK4GVUT6R9YbWdg5g/o.jpg",
+                    "caption": "Nabeyaki Udon"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mLwEYC-ukoA3LcKfMU3Byw/o.jpg",
+                    "caption": "Nabeyaki Udon"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sj-bce7J8LTrwkx0RRF7Tw/o.jpg",
+                    "caption": "Red Tonkotsu"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Debby L.",
+                "user_id": "bMGXNeeymFqyaISCKJjCkA",
+                "link": "https://www.yelp.com/user_details?userid=bMGXNeeymFqyaISCKJjCkA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/efV6pp-8wj3PA4hraCS-SQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 1357,
+                "photos": 1346,
+                "reviews": 1261
+            },
+            "comment": {
+                "text": "I've been coming here for years, it's always a solid choice for ramen and sushi. \n\nTONKATSU RAMEN \ni always get the black tonkatsu ramen and it is a solid choice. The chashu is nicely flavored, not too smoky and the tonkatsu broth is also very good. I ask for extra spices or hot chili on the side and add on my own. Comes with a really good soft boiled egg too. \n\nCHIRASI BOWL \nIS SO GOOD. one of my favorite sushi dishes here. I get it with all fish, no octopus. The rice is perfectly vinegary and the fish is so fresh. Will always get this dish \n\nSWEET SHRIMP \nI always have to try the sweet shrimp because i rarely see it in a menu , but this was not my favorite. I'll stick to the nigiri fish .",
+                "language": "en"
+            },
+            "date": "2022-02-26T00:15:20Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gqhTng1MHtOghIzfHGrfbg/o.jpg",
+                    "caption": "Sweet shrimp"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9AjwslA5NlJRlMo6UC0Tgw/o.jpg",
+                    "caption": "CHIRASI bowl"
+                }
+            ],
+            "feedback": {
+                "useful": 4,
+                "funny": 1,
+                "cool": 3
+            }
+        },
+        {
+            "user": {
+                "name": "Jane Y.",
+                "user_id": "y4Co7sLe6aT6_YKTq4T0zQ",
+                "link": "https://www.yelp.com/user_details?userid=y4Co7sLe6aT6_YKTq4T0zQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/b9SMJCn05-geq4sPSGqrNg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 292,
+                "photos": 583,
+                "reviews": 510,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "wow the four seasons shiki roll i ordered here was fantastic! \nthe chirashi small was tiny pieces and not worth the price in my opinion. it was hit and miss with the quality of fish. but the roll that I got has peaked my interest to come back and try more!",
+                "language": "en"
+            },
+            "date": "2022-05-20T03:29:38Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qlhc5CuXXpLq-eJcAZV3XA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w5gpL-fFosUOHNvmyQ3ptw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Madison K.",
+                "user_id": "0yEBN3i3OaeHHIM5njjaKw",
+                "link": "https://www.yelp.com/user_details?userid=0yEBN3i3OaeHHIM5njjaKw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/x9sdjKPL6-7NCKt34S_wpg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 190,
+                "photos": 44,
+                "reviews": 96
+            },
+            "comment": {
+                "text": "This is our favorite ramen place in town. It's small and cozy, the food comes out fast every time, and the broth is incredible. We love the grocery store downstairs too!",
+                "language": "en"
+            },
+            "date": "2022-12-21T01:19:50Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9DRZXMnN7MOOiRaJXoNq1A/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Kenny N.",
+                "user_id": "iBhjhnk2klRkru6qGPnu0w",
+                "link": "https://www.yelp.com/user_details?userid=iBhjhnk2klRkru6qGPnu0w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZjOBYc6NbdMgsGYUEnb6PQ/180s.jpg",
+                "address": "Minneapolis, MN",
+                "friends": 375,
+                "photos": 550,
+                "reviews": 345,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Terrific place for some good authentic Japanese food. Went here on a Friday night and it was fairly packed. Limited social distancing available due to the seating, but menu was available online to minimize touching \n\nMenu was a few pages of beautiful dishes ranging from traditional bento-style dinner sets to your choice of made-to-order sushi. \n\nOrdered\n- Chuka (5/5). This was a dinner set that came with your choice of ramen (got the Tonkotsu flavor), Gyoza (grilled dumpling), and Karaage (friend chicken). I was impressed at how each item of the set complemented with one another and di not think there was any overpowering of flavors. The ramen was light and just about right in portions.\n\n- Ramen & Katsu (4.5/5). My wife ordered this. Similar to the Chuka with a sub of the Katsu. The Katsu was very crispy and delicious. I do like the curry version versus the dried so that would've been my only modification to the dish \n\nWagaya is great. Wish I found it out earlier but glad I was able to enjoy it during our time in Atlanta!",
+                "language": "en"
+            },
+            "date": "2021-06-19T20:07:16Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Juliana C.",
+                "user_id": "OREp1FjD2xwrGWNHiWzy2g",
+                "link": "https://www.yelp.com/user_details?userid=OREp1FjD2xwrGWNHiWzy2g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KjgNriXCZOHn_8UHj7OG5w/180s.jpg",
+                "address": "Southport, NC",
+                "friends": 248,
+                "photos": 68,
+                "reviews": 26
+            },
+            "comment": {
+                "text": "This place is a must go! The food is authentic, fresh and delicious! The restaurant was busy for a Monday night but we were able to sit down right away. We started off with the AGEDASHI TOFU & MOCHI and the Takoyaki appetizers and they were both delicious, but I think I would recommend the Takoyaki more (octopus balls). Then for our main entr\u00e9e I got the Crunchy 14 roll but instead of cream cheese I replaced it with cucumber and that was the best decision, it made the roll lighter and super tasty! My friend got a regular tuna roll which was so yummy and fresh tasting and he also got the Bagel Tempura roll and we both ate every bite of our apps and entr\u00e9es, everything was delish!! My only negative comment is that the lighting was a little too dark, which was hard to see the menus and wasn't great lighting for pictures and also the single two person tables were a little bit too close together for my liking.",
+                "language": "en"
+            },
+            "date": "2023-06-27T14:48:30Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/koQxwsuWcyApkAx1uV87vw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Sheena G.",
+                "user_id": "wCbCmpsRWzKzElFK-4kZRw",
+                "link": "https://www.yelp.com/user_details?userid=wCbCmpsRWzKzElFK-4kZRw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0m8cTlcrk6fwwKNR3C4aTw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 32,
+                "photos": 306,
+                "reviews": 377,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I'm going to assume this place is highly rated due to its proximity to a college campus. It's cheap and the menu is pretty expansive. Very basic options of everything.\n\nRamen legit tasted like Top Ramen noodles with scallions in it. Same thin noodles and all lol\n\nFried oysters - yuck. \n\nThe sushi was the best and only thing I would return for. \n\nVery attentive and gracioua staff.",
+                "language": "en"
+            },
+            "date": "2021-07-10T03:12:48Z",
+            "rating": 3,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/izWYGlqeHYnn1QAxiKRHkw/o.jpg",
+                    "caption": "Ramen and 2 rolls for $18."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SqaPtSqO1iC2m8DoV3bYCw/o.jpg",
+                    "caption": "Fried oysters."
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=24--2r1ZEgnmJs5iVVAOgQ&start=50"
+    }
+}

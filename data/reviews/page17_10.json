@@ -1,0 +1,31 @@
+{
+  "search_metadata": {
+    "id": "65f0a1df303eb1f6db0bf481",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f0a1df303eb1f6db0bf481.json",
+    "created_at": "2024-03-12 18:41:35 UTC",
+    "processed_at": "2024-03-12 18:41:35 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/WWigP3FSV1EM_bf5CcP1Bw?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1df303eb1f6db0bf481.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1df303eb1f6db0bf481.prettify",
+    "total_time_taken": 1.68
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 160,
+    "num": "50",
+    "place_id": "WWigP3FSV1EM_bf5CcP1Bw"
+  },
+  "search_information": {
+    "total_results": 114,
+    "business": "Alici Oyster Bar",
+    "reviews_results_state": "Fully empty"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 114
+    }
+  ],
+  "error": "Yelp Reviews hasn't returned any results for this query."
+}

@@ -1,0 +1,1994 @@
+{
+  "search_metadata": {
+    "id": "65ef2dfa0a90c758d361001a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cba2f21086e022a5/65ef2dfa0a90c758d361001a.json",
+    "created_at": "2024-03-11 16:14:50 UTC",
+    "processed_at": "2024-03-11 16:14:50 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/_lEHolD7sVt4-SnbuuAgcA?",
+    "raw_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef2dfa0a90c758d361001a.html",
+    "prettify_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef2dfa0a90c758d361001a.prettify",
+    "total_time_taken": 2.15
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 10,
+    "num": "50",
+    "place_id": "_lEHolD7sVt4-SnbuuAgcA"
+  },
+  "search_information": {
+    "total_results": 1384,
+    "business": "Eight Sushi Lounge"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 1384
+    },
+    {
+      "hl": "pt",
+      "count": 1
+    },
+    {
+      "hl": "ja",
+      "count": 1
+    },
+    {
+      "hl": "da",
+      "count": 1
+    },
+    {
+      "hl": "fr",
+      "count": 2
+    },
+    {
+      "hl": "es",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Gen L.",
+        "user_id": "nfqClZDyD-zZ7IAG3pWvXg",
+        "link": "https://www.yelp.com/user_details?userid=nfqClZDyD-zZ7IAG3pWvXg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LfIG-QO1JgYlLu3F1umAKg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 102,
+        "photos": 321,
+        "reviews": 344,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This is one my my sushi spots, on the westside. It's a solid pick for flavorful, fresh maki.\n\nThis place also has a full bar with tasty drinks. \n\nTables fill fast, so you may want to make a reservation. Also, just a tip that the valet parking is next door in the parking garage.",
+        "language": "en"
+      },
+      "date": "2023-12-07T01:28:48Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Alvi D.",
+        "user_id": "KMPpnNmAOlXcN7TfE2Se5A",
+        "link": "https://www.yelp.com/user_details?userid=KMPpnNmAOlXcN7TfE2Se5A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/h3pxU88vTLoQQn8lUXlYzg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 5,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "I don't even need to write a review because I know y'all know that this sushi smacks! I make a resy like bimonthly just to get my fix lol. The sushi is amazinggggg and the drinks are so cute and unique! The staff is very attentive and they add that extra southern hospitality to the experience. 10/10 no notes! Mwah i'll be there soon!",
+        "language": "en"
+      },
+      "date": "2024-02-28T15:11:23Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E0wyeY4r6j1uq6svsxwMEw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chinwe K.",
+        "user_id": "4qBZvzoCyucIj-JZ6OHa7Q",
+        "link": "https://www.yelp.com/user_details?userid=4qBZvzoCyucIj-JZ6OHa7Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/m_dEPUZpR6y13fOaBFe_Pg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 7,
+        "photos": 90,
+        "reviews": 55,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This is my favorite place to get sushi in Atlanta - West Midtown area! This place is a repeat for me and they never miss! The cocktails and mocktails are good, the waiters are attentive and the restaurant has a nice ambiance. My favorites are the shrimp saku saku and the Casanova roll. The presentation here is A1.\n\nYou can pay for parking in the garage or on the street.  \n\nI highly recommend this restaurant if you enjoy sushi!",
+        "language": "en"
+      },
+      "date": "2023-09-05T18:09:07Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sx5hF7aU5bzsGT4aJM11mw/o.jpg",
+          "caption": "Shrimp Saku - Saku"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Q2_vJdIuITnlwZ-F1cXeWQ/o.jpg",
+          "caption": "Casanova Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/k3AiqezQ3u6n0ZYaSocCsg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pD6GevkBUjzW2pnqOP-ANQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WDec_SdiJdyH5n47iLFkaw/o.jpg",
+          "caption": "Kings Roll"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jaimie M.",
+        "user_id": "52uMF7Mqfr3P7qAmtmJEcQ",
+        "link": "https://www.yelp.com/user_details?userid=52uMF7Mqfr3P7qAmtmJEcQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qZOU_cC7h1iDkVA23Xvqww/180s.jpg",
+        "address": "Saint Petersburg, FL",
+        "friends": 365,
+        "photos": 87,
+        "reviews": 56
+      },
+      "comment": {
+        "text": "Went on Valentine's Day so it was super chaotic and honestly a little too disorganized. Our res was at 0730 but we weren't seated til 0815 and that was with me being persistent. Sushi was really good and service once seated was fast but it is a little pricier than a couple other sushi spots I like. Favorite was the Casanova roll.",
+        "language": "en"
+      },
+      "date": "2024-02-21T02:50:45Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/m_9Hv-yUDVbVGR4V9wJ4JA/o.jpg",
+          "caption": "Cassanova"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eDAxD4ShA4Y4V5jV3NU7NA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ashley J.",
+        "user_id": "yoJGtZCWu7YA-dVPyx_kZg",
+        "link": "https://www.yelp.com/user_details?userid=yoJGtZCWu7YA-dVPyx_kZg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-spOta_qG37URlI_doL3-g/180s.jpg",
+        "address": "Alpharetta, GA",
+        "friends": 142,
+        "photos": 4870,
+        "reviews": 297,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This is one of my favorite sushi spots in Atlanta. Food is consistently good, service is normally great as well. I definitely recommend making a reservation as this place gets busy, especially on the weekends. Cute place for date night or with friends or family. The last time I went, we had the restaurant decide what to bring out & everything was amazing. Be sure to try the tuna crisp!",
+        "language": "en"
+      },
+      "date": "2023-12-11T00:18:08Z",
+      "rating": 5,
+      "tags": [
+        "10 photos",
+        "2 check-ins"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mciOigq6oJTjOZM0Uhzmgg/o.jpg",
+          "caption": "Bread pudding dessert"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8p70jnn6zrfMWskM1H0nAA/o.jpg",
+          "caption": "Octopus & eel nigiri"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sambXTOMlGqkZSKnkP76VQ/o.jpg",
+          "caption": "Langoustine Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wG0LLkrDkztTTdvG5t_sJw/o.jpg",
+          "caption": "Maiden's Kiss"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/N0CaLOqgpVQGDv8lCT7P8A/o.jpg",
+          "caption": "Explosion Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2PE9KZfXFdlNYLReh4BjkA/o.jpg",
+          "caption": "Purple rain"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rv0u7_DbU_Y3GpV6-HSgWQ/o.jpg",
+          "caption": "Roaring 20's roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1b1JeRED9l8FYdNRJJ7F1g/o.jpg",
+          "caption": "Orange is the new black"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nBxvgIY634fAx3fHfYHoow/o.jpg",
+          "caption": "Island breeze"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tZKeIl6fH6COTQfg-rYS4w/o.jpg",
+          "caption": "Smoked salmon & yellowtail nigiri"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Taylor B.",
+        "user_id": "8oPKtdw00vU1ITk2ATS4yA",
+        "link": "https://www.yelp.com/user_details?userid=8oPKtdw00vU1ITk2ATS4yA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ptTq6_FwVniDR93EkKP8Gw/180s.jpg",
+        "address": "Acworth, GA",
+        "friends": 7,
+        "photos": 59,
+        "reviews": 110,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This is a great sushi lounge located in West Midtown. The food was fresh, delicious, and the good quality. They have a large menu with an array of tasty options. The service was quick and attentive. \n\nIt was a very busy Friday night when I visited. We did have a reservation, but we waited around 30 minutes to actually be sat since they were running behind. The bar area and waiting room are sort of small for that many people to wait for tables, but they eventually sped up the process. The ambiance is perfect for a date night, birthday celebration, or girls night out. \n\nRegardless of the wait time, the food was still work the wait! I would recommend you try if you're a sushi lover.",
+        "language": "en"
+      },
+      "date": "2023-12-02T14:26:41Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Joe V.",
+        "user_id": "2bqPc1yFS0V4UKyfxEOWZQ",
+        "link": "https://www.yelp.com/user_details?userid=2bqPc1yFS0V4UKyfxEOWZQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rsXPQYYVJmAI4f6IYVXALQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 262,
+        "photos": 2556,
+        "reviews": 484,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Our server Andi was timely and helpful. We dined on the patio in this Georgia Summer night and just love every flavor that was packed into each magical roll.  5 stars Eight Sushi - wish I could give you all 8 !!  \n\nPS- See  & like my photos for more detail...",
+        "language": "en"
+      },
+      "date": "2023-07-23T01:08:45Z",
+      "rating": 5,
+      "tags": [
+        "5 photos",
+        "2 check-ins"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E5UEDN_UUvOycMLY8AB3FQ/o.jpg",
+          "caption": "Patio dining"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6MinG4L2JurPwaByQrsP9g/o.jpg",
+          "caption": "Island Breeze Roll  $18 - so good and light !"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/a_nEsjPwTIVGxnQ-aCl6JA/o.jpg",
+          "caption": "Shinobi Roll - perfectly done $18"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-8OOqfZi8kVo7ba14srQsQ/o.jpg",
+          "caption": "Ultimate Gin & Tonic $17 - light and crisp"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JefB-eV6xx6gyz275P-vOw/o.jpg",
+          "caption": "Cassanova Roll $21 - A must when you visit"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Amanda R.",
+        "user_id": "sukLuxQtlGluDNhFHG4fpg",
+        "link": "https://www.yelp.com/user_details?userid=sukLuxQtlGluDNhFHG4fpg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wNZ5ksF0wtzlDKbqG5jP1A/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 175,
+        "photos": 83,
+        "reviews": 76,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Food here is top notch! The drinks are amazing as well. Everything I've tried here has been phenomenal. \nThe only upset was if you have a party larger than 4, you have to deposit for half the party and ensure that everyone spends minimum of $50 a person. I know It's not hard to do here, but I wish it wasn't so strict to get a reservation with a larger group. Besides that no complaints.",
+        "language": "en"
+      },
+      "date": "2023-06-28T00:11:15Z",
+      "rating": 4,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/e9WdWHYV4WXcPOY1BfSqYQ/o.jpg",
+          "caption": "Casanova roll I believe"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5pHQwmp-gFhV5luxyWfvLw/o.jpg",
+          "caption": "California Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TRDU-vEo337SWCx46x1piQ/o.jpg",
+          "caption": "Amaebi Nigiri"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qqxHr1tFff6kOTZ8R4FPSg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/x3RmB9JhPgOw-5SQAEbN1A/o.jpg",
+          "caption": "Miso sea bass"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lrP29RPWHMl_BJSGiaY-WA/o.jpg",
+          "caption": "Orange is the new black"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JemW37JnefnaXBYWBD-kQQ/o.jpg",
+          "caption": "Shinobi Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jadDi4lnAmu_ndCZTbVH3g/o.jpg",
+          "caption": "Island breeze roll"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Stacy F.",
+        "user_id": "tgPn3nhgD3PgHk5-EaR3OQ",
+        "link": "https://www.yelp.com/user_details?userid=tgPn3nhgD3PgHk5-EaR3OQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KQ89CjFGG4S93IJlzOiafA/180s.jpg",
+        "address": "East Brunswick, NJ",
+        "friends": 7,
+        "photos": 18,
+        "reviews": 61,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Let me start by saying the sushi was delicious. No complaint there. I do think that a $40 entree should come with soup and/or salad, so I don't think it was a great value. I had to order more food because I was still hungry. I got the Mori sunumono. It was just ok. Too much ponzu. I do think service could improve. I sat at the sushi bar for a long time before finally getting a menu from another customer. I had trouble getting my order taken and the server acted like he was doing me a favor. If I'm spending $70 or $80 on dinner I want to feel like it's a little \"special\" or at least feel like my presence is valued. The restaurant was crowded and noisy and I guess it just wasn't my scene.",
+        "language": "en"
+      },
+      "date": "2023-10-11T14:28:07Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3fhTL7mK0yXqGNc6qdZ3Vg/o.jpg",
+          "caption": "Rice to meet you 8 piece"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Jenna O.",
+        "user_id": "UXUnbStiig7Mup19w9JH6A",
+        "link": "https://www.yelp.com/user_details?userid=UXUnbStiig7Mup19w9JH6A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/N2gXu9qVmWoNgCcO6LFgKg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 31,
+        "photos": 1285,
+        "reviews": 191,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place deserves a 5 stars on the foie gras nigiri alone. I love the use of material other than fish in their specialty dishes. Everything from quail egg to greenery, their presentation and flavor will bring all types of joy to your taste buds.\n\nThere is both an outside and an inside, but we opted for inside as it is summer. A very industrial mid century vibe going on with raw wood and sleet serving dishes. It has a small clash of styles but overall it feels very new era and I like that for this area in downtown. \n\nAs for pricing and food quality, the price matches the quality which means high for both. I don't think this is a place we will frequent because of that, but it does have some amazing flavors that I will go out of my way for in the future. \n\nOur waiter was super nice and loved explaining parts of the menu to us as well as talking about the foods he enjoyed and the flavors you get from each type of fish or way it is served. \n\nOne thing was the scallop roll (cassanova roll) felt overpowered and if we are being honest I think scallop has a very strong flavor that doesn't need to be smothered out by sauce like it was here. It would have been just as good as a shrimp roll and cost less. I would love to see more additions of scallop on their menu though if they can learn how to balance the flavors for that specific fish a little better.",
+        "language": "en"
+      },
+      "date": "2023-07-10T19:42:16Z",
+      "rating": 5,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AFca5APgtIS8QlWcSa2nkA/o.jpg",
+          "caption": "Otoro sando"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/r5COasW4bFa8U4DjOjTV0A/o.jpg",
+          "caption": "Rice to meet you"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L5bFG22O4BapnJ6m_nuI_g/o.jpg",
+          "caption": "Purple rain"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ud7dkAEuzKgbHimg-Qyg4g/o.jpg",
+          "caption": "Rice to meet you"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IlJU9yYkQHS2ZuxxytzHaA/o.jpg",
+          "caption": "Cassanova roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HqZ6RUHa_HqFe1v6NE19_A/o.jpg",
+          "caption": "Foie Gras Nigiri"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mCCHJBHhCPv_0qPu_X76WQ/o.jpg",
+          "caption": "Miso sea bass"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0YU7G0pkmTn0u7UdzW4KkA/o.jpg",
+          "caption": "Hotate Nigiri"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Helena M.",
+        "user_id": "GgwNOsdxR0E9s5R8DzHZSQ",
+        "link": "https://www.yelp.com/user_details?userid=GgwNOsdxR0E9s5R8DzHZSQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/l6m5Uw9PH8RRvQ3IMh2dRA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 29,
+        "photos": 378,
+        "reviews": 139,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The ambience of this location was nice! Dim lighting, personable seating arrangements so I think it's the perfect place for date night. I didn't see a dress code mentioned but everyone was dressed rather nicely so I'd keep that in mind.\n\nNow everyone swore by this place so I was excited to try but unfortunately I was let down! I'm an avid sushi eater and it's very rare that I'm disappointed in sushi, but the King Crab Roll was just meh to me. Maybe it just wasn't my niche. My date tried the Island Breeze roll which I sampled and that was very nice and refreshing. I still see myself coming back and trying the Shinobi roll which everyone swears by so we will see!",
+        "language": "en"
+      },
+      "date": "2023-07-05T16:30:47Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/C_YCRQhOQEPfIyMD4FhnXg/o.jpg",
+          "caption": "Kings Crab Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LcYYYBubQjuvTduUJzDecw/o.jpg",
+          "caption": "Island Breeze"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Keny R.",
+        "user_id": "25pMTtwYUl32aq7G1-WCXg",
+        "link": "https://www.yelp.com/user_details?userid=25pMTtwYUl32aq7G1-WCXg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LH9WynmWRgHPIlDWYocMiQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 8,
+        "photos": 55,
+        "reviews": 17
+      },
+      "comment": {
+        "text": "TLDR: Definitely one of the best sushi rolls I've ever had! \n\nFrom the moment I walked in, the sleek and modern ambiance set the stage for a delightful evening. The service was impeccable, with attentive staff ensuring every detail was taken care of. I literally dropped my chopstick on the ground and less than 2 seconds later, our waiter switched them out for me before I even got to bring it up!\n\nNow, let's talk about the star of the show--the \"Shinobi Roll.\" This culinary masterpiece left an indelible mark on my taste buds. The combination of crab salad and tempura crunch provided a delightful texture, while the Smokey-tasting filet mignon on top elevated the dish to new heights. The interplay of sweet and Smokey flavors danced on the tip of my tongue, creating a harmonious blend that I will never forget.",
+        "language": "en"
+      },
+      "date": "2023-12-08T00:45:32Z",
+      "rating": 5,
+      "tags": [
+        "2 photos",
+        "1 check-in"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CUz3kZT-FK7V7kePJfNfVA/o.jpg",
+          "caption": "Shinobi Roll and Casanova Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FmjonoUc-T1AuxU00TWIUQ/o.jpg",
+          "caption": "Ambiance"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Winter R.",
+        "user_id": "YU07AiIq6h1pEbrc9Jl8PA",
+        "link": "https://www.yelp.com/user_details?userid=YU07AiIq6h1pEbrc9Jl8PA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/k6KFyPGmLS92oVIqxO1pvQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 3,
+        "photos": 50,
+        "reviews": 63
+      },
+      "comment": {
+        "text": "Sushi Lounge Review:\n\nNestled in the heart of the city, the Sushi Lounge is a true gem for sushi enthusiasts. From the moment you step inside, you're greeted with an ambiance that strikes the perfect balance between modern chic and traditional Japanese aesthetics.\n\nSushi Selection 10/10- The burlesque roll and the cassanova roll. The star of the show, the sushi, is nothing short of exceptional. The fish is undeniably top-notch, with a melt-in-your-mouth quality that sushi lovers crave. The presentation is an art form in itself.\n\nAppetizers: 10/10-wagyu sando Don't skip! Or the tuna crisp and the langoustine. These dishes are crispy and flavorful.\n\nDrinks: 10/10-Summer Affair delicious \n\nService: 10/10- The attentive and knowledgeable staff add to the overall experience. They're happy to provide recommendations and ensure a seamless dining experience.\n\nAmbiance 10/10-The lounge's decor exudes a contemporary vibe with a subtle Japanese touch. It's a great spot for a date night or a night out with friends.\n\nPrice$$$- While the quality is undeniable, the Sushi Lounge leans towards the higher end of the price spectrum. It's worth it for a special occasion but might not be a daily go-to for budget-conscious diners.\n\nIn conclusion, the Sushi Lounge offers a delectable culinary journey into the world of sushi. With exceptional sushi, a creative menu, and a welcoming atmosphere, it's a must-visit for anyone seeking an elevated sushi experience.",
+        "language": "en"
+      },
+      "date": "2023-10-24T18:12:29Z",
+      "rating": 5,
+      "tags": [
+        "9 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1ZbGdAddVBZ0Fx374R_noA/o.jpg",
+          "caption": "Afterglow"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BEqHg7EX67xbClVuSgVA2Q/o.jpg",
+          "caption": "Waygu steak"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JhW_gj11BocYYfZoF_BTuA/o.jpg",
+          "caption": "Moshi Moshi Oyster"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jyaBxGhHeywM7OQB-ofaYw/o.jpg",
+          "caption": "Waygu sando"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EnDaQhXpJQmGXHIUMaC2FA/o.jpg",
+          "caption": "Langoustine"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oUNKIdYoDTh08jD06iHrMA/o.jpg",
+          "caption": "Ramen \"1st Place In 2016 Atl Ramen Fest\""
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/96HAms8uYzLM6vx9VfJV4A/o.jpg",
+          "caption": "Cassanova Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gX9bh_epo0at6LyiOfg5qg/o.jpg",
+          "caption": "Complimentary Ice cream"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Zs5DOJnqPDtt-Xoh7WdeaA/o.jpg",
+          "caption": "Seabass"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alyssa S.",
+        "user_id": "ay4SZR0ANDaRMHFk1-9fGw",
+        "link": "https://www.yelp.com/user_details?userid=ay4SZR0ANDaRMHFk1-9fGw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wy6NCkd1GQ3Oulf0VxA8eA/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 294,
+        "photos": 71,
+        "reviews": 71,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We started our evening at the bar . Honestly the bartenders could use a little bit more enthusiasm when greeting guest. We sat at the bar for a few minutes before being acknowledged. They were admittedly a little busy, but a quick \"hi , be with you in a sec\" goes a long way.\n\nThe food here was top notch! Our server (his name was Deto I think) offered great suggestions. We ordered family style and he paced/ courses everything beautifully . He was attentive and helped make my sister's birthday dinner a success.\n\n\nI would definitely recommend making a reservation ! It was quite packed the night we visited and so the noise level was on the higher side . Overall would dine again.",
+        "language": "en"
+      },
+      "date": "2023-10-15T22:23:55Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Candy C.",
+        "user_id": "JomAHr7TrVHQeFhRoGvMKg",
+        "link": "https://www.yelp.com/user_details?userid=JomAHr7TrVHQeFhRoGvMKg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/z7_K1znNQNsVxwbh1Jrt_w/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 162,
+        "photos": 836,
+        "reviews": 109,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I really enjoy being here. I've come multiple times and the staff is incredibly friendly. The food is authentic and delicious, and the drinks are great. It has a really nice atmosphere.",
+        "language": "en"
+      },
+      "date": "2023-10-07T21:22:51Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qPfPt2gz1DrvdU6vA2JZQA/o.jpg",
+          "caption": "valet use the app so u can let them know when you're coming. They had the car ready for us when we walked out."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zyM1NYMWKTJPDCU-m_Fu6A/o.jpg",
+          "caption": "Salmon Cake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L9sSs1rplLw2TPMuNC4iZA/o.jpg",
+          "caption": "Salmon Cake. Dry but the balsamic sauce was so good with the avocado."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/alDJ2w36v22heXI1O_BWqg/o.jpg",
+          "caption": "King roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zltfHIqPhoCNVl9TnpGr-A/o.jpg",
+          "caption": "Island breeze roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VHb6mXOOAtv-jEsQHcir7w/o.jpg",
+          "caption": "Chinese gin and tonic"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/svDJgHACprvC-UGaMza-0Q/o.jpg",
+          "caption": "Salmon Teriyaki Plate. That rice cake was horrible."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2ekiPo2eNVLoQjy2vLhwgA/o.jpg",
+          "caption": "King roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gwyIlTWOkOitl74xhmvKkA/o.jpg",
+          "caption": "Island breeze roll. Very good!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ut8iCrvJPCoxndEHo1eQSQ/o.jpg",
+          "caption": "Gin and tonic"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Felixia C.",
+        "user_id": "i0Y0pgBuc_fUC-cvvTZwsQ",
+        "link": "https://www.yelp.com/user_details?userid=i0Y0pgBuc_fUC-cvvTZwsQ",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 6,
+        "reviews": 19
+      },
+      "comment": {
+        "text": "The food, ambiance and service is excellent here! Came for a business dinner and this sushi and the presentation will match any high end sushi restaurant. Food prices are moderate and you will get full! I got the Chilean Sea Bass and Island roll. Even got to try the appetizers and a nice glass of wine! Picture is my empty plate because I was super hungry and low key \"greedy\" lol. Was well worth skipping lunch for this meal",
+        "language": "en"
+      },
+      "date": "2024-02-28T02:10:38Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JbHZph0qj6e9xR1HIfocVw/o.jpg",
+          "caption": "Empty plate of Chilean Sea Bass and Island roll!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Melinda J.",
+        "user_id": "7CgUUvZCG_Y7TtfZcdeHDg",
+        "link": "https://www.yelp.com/user_details?userid=7CgUUvZCG_Y7TtfZcdeHDg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FKhaEqqTGptMzEpsALMu2g/180s.jpg",
+        "address": "Dallas, GA",
+        "friends": 0,
+        "photos": 12,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "This is a great date night, grab a quick bite place in Atlanta. The ambiance was perfect and the food and drinks were also good. Be sure to check it out!",
+        "language": "en"
+      },
+      "date": "2024-02-04T22:52:54Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/B_7zj8OrJOaiJBojv_E5Dg/o.jpg",
+          "caption": "Salmon Tataki"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vMAJYUCBQXTfA3WYjekL2A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3lMr4MHtTcVgSiAEFvrUgg/o.jpg",
+          "caption": "Lychee Martini"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7rwxeBmf3QMQV9n2a5pxHw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Marilyn B.",
+        "user_id": "_nTizbqv5GnsQsaPXMV9Dg",
+        "link": "https://www.yelp.com/user_details?userid=_nTizbqv5GnsQsaPXMV9Dg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ye-zWkv0IPBd9EOReSOanQ/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 35,
+        "photos": 768,
+        "reviews": 142,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Unbelievably delicious food! Make a reservation today to try this place out! We got lucky and grabbed a reservation when they opened at 4:00. Yes, that's an early dinner, but it's worth it! \n\nThe restaurant's address is Howell Mill but the entrance is at the corner of 8th and Brady. There is some street parking but we used the parking garage in the same complex.  Once inside, the place is beautifully decorated.  It was a nice day so we ate outside in their covered seating.  \n\nWe had a hard time choosing what to order since their menu is large and so many things were intriguing.  Here is what we ordered (great recommendations from our server):\n\nEggs Benedict\nTuna Crisp\nOrange is the New Black\nWagyu Sando\nCeviche\nHashtags Roll\nRice to Meet You\nBread pudding with butter pecan ice cream\n\nWe loved everything we ate.  I can't pick a favorite, they were all equally great!",
+        "language": "en"
+      },
+      "date": "2023-03-28T23:35:29Z",
+      "rating": 5,
+      "tags": [
+        "9 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zF6RFYspHsqA-Aq3SOJNYg/o.jpg",
+          "caption": "Eggs Benedict"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lZzf16SkiKm_d138mWxxfA/o.jpg",
+          "caption": "Tuna Crisp"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sQh6t6hng9GjP5yTDD1yGg/o.jpg",
+          "caption": "Eggs Benedict"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mXwSds84nmJgx5Wh7SvIVw/o.jpg",
+          "caption": "Orange is the New Black"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LfBaEbL10Ci1kaRi3C_Kfw/o.jpg",
+          "caption": "Wagyu Sando"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1e4sK38mx2ptxwAGvHJdMw/o.jpg",
+          "caption": "Ceviche"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Xmd0Brvml913egf2zH61BQ/o.jpg",
+          "caption": "Hashtags Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KxdBC0MfQTPTKuDDs6VRDw/o.jpg",
+          "caption": "Rice to Meet You"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/V-g95HOjNeVlFSpHAhFzJA/o.jpg",
+          "caption": "Bread Pudding with butter pecan ice cream"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Aaron A.",
+        "user_id": "q8F-SxkxPQuZ8qcIcYnLSA",
+        "link": "https://www.yelp.com/user_details?userid=q8F-SxkxPQuZ8qcIcYnLSA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SCgrB2z2AuM2gCbmV4KQ6A/180s.jpg",
+        "address": "Forest Park, GA",
+        "friends": 175,
+        "photos": 27,
+        "reviews": 23
+      },
+      "comment": {
+        "text": "One of our favorite sushi restaurants in Atlanta \n\nFood is decently priced for quality sushi \n\nWe always get the nigiri and sea bass entree \n\nService is quick and staff is always knowledgeable \n\nAmbiance is great for a date night or a nice dinner with friends & family",
+        "language": "en"
+      },
+      "date": "2023-11-17T16:03:13Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VAhaDAB0gQBu88XOcRr8sQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Christina K.",
+        "user_id": "CUd02aHWmQoe1lZ1wARYFg",
+        "link": "https://www.yelp.com/user_details?userid=CUd02aHWmQoe1lZ1wARYFg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Y8i3o1u2U9IAu-JoNFnmkA/180s.jpg",
+        "address": "Norcross, GA",
+        "friends": 17,
+        "photos": 991,
+        "reviews": 64,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I been wanting to try this place for so long and I finally made time to come! I was so hungry and ordered with my eyes. The food was absolutely amazing! But the bill hurt my bank account! Lol \n\nThe nigiri was super fresh and the uni was so sweeet. I had Uni at other places but I think this was the best one for the price!!! All of the dishes were very memorable expensive but definitely worth it. It's a very nice upscale place.",
+        "language": "en"
+      },
+      "date": "2023-02-28T05:18:13Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rTPpRuPPUTPDn14CZir3NQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Q5nSssl8g2Rnc93J0Omc1g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Mieak9kqlBlqqdiQBdZgRw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CWsF2Is5XCTnmIxYjlqDog/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UBZ7zY6z0oIYEycwUbO03w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aj_QnGA5qkFL5FZHncf5ng/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Gabi M.",
+        "user_id": "dIIKEfOgo0KqUfGQvGikPg",
+        "link": "https://www.yelp.com/user_details?userid=dIIKEfOgo0KqUfGQvGikPg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/v8rpdrufxbXycNejHFknEg/180s.jpg",
+        "address": "Phoenix, AZ",
+        "friends": 3890,
+        "photos": 4515,
+        "reviews": 2445,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Eight Sushi Lounge came highly recommended by friends and the Yelp reviews backed it up, so my girlfriends and I made a reservation to dine here on a recent Saturday night!\n\nOur reservation was for four people at 8pm... we arrived on time and had a short wait, so we ordered some drinks at the bar and enjoyed the fun restaurant vibe while we waited in the lobby.\n\nAlly was server, and she was attentive and had some solid recommendations for us.  Three of us love sushi and the fourth ordered a salmon entree.  Unfortunately for her, it took a really long time for her dinner to arrive and she ended up spending most of the evening watching us eat.  Due to the delay, they did the right thing and comped the salmon.\n\nAs for the rest of us, we enjoyed everything we ordered - both food and wine.  My favorites were the explosion roll, ginger salad, hotate nigiri, and sake nigiri.   The only thing I didn't love was the \"iced ponzu\" served with the kampachi serrano.\n\nAll in all this was a fun and delicious experience!",
+        "language": "en"
+      },
+      "date": "2023-02-07T23:03:38Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ExvoyGyc-j6bHDGxtAB_Gw/o.jpg",
+          "caption": "Tuna crisp"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Bsxv6jTRGDthDcoI1XZEdg/o.jpg",
+          "caption": "Ginger salad"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PbH5sup7oOr32R-0JNut6Q/o.jpg",
+          "caption": "Explosion roll"
+        }
+      ],
+      "feedback": {
+        "useful": 7,
+        "funny": 2,
+        "cool": 6
+      }
+    },
+    {
+      "user": {
+        "name": "Patrick R.",
+        "user_id": "yZ4h4B5Bt7cAf4LXMxFhWA",
+        "link": "https://www.yelp.com/user_details?userid=yZ4h4B5Bt7cAf4LXMxFhWA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pi_nmxQLh7XV6VZLkamySQ/180s.jpg",
+        "address": "Dallas, TX",
+        "friends": 12,
+        "photos": 110,
+        "reviews": 86,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I took my girlfriend to Eight Sushi Lounge for Valentines Day. I called 5 days before and got the last reservation they had (9:30pm), so I figured it must be a hoppin place.\n\nEight Sushi Lounge wound up being TOO hoppin. They overbooked their reservations so badly that couples with reservations were spilling out of the lobby when we arrived, and the host said we'd be seated at 10pm, not 9:30pm. When we finally entered the dining room it was comically packed with couples, 2-tops as far as the eye could see. The ambiance was romantic but it was hard to concentrate on the lit candles and white tablecloths when you felt like you were in a refugee camp of Valentine's Day couples. \n\nThat being said, I'm still giving Eight Sushi Lounge a good review (4-star) because their servers were somehow still speedy and charismatic, and their host handled the chaos with a surprising amount of grace. Additionally, their sushi really was amazing. I see why folks think it's the best in Atlanta.",
+        "language": "en"
+      },
+      "date": "2023-02-19T20:11:19Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DLoh5fF-YsQcqyb7iv9UXQ/o.jpg",
+          "caption": "Sushi"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5mOMX411R042GL8NEouvdQ/o.jpg",
+          "caption": "Sushi"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Christina K.",
+        "user_id": "50LOI3r4_CqIhLFSw8Mm1g",
+        "link": "https://www.yelp.com/user_details?userid=50LOI3r4_CqIhLFSw8Mm1g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HrJdl0_q0Z7KDgv9H-9m9A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 30,
+        "photos": 149,
+        "reviews": 132,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Wow, this place is phenomenal! It was really busy when I went even though it was 10 pm but service here was so fast! I sat at the bar and was tended to right away. The sushi came out super quickly and the people making the sushi were super friendly! The sushi was also so delicious, some of the best I've ever had I think!\nI got the orange is the new black,  yellowtail nigiri, and salmon toro nigiri. Everything was just too good I wish I could relive the meal!\nDefinitely not somewhere I could come often as it's quite pricey, but I think the quality makes it worth it!",
+        "language": "en"
+      },
+      "date": "2023-02-19T17:53:17Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6C0c9TPt6WHgC8qLzkzIkQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HQqKk_hfLNBMFBo_6XxahA/o.jpg",
+          "caption": "orange is the new black"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7ub64T63kYs49mSkquSGBA/o.jpg",
+          "caption": "salmon toro"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Alexandra H.",
+        "user_id": "T2Oeb6Osg1FoWlMX8A1FGQ",
+        "link": "https://www.yelp.com/user_details?userid=T2Oeb6Osg1FoWlMX8A1FGQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ynbFANc8hZN-8PEc1KgfPQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 298,
+        "photos": 209,
+        "reviews": 174,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Had a great experience here! Came with a friend who got a reservation for a Thursday dinner - I'd recommend getting a reservation as it seems to get pretty busy!! Ordered some edemame to start off with - 5/5 stars! I got the Island Breeze Roll, which was so fresh and delicious. My friend got the Explosion Roll, which was great as well! I would absolutely come back here, it's got a very nice vibe. \nParking note: There's only street parking close to the restaraunt, so probably a bit difficult for a weekend dinner - but it was easy to find parking on a Thursday evening.",
+        "language": "en"
+      },
+      "date": "2023-04-05T22:24:24Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pgxs4FQ4NAgxM6iyG_84Lg/o.jpg",
+          "caption": "Island Breeze Roll"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "T G.",
+        "user_id": "nytGSOvH-300_d4xzwTjCg",
+        "link": "https://www.yelp.com/user_details?userid=nytGSOvH-300_d4xzwTjCg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QVWMkKVz3PXeVdVd6kK8lA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 9,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "Wonderful ambiance. The food was delicious. And the service was really up to par. Thanks for having me.",
+        "language": "en"
+      },
+      "date": "2024-02-24T14:50:49Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Monica C.",
+        "user_id": "jmjDsiQQ8mSBVm5nMEMtHw",
+        "link": "https://www.yelp.com/user_details?userid=jmjDsiQQ8mSBVm5nMEMtHw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nbMhRpkWhuqFA2l1eQJOCQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 261,
+        "photos": 649,
+        "reviews": 51,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The best sushi restaurant in ATL! Eight knocks me off my feet every time I eat here. Do not pass up the wagyu nigiri or the blue fin otoro. If I'm feeling extra fancy I order it with caviar on top, it's fantastic! \nAnother must try is the langoustine roll, it's one of my favorites! The lobster and little crunch... to die for. When it's cold out, I crave their miso. It's the best miso soup I've ever had. \n\nEight sushi lounge is my go-to spot for birthday/special occasions. It's worth every penny and minute spent here.",
+        "language": "en"
+      },
+      "date": "2023-02-14T14:59:44Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7GCa-HLzntoRCSZEStkjjw/o.jpg",
+          "caption": "Wagyu Beef Nigiri"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oyQ--jvQd6rI3BITyvJr6w/o.jpg",
+          "caption": "Orange is the new black"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dLiTII8QR7kgpFY8QspHgg/o.jpg",
+          "caption": "Langoustine Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4JGrH_Toy8ZJe5J4jD3SFQ/o.jpg",
+          "caption": "Birthday treat"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NdNu9sTYZU8SQuOS2abEEg/o.jpg",
+          "caption": "Front entrance"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rK4Nkls52ZJ5xulj7Qy2SA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Charlotte M.",
+        "user_id": "eQ8Jty_fvUVYyG8EdPtFgA",
+        "link": "https://www.yelp.com/user_details?userid=eQ8Jty_fvUVYyG8EdPtFgA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/X_JG121kaLlfoV6Lvw1cgg/180s.jpg",
+        "address": "Smyrna, GA",
+        "friends": 12,
+        "photos": 57,
+        "reviews": 92,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "From now on eight sushi lounge will be the benchmark of my sushi comparisons.\n\nThe appetizers and sushi rolls were very good. It didn't taste fishy at all. It was fresh and did not feel heavy. It was very fresh to the palate. \n\nEsther was our waitress and she was a true sweetheart. Very kind, attentive and knowledgeable of the menu. If you make a reservation, make sure to pick her as your waitress.",
+        "language": "en"
+      },
+      "date": "2023-09-02T22:32:55Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Anita B.",
+        "user_id": "HZcU7wrf7ufYdL8LljnovA",
+        "link": "https://www.yelp.com/user_details?userid=HZcU7wrf7ufYdL8LljnovA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0zDCG4BtI4PDSvQMipI9wg/180s.jpg",
+        "address": "Glen, NH",
+        "friends": 15,
+        "photos": 7,
+        "reviews": 245
+      },
+      "comment": {
+        "text": "We came to celebrate a family member's birthday and were completely blown away.  Extensive and innovative menu, each dish was a work of art.  The food was turned out with lightening speed with wonderful and gracious service.  We had fabulous moctktails; the regular cocktails looked amazing.  I would come here anytime we visit Atlanta.",
+        "language": "en"
+      },
+      "date": "2024-02-04T17:24:09Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Antoinette P.",
+        "user_id": "ZpUIkhHjWsDPwFqDJBI5dg",
+        "link": "https://www.yelp.com/user_details?userid=ZpUIkhHjWsDPwFqDJBI5dg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YHna-U7fpka1_NEWJvLMgQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 4,
+        "photos": 192,
+        "reviews": 44,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Love eight sushi because you can go by yourself for a quick bite at the bar or with a large group for a vibe. The food is always consistent and delicious. I love that they change their sushi menu sometimes.",
+        "language": "en"
+      },
+      "date": "2023-07-17T12:50:35Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-_Pdz9xk8xw6KH2OAjX7vg/o.jpg",
+          "caption": "miso sea bass"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sherdrain J.",
+        "user_id": "Ny2s8iXODHeFy9r88yTGGg",
+        "link": "https://www.yelp.com/user_details?userid=Ny2s8iXODHeFy9r88yTGGg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uCcpWlJ685U4T_6qGfo_dQ/180s.jpg",
+        "address": "Bayonne, NJ",
+        "friends": 207,
+        "photos": 151,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "I was able to make a late, last-minute reservation on a Monday night here and I'm so glad I did. One of the best decisions of my trip. It wasn't packed at all on a Monday night. The ambiance was quiet and Asian themed. Nicely lit and done on the inside. I was seated an hr before closing and the hostess and waiter were super nice and customer service-oriented.\n\nA friend recommended I order their lychee martini and I haven't turned back since trying. 8sushi made a good first impression and introduction to the lychee cocktail. I had two kinds of rolls which blew my tastebuds out of the water. I did not think I'd get great sushi in ATL. \n\nOverall, it is a MUST GO - 10/10 highly recommended and I would visit 10x over!",
+        "language": "en"
+      },
+      "date": "2023-08-10T04:21:37Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HBb9iI54ND4zWkyjSY7aXQ/o.jpg",
+          "caption": "Lychee martini"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bhJS4O4zmQZmyjkG5hdIOQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yjyU2e1dOIaNLyNKfWfQGA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Amaia C.",
+        "user_id": "4emA9ZcJNPpcWJrtKWfx8g",
+        "link": "https://www.yelp.com/user_details?userid=4emA9ZcJNPpcWJrtKWfx8g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/misGvzI8WysqfQPn5GtZug/180s.jpg",
+        "address": "New Brunswick, NJ",
+        "friends": 2,
+        "photos": 152,
+        "reviews": 67,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place definitely lived up to all of the hype I've heard about it! When we first arrived (~8:45pm), it looked like many people were waiting. The hostess said the wait wouldn't be that long though, and it wasn't (less than 10 minutes)! The ambiance was very nice with a cool lounge vibe. They have outdoor seating too. The best by far was the food! The Shinobi roll was 10/10! I can't wait to come back and try more! Highly recommend!",
+        "language": "en"
+      },
+      "date": "2023-07-13T10:00:28Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AuFeSGVJLzBJyjfJWEebFw/o.jpg",
+          "caption": "Shinobi Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KCiew5WdCLeXawtj_76SYA/o.jpg",
+          "caption": "Summer affair"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "LeBain L.",
+        "user_id": "K0k_f6tAJWejY33H7_Nx8g",
+        "link": "https://www.yelp.com/user_details?userid=K0k_f6tAJWejY33H7_Nx8g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qbXj435s-jb7XOETiW0iYg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 8,
+        "photos": 197,
+        "reviews": 91
+      },
+      "comment": {
+        "text": "Sat at the bar on a Saturday night for dinner and drinks. The sushi was very flavorful, the bartender was friendly, and of course the lychee martini was great! Gyoza and Kings roll are good, plus I usually get the Explosion Roll and some nigiri sushi.\n\nI generally tip 20% at a nicer place like this, but since their bill suggested only 22%, 25% and 30% I left exactly 15% and excluded tax from the amount I tipped on.",
+        "language": "en"
+      },
+      "date": "2023-06-30T22:30:53Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_2PE2Y1b2vEw4GybeGROnA/o.jpg",
+          "caption": "Lychee nut martini!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Roann T.",
+        "user_id": "LjhRh8l1kZsLQyXXYswV3w",
+        "link": "https://www.yelp.com/user_details?userid=LjhRh8l1kZsLQyXXYswV3w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Gr9PSrV_07oehokU18D_aA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 103,
+        "photos": 316,
+        "reviews": 153,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This was my first time going to Eight Sushi Lounge and it won't be my last! We were seated immediately at a table, but there is also seating at the sushi bar if you're dining solo, or want an up close experience of your food being prepared. \n\nThe service was phenomenal  and the sushi was the best that I've had in a while. Our waitress was extremely knowledgeable and gave us suggestions on her favorite drinks, appetizers, and rolls. Everything from the drinks, appetizers, & sushi rolls were absolutely divine. I can't wait to go back!",
+        "language": "en"
+      },
+      "date": "2022-12-02T22:27:44Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tDqdUt1Af550jTHXZeZMFQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FDfuUCs10YVnltEt484oiw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/G-XXcViZfKqR_Q7QnOGbhQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OckzXGnR80n3n3qp7O_gyQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LqD5UUitJGta3FkabhlUoQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JaTe47wftk0jo-JPngXylg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shehan P.",
+        "user_id": "q3GJ3Vg2AbdKP4IrX2r0aA",
+        "link": "https://www.yelp.com/user_details?userid=q3GJ3Vg2AbdKP4IrX2r0aA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XvscK2de7k5kGl1c8BWg8Q/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 547,
+        "photos": 77,
+        "reviews": 37
+      },
+      "comment": {
+        "text": "I feel like I just had sushi for the first time coming to Eigth Sushi, it was soooo good. I don't recommend starting with the hot sake, don't believe what they tell you if they recommend it, it got luke warm and just wasn't enjoyable. We got the tuna crisp and Japanese taco to start, the tune crisp was incredible! \nWe got the Burlesque and explosion rolls, the burlesque roll was incredible, explosion roll kept falling apart, would've rather tried some other roll instead. We got the cassanova roll last. It's recommended you get this last so its warm, it was delicious. Just make sure you save room :)",
+        "language": "en"
+      },
+      "date": "2023-12-02T23:13:06Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chalyne S.",
+        "user_id": "z7OuRhZV5RD41QghXDbX5Q",
+        "link": "https://www.yelp.com/user_details?userid=z7OuRhZV5RD41QghXDbX5Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JxZ_do-IgxGUJUIcLPfMUw/180s.jpg",
+        "address": "Doraville, GA",
+        "friends": 29,
+        "photos": 130,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "Went here for a quick late lunch / early dinner by myself. Staff was welcoming. At first I sat at the sushi bar but ended up moving to a table to be more comfortable. I had the vegetable spring rolls to start with the summer affair cocktail. Both really good! I was craving sushi so I had both the hashtags roll & the shinobi roll , both of which were also really good! Usually I have to take home but I ate EVERYTHING there lol. It was that good! It was also pretty quiet in there for the most part. Wasn't too packed at all & they have patio seating. \n\nDeff one of my new lunch / sushi for dinner spots",
+        "language": "en"
+      },
+      "date": "2023-05-31T15:05:03Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rmMFQmeJxSFGADVYuUWdPg/o.jpg",
+          "caption": "Hashtags Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Rsv7XKUUxPscVxNuWDCQXg/o.jpg",
+          "caption": "Vegetable Spring Rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xf6BYm1xQ_fXPIeyM5nh5w/o.jpg",
+          "caption": "Summer affair"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2Gy3krEzq-rd1fF5h5hCcw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/g52-B7KZ27tI494CM9WQCw/o.jpg",
+          "caption": "Shinobi Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/z77Za75BogFvc-HEyC3BKg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Matt M.",
+        "user_id": "2Sp0QCuZS_jADqXBW0sdkg",
+        "link": "https://www.yelp.com/user_details?userid=2Sp0QCuZS_jADqXBW0sdkg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LFLDiJw1ulUJCnHftR9zDw/180s.jpg",
+        "address": "Jacksonville, FL",
+        "friends": 189,
+        "photos": 2928,
+        "reviews": 952,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Midtown sushi craving, this is your spot.\n\nFirst, shout out to our server Sue, she really made our dinner special.\n\nSecond, this restaurant is all about the experience. While the food is good, the lighting, the music, even the names of the dishes are funky and fun.\n\nParking - midtown parking can be dicey, so consider a ride share. Service was exceptional, but I already mentioned that.\n\nThe FOOD:\nTuna Crisp - FREAKING AMAZING, just not enough of it.\nFoi Gras Nigiri - a must try, but not nearly as interesting tasting as it sounds.\nEggs Benedict - looks amazing, but cold and different. Not my thing.\nFried green beans -DELIGHTFUL especially dipped on the sauce.\nHashtag Roll - best dish of the night.\nCasanova Roll - good but not as good as the Hashtag\n\nThis is a super date night place.\n\nTips:\n- try the tuna crisps\n- keep an open mind, this is not your typical sushi joint.\n- hashtag it, the hashtag roll is so good.\n- Slurge?  Try the beverage menu, it is almost as interesting as the sushi menu.",
+        "language": "en"
+      },
+      "date": "2022-09-29T16:47:42Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kcGUxbo1zJTpznWkV3dNag/o.jpg",
+          "caption": "Green Bean Fries"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/djknNwXD0dLlcE-Iej1b-Q/o.jpg",
+          "caption": "Tuna Crisp -"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Uvir-KWB02L8DI3sYhijHg/o.jpg",
+          "caption": "Eggs Benedict"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2N9T0adVoh0djZ7jnytGGA/o.jpg",
+          "caption": "Close up of the Eggs Benedict"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XOUMQQRTftsFN2ITyp_GYA/o.jpg",
+          "caption": "Foie Gras Nigiri"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zcYwsA0rWwAUp0W7FRA5XA/o.jpg",
+          "caption": "Hashtags Roll King Roll"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 1,
+        "cool": 6
+      }
+    },
+    {
+      "user": {
+        "name": "Ketta M.",
+        "user_id": "m5TPqXqE9p30ptQhwZBmwA",
+        "link": "https://www.yelp.com/user_details?userid=m5TPqXqE9p30ptQhwZBmwA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yKe5abMRxZKiEgXFcHIhiA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 75,
+        "photos": 148,
+        "reviews": 125,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I showed up right when they opened, and I was able to have my choice of seats. I chose to sit outside on the patio because it was a gorgeous day. My service was fantastic. I had heard this sushi was delicious, and it lived up to the hype! I would absolutely come back and eat here again. No complaints!",
+        "language": "en"
+      },
+      "date": "2023-04-20T16:42:08Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PiDF8l-q35hPYCE9ZwQo0A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DFQz7k2KHUU_OwdyNTwAzw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ICO8LNFepridDjXwzUCF7w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ta-4PSjDeBIJONkmqp7W3g/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Kami L.",
+        "user_id": "kttR5xxpUCxcGZrsMMPTrA",
+        "link": "https://www.yelp.com/user_details?userid=kttR5xxpUCxcGZrsMMPTrA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zHFdxbOJzQBSrwVuqocWEw/180s.jpg",
+        "address": "Broken Arrow, OK",
+        "friends": 2,
+        "photos": 12,
+        "reviews": 40,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Cannot say enough great things about Eight! Fantastic food, great ambiance and amazing service. We have experienced a few meals here and each one was absolute perfection! Our servers have been attentive and provided the best suggestions. They were also so wonderful in handling a family member with celiac! Love this place!",
+        "language": "en"
+      },
+      "date": "2023-10-19T15:35:16Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "John R.",
+        "user_id": "jLN9shkU4EW-hVh7v9E-Ig",
+        "link": "https://www.yelp.com/user_details?userid=jLN9shkU4EW-hVh7v9E-Ig",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ARebQZNkJR2LdyEY4cLNFg/180s.jpg",
+        "address": "Conyers, GA",
+        "friends": 2,
+        "photos": 14,
+        "reviews": 17
+      },
+      "comment": {
+        "text": "The variety of food is wonderful!!\nThe service was outstanding! Our waiter, Mark, was attentive and accommodating!",
+        "language": "en"
+      },
+      "date": "2023-07-05T09:37:12Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XicnF6lnOu_NofwVi5VZ1g/o.jpg",
+          "caption": "Fresh sushi bar"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EwWdU0Szlct2t8AopMWp9Q/o.jpg",
+          "caption": "Fresh sushi bar"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Dionne C.",
+        "user_id": "N5kqZMESHQ8xwrq1J52xiQ",
+        "link": "https://www.yelp.com/user_details?userid=N5kqZMESHQ8xwrq1J52xiQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TR4X4-M1lKloP18DRQ0BlA/180s.jpg",
+        "address": "Smyrna, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "We ate at the bar. The staff were super friendly and helpful with great food and drink recommendations.  We will definitely be back!",
+        "language": "en"
+      },
+      "date": "2024-02-02T02:07:18Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Marilyn K.",
+        "user_id": "QJPOGAC3CPwe-32ufi87yg",
+        "link": "https://www.yelp.com/user_details?userid=QJPOGAC3CPwe-32ufi87yg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ey9KAjVS6Ia7-RjV0aGqSw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 178,
+        "reviews": 200,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This restaurant started on the wrong foot with us when (a) they said we couldn't get our table yet (even though the restaurant was 60% empty) because our friends who were parking were 5 minutes behind, (b) they told us there is a time limit on our table, (c) they announced at the table that if you don't like their food, it's not returnable to the kitchen. And on top of this, you walk in to BLARING music. But still, we heard great reviews on the food, so we were here to try it out. Yes, some of the food was outstanding: the miso glazed bass and the foie gras on sushi rice. Wow. But the tuna crisp did not look fresh and I thought the gyoza was the worst I had ever tasted! The nigiri  was good. But when you get a bill for $250 for 4 people, it really makes you rethink....",
+        "language": "en"
+      },
+      "date": "2023-05-20T17:53:27Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ex9wZ73XkFhhau94ZhymIQ/o.jpg",
+          "caption": "Tina crisp"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lY6b0oR50Cj6rP37ESWFXA/o.jpg",
+          "caption": "So so carpaccio"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2cPa29kd7Bbc206XrpzzoA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_JYK2KREEWIzapNW-fl2jQ/o.jpg",
+          "caption": "So many rules! Not welcoming"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BDoWbyT1XX9sEXRUt__21A/o.jpg",
+          "caption": "The worst gyoza I've eaten"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "My-Linh D.",
+        "user_id": "-CFTCft_WIwYFujIgKQtmA",
+        "link": "https://www.yelp.com/user_details?userid=-CFTCft_WIwYFujIgKQtmA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KLV9I9tU6gH2ErQ7snnJiQ/180s.jpg",
+        "address": "Boston, MA",
+        "friends": 175,
+        "photos": 828,
+        "reviews": 219,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I went to Eight Sushi Lounge right as it opens and had one of the best meals. The waiter was very attentive and recommended me the dishes I got. My favorite was the uni and foie gras nigiri. The literally melt in your mouth.",
+        "language": "en"
+      },
+      "date": "2023-04-07T16:30:02Z",
+      "rating": 4,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nPAVXUTKZREyYiKJBaUaSg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/farrzBOcldU57Mnld9t7eA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AqpZSOntuux68TIHzAgtBg/o.jpg",
+          "caption": "Uni Nigiri"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vFTtF1-MvV1De85HAdMFEw/o.jpg",
+          "caption": "Tuna Crisp"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wwMuVowecE6JQmp5xjmBSA/o.jpg",
+          "caption": "Foie Gras Nigiri"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-KpGulCrK50jGbLfQtXU1w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MLfbVxxGI-gDdUbojGcymA/o.jpg",
+          "caption": "Dynasty Roll"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Mariam D.",
+        "user_id": "PMRkqbO1A7aHrrjX_q-1tw",
+        "link": "https://www.yelp.com/user_details?userid=PMRkqbO1A7aHrrjX_q-1tw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1gqIs1IQehMhA6rCigG9HA/180s.jpg",
+        "address": "Alpharetta, GA",
+        "friends": 12,
+        "photos": 14,
+        "reviews": 69
+      },
+      "comment": {
+        "text": "I was anticipating this place for awhile as I kept hearing rave reviews about it. I had a few issues initially with a larger party, so I decided to come with just a couple of people to get a better experience. \n\nThe fish quality was not what I was expecting. I expected a buttery melt in your mouth sort of experience with their sashimi and nigiri. The salmon was not that. I took a bite and the silver skin got it stuck midway through. The flavor of the sauce was also lacking a lot. \n\nOrange is the new black is what the salmon plate was called, and I honestly just wouldn't get that again. \n\nI got the 8 piece chefs nigiri plate. They charge an extra 10$ if you get individual pieces instead of pairs. Bringing the 8 pieces to $50.00. Would be fine, if the flavor was good but it just wasn't. \n\nThe rolls were good. Very tasty and beautiful. The tuna crisp was nice. Tasted like an elevated crème fraise crispy salmon bagel (although it was tuna)\n\nThe Walu was amazing. (Nigiri) That was the only thing I took a bite of that blew my mind. I was surprised because it's seared which I usually don't care for, but the flavor of the miso glaze and the texture of the escolar was so good. \n\nI do think they got stingy on the chefs plate. I think it would have been a different experience had I ordered individual pieces of nigiri  it seems. \n\nThe eggs Benedict (bed of rice, spicy tuna, sunny side up quail egg) was very lovely. Mild in flavor. \n\nThe server was SO sweet and patient while we explored the menu. I just don't think the price point matched the fish quality. The rolls were not expensive at all, but to really experience this place properly, you're not filling up on rolls I'd say you wanna try their \"mind boggling\" menu items.",
+        "language": "en"
+      },
+      "date": "2023-07-17T14:45:35Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nECRqstHhpS7x15F3hU7oA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6PF9H1-8tykkoQ60MaRJoQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Tr1-GLMJTPKwNB5qVYF1eQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Yf5lwVKPZ4snyhuvV-Q-rg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Symfonee H.",
+        "user_id": "xsMzRgyd9kcoqQs9CmZUhA",
+        "link": "https://www.yelp.com/user_details?userid=xsMzRgyd9kcoqQs9CmZUhA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LSAS3hXqeBa18n1VGX0Bpg/180s.jpg",
+        "address": "Nashville, TN",
+        "friends": 1,
+        "photos": 53,
+        "reviews": 27
+      },
+      "comment": {
+        "text": "Want to do a \"sushi\" date? This is the perfect place! The ambiance and food presentation is beyond exceptional!! They also have outdoor, indoor and sushi bar seating available. You can observe the sushi being made at the sushi bar! The Eight Sushi Lounge team provide top tier service and have a wide variety on their menu for first timers and sushi lovers! You must know that all sushi isn't just raw fish. They have vegetarian, baked and deep fried options available at every sushi restaurant. Just ask your server or waiter and they will share what options they have available! I had the pleasure of being taken care of by Isaac and tried everything he recommended! He's an expert and has a great sense of urgency like no other. I'm asking for him every time! And you can too! Tell him Slim sent you!! \n\nNote: Please, don't use my name looking for a discount! Instead of looking for discounts I always show appreciation for great service by tipping well. \n#livelikeSlim",
+        "language": "en"
+      },
+      "date": "2023-07-10T23:31:37Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ou_4B5DP2biL_geiT1ck3A/o.jpg",
+          "caption": "Kings Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0tuEdYxiA0eoHkq3K7fTYQ/o.jpg",
+          "caption": "Purple rain"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/o8uTqwLJvBKzBfCN9_2Evg/o.jpg",
+          "caption": "Wagyu Sando"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9NHpN9RISfwuEc5lzwHtcQ/o.jpg",
+          "caption": "Purple Rain"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Iz2nZl45hIxN15wRuQMOiA/o.jpg",
+          "caption": "Kings Roll"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Olivia A.",
+        "user_id": "NCfKPvYZalscjTYWXpnvUA",
+        "link": "https://www.yelp.com/user_details?userid=NCfKPvYZalscjTYWXpnvUA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xy1YFDp_FkGRd7ADX9jzoQ/180s.jpg",
+        "address": "Evanston, IL",
+        "friends": 6,
+        "photos": 89,
+        "reviews": 61,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I had a really good experience at Eight Sushi. I went here for new year's eve and the service was really good for how crowded they were. I think some of their food is outstanding while some of it is lacking in flavor. I got a pressed sushi roll and it thought it was just okay. I did, however, really like our appetizers which were the spicy tuna and the shrimp saku-saku. Our waiter was really helpful in helping us pick something to order despite how busy it was. I would definitely come back.",
+        "language": "en"
+      },
+      "date": "2023-04-30T23:14:42Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wDRnocnAUqwOyzvfg2jkwg/o.jpg",
+          "caption": "pressed sushi roll"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kevin F.",
+        "user_id": "5jU6d8VWYvN7Rfp18IxN9Q",
+        "link": "https://www.yelp.com/user_details?userid=5jU6d8VWYvN7Rfp18IxN9Q",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Best New speak easy to west Midtown, The pictured drink is THE EIGHT. Heard about it through a friend who went to the soft opening. Beautiful place. Staff is very attentive! I really enjoyed myself and had additional friends meet me after my recommendation. It's an in p..erson experience that can't be explained, so experience it  for yourself.",
+        "language": "en"
+      },
+      "date": "2024-01-20T05:01:09Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1396U0vGsP337ZFqSv-kiQ/o.jpg",
+          "caption": "THE EIGHT"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Denise D.",
+        "user_id": "lYYEQ86VUMPqnRhqm6FvIw",
+        "link": "https://www.yelp.com/user_details?userid=lYYEQ86VUMPqnRhqm6FvIw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uIIa8uGNdSe732RpCrKFfw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 134,
+        "photos": 1617,
+        "reviews": 414,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "E X P E R I E N C E \ni had called ahead, at 5pm, for a 7pm res for two. we were late 30 mins so had to wait in line. it was a Thursday night and it was packed. we waited until around 810 to be seated. we tried ordering a drink while we were waiting but the bartender was just cleaning and we could never get his attentire. \n\n\n\nF O O D \ncassanova roll\ntuna crisp\nlangoustine roll \nhashtag roll\n\nthe tuna crisp and all the rolls were so tasty. it was a flavor and texture explosion. very unique and fresh.\n\nmatcharita: so good. matcha - margarita? two of my fave things. not bitter. definitely sweet. quite strong for my 3 shot tolerance. \n\npurple rain: my friend said she loved it. it had butterfly pea to make that beautiful purple transitional color.\n\n\n\n\nS E R V I C E \nfood comes out quickly. service is good. servers are mostly asian males. they're all very friendly and personable. \n\n\n\n\nP A R K I N G \nthere is a valet parking garage available. if the garage door is closed, just drive up to it and it'll open right up. I believe it's 10$.\n\nstreet parking is also available for, I believe, $2 an hr. i hear many people complaining about finding parking but I've personally never had an issue\n\n\n\nP R I C E \n140",
+        "language": "en"
+      },
+      "date": "2022-08-02T17:34:11Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 3,
+        "funny": 2,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Robby J.",
+        "user_id": "eqLYXn1rczIOgLEiWf64mw",
+        "link": "https://www.yelp.com/user_details?userid=eqLYXn1rczIOgLEiWf64mw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YwNPZnzlgFajvB819SLnTw/180s.jpg",
+        "address": "Tuscaloosa, AL",
+        "friends": 378,
+        "photos": 0,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "always incredible - this is a jewel in the West Midtown crown. the dining experience is consistently exceptional; food quality perfect",
+        "language": "en"
+      },
+      "date": "2024-02-24T15:08:14Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Isabella C.",
+        "user_id": "D85F83vV7yn9-M69SdPbrQ",
+        "link": "https://www.yelp.com/user_details?userid=D85F83vV7yn9-M69SdPbrQ",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "The service was fantastic, our waiter gave us tips and recommendations without us even needing to ask! The food and drinks my boyfriend and I had were also amazing. We had the Casanova roll, the chicken teriyaki, the bread pudding, and the Langoustine (my bf loved this and he's not even a fan of seafood). The Maiden's Kiss cocktail was great too! Keep in mind it can be a little crowded and loud on a busy night, but overall the food and service makes up for it.",
+        "language": "en"
+      },
+      "date": "2024-02-24T05:33:19Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jasmine J.",
+        "user_id": "OEM5EhjTlym2KeX0yBrfCg",
+        "link": "https://www.yelp.com/user_details?userid=OEM5EhjTlym2KeX0yBrfCg",
+        "address": "Perimeter Center, Dunwoody, GA",
+        "friends": 206,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "We had an awesome time at our favorite sushi spot in Atlanta! Always recommend this place. Issac was our server tonight and he was nothing short of amazing! Very attentive and gave us amazing suggestions that did not miss! Arjun and Garrett at the bar were fantastic, made us our favorite drinks and amazing drinks off the menu. They took time to explain so much about drinks and catered to our particular taste! Love eight sushi",
+        "language": "en"
+      },
+      "date": "2024-02-24T04:32:28Z",
+      "rating": 5,
+      "tags": [
+        "1 check-in"
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=_lEHolD7sVt4-SnbuuAgcA&start=60"
+  }
+}

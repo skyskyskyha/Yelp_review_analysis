@@ -1,0 +1,1754 @@
+{
+  "search_metadata": {
+    "id": "65ef2d58cace96b697ebae22",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c435cd11c3877dff/65ef2d58cace96b697ebae22.json",
+    "created_at": "2024-03-11 16:12:08 UTC",
+    "processed_at": "2024-03-11 16:12:08 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/t9A9DI4-G3uboJ7cQk2Kcw?",
+    "raw_html_file": "https://serpapi.com/searches/c435cd11c3877dff/65ef2d58cace96b697ebae22.html",
+    "prettify_html_file": "https://serpapi.com/searches/c435cd11c3877dff/65ef2d58cace96b697ebae22.prettify",
+    "total_time_taken": 1.52
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 60,
+    "num": "50",
+    "place_id": "t9A9DI4-G3uboJ7cQk2Kcw"
+  },
+  "search_information": {
+    "total_results": 315,
+    "business": "Saints + Council"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 315
+    },
+    {
+      "hl": "fr",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Dewey H.",
+        "user_id": "4ZpDTpYy90R1Ml8UPQZelA",
+        "link": "https://www.yelp.com/user_details?userid=4ZpDTpYy90R1Ml8UPQZelA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TRCCOWlZK9oj5BzzuKJ3wA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 5,
+        "reviews": 60
+      },
+      "comment": {
+        "text": "The food is always amazing and the service is excellent at this restaurant. I suggest you make reservations well ahead of time. I would not request a table near the front door if it is cold outside.. There is a large bar that is well stocked. They are missing some French wines from their wine menu but overall it is doable, but somehow feels incomplete. Many times I have been, and simply gotten several appetizers for the table, and everyone was happy and satisfied without overeating.  All in all with a reservation, I would give this place an A+.",
+        "language": "en"
+      },
+      "date": "2024-02-07T02:22:25Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Vaishu M.",
+        "user_id": "6Lv184WmG6wP9H0YhBD_qQ",
+        "link": "https://www.yelp.com/user_details?userid=6Lv184WmG6wP9H0YhBD_qQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/shxMQMjhOWsKG2bV9XwiUA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 140,
+        "photos": 89,
+        "reviews": 182,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I love Saints and Council! Really good food and great drinks.\n\nService is always top notch and everything hits. I've had a shrimp pasta, burrata, mussels, and the banana bread. Everything was really good. It's a little expensive for portion sizes, but food is good quality so can't complain.\n\nLocation can be a little tricky with parking, but I think they validate parking for the Colony Square parking deck. I'd recommend!",
+        "language": "en"
+      },
+      "date": "2023-06-26T19:51:22Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Michelle M.",
+        "user_id": "eryxxLoNh1wtfmGkRfx7-Q",
+        "link": "https://www.yelp.com/user_details?userid=eryxxLoNh1wtfmGkRfx7-Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Td6KUbujUH8ePPT647acEA/180s.jpg",
+        "address": "Torrance, CA",
+        "friends": 2,
+        "photos": 27,
+        "reviews": 75,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Pay attention to detail and cleanliness. Treat your customers with courtesy. Check back on your customers shortly after they get their food to see if they need anything else. The waiters need to know more about the menu and taste everything so they can give an accurate description and suggestion.",
+        "language": "en"
+      },
+      "date": "2023-11-03T04:39:13Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Whitlei N.",
+        "user_id": "8qe41GBumFvr3Kxg5lL8qw",
+        "link": "https://www.yelp.com/user_details?userid=8qe41GBumFvr3Kxg5lL8qw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KXndDDABycUrFxiWQzPYdQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 14,
+        "photos": 221,
+        "reviews": 98,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Service was great but I can't say I was the biggest fan of the food or the menu selection. Great ambience and definitely a nice restaurant if you're looking for an upscale environment.",
+        "language": "en"
+      },
+      "date": "2023-06-20T23:35:31Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7mDFinVmFPBF6Dv4FFFaCg/o.jpg",
+          "caption": "Sea bass"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shami P.",
+        "user_id": "dmaDTOs2C2SivMMURxkOOg",
+        "link": "https://www.yelp.com/user_details?userid=dmaDTOs2C2SivMMURxkOOg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uFqXBbcZgBS99sref9cDaw/180s.jpg",
+        "address": "Old Fourth Ward, Atlanta, GA",
+        "friends": 147,
+        "photos": 72,
+        "reviews": 118,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Came here for Saturday brunch. The place is really nice and very modern looking. Everything looked clean and well kept. Staff we're friendly and accommodating to us as we had a toddler. Our server was so sweet and nice and checked on us throughout our visit. We ordered the donut dippers which were so yummy and hot and then the biscuits and gravy which tasted good and the all saints breakfast which was a huge portion but tasted just ok. We also got the biscuit with jam which tasted fine. A little on the pricey side but the area is also very nice and you can walk around. Might come back again to try more breakfast items.",
+        "language": "en"
+      },
+      "date": "2023-10-30T19:09:43Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mikaela Z.",
+        "user_id": "K7A1KlExV64lzPCh6oVxzA",
+        "link": "https://www.yelp.com/user_details?userid=K7A1KlExV64lzPCh6oVxzA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/D5C35QV-_Oxh7mbgJW2fhg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 238,
+        "photos": 97,
+        "reviews": 380,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The service deserved 0 stars. We walked in to the bar on a day when it wasn't busy at all. Several staff talking to one another...took too long to acknowledge our presence. Attitude from there wasn't great. \n\nSeveral tables had dirty plates on them. Not only should the tables have been cleared because the people had left, but great service at an upscale place would have had those plates cleared before the people left. \n\nNot impressed. \n\nAmbiance is nice and the martinis we had were ok but I wouldn't go back. No excuse for bad service and poor attention to detail in an almost empty restaurant.",
+        "language": "en"
+      },
+      "date": "2023-06-17T21:23:53Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jaye B.",
+        "user_id": "Zn1zX4lwT_NaHlfoNK09EA",
+        "link": "https://www.yelp.com/user_details?userid=Zn1zX4lwT_NaHlfoNK09EA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hUwvzKHqx274Gy-ovEAuwg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 10,
+        "photos": 22,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "Good food, great coffee and mimosas...excellent service.  All enjoyed with live music  in an unconsciously elegant and comfortable setting. I'm looking forward to my next visit as we enjoyed the lunch menu but expect a bit more for the dinner menu.",
+        "language": "en"
+      },
+      "date": "2024-01-20T13:37:28Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Olivia H.",
+        "user_id": "v6EB55bVLclVX8aK9fGgaw",
+        "link": "https://www.yelp.com/user_details?userid=v6EB55bVLclVX8aK9fGgaw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/etYeX9mI-WYm2w8QsNqRGg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 267,
+        "photos": 153,
+        "reviews": 51,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My friend and I ordered the spicy mussels, stuffed oysters, jelly glazed pork, and shishito peppers to share. The food, service, and ambiance are all great here. We were seated in the outside patio and it was wonderful. This is a great spot for a date night or just catching up with friends. Highly recommend.",
+        "language": "en"
+      },
+      "date": "2023-04-21T17:06:46Z",
+      "rating": 4,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LhNZKwzkGEMEE_iFuF6Acw/o.jpg",
+          "caption": "Menu 1 of 2"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D-j-Vxr2snWQZCPuIv8Ceg/o.jpg",
+          "caption": "Menu 2 of 2"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JkidKl7KzXLqyYz7kofHfw/o.jpg",
+          "caption": "Spicy Mussels"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5_ziZ4_wumYEuPCn84o7eQ/o.jpg",
+          "caption": "Blistered Shishito Peppers"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D37zXvaESyqwJvWzVwgBcw/o.jpg",
+          "caption": "Stuffed Oysters"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/C6qErrEUAyktiYxUtv0yJw/o.jpg",
+          "caption": "Crispy Pepper Jelly Glazed Pork"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Zoe S.",
+        "user_id": "gnkT0JwZm6_NQNaqZHrsKQ",
+        "link": "https://www.yelp.com/user_details?userid=gnkT0JwZm6_NQNaqZHrsKQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SDtXuLInfar94NIe_saE2Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 204,
+        "photos": 724,
+        "reviews": 267,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Beautiful place with good food! We got salad, burrata, mussels and trout. Mussels and burrata are definitely a must. Shaved asparagus makes burrata extra delicious. \nSkip the salad, there's nothing special about this salad, and poached egg makes it even worse. \n\nMussels-yasss! The spicy creamy tomato based sauce was amazing. I could just eat that with the bread, hence we had to get extra toast. \nTrout-I didn't try it, but it's my friend's favorite here, so I trust her judgment. \n\nEven though the salad was very disappointing, I'm still giving it 5 stars, because the rest of our meals were great \n\nI would definitely be returning even if it's just got the mussels and burrata",
+        "language": "en"
+      },
+      "date": "2022-12-01T14:59:07Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PyoE9CaB8f1Cy87boZlQ4g/o.jpg",
+          "caption": "Mussels"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Wq5JojAfsEwpq8bR97icEg/o.jpg",
+          "caption": "Trout"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/W3TJhbvWoB9LPE5zZ1U8Og/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FZzSd-hAV_nNdNo8Uc5AGg/o.jpg",
+          "caption": "Burrata"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Amol K.",
+        "user_id": "7E7R75DFH0cw01fQsHCJjA",
+        "link": "https://www.yelp.com/user_details?userid=7E7R75DFH0cw01fQsHCJjA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0YJk9xHxdNUIAW2AOR5sgg/180s.jpg",
+        "address": "Viviez, France",
+        "friends": 4,
+        "photos": 187,
+        "reviews": 133,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Cool spot for the restaurant. Nice vibe. Waiter was great. Super friendly and willing to engage in our tables banter throughout the night. \n\nFood:\nOrdered some starters\n- Gulf shrimp was amazing. The sauce was a rock star and could have drank it with a straw if I was by myself. \n- Burrata. It was good. Came with thinly sliced crispy asparagus which on its own was good but not sure I paired well with the burrata. \n- duck Confit. This was just okay. Was expecting something overall a bit more hearty creamy and spreadable. \nThe main\n- ordered the sea bass and the crab and it was amazing. Light, soft, and paired with a creamy sauce. Surprised myself with my restraint in eating it slowly. Could have had two servings of this so it's good if you're looking for a lighter main. \nThe dessert. \n- ordered the peach cobbler a la mode. DAMN. I mean I don't order desserts often but felt like in Atlanta I needed to fall victim to at least one southern comfort food. It was worth it. Warm sweet and put all together it was heaven on a plate. \n\nGood overall experience. Only nit would be our table. It wasn't packed when we were seated so would have expected a better table placement. Would go back again but also would be open to other options in the square outside the restaurant.",
+        "language": "en"
+      },
+      "date": "2023-05-18T22:28:42Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Abbie W.",
+        "user_id": "LVZmgE3C_4zey4zXcHQrmw",
+        "link": "https://www.yelp.com/user_details?userid=LVZmgE3C_4zey4zXcHQrmw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zPsqMPQ2fSwSPU45Xlge0g/180s.jpg",
+        "address": "Uptown/Carrollton, New Orleans, LA",
+        "friends": 0,
+        "photos": 4,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Stunning interior with fun menu items! The tables here are all great. Been for both brunch and dinner and I have to say the dinner was better.",
+        "language": "en"
+      },
+      "date": "2024-01-23T03:06:12Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Earl S.",
+        "user_id": "9oYtpISxW3FulJn_F39Mnw",
+        "link": "https://www.yelp.com/user_details?userid=9oYtpISxW3FulJn_F39Mnw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/q6nw05nJl1Gc5D8RXpGNuA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 456,
+        "photos": 1852,
+        "reviews": 719,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I had brunch here today with my sister, and it was excellent.  I would recommend doing valet parking or parking in the deck at Colony Square.  Valet can get really business during the high traffic hours.  They also have an amazing dinner.  The ambiance is casual yet elegant, and our waiter, Brandon, was very knowledgeable of the menu, kind, and accommodating.  I started with the biscuit and gravy appetizer, and it was delicious.  The sausage gravy is very flavorful and the biscuit is a jumbo biscuit.  For the main course, I had the Dutch Baby with Chicken, which is an interested concept of a pancake and waffle mix topped with collard greens and crispy fried chicken tenders.  It is an amazing dish with a New Hampshire maple syrup richness.  I added on chicken sausage and scrambled eggs. The entire experience was lovely, and I anticipate we will return soon for dinner at a later date.",
+        "language": "en"
+      },
+      "date": "2023-03-13T03:48:12Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zFGkcC7Uj6Na0na_bbVQ_g/o.jpg",
+          "caption": "Dutch Baby"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KZ1MSkapcM30hQMka8dWZg/o.jpg",
+          "caption": "Chicken Sausage"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XhrMUqC23u4DsQPYfsEsQw/o.jpg",
+          "caption": "Scrambled Eggs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zML4TgPPXsWxe1JTgSABFw/o.jpg",
+          "caption": "Biscuit and Gravy Appetizer"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X1xQLjKBiM8PKSKLhn5AxA/o.jpg",
+          "caption": "Menu Snapshot"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Karen B.",
+        "user_id": "Fpc1qbgxPjjiCH_kQxRepg",
+        "link": "https://www.yelp.com/user_details?userid=Fpc1qbgxPjjiCH_kQxRepg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6x9fRelXe4paqhVSeCN0Pw/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 5,
+        "photos": 8,
+        "reviews": 19
+      },
+      "comment": {
+        "text": "One of my Favorite restaurants in Atlanta.  My son proposed to his now fiancee and I couldn't think of a better place for his engagement dinner. As I live in LA and not able to attend I worked with the Event coordinator who helped me plan an amazing dinner after the proposal event. The guest said that the service was impeccable and the food the same.",
+        "language": "en"
+      },
+      "date": "2023-12-31T19:14:50Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Latrice A.",
+        "user_id": "1s3te7TeVRFdLVPB8pqfWQ",
+        "link": "https://www.yelp.com/user_details?userid=1s3te7TeVRFdLVPB8pqfWQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cx07A7BAjlLmu4dBlzllHQ/180s.jpg",
+        "address": "Oak Lawn, IL",
+        "friends": 168,
+        "photos": 3413,
+        "reviews": 762,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Ambiance service and food or delicious here. They are so many options in Atlanta that it was very hard to decide on dinner for this particular night . But of course, being a Yelper I had to jump on and see what everyone else thought of this location and it had high ratings. This is definitely a spot for a girls night out or a romantic dinner and has very sexy sultry tree vibes.\nFor dinner I had the lamb entree and my daughter had the short rib which both dishes or very filling hearty and rich. The lamb was accompanied by polenta which was good and like a tomato based sauce. And the short ribs, ham, mashed potatoes and vegetable I believe was carried on top as well. I wanted the sea bass but unfortunately the seed pass came with crab on it which I do not need any type of shellfish. So I was very disappointed I couldn't get the sea bass. If you don't eat pork or you don't eat shellfish, then I personally believe it limits you a lot as far as your choices. The menu is not that vast for drinks I went off menu and got a French 75 which was pretty good. My daughter got a think it was tequila base drink and what she wasn't too fond of it.\nThe food was decent. The star the show though definitely went to the caramel banana bread pudding is enough to share is so gooey and rich and delicious! 10 out of 10 for that dessert. I believe our server was Ricardo. He was really good at his recommendations and attentiveness",
+        "language": "en"
+      },
+      "date": "2023-03-06T16:20:07Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rhdyrbth8bAkQZ2U0ALhFQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lisa L.",
+        "user_id": "dLCti1A1Sf9CqRlnckGAEg",
+        "link": "https://www.yelp.com/user_details?userid=dLCti1A1Sf9CqRlnckGAEg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/q7Y5QaV2vsuLts_n3zk4_A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 3,
+        "photos": 401,
+        "reviews": 129
+      },
+      "comment": {
+        "text": "Made a reservation thru Open table for Sunday brunch. Table outside on the first fall Sunday of October. Weather was perfect, even a little chilly. The coffee was hot, the orange juice tasted fresh squeezed, and the brunch choices were delicious! We ordered savory and sweet, the biscuits were crunchy on the outside, soft and perfect on the inside. The butter and jam was just the right amount of sweet. Our server took great care of us, and we definitely recommend! All the boxes checked on this place. Great setting at colony square,  super attentive service, flavorful, excellent food, served hot. So happy! We ordered the All Saints breakfast with a big biscuit, Short-rib and eggs, Huevos in Purgatory, Pancakes and Baby Dutch with fried chicken. We all shared a bite. Why are pancakes SO good?! Looking forward to going back for dinner some time soon. Thanks for the great experience!",
+        "language": "en"
+      },
+      "date": "2023-10-03T04:00:38Z",
+      "rating": 5,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M7em8DAP14VuJQyYPPCZ3g/o.jpg",
+          "caption": "Baby Dutch with fried chicken"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cIxEc1vA_yRNd1mBGoelKQ/o.jpg",
+          "caption": "Huevos in purgatory and Pancakes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MXrt40Q-cnyFeAEC2nV1Sg/o.jpg",
+          "caption": "Patio"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jJSe-qSRRpxr0oyFN4Jvsg/o.jpg",
+          "caption": "Outside patio"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6uKmBlWYvhqTKjplmhB--w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4yn8DbqT44cGo38-YNpuQg/o.jpg",
+          "caption": "Huevos in Purgatory"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nby-u93yMk6hm5VKFz8OQg/o.jpg",
+          "caption": "Saints breakfast"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sPr29FVddSOR1a4AgfWt1w/o.jpg",
+          "caption": "Biscuit with butter and jam"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chelsea G.",
+        "user_id": "ePuchEG6ZQzFPN93HWqVUQ",
+        "link": "https://www.yelp.com/user_details?userid=ePuchEG6ZQzFPN93HWqVUQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ecHVBbNvMLGKwGU_Asplvw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 79,
+        "photos": 1394,
+        "reviews": 373,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We only stopped at the bar for cocktails, but really enjoyed the dim atmosphere and rustic interior.\nThings you should know:\nI. LOCATION\nWithin Colony Square\nII. SERVICE \nOur bartender was to the point about drinks and hospitable with recommendations ~ all you really need at a bar.\nIII. QUALITY \nBest espresso martini I've had in a long time\nIV. CAPACITY \nFor 5p.m. drinking, not too busy. This place was refreshing, in the colony square area, since the food hall on a Saturday is overly packed.. It was nice to escape that crowdedness.",
+        "language": "en"
+      },
+      "date": "2022-08-21T13:20:30Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/man5mHA6jZro9GtJ7U9_qg/o.jpg",
+          "caption": "Cocktails: Espresso Martini"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/58ffAWZOb0wKmr7yK-1F4w/o.jpg",
+          "caption": "Exterior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lZqGodatL-vnY0PI35JgNQ/o.jpg",
+          "caption": "Interior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mJmxDjBOS-xRcGTQA1lmIw/o.jpg",
+          "caption": "Interior"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ginny D.",
+        "user_id": "SotlFE4dBI8qxaR7g4cANQ",
+        "link": "https://www.yelp.com/user_details?userid=SotlFE4dBI8qxaR7g4cANQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ulh-Dq3k8WtYbR5oPMGJuw/180s.jpg",
+        "address": "Buford, GA",
+        "friends": 73,
+        "photos": 43,
+        "reviews": 23
+      },
+      "comment": {
+        "text": "Our meal was absolutely delicious! The service was excellent and the restaurant itself was elegant. They had a fire going when we walked in, and we sat in a booth near the bar. We went with another couple, so we shared their smoked Gouda arancini and baked crab dip appetizers. My husband isn't fond of seafood, but even he liked the crab dip! I ordered the beef short rib, and it is spot on! Tender, fall-off-the-bone meat, and crispy carrot chips that added the perfect texture element to compliment the mashed potatoes in their delicious red wine demi! My husband got the smoked chicken, and he said the potatoes au gratin were fabulous! Our friends loved their salmon and lamb bolognese dishes. We split the s'mores platter for dessert, enjoying the experience of roasting our marshmallows and dipping strawberries and bananas in chocolate. Definitely need to come back to try their 12-layer chocolate cake and any other seasonal dishes!",
+        "language": "en"
+      },
+      "date": "2024-01-09T03:49:38Z",
+      "rating": 5,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JOEPbImLObhgP_TIE06O8A/o.jpg",
+          "caption": "Lamb Bolognese Pappardelle, ground lamb, madjool dates, tomato"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1svJcx37UXiyDEPYepL76Q/o.jpg",
+          "caption": "Smoked Chicken Rosemary demi glaze, au gratin potatoes, asparagus"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kq4Mfz5rWPZ7eSOFFqP5QQ/o.jpg",
+          "caption": "S'mores + Fondue Tableside fire, chocolate fondue, homemade marshmallow and graham crackers, strawberries, bananas"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XFEbO5h5fgcVU1a5cF_wLA/o.jpg",
+          "caption": "Braised Short Rib Tender braised short rib, pommes aligot, heirloom carrots, red wine demi, blistered carrot chips - GF"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NK2aqh3HH-rzN4FjKT99Iw/o.jpg",
+          "caption": "Lemon Miso Salmon Miso glazed salmon, crispy potatoes, blistered asparagus, miso lemon compound butter - GF"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M2UW32mxM7Dwzo6guETfhA/o.jpg",
+          "caption": "Baked Crab Dip Chesapeake Bay blue crab, pickled Fresno, herbs Fried pita for dipping"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4AemZewtGzNe2X8BerZUyA/o.jpg",
+          "caption": "Smoked Gouda Arancini Arborio, gouda, smoked tomato"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Juliana S.",
+        "user_id": "KVEbbOkIo5bQEh9WUsNJxg",
+        "link": "https://www.yelp.com/user_details?userid=KVEbbOkIo5bQEh9WUsNJxg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8dUGhO01sw8jPMNuuzf71g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 63,
+        "reviews": 47
+      },
+      "comment": {
+        "text": "Great spot! The drinks and food are great, the location is gorgeous and the staff is a pleasure. Also, the fact that they validate parking makes the experience that much sweeter!",
+        "language": "en"
+      },
+      "date": "2023-10-07T22:58:56Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iN465306yD3MGv1oyvwlow/o.jpg",
+          "caption": "Ricotta Cavatelli! SO delicious."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HraogST_xvFYkZpfi6oZhA/o.jpg",
+          "caption": "Biscuits & jelly at brunch"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DOgxAJXEhlihTTNVztfNRg/o.jpg",
+          "caption": "Shrimp & grits!!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HXkCLtxNwcVrBVynUYaDEg/o.jpg",
+          "caption": "Garden of Eden (left)  and Undercover Angel (right)"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "L F.",
+        "user_id": "CcBAX7baoN4etMXq_Ltrag",
+        "link": "https://www.yelp.com/user_details?userid=CcBAX7baoN4etMXq_Ltrag",
+        "address": "Old Lyme, CT",
+        "friends": 6,
+        "photos": 351,
+        "reviews": 149
+      },
+      "comment": {
+        "text": "First visit today....arrived around 4:15pm.  Planned to have a cocktail (or three) and an early dinner.  Beautiful space - very welcoming.   Hostess was super friendly, showed us to one of the bar two tops.    This is the point where our pleasant visit ended.   With a thud.    The bartender had zero personality and a below zero service mentality.  Upon delivering our cocktails, he vaporized.   The cocktails were flavorful....see photos but, seemed devoid of alcohol.   We waited, and waited, and.....we finally got the check and decided to go elsewhere for dinner.  On the way out, I did ask to speak with a manager to explain our experience.  I hate to write an unpleasant yelp review without giving the establishment a chance to react.   Oh well.   He really did not seem to care.   I guess business is so so great that they can simply move on to the next customer....",
+        "language": "en"
+      },
+      "date": "2023-12-18T01:49:45Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XRdNu8S4DJriTtNbnjV5sg/o.jpg",
+          "caption": "Low alcohol cocktail...."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0iaL40VaS_lC78lVPd0nhw/o.jpg",
+          "caption": "Low alcohol cocktail...."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brandon T.",
+        "user_id": "JksGcXlcWy4olAhQXTD4dA",
+        "link": "https://www.yelp.com/user_details?userid=JksGcXlcWy4olAhQXTD4dA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DEg4oxqCarqviF-v5L6MFQ/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 7,
+        "photos": 48,
+        "reviews": 28,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "First visit but definitely not my last. Enjoyed the vibes of this restaurant for sure. Food & drinks were amazing",
+        "language": "en"
+      },
+      "date": "2023-03-08T17:22:25Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NjBwl1X-5rNZIzY9gQnRfQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XFJCam9iqXlasHsfLeWBYg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YKRnVlZ2bR8AHu9R8Nl4jw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Raph F.",
+        "user_id": "CW5UwA3imY9rrmwir8wJXQ",
+        "link": "https://www.yelp.com/user_details?userid=CW5UwA3imY9rrmwir8wJXQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WFobiGVHemPZKpoKknVCkg/180s.jpg",
+        "address": "Dallas, TX",
+        "friends": 567,
+        "photos": 11,
+        "reviews": 34
+      },
+      "comment": {
+        "text": "I went for dinner and the ambiance is great. It has upscale lodge decor and furniture. This restaurant is great for a date, girl's night, family dinner, or celebration. Tables are close together but you still have enough room and can hear your conversation. \n\nThe food was awesome as well. Everything I ordered tasted great and they really put thought into their presentation. We ordered oysters, burrata, house salad, shishito peppers, seared duck, and banana pudding. All of them were delicious! \n\nTo top it off service was great. Everyone was so attentive, helpful, and nice! I'm definitely coming back the next time I'm in town.",
+        "language": "en"
+      },
+      "date": "2022-12-30T03:47:17Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VSwG_wbgKbxd7qlnZX6UGQ/o.jpg",
+          "caption": "Seared duck breast farro"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lauren K.",
+        "user_id": "tRnuTE-t_dfLI8K0NCiEOw",
+        "link": "https://www.yelp.com/user_details?userid=tRnuTE-t_dfLI8K0NCiEOw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bmFmv5zVHBWl35uyKlAodg/180s.jpg",
+        "address": "College Park, GA",
+        "friends": 116,
+        "photos": 76,
+        "reviews": 95,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This was my second time at S+C but my first time eating. The service was friendly and the cocktails were amazing. I had an espresso martini once and a \"Grateful Mez\" on my second visit. The meatballs appetizer was pretty good, it sits on a bed of grits. The pasta was okay for an entree. It's definitely a thoughtfully curated establishment to go for date night or an after work drink.",
+        "language": "en"
+      },
+      "date": "2023-03-05T00:41:27Z",
+      "rating": 5,
+      "tags": [
+        "1 photo",
+        "2 check-ins"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uJkfi8x3HdIOdu6CE5Ev8g/o.jpg",
+          "caption": "Grateful Mez"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nav R.",
+        "user_id": "qbsSx05FiIkQGvRHEiKAtw",
+        "link": "https://www.yelp.com/user_details?userid=qbsSx05FiIkQGvRHEiKAtw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1XodxwhdGVR3D8g7n0Pf7A/180s.jpg",
+        "address": "Long Beach, CA",
+        "friends": 3,
+        "photos": 130,
+        "reviews": 184,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Went here for brunch on a rainy day. We had reservations, but the place wasn't too crowded. Ambience is very nice. Lots of great coffee drinks that others in my party enjoyed. I tried the huevos in purgatory, which is similar to a shakshuka. It was a bit too heavy in tomato, but had a nice blend of spices. The biscuits and pancakes were solid.",
+        "language": "en"
+      },
+      "date": "2023-01-26T05:54:07Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AIW7_M7tY_Ozh1M5iHxIfg/o.jpg",
+          "caption": "Huevos in purgatory - vegetarian"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rachel P.",
+        "user_id": "wCkaDto1v8SUhDpqsPe5MA",
+        "link": "https://www.yelp.com/user_details?userid=wCkaDto1v8SUhDpqsPe5MA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BFjdKxPLs3VW8Tu0DPfM9Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 18,
+        "photos": 233,
+        "reviews": 164,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Just had brunch here and man, was it amazing! We have a hard time finding brunch spots in ATL that we feel have both sweet and savory options, interesting entrees, and decent portion sizes. Saints + Social had all of the above. Out of everything we had, we recommend the berry pancakes and the fried chicken Dutch baby. Both delicious in their own right and unique! \nI can't speak for the dinner here, but the brunch is must!",
+        "language": "en"
+      },
+      "date": "2022-07-03T18:51:28Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9D3DtJccNmWP9T0BvmJzEQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kim B.",
+        "user_id": "FZ0AP5BLP1JFzeiKcTsIAQ",
+        "link": "https://www.yelp.com/user_details?userid=FZ0AP5BLP1JFzeiKcTsIAQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sMrsPV5DhaldvsdMcWH2fQ/180s.jpg",
+        "address": "Savannah, GA",
+        "friends": 260,
+        "photos": 210,
+        "reviews": 164,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I thoroughly enjoyed my S+C experience today. \nI went for brunch (as a walk in) around 2:30pm with my mom. Everything on their menu is made from scratch so we decided to try their homemade biscuits to start. It was really delicious, and thick. Well worth the $4 price. \nIn addition to the starter, my mom got the chicken + Dutch and I got the huevos in purgatory. My mom loved her dish. She enjoyed that the chicken was fried perfectly and seasoned and the \"Dutch\" or waffle portion was soaked in maple syrup which made it warm and savory with a little saltiness from the collard greens. \nThe Huevos in Purgatory was really delicious as well. The only thing I wish was that the Gouda was dispersed more throughout because the flavor profile of this dish with the Gouda is sublime. Without it, I felt it needed a little more seasoning. \nThe service was also great, Kelsey was very attentive and checked in on us from time to time. \nThe ambiance was beautiful. When we arrived there was a live violinist playing along some pop and R&b hits, which made it a little loud, but not too bad. And it's a beautifully decorated place. \n\nOverall, I loved it, and plan to come back to try their dinner.",
+        "language": "en"
+      },
+      "date": "2023-02-26T22:19:38Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hT9jR7BI8SN7xjL7LK32WA/o.jpg",
+          "caption": "Huevos in Purgatory"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XKc0ML7AjT0P8ImJVTDfkg/o.jpg",
+          "caption": "Chicken and Dutch"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alyssa M.",
+        "user_id": "5Fj9LAifI5TCnVCi8TLG0A",
+        "link": "https://www.yelp.com/user_details?userid=5Fj9LAifI5TCnVCi8TLG0A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xEWc7Bni1_z4QfnsWYHzlw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 15,
+        "reviews": 32
+      },
+      "comment": {
+        "text": "The appetizers are my favorite. The stuffed oysters and the tomato bruschetta type bread was great. If you like gin, I would say order the Garden of Eden that comes in a cute martini glass and I ordered the baked chicken which was good. The service was great as well always had someone bringing the food and someone else coming to pick up the plates and replacing silverware. The ambiance is very nice, kind of dim in there so perfect for date night.",
+        "language": "en"
+      },
+      "date": "2023-10-09T22:01:06Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NvjqqXODIMeCn8Bes34_sQ/o.jpg",
+          "caption": "Baked Chicken with au gratin potatoes and asparagus"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Wayne Z.",
+        "user_id": "MZyMY-nW2ChwIs7ZhELOTQ",
+        "link": "https://www.yelp.com/user_details?userid=MZyMY-nW2ChwIs7ZhELOTQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MMIK3ZrI-eHhJyxPnn5NkA/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 54,
+        "photos": 197,
+        "reviews": 357,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Had no idea about this place until I got a gift card recently for my bday to come check it out. We made reservations a few days in advance for a late dinner on a Sat, but ended up showing up much earlier than expected. Place looked rather empty for a Sat night but we were told they'd work on getting us seated. Instead we saw some empty seats at the bar and grabbed those instead.\n\nService was pretty solid, great drinks from the bartenders (really enjoyed the Day of Reckoning and Garden of Eden), even if they could take a bit long so not a great place if you're in a rush. Placed looks interesting, more modern decor and there were seating inside and out. We really liked the way they set up some of the bar seats with table extensions to accommodate parties of 2 that could face each other while dining.\n\nWe opted for the pork belly appetizer which turned out to be a great choice, altho portion size was a bit on the smaller side (would've been less noticeable had it not been so tasty, so a bit of a double edged sword there). For dinner I ordered the burger and the wife opted for their pork chop which came recommended from the bartender. Unfortunately something happened in the ordering process and they brought out the wrong entree to my wife. We appreciated them stepping up and owning up to the mistake and working quickly to have the kitchen work on a replacement, and comped one of her drinks in the meantime. \n\nMy burger was pretty damn good and better than what I was expecting. I ordered it medium with the understanding it was fresh ground beef and that was a great choice in hindsight. Wife's pork chop turned out to be well worth the wait as well, absolutely delicious, perfectly done for a thicker cut of meat. Dinner and drinks for both of us ended up being somewhere around $150 after tip so def a more upscale date night type of place. With that said, the drink offerings are abundant enough that I could def see dropping in just for a cocktail or two.",
+        "language": "en"
+      },
+      "date": "2022-06-12T01:35:30Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rJnftBuffTdpaJuhkWUiKw/o.jpg",
+          "caption": "Crispy pork belly with braised collards and jalapeño cheddar polenta cake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4xi7-0RKeXT4n49K--LAqQ/o.jpg",
+          "caption": "Berkshire pork tomahawk"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ysx5yabFGse8vJN3gSsjeQ/o.jpg",
+          "caption": "Alderman burger"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Brittney D.",
+        "user_id": "fkiDywRGSoccwPy6aL5rwQ",
+        "link": "https://www.yelp.com/user_details?userid=fkiDywRGSoccwPy6aL5rwQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_NmQnoiaJ_qtGhMDGrq7Tw/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 48,
+        "photos": 689,
+        "reviews": 292,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "It was super busy for brunch, and they were running late on their reservations.  We got over it, the drinks made up for it, but we were made to wait for those, too.  Best part? The pancakes! Crispy on the outside, as they should be! I'd come again at a less busy hour.",
+        "language": "en"
+      },
+      "date": "2023-01-03T02:16:04Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lRWJ_HfJcJ8uJuzXSOTkSg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Justin N.",
+        "user_id": "y1ewC-YWYW9ViTLtC2N0Mg",
+        "link": "https://www.yelp.com/user_details?userid=y1ewC-YWYW9ViTLtC2N0Mg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7HXVaqAY_ccdgSVJWRnFNw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 510,
+        "photos": 1392,
+        "reviews": 361,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Saints + Council was a great place for dinner. The cocktails and wine were fantastic and the portion sizes are great. The Ricotta Cavatelli was certainly delicious and I'm looking forward to the leftovers as well. I would recommend this for anyone looking for a nice dinner spot in midtown. FYI, they validate parking in the restaurant. Just bring your parking tickets.",
+        "language": "en"
+      },
+      "date": "2022-12-15T14:48:58Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2kIhUUBhWDvZe6ttyYCTqQ/o.jpg",
+          "caption": "Drink Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Bs60i0KHabgjwhStSvImWw/o.jpg",
+          "caption": "Ricotta Cavatelli"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oYquxrOuaEps2xNX2RAg-w/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sagDd8g7mz-cJSWkOuEmlQ/o.jpg",
+          "caption": "Undercover Angel"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Zachariah S.",
+        "user_id": "tvn6_ztq_zRxb0blOOogxg",
+        "link": "https://www.yelp.com/user_details?userid=tvn6_ztq_zRxb0blOOogxg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xx_5JHfnXrNaIS2d0_uzMg/180s.jpg",
+        "address": "Augusta, GA",
+        "friends": 178,
+        "photos": 640,
+        "reviews": 240,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Took my cousin and friends here for his Birthday dinner. This was a first for all of us. I'll go ahead and get the administrative portion out the way. There is valet parking and self parking. Valet is $25, self parking can get validated by pretty much all the places in this little plaza. I say plaza because not sure how to describe it since it has other restaurants and little shops so it can be confusing on where this are since they can be tucked away. \nThe ambiance of the restaurant was rustic cabin like. Very welcoming and classy. Really made you feel welcome and great for private more intimate dining as well. The wait staff was excellent. \nFOOD: hopefully that got the attention of those who could careless and want to get to brass tax.\nEverything had was great just did a poor job of capturing because we were so eager to dive in. Tomato soup was rich and creamy, the pan roasted shrimp appetizer was very good with a hint of spice But not overpowering with bread soaking up all the cream and juice in the bowl. The mains got no complaints table wide. The braised short rib was tender and rich, falls apart. The Georgia risotto was cooked to perfection. The pork belly brought a bit of saltiness that balanced out the meal. The Ricotta cavatelli was cooked Al dente as it should and sat in a wonderful sauce. The lamb was cooked to a medium rare and had the right amount of seasoning that allowed you to taste the meat and it wasn't to gamey. Overall this place hit all the high notes for a perfect dinner. Not to mention the drinks were excellent as well. I would definitely recommend if you like great food and experience",
+        "language": "en"
+      },
+      "date": "2022-12-14T13:01:21Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PEpmNEmYZruv1w3xMBLdqg/o.jpg",
+          "caption": "Georgia Risotto"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YYwwTYwudyPWYeIDvD0JKQ/o.jpg",
+          "caption": "Short Rib"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jaylee M.",
+        "user_id": "KYajFipCUe43jkrR_U4lNg",
+        "link": "https://www.yelp.com/user_details?userid=KYajFipCUe43jkrR_U4lNg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oxuHEUKX-1ORY6WTYXkBXg/180s.jpg",
+        "address": "Phoenix, AZ",
+        "friends": 31,
+        "photos": 59,
+        "reviews": 49
+      },
+      "comment": {
+        "text": "My fiancé and I had a somewhat last minute trip to Atlanta recently and after finding Saints + Council online I just knew I had to eat here while we were in the area. When making a reservation they only had outdoor available, but when we arrived they were able to seat us at a hightop by the bar inside. The overall ambiance of the place is great for a date night. \n\nBoth the service provided and food were phenomenal. I had a hard time choosing between items on the menu but ultimately went with the Ricotta Cavatelli. I was not disappointed with this decision as the dish had great flavors and provided more than enough food. My Fiancé had the Saints burger and had no complaints (I had some of his fries and felt they were perfectly seasoned). We finished our meal off with the s'mores and fondue which I was ecstatic that they offered two different sizes based on party size. This is an experience I've never had in a restaurant before and thoroughly enjoyed it.",
+        "language": "en"
+      },
+      "date": "2022-11-28T15:37:38Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vhwno3bwOpMosGvY5dPDCQ/o.jpg",
+          "caption": "S'mores and Fondue (for two)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rcvvRQI9Ds-pn_RtWT5iuQ/o.jpg",
+          "caption": "Ricotta Cavatelli & Saints Burger"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Alex R.",
+        "user_id": "M6ZWWbFNSSYyPrmcLngLNA",
+        "link": "https://www.yelp.com/user_details?userid=M6ZWWbFNSSYyPrmcLngLNA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ov5WEBfY-b14yy7dbZFE4A/180s.jpg",
+        "address": "Miami, FL",
+        "friends": 1,
+        "photos": 7,
+        "reviews": 33
+      },
+      "comment": {
+        "text": "Amazing food. The pasta bolognese was amazing.  Service was a little slow. Drinks were great.",
+        "language": "en"
+      },
+      "date": "2023-12-10T01:12:07Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sheryl T.",
+        "user_id": "54QiR_nU5VCv1S_bhwGPKw",
+        "link": "https://www.yelp.com/user_details?userid=54QiR_nU5VCv1S_bhwGPKw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pKPoZJryC1sSbrIPMNY7cw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "We went to the restaurant Sunday 12/17/23 after The Black Nativity at the First Center.  I had made a reservation, but we were going to be earlier.  My husband contacted the restaurant and they said they would do what they could to work us in and they did.  Our original reservation was at 6:45 and they were able to get us in at about 5:45.   Thanks to the hostesses for their accommodation and being courteous and professional.  Our server was Theresa and she was excellent.  There were four in our party.  We ordered the broiled oysters and they were absolutely divine.  We also had a couple of drinks each, the ladies were drinking Sauvignon Blanc, (I can not remember the brand, but it was from New Zealand).  The wine was crisp, slightly fruity but not sweet and it was dry but not too dry, all as it should be.  The food was really great.  We ordered 2@salmon, (I did not see a description on line and since I did not order it I can not remember what else was on the plate), smoked chicken and a hamburger.  I also ordered a side of greens with polenta cornbread croutons.  The couple that ordered the salmon enjoyed it immensely and you could tell by their plates.  My husband almost never orders a hamburger for dinner at a restaurant and he is still talking about the hamburger. (Goody Burger 8 oz Angus, cheddar and american cheese, caramelized onions, house pickles, remoulade - Served with pommes frites).  My chicken was delicious, tender and juicy, (Smoked Chicken\nRosemary demi glaze, au gratin potatoes, asparagus). The scalloped potatoes were next level.  The asparagus was tender, but not dead, even though it was the asparagus that has the thicker stalks.  The greens, almost as good as mine!  I ordered a desert, which was Matilda's Chocolate Cake\n12 Layers of chocolate cake, chocolate buttercream, chocolate ganache, and ice cream.  We all shared it (some of the party said they did not want desert), but it was more than enough and absolutely sinful.  Not too sweet, moist, a chocolate delight.  And the ice cream certainly stood up to the cake.  Lastly I had coffee and their coffee is bold without being bitter, full bodied and delicious.  All of our party agreed it was just a perfect meal that was the end of a perfect Sunday date night!  Compliments to the chef, again a shout out to Theresa, our server.  And before I forget to mention it, the design and layout of the restaurant is really nice with great ambience.  Absolutely worth the price.  We will definitely go back.",
+        "language": "en"
+      },
+      "date": "2023-12-18T04:24:35Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Julia B.",
+        "user_id": "e9FubBC9486EnH-QuRbuOg",
+        "link": "https://www.yelp.com/user_details?userid=e9FubBC9486EnH-QuRbuOg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XQP1MtmTU080KA5Kv5knEA/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 54,
+        "photos": 1538,
+        "reviews": 408,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Very busy and trendy place with delicious and fresh food.  The drinks were fantastic as well.",
+        "language": "en"
+      },
+      "date": "2022-12-29T18:34:21Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qZs3rsHuVXTbGTUrOiahow/o.jpg",
+          "caption": "Short ribs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/W-HU7A5kkEZjCF0dXH5a4A/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Keila K.",
+        "user_id": "2-2IewhTPqEnLsL-N3OWiw",
+        "link": "https://www.yelp.com/user_details?userid=2-2IewhTPqEnLsL-N3OWiw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Qr22JQbhGSeRgMYZEnbnTw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 328,
+        "photos": 987,
+        "reviews": 336,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I've seen this spot on Instagram many times before and have heard about their brunch but never dinner so my friend and I decided to go. We came around 5:30pm so it had not gotten busy yet. The restaurant is in the heart of midtown in colony square. Parking is available in the garage with 2 hours complimentary with a parking validation that the restaurant will provide. The ambiance is nice. I honestly didn't feel like I was in atlanta. Kinda transforms you to somewhere else. For drinks, I ordered a simple glass of Riesling and for my entree I got the mushroom dish with the farro. Honestly speaking, I make wayyyyyy better mushrooms at home and it doesn't cost $28. Like it was too much balsamic vinegar and lacked real seasoning. I think they sell ppl on it because of how it's made (a Dutch oven) and that's what intrigued me but yeah. Bland. For dessert, my friend raved about the banana bread pudding and I love bread pudding especially if it doesn't have raisins so I had to try it. It didn't disappoint. Ah-May-zing to say the least. I would definitely go back for that. Overall, I give my experience 4 stars for the dessert, parking and the ambiance. Service was good too. 1 star off for that mushroom dish.",
+        "language": "en"
+      },
+      "date": "2023-05-10T00:43:25Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QnDN2eSX47dqVs0Us-8ccw/o.jpg",
+          "caption": "Interior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QRtlpQh_gFECglipBfNvTw/o.jpg",
+          "caption": "Banana bread pudding"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X9F_7t1NFlXc1OA80Bzdaw/o.jpg",
+          "caption": "Mushrooms"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Lysandra L.",
+        "user_id": "Mv2wyr3YeuZE4KHtyyESVA",
+        "link": "https://www.yelp.com/user_details?userid=Mv2wyr3YeuZE4KHtyyESVA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1NR6K0CI0PMBDO_55A-VBA/180s.jpg",
+        "address": "Golden Hill, San Diego, CA",
+        "friends": 7,
+        "photos": 20,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "I really enjoy Saints & Council! I've been with friends and solo. I love the food and vibe day or night. Service is always great.",
+        "language": "en"
+      },
+      "date": "2023-08-09T15:26:48Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DprsH8B-8Hod0_WQDNclsA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/42uABhdzZH2wKfSgEOtgEQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ashley F.",
+        "user_id": "qKj4mk-Tqhks4P7Lxfivgw",
+        "link": "https://www.yelp.com/user_details?userid=qKj4mk-Tqhks4P7Lxfivgw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/EyqGKw3S0TugRo588MTkmw/180s.jpg",
+        "address": "London, United Kingdom",
+        "friends": 243,
+        "photos": 259,
+        "reviews": 177,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We stopped on for cocktail hour (3-5PM) after Drag Bingo next door. I had the Garden of Eden which is delicious- don't let the carrot juice fool you. \n\nI also ordered a coffee to help me prepare for the rest if my Sunday. I can't pinpoint what was wrong with the coffee but it tasted a bit off. I do drink it just black, do there's nothing to cover the taste.\n\nJust note during cocktail hour there is no food or snacks available.",
+        "language": "en"
+      },
+      "date": "2022-05-10T03:15:29Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/optN-GvqGybAl5OnapoKiA/o.jpg",
+          "caption": "Garden of Eden ($13)"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Stacy T.",
+        "user_id": "8wRD4Uz16A_j5_y9IvB-wA",
+        "link": "https://www.yelp.com/user_details?userid=8wRD4Uz16A_j5_y9IvB-wA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ezck1LNzt0UWcRWH5AbE1w/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 114,
+        "photos": 561,
+        "reviews": 181,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This is the best hot chocolate I've had in my life.  Also, the miso tequila cocktail was . I thought the dishes were very interesting, local takes. We had a southern risotto & Georgia trout - both were tasty. The peanut butter hot chocolate was the star of the show, though. I even came back the next day to see if I can get one to-go. Cute atmosphere and good food/drinks - would come again!",
+        "language": "en"
+      },
+      "date": "2022-11-26T01:02:59Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nhgZmewN2oUaedTROz9Bfw/o.jpg",
+          "caption": "Peanut Butter Hot Chocolate The best hot chocolate of my life"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DTn3YDOajkcBltaFyXUC9A/o.jpg",
+          "caption": "Southern Risotto Georgia Trout"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Trina B.",
+        "user_id": "S__SxUcGvJ2bpbP4w-jchg",
+        "link": "https://www.yelp.com/user_details?userid=S__SxUcGvJ2bpbP4w-jchg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KT_Z6X0btbonp5_PXzbUJQ/180s.jpg",
+        "address": "Hayward, CA",
+        "friends": 2,
+        "photos": 16,
+        "reviews": 53
+      },
+      "comment": {
+        "text": "Beautiful restaurant ambiance, amazing food, and impeccable service. The chicken and Dutch pancake was soo good and the cinnamon rolls were unmatched. I will definitely return for brunch again. The live cello player was amazing.  It gave Bridgerton and I loved it lol",
+        "language": "en"
+      },
+      "date": "2023-11-11T21:57:40Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lisa C.",
+        "user_id": "3Kxmqx2tZIol0sB3W6cR7A",
+        "link": "https://www.yelp.com/user_details?userid=3Kxmqx2tZIol0sB3W6cR7A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SCVVF0fO17B_XrpJfG7egA/180s.jpg",
+        "address": "Las Vegas, NV",
+        "friends": 9,
+        "photos": 62,
+        "reviews": 77
+      },
+      "comment": {
+        "text": "Ambiance: 5\nFood: 3.5 \nCocktails: 4\nService: 3\n\nLoved the vibe in here! Cavatelli with sausage was outstanding, rest of food was average (burrata, meatballs, short rib). Service started off good then got awful. He barely checked on us the entire meal. Ordered a $150 bottle of wine and he didn't pour an ounce of it aside from our first taste.",
+        "language": "en"
+      },
+      "date": "2023-01-14T05:05:56Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/u6QPCAUQ6jcvBjSW-eWqGg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wbqD6fYb8KLKjcXO8gv2YA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Bonnie T.",
+        "user_id": "Z84rME6q-cAOGSZsNcLMjA",
+        "link": "https://www.yelp.com/user_details?userid=Z84rME6q-cAOGSZsNcLMjA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lrxMRFvT5cZHPgYofoT74w/180s.jpg",
+        "address": "Rome, GA",
+        "friends": 0,
+        "photos": 115,
+        "reviews": 36
+      },
+      "comment": {
+        "text": "Great atmosphere and great food! Service was a tad slow but they were very busy on a Friday night. We got a seat for three outside without a reservation and had a great time! The pork shank was huge and a great sharing meal for 2.",
+        "language": "en"
+      },
+      "date": "2023-07-15T21:20:28Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dXtyliqKHaAKyU0xdU8DyA/o.jpg",
+          "caption": "Pork Shank"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rVOsz1Yp7awjng0ydJ-m3g/o.jpg",
+          "caption": "Pilsner"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Frank S.",
+        "user_id": "7TZqv_0mpcky-ioIWcpYFQ",
+        "link": "https://www.yelp.com/user_details?userid=7TZqv_0mpcky-ioIWcpYFQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_o97BlrVt3WYzheXuJx3AQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 2,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "Atmosphere and service are great but food doesn't live up.  Meat was very good but sides were cold. Had the burger and pork chop and potatoes on both plates were cold.",
+        "language": "en"
+      },
+      "date": "2023-11-12T00:32:43Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kirstin F.",
+        "user_id": "wsATdYoosP_VtCAWUAsIUQ",
+        "link": "https://www.yelp.com/user_details?userid=wsATdYoosP_VtCAWUAsIUQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3fSSRPDYn6e9hPQbJh-ytA/180s.jpg",
+        "address": "New York, NY",
+        "friends": 464,
+        "photos": 79,
+        "reviews": 41
+      },
+      "comment": {
+        "text": "Overall this is great spot for a casual dinner! We ordered the tomato bisque, little gem caesar, saints burger, peanut butter hot chocolate and cast iron strawberry shortcake. The best item was the strawberry shortcake. The skillet biscuit was served warm and topped with sugar crystals, adding the perfect crunch to each bite. \n\nI'm looking forward to going back to try some of their other dishes!",
+        "language": "en"
+      },
+      "date": "2023-01-03T04:55:48Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fwqxe8y0AbSuglwijYrKfw/o.jpg",
+          "caption": "Cast iron strawberry shortcake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Okj_MHV4GiHSSAd4ef_hSQ/o.jpg",
+          "caption": "Little gem ceasar"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4xVdwVgRywAaMpU2wyeycA/o.jpg",
+          "caption": "Peanut butter hot chocolate"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/p2kvVyYZkm3C2LT9Xh1_7Q/o.jpg",
+          "caption": "Saints burger"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SagXSzT-ca1Fn3-JgUEOkA/o.jpg",
+          "caption": "Tomato bisque"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jan H.",
+        "user_id": "al0WtgQ_Gjdd5JQvldx9ow",
+        "link": "https://www.yelp.com/user_details?userid=al0WtgQ_Gjdd5JQvldx9ow",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BlDlIPd5KfWFQQL313M1sg/180s.jpg",
+        "address": "Los Robles, Tallahassee, FL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "This is my very favorite restaurant in Atlanta, and that is saying quite a lot. First, you are welcomed by a huge fireplace and a very friendly staff. Then you walk into one of the most elegantly appointed spaces that I have ever seen. It almost feels like you're in a lodge in Aspen. The Soundsystem is amazing, with the music subtle yet enticing. Their signature cocktails are the best I've ever tasted. The chef driven menu is curated with such detail that you can hardly believe the flavor of the magnificent food you are served. I have yet to have a dish that I did not absolutely love. If you have a chance to go for brunch, you cannot miss the Dutch baby. It arrives in a steaming cast-iron skillet. I recommend combining the savory chicken Dutch baby with the sweet Dutch baby with lemon curd. What a spectacular experience and so out of the ordinary!. Their coffee is delicious and you are treated with great care when you are there. Phenomenal experience! I'm getting hungry just thinking about it.",
+        "language": "en"
+      },
+      "date": "2024-01-26T13:57:05Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ann W.",
+        "user_id": "sRfQYoPz6iJ3rJa1pPeBhQ",
+        "link": "https://www.yelp.com/user_details?userid=sRfQYoPz6iJ3rJa1pPeBhQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sMkLlPgIdwgLC3qQ7NAyTw/180s.jpg",
+        "address": "Avondale Estates, GA",
+        "friends": 51,
+        "photos": 292,
+        "reviews": 137,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Upscale, ritzy restaurant in a brand new building. Somewhat hard to find just keep following the signs.\n\nWe were sat right next to the kitchen which was hot and noisy. Food was fine nothing over the top unfortunately.  I didn't even take pictures. \n\nWould we return, maybe.",
+        "language": "en"
+      },
+      "date": "2022-11-10T19:09:23Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kameetrice F.",
+        "user_id": "ZqHYQMn2zwtZgMZYxygU-w",
+        "link": "https://www.yelp.com/user_details?userid=ZqHYQMn2zwtZgMZYxygU-w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/B6ydaHWxA_WpemXKUnqBuw/180s.jpg",
+        "address": "Rome, Italy",
+        "friends": 163,
+        "photos": 1770,
+        "reviews": 544,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Saints + Council opened its doors on December 10,2021. It is owned by the former CEO of Atlanta's beloved Intermezzo Cafe. I  finally made my way to Colony Square to check it out on January 20th of 2022.  \n\nLooking over the photos online I noticed that they do offer breakfast.however, the website does not include a breakfast menu. As such, I did call to confirm that breakfast was an option on Saturday. The staff that answered the phone was polite and helpful. She even read some of the menu items to me. \n\nWe parked in the garage for Colony Square. The restaurant notes that they validate for 1 hour.  To locate the restaurant take the escalator up. When you walk out of the door, turn right and walk straight. You can't miss it. \n\nThis restaurant is stunning. Whoever designed it did an amazing job. From the real wood burning fire place, to the  art work, to the lighting.  Simply put, the ambiance is a win! \n\nWhen we weee seated we were advised that we basically utilize our phones for everything. This includes placing our order and paying the tab. The staff did suggest that my friend and I place our orders at the same time in an effort to have our food delivered to our table at the same time. \n\n I had a coffee drink, my friend ordered a cocktail and her daughter had the Cookies and Cream  hot chocolate. Everyone agreed that the drinks were just ok. For food, I ordered the pancake, with a side of chicken sausage, my friend had the shrimp and grits and her daughter had the chicken strips with fries from the kids menu.  I honestly waited all week to enjoy these pancakes. The reviews noted how amazing they were. They were good, just not the  best pancakes I have had. I don't think I would order them again. My friend also said her food was just ok. \n\nRegarding the concept of s\"ervice less\"service, I think it needs some work. One thing we noticed is that the kids menu is  not located in the app. A staff had to add this information to the order. Additionally, my friend and I placed separate orders with our own phones, yet when I looked at my bill it included everything that we ordered. It is as if it can only accommodate one order per table. When I asked about this I was told that they would just close our tab out the traditional way instead of us using the app. It honestly seems like pointless technology. \n\nThis restaurant is undoubtedly beautiful. The service was great. However, the food  did not leave me wanting more.",
+        "language": "en"
+      },
+      "date": "2022-02-01T13:56:14Z",
+      "rating": 3,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/coywdwLVERJwp0B9ZMofkw/o.jpg",
+          "caption": "Side of chicken sausage"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BU7CEev9AKLroEn2iiHKXQ/o.jpg",
+          "caption": "Cookie and cream hot chocolate"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LdwVWgfby9ewrU22t2ecKw/o.jpg",
+          "caption": "Shrimp and grits"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TOxw6NC33kFIw7bqC0Cizw/o.jpg",
+          "caption": "A dinning section"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MWejuvW5hOD_yZx9W0Jv4A/o.jpg",
+          "caption": "One of the bathrooms"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vRIjRoe_9pm2gH4D7HCDCA/o.jpg",
+          "caption": "Beautiful art work"
+        }
+      ],
+      "feedback": {
+        "useful": 8,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Tisha J.",
+        "user_id": "nIXt1VIeMa0IM_vyTvNzjA",
+        "link": "https://www.yelp.com/user_details?userid=nIXt1VIeMa0IM_vyTvNzjA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kocDsYECuVTsQTj90H7GFA/180s.jpg",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 2,
+        "photos": 37,
+        "reviews": 32
+      },
+      "comment": {
+        "text": "Went there for brunch recently and wow. It was SO delicious! My smoked Gouda eggs were perfection!! And please don't get me started on the biscuit with jam  i would describe the vibe as diverse and fun. Everyone was dressed so cute and it's kid friendly. The server was also very kind. I'll be back again for sure!!",
+        "language": "en"
+      },
+      "date": "2023-04-07T16:08:03Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ccm_kp_w-7YmV3qsPRMfYA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jaime T.",
+        "user_id": "OEAg2HNLNIn5jGZoAgxXIw",
+        "link": "https://www.yelp.com/user_details?userid=OEAg2HNLNIn5jGZoAgxXIw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bZ_WTc72S4ZHedwMzYAANA/180s.jpg",
+        "address": "Baton Rouge, LA",
+        "friends": 91,
+        "photos": 469,
+        "reviews": 209,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The ambiance / vibe / energy was great! The live violinist was GREAT!!!! He played all kinds of musics and all eras! It was fantastic and fabulous! It was two of us gal pals catching up. We had a perfect table for tucked just pass the hostess stand, but before a larger room for a large party, and just near the bar but perfect proximity to enjoy the live musical performance. The St. Cecilia Mimosa was like none I've had before! Really enjoyed it! Made me wish I had ubered so I could have gone for a bottomless brunch (idk if they actually offer bottomless BUT a carafe was an option lol) my gal pal has the rose so I decided to try a glass with my meal. I enjoyed EVERY BITE of the Huevos In Purgatory & she demolished her Braised Short Rib Gratin. Definitely wish I had a chance to enjoy them sooner than my second to last Sunday here in ATL. But if I'm back anytime soon I'll be dining again. And I wouldn't be surprised if I make it in this week to check out their dinner menu & service #SheBeEatin",
+        "language": "en"
+      },
+      "date": "2023-04-26T03:12:19Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4pNltcvpoV37Jdle-_ZDdA/o.jpg",
+          "caption": "Menu"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "T L.",
+        "user_id": "aPYS6qR6zZQuKB_eNV9ExA",
+        "link": "https://www.yelp.com/user_details?userid=aPYS6qR6zZQuKB_eNV9ExA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2rJuCG9jaWQ_HiruVav3qA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 190,
+        "reviews": 100,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My spouse and I went to Saints & Council yesterday afternoons. The aesthetics of this place is totally awesome.  From the fireplace entering the restaurant to the fully heated outdoor patio.  We sat on the patio and it was heat coming from all directions.  Ok now to the food.  My spouse had the Undercover Angel cocktail.  The lavender and lemonade were just the right amount to balance the vodka.  Very tasty drink.  The chilled seafood platter came next.  All I can say is OMG.  These were some of the best mussels I have had.  The homemade cocktail sauce is the best I have had.  We ordered the ribeye and frites, ribeye was tender and flavorful.  To round off the meal we had S'mores and Fondue.  By then we were to full but I did make me a S'more.  This place is definitely a do over and I highly recommend it.",
+        "language": "en"
+      },
+      "date": "2022-10-24T20:29:01Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Rije76hEeU0ccAGz825xsQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NK_fZPGKan3u9WQZUAVTKQ/o.jpg",
+          "caption": "Steak and frites"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sYRabbZbdNBwjqxJpb7mtA/o.jpg",
+          "caption": "Seafood Tower"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/45SBYq_TUgz16mNrNdvurw/o.jpg",
+          "caption": "Heat lol"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9_waNWbw9ZqmBF2thB1hvA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Whitney O.",
+        "user_id": "haxmVpnOQzdq2aPkvFpHvw",
+        "link": "https://www.yelp.com/user_details?userid=haxmVpnOQzdq2aPkvFpHvw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CaqmIGJSGQTjegprC6BNgA/180s.jpg",
+        "address": "Jackson, WY",
+        "friends": 33,
+        "photos": 5,
+        "reviews": 66
+      },
+      "comment": {
+        "text": "I went here twice when in town recently for work. The ambiance is nice, plenty of space and comfortable seats whether you're at the bar or a table. \n\nThe food is really solid! I had the Georgia risotto and it was delicious. \n\nThey also are really good at whipping up a cocktail and the wine selection is solid. \n\nIt's a quieter restaurant too, so was easy to talk with colleagues and not feel like you're yelling. That said we were there on the earlier side for dinner. \n\nWould definitely go back again.",
+        "language": "en"
+      },
+      "date": "2023-04-01T13:07:44Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=t9A9DI4-G3uboJ7cQk2Kcw&start=110"
+  }
+}

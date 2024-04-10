@@ -1,0 +1,1830 @@
+{
+  "search_metadata": {
+    "id": "65ef2edc3bea7bf17dc26771",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cba2f21086e022a5/65ef2edc3bea7bf17dc26771.json",
+    "created_at": "2024-03-11 16:18:36 UTC",
+    "processed_at": "2024-03-11 16:18:37 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/1-6iSpedEBn1mBHGpRNkZg?",
+    "raw_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef2edc3bea7bf17dc26771.html",
+    "prettify_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef2edc3bea7bf17dc26771.prettify",
+    "total_time_taken": 1.59
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 20,
+    "num": "50",
+    "place_id": "1-6iSpedEBn1mBHGpRNkZg"
+  },
+  "search_information": {
+    "total_results": 290,
+    "business": "Rumi's Kitchen - Colony Square"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 290
+    },
+    {
+      "hl": "es",
+      "count": 1
+    },
+    {
+      "hl": "zh",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Dorothy B.",
+        "user_id": "HLr40NZuklwU6hAkPwuaog",
+        "link": "https://www.yelp.com/user_details?userid=HLr40NZuklwU6hAkPwuaog",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-f9VdEzHJk5r8WuCJaOjYQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 326,
+        "photos": 583,
+        "reviews": 100,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Five stars out of five experience. If I could rate this higher, I would. I visited the Colony Square location for lunch and it was an amazing experience. Parking is a breeze you pull up to valet in front of 5Church and they take care of your car immediately and it is validated by the restaurant. We started off by trying a few of the appetizers, the falafel, the lamb ribs, smoked salmon hummus. All three of these dishes were very delicious. My top dish were the lamb ribs they were so juicy and meat was cooked perfectly. The smoked salmon hummus was very tasty and had a nice balance of salt. It was served with pita bread, and the waiter gave us unlimited refills on the bread which was nice. At the end of the meal we were served the tart with pistachio. Also very delicious and paired well, with the ice cream. I really have no complaints for this restaurant. We had a chance to meet the manager and he was pleasant and welcoming checking on us in the food. I can't wait to come back to this restaurant and try other items on the menu. Since we attended for lunch, the ambiance was very chill and calm. My cocktail, old fashioned was also bomb!",
+        "language": "en"
+      },
+      "date": "2024-01-23T22:46:54Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zAIC5Rq2B_UjPmEFkVzw8w/o.jpg",
+          "caption": "Salmon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vdNvIoSRb4onYfA_xstEmA/o.jpg",
+          "caption": "Falafel"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VppogYgzFZd-Ki8hKq-qXQ/o.jpg",
+          "caption": "Tart"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-zGerlEQDNq9ZXWUdaeSow/o.jpg",
+          "caption": "Smoked salmon hummus"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Destiny A.",
+        "user_id": "tX1xvNiK6W2RomXIPq7UMA",
+        "link": "https://www.yelp.com/user_details?userid=tX1xvNiK6W2RomXIPq7UMA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dz7r18K2mE3JQi4mQ_Z0IA/180s.jpg",
+        "address": "Gwinnett Place, Duluth, GA",
+        "friends": 0,
+        "photos": 10,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "I visited Rumi's for the New Year and I was impressed. The ambiance was sultry, warm and inviting. The hostess and waitstaff were friendly, charming and professional. Our server, Henry, was a pleasure and very knowledgeable about the menu, making great recommendations. I enjoyed the lamb ribs as an appetizer and the duck fesenjoon as my entree. Both were flavorful and cooked to satisfaction. I also ordered green tahini hummus with warm pita bread which was very tasty. If you're looking to experience Persian food and flair I would highly recommend checking out Rumi's Kitchen ! Plus Valet is validated 100% . They also validate self parking up to 50% but treat yourself and go for valet!\nLamb Ribs - 5/5\nDuck Fesenjoon - 5/5 (acquired taste)\nGreen Tahini Hummus - 5/5",
+        "language": "en"
+      },
+      "date": "2024-01-03T17:57:02Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vyq1o5F0xRvRQSQi4BBUDA/o.jpg",
+          "caption": "Duck fesenjoon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qw0CZ1wXlybW_stsiuE0kw/o.jpg",
+          "caption": "Hummus"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PhnWw8ZuuBb8oGD_z4cuoA/o.jpg",
+          "caption": "Lamb rib"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Hillary B.",
+        "user_id": "b6B5RDZTLDBxMGKeXME3cw",
+        "link": "https://www.yelp.com/user_details?userid=b6B5RDZTLDBxMGKeXME3cw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7GP_NQgtKLe-ZpHF2P-PEw/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 454,
+        "photos": 575,
+        "reviews": 228,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Excellent date spot for anyone looking to impress their date, or for a special girls' night out. They have cool artwork and overall nice ambiance. Food is delicious all around, and great service.",
+        "language": "en"
+      },
+      "date": "2023-10-22T12:59:43Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nq241IxqV8SsSLWWMvmtDw/o.jpg",
+          "caption": "Crispy Potatoes with Radicchio"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9VzqbyMnh95APWa5EHfA-w/o.jpg",
+          "caption": "Kunefe"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fgZzkdKY8h7TbdVqXSOJdQ/o.jpg",
+          "caption": "Lamb Rack and Roasted Salmon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R17g_hH8TmfjkxIEzQqUJg/o.jpg",
+          "caption": "Rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/k9dG0TL43cxDX1UBDF26Dw/o.jpg",
+          "caption": "Lamb Merguez Hummus"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Heather S.",
+        "user_id": "7mZCFtucZqrlNyBDWAohoQ",
+        "link": "https://www.yelp.com/user_details?userid=7mZCFtucZqrlNyBDWAohoQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ClODKsPjxD4j7ZA5KmnzVA/180s.jpg",
+        "address": "Portland, OR",
+        "friends": 137,
+        "photos": 120,
+        "reviews": 999,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Amazing! I came here with a group after a work event. The food, service,  and ambiance were all great. I love a restaurant that has options for a variety of dietary needs, and Rumi's delivered.",
+        "language": "en"
+      },
+      "date": "2024-01-16T00:48:29Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Amanda W.",
+        "user_id": "arEHcPS1xz-1hHcNAqKWdw",
+        "link": "https://www.yelp.com/user_details?userid=arEHcPS1xz-1hHcNAqKWdw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cjcWRuV7c-Z8befov1SHJw/180s.jpg",
+        "address": "Douglasville, GA",
+        "friends": 11,
+        "photos": 169,
+        "reviews": 60,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Decided to make reservations at Rumi's for Mother's Day dinner, after hearing a few colleagues rave about the new location in Colony Square. We parked in the parking garage and was able to have our parking ticket validated at the restaurant. The staff were extremely kind. There were multiple people who greeted us upon being seated. Our waitress was amazing. She was very knowledgeable of the dinner and drink menu. \n\nWe started off with the mushroom hummus, it was sooo good and savory. My spouse and I shared the lamb rack; they we're marinated and seasoned to perfection. I'm also glad we decided to split the entree because it was so much food! My mother ordered the salmon and we added on the crispy potatoes and grilled veggies. I pretty much enjoyed every item on the table.\nOverall great experience, beautiful ambiance, with amazing Persian food. I look forward to dining again. 10/10",
+        "language": "en"
+      },
+      "date": "2023-05-14T22:05:39Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bAWV2Pc02RBgFzbum1yjmA/o.jpg",
+          "caption": "Roasted Crimini & Oyster Mushroom Hummus"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lyYY96Ld8ohMf28c8MJxng/o.jpg",
+          "caption": "Lamb Rack"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Cgl8I4NSDoBPLj5fH7I6Mg/o.jpg",
+          "caption": "Grilled Vegetables"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zej8H5XbEXu4keBdhDuqLQ/o.jpg",
+          "caption": "Roasted Salmon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Lzu4FbJygV9CLUHWl7MHIA/o.jpg",
+          "caption": "Crispy Potatoes"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Natasha H.",
+        "user_id": "s-sL4B_tlE62PaJcSqOU3w",
+        "link": "https://www.yelp.com/user_details?userid=s-sL4B_tlE62PaJcSqOU3w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/h5Ff5HgJ3pUyLw-tEZzkhQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 472,
+        "photos": 440,
+        "reviews": 178,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My god. This place was amazing. Made a reservation for a party of four. I though we ordered most of the menu but there is still so much to try. I have never had persian food btlut I've had my share of Mediterranean and this is amazing.  Chicken Kabob amazing. Decent chunks of chicken on a skewer with rice, currants, and special seasoning. Corn Ribs were the table favorite. It was like eating mexican elote...but better.whole table enjoyed the niblets of corn and the sumac seasoning. Labne Charred Tomato... not a huge fan of tomatoes but thisnis one of the most ordered items. It was good. I like it better than the previous iteration with large roma tomatoes. Roasted cherry tomatoes is easier in the palate and easier to share. Short Smoked Salmon Hummus was OK. Myabe the group was getting full maybe it was underwhelming but it was OK. \n\nI won't do this whole review justice because I will mess up the names but generally the lamb was AMAZING. HUGE CHUNKA of lamb on skewers. No one finished their lamb because of the hearty portions. The lamb ribs were delightful. My party also really enjoyed the sea bass.\n\nThe drinks..\nWe had several rounds of them. Rumis old fashioned, Tehran mule, and persian sunset. \n\nWill be back. Make a reservation and have an amazing time. The staff was really good too. It's a noisy place but the bustling sounds of eats, conversations, and a lively metropolitan area.",
+        "language": "en"
+      },
+      "date": "2023-04-05T22:25:49Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/n2BNBvaRVhj1_60uF2HDoQ/o.jpg",
+          "caption": "Grilled corn ribs"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Megan A.",
+        "user_id": "H2WLKGsyLC8EoaR9x0ErGA",
+        "link": "https://www.yelp.com/user_details?userid=H2WLKGsyLC8EoaR9x0ErGA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hz2xtYbKocDGIPwFQtwKhg/180s.jpg",
+        "address": "Los Gatos, CA",
+        "friends": 36,
+        "photos": 181,
+        "reviews": 75,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Wow everything from the food to the service and to the atmosphere was spectacular. Immediately upon entrance, you're greeted with a dark, moody environment and space that's beautifully decorated. We asked our waiter what he recommended and he claimed that many people deem their sea bass as the \"best\" in all of Atlanta. As we're not from Atlanta, we couldn't speak on that statement, but I can confirm that it's the best sea bass I've ever had in my life. Usually fish doesn't fill you up the way meat does, but the sea bass was cooked to the point where it was so buttery and heavy in flavor that within a couple of bites, I was extremely full and fulfilled. We also ordered the lamb pita and lamb chops which were both fantastic and extremely flavorful.",
+        "language": "en"
+      },
+      "date": "2023-09-27T21:11:57Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tRqDadeybfNogM_D_MiBCA/o.jpg",
+          "caption": "Complimentary pita"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nn487h9H3IHimHKfN9diLQ/o.jpg",
+          "caption": "Sea Bass and Lamb chops"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dG2WMKZiGF6px7d27kSLsg/o.jpg",
+          "caption": "Lamb Flatbread"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4WcAx6V9Vl4uMPD-_s9q4A/o.jpg",
+          "caption": "Birthday dessert"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lauren R.",
+        "user_id": "BXT44DZyWOai1yyOWT91ow",
+        "link": "https://www.yelp.com/user_details?userid=BXT44DZyWOai1yyOWT91ow",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Wf8G6O1WzHITCCs5YHsNlQ/180s.jpg",
+        "address": "GA, GA",
+        "friends": 1,
+        "photos": 43,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "This is one of my favorite restaurants in the city. The ambiance is upscale with nice mood lighting and a variety of seating accommodations. The food adds to the experience. I always start with one of their labnehs then usually get two proteins and one rice to share and that is plenty for two people. I recommend this restaurant to everyone and can't wait to go back soon.",
+        "language": "en"
+      },
+      "date": "2024-03-02T05:01:47Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lavinna K.",
+        "user_id": "utA1aC8pWt5MKJUkesl2ZQ",
+        "link": "https://www.yelp.com/user_details?userid=utA1aC8pWt5MKJUkesl2ZQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qDRxfeH5jCNbnS19Oup4zA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 36,
+        "photos": 990,
+        "reviews": 274,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I have been trying to get here for a while. I'm so glad I made it.  Please pay attention though. If you're coming to this location valet park your vehicle.  They validate for free valet but if you self park it's half off.  Weird I know but I ended up paying $13 for self parking. \n\nThe location itself is lovely. It's open and spacious.  The service was awesome as well as the food!  It's a lot of food. We ordered the hummus with mushroom. We shared the Sea Bass. They plated it separately so that worked out nicely.  There's a seasoning they put on the table that is so good. The food is already seasoned well but it takes it up another level!  I  can't wait to return to try other items on the menu.",
+        "language": "en"
+      },
+      "date": "2023-04-03T14:37:34Z",
+      "rating": 5,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3iemLfCarLp20xwvTgZLcA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7Nl2z6Z7DfWwAg687Vt8yQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Qw_XkggWYKaP1tEF0svIVg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cgBWX0RP5WfkUZehoCEHGw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iTV0wXyxRMi3_hRkwkTzrg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/v0oxm-C3Run6GK8gF3rk1w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rMd6JPYeqE9n1roqEDJTDQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Allison K.",
+        "user_id": "WZkAnapotwlWz9_BN04xug",
+        "link": "https://www.yelp.com/user_details?userid=WZkAnapotwlWz9_BN04xug",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AI1HAycZLrVWpjJ4cfMrHA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 6,
+        "photos": 263,
+        "reviews": 145,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Went here for a special dinner. The place was vibrant and bustling on a Friday night. Service was pleasant and attentive. \n\nThe complimentary lavash and herbs were great and the lavash went so well with the mushroom hummus.\n\nI got the kabob torsh which had a very unique flavor - the pomegranate really complimented the savoriness of the beef. I'm not usually a fan of tomatoes but the roasted tomato really hit the spot. The rice was also delectable.\n\nThis place is a must try.",
+        "language": "en"
+      },
+      "date": "2023-05-02T20:56:40Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZrK_TgHVvnE-ZGwv34t-pw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/efW0HhKuZoMtdCtADuGvEA/o.jpg",
+          "caption": "Mushroom Hummus"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Cj3k8SSw-dpNYOyyGidKcg/o.jpg",
+          "caption": "Kabob Torsh"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/riBbsxvkb6kpyo60-OV6Bg/o.jpg",
+          "caption": "Kabob Torsh"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Mona B.",
+        "user_id": "B3qL-8-lKjsBlU3zqJMYpw",
+        "link": "https://www.yelp.com/user_details?userid=B3qL-8-lKjsBlU3zqJMYpw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_Gn0jxZte__udTnlGgyAOA/180s.jpg",
+        "address": "Duluth, GA",
+        "friends": 0,
+        "photos": 8,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "Truly enjoyed dinner here for NYE. Very nice ambiance and good service. Waitress was knowledgeable and recommended what I could eat as a vegan.",
+        "language": "en"
+      },
+      "date": "2024-02-23T16:39:53Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kim B.",
+        "user_id": "FZ0AP5BLP1JFzeiKcTsIAQ",
+        "link": "https://www.yelp.com/user_details?userid=FZ0AP5BLP1JFzeiKcTsIAQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sMrsPV5DhaldvsdMcWH2fQ/180s.jpg",
+        "address": "Savannah, GA",
+        "friends": 260,
+        "photos": 210,
+        "reviews": 164,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Easter Sunday brunch \nSo I enjoyed my time her with my family. My mom ordered the sea bass (loved it) and my dad ordered the salmon (enjoyed it). I got the vegetable kabobs and it was good. I will say that I wish it was more flavorful, but still enjoyed it. \n(Pro tip: valet is 100% free)",
+        "language": "en"
+      },
+      "date": "2023-04-10T00:37:38Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/00xgUjBTSSiZ1i5wHxFjYQ/o.jpg",
+          "caption": "Poor Translation"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GD_b7Cd2prwNKjL3hF1y0w/o.jpg",
+          "caption": "Salmon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/r2AwxK_lE2dUiaheBg1JMA/o.jpg",
+          "caption": "Chilean sea bass"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Aynara R.",
+        "user_id": "iW1naV9YESSNnl4yvzxqUQ",
+        "link": "https://www.yelp.com/user_details?userid=iW1naV9YESSNnl4yvzxqUQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PLvbz2o9-cMRLgFn2wuYqw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 102,
+        "photos": 7,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "I am a huge fan of Rumi's! We have been loyal patrons of the Sandy Springs location for quite some time. However, recently I had colleagues visiting for a business meeting and decided to make a reservation for lunch. To say that everyone was impressed with the atmosphere and the food would be an understatement. The restaurant even went above and beyond by creating custom menus featuring our company's logo. We indulged in various appetizers, but the Mast Mousir stood out as an absolute delight. As for my personal favorite, I always go for the Soltani Kabob.\n\nWhile I adore Rumi's, there is one aspect that I find slightly bothersome - the acoustics. The sound of conversations from neighboring tables tends to carry, making it challenging to have a private and intimate discussion.",
+        "language": "en"
+      },
+      "date": "2023-11-11T07:53:01Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NxrTT000sm2ZsuR753CjkQ/o.jpg",
+          "caption": "Menu"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "April H.",
+        "user_id": "4bI4Iy6UCt9pWgOtaewbIw",
+        "link": "https://www.yelp.com/user_details?userid=4bI4Iy6UCt9pWgOtaewbIw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wk56LUk-v69l4X9Zz4wx-A/180s.jpg",
+        "address": "Charlotte, NC",
+        "friends": 630,
+        "photos": 587,
+        "reviews": 1738,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Wow, this restaurant is awesome!  Parking is the only downside.  Service was wonderful, Mikah was our service and he was very nice and helpful.  He explained the menu to us and made great suggestions.  The atmosphere is great and the restaurant beautiful.  They bring you some items to start your meal, I don't remember the name but it was good.  I had the chicken kabob and it was wonderful.  I had some bites of the kabob torsh that my friend had and that was even more delicious.  The cocktail I had was the Shazdeh Garden and it was tasty and different.  It was my friends birthday and she was brought the Persian Ice Cream Sandwich and it was also good and very unique.  Next time I am in Atlanta I will be coming back here for sure!",
+        "language": "en"
+      },
+      "date": "2023-07-13T19:29:27Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4jTQF7nIK7D4L1nX_aV-UQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/J-Q-RxCLMb5_laGiE56hUg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VrXY6t1nz64zzz6IcdNkhw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2QIiu6JhDjdU7Q5MsEqhbQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Briana L.",
+        "user_id": "HgquAPVpXPlnexu6q7D6xg",
+        "link": "https://www.yelp.com/user_details?userid=HgquAPVpXPlnexu6q7D6xg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/eeXWiuek32IJ-w8wPETJLA/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 82,
+        "photos": 15,
+        "reviews": 50
+      },
+      "comment": {
+        "text": "Rumi's is truly special and perfect in every way. I think this is my favorite Atlanta restaurant. This location is really beautiful as well, and the service is stellar. Be sure to let your waitperson know that you valet parked. Valet is complimentary when you dine in, but the garage is not. \n\nYou will be given as much bread as you need throughout the meal, and it is really amazing and fresh out of the oven. The complimentary feta, walnuts, radishes, and herbs are a yummy start. The Persian Tea is also an amazing accompaniment to your meal. If you enjoy black tea you will not want to miss this.  I usually do not sweeten my tea, but adding a sugar cube to each cup allows the floral notes to bloom.\n\nThe labne with charred tomato is so incredibly good. The cool tangy yogurt pairs so well with the tomatoes. The dish is simple, clean, and bursting with flavor. \n\nThe chermoula eggplant is half an eggplant roasted so that it is creamy. It is a bit spicy and sweet. The kashk badenjoon is so smoky and creamy, full of chunks of eggplant. I don't think you can go wrong with either if you are an eggplant fan. I have yet to try the mirza ghasemi.\n\nI have had both the mushroom and smoked salmon hummus. While the mushroom is delicious, the smoked salmon really knocked my socks off. There is a generous portion of the best hot-smoked salmon you have ever had on top of tasty hummus with red pepper. \n\nThe grilled veggies are tasty and a great addition to the meal. I also sampled the corn ribs. They had a but of a kick and were really delicious.\n\nThe Chilean sea bass is the best piece of fish I have had in recent memory. Just unbelievable! The fish is charred on the outside and perfectly cooked. It just melts in your mouth and almost tastes buttery. It is decadent! I split this entree with two others after we had a variety of small plates. I ordered extra grilled tomatoes. The rice is perfectly seasoned and accompanies the fish beautifully. \n\nEven the chocolate ice cream is amazing.",
+        "language": "en"
+      },
+      "date": "2023-12-11T19:41:19Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Crystal D.",
+        "user_id": "urbQsgbnLMEr-4r-0s0SJw",
+        "link": "https://www.yelp.com/user_details?userid=urbQsgbnLMEr-4r-0s0SJw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yZTu4RbHMuW37Dc0-Hd1Bw/180s.jpg",
+        "address": "Mableton, GA",
+        "friends": 4,
+        "photos": 47,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "I have eaten at the Sandy Springs location, but Colony Square is a different vibe that you get the minute you step into the door. The food was really good. I love the complimentary fresh herb plate that comes with the naan. The walnuts are my favorite! We ordered a number of dishes between my friend and I, and we were both pleased with mostly everything. I feel their falafel was too soft and a little bland, but not woth losing a star considering how good everything else was. The service was spot on. Our water glasses were refilled by our server and almost every manager that passed  the table. Evereryone there was super attentive. Looking forward to visiting again!",
+        "language": "en"
+      },
+      "date": "2024-01-04T01:23:17Z",
+      "rating": 5,
+      "tags": [
+        "6 photos",
+        "1 check-in"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rxoDVYMg2FuUqppv_kezrQ/o.jpg",
+          "caption": "Falafel and Mushroom Hummus"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2IxGJ8T802QmMmec2asNwg/o.jpg",
+          "caption": "Mocktail"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dCZ6P2dGlaR8mOtLuuAlwA/o.jpg",
+          "caption": "Fresh herb plate and extra walnuts."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ODhPnZSAhFPVjj_QT97mfQ/o.jpg",
+          "caption": "Lane Charred Tomato"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/r-JkT7fSnELuqxqGXDMn4A/o.jpg",
+          "caption": "Crispy Potatoes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VRxOntP8ZgLi6nbb0y22gw/o.jpg",
+          "caption": "Grilled veggies with no butter."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Franella N.",
+        "user_id": "gIzSrx_WDmYrhKyL_sc6zA",
+        "link": "https://www.yelp.com/user_details?userid=gIzSrx_WDmYrhKyL_sc6zA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CXksZJEuoDmGT6Gly04VeA/180s.jpg",
+        "address": "Austin, TX",
+        "friends": 292,
+        "photos": 13,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "Ziela is a great waitress and the service overall at this location is amazing. The food was tasty and the efficiency, cleanliness, and taste (most important) was great. I'd highly recommend Rumi's. When you're in ask for Ziela's area! She goes over and beyond.",
+        "language": "en"
+      },
+      "date": "2023-12-23T22:54:40Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aTrOn_77R80wXicJ8lohaw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Gina F.",
+        "user_id": "dCbdP90p1sv7ruDy8MB0Yg",
+        "link": "https://www.yelp.com/user_details?userid=dCbdP90p1sv7ruDy8MB0Yg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pfVIV7CJjL6llVy9b32-sw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 256,
+        "photos": 248,
+        "reviews": 116,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Rumis kitchen for a girls day lunch date is perfect!  Walked in and the host stand is not directly in the doorway, you do have to walk in past the bar area to see a host.  Was greeted and sat right away.  The decor including plates and greenery was beautiful and airy.  Our server came over right away and asked our water preference, still or sparkling, and both are complimentary.  We ordered two of their specialty cocktails, forbidden fruit and deep sea diver and they were both very refreshing and unique.  We ordered two appetizers which I didn't get photos of because I dug in so quickly.  The hummus with the mushroom is a taste sensation.  I ordered the salmon and wow.  When I took the first bite, it was cooked to perfection and had such an amazing flavor that melted in my mouth. The rice is a mixed rice with saffron and an herb rice.  I love the saffron rice, but the herb rice  has a bit too much cilantro or parsley (not sure which it was) for my own taste.  The portions are good size that I had enough to take home and have dinner and a small lunch the next day.  There are also some amazing sauces that they will serve with the entrees.  My favorite was a green chutney sauce and it had a little spice to it!  The server was awesome, she provided amazing recommendations and answered all our questions about menu items.  Definitely going back again.",
+        "language": "en"
+      },
+      "date": "2023-10-24T19:40:18Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DX7CHFkWJVL8wr0osijINA/o.jpg",
+          "caption": "Roasted cauliflower"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fuKc7M1-rkcasRE14JcKCw/o.jpg",
+          "caption": "Seabass entree"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M3XcZIAe4lhaRdk4tbDAOw/o.jpg",
+          "caption": "Salmon entree"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/47W94-PpJO0r7QbE7cTjmA/o.jpg",
+          "caption": "Forbidden fruit and deep sea diver"
+        }
+      ],
+      "feedback": {
+        "useful": 5,
+        "funny": 3,
+        "cool": 5
+      }
+    },
+    {
+      "user": {
+        "name": "Darian H.",
+        "user_id": "mpjXM5kVsLuQOa51AWMKmg",
+        "link": "https://www.yelp.com/user_details?userid=mpjXM5kVsLuQOa51AWMKmg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JdEKuFbFl-GaX39QrHBT7Q/180s.jpg",
+        "address": "Albany, NY",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "10/10 -- No pics of the food because we dug in right away (my mouth was salivating before it all arrived and the lighting in the area we were seated in was too low!) \n\nHad the Lamb Ribs and they slapped!!! My first time having lamb ribs and instantaneously wanted to order another round! (Pairing it with humus, falafel, and the naan... SOLID). The falafel appetizer and the Lamb Merguez were both phenomenal. The naan that came with the hummus dishes were consistently fresh and hot!!! Had to cut myself off at one point and take a break to recuperate.  \n\nFor the feast we shared the Lamb Kebab and the Roasted Salmon. Salmon was perfectly cooked! Like fuckin butter! The rice that came with the salmon... bruhhhh!!  loved that each of what we got had a customized order of rice to fit the meat.\n\nI ended up at this restaurant because I was craving Knafeh and scrolled through the yelp photos of the food to see if Rumi had any and was thoroughly surprised that they did! That was my dessert! This is my first time in Atlanta too...\n\nService was great! Staff were really kind and attentive. Ambiance was chill the low lighting was cozy--silverware and dinnerware was nice and heavy! \n\nWould come back to Atlanta just to eat here again.",
+        "language": "en"
+      },
+      "date": "2023-09-13T01:41:52Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6bpqJ7xckZO5UNbeJ39vNw/o.jpg",
+          "caption": "No food pics but here's the receipt though! Would do it again. Everything slapped!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Desiree H.",
+        "user_id": "N6MDpHUZeBcM8QtSgcCnYA",
+        "link": "https://www.yelp.com/user_details?userid=N6MDpHUZeBcM8QtSgcCnYA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Qw4ZA4gCra4ZTR1I3e-D6Q/180s.jpg",
+        "address": "GA, GA",
+        "friends": 98,
+        "photos": 100,
+        "reviews": 33,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Absolutely love this place! From the ambiance & service to the food &drinks this place has it all. The staff is friendly and help make the experience. The drinks are unique & delicious and the food is so flavorful. The hardest part is choosing! There are so many restaurants in Atlanta & this is hands down my favorite.",
+        "language": "en"
+      },
+      "date": "2023-06-08T03:01:23Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NOiAgS7B2Xmu6hTF9qim3w/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Nelli B.",
+        "user_id": "3mWPo1H3HjIgjKWZt3NjcQ",
+        "link": "https://www.yelp.com/user_details?userid=3mWPo1H3HjIgjKWZt3NjcQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZibnYz0eF1mUBYoYzjK9NA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 136,
+        "photos": 561,
+        "reviews": 400,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Absolutely delicious food and beautiful restaurant. The labneh, chilean sea bass, and corn ribs are a must!",
+        "language": "en"
+      },
+      "date": "2023-06-04T22:24:10Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R1lNqzHhaxdgbjGxGszHyw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Camille R.",
+        "user_id": "RzkbtBIWb746OB7HsKIakA",
+        "link": "https://www.yelp.com/user_details?userid=RzkbtBIWb746OB7HsKIakA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XtysuA-lR8JPhJSE-8w45Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 146,
+        "photos": 119,
+        "reviews": 43,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Stopped in for a drink at the bar after dinner at H&F! The \"Spin me round\" (mezcal cocktail) was good and presentation was fun with a sugar image placed on top. We leaned into our temptation to try out the eggplant dips since it was our first time in (even though we just had dinner lol) and they were delicious! We had asked the bartender which of the two she recommended and she said we could do 1/2 of each, which we appreciated. The place is packed on a Saturday night, definitely a popular spot with a lot to offer. We will return for a full on dinner.",
+        "language": "en"
+      },
+      "date": "2023-07-16T15:23:15Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8LBA8Zgk4cKN8XqxHSJn6g/o.jpg",
+          "caption": "Mirza Ghasemi and Kashk Badenjoon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4iCtI4hXoHQ0ECc4ojq1JA/o.jpg",
+          "caption": "Spin me round (mezcal cocktail)"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brittiney J.",
+        "user_id": "6kKASoQD17K_2jj580h7iw",
+        "link": "https://www.yelp.com/user_details?userid=6kKASoQD17K_2jj580h7iw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bFVISR26imo_PPsN-eTAWw/180s.jpg",
+        "address": "Mableton, GA",
+        "friends": 649,
+        "photos": 53,
+        "reviews": 135
+      },
+      "comment": {
+        "text": "This is my first time at this location. Typically I go to the one in Sandy Springs, and when I walked in, I was just amazed. This is absolutely beautiful. They did such a great job with the decor and I'm really looking forward to the food.",
+        "language": "en"
+      },
+      "date": "2023-11-26T21:53:38Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6fADTN9avh8DVKrkyR3Z8w/o.jpg",
+          "caption": "Inside"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Benson C.",
+        "user_id": "yd9N2go19Q_H8Q1zOWqjUw",
+        "link": "https://www.yelp.com/user_details?userid=yd9N2go19Q_H8Q1zOWqjUw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/jo7xaU4P7qYtfBCezwftgQ/180s.jpg",
+        "address": "Midtown, Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "Jessie at the bar is fantastic. She knows the menu and service, she's so good she makes it look effortless with a full bar!",
+        "language": "en"
+      },
+      "date": "2024-02-12T21:15:19Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Talon S.",
+        "user_id": "ylnZsO5X7__4xvcjb_M9Ew",
+        "link": "https://www.yelp.com/user_details?userid=ylnZsO5X7__4xvcjb_M9Ew",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bGXj_UUq2bIRrJ5yjOWKUA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 6,
+        "photos": 229,
+        "reviews": 47,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "RESERVATION! RESERVATION!... and you still may wait. This is based off weekend visitation, mid week could be completely different. \n\nI must to start with my overall experience, 9.9/10 that .1 is literally due to service. If they could maybe get more staff, another bar something to stretch the service to customer ratio, this place would be amazing, I say that to say it is a must try and honestly worth the long waits (for seating, food and drinks ). \n\nVery quaint, dimly lit restaurant. Although your children may eat the food, I wouldn't recommend for children under 10. PERFECT for a girls/guys night, date night, birthdays and other special mature lively celebrations. \n\nMenu is very simple but bit complicated if you are not familiar with Persian food. They have a salad/small plate section, a very unique hummus section with veggie dishes, main plates, then a few desserts. The wine and cocktail menu is massive but remember it'll take forever to get the drink.\n\nFOOD: You get complimentary appetizer which is a mixed plate of feta, walnuts, apples and mint and pita bread. Very good combination! \n\nWe chose a spinach and date salad for appetizer which was perfect and very flavorful. We had salmon, chicken and beef dishes. They also give you a small bowl of fresh spices to spread on your food. You will not be disappointed, the food was very flavorful and filling.",
+        "language": "en"
+      },
+      "date": "2022-11-09T00:18:03Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8SkryGFrDLK9dzWmwQ9E2A/o.jpg",
+          "caption": "Chicken Kabob and Basmati Rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vh0CXJKpCOQ4DvHjOCRe-w/o.jpg",
+          "caption": "Hostess"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yr3qvYlNf80qgcUSzqrcvQ/o.jpg",
+          "caption": "Front Side"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dv9XfF4NtG0hHwH9HREqmA/o.jpg",
+          "caption": "A little ambiance"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/byObWJ8jTl5QG_8Wkvbfbg/o.jpg",
+          "caption": "Spinach and Date Salad"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OzEDFGdF_Get4tY4Z3lyJQ/o.jpg",
+          "caption": "Soltani Kabob (grilled beef) and Koobideh Kabob (grounded beef)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WRqlo4_ifkC6t0oWYFbLNQ/o.jpg",
+          "caption": "Bar"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/huJpNZ7xUNz7kFk07xzfVg/o.jpg",
+          "caption": "Roasted Salmon with Saffron-herb Rice (the grilled tomato is to be smashed and ate as an accompaniment)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IzwV2aRFpfy-YCIlPseNgw/o.jpg",
+          "caption": "Lobby"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/J7RHbNIEHLpEmO7dkoFN8Q/o.jpg",
+          "caption": "Pita Bread and Spread"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Katherine G.",
+        "user_id": "Js8qs_BhpQ7GDkoF6IDsUw",
+        "link": "https://www.yelp.com/user_details?userid=Js8qs_BhpQ7GDkoF6IDsUw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UWguWzGNiheZRIwtLk6n_Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 811,
+        "photos": 94,
+        "reviews": 365,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I've had Rumi's on my list of ATL restaurants I've wanted to try for YEARS. It did not disappoint. I highly recommend this restaurant if you are traveling for work or need a place for a work dinner or happy hour. The crowd feels very corporate. However, that does not take away from the ambiance. It has a very sexy, urban feel to it. The food is fantastic as well as the drinks. I will say I still prefer Delbar in Inman Park solely bc it's a little more hip and less corporate. That is just personal preference, though.",
+        "language": "en"
+      },
+      "date": "2023-11-09T16:31:13Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mina O.",
+        "user_id": "vlcWPCXCrlotmb8fepBxkw",
+        "link": "https://www.yelp.com/user_details?userid=vlcWPCXCrlotmb8fepBxkw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/s0KvdYeMXD2MjxDvmW886g/180s.jpg",
+        "address": "Cliftondale, Atlanta, GA",
+        "friends": 11,
+        "photos": 267,
+        "reviews": 88,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Phenomenal experience, food, service and ambiance. This restaurant is the total package. I went from a birthday lunch and was in awe in how spectacular the appetizers and dishes were. My party tried hummus with lamb, naan, falafel, regular hummus, and for our main course we tried the kebabs, rice and lamb ribs. Every single dish was delicious. This restaurant is one of my favorites in colony square.",
+        "language": "en"
+      },
+      "date": "2023-07-07T16:35:08Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lFzGEwCNDCDra8e1fmqNYw/o.jpg",
+          "caption": "Falafel and hummus"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/v4i2o0OAz2gunrPN3c4Log/o.jpg",
+          "caption": "Garnish"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cO1Ewm6TXkxqg5-emy_V0Q/o.jpg",
+          "caption": "Eggplant"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1UpusUBR8-0xZ6bSL-Agzg/o.jpg",
+          "caption": "Lamb ribs"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Neil S.",
+        "user_id": "Yft76ogF5YzCQ4mn6vSQ6Q",
+        "link": "https://www.yelp.com/user_details?userid=Yft76ogF5YzCQ4mn6vSQ6Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4Ug5N1h0Ze7XZqOAcuEt4w/180s.jpg",
+        "address": "Charlottesville, VA",
+        "friends": 112,
+        "photos": 11,
+        "reviews": 444,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My wife and I dined at the original Rumi's Kitchen in Sandy Springs a couple years ago and enjoyed its unique offering of Persian food in an upscale atmosphere. Since then, Rumi's has opened a couple more locations each offering slightly different menus and ambiance. We chose the Colony Square location in Midtown based on its more expansive food menu compared to the OG. Rumi's validates all of the valet fee or 50% of the garage fee. Unfortunately, the valet was closed and even with the garage discount we ended up paying $12 for 2 hours of parking, which we found steep. I would thus confirm the valet is open or arrange alternative means of transportation prior to visiting.\n\nParking woes aside, we had an excellent overall experience at the restaurant. The ambiance here feels more sceney and intimate compared to the vast, bright Sandy Springs dining room. The vibe is dark with subtle Persian touches and the restaurant is thus well suited to a date or a group dinner. The only fault we found with the ambiance is that the restaurant can get loud, but this didn't detract too much from our experience.\n\nThe food here comprises a combination of modern, mezze style dishes as appetizers with more traditional kabobs and stews for entrees. We started with four appetizers and split an entree, which ended up being a little too much food for two hungry diners. That being said, we really enjoyed everything we tasted. My favorite small plate was the kashk badenjoon, which entailed fried eggplant and fried onions mixed into a purée and topped with a creamy sauce, mint, and slivers of fried onion. We also enjoyed the light hummus topped with well-spiced lamb merguez, the addictive crispy potatoes, and creamy labneh paired smartly with charred summer tomatoes. All the dishes paired well with Rumi's signature fresh bread from the tandoor and mixed herb sabzi. \n\nWe split the lamb kabob and were pleasantly surprised to find that the kitchen sent out two separate plates each with a half portion of kabob, which we highly appreciated. Even a half portion contained three large chunks of well grilled and marinated lamb. While the lamb had plenty of flavor, the star of the dish was the side of fragrant, perfectly cooked basmati rice studded with pleasantly sweet raisins and meaty lentils. It's surprisingly difficult to make perfect rice, and Rumi's nails their grains. \n\nService here is a highlight. Our waiter coursed out the menu at a comfortable pace, kept our bread basket full, explained menu items well, and made sure we were well taken care of overall. The restaurant even comped a refreshing yet rich chocolate-pomegranate ice cream for my birthday, which we appreciated. The food here can get a bit pricey, but the quality of the ingredients and cookery here merits the cost. Overall, Rumi's is well worth a visit for both traditional and more cheffy Middle Eastern flavors. It's an Atlanta institution for a reason, and probably is the best restaurant in Midtown right now.",
+        "language": "en"
+      },
+      "date": "2023-07-04T23:26:48Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ashley M.",
+        "user_id": "YMYb73K3Dv3oiac4mADJSg",
+        "link": "https://www.yelp.com/user_details?userid=YMYb73K3Dv3oiac4mADJSg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sGoA4FMUvPPCltVeef7Zxw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 935,
+        "photos": 2904,
+        "reviews": 705,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Rumi's is delicious! \nI hosted a business here on a Tuesday evening and it was packed - be sure to make a reservation for dinner, even if you have a small group on a weeknight evening. The décor here is beautiful and the atmosphere is vibrant - Rumi's makes you feel like you're in an upscale NYC restaurant; it's full of energy. \n\nFor our party of 5, we sampled a few appetizers:\n- Badenjoon Kashk - mint, onion crispy, whey of cream , fried eggplant\n- Falafel - tabbouleh, hummus, beets pickled, torshi, tahini\n- Lamb Merguez - lamb sausage, paprika, pine nuts\n\nThe appetizers were excellent! My favorite was the falafel - I'm not a huge falafel fan but probably because I've never had Rumi's falafel - it is THE BEST I've ever had. I couldn't get enough, and that's a huge compliment from me. The most disappointing dish for me was the Badenjoon Kashk but some at my table really enjoyed it.\n\nFor my main dish, I ordered the Chilean Sea Bass - herb basmati rice. This dish was fantastic! The sea bass was cooked perfectly and seasoned very, very well. I selected my entrée based on the server's recommendation and she did not steer me wrong. I would have loved more substance on my plate besides the rice and tomato, but the sea bass is so good it steals the show and does the job. \n\nOverall, service was good - there were a couple of times we looked for our server so I wouldn't rate the service as perfect. \n\nThere is a valet and self-parking option in the garage.\n\nBusiness, date night, or bougie weeknight meal - Rumi's is a great choice!",
+        "language": "en"
+      },
+      "date": "2022-11-02T17:48:13Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AHNP3dZpgC0-6tBfAleizQ/o.jpg",
+          "caption": "Chilean Sea Bass - herb basmati rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/o_BpYU45LFuavVtnJcawEg/o.jpg",
+          "caption": "Lamb Merguez - lamb sausage, paprika, pine nuts"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Y5Y6at_fVCKUVAWwEA0k7Q/o.jpg",
+          "caption": "Falafel - tabbouleh, hummus, beets pickled, torshi, tahini"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/d3RJYBG3fPOCBf_NugYggg/o.jpg",
+          "caption": "Badenjoon Kashk - mint, onion crispy, whey of cream , eggplant fried"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 5
+      }
+    },
+    {
+      "user": {
+        "name": "Tanni D.",
+        "user_id": "qRp-5RKOD9sBLKapaWn_RQ",
+        "link": "https://www.yelp.com/user_details?userid=qRp-5RKOD9sBLKapaWn_RQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oNRjz5farc3WRqmMRlNH6Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 21,
+        "photos": 828,
+        "reviews": 299,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Beautiful restaurant in a great location, but I prefer Rumi's in Sandy Springs. Service was slow and our waitress mistakenly gave us three passion fruit sodas ... and then charged us for all three. Because it was late and it took a while to even get our waitress' attention to receive the check, we paid for the drinks. \n\nOur food was average, too. The Kashk Badenjoon was flavorful, but the Lamb Kabob and Soltani Kabob were mediocre. I was surprised because I have so far loved all the food I've tried in Rumi's in the Sandy Springs location. I was expecting the same quality food in the Midtown restaurant, too.",
+        "language": "en"
+      },
+      "date": "2022-12-30T19:43:33Z",
+      "rating": 3,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xD3KFwTvpqgPJpgfhROgTA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FYaAqCnkC_wAMm0NHcwXCg/o.jpg",
+          "caption": "Kashk Badenjoon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cjNQFoenPP-A-OU3ieT56w/o.jpg",
+          "caption": "Lamb Kabob"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/g8DuWOv674S8_dZdxzV3DQ/o.jpg",
+          "caption": "Passion Fruit Soda"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sarah C.",
+        "user_id": "b7zzYt5ReShh40wYUWuzcQ",
+        "link": "https://www.yelp.com/user_details?userid=b7zzYt5ReShh40wYUWuzcQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RZzt4Ligq-qVd2QetdfQ6Q/180s.jpg",
+        "address": "Chester, VA",
+        "friends": 1,
+        "photos": 15,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "This place is what restaurants should be. \n\nThe ambiance is hip and fun. The food is to die for. Seriously, if I ate their cauliflower and only their cauliflower for the rest of my life, I would die a happy woman. Honestly, how anyone eats American food after tasting this flavorful, unique food is beyond me.\n\nService was attentive, but also hip. You know how it is with 20 something's in big cities these days... Too cool for you. But, everyone was nice enough to make it not unpleasant.",
+        "language": "en"
+      },
+      "date": "2023-05-24T23:51:48Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/x34ln2_mN2OJbzm-g2vCTw/o.jpg",
+          "caption": "Bread that comes with meal at a super cool table in my opinion."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Pj-sOY_aYF6AcSy-1TrhZQ/o.jpg",
+          "caption": "Stop the presses. Best cauliflower I've ever had. For real."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EURGZW6RQH-atmTORf4xtA/o.jpg",
+          "caption": "Falafel and hummus. Delish."
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Cory R.",
+        "user_id": "CQuPNZJ0CCv03SUuPRM2Gw",
+        "link": "https://www.yelp.com/user_details?userid=CQuPNZJ0CCv03SUuPRM2Gw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/d1gYMH1OFCMsAcyAJq_AEQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1049,
+        "photos": 654,
+        "reviews": 184,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Came for our annual Friendsgiving Dinner. I've been to the one in Sandy Springs before and loved it. Therefore, I decided to plan ours here. This one is so nice and and elegantly decorated. Our server was great and knowledgeable about the menu. Unfortunately I forgot her name but she was in her mid 20s and wore glasses. \n\nI had the Chilean Sea-bass which was mouthwatering and irresistibly delightful on my tastebuds. The rice was so good that I took some home to go! Also, we all shared several appetizers which were all great and included the Falafel, Lamb Ribs, Salmon Hummus, and Zeytoon among other things. \n\nThis place is agregar spot for date night and midsize groups. Can't wait to come back for some more!",
+        "language": "en"
+      },
+      "date": "2022-12-17T14:42:19Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tfu_HYNssxgRhpTXif_vUw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Sn9Ooug4YtNQndedUor8Nw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_0QqnRjD3RbuRLB4W-XKAQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nncFKQ4CbCpCzCWIRCxWdg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rene B.",
+        "user_id": "XBmskUPnX7eTZEqaDdsx2A",
+        "link": "https://www.yelp.com/user_details?userid=XBmskUPnX7eTZEqaDdsx2A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/E6tAHVkVmQz6LjoaGwvBsw/180s.jpg",
+        "address": "Brooklyn, NY",
+        "friends": 131,
+        "photos": 2326,
+        "reviews": 702,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Making my way through the menu!\n\nThe hummus is on point!!!\nSalmon hummus\nMushroom hummus- love!!!!\nCharred tomatoes- always delish \n*ordering these mean lots of creamy textures.\n\nLamb kebabs- good but miss the sauce from other dishes.\nSoltani kebab",
+        "language": "en"
+      },
+      "date": "2022-10-23T16:31:51Z",
+      "rating": 4,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9e2VJVsvc9Bcxj-uQj8S9w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/h0pPKaU97FOruoW4A6A1Ew/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E3-xtobcICcO5azZYMklTg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DRjtHjqYP75g1WAWAdSDsw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/b5mvZ6GFbkUXe9aoUd96lw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tbxM3thRMB-de-qekKC7Qg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0nkeh21G1JXTJE-3wAmQ5Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XQrY8whQuAxtSD0RRuEtYw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jessica C.",
+        "user_id": "aYmmyYbQYtGD7JzeVZuCKg",
+        "link": "https://www.yelp.com/user_details?userid=aYmmyYbQYtGD7JzeVZuCKg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bk-xs1nnYd_zxwsRAnZrOQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 23,
+        "reviews": 37
+      },
+      "comment": {
+        "text": "BEAUTIFUL location! \nThis was my second visit to Rumi's, but first time at this particular location.\nThe corn ribs are to die for! Highly recommended this place for a date night/girls night or even just to grab a drink. They also offer complimentary valet parking! Will definitely be returning soon.",
+        "language": "en"
+      },
+      "date": "2023-11-06T17:10:40Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kathryn T.",
+        "user_id": "wZ0AkUZQmB3qMF1e2vYJvw",
+        "link": "https://www.yelp.com/user_details?userid=wZ0AkUZQmB3qMF1e2vYJvw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dEuksM-RstgxtpBWXSs59w/180s.jpg",
+        "address": "New York, NY",
+        "friends": 378,
+        "photos": 4184,
+        "reviews": 675,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Easily one of the best meals I had in Atlanta with an extensive and delicious menu. \n\nHere's what you need to know:\n1. Reservation highly recommended.\n2. The ambiance and decor are absolutely top notch. It's easily one of the most beautiful spaces in the area. \n3. The food and portion sizes are great. There was plenty to share.\n4. Excellent cocktails.\n5. The herbs and lavesh at the beginning of the meal really make this place extra special.\n\nRumi will soon be a go-to anytime I'm in Atlanta.",
+        "language": "en"
+      },
+      "date": "2023-04-08T21:47:44Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Sade C.",
+        "user_id": "t-uLfmgyT_6Eav_BCWtxog",
+        "link": "https://www.yelp.com/user_details?userid=t-uLfmgyT_6Eav_BCWtxog",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0hpdV4-SBdGA-WvJwNkFxQ/180s.jpg",
+        "address": "Hawthorne, CA",
+        "friends": 7,
+        "photos": 61,
+        "reviews": 44
+      },
+      "comment": {
+        "text": "I was fortunate enough to dine here last night for a first date. The food is delicious. It was well seasoned, came out hot and fast. Our server was polite and suggested all the good things. For my first time in the restaurant, I wouldn't change a thing. I will be back.",
+        "language": "en"
+      },
+      "date": "2023-11-05T01:32:20Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cDpzt4YQI0vdU_-ZNfKFYw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hL9iVe9k9v2HM8zr5iouig/o.jpg",
+          "caption": "Chilean sea bass"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kevin P.",
+        "user_id": "z3_cA4v4ylB8ndPc681V3w",
+        "link": "https://www.yelp.com/user_details?userid=z3_cA4v4ylB8ndPc681V3w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SWnUNd6Zs58lIt6q13bUyQ/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 86,
+        "photos": 331,
+        "reviews": 341
+      },
+      "comment": {
+        "text": "This was a perfect Birthday weekend. We did a staycation at the AC Hotel and met family &friends here for a birthday dinner. Started with the lamb  Lahmacun and Mirza Ghasemi (smoked eggplant). Both were exceptional and I'm not a huge eggplant fan but this was off the chart good. Roasted salmon was cooked to perfection and this big eater had to take some home due to the large portion size. Lamb rack was delicious as was the Chilean Sea Bass and we got a couple of vegetables and we all ended up taking some home. \nService was impeccable and the EDM soft background music was just the right audible. Lively mix of atmosphere and resonably priced especially due to the size and superior quality of the food.",
+        "language": "en"
+      },
+      "date": "2023-06-18T10:38:18Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_5CqEar3HWsY766nkugntQ/o.jpg",
+          "caption": "Takeout"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jasmine J.",
+        "user_id": "cA4S3MAQInY5YRMTVf0voQ",
+        "link": "https://www.yelp.com/user_details?userid=cA4S3MAQInY5YRMTVf0voQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hOEIBaKsU5wvNXthd2UH0g/180s.jpg",
+        "address": "Queens, NY",
+        "friends": 34,
+        "photos": 297,
+        "reviews": 132,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place is awesome! The exterior is gorgeous with oversized doors and the interior vibe also picture worthy. Visited early Sunday evening & the restaurant was busy within minutes. We made reservations online thankfully and we were seated immediately. Our server was over shortly, super energetic & helpful. She explained the menu in detail and gave us some suggestions.\n\nWhat we ordered;\n\nChermoula Eggplant\nGrilled Vegetables\nChicken Kabob\nLamb Kabob\nChilean Sea Bass \nRoasted Salmon.\n\nLiterally everything was delicious! The shirin rice is unbelievable. My party was well pleased & have already returned. Definitely a must try in colony square.",
+        "language": "en"
+      },
+      "date": "2022-10-22T05:20:06Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/T_SgQhs356iSJKEh8rUM6g/o.jpg",
+          "caption": "Grilled vegetable"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jghd1sn9f7PfRuO_3CpSRw/o.jpg",
+          "caption": "Chicken Kabob"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wMMuUpxq1I0zOH4hHEC8XQ/o.jpg",
+          "caption": "Roasted Salmon & Shirin"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Zaria D.",
+        "user_id": "q-WH8qvCCoQjbaZ6yxf9AA",
+        "link": "https://www.yelp.com/user_details?userid=q-WH8qvCCoQjbaZ6yxf9AA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/G6LKlVOppnSnQeFIFKIecw/180s.jpg",
+        "address": "Chattanooga, TN",
+        "friends": 152,
+        "photos": 877,
+        "reviews": 414,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Went for a birthday celebration. Had reservations. Parking is self or valid. No street parking. Seems to be a busy area. \n\nWe had to wait awhile despite reservations. Once seated we had a great server and trainee. They took our orders and answered question. I had the Chicken Barg with charred onion, citrus, saffron, basmati rice along with the corn ribs. Overall the food was really tasty. Those corn ribs were amazing. I was asking for the receipt for the seasoning. \n\nAlthough I was there for a special occasion, I would return for sure.",
+        "language": "en"
+      },
+      "date": "2022-10-29T03:10:06Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Us72fJVLepqut0zpXwX6iQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5RcDthsrFzjU7mB3F8jSOg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ryla S.",
+        "user_id": "UUw9BAJIgo_RP-QJiUQHKQ",
+        "link": "https://www.yelp.com/user_details?userid=UUw9BAJIgo_RP-QJiUQHKQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rOO-oDWB40mPqrS3gUgMjg/180s.jpg",
+        "address": "Lake Wylie, SC",
+        "friends": 13,
+        "photos": 2,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Ambiance, food, and service was wonderful! Had no complaints! Definitely recommend trying this place out!",
+        "language": "en"
+      },
+      "date": "2024-01-15T03:23:34Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chelsea L.",
+        "user_id": "fsMZ1E_qsgEhYRsPHJ-IDg",
+        "link": "https://www.yelp.com/user_details?userid=fsMZ1E_qsgEhYRsPHJ-IDg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/h3UPRBnRPm3KPW4rUihzVQ/180s.jpg",
+        "address": "New York, NY",
+        "friends": 164,
+        "photos": 8,
+        "reviews": 35
+      },
+      "comment": {
+        "text": "Absolutely loved my experience here! When I first walked in I was awed by how the restaurant looked. It was very modern and I felt like I was being transported to another world. I had my birthday dinner here and would recommend you have one too! Reservations are highly recommended as it get busy really quickly. \n\nThe bar was the first place I went to and the drinks menu had a variety of options. I had the Sabzi Tonica and Tehran Mule and those were both delicious and were decorated beautifully. \n\nThe food menu also had a lot of options. From a variety of meat, seafood, and hummus. I ordered the falafel, lamb merguez hummus, roasted crimini & oyster mushroom hummus, duck fesenjoon, lamb rack, and roasted salmon. Both hummus dishes were so delicious and flavorful, the lamb was cooked perfectly in the hummus and really meshed well together. I am a big fan of mushrooms and the mushroom hummus was a five star for me. The falafel was great and its served with beets, torshi, hummus, etc. The duck, lamb, and salmon was cooked to perfection and all were flavorful. The salmon and lamb was a fan favorite at our table. We ordered this much food family style for a group of 7 people and we were all very stuffed at the end of the meal. \n\nFor dessert, we were gifted persian ice cream sandwiches and they were delicious. It is a vanilla ice cream that has saffron flavor in it. This is an acquired taste for most people but I really like saffron and enjoyed it.  \n\nThe service was immaculate, our waitress was Sofiia and she was very knowledgeable about the menu and was very welcoming.  \n\nThis place is definitely a place you should stop at if you are visiting or even living in Atlanta.",
+        "language": "en"
+      },
+      "date": "2023-09-18T20:12:06Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Elizabeth B.",
+        "user_id": "9W-iglac9XFVRw_Dl9J1ww",
+        "link": "https://www.yelp.com/user_details?userid=9W-iglac9XFVRw_Dl9J1ww",
+        "address": "Midtown, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Just had a fabulous meal here! Yeshua gave wonderful suggestions from appetizers to dessert, and we enjoyed them all.   The patio was also lovely.  Really fun place!",
+        "language": "en"
+      },
+      "date": "2024-03-03T00:41:06Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Venie N.",
+        "user_id": "Q2u2dim_zEF3dWGEmYE__Q",
+        "link": "https://www.yelp.com/user_details?userid=Q2u2dim_zEF3dWGEmYE__Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2JRVKZLQm5YDAUOiJu-06Q/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 22,
+        "photos": 147,
+        "reviews": 68,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Make reservations!! I came here at 8pm on Thursday night and I was so glad we made reservations because it's very busy. I loved the vibe of the restaurant but I did find it to be very loud and the tables are very close together so you constantly hear other people's conversations. The food was great though! The crispy potatoes and the roasted cauliflower were my favorites. The labneh is always so good too! I had the Shazdeh Garden cocktail and it was very refreshing. \nOur server, I think his name is Daniel, was full of positive energy and was great at explaining the food to us and making sure we enjoyed everything. He was really great and very nice. \nI parked at the deck in Colony Square and had my ticket verified but I still paid $22 which I think is a lot. Our server recommended next time to valet because it's cheaper!",
+        "language": "en"
+      },
+      "date": "2022-11-13T01:45:14Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/G5tj9DY0ZDXhVQgIm5uZaw/o.jpg",
+          "caption": "Labneh Charred Tomato"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NZoUyId7BiUqADSfaw2B-A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SOSt87-jRnF2ijbJScd1aw/o.jpg",
+          "caption": "Shazdeh Garden"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Maysam N.",
+        "user_id": "ulUFO5Jd30qLz8XHqxScMg",
+        "link": "https://www.yelp.com/user_details?userid=ulUFO5Jd30qLz8XHqxScMg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xUtYaGdaxmwwwxdRhXDYBA/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 0,
+        "photos": 28,
+        "reviews": 46
+      },
+      "comment": {
+        "text": "Without exaggeration the Rumi's kitchen is the best Persian restaurant I ever been to. If you are looking for a Mediterranean food, that should be your first choice. Here are a few tips for the first timers:\n- traditionally all Kabobs are grilled on open fire, so they are well done. If you prefer another temperature make sure to ask your server. For some kabobs such as koobide, that is the only temperature, because pink ground meat is not common. \n- all cocktails are great, my personal favorites are the handsome lion and the promised land. \n- normally kabobs are served with rice but if you want to cut carbs, I recommend to replace your rice with grilled veggies or Shirazi salad. \n- Persian kabobs are served with a spice called Somak. Make sure you sprinkle a little bit on your kabobs. Not too much! \n- in general you find the foods savory, because of usage of lime juice and somak",
+        "language": "en"
+      },
+      "date": "2023-08-09T13:12:06Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KAdic3DyD8ctAqScjIldwA/o.jpg",
+          "caption": "Kabob torsh with grilled vegetables (a savory food)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gz0DMr6XlXObisdHOzwHBw/o.jpg",
+          "caption": "Soltani kabob with Shirazi salad"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jonathan K.",
+        "user_id": "KjOLEj6uoZq8h01B4rZmZg",
+        "link": "https://www.yelp.com/user_details?userid=KjOLEj6uoZq8h01B4rZmZg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lCZgvGDMiAh-Sj9ZgUaWHw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 218,
+        "photos": 502,
+        "reviews": 219,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "If you are part of the royalty back in the days of the Persian Empire, I'm guessing this is the type of food you ate everyday. Unfortunately because I am a peasant, I could only afford eating this food on special occasions. I took my parents here when they were visiting because legend across Atlanta has raved about the quality of food and service here. I decided to come and experience legend myself and I was extremely impressed.\n\nFirst of all, the food here is just absolutely amazing! We ordered a bunch of appetitizers including lahmacun (lamb flat bread), falafel, crispy potatoes with raddichio, grilled vegetables, and labne charred tomato. Every single appetizer was freaking amazing! My favorite one was definitely the labne charred tomato. It looks heavy, but was very refreshing and light to taste. For entree, I got the lamb kabob and my parents got the chicken kabob. The lamb kabob came with a different type of rice, which contained raisin. Personally, I liked the rice with the lamb kabob better just because the raisin gave the rice a slightly sweeter taste that went super well wit the charred aroma of the lamb. For dessert, we got saffron ice cream sandwich and Rumi's tart. The saffron ice cream came with 4 decently sized pieces (picture only shows three because our waiter accidentally dropped one onto the table lol). I didn't get chance to try Rumi's tart because I was so full by the time we got dessert, but my dad said that the tart was amazing.\n\nThe service here is also very attentive and detail-oriented. They waited for us to finish our appetizers before serving the entree just so that the food is fresh at every point of the dining process. They changed our utensils between appetizers, entree, and dessert. My parents told the waitress that they were sharing the chicken kabob. The waitress conveyed this to the kitchen who then made two mini-chicken kabob plates. I have not seen this level of service at any other restaurants. \n\nUp until now, my favorite Mid-eastern restaurant in Atlanta has been Delbar, but Rumi's Kitchen easily beats Delbar in a long run. It's been a while since I've had such a phenomenal dining experience. As far as Mid-eastern food goes, Rumi's Kitchen tops all the places I have tried so far. Period. \n\nParking is hell in Midtown. That being said, they do have valet parking and the restaurant validates it, so it's essentially free.",
+        "language": "en"
+      },
+      "date": "2023-05-12T20:57:27Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FjmWMS-mEeQRqrYmYVWbRw/o.jpg",
+          "caption": "Falafel"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/p1Axv9YR5G4sW0r8Cw7Ttw/o.jpg",
+          "caption": "Lahmacun (lamb flatbread)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SJDb7asjUiRU_dD9Bg20hQ/o.jpg",
+          "caption": "Lamb Kabob"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zDKZennHF5D2v_6K6INv9w/o.jpg",
+          "caption": "Grilled Vegetables"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sabriyah A.",
+        "user_id": "1ZSgiM5DpN0qVxZFTrmrbw",
+        "link": "https://www.yelp.com/user_details?userid=1ZSgiM5DpN0qVxZFTrmrbw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4KD-HA2DRLIQGRNIs2XSZQ/180s.jpg",
+        "address": "Snellville, GA",
+        "friends": 2,
+        "photos": 50,
+        "reviews": 44
+      },
+      "comment": {
+        "text": "Food here is so much better than the one it avalon. They also have more menu options and the ambiance/ interior is soo beautiful.",
+        "language": "en"
+      },
+      "date": "2024-01-14T02:36:32Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alex P.",
+        "user_id": "XNPwLVwHPyrOaEQA_sI1wg",
+        "link": "https://www.yelp.com/user_details?userid=XNPwLVwHPyrOaEQA_sI1wg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DYve49ehlw6uHB755TD-fQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 877,
+        "photos": 3790,
+        "reviews": 1242,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Establishing itself as a premier middle eastern restaurant over a long period in the original Sandy Springs location, Rumi's became a favorite for many Atlantans. For many years, it was perhaps the only middle eastern place that had an environment that would work for a Friday night dinner date or an outing requiring a higher level of service and ambiance.\n\nThe new location in Colony Square steps it up a few notches, bringing not only the same spectacular food, but a stunning interior design to match. It feels otherworldly stepping into this arched, minimalistic, contemporary Mediterranean design. Finishes and furnitures are a piece of art, distinguishing Rumi's by a big margin from any other middle eastern establishment in the city, likely for years to come.\n\nThe food is all around spectacular. Gheimeh stew is my personal favorite. Kebobs are wonderful. And the little complimentary starter snack of young fresh walnuts (rare find) and fresh mint is such a great touch.\n\nAll around, Rumi's consistently hits the spot on many levels. It's unique, insanely delicious and beautiful.",
+        "language": "en"
+      },
+      "date": "2022-09-02T22:14:31Z",
+      "rating": 5,
+      "tags": [
+        "7 check-ins"
+      ],
+      "feedback": {
+        "useful": 14,
+        "funny": 4,
+        "cool": 11
+      }
+    },
+    {
+      "user": {
+        "name": "Ashley K.",
+        "user_id": "-nqKpArRhkYyN5EEeraFqQ",
+        "link": "https://www.yelp.com/user_details?userid=-nqKpArRhkYyN5EEeraFqQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/v7zIj8W7M5GpRC1xlvXsyw/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 24,
+        "photos": 1007,
+        "reviews": 109,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Stopped by for an early weekday dinner around 5pm. It started getting very packed around 6pm. \n\nFOOD: \nChilean Sea Bass ($47) - It was very rich in flavor, almost a little overwhelming, but had a soft texture. It was subpar compared to other places and more fishy than I would've liked. \n\nLamb Kabobs ($36) - A bit gamey, but the cook on it was really good. The chef recommends a medium cook for this. Pairs well with sumac, so make sure to ask for it if you get this dish! \n\nKunefe ($12) - I've been looking for a place that sells this so had to try it when I saw it in the menu. It's crispy shredded filo pastry dipped lightly in syrup with a layer of cheese in between and I believe clotted cream. I enjoyed it, but think it would've been a lot better if it was sweeter, either with ice cream, whipped cream, or more syrup. The cheese in between makes the dish too savory to call it a dessert in my opinion and felt a little too heavy after a couple bites. \n\nSERVICE:\nService was okay. Our waitress was busy and she tried her best to stop by as much as she could given all the tables she had. There were a couple miscommunications though because she was busy and kept leaving the table so fast. I had asked if we could replace the rice for the meat entrées, since I had done this at the Avalon location. She said yes and left without saying anything else so I assumed it would be the same, so I was surprised when I was charged an extra $10 for it. But I guess this is a lesson to double check, even if it is the same franchise. \n\nThis is not about service, but the meat entrées would be so much better if they came out on warmed plates. The food gets cold extremely fast. I would hope the food stays warmer for longer considering how much they're being charged for. \n\nOverall, I was a bit disappointed in the taste aspect here, was underwhelmed, and felt that it was not worth what I paid for. I would give it a try to make your own judgements if you wanted to try Persian food.",
+        "language": "en"
+      },
+      "date": "2022-10-20T02:11:29Z",
+      "rating": 3,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9Tys2bO69DaZk20L7wSFkg/o.jpg",
+          "caption": "Menu as of 10/19/2022"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EL3xq-Vo3SIV65uWwM7kxg/o.jpg",
+          "caption": "Menu as of 10/19/2022"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/F5pTnSNZyXhHmIWDxXRK7w/o.jpg",
+          "caption": "Top: Chilean Sea Bass ($47) & Lamb Kabobs ($36), Bottom Left: Crispy Potato Tahdeeg Basmati Rice ($10), Bottom Right: Herb Basmati Rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PODHtciCAnd1T825Gbsdlw/o.jpg",
+          "caption": "Kunefe ($12)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aFKKadfVjaGarRANgevXAQ/o.jpg",
+          "caption": "Kunefe ($12)"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Heidi F.",
+        "user_id": "Wdk-y_JxzBNQfBWL7-u7Qg",
+        "link": "https://www.yelp.com/user_details?userid=Wdk-y_JxzBNQfBWL7-u7Qg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WoYpGx4HFwyuw3vEo-6MCw/180s.jpg",
+        "address": "Santa Cruz, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 17
+      },
+      "comment": {
+        "text": "Good and flavorful dishes.  I've heard about Rumi's and it's worth the hype. A must try.",
+        "language": "en"
+      },
+      "date": "2024-01-28T06:06:24Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Melissa D.",
+        "user_id": "WKWGKmh8C7tdjWqGQA9NSw",
+        "link": "https://www.yelp.com/user_details?userid=WKWGKmh8C7tdjWqGQA9NSw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Q9ZUuJ-HFAWod8pUW6-1NQ/180s.jpg",
+        "address": "Roswell, GA",
+        "friends": 449,
+        "photos": 8,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Rumis is by far one of my favorite restaurants in Atlanta. The food is amazing. The drinks, the vibe. Colony square location is relatively new but it's very central conveniently located if you live in midtown or want to grab a bite before or after an event. It is a little pricey but the portions are large. 100% recommend the hummus with lamb. Just trust me. Sounds weird but you won't regret it",
+        "language": "en"
+      },
+      "date": "2024-02-02T05:37:34Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=1-6iSpedEBn1mBHGpRNkZg&start=70"
+  }
+}

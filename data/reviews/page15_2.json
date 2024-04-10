@@ -1,0 +1,1644 @@
+{
+  "search_metadata": {
+    "id": "65f09f4c4055aaa1fb3bc2b2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f09f4c4055aaa1fb3bc2b2.json",
+    "created_at": "2024-03-12 18:30:36 UTC",
+    "processed_at": "2024-03-12 18:30:36 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/U9SK3eMMp1_MqLbRF8XjSQ?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f09f4c4055aaa1fb3bc2b2.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f09f4c4055aaa1fb3bc2b2.prettify",
+    "total_time_taken": 10.71
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 140,
+    "num": "50",
+    "place_id": "U9SK3eMMp1_MqLbRF8XjSQ"
+  },
+  "search_information": {
+    "total_results": 607,
+    "business": "Botiwalla by Chai Pani"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 607
+    },
+    {
+      "hl": "es",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Sarah R.",
+        "user_id": "UQgyI69_p7gj2JQmie8Ymw",
+        "link": "https://www.yelp.com/user_details?userid=UQgyI69_p7gj2JQmie8Ymw",
+        "address": "Downtown, Dallas, TX",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "Chicken gonna wrap and green mango chaat 10/10. Long line--worth it. Mango lassi was just right.",
+        "language": "en"
+      },
+      "date": "2023-05-21T13:46:37Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chantay C.",
+        "user_id": "PRJHBJxD0ECDk6iwaHm05Q",
+        "link": "https://www.yelp.com/user_details?userid=PRJHBJxD0ECDk6iwaHm05Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/etxAuRMrVXxgOXqp2N4LvQ/180s.jpg",
+        "address": "Augusta, GA",
+        "friends": 79,
+        "photos": 1154,
+        "reviews": 132,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I love the Ponce City Market...\nIf you're hungry there's some great  restaurants here as well as shopping... \nThis particular visit I Wanted a salad and WOW! this little Indian Street grill nailed it! I ordered The Desi with Chicken Tikka and boy was it delicious and crunchy with a little kick of spice. My drink was one of their Boozy Slushes which hit the spot on a hot day.. \nI definitely plan on revisiting this awesome place. They offer inside/outside seating and my service was great!",
+        "language": "en"
+      },
+      "date": "2019-06-17T00:45:37Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tq-ob8PGy3BvmoNZFdfDUg/o.jpg",
+          "caption": "Desi Salad with Chicken Tikka Pina Cola Boozy Slush"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Avi R.",
+        "user_id": "ZzPWBvoRd4h3b67TzgrCYg",
+        "link": "https://www.yelp.com/user_details?userid=ZzPWBvoRd4h3b67TzgrCYg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8Ofj9Xk2v0qaMJE9c-i91A/180s.jpg",
+        "address": "Alpharetta, GA",
+        "friends": 44,
+        "photos": 1080,
+        "reviews": 425,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Located in Ponce city market!\n\nThe menu options are limited but good for quick grabs.\n\nWe have ordered chicken tikka roll and panner roll. Both came out quickly and tasted decent (Wasnt great). The food portions are small.\n\nPrices aren't bad for ponce and service was decent. Seating is limited inside but there are tables outside across the hall!",
+        "language": "en"
+      },
+      "date": "2019-11-01T21:45:42Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/d9dkryC6FpE4bkbgGAHgiQ/o.jpg",
+          "caption": "Chicken tikka roll"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mikayla B.",
+        "user_id": "BGuB_fOukuJrbuAepct4EQ",
+        "link": "https://www.yelp.com/user_details?userid=BGuB_fOukuJrbuAepct4EQ",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Now, I'm not normally a review writing person. However, this place definitely deserve some praise!! I've been coming here for about 4 years now and every time I come, they're always consistent with their customer service, their slushy recipes, and taste and flavor of the food!!! I will never stop coming here, so good!",
+        "language": "en"
+      },
+      "date": "2023-05-05T22:44:25Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Natasha M.",
+        "user_id": "7TSqyX4nWfUu_ZAMYVrqXg",
+        "link": "https://www.yelp.com/user_details?userid=7TSqyX4nWfUu_ZAMYVrqXg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vt8jTjskXtkc1h8_u9ynJw/180s.jpg",
+        "address": "Dunwoody, GA",
+        "friends": 117,
+        "photos": 285,
+        "reviews": 151
+      },
+      "comment": {
+        "text": "I came to Ponce for a little adventure. And I found this gem. Everything was very flavorful the ribs were tender and sweet (not super sweet) and the lamb roll as well. If you love hot hot get the tamarind sauce in the side. The spdp was different, but still good. The sauces make it cold but it's tasty.",
+        "language": "en"
+      },
+      "date": "2021-10-30T21:50:23Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dGsQHc47qC32P5OKiUa2rw/o.jpg",
+          "caption": "Inside rules"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xs0V6G_mPSrU3glJEBnB_g/o.jpg",
+          "caption": "Tamarind Glazed Spare Ribs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/i7oJyS7pziRynccK3TYiFw/o.jpg",
+          "caption": "Lamb Boti Kabob Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LnhFq9Bt-f4Zes5qhtjk1w/o.jpg",
+          "caption": "SPDP"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Briana M.",
+        "user_id": "RUtzv153n35ZHDfNpv8odg",
+        "link": "https://www.yelp.com/user_details?userid=RUtzv153n35ZHDfNpv8odg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gwsa5gh6z5TlJeI_OT3_KA/180s.jpg",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 119,
+        "photos": 5,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "I never leave reviews The food is fresh an appoint the lamb is tender And let's be very clear I do not eat Indian food but I eat Indian food now five stars house I live here so I'm a tough critic !!",
+        "language": "en"
+      },
+      "date": "2022-09-21T01:16:53Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jin Sol K.",
+        "user_id": "vHbgwA4DF5KsumTsqdMLwg",
+        "link": "https://www.yelp.com/user_details?userid=vHbgwA4DF5KsumTsqdMLwg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UNtidFhs8TyE4HzFLkF2Yg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 5,
+        "photos": 83,
+        "reviews": 69
+      },
+      "comment": {
+        "text": "I have had chicken tikka curry before but never rolled up like a sandwich in naan. The wrap was very tasty, but a bit dry for my taste - I may have needed some more yogurt sauce on top. The decoration in the restaurant is very lively, which makes the experience much more fun!",
+        "language": "en"
+      },
+      "date": "2021-10-13T00:29:00Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-jSnUeveWit7iFzrE4j46g/o.jpg",
+          "caption": "Chicken Tikka Roll"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jane M.",
+        "user_id": "16c91F4TZSA_WjO4XmsBMg",
+        "link": "https://www.yelp.com/user_details?userid=16c91F4TZSA_WjO4XmsBMg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Avx9oPIwNCvGut39Y4JlMg/180s.jpg",
+        "address": "Seattle, WA",
+        "friends": 233,
+        "photos": 3866,
+        "reviews": 745,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Love their chai (Irani high tea) so damn good and refreshing just the beverage you want to have to re-energize you and keep running through the mall.. they do have good apps.. smells good we tried their chai platter which came with Parle G biscuits, milk rusk, potato wedges (nicely flavored with just the right spices).. i will be back to try their lamb burger, impossible burger, and a few more apps cos this place did seem good and they know how to pack all flavors in a package and make delicious food.. recommend them to add more chaat flavors especially stuff like Pani Puri, Pav Bhaji, Bhel Puri to attract all street food lovers.. good to visit if you are looking for some quick bite and chai in Ponce City Market..",
+        "language": "en"
+      },
+      "date": "2020-11-29T01:03:58Z",
+      "rating": 3,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E4kYjDaDquHrZLsmrgSwLQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7EUt5zsbPz7VoV2LiFmvpA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cV1d5IVNlXCx1ZRy4JB3nQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IefBVqZJQeQCkoMVgqf00Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-lwJ2M0oiTsH-tixJAlYpg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ethan S.",
+        "user_id": "hmd_fEl6vDMlk7AGMOV2WA",
+        "link": "https://www.yelp.com/user_details?userid=hmd_fEl6vDMlk7AGMOV2WA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wpz7MBhZkx5c50thtpEtGA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 17,
+        "photos": 88,
+        "reviews": 79
+      },
+      "comment": {
+        "text": "Come here for elevated Indian street food with great flavor and a nice indoor and outdoor seating area. I had the paneer tikka roll which had large paneer chunks with a firm texture and a slightly spicy kick to the sauce. Wrapped in a warm naan bread this was a perfect afternoon snack after a nice walk on the beltline. Add an Indian craft beer and there's not much else you could ask for.",
+        "language": "en"
+      },
+      "date": "2021-07-11T04:27:43Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M4OEaayG0ZiZROgdkv8F5g/o.jpg",
+          "caption": "Paneer Tikka Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ghGYgzP7ajH2q93TP7Um5g/o.jpg",
+          "caption": "A refreshing beer while waiting on the food"
+        }
+      ],
+      "feedback": {
+        "useful": 5,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chef RaNeisha M.",
+        "user_id": "-_uAJoD6Sg5188Y364xbMw",
+        "link": "https://www.yelp.com/user_details?userid=-_uAJoD6Sg5188Y364xbMw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/E8uD4ls6Gr0yqcbiE8_3dA/180s.jpg",
+        "address": "Memphis, TN",
+        "friends": 60,
+        "photos": 567,
+        "reviews": 124,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I LOVE EVERTHING about Botiwalla! The boozy slushies. The masala potatoes, THE CORN BHEL, the FREAKING LAMB BURGERS are of two BEST I've had in Atlanta! PERIOD! It's such a cool hang out spot! Not much room indoors, but there's plenty of seating out on the patio with other neighboring eateries! Botiwalla is a must try and I hear they have some other dope locations! \n\nUpdate: I think everyone was off work today! We can tell that there have been some changes made to some of our favorites! The lamb burgers seem pre-made and lack the original grill flavor. The koladas had some kind of bite to them that made them very unpleasant to drink. I ended up ditching my meal and drink half way through and leaving! Sucks!",
+        "language": "en"
+      },
+      "date": "2019-08-04T01:31:29Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UAQ5GcWUXO8_8x55lQhhZA/o.jpg",
+          "caption": "Mango Lassi Pineapple Turmeric Soda"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SsL65NW4K5BrVfRCmF6smQ/o.jpg",
+          "caption": "Corn Bhel"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uLqmketXSIg6qK1nLOCLuw/o.jpg",
+          "caption": "Kashmiri Tri-tip Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5dPQBjcYla70l8v3pnlUtQ/o.jpg",
+          "caption": "Botiwalla Lamb Burgers"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NfBC0OKfAwlYsEU35uzPzg/o.jpg",
+          "caption": "Masala Smashed Potatoes Corn Bhel Botiwalla Lamb Burgers Chicken Tikka Roll"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kristina S.",
+        "user_id": "M5hpmcsv2QFvghtGWDU8Qg",
+        "link": "https://www.yelp.com/user_details?userid=M5hpmcsv2QFvghtGWDU8Qg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yF3i_90kCn43h1mnQcUOEg/180s.jpg",
+        "address": "Chicago, IL",
+        "friends": 225,
+        "photos": 214,
+        "reviews": 177,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I've been to Chai Pani in Asheville, and I came in with the expectations of there. Chai Pani is one of my favorite restaurants ever, so that was very high standards. I had gotten their chicken tikka sandwich when I was in Asheville, and it was so good I ordered it here at Botiwalla. It was slightly different than the chai Pani take, and I prefer the Chai Pani version. I also had a mango lassi, which was very good! I would definitely get the mango lassi again. \n\nI liked the design of the Asheville location more too. This one you could tell that you are within a market/mall, which had its benefits but made it noisy. Very similar decor to other locations.",
+        "language": "en"
+      },
+      "date": "2019-04-12T18:11:54Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/96cRJaGleC8dY_6Nkiho1g/o.jpg",
+          "caption": "Chicken tikka sandwich and mango lassi"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Nelli B.",
+        "user_id": "3mWPo1H3HjIgjKWZt3NjcQ",
+        "link": "https://www.yelp.com/user_details?userid=3mWPo1H3HjIgjKWZt3NjcQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZibnYz0eF1mUBYoYzjK9NA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 136,
+        "photos": 561,
+        "reviews": 400,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Finding the gem in Ponce City Market was the best introduction to Atlanta I could have asked for. Delicious, fresh, quality Indian street food. I love the chai, mango lassi, chicken tikka roll, and masala potatoes (with spicy ketchup - omg) are my favorites so far but I'll be trying other things.",
+        "language": "en"
+      },
+      "date": "2021-06-26T17:28:17Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Kinjal S.",
+        "user_id": "tbUg9DFMDvcIb_3NxJupcg",
+        "link": "https://www.yelp.com/user_details?userid=tbUg9DFMDvcIb_3NxJupcg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AirxyowB_-rMfvSQwMCrog/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 345,
+        "photos": 495,
+        "reviews": 401,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "So I got the paneer tikka wrap and the tamarind cola. However my paneer tikka wrap fell out of the bag. Both ends of the bag broke. I was so excited to eat it because it smelled so good. It seemed well seasoned too. It also came with yogurt sauce. The tamarind cola was amazing. I loved every last drop of it. It wasn't a strong cola taste and the tamarind came through. I felt like I was in India again, reliving my childhood trips. The decor is awesome as well. \n\nI'm sad I didn't get to eat the paneer tikka wrap. If you go, eat in there so you don't have to deal with the same issue that happened to me.",
+        "language": "en"
+      },
+      "date": "2019-06-07T21:40:05Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LeveWztd_q-s63nnb4k3aA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LZcpNQAo9nbaq46Y4nrPVQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Asoka E.",
+        "user_id": "0e3M1JCZgIQtLaJnFj9H0g",
+        "link": "https://www.yelp.com/user_details?userid=0e3M1JCZgIQtLaJnFj9H0g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gq5TTKEwuQQjNhpZH5ITlA/180s.jpg",
+        "address": "Brea, CA",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "Love the food my fav is chicken both kabab. A lot of time fusion food are a touch and go but this place did it very well and balanced the sauces and spices to blend in a beautiful flavor. Definitely fun food to eat . Would have loved if Uber is a bit earlier especially with delivery fees a lot of time despite that early order food doesn't come on time",
+        "language": "en"
+      },
+      "date": "2022-10-01T21:27:07Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Heather F.",
+        "user_id": "Hqh3__TgG8hNSGnnmuEYhQ",
+        "link": "https://www.yelp.com/user_details?userid=Hqh3__TgG8hNSGnnmuEYhQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/defV-yT0VLGWYDEdvjyPyQ/180s.jpg",
+        "address": "Tampa, FL",
+        "friends": 648,
+        "photos": 2154,
+        "reviews": 738,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Very tasty restaurant in Ponce city market. It's a fast concept Indian restaurant. What drew me here was the flavors and the healthy options they offered.\n\nI ordered the curry chicken salad. It was very flavorful and a big portion. I ordered extra naan on the side and the naan was very fluffy and delicious. They mostly have the wraps and the salad on their menu. The salad wasn't spicy to me either so this is safe for people who are not used to spicy foods.",
+        "language": "en"
+      },
+      "date": "2018-08-24T16:28:59Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NADQor7w_rDrvIqgcSzn7g/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 6,
+        "funny": 1,
+        "cool": 4
+      }
+    },
+    {
+      "user": {
+        "name": "Krysten I.",
+        "user_id": "Dfu-NuG1YWB96jjBLIlsrA",
+        "link": "https://www.yelp.com/user_details?userid=Dfu-NuG1YWB96jjBLIlsrA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ECpyEw5_6X1Enf4vAUtaGg/180s.jpg",
+        "address": "Honolulu, HI",
+        "friends": 821,
+        "photos": 3731,
+        "reviews": 2356,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Apparently, Botiwalla has a \"real\" brick and mortar store elsewhere in Atlanta, but this little \"take out\" location in Ponce Market food hall fit the bill just perfectly. \n\nAfter looking over the menu and reading some reviews, I decided to get the lamb sliders. They were great. I'd suggest getting something else from somewhere else in Ponce and splitting the sliders (with a side of fries) with a friend, because they literally give you two little burgers (like McDonald's cheeseburger sized). \n\nI also tried some Lays masala chips, which were interesting and the potato filled bread appetizer, also interesting. I really liked the green sauce that came on a few of the dishes and used some of my friend's sauce for my burgers. \n\nIn addition to naan wraps and lamb burgers, they also offer mango lassi and alcoholic beverages. \n\nMy only complaint is that they close exactly at 8pm on Sundays. Just don't be late!!",
+        "language": "en"
+      },
+      "date": "2018-09-03T17:33:46Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 4,
+        "funny": 2,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Jimmy M.",
+        "user_id": "EOiPi_Za17PBVJwrNqvOyA",
+        "link": "https://www.yelp.com/user_details?userid=EOiPi_Za17PBVJwrNqvOyA",
+        "address": "Ohio City, Cleveland, OH",
+        "friends": 11,
+        "photos": 1,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Chicken tikka roll = most bussing food i have ever eaten. Great atmosphere too. Love the music. Friendly staff too. Highly recommend",
+        "language": "en"
+      },
+      "date": "2023-03-26T06:05:45Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lisa T.",
+        "user_id": "i2CbMNgQSRt2RvvLGeQwsQ",
+        "link": "https://www.yelp.com/user_details?userid=i2CbMNgQSRt2RvvLGeQwsQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RLRVd1B_TMCvt7zkQuRlyw/180s.jpg",
+        "address": "Fullerton, CA",
+        "friends": 17,
+        "photos": 1426,
+        "reviews": 186,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "$6 SPDP (SEV POTATO DAHL PURI) - crunchy outside with a COLD potato inside topped with chutney and yogurt sauce. Tasty, but I wasn't expecting the dish to be COLD!",
+        "language": "en"
+      },
+      "date": "2020-10-04T20:23:04Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/blGN8aOiJdJYOhy61Ex3mw/o.jpg",
+          "caption": "$6 SIGN GOT ME! IT'S A COLD DISH. Be warned."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_rUGV6zVTLSU1C_0_JTMRA/o.jpg",
+          "caption": "$6 SPDP (Sev Potato Dahl Puri) it's tasty, but it's a COLD dish! Be warned. Also took 10 min because it was sitting on the counter."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jamie Y.",
+        "user_id": "_uL51ynVWPLwKkZyXnDyzg",
+        "link": "https://www.yelp.com/user_details?userid=_uL51ynVWPLwKkZyXnDyzg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/N8vPG41jta16xNlIHC-prQ/180s.jpg",
+        "address": "New York, NY",
+        "friends": 703,
+        "photos": 569,
+        "reviews": 156
+      },
+      "comment": {
+        "text": "Dahi Puri was the best!! They tone down the spiciness level by a lot but the flavors and dishes are all incredible.",
+        "language": "en"
+      },
+      "date": "2021-10-22T18:55:07Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/U2p8orFDUjj03kR7mIjzJQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Priya K.",
+        "user_id": "wgTnikQuhuDlDdv810LuHQ",
+        "link": "https://www.yelp.com/user_details?userid=wgTnikQuhuDlDdv810LuHQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Nbb7XXfPt5526JN7IsXbow/180s.jpg",
+        "address": "Philadelphia, PA",
+        "friends": 553,
+        "photos": 15,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "AMAZING SPECTACULAR WONDERFUL. The paneer roll was a good size, the paneer was super tender, and the flavors were incredible. The masala potatoes were simple but the Maggi sauce added a nice kick, and I loved that they sell Indian classics like the Magic Masala Lays. Highly recommend to anyone who likes food.",
+        "language": "en"
+      },
+      "date": "2022-03-12T20:33:44Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8clnPWDO_gYJWrOgMOS0sw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lxP8MwwbU7aGQdNKcU7AtA/o.jpg",
+          "caption": "Paneer Tikka Roll"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kelsey K.",
+        "user_id": "985g85yQwhzTXoahpR8p4A",
+        "link": "https://www.yelp.com/user_details?userid=985g85yQwhzTXoahpR8p4A",
+        "address": "Manhattan, New York, NY",
+        "friends": 0,
+        "photos": 8,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "An amazingly unexpected lunch in Ponce City Market! We ordered the Masala Potatoes (delicious smashed and fired fingerling potatoes), Paneer Tikka Wrap (amazing vegetarian option!) and Tamarind Spare Ribs (fall off the bone incredible!!!) Such flavorful food. \n\nWe will definitely be back!",
+        "language": "en"
+      },
+      "date": "2021-08-01T00:45:13Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Zain K.",
+        "user_id": "sVy5pmUN2J0sE2AzmgoBvw",
+        "link": "https://www.yelp.com/user_details?userid=sVy5pmUN2J0sE2AzmgoBvw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ySSsmAf06C2tOZkt1RYrXg/180s.jpg",
+        "address": "Hollywood, FL",
+        "friends": 503,
+        "photos": 433,
+        "reviews": 1339,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My chicken tikka wrap ($10) was delicious. I did find myself wanting more vegetable content besides the small amount of slaw; maybe some tomato and cucumber would have balanced out the spice a little. Regardless, I enjoyed it. Contrary to a couple of reviews here, the chicken itself was plenty tender.\n\nIt took 15-20 minutes to receive my order on a semi-busy evening, hence the one-star penalty.",
+        "language": "en"
+      },
+      "date": "2019-01-02T03:59:56Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/I9LYTD1vqW-hvzuYUzgX4A/o.jpg",
+          "caption": "Tikka wrap ($10)"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Cristall G.",
+        "user_id": "sRnza3AQoM-8lbdgYcFpyw",
+        "link": "https://www.yelp.com/user_details?userid=sRnza3AQoM-8lbdgYcFpyw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gWgZ8jiQav73HQQ303msZQ/180s.jpg",
+        "address": "Brooklyn, NY",
+        "friends": 145,
+        "photos": 244,
+        "reviews": 143,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Walking around in Ponce City Market my sister and I stumbled on this place.  We had the impossible burger.  It was amazing. This is an Indian inspired place so the burger was seasoned with cumin, ginger, mint and cilantro. Topped with a slaw and green chutney sauce.  Listen!!!! Get into it!!! It was AMAZING. Staff were really nice and service was reasonably timed.",
+        "language": "en"
+      },
+      "date": "2020-09-04T21:29:25Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vyu8NH48WMgknh_3m1nZ6w/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Angel M.",
+        "user_id": "TMAEyqlosKXxwL3SuuD--g",
+        "link": "https://www.yelp.com/user_details?userid=TMAEyqlosKXxwL3SuuD--g",
+        "address": "Las Vegas, NV",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "This was great place, honoring Indian street eats. The chicken tikka roll comes piping hot(temperature) and is very filling. The desk salad is towering and splittable between 2 people. Their chai is just the right amount of spice and sweet and it comes complimentary with Parle g cookies. I do wish they had samosas but it's understandable why their menu is limited; given the location and style of the food hall.",
+        "language": "en"
+      },
+      "date": "2023-01-26T01:35:17Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jasmin W.",
+        "user_id": "sINYL_oa6OtmynijxbYFgQ",
+        "link": "https://www.yelp.com/user_details?userid=sINYL_oa6OtmynijxbYFgQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OFv6IpfavzZW8JpdqDm7Hg/180s.jpg",
+        "address": "GA, GA",
+        "friends": 1,
+        "photos": 46,
+        "reviews": 27
+      },
+      "comment": {
+        "text": "My boyfriend and I went on a date to Ponce City Market and decided to try something new. I was a little hesitant at first because I'm a picky eater but decided to try it. The restaurant is a little pricey but it is totally worth it! Not only is the food delicious but the ambiance sets the perfect vibe. The vintage art work in the cafe and the Indian music make it feel so cultured and cozy. I absolutely loved the food! I tried a Malai chicken roll and my bf tried the Lamb kabob roll. We also both ordered their chai tea which came with these delicious cookies! I absolutely loved everything and would recommend anyone looking to try something new or someone who loves Indian food to check out Batiwalla Cafe!",
+        "language": "en"
+      },
+      "date": "2022-03-02T06:15:19Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kv7siM6B6W9zsUDz-86twg/o.jpg",
+          "caption": "Malai Chicken Roll, Lamb Boti Kabob Roll, and Chai tea"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lisa H.",
+        "user_id": "De8koO26NgVx9GkII-bgwg",
+        "link": "https://www.yelp.com/user_details?userid=De8koO26NgVx9GkII-bgwg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JHiyE-ftSQD7IOEsMtORxg/180s.jpg",
+        "address": "Queens, NY",
+        "friends": 244,
+        "photos": 520,
+        "reviews": 1254,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I kinda wrote off Botiwalla after trying them once but decided to give them a second chance and was glad I did!\n\nFirst off, if you aren't a cilantro consumer, be warned that there are lots of dishes here that contain the herb. Be sure to request no cilantro upon ordering, and you should be okay.\n\nThe initial visit, I'd gotten the chicken tikka roll ($10.49), and the meat was kind of dry, and the roll just seemed okay overall. The naan really stood out in my mind however. Very fresh and soft and just buttery enough. \n\nThe subsequent time, I ordered the desi salad with chicken tikka ($11.49, other options available) which was delightful. The cumin-lime vinaigrette was plentiful and added a brightness to the salad. The chicken tikka was not dry and was a little zippy but wouldn't set your mouth aflame. I liked the crunchy colorful cabbage along with cashews and sev (those tiny crunchy noodles). Portion sizes are actually reasonable, given that you're in pricey Ponce City Market. \n\nI have to say the customer service is exemplary here. The women taking my orders are happy to help with any questions or special requests. The fellas handing me my to-go orders smile and wish me well, unlike the guys at some other PCM restaurants that just respond to your \"Thank you\" with silence and blank faces. Botiwalla is also efficient at preparing orders; you'll likely only wait a few minutes. To pass the truncated time, I peruse the sundries for sale in the festive dining area. Looking forward to sipping on a mango lassi my next visit!",
+        "language": "en"
+      },
+      "date": "2020-03-22T17:24:32Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 4,
+        "funny": 3,
+        "cool": 4
+      }
+    },
+    {
+      "user": {
+        "name": "Lynn V.",
+        "user_id": "w7tLSZajurhMzvXc_t6p5w",
+        "link": "https://www.yelp.com/user_details?userid=w7tLSZajurhMzvXc_t6p5w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bmgC4UvH0o7MQiH2rY-VFA/180s.jpg",
+        "address": "Diamondhead, MS",
+        "friends": 36,
+        "photos": 9,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "My bf and I went to Ponce first r the first time and stopped by Botiwalla. The food was delicious!",
+        "language": "en"
+      },
+      "date": "2021-12-24T16:12:08Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w_o3mu8r8C_kWXVwyMx02A/o.jpg",
+          "caption": "Inside"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jNct8KEJWuxTpZxVREI3kg/o.jpg",
+          "caption": "SPDP"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jacklyn K.",
+        "user_id": "PGnnQDGfFIwhIrHJlhCqGg",
+        "link": "https://www.yelp.com/user_details?userid=PGnnQDGfFIwhIrHJlhCqGg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0EhL3LbJWdTuqlzeAagokA/180s.jpg",
+        "address": "Poughkeepsie, NY",
+        "friends": 183,
+        "photos": 622,
+        "reviews": 323,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I eat Indian food on the regular and I've gotta say Botiwalla is a meal I'll remember for a long time! I love the street food style- a lot more convenient when taking it to go and makes sense logistically in the food market. The SPDP appetizer was INSANITY- soooo delicious and creamy and flavorful. I hardly even knew what I was eating and I was so in love! Decent sized portion for the price as well! I will think of these little puffs for the rest of life. The masala smashed potatoes were tasty but kind of just potatoes, we thought they could use a little more spice but we enjoyed them none the less. We also had the tandoori fired veggie kebab. Naan was just right and the veggie was just saucy and flavorful enough without being messy or overwhelming. Food was out quick and we would definitely be back!! Perfect option at Ponce City Market!",
+        "language": "en"
+      },
+      "date": "2021-07-23T23:30:35Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Anne S.",
+        "user_id": "Yid91pHeslR2WGKPIhcuVg",
+        "link": "https://www.yelp.com/user_details?userid=Yid91pHeslR2WGKPIhcuVg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/iu8TSoBgDUkaYOatHNfX2Q/180s.jpg",
+        "address": "Fayetteville, GA",
+        "friends": 101,
+        "photos": 1115,
+        "reviews": 253,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Loved the Indian food! My friend and I was pleasantly surprised. The food was very authentic. And the atmosphere was great! We sat at a little table to the side inside the restaurant. The veggie kabob was great and the sauce was yummy. We also had the lamb burger and the lays Marsala Chip! Man I loved the chips and the Indian coke!!",
+        "language": "en"
+      },
+      "date": "2020-06-17T00:11:07Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TizrJ9G69tWKS-i7scOxiw/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/q8eI0Hyh2j2j9R__gILc3Q/o.jpg",
+          "caption": "Tandoori Fire Veggie & chips"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UKZpNThwNEdvWYueBkZ0hg/o.jpg",
+          "caption": "Lamb Burger"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9W_jn1lJdoU_HswXCReRgw/o.jpg",
+          "caption": "Lays Marsala Chips & Indian Coke"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Alexis B.",
+        "user_id": "h7p-GuaHFGsiKCF4g6Bjqg",
+        "link": "https://www.yelp.com/user_details?userid=h7p-GuaHFGsiKCF4g6Bjqg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rKTC0C3D1LnOlG317W7AQw/180s.jpg",
+        "address": "Baltimore, MD",
+        "friends": 2778,
+        "photos": 15836,
+        "reviews": 3980,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Indian street food in Ponce City Market? Why not? I stopped in at Botiwalla on a Saturday around lunchtime. PCM was bonkers. Crowded, packed, sardines, can't walk. But Botiwalla was pretty chill. AND they had boozy slushies, so I was sold. \n\nI got a boozy slushie (they do not skimp on the booze) and the specials: garlic naan and chili paneer. Everything was good. The paneer was delicious and quite spicy, and the naan and the slushie cooled me down. \n\nDefinitely a nice lunch!",
+        "language": "en"
+      },
+      "date": "2018-05-14T13:18:06Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xFSw-y90BTGR0SUAFitX-A/o.jpg",
+          "caption": "Boozy slushie"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8mkbCXbV6FJJoUTlGRsRsg/o.jpg",
+          "caption": "Boozy slushie"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/280nhY4Ng-6mhy6XRLmQTw/o.jpg",
+          "caption": "Chili paneer and naan"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R8rM1Erf5C0IzuFgnnHYwA/o.jpg",
+          "caption": "Chili paneer and naan"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Himanshu A.",
+        "user_id": "ZfU48-qMvhVp4Q4mMU0jWA",
+        "link": "https://www.yelp.com/user_details?userid=ZfU48-qMvhVp4Q4mMU0jWA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YV591tBHVK3AuNTrp2xegQ/180s.jpg",
+        "address": "London, United Kingdom",
+        "friends": 0,
+        "photos": 16,
+        "reviews": 38
+      },
+      "comment": {
+        "text": "Limited vegetarian options was my only thing to nit pick for this place. We had SPDP, paneer roll and impossible burgers and all were delicious! Quick service and a lively ambience. Plus they serve tea with ParleG. I mean you gotta love some ParleG biscuit with your cardamom tea!!",
+        "language": "en"
+      },
+      "date": "2021-11-29T15:56:39Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3nUYyAhf_5jxtmOY9kUauA/o.jpg",
+          "caption": "Tea"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Anne-Olive N.",
+        "user_id": "bFWsqjsOkGuqY-W-wTKp4w",
+        "link": "https://www.yelp.com/user_details?userid=bFWsqjsOkGuqY-W-wTKp4w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/C-70hDU8luZES_7Zriav2Q/180s.jpg",
+        "address": "Silver Spring, MD",
+        "friends": 200,
+        "photos": 227,
+        "reviews": 97,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I ordered the lamb boti kabab roll and let me tell you, it was worth every dollar! indian food is generally pricey so I expected to pay more than I would for regular lunch. The meat was tender, well marinated, with soft butter naan, yum! I also got the frozen alcoholic drink which was good and stronger than I expected  would love to try other items if I was ever back in the area!",
+        "language": "en"
+      },
+      "date": "2020-07-05T18:27:18Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WOX2exPPPap34cLH7GoSPw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Josefine V.",
+        "user_id": "CE2b_CsdJb9TWHMLbW1_6A",
+        "link": "https://www.yelp.com/user_details?userid=CE2b_CsdJb9TWHMLbW1_6A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-ddf2DTaegtWYQsvtUZJSA/180s.jpg",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 206,
+        "photos": 29,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "Loved the Masala Potatoes!!! They were nicely seasoned !  \nHad some chai tea with it  \n(Made fresh from the pot )",
+        "language": "en"
+      },
+      "date": "2021-01-30T22:27:38Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FpMvJtxc-EaUUN_d1bHbiQ/o.jpg",
+          "caption": "Masala potatoes and chai tea"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Olivia K.",
+        "user_id": "ouYEgplAre2GMP2jyfVobg",
+        "link": "https://www.yelp.com/user_details?userid=ouYEgplAre2GMP2jyfVobg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wnbLmJOcL2qzvRHbCZCOhg/180s.jpg",
+        "address": "Boston, MA",
+        "friends": 250,
+        "photos": 90,
+        "reviews": 105,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "OK, if you're at Ponce City, you have got to check this place out! My usual order here is the Chicken Tikka Roll, and it does not disappoint! The chargrilled boneless chicken seasoned with yogurt, lime juice, and other spices wrapped around a warm buttery naan. YUM! Their menu consists of Indian Street Food, and you can find yourself experiencing real depths of flavors here! It's a great place for grab n go, especially with COVID. Although some menu items might require an acquired taste, never hurts to be a little adventurous!",
+        "language": "en"
+      },
+      "date": "2021-05-02T04:35:02Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "G G.",
+        "user_id": "o3kivHTrhQR8OTpwcgBiMQ",
+        "link": "https://www.yelp.com/user_details?userid=o3kivHTrhQR8OTpwcgBiMQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2tyPuqboupjmvktzLJ8FIw/180s.jpg",
+        "address": "Philadelphia, PA",
+        "friends": 2,
+        "photos": 2,
+        "reviews": 33
+      },
+      "comment": {
+        "text": "Great vibe and music. Food was fantastic - spdp chaat, paneer tikka and lamb kabob wraps.mango lassi was great as well. Highly recommend.",
+        "language": "en"
+      },
+      "date": "2022-06-06T12:45:53Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Toni W.",
+        "user_id": "lyPhoS2kNDhT7kh9NfTMLw",
+        "link": "https://www.yelp.com/user_details?userid=lyPhoS2kNDhT7kh9NfTMLw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LshgzNH_Ni1NyIJmtq__Vg/180s.jpg",
+        "address": "Norcross, GA",
+        "friends": 264,
+        "photos": 3388,
+        "reviews": 300,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "How have I not reviewed this spot?! It is amazing!\n\nThe desi salad is amazing. I've had the tikka paneer and the tikka chicken desi salad, and both were fantastic. Both have a bit bit of heat and LOADS of flavor. The salad includes red and white cabbage, pickled daikon, carrots, scallions, sesame seeds, scallions, spiced cashews and cumin-lime dressing. The portions are large - I always leave feeling overly full. I want to try everything on the menu, but the salad is so delicious, I seem to order it every time I visit. I promise to order something different next time (I'm looking at you SDPD, masala potatoes, and wraps).\n\nThe high tea is also excellent if you visit between 3 and 5. What a great set-up for catching up with a friend over incredible chai and biscuits. If only I could find time to squeeze this ritual into every day, my life would be so much richer (maybe I could aspire to attend high tea once a month?). \n\nThe shop also sells Spicewalla spices, tea and tea biscuits, tiffin boxes, t-shirts, and more.",
+        "language": "en"
+      },
+      "date": "2017-12-31T20:24:28Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/e25GwnpdA303yu3Vu-DuPw/o.jpg",
+          "caption": "Chicken Tikka Desi Salad"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 2,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Paul P.",
+        "user_id": "JsVhiQuGRPeBWHQptSGfOw",
+        "link": "https://www.yelp.com/user_details?userid=JsVhiQuGRPeBWHQptSGfOw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/C4XtNG9KJmjN5WfUhJ1_Gw/180s.jpg",
+        "address": "Alpharetta, GA",
+        "friends": 23,
+        "photos": 940,
+        "reviews": 228,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "You can't go wrong with most of the food places at the Ponce City Market. This is definitely one of them. Although I did not get a chance to explore more than one dish during this trip, it was a sign of goodness at its best. Salad with tri-tip was simply awesome. Full of rich flavors and a unique dressing to go with i\nService - 4/5\nFood - 4/5\nAmbience - 4/5",
+        "language": "en"
+      },
+      "date": "2018-08-04T19:24:51Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lMI_CkvKDBcBM5KPgXllag/o.jpg",
+          "caption": "Tri-tip salad with cashews, lentil critters and green dressing"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Elizabeth C.",
+        "user_id": "LNGLo-Q_CfO1pxjjqdRQ5Q",
+        "link": "https://www.yelp.com/user_details?userid=LNGLo-Q_CfO1pxjjqdRQ5Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vvGvIdhiGo4fEc9PmIIJvA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 137,
+        "photos": 17,
+        "reviews": 692,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I knew Botiwalla was going to be good because I'm a big fan of Chai Pani (their sister restaurant)....but WOW they entirely exceeded my already high expectations. Honestly, I never come to PCM because it's usually so crowded but now I might consider braving the crowds just to hit that Botiwalla again. \nWe had the masala smashed potatoes, I had the lamb boti kabab roll, and my dinner buddy had the paneer tikka roll. We also got the mango pickle to add some spice to our rolls. \nHonestly, after finishing dinner I actually considered going back to get another naan wrap/roll. Thankfully they had already closed by that time so I didn't have to test my nonexistent self control. \nThe lamb was unbelievably tender, the desi slaw was crisp and added some tangy balance to the richness of the meat, and topping each bite with raita (the yogurt sauce) and the mango pickle made each bite nearly ecstatic. I couldn't stop talking about how good it was for hours. And that isn't even their most popular dish! \nThe mango pickle is slightly spicy and adds a lovely acidity to whatever you're eating. My dinner buddy really liked his paneer tikka roll as well. \nI am already plotting when I can next go to Botiwalla to try more things. Save me from myself...",
+        "language": "en"
+      },
+      "date": "2021-05-16T21:39:37Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ashantae W.",
+        "user_id": "U3xVCkxzWNyLa7ypl1oFEg",
+        "link": "https://www.yelp.com/user_details?userid=U3xVCkxzWNyLa7ypl1oFEg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2QKmsgJNhMAL9I0Mly_7eA/180s.jpg",
+        "address": "Cumming, GA",
+        "friends": 6,
+        "photos": 330,
+        "reviews": 127
+      },
+      "comment": {
+        "text": "Stopped by for a meal after visiting Ponce for an afternoon and the food here was hot, fresh, and delicious! We loved it! Definitely something different - flavorful and filling.",
+        "language": "en"
+      },
+      "date": "2021-06-03T01:25:51Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LKck_Vcz-MG2gYyt3ysdEg/o.jpg",
+          "caption": "Botiwalla Lamb Burgers"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NWejtQuhD0lt8xbafN0j_w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bXO5z75P-UGJoh6Ce1Lhww/o.jpg",
+          "caption": "Chicken Tikka Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/A-cfsuIMilr_aWnLXBD_pA/o.jpg",
+          "caption": "Masala Smashed Potatoes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OdVAydxZ5ToCPrvUvUdmng/o.jpg",
+          "caption": "Lamb Boti Kabob Roll"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sydney D.",
+        "user_id": "IfzfDt_En9ynp5dia3YUOA",
+        "link": "https://www.yelp.com/user_details?userid=IfzfDt_En9ynp5dia3YUOA",
+        "address": "University of Tennessee, Knoxville, TN",
+        "friends": 545,
+        "photos": 1,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "The lamb wrap is the best food I've ever had. Every time I come to Atlanta for work, I come here instead of trying new places because it is THAT good. I always bring people with me whether it's coworkers or friends, and it's always their first time & they agree it's one of the best meals ever. The flavor is PERFECT along with the preparation of the lamb. I also like the marsala potatoes but the lamb wrap is what really does it for me. There's no better food in Atlanta or really anywhere in my opinion that top this place!!",
+        "language": "en"
+      },
+      "date": "2022-08-29T16:17:06Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Mariam M.",
+        "user_id": "RLd8ryWshihqEcUuaY4fIA",
+        "link": "https://www.yelp.com/user_details?userid=RLd8ryWshihqEcUuaY4fIA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GlIDEbMakFd9zSzwIqL5dg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 10,
+        "photos": 85,
+        "reviews": 46
+      },
+      "comment": {
+        "text": "First experience and it was delicious! The beef wrap was great! So much flavour and not too spicy!",
+        "language": "en"
+      },
+      "date": "2022-04-11T15:11:17Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Valeria B.",
+        "user_id": "o5sCTj7YwzNrHIOsngEInQ",
+        "link": "https://www.yelp.com/user_details?userid=o5sCTj7YwzNrHIOsngEInQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/H2oc5GezRfoKRW1fV8x1sA/180s.jpg",
+        "address": "Miami, FL",
+        "friends": 177,
+        "photos": 349,
+        "reviews": 225,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Delicious Naan Wraps with very flavorful chicken/beef. Service was also great. Only drawback is the price. These are not very elaborate cuisines. They are essentially \"street food\" for a regular entree price.\n\nI do recommend you it a try along with one of their adult slushies.",
+        "language": "en"
+      },
+      "date": "2018-05-28T18:01:47Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/i8VW0E6tf8iYtBqbc76DLQ/o.jpg",
+          "caption": "Naan."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nyMkGaQS9CG_Fvy9mOsayA/o.jpg",
+          "caption": "Steak Wrap"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/crCSZegu1A8wqXpxsizCJw/o.jpg",
+          "caption": "Chicken Tikka Wrap"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/H5htMP-sJs7Lj-XsrORAMg/o.jpg",
+          "caption": "Alcoholic slushies delicious. The KurKuro are like cheetos with a finish kick of spices."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Yosselin N.",
+        "user_id": "ytGBdQuh4mZokybP1__CEw",
+        "link": "https://www.yelp.com/user_details?userid=ytGBdQuh4mZokybP1__CEw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4-YifcAnHFGn02QXhKo3rA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "I got the Malai Chicken Roll and it was amazing! I also got the tamarind soda. The roll was tasty with and the sauce on the side made it even better.",
+        "language": "en"
+      },
+      "date": "2021-10-16T01:26:00Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Y4pXQM-Hyq9Bar8Rk1_ktQ/o.jpg",
+          "caption": "Malai Chicken Tikka Roll"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Heather R.",
+        "user_id": "ObO4r_CINsByp7VDNe6t8w",
+        "link": "https://www.yelp.com/user_details?userid=ObO4r_CINsByp7VDNe6t8w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BMe9EnR_iPYXJCcB6TzWPw/180s.jpg",
+        "address": "Bartlett, Memphis, TN",
+        "friends": 123,
+        "photos": 1,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Oh em gee! This place exceeded my expectations exponentially. I ordered the chicken tikka wrap and my husband got the lamb burgers. Everything from the sauce, to the chicken, to the pita wrap were absolutely delightful! I finished it in about 0.5 second lol. We received our food in a very timely manner. We also ordered the passion fruit slushies, which were bomb! I highly recommend this place to anyone exploring the Atlanta area. A++++!",
+        "language": "en"
+      },
+      "date": "2022-05-02T17:20:29Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ruhi B.",
+        "user_id": "pjb-K8S7BSt86F-18o2sKw",
+        "link": "https://www.yelp.com/user_details?userid=pjb-K8S7BSt86F-18o2sKw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/IHa0cFdXKiK65LeqtI46iQ/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 470,
+        "photos": 191,
+        "reviews": 165,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place was a huge disappointment. I was really excited to go based on Yelp Reviews and the photos I saw. The restaurant tries to compensate for their bad food with aesthetic and ambience, since the restaurant is very picturesque and has a lot of memorabilia from India. I ordered the paneer naan roll and it was terrible, the roll lacked any flavor (which is ironic since they market their spices so much) and the paneer was cut into 2 huge blocks, making it hard to eat. The food wasn't even that warm. I tried the chai and it's doused with sugar, and the restaurant does not have a sugar free option. Overall, I would not come back. If you're coming here for the first time, and are pretty intent on trying something here, I'd try some of their snack foods instead of a meal - perhaps you'd get better luck.",
+        "language": "en"
+      },
+      "date": "2019-12-22T01:48:47Z",
+      "rating": 2,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/V2-aGCWf7p6qdXUH-Ja23w/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Megan C.",
+        "user_id": "_gIEB_Oz0OotU8X5aXr4tg",
+        "link": "https://www.yelp.com/user_details?userid=_gIEB_Oz0OotU8X5aXr4tg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ectVAjHgzFyMLfeaZL9_Nw/180s.jpg",
+        "address": "Chicago, IL",
+        "friends": 291,
+        "photos": 669,
+        "reviews": 507
+      },
+      "comment": {
+        "text": "Really lovely spot in the market that you can tell is run well and with love. The cabbage salad with paneer took me places! The takeout meal included a nice note from the business - that attention to detail is awesome. The green sauce on the salad was very flavorful and complemented the paneer and veggies perfectly. I would absolutely come back to eat here next time I'm in town!",
+        "language": "en"
+      },
+      "date": "2020-11-22T17:12:30Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IkSvT-zxp1VNG5F1qwowmA/o.jpg",
+          "caption": "The salad with paneer omg it is outstanding!!!!!"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Teryl R.",
+        "user_id": "Re6f3phIH5oIVlXAd4oBnA",
+        "link": "https://www.yelp.com/user_details?userid=Re6f3phIH5oIVlXAd4oBnA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XkTU7AyAnjWY6eH4hviLBQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 175,
+        "photos": 243,
+        "reviews": 78
+      },
+      "comment": {
+        "text": "Very refreshing and fulfilling. Great service and clean. Complimentary water was available. Great choice to pick from with so many choices at Ponce City Market. Great quality service and food.",
+        "language": "en"
+      },
+      "date": "2021-07-06T22:05:00Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/B0qDVK6thBJMbxVnp8pvOQ/o.jpg",
+          "caption": "Fish Tikka Wrap"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ORIzcQZ8ceV-lUrTBv7ZPQ/o.jpg",
+          "caption": "Chicken Tikka Roll  Pineapple Turmeric Soda"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "vic c.",
+        "user_id": "79cnTZ6_-RrmytKcqRDgng",
+        "link": "https://www.yelp.com/user_details?userid=79cnTZ6_-RrmytKcqRDgng",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wKPXDXrEAWbiNxbmNdUyLg/180s.jpg",
+        "address": "San Diego, CA",
+        "friends": 2,
+        "photos": 0,
+        "reviews": 26
+      },
+      "comment": {
+        "text": "Like a gyro but so much better.  Randomly stopped in and I was not disappointed. Wife and I had the Tika roll and another that wasn't spicy- the spicy was better but both were so good. Definitely coming back to try the burgers.",
+        "language": "en"
+      },
+      "date": "2022-04-14T20:45:58Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jamarcus T.",
+        "user_id": "K8VSrOOCdXS9VX5S66W4GQ",
+        "link": "https://www.yelp.com/user_details?userid=K8VSrOOCdXS9VX5S66W4GQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qNXp7QsgIMXdTCxVXAvM-w/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 624,
+        "photos": 7512,
+        "reviews": 1642,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Being my first time inside Ponce City Market, I walked up and down the food court area multiple times, stood in various lines, and at the end of the day, it was the smells and photos on yelp that sent me to Botiwalla.\n\nBotiwalla is an Indian street food restaurant, just a little bit jazzed up/modernized, and it shows, because as often as I hit Indian restaurants, the menu was a breath of fresh air, since I recognized very little of the dishes on the menu.\n\nI did decide to give their Desi Salad with steak tri tips ($11.99) a shot, and based on staff suggestion, I also tried their SPDPs ($4.99).  So what did I think?\n\nThe Desi Salad came with shredded cabbage (red and white), scallions, carrots, roasted cashews, cilantro, sev and came topped with sesame seeds (I left these off) and was \"infused\" with a cumin-lime vinaigrette.  Intermixed were chopped pieces of steak.  Right off the bat, i'll give them their due on the vinaigrette, because each and every fork full was flavored with the vinaigrette, and I enjoyed it.  Sadly, I thought the steak tri tips were kinda dry and super chewy...like jerky type chewy, and that really dinged the dish for me.\n\nThe SPDPs, or Savory Puffed flower crisps were stuffed with potato, onion, cilantro, and chickpea noodles.  They're then piped with sweet yogurt, green and tamarind chutney, and came with 4 pieces.  Listed under their CHAAT dishes, they described these finger foods as dishes where you'd have to chaat (lick) your fingers afterwards.  They are not lying, because as I took a bite of one, all of the insides came rushing out, both in my mouth and all over the place, since it seemed to be just liquid in a fried cup.  I learned the second time and just popped the entire crisp in my mouth and not taking a bite of it.  Flavor wise though,  the SPDPs weren't bad..but they also weren't great\n\nCustomer service at Botiwalla was just fine and there's a decent amount of seating both inside the restaurant, outside seating and also common seating areas in the food court.  Service is fast as well, as I got my dish in less than 5 minutes.\n\nPrice is the other elephant in the room.  When you order a salad and 4 crisps, it stings a bit to pay $18 for that, and in truth, were the prices 10 bucks cheaper, Botiwalla would've definitely received a star more from me.  But when dishes start creeping up to $20, I start becoming more critical.\n\nI didn't have a bad time at Botiwalla, I just thought everything was okay, and for the price, I kinda expected more.  I may be back in the future to give them another shot and change my score, but admittedly, it may be a while.",
+        "language": "en"
+      },
+      "date": "2017-05-28T03:38:46Z",
+      "rating": 3,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pOvip9nuKhuq7_DUbChaPg/o.jpg",
+          "caption": "Interior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bnG5IsyiLdGbGv81DTOPPA/o.jpg",
+          "caption": "Menu 1"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/d8caYH3ut4jjCnAiSUzaXw/o.jpg",
+          "caption": "Menu 2"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hYsuVYmfp-WV6AluppSGtA/o.jpg",
+          "caption": "Menu 3"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JAmK3pWCICBYllIAasNFPA/o.jpg",
+          "caption": "Desi salad with steak tri tips"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qx17lk77r5YO7X-o_DC7HA/o.jpg",
+          "caption": "SPDPs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Lp3wmSTnBEA6SYdLg7ocgA/o.jpg",
+          "caption": "SPDPs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/H8fQeRgwhLfkf_cG7ecwyQ/o.jpg",
+          "caption": "Inside the SPDP"
+        }
+      ],
+      "feedback": {
+        "useful": 26,
+        "funny": 23,
+        "cool": 22
+      }
+    },
+    {
+      "user": {
+        "name": "Tiffany H.",
+        "user_id": "Wt-dSc-L33pKiQ4mdZv3nQ",
+        "link": "https://www.yelp.com/user_details?userid=Wt-dSc-L33pKiQ4mdZv3nQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/IjhHapt6Zp-SgiyzISsSMQ/180s.jpg",
+        "address": "Charlotte, NC",
+        "friends": 3782,
+        "photos": 3036,
+        "reviews": 997,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "They serve one of the best lamb burgers that I have ever had it was so delicious! I am rarely in the area, but this is something that you should definitely try and a highlight and staple to this community. I stumbled into this place on accident because I was starving and wanted something quick to eat I came to the right place.  They gave me two reasonably sized delicious patties that fill me up so the portions were good the price was decent. And to cool me off from the summer heat I had a nice refreshing tropical beverage. The food is fresh and tasty.",
+        "language": "en"
+      },
+      "date": "2019-05-26T01:06:43Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/olTyFvukAYRjctQ323O7hw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M9hPh9hBs0a9QPIsG9XrAA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Lgh20WKSVOd1k-RvDoL0yg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EucHupnA9Hv-AXHClxFbvw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UK02mXXr3iFLa2h3e5yGiw/o.jpg",
+          "caption": "Lamb burger so good"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YlUAeRfB3AtM4_6HsPLtEg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 10,
+        "funny": 2,
+        "cool": 10
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=U9SK3eMMp1_MqLbRF8XjSQ&start=190"
+  }
+}

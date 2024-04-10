@@ -1,0 +1,1912 @@
+{
+  "search_metadata": {
+    "id": "65f0a0ce5c1059bbceb07633",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f0a0ce5c1059bbceb07633.json",
+    "created_at": "2024-03-12 18:37:02 UTC",
+    "processed_at": "2024-03-12 18:37:02 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/W2uLX3tc3YrhKKxEIPRmAw?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a0ce5c1059bbceb07633.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a0ce5c1059bbceb07633.prettify",
+    "total_time_taken": 2.22
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 150,
+    "num": "50",
+    "place_id": "W2uLX3tc3YrhKKxEIPRmAw"
+  },
+  "search_information": {
+    "total_results": 3350,
+    "business": "Georgia Aquarium"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 3350
+    },
+    {
+      "hl": "de",
+      "count": 10
+    },
+    {
+      "hl": "nl",
+      "count": 1
+    },
+    {
+      "hl": "fr",
+      "count": 2
+    },
+    {
+      "hl": "it",
+      "count": 1
+    },
+    {
+      "hl": "es",
+      "count": 3
+    },
+    {
+      "hl": "zh",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Bri H.",
+        "user_id": "BZgN7erwGK5Muh8o6xm-9Q",
+        "link": "https://www.yelp.com/user_details?userid=BZgN7erwGK5Muh8o6xm-9Q",
+        "address": "Florissant, MO",
+        "friends": 0,
+        "photos": 22,
+        "reviews": 38
+      },
+      "comment": {
+        "text": "It's a little pricey but I feel like it was worth the price. There are several places to get great photos. The sharks and belugas were our favorite parts. We spent a good 3 hours here. I definitely recommend planning to spend bare minimum two hours. The staff were all nice and the place was clean (even the bathrooms). They also have a cafe on the top floor with food, alcoholic beverages and sweets.",
+        "language": "en"
+      },
+      "date": "2024-02-09T16:48:49Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Krystal J.",
+        "user_id": "UX7B2GTYAi7wMzYNIFbA4A",
+        "link": "https://www.yelp.com/user_details?userid=UX7B2GTYAi7wMzYNIFbA4A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fk64TYdyA31VZAvXz1vb4Q/180s.jpg",
+        "address": "FL, FL",
+        "friends": 90,
+        "photos": 724,
+        "reviews": 181,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "AMAZING! Great family trip or date night , by yourself, whatever the case , if you enjoy making life this is a great place. We used the \"Atlanta City pass\" so for the price this was included and a for sure no brainer. I took an insane amount of video and pictures, loved this so much !!! We made it in time for their holiday decor , so pretty !!!",
+        "language": "en"
+      },
+      "date": "2022-11-12T17:56:11Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/g6JqZKjv69E_YS7Okg9axA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jEphnJV-zLM98aKXgipDuQ/o.jpg",
+          "caption": "Rays touch tank"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/V1CqZCVywrR2TNI7NYGCOQ/o.jpg",
+          "caption": "Hammerhead shark"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Ted H.",
+        "user_id": "zSg7H-dvSRMcuHwtmaw7-Q",
+        "link": "https://www.yelp.com/user_details?userid=zSg7H-dvSRMcuHwtmaw7-Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2ATKBdVXfreValvGIv6fUg/180s.jpg",
+        "address": "Milton, GA",
+        "friends": 73,
+        "photos": 868,
+        "reviews": 236,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "How do you spend a perfect day with the family? Take them to the Georgia Aquarium!  Make sure you reserve a seat for the shows.",
+        "language": "en"
+      },
+      "date": "2022-12-03T17:00:22Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PH_q8jfRPwBaGK7-BUkvfA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UyPHFQFRZcbrORPESl7y1Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7TBTsSBmofIHJhQQF1WVBw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sKL5dpWvXSKR57BhoWyhFg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1THqBxYTU51pNY2387RrdA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JK4YHgkN2OFHhkOsD3Bk7g/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "My L.",
+        "user_id": "yrLgjeHGqvPXp4yb1o6Psw",
+        "link": "https://www.yelp.com/user_details?userid=yrLgjeHGqvPXp4yb1o6Psw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vxWeGg558NSNPFQrZO3-Nw/180s.jpg",
+        "address": "Lutz, FL",
+        "friends": 27,
+        "photos": 321,
+        "reviews": 79
+      },
+      "comment": {
+        "text": "My boyfriend and I favorite aquarium. We could spend hours just sitting by the big tank and look at the whale sharks, manta rays, etc. swimming all day. The tank is super beautiful and very memorizing of all the sea creatures. The aquarium have so many tanks to watch and explore and so many sea life. You probably forget about the time just sitting and watching the fishes swimming by. Highly recommended if you're in Atlanta, GA.",
+        "language": "en"
+      },
+      "date": "2023-09-02T15:34:10Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/n69A-bHjfbXRwrQKgVchAA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kpHgG9JzjGBPwHm5mR-qgw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/l07fCXQ_1jGvWe_C-seSnw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Katherine B.",
+        "user_id": "pwajoYgC5KDt325xLmuZyg",
+        "link": "https://www.yelp.com/user_details?userid=pwajoYgC5KDt325xLmuZyg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PSykUGc7yVTNWxCYklWxbg/180s.jpg",
+        "address": "Fort Riley, KS",
+        "friends": 20,
+        "photos": 0,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Beautiful aquarium with an incredible variety of animals. The facility is so neatly kept and extremely clean. Ticket prices are a little high but we weren't hesitant when we found out the aquarium is a non-profit organization. If you have the opportunity, definitely go during a weekday. The weekends are extremely packed.",
+        "language": "en"
+      },
+      "date": "2023-11-19T18:22:16Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Yuchen Z.",
+        "user_id": "Q36wuj8o2-tu1MfNDm9nKw",
+        "link": "https://www.yelp.com/user_details?userid=Q36wuj8o2-tu1MfNDm9nKw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pDqUeDMRyhQZgG2MB7weHA/180s.jpg",
+        "address": "Seattle, WA",
+        "friends": 1046,
+        "photos": 4048,
+        "reviews": 869,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Mindblowingly amazing. \n\nIt baffles me how someone could gave this place less than 5 stars. \n\nThe Ocean Voyager on its own took my breath away as soon as I stepped into the tunnel and then my jaw dropped again when I saw the wall of glass and all the fish within it. The giant Manta Rays, the Whale Shark, the sting rays, and the hundreds? thousands? of fish inside the giant aquarium just living and swimming all together. What a beautiful sight. I've been to aquariums before but never to one like this. \n\nAll the other rooms of the aquarium was full of fishies to see and they were all quite impressive - beluga whales, penguins, otters, alligators, jelly fish, and so much more. I liked how the aquarium was organized into different rooms so it was very clear going from one section to the next. \n\nDolphin Show - get there 30 mins. early to get good seats. The show was SO much fun!! The dolphins did some things I've never seen in a show like this before. Get ready to get splashed if you are seated in the splash zone.\n\nSealion show - Also good but not as good as the Dolphin show. Cute and adorable and did some new unique things but very short show. Just wished it was longer. I liked how close I got to them though! \n\nTip: Reserve your spot in the shows early the day of. I learned that you don't have to wait until you enter the aquarium to reserve the spot. Just do it from the website in the morning!",
+        "language": "en"
+      },
+      "date": "2022-04-14T01:05:48Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Ashleigh K.",
+        "user_id": "Grz_dRxhfDUlKr8NL-JSqA",
+        "link": "https://www.yelp.com/user_details?userid=Grz_dRxhfDUlKr8NL-JSqA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MD4cm34OeLynZ9j1GDXjxg/180s.jpg",
+        "address": "Kissimmee, FL",
+        "friends": 121,
+        "photos": 223,
+        "reviews": 152,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Love this aquarium. It was huge!!! The dolphin show was amazing... the food court had a lot of options... it was beautifully decorated for Christmas... the staff was friendly.. and there was no wait to get into the aquarium. Parking in their garage is the smartest thing to do, and you can keep your car there and walk centennial park and near that area. The entrance to the aquarium was one of my favorite parts, they take your picture then you walk passed a huge wall full of jelly fish. Def come here. It's worth it - and a great in door activity for everyone. The diversity of marine life is insane.",
+        "language": "en"
+      },
+      "date": "2022-12-04T19:58:57Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uL5t8pitBMJ8lwoisVLbEw/o.jpg",
+          "caption": "32 ft Christmas tree"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AUPdl8DFsxzH5sVQCqaIYQ/o.jpg",
+          "caption": "Jelly fish"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5mQEI4MgbNNIOmo_JbTMaw/o.jpg",
+          "caption": "Georgia aquarium"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ashley S.",
+        "user_id": "WTbOf4iZCdtXqpxA9S2nHw",
+        "link": "https://www.yelp.com/user_details?userid=WTbOf4iZCdtXqpxA9S2nHw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vSGM8JG0f-8HDV2xgjRwjw/180s.jpg",
+        "address": "RI, RI",
+        "friends": 3,
+        "photos": 23,
+        "reviews": 30
+      },
+      "comment": {
+        "text": "I've been dying to visit this aquarium!\nVisited on a Sunday hoping it would be less crowded. \n\nWe attended the Halloween dolphin show, which we enjoyed. We saw pretty much every animal they had: dolphins, fish, penguins, whale sharks, jellyfish, turtles, etc. \n\nI absolutely loved seeing the whale sharks. I wish the conveyor belt was both wider and longer, though. I had high hopes for that tunnel. \n\nWe enjoyed ourselves and loved perusing the gift shop.",
+        "language": "en"
+      },
+      "date": "2022-11-02T23:27:44Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FCe5BvzqPHzCOuEsBMnUCA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lMDACxe6mquJXgi2kT7KoQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DFEPNWk_xYBKUAofu7WxGA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X4I3k3vqkdnWBs5VLkf4vw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jnws73kDgxppsf2zTmoJ8Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OwwvO1qNg5KEsmMug-AbQA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1tyrFOLSqAHIgFlK0GbdBQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sY2kmUA5DHuiyCDIjNTPWg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/r40_ZxoROSpKcxeOIHSqBA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/o5naczdnY7baVK33TTBAnQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jireh A.",
+        "user_id": "JA_sii7BMIdDqhfXjyhSgA",
+        "link": "https://www.yelp.com/user_details?userid=JA_sii7BMIdDqhfXjyhSgA",
+        "address": "Tuskegee, AL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "I recently had the opportunity to visit the Georgia Aquarium, and it was a truly memorable experience! The staff members throughout the tour were extremely friendly and knowledgeable. Our tour guides, Mr. Bailey and Ms. Lindsay, were both approachable and informative. I learned a lot about their career paths and how they ended up working with marine life, which was interesting. Overall, I found the experience to be very enjoyable and informative.",
+        "language": "en"
+      },
+      "date": "2024-02-09T17:13:19Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shelley D.",
+        "user_id": "ivcxHJYf_mifoml83GA_6g",
+        "link": "https://www.yelp.com/user_details?userid=ivcxHJYf_mifoml83GA_6g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dWgyGAAAvm4MyZEYW2iD-g/180s.jpg",
+        "address": "Glendale, CA",
+        "friends": 333,
+        "photos": 2043,
+        "reviews": 1168,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "A very nice aquarium, it's laid out very well. I really enjoyed the behind the scenes tour and recommend it. I really liked getting to see the whales behinds the same. Very wide specimen samples to look at. I saw a lot of really happy kids there on field trips and there was a nice cross section of the population across ages. A nice way to spend a couple of hours.",
+        "language": "en"
+      },
+      "date": "2023-05-31T16:29:50Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mike S.",
+        "user_id": "JBwpr1YsLXSjY_Yc3DQl3A",
+        "link": "https://www.yelp.com/user_details?userid=JBwpr1YsLXSjY_Yc3DQl3A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xThSSTRAJY07JUg26PxdBg/180s.jpg",
+        "address": "Chicago, IL",
+        "friends": 215,
+        "photos": 200,
+        "reviews": 188
+      },
+      "comment": {
+        "text": "Look, I've been here before.  Too many times. And every time I've complained about parking, ticket prices, lines, and a host of other things...pretty much everything I could think of.\n\nBut we went this fall for the first time in years and I must say that, outside of predictable ridiculousness at the food court, this was the best aquarium experience.\n\nWhat was supposed to be a 2 hour excursion doubled in length as the kids moved from zone to zone, filled equal parts apprehension and wonder in spots.  Petting the rays was a high point as was the sharks.  But each geographic region offered each kid a chance to show me that the forced hours listening to David Attenborough weren't in vain :)\n\nThe Atlanta City pass is recommended as it allowed us to leave the Aquarium and go right to the world of Coke pretty seamlessly",
+        "language": "en"
+      },
+      "date": "2022-11-20T02:17:40Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cDxfD3jpfaVpkzbjxnoHug/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ange R.",
+        "user_id": "Wvu0_EG-kYDopMUfgrTPog",
+        "link": "https://www.yelp.com/user_details?userid=Wvu0_EG-kYDopMUfgrTPog",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tlLf7Di4sbBELZXhcmSB3A/180s.jpg",
+        "address": "Edmond, OK",
+        "friends": 13,
+        "photos": 142,
+        "reviews": 142,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I have been here twice now while visiting the ATL and both times did not disappoint! \nFrom huge Beluga whales, a variety of sharks to the smallest sea creature, it's amazing of all the wonders God created in the ocean. \nAllow at least 2-3 hours to see everything but if it's crowded you'll want more time to make sure you get to spend time watching all the creatures move so effortlessly.",
+        "language": "en"
+      },
+      "date": "2022-05-29T15:11:16Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jCrQ7FTPTr2Zr-ggA5Y9qA/o.jpg",
+          "caption": "Shark!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tnkhaooUgN_qW5TCGmLv-Q/o.jpg",
+          "caption": "Dolphin"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DpbybCP0UX9QWLs-0PnTtA/o.jpg",
+          "caption": "Leave it to beaver...to just chill."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "George G.",
+        "user_id": "sezXZQlcHeTb2CxMlxZKXA",
+        "link": "https://www.yelp.com/user_details?userid=sezXZQlcHeTb2CxMlxZKXA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gOpS778gW7ePiE4KaZ1d7A/180s.jpg",
+        "address": "Kansas City, MO",
+        "friends": 2,
+        "photos": 90,
+        "reviews": 644,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "if your hungry generic food choices but your not there for that.\n\nthe aquarium ,  we had two day pass buy one get one free\nday\nwe were not disappointed in anything\ngreat displays and the unique way they displayed everything\nlady let us into dolphin show without reservations\nwhich was really nice",
+        "language": "en"
+      },
+      "date": "2023-05-27T22:18:45Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shannelle W.",
+        "user_id": "9P1N3LClBwMaURt8tKWhDw",
+        "link": "https://www.yelp.com/user_details?userid=9P1N3LClBwMaURt8tKWhDw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/obWbl6c85Nlj6TJhxcl0Mw/180s.jpg",
+        "address": "Norcross, GA",
+        "friends": 26,
+        "photos": 1250,
+        "reviews": 246,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This was my first time ever going to a aquarium in 20 + years and it was amazing I'm so happy i was able to experience this place with my baby which is 7 months . I know she is young but i know she liked it , she was so amazed with looking up in her stroller seeing the fishes pass by , i can't wait to take her back when she is older enough to really enjoy the view an experience one day i wanna try the over night options when she is old enough to go an remember it. I definitely recommend bringing your kids out to experience this view and taking memorable pictures. . . I probably wouldn't recommend the food i would say eat before you go but i get it kids are always hungry it's more like kids food or amusement park food frozen kinda stuff o guess If you ask me",
+        "language": "en"
+      },
+      "date": "2022-10-19T02:17:31Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VHkOLa0Fy4hHAaq5wV793w/o.jpg",
+          "caption": "View inside"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UL4zY-nDf8Mf04aKuZ2BgQ/o.jpg",
+          "caption": "Me an the crew"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Zg4WC3CbxRpbPkqOa1OUxg/o.jpg",
+          "caption": "More views"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YpthumVAlSukwkmbgpQuTw/o.jpg",
+          "caption": "Soon as you walk in view"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IGltKw-pMbOechOjwG-Cfg/o.jpg",
+          "caption": "Me an the baby"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Will D.",
+        "user_id": "pZToceD0FwZwWwSpeIdiqg",
+        "link": "https://www.yelp.com/user_details?userid=pZToceD0FwZwWwSpeIdiqg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vW33G07aslcBo6YXBaZEmQ/180s.jpg",
+        "address": "Davie, FL",
+        "friends": 288,
+        "photos": 391,
+        "reviews": 178,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Great exhibits ! \n\n\nPassionate and informative staff..\n\n\nAnd might I add \n\nBELUGA WHALES!!!!\n\nHad a great time connecting to our water friendly creatures :)\n\nWhale  sharks, albino  alligator , manta rays, jelly fish \n\nAnd the tank is extremely impressive being the size that it is. \n\nMust go if your in Atlanta.\n\nI chose this over the Coca Cola poison  tour and I'm really glad I did ....\n\nUnderwater Creatures are way cooler than the poison sugar water tour \n\nCheck it out",
+        "language": "en"
+      },
+      "date": "2022-09-25T20:47:01Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Xiaodong L.",
+        "user_id": "6D_nzAYS37HKg3IK1jKY_g",
+        "link": "https://www.yelp.com/user_details?userid=6D_nzAYS37HKg3IK1jKY_g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gJrGnC_dZUAWRhBt51Su_Q/180s.jpg",
+        "address": "Redondo Beach, CA",
+        "friends": 1,
+        "photos": 244,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "After driving for five hours, we arrived at the Georgia Aquarium in Atlanta. We visited all kinds of sharks, jellyfish, penguins, and various marine life along the way. It was really wonderful and spectacular.",
+        "language": "en"
+      },
+      "date": "2023-07-08T02:12:12Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vEOXjoxBMuBJBHFxQkKwdA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/I9SjdlxlMRgnCRI31mtZyQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sTfNcuTHVxxA4SngcUmhXA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/f2ru4blD_hmJ2ztCp4gZtA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wBlnmXqOP7pJgZ8mBHeQQg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Elizabeth B.",
+        "user_id": "cCke3VtFLtqgzkgYSrSE2g",
+        "link": "https://www.yelp.com/user_details?userid=cCke3VtFLtqgzkgYSrSE2g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qI2etCveNG5gxWu-qyN15Q/180s.jpg",
+        "address": "Woodstock, GA",
+        "friends": 249,
+        "photos": 293,
+        "reviews": 1040,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "When reflecting on my Georgia Aquarium visit less than two weeks ago, a couple words come to mind -- impressive and bustling. \n\nWe arrived on a Friday afternoon (right before spring break for at least some of the Atlanta area) around 2pm. I was concerned about the logistics, but everything was easy and straightforward. Yes, you have to deal with I-75 traffic which is never a joy, but the aquarium is located just 0.2 miles from the exit (at least this is the case driving from the northern suburbs). We were routed directly to the aquarium which deposited us in a large parking garage. Don't be deterred by The World of Coca-Cola signs on the garage as it does indeed serve the aquarium as well. \n\nDefinitely buy tickets in advance to save time as you enter. (We actually snagged ours during the car ride down.) A time slot must be selected, but there is a 1-hour grace period, so don't stress too much if you're running a bit late. I believe that a lot of local employers may offer discounts to the aquarium so check that out in advance as well. The tickets are definitely not cheap so any discount could help.\n\nWhen entering the aquarium, it was like no other aquarium I'd ever seen. The center is almost like being in the middle of a huge shopping mall with people swarming all over the place. The various exhibits have individual entrances, each with their own impressive signs and displays to draw you inside.\n\nWe visited Cold Water Quest, River Scout, Ocean Voyager, and Tropical Diver. I thought the division of animals was excellent and enjoyed the diverse feel of the different exhibits. The highlights for me were the lumpy beluga whales in Cold Water Quest, the enormous whale sharks in Ocean Voyager, and the glowing jellyfish in Tropical Diver.\n\nMy brother-in-law recommended skipping the show as he had been previously. He felt that between the long lines to get inside, the wait to see the show, and the content (he mentioned performers wearing costumes) that the show quality wasn't worth the time spent. \n\nIn the last 5 years or so, I've also visited the Tennessee Aquarium in Chattanooga and the Newport Aquarium near Cincinnati. However, the Georgia Aquarium is hands down the most awe-inspiring. I would recommend visiting on a weekday to (try to) avoid the crowds. Plan a half day if you want to just walk through the exhibits and a full day if you want to also tackle the shows.",
+        "language": "en"
+      },
+      "date": "2022-04-13T08:47:08Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Feier L.",
+        "user_id": "O1e4H70pXuyHZSrENKBE2Q",
+        "link": "https://www.yelp.com/user_details?userid=O1e4H70pXuyHZSrENKBE2Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lxy2CsebZtSiWmD2T4LVDg/180s.jpg",
+        "address": "West Hartford, CT",
+        "friends": 22,
+        "photos": 107,
+        "reviews": 318,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I don't visit aquariums much but came because it is the largest aquarium in the US. There was a great variety of sea creatures with different viewing angles for each tank. My favorite was the tank with whale shark, both the big room viewing and the tunnel. I found my new favorite sea creature in that tank, the spottled eagle ray! Sea otters are also super cute! There's of course also dolphins and sharks. They also offer additional experiences to pay for including dolphin show and scuba diving. Overall it was a great experience!",
+        "language": "en"
+      },
+      "date": "2022-11-19T02:53:40Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rXkvlq9TExexA1UWhoEjnA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bCVL4CwbxDgK1PWKbBQX4Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NK2RhYdN3QZc5h1ocxcLow/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/P5UpiIU0w4Ab9RaVGzm6Zg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1NRuHQqPOtqnMqkc4wSKfQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tny2Crgj8IwT95kxohQBlg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/H0jTEUNmtYj3NIOoNxUABQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SwBDLd-fbNK8AVLDrsPnPQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2MeW-nYbeQGgWqsKVNNJCA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aruJRAx_uhKjtXXgMoZRkw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kevin Z.",
+        "user_id": "ZkypoAhR03SpGbmqCApHDg",
+        "link": "https://www.yelp.com/user_details?userid=ZkypoAhR03SpGbmqCApHDg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BOkqZ_XdlJ0px03flZ2WgQ/180s.jpg",
+        "address": "College Hill, Providence, RI",
+        "friends": 2,
+        "photos": 40,
+        "reviews": 23
+      },
+      "comment": {
+        "text": "Before going, make sure to RESERVE a seat in the DOLPHIN & SEA LION show on the day of your visit. The seats tend to run out fast. Furthermore, make sure to get there early (20-30 minutes) so you get seats that are not in the splash zone! Beyond the usual visuals, the shows are one of the highlights that you do not want to miss.\n\nAvoid buying food there since it is really pricey. I would make sure to eat in advance and bring a reusable water bottle to fill at the water stations.\n\nGreat experience otherwise. Amongst the exhibits (which you should visit all of them), I loved the Ocean Voyager the most. Definitely make time so you can take time watching it. The rest are great too. Have a splash!",
+        "language": "en"
+      },
+      "date": "2022-12-29T04:31:59Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FtfAjRtJVK3hRvFZWCoQWw/o.jpg",
+          "caption": "Crocs (Gators?)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CdoGpwSvhWNdeih2tj84uw/o.jpg",
+          "caption": "Nemo"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NF7o0rPpACb6uWNZQRhuFg/o.jpg",
+          "caption": "Waddle"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ashley A.",
+        "user_id": "0c05pMFr6rGrlTI3RLgS3A",
+        "link": "https://www.yelp.com/user_details?userid=0c05pMFr6rGrlTI3RLgS3A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/G9Z8YhRUCP_jd0MEWD4FNw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 100,
+        "photos": 169,
+        "reviews": 164,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We take our 2 year old to the aquarium 2x per month. We love it so much we became members. It is worth every penny and everything you spend there you can write off! The exhibits are pristine and beautiful. So many of the workers are actually volunteers who just love and want to support the aquarium. Definitely do the behind the seas tour and the sea lion show. We love how close we can get to the animals through the glass, very cool,",
+        "language": "en"
+      },
+      "date": "2023-04-01T03:10:54Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Kyle S.",
+        "user_id": "3n0_L8nKX4LcQG1yF61wtA",
+        "link": "https://www.yelp.com/user_details?userid=3n0_L8nKX4LcQG1yF61wtA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/R56dSU4GZEe6OuB1jKKJrg/180s.jpg",
+        "address": "Elizabethtown, PA",
+        "friends": 21,
+        "photos": 20,
+        "reviews": 584,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Staff: the staff was friendly and there was plenty of them to help people who needed directions to a certain exhibit or with anything else. 4/5\n\nAs for the aquarium itself it was pretty big but kind of lacked a wow factor that I have seen at other aquariums. Some cool exhibits but nothing that really blew me away. 3/5",
+        "language": "en"
+      },
+      "date": "2022-09-19T14:51:08Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jesse C.",
+        "user_id": "pqxdokyIDvqpREC1i-7x4w",
+        "link": "https://www.yelp.com/user_details?userid=pqxdokyIDvqpREC1i-7x4w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/p6v-THwdFNaMs2jJcpupZg/180s.jpg",
+        "address": "Fairfax, VA",
+        "friends": 101,
+        "photos": 246,
+        "reviews": 464,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The best aquarium I've been to in USA and so far I've been to Monterey CA, Long Beach CA, National Aquarium MD, Honolulu HI, so yeah this one is the biggest and the best.  I was amazed at the whale sharks because what aquarium can say they have them? The Beluga whales were fascinating as well.  I also enjoyed looking at the reef tank with tropical fishes and corals.   I liked the shark tank they had and swirling fishes that were so shiny.  \nThe dolphin and seal show was pretty cool as well.  The kids really loved them.    The albino alligator was something you don't see everyday.  \nOverall, great place to visit while in ATL",
+        "language": "en"
+      },
+      "date": "2022-11-10T23:45:01Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Christina M.",
+        "user_id": "Wl1h_EyGxElotBu6akQ0cw",
+        "link": "https://www.yelp.com/user_details?userid=Wl1h_EyGxElotBu6akQ0cw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/d9-ayMM7YRl9LfkXZrU2Dw/180s.jpg",
+        "address": "Sacramento, CA",
+        "friends": 10,
+        "photos": 117,
+        "reviews": 81
+      },
+      "comment": {
+        "text": "Loved this aquarium!! We went on one of the busiest days, during the busiest times, and it was still great!!! Lots to look at! Can't recommend enough!!!!",
+        "language": "en"
+      },
+      "date": "2023-06-14T02:39:13Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4BMSZ9r8wTcXSqUwj-9X6g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RnAM4HoXSOoqKjo6ao_puQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6I6J-ax4oMMg5_JUGsSYEQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JzGraKneBL-QBNEbZDoqFA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kjv70dtdxu8gNTZmZy9mGA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pf6y88_Tw4IISyjOD0Yykw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/biIx-wDgLbkBqPxneiI6Vw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WpxqxYyBLDNqQoyEXKfrkg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MdNleQvYOspAYJ-zwJPTAg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Tlfouw-xu1TOvxJmnfjhyg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nakita G.",
+        "user_id": "VYik8l55MmrY1Peyxsv1hQ",
+        "link": "https://www.yelp.com/user_details?userid=VYik8l55MmrY1Peyxsv1hQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-z3RO6_AjqEkoSgxGHs1Wg/180s.jpg",
+        "address": "Austin, TX",
+        "friends": 9,
+        "photos": 214,
+        "reviews": 136,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Amazing!! This two floor aquarium may seem expensive, but believe me it's worth every penny. Once you've experienced everything, you'll probably leave thing the entry fee was pretty cheap. There's so much to see--sharks, beluga whales, alligators, sea lions, dolphins, and so much more. \n\nWe went to the sea lion and dolphin shows. I was getting SeaWorld vibes from the shows. You just have to use the QR code provided at the aquarium to make reservations to see these shows. \n\nTickets need to be purchased in advance. I'm not sure if this is something that's permanent or if it's just due to Covid. \n\nOverall, this place was exceptional. Definitely a must  see if you're in Atlanta.",
+        "language": "en"
+      },
+      "date": "2022-03-20T01:10:29Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hRbguw0h7T6WUQlIchgS7w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ADTjdCUkcfeV2echDyxTcg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8AXzneUziI40uNLqZ9pp_g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eLTGje9TSDslB_NbLNpocg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Samuel L.",
+        "user_id": "rc_gBwxrGA4ZB0JhTr7UiQ",
+        "link": "https://www.yelp.com/user_details?userid=rc_gBwxrGA4ZB0JhTr7UiQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/whUj2AZTVv7TS2ZCaw1WVg/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 456,
+        "photos": 229,
+        "reviews": 203,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "One of the coolest aquariums in the country! This place is MASSIVE and holds some of the richest diversity in sea life that I have ever come across in an aquarium. From whale sharks to manta rays, tiger sharks to sea dragons, there is something for everyone to be amazed at. Definitely a must see when in Atlanta!",
+        "language": "en"
+      },
+      "date": "2022-11-07T20:12:55Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ugjFUwrXfEx0vHiWDALXzQ/o.jpg",
+          "caption": "Whale Shark"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brionta P.",
+        "user_id": "ZyZcwqK-IMApXsx-dNCyWg",
+        "link": "https://www.yelp.com/user_details?userid=ZyZcwqK-IMApXsx-dNCyWg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/H4rm7SlTwwbnQYnxqvr1_w/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 19,
+        "photos": 496,
+        "reviews": 150,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "WANT TO FEEL LIKE A KID AGAIN?\n\nHere is where you can achieve that! I hadn't been to the aquarium and YEARS and I had a blast. And yes, I'm an adult but I truly enjoyed myself. I have always found fish to be fascinating and that have not changed. This is one of the better aquariums I've been to, they have a ton interactive activity and shows. \n\nThe dolphin show isn't anything you want to miss. I was literally on the edge of my seat. The dolphin are super well trained. The seat fill fast so I would suggest making it on time. Also, the top couple rows are in the splash zone!\n\nI did like that they had the escalating floors, I believe that's what it called. I thought that was super cool, the only other place I've ever seen that was Universal Studios and the airport. \n\nThe gift shop is major! You can find everything in there, I wasn't able to leave without getting something I just couldn't. \n\n\nIn my honest opinion, I would suggest eating prior to going or afterwards. The food was subpar and limited options wise. And on top of everything EXPENSIVE. And it's a lot of great restaurants walking distance nearby.\n\nYou also have to pay for parking and walk up to the attraction. Which is standard especially for the aquarium being in the heart of the city. Parking can run anywhere from $10-15 depending on the day and season. There was a lengthy line waiting to get in but it was for sure worth it. \n\nThey offer sleepovers if you want to have a super cool party for your child. \n\n**DISCLAIMER: the visit was Post-Covid so we were wearing mask, they were required at the time policy may have changed**",
+        "language": "en"
+      },
+      "date": "2022-11-06T23:24:44Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rick P.",
+        "user_id": "ZmHImQhGbjI2nSmkZTbZWA",
+        "link": "https://www.yelp.com/user_details?userid=ZmHImQhGbjI2nSmkZTbZWA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/aPVQgqpPqOpMWQCtNNcSEQ/180s.jpg",
+        "address": "Jacksonville, FL",
+        "friends": 145,
+        "photos": 1373,
+        "reviews": 421,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place is amazing.  So much to see and do.  Make sure you set up the special events when you get inside or prior to heading in. \nThe dolphin experience.  The sea lion show.  4 d theater.  You'll love that.   Make sure you wipe the sea spray off your glasses. \n\nEveryone was helpful and the food at the Cafe was good for a fast food style venue. \nWe had a great time.  \nI think yelp would explode if I put all the pics I took while at the aquarium.  \nDefinitely a must see",
+        "language": "en"
+      },
+      "date": "2022-09-28T18:51:17Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Katie J.",
+        "user_id": "2SiV51kpV-okGaA8yVfL2g",
+        "link": "https://www.yelp.com/user_details?userid=2SiV51kpV-okGaA8yVfL2g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dzMXdsuajGJJDKQnCjOLCA/180s.jpg",
+        "address": "Sardis City, AL",
+        "friends": 0,
+        "photos": 34,
+        "reviews": 31
+      },
+      "comment": {
+        "text": "We spent a weekend in Atlanta and I think this was my favorite place we visited while we were there. We saw a dolphin show and sea lion show that were fun and educational. The aquarium does a really good job with teaching people about conservation and animals. The shark gallery was really cool and I'm glad to see them bringing attention to the importance of sharks. There are parts of the aquarium that are beautiful to look at. Everything looked very well maintained and well done. I had fries, chicken tenders, and a cupcake from the cafe that were pretty good. The gift shop is cool and I recommend you bring your own bags to put what you buy in there because they stopped using plastic bags. If you're in Atlanta i definitely recommend checking this place out.",
+        "language": "en"
+      },
+      "date": "2023-07-25T04:43:58Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0eA-5b7U_LEWKq4huGrmpQ/o.jpg",
+          "caption": "Sharks"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cbShDgIHtz6Rs5x9lFxpXA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/k3yj_qKzYzdv9DKZW3UQtw/o.jpg",
+          "caption": "Jellyfish"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/e_4IRjLIEYDFrNAf9SNUSQ/o.jpg",
+          "caption": "Cupcake from the cafe"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Devon E.",
+        "user_id": "-44bHqhWAexzRzxI4buZbA",
+        "link": "https://www.yelp.com/user_details?userid=-44bHqhWAexzRzxI4buZbA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/riC8HcxYPjP5xDQ2J8sWaw/180s.jpg",
+        "address": "Greensboro, NC",
+        "friends": 201,
+        "photos": 2565,
+        "reviews": 330,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We had a great day at this aquarium. Loved that you could buy tickets through their website in advance, even the day of. This place is huge. It's oddly kinda set up like a mall, with escalators, food court, and different \"store front\" designs if you will for the different exhibits. My favorite areas were the Ocean Voyager and Dolphin Coast. The Ocean Voyager was just one giant tank and had some stadium type seating you could rest upon while you just take it all in. It is just amazing how many different creatures coexist under the sea. It was just a very serene area that allowed for some great reflection time. Dolphin coast was super fun to just watch the Dolphins zoom around. We sadly missed the last Dolphin show for the day, but honest just watching this amazing mammals was pretty awesome. \n\nCafe aquaria is geared towards families with mostly combos of chicken tenders, pizza, or cheeseburgers with fries and soda. It's a big aquarium so you are gonna be there a while and get hungry, so they know they got a captive audience so will but whatever. We went for the chicken fingers combo. The food was of course as expected very overpriced and mediocre in taste at best. Thank god for honey mustard. They did have self-serve soda fountains, so you could get drink refills at least (but you aren't allowed to take it out of the cafe area). There was a grab and go section that did have a couple varying options as well. \n\nThe ultimate highlight of the day was the 4D Theatre. There wasn't an additional cost to attend, but you did have to reserve tickets for one of the show slots in advance. Our film was by Blue Planet about the Octopus. The Octopus already scares the crap out of me, but watching them on the big screen in 4D with all these special effects was next level. You got wind and water elements, bubbles from the sky, and a poker in the back of your seat to name a fee. I legit yelled out loud when I first got poked as it scared me. I laughed (and many others in the audience) so hard at myself when it happened. It was a super fun thing for kids and adults alike. \n\nSo many animals, activities, and adventure. I see why this aquarium comes so highly regarded. It's also right by the Coca Cola and Civil rights museum as well as other attractions. Could make a big day of it all if you'd like. But honestly I'd say the aquarium is already a lot. If you are into the world under the sea, I absolutely recommend you make this part of your Atlanta plans.",
+        "language": "en"
+      },
+      "date": "2022-01-20T03:47:59Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0aPw7B6vJurJI6FDQYOlog/o.jpg",
+          "caption": "Entrance"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Y740tr7tQyjscj-8DPuLZA/o.jpg",
+          "caption": "Ocean Voyager"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HAriiWgR-stOqj4Pa0onrQ/o.jpg",
+          "caption": "Upstairs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/x9kRdYtly1Xxff8ZLDKlYQ/o.jpg",
+          "caption": "4D Theatre"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_VVCXWWg26MYynDzfrAV0Q/o.jpg",
+          "caption": "4D Theatre is a must!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dyonDTN8IsNNIOfY3gtIhw/o.jpg",
+          "caption": "This tanks are huge!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PlaBTiP0M95zHGm3F3tf1A/o.jpg",
+          "caption": "Gators"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2EAbZMkRogPtl7xJMMcXoA/o.jpg",
+          "caption": "Main lobby"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kLUOPj_Hy5432lizUGmQ5A/o.jpg",
+          "caption": "Jellyfish"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/m0b3J3Bun3vgw2dJyD3Ckg/o.jpg",
+          "caption": "Fun exhibits and activities"
+        }
+      ],
+      "feedback": {
+        "useful": 6,
+        "funny": 1,
+        "cool": 5
+      }
+    },
+    {
+      "user": {
+        "name": "Taryn N.",
+        "user_id": "iHkVBynEQKQo7wYLCDc0IA",
+        "link": "https://www.yelp.com/user_details?userid=iHkVBynEQKQo7wYLCDc0IA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/--eDD_ZYsmW-N-rtS2954w/180s.jpg",
+        "address": "Camrose, Canada",
+        "friends": 0,
+        "photos": 39,
+        "reviews": 26
+      },
+      "comment": {
+        "text": "Who would have thought this was the place to be on Christmas Day! I liked the timed entry to reduce the crowds however it was just busy all around. There was a lot to do and see. The only reason I have this a 4 instead of a 5 was because there were \"sales people\" trying to rope you into some time share vacation properties.\nThanks to all the staff and employees that worked this holiday! Greatly appreciated",
+        "language": "en"
+      },
+      "date": "2022-12-26T06:54:54Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0w8EpIzTxw2HQwIK4yu-7w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ec6kmGYQvPBwrfWegqlQdQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hKeMVuAeCrskiCmlLnRalQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jennifer A.",
+        "user_id": "eqLXtYzXuHE_bAxUmZnlQA",
+        "link": "https://www.yelp.com/user_details?userid=eqLXtYzXuHE_bAxUmZnlQA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/b-wZcQ7CK8VxTuOLfqKusA/180s.jpg",
+        "address": "Greensburg, PA",
+        "friends": 86,
+        "photos": 26,
+        "reviews": 48,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "What a nice way to spend a few hours. If you get the opportunity, take it! Buy tickets online as tickets are more expensive at the door. Sea lion show was good.",
+        "language": "en"
+      },
+      "date": "2022-10-28T18:28:57Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AhnmEBVaKIrzsrmilBDoqw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Maggie L.",
+        "user_id": "G3kWK3AGhKXS9BLFyP4LDA",
+        "link": "https://www.yelp.com/user_details?userid=G3kWK3AGhKXS9BLFyP4LDA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kWqYr-RIlp_x5mZWOIaepQ/180s.jpg",
+        "address": "Dallas, TX",
+        "friends": 4,
+        "photos": 212,
+        "reviews": 377
+      },
+      "comment": {
+        "text": "Fantastic aquarium. Another word I can think of is unbelievable. I strongly, highly recommend you and your family go.",
+        "language": "en"
+      },
+      "date": "2023-05-16T14:56:36Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4PC8L6Zu7OGpA6Bc_6RO4A/o.jpg",
+          "caption": "ray"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/F9pWEkYTuK8kRN-nrEDHRw/o.jpg",
+          "caption": "whale shark"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sarah S.",
+        "user_id": "Y5WbsvoJfT_1a5QacFnXzw",
+        "link": "https://www.yelp.com/user_details?userid=Y5WbsvoJfT_1a5QacFnXzw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5IR9Rryl2KtkUU1QIbTX3w/180s.jpg",
+        "address": "Saint Louis, MO",
+        "friends": 70,
+        "photos": 228,
+        "reviews": 165,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Out of all the aquariums in the country that I have been to, this is my all time favorite! I'm gonna start with the types of animals they house here. They have an octopus, whale sharks, other sharks, river fish, beluga whales. Just to name a few! Those were my favorites!!! \n\nNow to the facility, this is the largest aquarium I have ever been to. The tanks are huge, walkways are huge, everything is big! They were doing some renovations while I was there so I'm sure they are just making it more grand! \n\nThis is centrally located within the city. Now what's so cool about it is that the aquarium, world of coke, and the national center for human rights is all with the same shared parking garage and you just cross a small green space to go from place to place. You could easily knock out all 3 in an afternoon. Highly recommend just paying the $20 to park there and visit all three! \n\nThe price is steep!!! But I would pay it any day. This aquarium is worth all the traffic you will sit through in Atlanta to get there!!!! 10/10!!!!",
+        "language": "en"
+      },
+      "date": "2022-02-26T15:20:48Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YUUHAehZlLAlkKTLMPaBhg/o.jpg",
+          "caption": "The open area you walk from exhibit to exhibit"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MbgyCKsb5u3IQlogjJnYqA/o.jpg",
+          "caption": "The largest tank. With the whale sharks"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hDu74gaeZ3inSG522PbobQ/o.jpg",
+          "caption": "Beluga whale"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/n-eVRNhMGYOOXTWxKZwfnQ/o.jpg",
+          "caption": "Another view from the large tank"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Matthew J.",
+        "user_id": "r5fKR0vvrccQiw9Qbs_Mkw",
+        "link": "https://www.yelp.com/user_details?userid=r5fKR0vvrccQiw9Qbs_Mkw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HJ3H2CoMRnSmEM4y1lLYNQ/180s.jpg",
+        "address": "Mount Washington, KY",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "Highly recommend, it is awesome. We were there 5 hours and wished we had more time...lots to do and very accessible to wheel chairs and strollers. \n\nPreorder your meal. Super slow line there if you don't. \n\nDefinitely budget time to just sit in front of the 60' aquarium window and watch all the fish and sharks. It's an imax size window in real life.  Incredible",
+        "language": "en"
+      },
+      "date": "2023-07-10T21:34:57Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lisa R.",
+        "user_id": "V7ajqNkC8jUpoJrj4YsRNw",
+        "link": "https://www.yelp.com/user_details?userid=V7ajqNkC8jUpoJrj4YsRNw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/b6F1Dn2tZ-Ymv-CtLYCObQ/180s.jpg",
+        "address": "Navarre, FL",
+        "friends": 48,
+        "photos": 305,
+        "reviews": 475
+      },
+      "comment": {
+        "text": "As everyone knows, this is an amazing aquarium. So many unique things to see like the giant whale and the beluga whales. This set up is very nice to be able to sit and spend some time looking at these incredible creatures. It does get a little crowded and kids can be annoying yes. But just be patient. Find a quiet spot and enjoy.",
+        "language": "en"
+      },
+      "date": "2023-05-09T14:49:05Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iQf4aPELhgdpIv8C-YyYTA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/suq64dQzMkJ7lMcEE6wLKw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/N3136rNM8vc1uAK_7I0l5g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pNxVjgGBF_b8z-LgO6lRrg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Matt B.",
+        "user_id": "yk21wIO8iH14CFM4jJfYlQ",
+        "link": "https://www.yelp.com/user_details?userid=yk21wIO8iH14CFM4jJfYlQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5G12V_svV3YNLuBzXhA6wQ/180s.jpg",
+        "address": "El Paso, TX",
+        "friends": 784,
+        "photos": 1228,
+        "reviews": 619,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Absolutely breathtaking views of marine wildlife in elegant tanks with decorative backgrounds.\n\nIf anything, the Manta Ray and Whale Shark exhibits alone are worth it.  For these you walk through a tunnel and the tank is above you. Similar to Jaws III when the shark rams the tank.\n\nBefore going, make sure you book your tickets online because there are timeslots.\n\nIt's super crowded and you're not likely to get the Insta-pick you want due to the crowds. If you're like me and go for the animals and the experience, you'll like it.\n\nI didn't get a chance to see the shows, because they were sold out, but the whole experience took me about 1 hour and 50 minutes. \n\nThe food didn't seem worth it and I'm glad I didn't buy it.",
+        "language": "en"
+      },
+      "date": "2021-12-28T17:11:58Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KpaX_fbUicQfu2xvtLlnZg/o.jpg",
+          "caption": "Tiger shark"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3Zp9RJccMRjaWcU0P-WZqg/o.jpg",
+          "caption": "Belugas"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BSibRPE7Eho5JJPkfTMyLg/o.jpg",
+          "caption": "Reef Shark"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L-xab4bndzIUpOdeEzTyjQ/o.jpg",
+          "caption": "Dolphin"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 2,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Marie O.",
+        "user_id": "u_13k6rzvn0F04EYabBfhA",
+        "link": "https://www.yelp.com/user_details?userid=u_13k6rzvn0F04EYabBfhA",
+        "address": "Columbus, GA",
+        "friends": 1,
+        "photos": 18,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Alright, story time. \n\nMy husband, son, and I visited the aquarium on a Thursday summer morning. As expected, it was crowded and loud. This I do not mind. Kids are out from school and it's a major attraction in a major city.\n\nWhen you first arrive you pose for a picture at the entrance that you can then decide if you're going to purchase later. \n\nThere is plenty to see and observe at the aquarium. Some of my favorite exhibits include the puffins, beluga whales, dolphins, sea otters, and whale shark. There is information located on the walls to read. It's very informative. I encourage you to take some time to read some of it.\n\nWe watched the dolphin show at the 1130 slot. It lasted around 15 minutes. It was cute and the dolphins did some tricks. You must reserve your time and do arrive early if you want a seat in the center. \n\nFor as large as a facility as it is, the bathrooms are relatively small and tight. The bathrooms at a Buc-ee's gas station really set the bar high. Georgia Aquarium may want to take notes. \n\nThere is an area to purchase food and sit down. It's convenient especially for those with children who are complaining that they're starving and \"disintegrating\" from lack of nourishment. (Anyone else's kid as dramatic as mine?) \n\nThere's a parking garage attached to the aquarium that you pay before leaving.\n\nAll in all, I always enjoy my visits there. Already planning the next one with my coworker.",
+        "language": "en"
+      },
+      "date": "2023-07-02T03:01:55Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7nBrbt0LVgapN98C4TqU_w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t8f_5rn41mNAguSINU8XhA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wloCN1XPRvB5l1nhAiH0HA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/st58esmoOYuDktVTDS7ZyQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1rnlsl9zRlUAhNaiSIMNXA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QsFB9gNsnHhjQr-BO5WDdA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alyssa S.",
+        "user_id": "N3EKZEaQGxaCyDxOz8lksg",
+        "link": "https://www.yelp.com/user_details?userid=N3EKZEaQGxaCyDxOz8lksg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FDoBxlfja-0flkti2mbQiA/180s.jpg",
+        "address": "Freeport, FL",
+        "friends": 7,
+        "photos": 21,
+        "reviews": 27
+      },
+      "comment": {
+        "text": "First time visiting Atlanta and heard great things about the aquarium. It was pretty impressive, lots of different aquatic life. We went through the whole aquarium in about two hours.",
+        "language": "en"
+      },
+      "date": "2023-06-08T02:11:20Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yISPo9ortUlyQUF9EEYSSw/o.jpg",
+          "caption": "Whale shark"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hNHY5qPCUyx9YwTv0oZycA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "X M.",
+        "user_id": "YfxcaQ_Z6z8eGdT_NDN1uw",
+        "link": "https://www.yelp.com/user_details?userid=YfxcaQ_Z6z8eGdT_NDN1uw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/76hf161flaprY8JD6W3UyA/180s.jpg",
+        "address": "Lexington, MA",
+        "friends": 2,
+        "photos": 998,
+        "reviews": 279
+      },
+      "comment": {
+        "text": "This aquarium is more than outstanding! Every exhibit is fascinating! Whale sharks, beluga whales, dolphin show, and sea lion show, just to name a few. None of these would let you down. The staff were friendly and helpful to answer questions. It is easy to spend 4-6 hours here.  This is absolutely one of the top aquarium in the world. \n\nI would strongly recommend to go to the dolphin show and sea lion show. The trainers did a fantastic job explaining how dolphins and sea lions were trained and proactively promoting to save the planet! I would also recommend the behind the sea tour for those who would like to learn what kind of research the aquarium is sponsoring/conducting!",
+        "language": "en"
+      },
+      "date": "2022-08-25T23:37:26Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Kr9C12gqNLk-v4xILJocbw/o.jpg",
+          "caption": "Ocean voyager"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HoSBbSskrJzQ1peB6Mpuyw/o.jpg",
+          "caption": "Beluga whale"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ONY-0X1YFzrGQN1owVHH_A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/x2jaCK0TzpPZYmJnh6Asmw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w6WDfGKpjqCsFwl5RSTQqg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Michelle M.",
+        "user_id": "i_EASSNcEqc1JrfdBjBeVw",
+        "link": "https://www.yelp.com/user_details?userid=i_EASSNcEqc1JrfdBjBeVw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/46lzvsdcjhDszsh3ZoaDyg/180s.jpg",
+        "address": "Charlotte, NC",
+        "friends": 1573,
+        "photos": 4792,
+        "reviews": 641,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I was so excited to see whale sharks! Very cool experience. The moving pathway has a line to wait in but it's nice to not stand and it slowly moves you. The right side is normal walking which doesn't have a line. \n\nBe warned that if there's a huge line somewhere just walk away and do something else for a bit and come back around and it may be empty! You don't have to just follow the crowds. \n\nBiggest bummer was missing the dolphin show. There was no indication i had to reserve a spot ahead of time. I am very disappointed this was never communicated so we had to wait 2 hours or miss it. \n\nThere was a feeding time for the whale sharks  which was awesome to watch. Ask the employees when it's happening.\n\nBeautiful environments but the sponsored Home Depot stuff was really weird.",
+        "language": "en"
+      },
+      "date": "2021-12-22T13:42:48Z",
+      "rating": 3,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6RwQ1_ne7stvatgxXEmyVQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MplUHCJcuSFRhvV8jSE8Pw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nGOaivJhGz4bKYc31nmixA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 2,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Brittney L.",
+        "user_id": "JOTnIa5Kwr4l8IC-KnLqfQ",
+        "link": "https://www.yelp.com/user_details?userid=JOTnIa5Kwr4l8IC-KnLqfQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kkv4-HjECSQlHl30Cafa1g/180s.jpg",
+        "address": "Lake Elsinore, CA",
+        "friends": 4,
+        "photos": 8,
+        "reviews": 78
+      },
+      "comment": {
+        "text": "It was expensive but worth it!  It was the best aquarium I have visited. I was in awe. I loved viewing the sharks and sea turtles. I spent 3 hours here. I didn't get any food because it seemed standard but I got the huge souvenir soda cup. It was worth it because you can refill it. I wanted something to remember that awesome day!",
+        "language": "en"
+      },
+      "date": "2023-06-06T13:16:39Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6v_HOJOm5DkAJvbHRCH10A/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kimberly W.",
+        "user_id": "LrzPHKkiwAa0LTbQ3AJT6w",
+        "link": "https://www.yelp.com/user_details?userid=LrzPHKkiwAa0LTbQ3AJT6w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MdS4JoH_ZdI28E6J-FnCOw/180s.jpg",
+        "address": "Cold Spring Harbor, NY",
+        "friends": 163,
+        "photos": 190,
+        "reviews": 158,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "What an incredible adventure! Walk through the doors & begin your learning, sharing, storytelling, and also rekindle your sense of wonder! I was blown away by how spot on the staff has made every feature here the best experience for ALL the visitors and critters. There are places that animals in tanks can be near or away from the viewing portals of humans, as they choose, signage that tells the stories of the conservation work the diverse individuals associated with the place, and well educated staff who really get the word out there to the public. Constantly updating and improving, they really do take visitor comments into account on their surveys and in person, and make positive changes. It really is hard to imagine a better, more immersive way to learn without feeling like you're part of an ark situation that was the aquarium model in the \"olden\" days! If this is the direction we're headed as a society, we're doing it justice!",
+        "language": "en"
+      },
+      "date": "2023-04-04T16:19:44Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CNf5hAagMOhxqhMXsUu0TQ/o.jpg",
+          "caption": "100% walking the walk! Way to go!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/H7D_bCBwLB6AdGOGYLdptQ/o.jpg",
+          "caption": "This is the best aquarium I've ever been to and as a STEAM educator who works with a lot of non-profits, that's saying something!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/H2HQ8H7dLoQ46ExH4e5NIw/o.jpg",
+          "caption": "You'll come for the whale shark exhibit but you'll be blown away by every last nook and cranny of this place!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hDNhviGh0eqHii78oBCb_g/o.jpg",
+          "caption": "Great exhibits & signage! Hello octopus!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tairyn A.",
+        "user_id": "GTM0Jv2ayEgjcwnXXP7D8g",
+        "link": "https://www.yelp.com/user_details?userid=GTM0Jv2ayEgjcwnXXP7D8g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GFMdMQGcWeMHhsKcV6cuRQ/180s.jpg",
+        "address": "Coral Springs, FL",
+        "friends": 788,
+        "photos": 16591,
+        "reviews": 1430,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place is AMAZING! And believe me, I have been to some great aquariums in my day. The whale sharks are gigantic and spectacular. Georgia aquarium is the only aquarium outside of southwest Asia to have them. I feel luckyI got to see them.  There are so many sharks here! I have never seen so many big shark in one tank outside of Toronto. Incredible!\n\nOf course the main attraction for me was  the Dolphin show. These amazing creatures have the ability to uplift any grumpy mood. I walked out of the auditorium feeling so happy. I also loved the otters and penguins. \n\nI felt the aquarium was very organized. The exhibit were well delineated, we didn't have any trouble at all following our own pattern and remember what we saw and what we hadn't seen yet. Everything was so very clean. Sanitizer stations were all over and most areas have plexiglass dividers. \n\nThis is suck an amazing place. If you come to Atlanta, Georgia Aquarium is a MUST!!!",
+        "language": "en"
+      },
+      "date": "2021-11-19T18:19:54Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2zvUVZ05SJXOt_-O6rking/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 5,
+        "funny": 1,
+        "cool": 6
+      }
+    },
+    {
+      "user": {
+        "name": "Karen L.",
+        "user_id": "-B1_DnQtdvnsMU-e-MyuiQ",
+        "link": "https://www.yelp.com/user_details?userid=-B1_DnQtdvnsMU-e-MyuiQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nQ0DIkX3y4NwsOzA30ZEsQ/180s.jpg",
+        "address": "Midlothian, VA",
+        "friends": 121,
+        "photos": 2070,
+        "reviews": 280,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Fabulous!! This is the largest aquarium in the US and the world. It is the only aquarium outside of Asia that has whale sharks and large manta rays. There are over 100,000 sea creatures! They gave puffins and penguins, as well. This is an amazing place. It is very clean and well kept with areas for sitting and viewing the sea creatures. There are large areas for watching. We especially enjoyed the Ocean Voyager exhibit. The tunnel where you can see these large creatures is amazing. Allow about three hours minimum to enjoy the aquarium. Highly recommend visiting here. Great for all ages.",
+        "language": "en"
+      },
+      "date": "2022-09-29T04:02:30Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-sHpGMtF6NzHhpgDsW0KIg/o.jpg",
+          "caption": "Shark tank"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zGPqdKv5A4LUtvlunuxNGg/o.jpg",
+          "caption": "Entrance"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mcS7q2E3bFmBeRQftRJG4Q/o.jpg",
+          "caption": "Aquarium"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/F6ysva-939aytdyUSPUstQ/o.jpg",
+          "caption": "Dolphin area"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/y83x5rY_g9Mgsa6wXJJPzA/o.jpg",
+          "caption": "Exhibits"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jkdzaG5TMy5EK7jq63QCBw/o.jpg",
+          "caption": "Fish"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WYRWyE5ic5Cxwd3r6lI-Pg/o.jpg",
+          "caption": "Interior of aquarium area"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5GyXe0ZMksuV4kqRgQtt2A/o.jpg",
+          "caption": "Whales"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RasLlBjDfkr4nGEkoVxisA/o.jpg",
+          "caption": "Beluga whales"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2R7MnYfNMmFcznUBylzjIg/o.jpg",
+          "caption": "Moon jelly fish"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Melissa S.",
+        "user_id": "Q7CLP46RrFglHQEte6x2lQ",
+        "link": "https://www.yelp.com/user_details?userid=Q7CLP46RrFglHQEte6x2lQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0RxdTU8LMxBAoEhvSpu7SQ/180s.jpg",
+        "address": "Maitland, FL",
+        "friends": 152,
+        "photos": 1023,
+        "reviews": 1160,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Once you've been to one aquarium you've seen them all. Pricey ticket but a fun experience. Way too many people with strollers taking up space and the amount of people taking selfies vs. enjoying the aquarium was overwhelming! I would not go a second time but it was fine for one visit!",
+        "language": "en"
+      },
+      "date": "2023-01-09T05:33:43Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 5,
+        "funny": 1,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Guy H.",
+        "user_id": "cUTAO7xfjpRuOcXefbF2Bw",
+        "link": "https://www.yelp.com/user_details?userid=cUTAO7xfjpRuOcXefbF2Bw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qQbUErhf3C2LKCdQEOqluQ/180s.jpg",
+        "address": "Dallas, TX",
+        "friends": 4998,
+        "photos": 24497,
+        "reviews": 1784,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "From tiny bioluminescent flashlight fish to 28 ft whale sharks, this place is Impressive! Wait, that's an understatement. There is no way to describe just how I enthralling the overall experience is.\n\nGo!\nFun facts: \nLargest aquarium on this side of the world\nNon Profit\nHome Depot founder donated the aquarium\nCoca-Cola donated the land\nCorporate Sponsors added $40 million\nAdmissions are used to run the facility\n\nThe facility has the largest veterinarian staff of any aquarium in the world.\n\nIf you are within 100 miles of here, drop everything and Go! Yes, that's how good it is.\n\nI went online to check it out and was offered a discount on parking. so I bought my ticket and parking online which was a breeze, The facility is downtown but, easy to find and park. Tip, do take your parking stub because you have to pay by the elevators, I had to walk back to my car to retrieve said Stubb.\n\nIt was much busier for a weekday than I anticipated but, things moved smoothly with a well-trained staff. As you enter, you are confronted by a huge room with a giant screen playing ocean scenes. As your eyes scan the perimeter you quickly get the idea of how it's laid out. There is a QR code you can scan if you want a map. I generally just wing it and I did this time also. I found it unnecessary to use a map to find  attractions and easily navigate the entire facility,\n\nAs you move through the building and exhibits one thing I noticed right away is the attention to detail and quality of design and construction right down to top-grade materials. For example, the carpet is high quality with design elements that match the overall ocean scheme. Painting designs on the walls, guard rails, signs, you name it, and it's all esthetically pleasing.\n\nThis attention to \"the best\" continues into every exhibit. The designers had to win many awards on this because it's fabulous.\n\nI spent about 31/2 hours here and saw everything but could have easily spent another 2 hours. I have scuba-dived all my life and looking into this aquarium is the closest I've ever felt to being underwater while out. The number and size of fish are astounding and I'm sure an interesting book could be written on the intricate operation it takes to make the wheels turn here.\n\nAgain, Go!!!!",
+        "language": "en"
+      },
+      "date": "2021-10-19T18:31:49Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RyWAOfWqqS4xv_U7-kpzUg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VxBfBv6cfDC1ZKISD81qhA/o.jpg",
+          "caption": "The turtle is scratching his stomach on the pipe"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YeGbn2v44_4MdxHpdM2jkw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/U8Cfuao7n9G0436ogqdGGQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7XGlBK-dspsQVDwIS9KsWw/o.jpg",
+          "caption": "Female and male Georgia alegators."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dKCZorgFR368f1VO-Hh0Fg/o.jpg",
+          "caption": "Simulated Georgia fishing camp taken over by the \"gators\""
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_DvnZx8Kw9JmJ_rSPskgvQ/o.jpg",
+          "caption": "Now these guys were adventureers! Again,not a poster or plastic replica this is the real deal"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7js90KP5HHmfLF-NXGIevA/o.jpg",
+          "caption": "Discus from the Amazon This gives you an idea of attention to detail. They try to simulate the natural environment with live plants etc"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/odHtXPGOYy61KELFpBjJFQ/o.jpg",
+          "caption": "Golden poison frog. I mean wow you can really imagine for a moment you are looking at the forest floor! Detail in this place is top notch"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BdJXm0x-1jLal8SyGz6lRg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 69,
+        "funny": 27,
+        "cool": 69
+      }
+    },
+    {
+      "user": {
+        "name": "Mike B.",
+        "user_id": "ny1BNNBu3aLBxeQHomYTwA",
+        "link": "https://www.yelp.com/user_details?userid=ny1BNNBu3aLBxeQHomYTwA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/9qRhWXheHMJ3JfHD9_HCVw/180s.jpg",
+        "address": "SoMa, San Francisco, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Probably the best aquarium I've ever visited. The exhibits were amazing and the collection of animals was also amazing. I could stay in the Ocean Voyager exhibit all day and watch the whale sharks. This tank was truly breathtaking.\nThe down side is they don't allow any outside food, which would be acceptable if they sold decent food inside. Instead they give you the option of stale sandwiches, microwaved pizza and flavorless fries. The food choices were awful. And for an organization that's often promoting less plastic use, they use a ton of plastic in their cafeteria.\nI also deducted a star for their app. The app is awful and often went to their actual website to get information I wanted that the app didn't offer.",
+        "language": "en"
+      },
+      "date": "2023-06-08T22:15:35Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "AJ B.",
+        "user_id": "Z_C8xDB8mTIkRIIrJNAFmQ",
+        "link": "https://www.yelp.com/user_details?userid=Z_C8xDB8mTIkRIIrJNAFmQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Sj32lD8AA50HcqvX98e7_A/180s.jpg",
+        "address": "Austin, TX",
+        "friends": 122,
+        "photos": 2112,
+        "reviews": 353,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "What a beautiful place! I was so excited to see so many whales! Obviously the belugas and whale shark was my favorite and the main attraction for me, there were so many things to explore including the shark area, sea lion and seal show, alligators, dolphins, tons of jellies and fish! They have a great cafeteria and gift shop! I got a souvenir cup, beluga plush, whale shark shot glass, and beluga magnet. We loved our picture taken at the beginning that we got at the end of our day! We loved the sting Ray touch pond and the various ecosystems! Definitely recommend for any and all ages. We had a blast I can't wait to go back and do some of the activities available!",
+        "language": "en"
+      },
+      "date": "2022-08-07T06:55:11Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/F4aZD6V5lyUV5pzkCyp_wA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Wg-s5VowcL3QMh90rRbIMQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DYhGhenAWpzgtfWf2xMhNg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cOjsj0oJsf0gh4VqURlp4Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3cXkKOsOsQ6obNBYoRt-Tw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Helena E.",
+        "user_id": "EhWPugJIfXTlPnBP9RiaIg",
+        "link": "https://www.yelp.com/user_details?userid=EhWPugJIfXTlPnBP9RiaIg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DhLHckBAPUV46nJfE-OA2Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 261,
+        "photos": 514,
+        "reviews": 311,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I love the Georgia Aquarium and all that it has to offer. I've been to the aquarium twice in the past month with different family, friends, and their children and each time it's been such a pleasure! I definitely agree with another user in saying that I wish there were more activities for adults at night because exploring the aquarium with 200 screaming kids can be a lot. My friend came from out of town last week and she had the same sentiments. I definitely think adding an adult event even if it were monthly, what's serve as beneficial for the aquarium and fun for those of us who love aquatic animal life. If you have time, I recommend attending one of the different shows each time once you've been to each exhibit. The food is Museum priced food, overpriced and not great, they have someone who does caricatures and photo booths, they also take photos of you when you first get in to purchase at specific kiosks or the museum or at the gift shop. Super fun stuff. Dear Georgia Aquarium, please consider doing something for the big kids at heart. Thanks!",
+        "language": "en"
+      },
+      "date": "2023-02-04T02:43:53Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tuFLSFyNitOyFcHw_T4I-A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6JGo27GBSk_Rqz3SELhojA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PZsu9RcMluPAaRpf0fMM9g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kISAP35IpUOIP9WZN_Z8eg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Kirsty C.",
+        "user_id": "N6_jbT3htp6El3mfTBZbnQ",
+        "link": "https://www.yelp.com/user_details?userid=N6_jbT3htp6El3mfTBZbnQ",
+        "address": "TN, TN",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Beautiful aquarium, prices are insane. Forgot to mention a discount, but wasn't really in the mindset. But staff was super nice and we're super helpful, gift shop is typical, the exit, but overall had nice trinkets and clothing items.",
+        "language": "en"
+      },
+      "date": "2024-01-07T21:51:29Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=W2uLX3tc3YrhKKxEIPRmAw&start=200"
+  }
+}

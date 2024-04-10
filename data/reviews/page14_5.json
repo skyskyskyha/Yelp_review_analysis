@@ -1,0 +1,1597 @@
+{
+  "search_metadata": {
+    "id": "65f09cc53e86acb4f0bf338e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f09cc53e86acb4f0bf338e.json",
+    "created_at": "2024-03-12 18:19:49 UTC",
+    "processed_at": "2024-03-12 18:19:49 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/jPXC6g80YPqtku2ykboIUg?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f09cc53e86acb4f0bf338e.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f09cc53e86acb4f0bf338e.prettify",
+    "total_time_taken": 3.09
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 130,
+    "num": "50",
+    "place_id": "jPXC6g80YPqtku2ykboIUg"
+  },
+  "search_information": {
+    "total_results": 1541,
+    "business": "Fogo de Chão Brazilian Steakhouse"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 1541
+    },
+    {
+      "hl": "fr",
+      "count": 1
+    },
+    {
+      "hl": "de",
+      "count": 2
+    },
+    {
+      "hl": "es",
+      "count": 1
+    },
+    {
+      "hl": "pt",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Sandra K.",
+        "user_id": "0Kh_KnhsEFXsJ4ZN2uREFw",
+        "link": "https://www.yelp.com/user_details?userid=0Kh_KnhsEFXsJ4ZN2uREFw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/37Wz_HFc21xvYGt4HY0Ofw/180s.jpg",
+        "address": "Brookhaven, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Fogo is one of my go to's for a last minute date night. The food is delicious and we always get great service. The wait staff are always friendly and accommodating when needed. The ambiance is  also laid back, although sometimes there can be a bit of a wait.",
+        "language": "en"
+      },
+      "date": "2022-11-17T21:53:46Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo Guest Relations",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/wdKrZgvAxAtmLBn9Kb9bgQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Sandra, we are honored to be your go-to restaurant! It is great to hear that you always enjoy the food and service at Fogo as we strive to ensure that our guests have an excellent experience. Thank you for being a loyal guest and we look forward to having you back next time!",
+          "date": "2022-11-18T13:54:02Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jordan P.",
+        "user_id": "byaTpusAPjQC4woPNMoBmw",
+        "link": "https://www.yelp.com/user_details?userid=byaTpusAPjQC4woPNMoBmw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/txkLGMDEl4_qkKk_0LF7vA/180s.jpg",
+        "address": "Boston, MA",
+        "friends": 144,
+        "photos": 40,
+        "reviews": 40
+      },
+      "comment": {
+        "text": "I came here for my 2 year anniversary and had an AMAZING time. I've heard all about Fogo De Chao but never went until recently. It was an unforgettable first time experience. The service and the quality of food was EXCELLENT. I'm definitely coming back here again. I can't wait until next time!",
+        "language": "en"
+      },
+      "date": "2022-04-26T00:03:12Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BKYXsNSS_2c_xNDKOpnyjA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OZ9ybkBoAoO1wAgJlJiuqw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/mY3gXXozGxshKVzv895huQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much for choosing Fogo to celebrate your anniversary, Jordan! We are happy to hear that you had an unforgettable first experience and we look forward to having you back soon!",
+          "date": "2022-04-27T14:27:03Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Cat K.",
+        "user_id": "pbVbeUNuqRHw_Y_GzJHwVA",
+        "link": "https://www.yelp.com/user_details?userid=pbVbeUNuqRHw_Y_GzJHwVA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xV5uO7_I1eYZd9f8sHEYaw/180s.jpg",
+        "address": "Peachtree Corners, GA",
+        "friends": 6,
+        "photos": 0,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Long wait but it was also my first time here and it's V day so that's no surprise- think they were just a lil over booked. food was insanly good and our server estevan was amazing. he clearly knows the restaurant well and deserves all the best!! even though we had a late night reservation he was super energetic!!",
+        "language": "en"
+      },
+      "date": "2023-02-15T04:53:47Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kaila T.",
+        "user_id": "58bJVgt2JyI6LVAcCg5r7g",
+        "link": "https://www.yelp.com/user_details?userid=58bJVgt2JyI6LVAcCg5r7g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nqp6kmK59SkGTs53SdrZLQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 128,
+        "photos": 496,
+        "reviews": 299,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I had always wanted to try this location. I had been to the one in Chicago. This one did not disappoint what so ever. I came here because I was celebrating my 30th birthday. I wanted to gift myself with the Fogo de Chao experience. This restaurant has a health score of a 100 which is always a bonus for me. The staff is adhering to CDC's rules and guidelines. Each server and hostess was wearing a mask and this location primary takes reservations on the weekday and weekends. There is valet parking on the premise as well.\nI made a reservation and waited for about 10 minutes before me and my party was seated. The server was great and he made some really good suggestions. The FOOD was unbelievable good. So good I thought I would cry, quality cuts without needing additional seasoning or steak sauces. I got their passion cocktail and it was great. This place has like an upscale buffet style. So many sides, fruits and roasted vegetables to choose from. Whenever I'm feeling fancy and want to treat myself I'll come back to Fogo.",
+        "language": "en"
+      },
+      "date": "2021-06-13T18:12:49Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0V-rZ9woRRDA75WByQ1NLg/o.jpg",
+          "caption": "The outdoor sign"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3OGgSn-vvLyf4ARXwwBaxQ/o.jpg",
+          "caption": "One of the cuts of meat"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BLCftbH1gRq7MOedoxPzcw/o.jpg",
+          "caption": "Passionate Caipirinha"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ENBpQDG-56PqTVvFEsT5yA/o.jpg",
+          "caption": "An array of yummy foods"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Thien P.",
+        "user_id": "nfTdsDSwBPrkVw8P8_A51A",
+        "link": "https://www.yelp.com/user_details?userid=nfTdsDSwBPrkVw8P8_A51A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/loTd6xaigOu32SFmusz5pg/180s.jpg",
+        "address": "Newport Beach, CA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "Don't waste your time or money. Steaks were extremely salty and dry. Our table kept getting skipped, so we eventually had to ask for people to stop by. We also just asked for regular water and the waiter brought us mineral water, which we were charged $7.50 per bottle. I love steak but this place was a huge disappointment.",
+        "language": "en"
+      },
+      "date": "2022-11-17T02:23:58Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 2,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo Guest Relations",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/wdKrZgvAxAtmLBn9Kb9bgQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Our team endeavors to offer five-star visits for every guest, Thien, so we would love to learn how we might improve your next experience. If you would, kindly send an email to feedback@fogo.com with your phone number and availability. Thank you.",
+          "date": "2022-11-17T15:18:15Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jason T.",
+        "user_id": "CM7-gvGgzXkUXAtl0XHgsA",
+        "link": "https://www.yelp.com/user_details?userid=CM7-gvGgzXkUXAtl0XHgsA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YiKghZHXibTIPVQlZqZEdg/180s.jpg",
+        "address": "Kennesaw, GA",
+        "friends": 288,
+        "photos": 26,
+        "reviews": 156
+      },
+      "comment": {
+        "text": "Always delicious and great service! The meat is obviously what you come for (and it's amazing), but the salad bar and other bars are really good too!",
+        "language": "en"
+      },
+      "date": "2022-12-17T15:29:42Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Steph S.",
+        "user_id": "b7OdJ5LKTL5knYMoBxo_aQ",
+        "link": "https://www.yelp.com/user_details?userid=b7OdJ5LKTL5knYMoBxo_aQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PM3iU_S9pCoEhDNMapqFiA/180s.jpg",
+        "address": "Sacramento, CA",
+        "friends": 947,
+        "photos": 704,
+        "reviews": 271,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Great food! Excellent options and service! Lots of food for the price. I love the ambiance and the way it forces folks to not watch a tv but to have old fashioned dinner conversations. I'd return again",
+        "language": "en"
+      },
+      "date": "2022-04-11T23:24:45Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Brittany B.",
+        "user_id": "nfRHs5w2RT66EnmJd13XSg",
+        "link": "https://www.yelp.com/user_details?userid=nfRHs5w2RT66EnmJd13XSg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4VcQGAMWDZ7ZkXTghnrl7g/180s.jpg",
+        "address": "Downey, CA",
+        "friends": 15,
+        "photos": 36,
+        "reviews": 34
+      },
+      "comment": {
+        "text": "Wow first I'm so impressed with the customer service at this location. My server was Leilani and she was so accommodating, sweet and personable. She frequently checked up on our table. Best service and food I've had in a while. Will definitely return if she's able to serve us!",
+        "language": "en"
+      },
+      "date": "2022-12-05T00:45:20Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mauriceo L.",
+        "user_id": "VdBfVpiDjNqUpJqGubbsiA",
+        "link": "https://www.yelp.com/user_details?userid=VdBfVpiDjNqUpJqGubbsiA",
+        "address": "Sandy Springs, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Made reservations got there early wasn't sat down until 45 minutes after the fact me and my wife got food poisoning food was bland service was horrible I had to wait and extra 40 minutes to pay they didn't acknowledge me until I stood up n walked over to the register",
+        "language": "en"
+      },
+      "date": "2023-08-13T07:46:06Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo Guest Relations",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/wdKrZgvAxAtmLBn9Kb9bgQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Mauriceo, our team is dedicated to upholding our high food handling and preparation guidelines, as the health and safety of our guests are of the utmost importance. We would appreciate a chance to speak with you personally regarding the details of your visit. When you have a moment, please send your phone number and availability to feedback@fogo.com. Thank you.",
+          "date": "2023-08-15T17:45:02Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Roger W.",
+        "user_id": "R3HHh72rAX3DiM6G8K-Yxw",
+        "link": "https://www.yelp.com/user_details?userid=R3HHh72rAX3DiM6G8K-Yxw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JfMSEOTofp-SQ7Sg65nn9g/180s.jpg",
+        "address": "Vorderer Westen, Kassel, Germany",
+        "friends": 307,
+        "photos": 0,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "The service was great!  The food was great!  Fresh and tasty.  As the meats was cooked to your desire and got to your table hot.  The options on the food bar was colorful and enticing!",
+        "language": "en"
+      },
+      "date": "2022-11-16T13:09:02Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Logan E.",
+        "user_id": "MDPg8nqYQEq9GUxaNv5CJQ",
+        "link": "https://www.yelp.com/user_details?userid=MDPg8nqYQEq9GUxaNv5CJQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/m8igA6xuI8gLkkhxi6eiEQ/180s.jpg",
+        "address": "Bowling Green, KY",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "Had an amazing experience, shotout to Jeff and Leilani for taking excellent care of us during our anniversary trip. \n\nDefinitely recommend the picanha steak and creme brulee while you're there, but everything was excellent.",
+        "language": "en"
+      },
+      "date": "2022-08-07T18:31:55Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Cory R.",
+        "user_id": "CQuPNZJ0CCv03SUuPRM2Gw",
+        "link": "https://www.yelp.com/user_details?userid=CQuPNZJ0CCv03SUuPRM2Gw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/d1gYMH1OFCMsAcyAJq_AEQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1049,
+        "photos": 654,
+        "reviews": 184,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Visited 3/4/2020 - came here for a late business lunch with a doctor's office and was glad they chose this place. I haven't been here in years so I was excited for my long and much needed return. They have self and valet parking so you have a choice on how you arrive.\n\nI recommend getting their lunch special which includes the salad bar and all you can eat meat. We feasted on absolutely everything - rib eye, lamb, filet mignon, and much more - to the point there was no way I was going to be able to go back to the office because I needed a huge nap. This place is great for business lunches and highly recommended",
+        "language": "en"
+      },
+      "date": "2020-03-07T12:21:44Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-cEGo2tcyQMgylbylCdqmg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Bart Z.",
+        "user_id": "J9oUadQ8V7J920GeRLSaMw",
+        "link": "https://www.yelp.com/user_details?userid=J9oUadQ8V7J920GeRLSaMw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-3UAJMeQch55LKoaPub6wA/180s.jpg",
+        "address": "Manhattan, NY",
+        "friends": 86,
+        "photos": 75,
+        "reviews": 82
+      },
+      "comment": {
+        "text": "Have heard alot about this place and finally decided to give it a shot when I realized it was close to the hotel i was staying at. Its a very busy spot and even though i had a reservation I still had to wait about 10 minutes before i was seated. I came here mainly for the picanha but it was nice to be able to try a bit of everything. In my opinion with these Brazilian steakhouses its always a good idea to go minimal on the salad bar and go strait for meat to get the best bang for your buck. The food was delicious but I was a bit disappointed that I kept getting skipped over when the waiters came around with the meats. I brought it up to one of the managers however and that was quickly corrected. Wine selection was very good, but the ones on happy hour were not available. Would've been a 5 star if it wasn't for those things.",
+        "language": "en"
+      },
+      "date": "2022-10-11T03:37:05Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Antonio E.",
+        "user_id": "n5Sw2Gx92MowFpwo38K5Sw",
+        "link": "https://www.yelp.com/user_details?userid=n5Sw2Gx92MowFpwo38K5Sw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LbL1I1F6TqQOnYmBAkdvrA/180s.jpg",
+        "address": "Hawthorne, CA",
+        "friends": 2,
+        "photos": 1,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Went in for a night in town with family and received really poor service from the runners and waiters. Seems like the front end try her best to get us situated with meats coming but the attention of the runners seems to  me that they did not want to serve us. I never had an issue with this corporate restaurant else we're but this is by far the worst 62$ I spent here. I would even tell a friend to go .",
+        "language": "en"
+      },
+      "date": "2023-01-02T01:04:38Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo Guest Relations",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/wdKrZgvAxAtmLBn9Kb9bgQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Antonio, ensuring our guests receive top-notch service is what we pride ourselves on, so we are disappointed you received otherwise. Please allow us the chance to speak further regarding the service you received. Kindly send an email to feedback@fogo.com with your phone number and availability. Thank you.",
+          "date": "2023-01-04T03:11:08Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "MikeQue J.",
+        "user_id": "eySrP1QHkQvhAb1jWVkxlg",
+        "link": "https://www.yelp.com/user_details?userid=eySrP1QHkQvhAb1jWVkxlg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KZC1sLnuxd8vhzPDQEAMtg/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 208,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "First off I had been to Rodrizios (I think I spelled it correctly) in Hamilton Place Mall in Chattanooga and had a great experience, so I figured Fogo De Chao would be just as good or even better. We were mistaken. \nFirst off I called because on Google it said the dress code was \"business casual\". I was told jeans were okay as long as they weren't ripped and couldn't wear athletic shoes. We get dressed up to go there to ensure there's not an issue and there's people there with shorts/Athletic Shoes/Athletic Clothing/ripped jeans/do-rags/Athletic team hats.....that was the start of the ruined experience. Waitress was slow in responding to giving us refills and for spending $240 with the tip for 3 people the meat selections weren't near the 15 they advertise on their menu. We won't be back if we ever have to pay for it ourselves.",
+        "language": "en"
+      },
+      "date": "2022-04-28T18:44:06Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/mY3gXXozGxshKVzv895huQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Our guests are very important to us, and we always want them to have an enjoyable time. We're sorry to hear you did not receive all the cuts that were part of your experience, and we would love a second chance to earn your support. Kindly send your phone number and availability to feedback@fogo.com. Thank you.",
+          "date": "2022-04-29T16:28:12Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Bill F.",
+        "user_id": "RamkmRCG2TVmojWFKB5WhQ",
+        "link": "https://www.yelp.com/user_details?userid=RamkmRCG2TVmojWFKB5WhQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QBh9lqU79_fiRRp-ufkDdw/180s.jpg",
+        "address": "Saucier, MS",
+        "friends": 9,
+        "photos": 5,
+        "reviews": 84
+      },
+      "comment": {
+        "text": "You'd best work up an appetite before you come here! We walked around World of Coke and the Aquarium all day before eating at this amazing steakhouse. We did the full experience which includes a huge gourmet salad bar featuring meats, grilled veggies, all kinds of cheeses, and more. \n\nBe careful not to overdo it on the salad bar and then miss out on all the great grilled meats they offer. They come around to the tables with different kinds of meats and different preparations, such as steak, lamb, pork, chicken, sausage, etc. When it is busy you have to keep an eye out on the ones you want and it's OK to ask questions.\n\nMy only complaint is there wasn't much parking but that's typical of a downtown area.",
+        "language": "en"
+      },
+      "date": "2022-04-16T19:44:45Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Robin A.",
+        "user_id": "GoqvTWZDESsRxukjm0BJBA",
+        "link": "https://www.yelp.com/user_details?userid=GoqvTWZDESsRxukjm0BJBA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CCklevtu6yoQ4pUALa99gg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 231,
+        "photos": 0,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "I had a chance to go back to Fogo de Chao today for brunch for a friend's bridal shower. We made a reservation about 3 hours before and once our party arrived we were seated. Everything was so nice and not expensive.",
+        "language": "en"
+      },
+      "date": "2022-12-12T04:47:08Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rocio L.",
+        "user_id": "u0df3x_JhowvizlTya64vw",
+        "link": "https://www.yelp.com/user_details?userid=u0df3x_JhowvizlTya64vw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8RDrW5zj43ILllArgBwHDQ/180s.jpg",
+        "address": "Tampa, FL",
+        "friends": 101,
+        "photos": 35,
+        "reviews": 57
+      },
+      "comment": {
+        "text": "Some yummy sides and delicious and tender meat. You have to be ready to eat at this place. The small breads (pan de Bono's) were delightful. Love the salad and sides bar. I went for three rounds. The salmon, asparagus and cheeses were so good and fresh. It's is pricey but I feel it matched the quality of food. Love the option to decline the meat from coming to the table.",
+        "language": "en"
+      },
+      "date": "2022-11-12T20:11:12Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Scott J.",
+        "user_id": "Kew6HQi7PfkYkU5IhpibJQ",
+        "link": "https://www.yelp.com/user_details?userid=Kew6HQi7PfkYkU5IhpibJQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uMFJo2oLyR_-Dw1-p6o0Ag/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Wonderful meal, and service was excellent! Thanks to Sergio for setting up the private party room for the birthday party event!",
+        "language": "en"
+      },
+      "date": "2022-10-23T22:35:49Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo Guest Relations",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/wdKrZgvAxAtmLBn9Kb9bgQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Thank you for dining with us, Scott! We're pleased to hear that you enjoyed everything and we hope to welcome you back soon!",
+          "date": "2022-10-24T15:18:07Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Erinn G.",
+        "user_id": "edY2jvUVniQ5lmkNh8fvZQ",
+        "link": "https://www.yelp.com/user_details?userid=edY2jvUVniQ5lmkNh8fvZQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pJz92st8SOT7Cr6s0x0kFQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Absolutely horrific this past weekend!  We had a reservation for 6 people at 6:15 this past Saturday, January 7th.  We waited with a slew of other reservations, until 7:05 to be seated.  What happened to the reservation?  The entire waiting area was wall to wall people, minimal bar service, management coming up but not looking ANY guests in the face.  We were told we were next but then saw 3 other large groups go by: one of 7, 8 and 9. I asked about those and they said no, you are next for a table of 6- well then I wasn't next was I. so they honored later reservations with the exact seating- that is ridiculous. I heard people saying they were short staffed- then why were they so overbooked?  Just to take the money?  \nWe were sat in a back corner-I didn't mind that- but we did not receive the same gaucho service. The table server was great, but the gauchos were repeatedly asked to come by, by us and the server, and 45 mins had gone by before we saw anything but the same 3 cuts of meat.  Beyond disappointing. I emailed corporate- and still no response.",
+        "language": "en"
+      },
+      "date": "2023-01-12T16:55:48Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo Guest Relations",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/wdKrZgvAxAtmLBn9Kb9bgQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Erinn, seating our guests in a timely manner as well as offering attentive service throughout your meal is important to us. We apologize this was not the case and appreciate you bringing this to our attention. We want to properly address your feedback and ask that you, please send an email to feedback@fogo.com with your phone number and availability. Thank you.",
+          "date": "2023-01-12T18:30:14Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jacqueline P.",
+        "user_id": "i19_V83ihtIVey8XcEaEaA",
+        "link": "https://www.yelp.com/user_details?userid=i19_V83ihtIVey8XcEaEaA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uwBvXLScyg74as1VnszoAQ/180s.jpg",
+        "address": "Stockbridge, GA",
+        "friends": 79,
+        "photos": 21,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Has a lot more room than what it looks like from the outside. Everyone was kind & pleasant. Made reservations but arrived an hour early & was able to be seated. Salad bar was surprisingly large enough to accommodate the number of people inside (just make sure you're going the right direction) lol. Drinks were on point! Luckily my date was a meat eater cause he could explain the different cuts of beef.",
+        "language": "en"
+      },
+      "date": "2022-07-11T11:12:10Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vptSfrCHC8KWHzroEbU3HQ/o.jpg",
+          "caption": "Lamb, beef, bacon wrapped chicken etc..."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2CN2gh36CrkyleMVxZrd-Q/o.jpg",
+          "caption": "Chocolate Molten Cake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OMX8S7W6EjVbni3-FjuMZA/o.jpg",
+          "caption": "Salad Bar"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brittany B.",
+        "user_id": "86XWlA3EBEoAlTQzZolvDw",
+        "link": "https://www.yelp.com/user_details?userid=86XWlA3EBEoAlTQzZolvDw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ui_NCFe_hm27h8akZ083eQ/180s.jpg",
+        "address": "Brooklyn, Brooklyn, NY",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "I am visiting Atlanta this week and had heard many great things about this restaurant. We wanted to take our team here so had made a reservation for 8:15. By 9:10pm we had not been seated. We went to the bar to get a drink while we waited and ended up waiting nearly 35 min for 7 drinks. We assumed they were short staffed it was Saturday night so we expected to be busy hence the reservation but the drinks were rushed and made horribly. When my boss asked for a remake they refused. She asked for the manager and Brian came over. I have to say I have never heard a manager speak to a customer in the manner he chose to address her. He was rude and dismissive. It was absolutely obnoxious. I am in customer service and was so disgusted with the service. On top of this, the entire wait staff was running by us and kept cussing about the customers they were helping in the restaurant. Needless to say we left and did not dine there. Worst ATL experience yet. DO YOURSELF A FAVOR AND NEVER GO HERE. So many other great options for food in this city.",
+        "language": "en"
+      },
+      "date": "2023-07-09T01:53:18Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo Guest Relations",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/wdKrZgvAxAtmLBn9Kb9bgQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Brittany, our guests should always receive excellent service so please know that we take your feedback seriously. We would appreciate a chance to speak with you personally regarding this matter. When you have a moment please send your phone number and availability to feedback@fogo.com and we will be in touch. Thank you.",
+          "date": "2023-07-10T17:37:24Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jonae K.",
+        "user_id": "iAPDqs0TXwX-E8dke8HWag",
+        "link": "https://www.yelp.com/user_details?userid=iAPDqs0TXwX-E8dke8HWag",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FcL9__WnZQdrsb6AGfOEEQ/180s.jpg",
+        "address": "Palm Desert, CA",
+        "friends": 0,
+        "photos": 8,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "W.O.W !!!! On my flight back to the west and I couldn't stop thinking about how great of a time we had. Best service I've had in a long time. I can't wait to come back. Y'all know if I'm leaving a review service was onn FIRE!!! OMG Leilani was my server and her service was beyond AMAZING! Came with a group of friends and all of us were blown back by how amazing the energy of staff was, literally everything was on point. Would highly recommend valeting and coming here at least once a week foreal! Thank you again.",
+        "language": "en"
+      },
+      "date": "2022-12-05T06:04:24Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Milly C.",
+        "user_id": "zubLZLH63fVC_0F_oys0BQ",
+        "link": "https://www.yelp.com/user_details?userid=zubLZLH63fVC_0F_oys0BQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AKGQ3Y1zjuV3e5fKKOj_sw/180s.jpg",
+        "address": "East Hartford, CT",
+        "friends": 14,
+        "photos": 11,
+        "reviews": 112
+      },
+      "comment": {
+        "text": "I thought this place was so classy!\n\nAtmosphere: chic. Clean. Modern\n\nStaff:.  We had a great server. I cannot remember his name. Please forgive me.  He is probably in his early twenties, tall  slender and had twist in his hair.                      \nHe was very attentive to us, he made us smile and very knowledgeable about the menu. When I return to this restaurant, I hope he's our server.\n\nThe hostesses were very friendly as well.\n\nFood:.  The meat cuts were delicious. The cold bar was impressive. The only thing I can say is that it's a little different from other Brazilian steakhouses that I've been to. I am used to a hot bar as well as a cold bar. I did have some mashed potatoes, polenta sticks, sweet plantains biscuits and two sauces at the table. In my area there's usually a variety of hot dishes.   My favorite black bean stew was a little disappointing.  I found the beans and the sauce we're a little too thin for my liking. I could not recall if there was any type of sausage in it either. But that was probably my only complaint.",
+        "language": "en"
+      },
+      "date": "2022-02-28T23:53:10Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Taylor S.",
+        "user_id": "tAR630uSJ5Njx2W25etEKA",
+        "link": "https://www.yelp.com/user_details?userid=tAR630uSJ5Njx2W25etEKA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kByLtFjMQtvl_-9omEgw-Q/180s.jpg",
+        "address": "Silver Spring, MD",
+        "friends": 2,
+        "photos": 3,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "Best customer service we've had since moving back to Atlanta. The food is great too but to customer service is outstanding.",
+        "language": "en"
+      },
+      "date": "2022-10-07T22:57:07Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jessica T.",
+        "user_id": "hGRxyrBSnOOwGQWg_S4Llg",
+        "link": "https://www.yelp.com/user_details?userid=hGRxyrBSnOOwGQWg_S4Llg",
+        "address": "Tallahassee, FL",
+        "friends": 1,
+        "photos": 3,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Haley was an amazing server. 10/10. Definitely recommend her service.  \n\nEverything was very tasty.",
+        "language": "en"
+      },
+      "date": "2022-12-02T03:43:57Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shannon G.",
+        "user_id": "Mc8dBB_wZfQniUoGq3NTGw",
+        "link": "https://www.yelp.com/user_details?userid=Mc8dBB_wZfQniUoGq3NTGw",
+        "address": "Gilbert, AZ",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Food was too salty. Rushed service. Bartender didn't know how to make a whiskey sour. Left as the food wasn't edible.",
+        "language": "en"
+      },
+      "date": "2023-06-29T01:14:41Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo Guest Relations",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/wdKrZgvAxAtmLBn9Kb9bgQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "We are disappointed to receive your feedback, Shannon, as we never want a guest to feel rushed. Your satisfaction is important to us and we would like to work towards giving you a better experience in the future. If you are willing, please send your phone number and availability to feedback@fogo.com and we will be in touch. Thank you.",
+          "date": "2023-06-29T13:40:11Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jarsmon P.",
+        "user_id": "7qnTt_3Cvyo0FYJHXDXpdQ",
+        "link": "https://www.yelp.com/user_details?userid=7qnTt_3Cvyo0FYJHXDXpdQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fbY_ayuEIwGLGxZFlRl7Hg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 93,
+        "photos": 263,
+        "reviews": 209,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "First time here, and it was AMAZING! Customer service was A1, food was delicious and the ambience was definitely a vibe :) I would definitely visit again, because being that I have low iron I need steak at least once a month. When you check out the tip is already added into the bill. Our server \"Brittany\" was sooo sweet and made sure my first time dining experience was great! I was so excited to eat, being that it was my first time there, I forgot to take any pictures but I would recommend this restaurant for sure. [I went to the Dunwoody/Perimeter,FYI]\n\n*FREE valet parking but tipping is welcome\n*Hand sanitizer stations were present throughout the restaurant\n*MUST wear a mask when away from your table [i.e going to the bar and going to the restroom]\n*ALL staff wore mask \n*CLEAN and prompt service",
+        "language": "en"
+      },
+      "date": "2021-05-03T00:34:44Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Reggie W.",
+        "user_id": "bKBjcQjOnn_s-MV_WbZ8ow",
+        "link": "https://www.yelp.com/user_details?userid=bKBjcQjOnn_s-MV_WbZ8ow",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "This place is wonderful, the quality of the food is great and the people are o friendly had my cousin visiting and he keeps raving about this place till today. \nThanks",
+        "language": "en"
+      },
+      "date": "2023-01-06T10:44:22Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Stephanie T.",
+        "user_id": "uiN1Gy2pKTGKUBiwvq4FpA",
+        "link": "https://www.yelp.com/user_details?userid=uiN1Gy2pKTGKUBiwvq4FpA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ir8d079ycmX-viqupbh_iA/180s.jpg",
+        "address": "Gainesville, GA",
+        "friends": 644,
+        "photos": 53,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "If you love meat, this place is for you!! Every type of meat was so unique and yummy. The market table had such a variety of options from slices of meat, to salads, to olives, and eggplants! They also had soup. Their service was spectacular and their drinks were delicious. I really enjoyed my amaretto sour!",
+        "language": "en"
+      },
+      "date": "2022-06-15T15:16:26Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3s1Op10UuEtBOJRHtNpYBQ/o.jpg",
+          "caption": "Front"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iXw-OEdAp35qjuHyObqqJQ/o.jpg",
+          "caption": "Tres Leches Cake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/o_SvuiOkNKbd74VKx4Uecw/o.jpg",
+          "caption": "Market table"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/i_fxadcxkOY5SUoXB84zhQ/o.jpg",
+          "caption": "Brazilian-Style Flan"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t2NpZ33h3BGa4LUsjVBLXg/o.jpg",
+          "caption": "Market table"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Dominic T.",
+        "user_id": "aMvkIn6sTU81PmduDDxl5Q",
+        "link": "https://www.yelp.com/user_details?userid=aMvkIn6sTU81PmduDDxl5Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/z8pBRzdI13oVLsgFEyDTgA/180s.jpg",
+        "address": "Berlin, Germany",
+        "friends": 21,
+        "photos": 2390,
+        "reviews": 469,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Tonight was our anniversary, and we had the most beautiful time! Eric was our server, and he was the best server we have had in all the times dining at Fogo de Chao! He gave us great recommendations and did not rush us out the door! The food was excellent, we had the Waygu ribeye, and it melted in our mouths, really amazing! This was an extraordinary occasion, and the service was beyond our expectations. The host has something to be desired as we arrive seven minutes early with an empty restaurant and they would not seat us until our reservation time; even sat us later than that. But the service from our server made up for all of that! We couldn't be happier! Thank you for making our anniversary so special!",
+        "language": "en"
+      },
+      "date": "2021-04-11T21:34:13Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hL8eVc4mZADs_mGQf7zkUQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CGIjDYPmdU2wj0BmUN7Dow/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ajnvjwUBg3pEf_3KIFXigA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LVuujI31P9OToMp5f4Gbtg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Marlana G.",
+        "user_id": "3g1rn9V9IBwizMIGQunOSw",
+        "link": "https://www.yelp.com/user_details?userid=3g1rn9V9IBwizMIGQunOSw",
+        "address": "Lawrenceville, GA",
+        "friends": 1,
+        "photos": 1,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "They have turned into the Golden Corral of Atlanta. The food and Service were fine...But when we are paying $150.00 for a meal We don't want to see people wearing pajama bottoms and flip flops. There were little...REALLY little children screaming....tank tops, shorts...come on...if we had wanted a sports bar we would have gone to one.",
+        "language": "en"
+      },
+      "date": "2023-06-11T14:42:46Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo Guest Relations",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/wdKrZgvAxAtmLBn9Kb9bgQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Marlana, our team appreciates your feedback and we're sorry for falling short. Your complete satisfaction is our mission, so we hope you allow us the chance to regain your confidence.  Kindly send us your phone number and availability at feedback@fogo.com. Warm Regards.",
+          "date": "2023-06-13T18:28:58Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kyleih F.",
+        "user_id": "H4XoWZ7yiPKs957j84kVzQ",
+        "link": "https://www.yelp.com/user_details?userid=H4XoWZ7yiPKs957j84kVzQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/f_u8MGsjfQpdFVIJi__OMQ/180s.jpg",
+        "address": "Duluth, GA",
+        "friends": 2,
+        "photos": 33,
+        "reviews": 35
+      },
+      "comment": {
+        "text": "Arrived at this location on accident as we had reservations at the Dunwoody location. We arrived and was told we were at the wrong location. So, we went online and switched the reservation for what was available on online. We were then told that we would have to make a reservations for at least one hour out. Where is this posted online? Or in the description on Open Table? But, it was our fault we went to the wrong restaurant. So, we asked to be placed on the waiting list. We were then told there wasnt one. So... I can request to be seated in 30 minutes, but I cant be put on a waiting list? Hhhmmm\n\nI called and asked to speak to a manager who asked me \"Why didnt I go to the Dunwoody location?\"\nAfter a frustrating conversation, I was told I could be put on a waiting list. This angered us as we told her at the desk that we would wait! The manager then proceeded to tell me the wait jumped from 1hr to 2hr within 30 seconds. Lol This is a joke. Yea... we will go to the Dunwoody location. Our mistake. Thanks.",
+        "language": "en"
+      },
+      "date": "2021-11-25T23:17:57Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 2,
+        "funny": 3,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/mY3gXXozGxshKVzv895huQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Kyleih, we would appreciate a chance to make this up to you, as we value your time and always want to exceed the expectations of our guests. When you're able, please send us a note with your contact information and availability at feedback@fogo.com. Thank you.",
+          "date": "2021-11-29T22:04:45Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Karen S.",
+        "user_id": "iOEYpYfzk9xrjwXBephqew",
+        "link": "https://www.yelp.com/user_details?userid=iOEYpYfzk9xrjwXBephqew",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/V36kqCUXZ0RDkBdKsXY7GA/180s.jpg",
+        "address": "Chattanooga, TN",
+        "friends": 305,
+        "photos": 5,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "Ask for Leilani! She is super helpful and so sweet! Great time with hubby thanks to her and the service team!",
+        "language": "en"
+      },
+      "date": "2022-12-03T01:04:48Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kisha L.",
+        "user_id": "Kk6kN40dy93hEK4mCApXpg",
+        "link": "https://www.yelp.com/user_details?userid=Kk6kN40dy93hEK4mCApXpg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sUyxruboZev6bxjXoHIscw/180s.jpg",
+        "address": "McDonough, GA",
+        "friends": 33,
+        "photos": 6,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "Wonderful restaurant. We went for my wife's Birthday. Haley our waitress was wonderful we truly appreciated her attentiveness and kindness and she takes great pics",
+        "language": "en"
+      },
+      "date": "2022-08-12T03:35:36Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Tiffani W.",
+        "user_id": "d1UjH9fkshnvDsB8C8U-vg",
+        "link": "https://www.yelp.com/user_details?userid=d1UjH9fkshnvDsB8C8U-vg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HVZSsP76xaM7XPkW1rlvfA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Celebrating my birthday made reservations for three during brunch. Had a wonderful time, not many people, so if you do go try going early because it got really busy as we was leaving. Only small issue was the beef rib and filet mignon wasn't coming to my table, but once I ask it came within minutes.",
+        "language": "en"
+      },
+      "date": "2022-01-31T12:07:33Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jRdFWe4DstOL2fe_3_0WAQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Leilani J.",
+        "user_id": "dOGiDBgp0JsgHJbJTCELBQ",
+        "link": "https://www.yelp.com/user_details?userid=dOGiDBgp0JsgHJbJTCELBQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/mmH8GlPZeSRqduPBkFge9w/180s.jpg",
+        "address": "Peachtree City, GA",
+        "friends": 1,
+        "photos": 132,
+        "reviews": 85
+      },
+      "comment": {
+        "text": "2/13/2022 First visit.\nBrazilian steakhouse experience.\nThe staff were nice and took the time to explain the style of eating. \nWe ordered the full churrasco experience + market table + wagyu ancho ribeye + seafood tower. Enjoyed the items brought to our table, the sides and meats, but didn't find the buffet to be anything special. The wagyu ribeye was delicious and by far the best meat. We had to send the seafood tower back, it was so over cooked that the crab could not be separated from the claw, everything soooo chewy. Yuck! Might go back just for a wagyu ribeye, we'll see.",
+        "language": "en"
+      },
+      "date": "2022-04-02T00:44:52Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/mY3gXXozGxshKVzv895huQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for taking a moment to share your detailed feedback, Leilani. Your satisfaction is always our priority so it is disappointing to hear that you are not completely satisfied with your meal. If you would like to discuss your feedback further, kindly email us at feedback@fogo.com with the best way to reach you. Kind regards.",
+          "date": "2022-04-04T15:32:17Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Linda P.",
+        "user_id": "GVGcfjL3MbcpqgfaUT7cLw",
+        "link": "https://www.yelp.com/user_details?userid=GVGcfjL3MbcpqgfaUT7cLw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Spgz00d4I8cSIE5gwlUjhQ/180s.jpg",
+        "address": "Homestead, FL",
+        "friends": 15,
+        "photos": 3,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "I'm in awe of the terrible service they have here!\nI'm here for the second time in a 2 month period and it's worst every time I come. \nWe had reservations for 7pm and did not get a table until 8:30 pm even after arriving 15 min prior. The managers response was \"it's no my fault\"  there is not even a sense of shame or apology ... \nThey DID NOT CARE! it's Wednesday.. how can you not come through on a Wednesday night with reservations ... if you are trying to come here for a good experience.. this is not the place.",
+        "language": "en"
+      },
+      "date": "2021-12-16T01:26:28Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 1,
+        "funny": 2,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/mY3gXXozGxshKVzv895huQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Linda, we apologize for keeping you waiting, as you should've been seated and served in a prompt manner. We understand your frustration, and we would love the chance to invite you back for a wonderful dining experience. When you can, email us your phone number and availability at feedback@fogo.com. Thank you.",
+          "date": "2021-12-16T18:48:50Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Cierra B.",
+        "user_id": "uB6XBIAb3umN0HM-u394qQ",
+        "link": "https://www.yelp.com/user_details?userid=uB6XBIAb3umN0HM-u394qQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cxIRpGqIIHb1Hiie3-DFGQ/180s.jpg",
+        "address": "Jonesboro, GA",
+        "friends": 206,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "We celebrated thanksgiving at this location and the service was awesome!! It was extremely busy but from the start Haley made our dinner relaxed and was so personable.",
+        "language": "en"
+      },
+      "date": "2022-11-25T02:09:44Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alana P.",
+        "user_id": "97S94qtzOutSeKKsuM2BEw",
+        "link": "https://www.yelp.com/user_details?userid=97S94qtzOutSeKKsuM2BEw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/crLX-lnf-tps0JIhdSa1EA/180s.jpg",
+        "address": "Snellville, GA",
+        "friends": 17,
+        "photos": 456,
+        "reviews": 122
+      },
+      "comment": {
+        "text": "Ok come hungry leave happy . My fiance decided to finally take me here for a belated birthday dinner and I am beyond thrilled. When you think of all you can eat you do not think of this bc nothing comes close to this. They are NOT cheap with the meat or the sides for that matter. As long as your coaster is turned to keep it coming it keeps coming and this isn't any cheap tough me, it's great quality meat that's well seasoned and full of flavor. To top it off it'd reasonably priced. Worth every penny and to be honest would've paid more. I'm already thinking of whose birthday is next so I have another reason to come not that a reason is needed. Also It's Happy hour there everyday all day.",
+        "language": "en"
+      },
+      "date": "2021-11-13T22:53:40Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZbnatHaQMpRUuJTk7WB4dw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Te1TBulHFsAcFoGA5vSRkg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GIdFSwzu_Yl8fLpeiUV5Kw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jrAZJ7gs248mqkQgq6t3jA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Connor B.",
+        "user_id": "XRlkx2OSzTfNyLGkGYR0_g",
+        "link": "https://www.yelp.com/user_details?userid=XRlkx2OSzTfNyLGkGYR0_g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/362GH6IVf7swMJzcc5PmhA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 1,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "Make sure you arrive hungry but leave room for the Papaya dessert. Their service is wonderful and it's great for special occasions.",
+        "language": "en"
+      },
+      "date": "2022-12-15T02:33:15Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Harvey R.",
+        "user_id": "wI-P3Pa4LOdLzncerq-G4A",
+        "link": "https://www.yelp.com/user_details?userid=wI-P3Pa4LOdLzncerq-G4A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LsezGnbuLIwwqmk7ByIuKg/180s.jpg",
+        "address": "Mountain View Homes, Phoenix, AZ",
+        "friends": 3,
+        "photos": 0,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "Theme of the night was SLOW... \n\nSlow to get parked, and forced into valet service as entry completely blocked with vehicles. Finally seated 40 minutes after reservation time. Seated in a covered and heated outdoor area way at the back...where we would not have had any service if not for our table server...as the meat servers (gauchos) typically overlooked the room and definitely overlooked us (except for 2) who also could see we were underserved and took requests apart from their own food service. \n\nAfter 2 hours, we were still there, barely served and awaiting the bill. Time to leave.\n\nWould never go back to this location...NEVER...",
+        "language": "en"
+      },
+      "date": "2022-02-19T15:23:25Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/mY3gXXozGxshKVzv895huQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Harvey, providing five-star experiences is always our aim, so we're sorry we missed the mark. To discuss this visit in greater detail, kindly send an email with your phone number and availability to feedback@fogo.com. Thank you.",
+          "date": "2022-02-19T23:03:37Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Alex h.",
+        "user_id": "YfZChJEuLpGskQS3KK5blQ",
+        "link": "https://www.yelp.com/user_details?userid=YfZChJEuLpGskQS3KK5blQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CkPIhIATdOMKuAmk-9o8jg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 438,
+        "photos": 870,
+        "reviews": 147,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This steak house is the place to go if your craving a wide variety of meats and a bottomless stomach. You can start at the buffet bar which had everything from salads to smoked salmon and a great charcuterie board selection. Once you've got your plate of of deliciousness, you ten sit down at your table and flip your meat card from red to green. Then as you dine , people come with a wide variety of steaks on a kabob skewer and ask how you would like your steak along with how much you would like . \nMeats I had - lamb chop, filet steak, house steak, New York strip, sirloin, parmesan pork.\nWould definitely recommend coming here.",
+        "language": "en"
+      },
+      "date": "2020-01-24T01:56:25Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YNsy_u6LOSeTtPljqvNHWg/o.jpg",
+          "caption": "Charcuterie board"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rBKCDR-RRXQRRL0978aQYg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kPu7bExK1MIeInPeeBeAQA/o.jpg",
+          "caption": "Buffet bar"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/keuKzc-UTxFjRXoUyfNAsw/o.jpg",
+          "caption": "Lamb chop"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lvCE-7Y8mcMNiPDz2cAaZQ/o.jpg",
+          "caption": "Cutting off a piece of the New York Strip"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/T0aYBKEFovC-_G-lgcRBlA/o.jpg",
+          "caption": "Buffet bar"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo Guest Relations",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/wdKrZgvAxAtmLBn9Kb9bgQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Alex, we are committed to creating high-quality dining experiences and it is disappointing to know that you were not fully impressed. Our team appreciates your feedback and would like to work towards an opportunity to earn your complete satisfaction. If you are willing, please send us an email at feedback@fogo.com with your phone number and availability. Thank you.",
+          "date": "2023-08-17T13:04:23Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Allison S.",
+        "user_id": "gllzMZgj4R8woFw0KzMwoQ",
+        "link": "https://www.yelp.com/user_details?userid=gllzMZgj4R8woFw0KzMwoQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LQKxk2Vu59fxDb4GY0PhXg/180s.jpg",
+        "address": "Jonesboro, GA",
+        "friends": 3,
+        "photos": 18,
+        "reviews": 64,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Super good if you want to splurge a bit on yourself or your s/o for anniversary, birthday, or Valentine's Day! Super great staff and even have reservations! Love the all you can eat market table and also steaks! Bit pricey, but worth it to go at least once!!",
+        "language": "en"
+      },
+      "date": "2022-02-13T22:20:11Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jess L.",
+        "user_id": "RqewhCK7Kk8zYat05p6T-Q",
+        "link": "https://www.yelp.com/user_details?userid=RqewhCK7Kk8zYat05p6T-Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NT94ovsa4N0TD2RIc82iNA/180s.jpg",
+        "address": "Lorton, VA",
+        "friends": 560,
+        "photos": 345,
+        "reviews": 329,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I've been to the location back home, and i flew in to spend the weekend with my boyfriend before i ship off. He's never been here but as soon as we finished the night away at dinner he loved this place. It was soo convenient since it was literally down the street from our hotel. We ate and ate and ate, and enjoyed the pitcher of sangria which i would recommend to anyone who loves the fruity flavors of wine. The staff was very helpful and very polite in coming to check in on us frequently.",
+        "language": "en"
+      },
+      "date": "2021-12-07T01:49:36Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "D.F. C.",
+        "user_id": "gI4PHxFPg6hxKjPl4zL0BQ",
+        "link": "https://www.yelp.com/user_details?userid=gI4PHxFPg6hxKjPl4zL0BQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TnrGF7jUbSyLxyjOpM3NFg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 63,
+        "reviews": 69
+      },
+      "comment": {
+        "text": "We Usually have terrific meals here...Not nearly as good this visit. Had trouble getting the cuts that we wanted at the temperature we wanted. We asked several times for medium rare cuts of meat (garlic, pichana, etc.), but did not get many options presented to us. Never got lamb chops.  The salad bar was delicious, as always. Overall we were disappointed in this visit. I would consider only going on the weekend or busier nights so that you get steak cooked at the temperature you desire.",
+        "language": "en"
+      },
+      "date": "2022-10-02T03:29:02Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo Guest Relations",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/wdKrZgvAxAtmLBn9Kb9bgQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "It's very disappointing that the food and service weren't up to par during your visit. Please give us an opportunity to speak with you further about your visit and the service you received. Kindly reach out to us at feedback@fogo.com with your contact information and availability. Thank you.",
+          "date": "2022-10-03T19:03:15Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Desiree G.",
+        "user_id": "kjyLhnDUpEjXG6iWbB1ohQ",
+        "link": "https://www.yelp.com/user_details?userid=kjyLhnDUpEjXG6iWbB1ohQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KLgYlKRsVn1izJB5oO3xmg/180s.jpg",
+        "address": "Austell, GA",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "I picked this place for my birthday celebration...needless to say I was a little disappointed considering the price per meal...we asked for a certain cut of meat(which is offered...and featured)  more the 4/5 times. It was so frustrating that even our waitress noticed the issue more than twice...We placed our concerns with her...but will never go back to this location...with a party of 9 not one of my guest were satisfied with the service",
+        "language": "en"
+      },
+      "date": "2022-11-12T14:29:18Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo Guest Relations",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/wdKrZgvAxAtmLBn9Kb9bgQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "It disappoints us to see we missed the mark during your birthday, Desiree. We apologize for only earning your 3-stars, and hope to have another chance to regain your support. Please send an email to feedback@fogo.com with your phone number and availability. Thank you.",
+          "date": "2022-11-14T19:54:32Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Greer W.",
+        "user_id": "Lzhhh00DHS5zJSMv0ZtLPg",
+        "link": "https://www.yelp.com/user_details?userid=Lzhhh00DHS5zJSMv0ZtLPg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RrYm8V2GXZ71V5amSKFsjQ/180s.jpg",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "This was the worst experience I've ever had at fogo de chao. My family from out of town loves to eat here when they are in from out of town. We eat here about 5 times a year and either eat at the Atlanta or Dunwoody location. This was the absolute worst service and experience we had ever had. We had a 1 o'clock reservation for a group of 5, we arrived at 12:45 and were asked to sit in the waiting area by the bar. We were seated by 12:55 but had to wait for over 10 min until a server became available, the man that walked us to the table tried to make conversation but it was an uncomfortable more then 10 minutes for everyone while we waited on our server. Once seated we ordered drinks and helped out selves to the market table and which was not being refilled multiple things were empty for most of our meal and not being refilled. 4/5 of the people in our group got the meat experience and had their cards flipped to green. The server brought water but did not bring additional drinks we ordered wine and sweet tea until we had already finished a couple plates of food. Within 20 minutes of sitting down no meat had come by. We had to ask multiple times for them to bring meat by. There were several servers who would come out with fresh meat serve two people at a table and then run back into kitchen. We asked our server several times for specific cuts of meat, and they never came. There was literally nothing more we could of done other than asking our server over and over and the meat never coming. We were kinda done and they came by and cleared our dirty plates, we were still waiting on a specific cut of meat ribeye and the grilled cheese which we told the server this but they never brought new plates and the meat and cheese never came . It was such a disappointing visit and for $200+ there are so many better restaurants in Atlanta. We will not be back anytime soon if ever.",
+        "language": "en"
+      },
+      "date": "2023-02-20T16:47:32Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo Guest Relations",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/wdKrZgvAxAtmLBn9Kb9bgQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Greer, we appreciate your family visiting, but please know that what you've described is not a reflection of our high standards. Offering great service is a top priority here, so it's disappointed to hear this was not the case. Kindly send an email to feedback@fogo.com with your phone number and availability. Thank you, and our team will be in touch.",
+          "date": "2023-02-22T21:50:27Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Alex N.",
+        "user_id": "v3V35oB4kxedMuhBRvJKxA",
+        "link": "https://www.yelp.com/user_details?userid=v3V35oB4kxedMuhBRvJKxA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Z_uVKR_5I4HnlfpaL_A1tg/180s.jpg",
+        "address": "Powder Springs, GA",
+        "friends": 0,
+        "photos": 42,
+        "reviews": 42
+      },
+      "comment": {
+        "text": "It's always delicious going to Fogo. I personally enjoyed their garlic steak and filet mignon. They also gave a free celebratory Flan for getting married that weekend.",
+        "language": "en"
+      },
+      "date": "2022-04-29T18:41:28Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Q3xwyu9VweXkIftJtMayvQ/o.jpg",
+          "caption": "Brazilian-Style Flan"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "David E.",
+        "user_id": "yoBUBqMFs6nPboruDDyjPQ",
+        "link": "https://www.yelp.com/user_details?userid=yoBUBqMFs6nPboruDDyjPQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GLKcG9_-ylb3VMBSw0JtKw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 47,
+        "reviews": 67
+      },
+      "comment": {
+        "text": "Still great!! Chama closed so fogo is very busy. Sergio was great!! Had the special wagyu meat. Unbelievable melt in your mouth!!\n\nThanks Sergio!!",
+        "language": "en"
+      },
+      "date": "2020-08-19T00:41:06Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ERm9l5x3BA1sPmWMpjtCuQ/o.jpg",
+          "caption": "Meat shop on skewer."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cp4-M_eGPZEYxWxMe4pXOw/o.jpg",
+          "caption": "Bottom sirloin"
+        }
+      ],
+      "feedback": {
+        "useful": 5,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Fogo D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/mY3gXXozGxshKVzv895huQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much, David! We are so excited to be able to continue to serve our communities during these times and greatly appreciate you taking the time to let us know about your experience.  We hope to serve you again soon!",
+          "date": "2020-04-03T18:02:20Z"
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=jPXC6g80YPqtku2ykboIUg&start=180"
+  }
+}

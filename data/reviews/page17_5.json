@@ -1,0 +1,1588 @@
+{
+  "search_metadata": {
+    "id": "65f0a1c7c7ad4160cbe6091c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f0a1c7c7ad4160cbe6091c.json",
+    "created_at": "2024-03-12 18:41:11 UTC",
+    "processed_at": "2024-03-12 18:41:11 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/eMJGDVzTH7mbGNWIfz6jcQ?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1c7c7ad4160cbe6091c.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1c7c7ad4160cbe6091c.prettify",
+    "total_time_taken": 2.4
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 160,
+    "num": "50",
+    "place_id": "eMJGDVzTH7mbGNWIfz6jcQ"
+  },
+  "search_information": {
+    "total_results": 642,
+    "business": "La Tavola Trattoria"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 642
+    },
+    {
+      "hl": "es",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Allie K.",
+        "user_id": "mf2vSW8eNAbq_981gVJx_g",
+        "link": "https://www.yelp.com/user_details?userid=mf2vSW8eNAbq_981gVJx_g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ykqPzx1jq_PzOl5uTk6orA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 32,
+        "photos": 119,
+        "reviews": 127
+      },
+      "comment": {
+        "text": "Finally made it to La Tavola and am so glad I did! It is tough to get a reservation here for good reason. The food is awesome and the space is not the biggest. I had a guest in town and knew this would be a crowd pleaser. The service was quick and friendly, we were seated only a few minutes after our reservation time. \n\nWe started with a Cesar salad and the pasta salad to share among three people and with those plus bread, it was the perfect amount of food before our meal. \n\nFor our meals, we got the Taglioni, Squid Ink Spaghetti, and Tagliatelli and we all loved what we ordered. Most higher end Italian restaurants serve small portions but all of us were stuffed after our meals and pleasantly surprised at the portion size. \n\nFor parking, we were lucky to find a street spot but there is plenty of public parking in the area. \n\nI'll definitely be back!",
+        "language": "en"
+      },
+      "date": "2018-07-02T16:23:33Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Coleman T.",
+        "user_id": "EFPCmFfdixsWqzHLUWdTDA",
+        "link": "https://www.yelp.com/user_details?userid=EFPCmFfdixsWqzHLUWdTDA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LWvoncJ8Z_zJYq4GN07W7Q/180s.jpg",
+        "address": "Cabbagetown, Atlanta, GA",
+        "friends": 1,
+        "photos": 1,
+        "reviews": 29
+      },
+      "comment": {
+        "text": "I treated myself to takeout during COVID. The bolognese was great! I'm Italian and extremely picky so that is saying a lot. I cannot wait to go in person.",
+        "language": "en"
+      },
+      "date": "2021-01-10T16:00:54Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Robb B.",
+        "user_id": "1TLXIR89kaa-EFGvaPAoPw",
+        "link": "https://www.yelp.com/user_details?userid=1TLXIR89kaa-EFGvaPAoPw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/jOxYMLD0vmXoDzvhF2jUXg/180s.jpg",
+        "address": "Bozeman, MT",
+        "friends": 0,
+        "photos": 19,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "We arrived at the restaurant and were seated right away even though we were late. We were given our choice of inside or outside. We chose outside. The seating was quaint and comfortable. Our server was very pleasant and knowledgeable. He was also willing to give us his opinion when asked. We had appetizers and drinks which were delicious and refreshing. Our dinner showed up pretty quick. The spaghetti with veal meatballs was very good! The Marinara was spectacular! I also had a House Greens salad. The fresh peas and roasted tomatoes were a very nice touch. The Risotto was also very very good. For dessert I had the Boccone Dolce! It had fresh peach's and a  marmalade with ice cream on top. Normally I have a chocolate something but decided to break out of my usual. I was greatly rewarded by this dessert! I would recommend it....heck even have it first before the main course!",
+        "language": "en"
+      },
+      "date": "2019-09-06T01:10:14Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tlRWEDXPVJa8mFlnuklInQ/o.jpg",
+          "caption": "Crisp Hard Cider after a hot summer day.....simply spectacular!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/q2uUQHaB6PAwCSnIeL7gqw/o.jpg",
+          "caption": "House Green Salad"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4Mg6euz2BNG5-eDYQUcRbA/o.jpg",
+          "caption": "Boccone Dolce"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Xssne3qqROw0WEUTPC8_-A/o.jpg",
+          "caption": "Roasted Calamari"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_ZC3O88YQINJ6pCCFN8XtA/o.jpg",
+          "caption": "Spaghetti w/ Veal meatballs"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Cindy C.",
+        "user_id": "vO6-am_X2RmLyfo80iJnOA",
+        "link": "https://www.yelp.com/user_details?userid=vO6-am_X2RmLyfo80iJnOA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dDk2IyT5Ymg-V7WfedvANA/180s.jpg",
+        "address": "New Market, AL",
+        "friends": 0,
+        "photos": 7,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "This used to be one of my favorite restaurant to go to... the Nostalgic atmosphere with both music and food when we lived in the Atlanta area was Best.  Living in Huntsville now, I always recommended friends to La Tavola Trattoria, however after 6 years of not living in this area and going back, I 'm unlikely to recommend going forward...   The service was good, the food was just okay. Pot Roast was the closest I could come to a Filet Mignon, and for the price I could make this at home with other sides for our company and more....    NO Filet Mignon, Appetizers was okay, and the music was too loud with today's music, our company commented the music as \"too spastic\".  Sorry to say we will not be recommending your new updated version nor will we be revisiting any time soon.  \nThere was no place like like it in Atl... nostalgia is dead...",
+        "language": "en"
+      },
+      "date": "2018-11-25T16:57:29Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Sameer N.",
+        "user_id": "PYNrLw-kh7Iq5QjHBiq57Q",
+        "link": "https://www.yelp.com/user_details?userid=PYNrLw-kh7Iq5QjHBiq57Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/g1nY6MmnOMEHT6vDMc2hew/180s.jpg",
+        "address": "Miami Beach, FL",
+        "friends": 90,
+        "photos": 5,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "The food was mediocre at best, expensive entrees with many not being entirely complete (i.e. protein, starch, and/or green). We ordered the following:\n\nVeal meatballs\nRisotto (lacking)\nSquid ink pasta (this was fairly good)\nTiramisu (Ok, nothing great)\nWhite wine (fair)\n\nThis is more of a wine spot I think then anything else, but wine offerings are ok. \n\nNot sure how this gets above a 3.0 without improving food.",
+        "language": "en"
+      },
+      "date": "2018-11-09T17:21:29Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jordan R.",
+        "user_id": "kdnnygz3JPGf7RhGxdZUTg",
+        "link": "https://www.yelp.com/user_details?userid=kdnnygz3JPGf7RhGxdZUTg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/p_vEsgKGWaz0FXoAUgaYnA/180s.jpg",
+        "address": "Chicago, IL",
+        "friends": 43,
+        "photos": 555,
+        "reviews": 265,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Delicious! We love Italian, and this was a great place. It's surprisingly small, but they have a back patio that we did not see. We started with the meat platter and added cheese. I was a bit disappointed in the small amount of cheese (I don't eat red meat) but it was really good. He said the prosciutto was incredible. We had a decently priced wine as well. For the entree, you have to get the mushroom ragu!! One of my favorite meals in Atlanta now. He had the veal shank, but he ended up liking mine more, and it's a more reasonable price. We shared tiramisu and the olive oil lemon cake. GET THE CAKE! It was lemony and fresh but not in an overpowering way. Far surpassed the tiramisu. Overall a great restaurant, but it was a splurge!",
+        "language": "en"
+      },
+      "date": "2017-03-12T01:54:44Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OrVSUs1alPX67CBrKP7T3A/o.jpg",
+          "caption": "Dark picture but tiramisu and lemon cake"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Elliesa B.",
+        "user_id": "8JP-GW3dJih0aamW-RKP6g",
+        "link": "https://www.yelp.com/user_details?userid=8JP-GW3dJih0aamW-RKP6g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/9-1Cw78DGiajcQxi1Or8yw/180s.jpg",
+        "address": "Bath, United Kingdom",
+        "friends": 372,
+        "photos": 10,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "Went in for a solo dinner last night as I was stopping in Atlanta for the night on my roadtrip across the country. \n\nAfter asking to sit at the bar I was greeted by The lovely bartender, that I believe was called Jen (forgive me if I've forgotten). Anyway, she was lovely. I wasn't sure which wine I wanted, but I knew I wanted something along the lines of a Sauvignon blanc. They didn't have one, so she let me try a couple that were similar. \n\nI got my wine and some olive oil and bread. Then I made my food decision. \n\nThen I went for the squid ink spaghetti  which has calamari, Calabrian chilis, and Thai basil pesto. It was AMAZING! No wonder this place has great reviews. \n\nGreat food. \nGreat service. \nIf you're ever in Atlanta, GO!",
+        "language": "en"
+      },
+      "date": "2016-11-01T00:30:52Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cL0j1pZyTb_iUe8P0DIz9w/o.jpg",
+          "caption": "Squid ink spaghetti: calamari, Calabrian chilis, Thai basil pesto."
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Christina C.",
+        "user_id": "7SI6u6arpiYnJHYalZKMZQ",
+        "link": "https://www.yelp.com/user_details?userid=7SI6u6arpiYnJHYalZKMZQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/F3zZQAv5-ahfjUIVlUEYVA/180s.jpg",
+        "address": "Alpharetta, GA",
+        "friends": 0,
+        "photos": 7,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "Tried this restaurant for the first time with my friends. This restaurant makes their food from scratch; pasta and cured their own meat.\n\nThe appetizer meat plate and veal meatballs are to die for. Followed by the pastas. You can order them in a smaller portions to sample more varieties. Another great dish is the saltimbocca! So good.\n\nA meal without desserts will not be complete. Warm apple cake, Tiramisu, Cannoli, Toasted Marshmallow Gelato and Lemon Sorbet!!! Try it all",
+        "language": "en"
+      },
+      "date": "2016-10-30T04:45:49Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bGm3sd3s077LnBGva7VB0Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FXdKxKQ_FoC0EVwUGmWSQA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rUrdExyY6yEM3ReXLBDt8Q/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Julia H.",
+        "user_id": "tcoRekk5TnDe5h-d01YtzQ",
+        "link": "https://www.yelp.com/user_details?userid=tcoRekk5TnDe5h-d01YtzQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OethPFkWXCfbvsIk5wd9ag/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 14,
+        "photos": 451,
+        "reviews": 108
+      },
+      "comment": {
+        "text": "La Tavola is a great gem in Virginia Highlands. The food and service is always on point!",
+        "language": "en"
+      },
+      "date": "2019-03-25T19:01:18Z",
+      "rating": 5,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R8Ipf9n0pT-m2biS1CKJiw/o.jpg",
+          "caption": "Flounder tomato special"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/k2dpLKgWh4jCkxYd0g7FIg/o.jpg",
+          "caption": "Ribeye with tomato and potato gratin on special menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1CzqJW0vSHe4CMvkgPNSQA/o.jpg",
+          "caption": "Bruschetta"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rw8xnon5qgRprJi1bSS_TQ/o.jpg",
+          "caption": "Grilled calamari"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KIAxb98Ak-gCidjCqBYU0w/o.jpg",
+          "caption": "Fareo, zebra tomatoes and shrimp salad"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4b6MsgLUklNDxFHHHRfkzg/o.jpg",
+          "caption": "Meat and cheese"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/61LgkqOiQnvlfWG4XYPZzw/o.jpg",
+          "caption": "Bread and olive oil"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ksenia F.",
+        "user_id": "4XhMzobkIda_y1DyQH54AQ",
+        "link": "https://www.yelp.com/user_details?userid=4XhMzobkIda_y1DyQH54AQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oNq6grgKI-ipMGs0ZUm7fA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 304,
+        "photos": 2842,
+        "reviews": 495,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I'm between 3 and 4 on this one. La Tavola belongs to Fifth Groups Restaurants chain and I much rather prefer Lure and South City.\n\nThe first time I came here because of the rabbit entree. The restaurant is quite small and intimate and I actually had the chance to meet the manager, who came over for a chat, and the executive chef. Both super nice guys.\n\nThey have a full bar so I ordered a manhattan (what else is new haha). \n\nFor my app I tried roasted beets with farro- very good. Beets were satifsyingly crunchy yet cooked. \n\nMy main dish was the aforementioned braised rabbit with a custom maid side of farro and a whole bunch of secret ingredients lol. It was not on the menu but the manager wanted to impress and I was!\n\nI went back here expecting the rabbit but they took it off the menu pretty much the same month and never brought it back in 3 years. I keep checking the menu but it's never on it and none of the other dishes want me to go back.\n\nOverall impression: I'm not a huge fan of Italian food (go ahead, throw your tomatoes at me) but I will come back to this place if they bring back the rabbit. Or do venison or something other than the traditional Italian choices. They also have a heated patio out back, shared with other businesses. Parking van get very tough though, I'd suggest uber/lyft.",
+        "language": "en"
+      },
+      "date": "2016-12-18T23:49:01Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Hana Y.",
+        "user_id": "fVUObLJZdZMeuI2gNWZT0A",
+        "link": "https://www.yelp.com/user_details?userid=fVUObLJZdZMeuI2gNWZT0A",
+        "address": "Houston, TX",
+        "friends": 400,
+        "photos": 14,
+        "reviews": 48
+      },
+      "comment": {
+        "text": "My boyfriend and I came here for our anniversary. \n\nWe sampled the Tagliolini as an appetizer. I had the squid ink pasta and my boyfriend had the veal. They were both flavorful and seasoned well. We both ordered drinks as well. We didn't care as much for the Tagliolini but it was pretty darn good - lots of truffle if you're into that! The tiramisu is a MUST. We loved it here!\n\nIf we're ever in Atlanta again, we'll most definitely be back.",
+        "language": "en"
+      },
+      "date": "2021-01-17T00:26:53Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Addy C.",
+        "user_id": "oAf9OkoaeE252ijLydHUqA",
+        "link": "https://www.yelp.com/user_details?userid=oAf9OkoaeE252ijLydHUqA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/h4MKYsa4RZJjnttGyRXqvQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1063,
+        "photos": 6688,
+        "reviews": 1104,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I'd been here a few times many yrs ago, enjoyed the food, loved the ambience - and since then, honestly just kinda forgot about the place. But I have this thing about good deals and after having heard about Monday $10 pasta nights, I picked this place to revisit w/ a couple friends. \n\nExcept after reading the reviews, I got intrigued by the rabbit sausage pasta and got that instead (not on the $10 pasta list) - ordered an \"appetizer\" portion to save $5 but mostly b/c I wasn't sure I'd even like rabbit sausage. FYI - all pastas are available in appetizer portions for $5 less than the entree portion which is a nice option. \n\nMy dish was called \"Pennoni Rabbit\" which was baked tube pasta stuffed w/ house-made rabbit sausage in a swiss chard-bechamel sauce ($16.50 entree, $11.50 appetizer). The dish arrived piping hot but I was like oh no, the app portion looked really small. But it turned out just right b/c the sausage was very filling and the sauce was pretty rich. My thoughts - tasty, a little on the salty side, still glad I tried it but not something I'd probably order again. I decided I really like pasta and at Italian restaurants, I probably should stick to dishes that are mostly pasta (vs. meat). \n\nBoth my friends got the \"Baked Manicotti\" which was one of the 4 $10 pasta specials. Their dish was really good, and very filling - I could probably make 2 meals if I ate that dish. Their manicotti had beef, veal, tomato, spinach, & balls of mozzerella. Yummy.\n\nAlso shared the \"Grilled Calamari\" app which was very good ($8.75). The app also came w/ garlic roasted cauliflower, Gaeta olives (which almost looked like blueberries in the dim light), cherry tomatoes, & pickled red onion in some type of Balsamic vinegar dressing. Delicious!! I just wish there were more calamari than cauliflower :)\n\nService was very good. Enjoyed the complimentary bread, too - I'm addicted to bread so I probably ate too much :) Separate checks weren't a problem, and props to La Tavola for using Yelp pens when bringing the checks.\n\nFYI - no problems finding nearby street parking.",
+        "language": "en"
+      },
+      "date": "2010-05-25T12:08:39Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Sddq3Fyop36tx7p1OHHLZA/o.jpg",
+          "caption": "Grilled Calamari"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/F1t0QnTwPeTrRMm-BAcShA/o.jpg",
+          "caption": "Pennoni w/ Rabbit - app portion"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tLw550-UcYWnVPR8FcXhmg/o.jpg",
+          "caption": "Baked Manicotti"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Ray B.",
+        "user_id": "B3Gv5GacBrQmbq183QD4qg",
+        "link": "https://www.yelp.com/user_details?userid=B3Gv5GacBrQmbq183QD4qg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_RWDpC4s-2eaFEHH2EiY-A/180s.jpg",
+        "address": "Jacksonville, FL",
+        "friends": 40,
+        "photos": 72,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "What a great, unexpected find when exploring the Virginia Highlands for the first time! Walking in the door, we were hit with the smell of Sunday afternoons - welcoming home cooked meals that you just knew were going to soothe your soul and make your belly incredibly happy.\n\nEverything was on point; both food and service. \n\nWe started with the Burrata and the Tagliolini (mushroom ragu, pecorino Romano ), and continued to feast on their Tagliatelle bolognese, classic beef, veal and pork ragu and Saltimbocca alla Romana: veal, prosciutto, fingerling potato, anchovy vinaigrette.  \n\nThis truly was one of the best meals I've had since moving to Atlanta. \n\nBusinesses nowadays want to know if you'd \"Refer to a Friend.\" For me, La Tovola is a resounding YES! I'd stake my foodie reputation on it.",
+        "language": "en"
+      },
+      "date": "2016-10-30T12:38:36Z",
+      "rating": 5,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KIE1kE2FIdaqDsoJMo8pFw/o.jpg",
+          "caption": "Burrata with persimmon conserva, arugula, sea sal"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rV9MRyzG2UkD0s3b8BVA0w/o.jpg",
+          "caption": "Tagliolini mushroom ragu, pecorino Romano (appetizer size)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dAI8gRovf9rm2VwtQk3bsA/o.jpg",
+          "caption": "Saltimbocca alla Romana:  veal, prosciutto, fingerling potato, anchovy vinaigrette"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lggSXANDx-IhVmyJ_AiaYg/o.jpg",
+          "caption": "Tagliatelle Bolognese: classic beef, veal and pork ragu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mT6DQA_P24m7c2O_08u5_A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_FqLzdVyuTqtDF_FWSQjOw/o.jpg",
+          "caption": "Burrata with persimmon conserva, arugula, sea sal"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XOCZk60CgZjYC1d7Z9jN-g/o.jpg",
+          "caption": "Dining al fresco"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-f6Cvl2MdqQtTIQmSQEMcw/o.jpg",
+          "caption": "Dining al fresco"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Suzanne D.",
+        "user_id": "Z2JUw90KEM1gH-G7uomJ_w",
+        "link": "https://www.yelp.com/user_details?userid=Z2JUw90KEM1gH-G7uomJ_w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WYJ-ZN2GFyzHx6WI7okCUA/180s.jpg",
+        "address": "East Point, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 41
+      },
+      "comment": {
+        "text": "Went to dinner there right at opening time (5:00) with no reservation.\nThey were courteous and seated us outside on the covered patio.\nService was friendly and efficient:) \nShe described the offerings, made suggestions \nfor wine and the nightly specials!\nI had a veal entree, my friend had a pasta dish.\nI'd definitely return again, was impressed.\nI'd vote for going early , as we exited the dining room it was crowded and pretty noisy!",
+        "language": "en"
+      },
+      "date": "2019-04-03T12:37:53Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shawn V.",
+        "user_id": "I2ooKE63kX5yCuV7gCKPsA",
+        "link": "https://www.yelp.com/user_details?userid=I2ooKE63kX5yCuV7gCKPsA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DOzw5MiarrKATUM_J1dUMg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 227,
+        "photos": 42,
+        "reviews": 37
+      },
+      "comment": {
+        "text": "Park behind the restaurant. My girlfriend and I went for our anniversary. Good Italian food. I had the Bolognese and it was very good. Great service. Sit out back if you can.",
+        "language": "en"
+      },
+      "date": "2021-01-07T18:11:21Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "David T.",
+        "user_id": "0geOCH93KVUzWI07QNVBrg",
+        "link": "https://www.yelp.com/user_details?userid=0geOCH93KVUzWI07QNVBrg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ILIlMU4naDYsSGpD-67zBg/180s.jpg",
+        "address": "Decatur, Atlanta, GA",
+        "friends": 48,
+        "photos": 3171,
+        "reviews": 281,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The cupboard was bare when we got back home from our weekend trip.  We decided to go to La Tavola in Virginia Highlands on Monday evening - restaurant is on VA Ave near the intersection of Highland Ave.  Decided to write a review after several visits.  As most yelpers have indicated, this is a very nice restaurant.  Valet parking and street parking is available.  I was able to score a reservation for 2 in less than an hour from my call which was surprising.  The interior space is tight, but they do a good job of squeezing folks in.  We were seated on the back patio which is climate controlled and was pleasant on a cool evening.  Our server, Harris, was good.  He seemed to know the menu well and gave us good guidance.   They run a special called MaltoMonday which offers several pasta dishes for $10 each.  We chose the rigatoni (w/ a meatball for $3), and the bucatini.  Each pasta dish was served al dente.  The rigatoni had genrous grated cheese, and wonderful tomato based sauce with herbs.  One meatball was enough for me.  The egg in the bucatini adds a silkiness that is very appetizing.  We also had a fresh ceasar salad, a wonderful side of  lentils with parsnips & carrots (side for their duck entree), and a nice bottle of red wine.  Overall experience was excellent.  We like this spot and plan on returning soon.  You should check it out.",
+        "language": "en"
+      },
+      "date": "2018-11-24T01:25:04Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/s4WCBqSvTlr_9oGgBAKkVQ/o.jpg",
+          "caption": "La Tavola - ceasar"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0T9F1iFwxxmmomGnNiSrBQ/o.jpg",
+          "caption": "La Tavola - MoltoMonday"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WDBsPgoFSoHet2S-gNM6yg/o.jpg",
+          "caption": "La Tavola - menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/m35EdAGJXlQoOFaOOv8UVQ/o.jpg",
+          "caption": "La Tavola - bucatini carbonara"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7E-0io3TTrNpe9nsJULLIQ/o.jpg",
+          "caption": "La Tavola - lentils, parsnips, carrots"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WYg1hbaYLxhQO_Hy-ljF0A/o.jpg",
+          "caption": "La Tavola - rigatoni al forno"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Duston P.",
+        "user_id": "gc5AQ0jkVnAWBvSkJIr0wg",
+        "link": "https://www.yelp.com/user_details?userid=gc5AQ0jkVnAWBvSkJIr0wg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3mA331Di5OpSFhWPhMfl1Q/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 328,
+        "photos": 2,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "Our overall experience was good. Food was hot and delicious with a couple unique options and other traditional dishes. I do have a few issues...the regular menu is very limited. They gave us an additional paper menu that had delicious seasonal options. I'd recommend updating your menu seasonally to have the whole menu in one place. Also, the fact that some of the pastas were entree size and others were not - all listed in the same category - made the explanation of the menu for your service staff challenging. I watched our server take at least 20 minutes to explain the menu and take the order for a 5 top. Not very efficient! \n\nAlso, the manager seemed lost. I never saw him do anything but stand and look around (very awkwardly) and occasionally speak to a table. Get in there and work with your people, man! Run some food, bus some tables! Prebus! They needed the support, but honestly did a good job given how busy they were. I think a lot of people had early reservations before seeing Wicked at the Fox, as we did.\n\nMost of your pastas are in the $16-$20 range - which is perfect, even if I think you could get a few dollars more. They were all delicious! However our Caesar salad - which was nothing different than you would get in any chain restaurant was $10!!!  That seems out of line with the pricing with the rest of your menu. Jazz it up or drop the price. May even wanna serve it family style at that price with a larger portion?\n\nLastly - the server uniforms are TRAGIC!!!! Our server, a red headed young lady - was wearing Dickies jeans and a faded, stretched black t-shirt. All of the other servers looked about the same. If that's going to be your uniform (and I wouldn't recommend it) you may want to put some restrictions on what is appropriate. I really think a uniform update would enhance your guests' experiences!\n\nI would absolutely dine here again - like i said - the food was great! I think it may just be time for some updates! Three stars.",
+        "language": "en"
+      },
+      "date": "2019-10-27T19:59:19Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kouhei M.",
+        "user_id": "zcQ-f_meQGyIjRK1EJ7ZWA",
+        "link": "https://www.yelp.com/user_details?userid=zcQ-f_meQGyIjRK1EJ7ZWA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ppng049rIocBz38x1KmAHw/180s.jpg",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 6,
+        "photos": 0,
+        "reviews": 32
+      },
+      "comment": {
+        "text": "Thanks to yelp for advising La Tavola Trattoria. It's kinda the perfect location. Everything that I have tried has been rather flavorful. Everyone that works there is always very helpful. But that's just me.",
+        "language": "en"
+      },
+      "date": "2021-01-27T22:08:37Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mike C.",
+        "user_id": "QcPn-8obXlRCY3O2sX4OqA",
+        "link": "https://www.yelp.com/user_details?userid=QcPn-8obXlRCY3O2sX4OqA",
+        "address": "Fort Myers, FL",
+        "friends": 4,
+        "photos": 0,
+        "reviews": 185
+      },
+      "comment": {
+        "text": "Very accomodating and hospitable.  Food is excellent flavors, quality and presentation.  A cozy atmosphere and welcoming staff made our special dinner very memorable.  Extensive wine list with a lot of imports available.  Deserts were a litte quirky but very good.  The bar is well stocked.",
+        "language": "en"
+      },
+      "date": "2021-05-20T00:56:59Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Matt G.",
+        "user_id": "SKmzFtlAG2qpAnL_chzlOw",
+        "link": "https://www.yelp.com/user_details?userid=SKmzFtlAG2qpAnL_chzlOw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cC1ZG3riQWtS0cVXJlrwLA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 33,
+        "reviews": 52
+      },
+      "comment": {
+        "text": "Made a reservation through Open Table, and we were seated promptly. The service was courteous and prompt, and all the food was delicious. I had the tagliatelle, which is now one of my Italian faves, while my wife has the risotto bianco, which she also loved. This is definitely going to be one of our prime date night locations when we're craving Italian.",
+        "language": "en"
+      },
+      "date": "2019-03-30T23:28:06Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KSO72aa3FuYwnAp5TM069Q/o.jpg",
+          "caption": "tagliatelle bolognese"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Grace H.",
+        "user_id": "haBP8YSbH1y3jBLcTMc0TA",
+        "link": "https://www.yelp.com/user_details?userid=haBP8YSbH1y3jBLcTMc0TA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZyOi5HKev9SGrumfaHyaPw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 4,
+        "photos": 6,
+        "reviews": 27
+      },
+      "comment": {
+        "text": "Perfect spot for a date night, the food was delicious and our waiter was very helpful with questions about the menu and wine selection. The charcuterie board was excellent. \nAlso a great spot for brunch!",
+        "language": "en"
+      },
+      "date": "2019-03-25T23:58:00Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Linda C.",
+        "user_id": "gtzKWzQzGhb8FfPD-acwBg",
+        "link": "https://www.yelp.com/user_details?userid=gtzKWzQzGhb8FfPD-acwBg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UUwXCdqEUKhZ5FGKM1bqmw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 0,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "Stopped by for a light dinner.  Came early  without reservations so had to sit at the bar.  Not your typical Italian dishes.  Good service.  Flavorful pasta dishes. I was in before quarantine.",
+        "language": "en"
+      },
+      "date": "2020-04-27T20:15:34Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Renier C.",
+        "user_id": "DNP26IImcoWy_RlKvVwgUA",
+        "link": "https://www.yelp.com/user_details?userid=DNP26IImcoWy_RlKvVwgUA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LMNxdulEM_G7lP0PJCeyQw/180s.jpg",
+        "address": "Miami Beach, FL",
+        "friends": 118,
+        "photos": 467,
+        "reviews": 104
+      },
+      "comment": {
+        "text": "I consider myself to be quite lucky to land a reservation during prime time on a Saturday night for this neighborhood favorite. However, my experience left me wishing for more. \n\nThe warm and dimly lit interior was romantic and cozy creating a New York meets San Fran vibe. The ambience was great, lively and energetic.\n\nI had read about the restaurant online and after seeing the Taglioni and Mushroom Ragu, I knew I had to try. Thanks for those great photos on Yelp, kids! My only disappointment was that I ate it all too quick and that the dish was quite salty. I've read recent reviews of disappointed frequent customers with the new chef so that may have something to do with it. Still, I wasn't too bothered by it but thought it worth mentioning. \n\nThe tuna appetizer we order was less than spectacular but enjoyable. Marinated in briny water for a lengthy amount of time according to our very \"cool\" server-- and by cool I mean pompous and  only became somewhat nice just before dessert in order to ensure his tip wasn't skimpy. His recommendation for the chicken over the steak was also underwhelming. \n\nThe very creamy and fluffy tiramisu was the true highlight of my night and it lightened up our mood but Not enough for spending over $200 in a meal for 2 and having just a mediocre time... Not when the restaurant could have been enjoyed much more with a better server. \n\nYou adeserve 5 stars La Tavola, and not the three I'm giving you today. \n I'm sure in the past you would have received them. It's time to get back on track .",
+        "language": "en"
+      },
+      "date": "2016-01-27T06:39:07Z",
+      "rating": 3,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/c0Vu8yg3u5tgTB88StvMPw/o.jpg",
+          "caption": "Tiramisu --just incredible with espresso shaved ice."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pY7R57I-ZNxiIsYA3NKDwQ/o.jpg",
+          "caption": "Pepper rubbed chicken"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kfygAxOdnRfK645vDfRa-Q/o.jpg",
+          "caption": "The tagliolini and mushroom truffle ragu"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Laimant P.",
+        "user_id": "EohDsNuWexSmmQnOKxMzsg",
+        "link": "https://www.yelp.com/user_details?userid=EohDsNuWexSmmQnOKxMzsg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/w40ED9EAkhrFUc31lP1uDg/180s.jpg",
+        "address": "Fairburn, GA",
+        "friends": 65,
+        "photos": 149,
+        "reviews": 55
+      },
+      "comment": {
+        "text": "Another great time at La Tavola! Everything was excellent   The seared octopus was heavenly. The squid ink spaghetti was superb. A very happy birthday",
+        "language": "en"
+      },
+      "date": "2019-06-13T00:33:42Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Xhbj4EtqN9HkPgNm7gYLqA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2duhuOVp_RkFefzOjo2Nhw/o.jpg",
+          "caption": "Salumi board"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AozwBvnPaPAX0W-GI7K63A/o.jpg",
+          "caption": "Squid ink spaghetti"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XTO44xe3sYksnXU0K3zOCA/o.jpg",
+          "caption": "Seared octopus"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1cP5bqOK74vzLRNZGGW4Cw/o.jpg",
+          "caption": "Great wine"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sydney B.",
+        "user_id": "jpT8dPnktbG_qORl9iNdzQ",
+        "link": "https://www.yelp.com/user_details?userid=jpT8dPnktbG_qORl9iNdzQ",
+        "address": "Towson, MD",
+        "friends": 599,
+        "photos": 4,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "La Tavola has become my favorite restaurant in Atlanta! The food and service are consistently fantastic. I have yet to try something on the menu that I don't care for. It's a moderately high priced restaurant, but I never leave disappointed. Go!",
+        "language": "en"
+      },
+      "date": "2021-12-17T15:09:59Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Wendy D.",
+        "user_id": "cPpXM4Xr2HOfZWK7ICxPrQ",
+        "link": "https://www.yelp.com/user_details?userid=cPpXM4Xr2HOfZWK7ICxPrQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/iXdj5C5j2xAiFtUu2rUBSQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 15,
+        "photos": 110,
+        "reviews": 78
+      },
+      "comment": {
+        "text": "My husband and I came to La Tavola for a date night several weeks back, and I couldn't believe we hadn't tried it before! It's located right at the corner of Virginia Ave. and N. Highland (so right at the center of VA Highlands), and the restaurant is a part of the Fifth Group, which also owns South City Kitchen, El Taco, Alma Cocina, and a few others.\n\nWe made reservations through OpenTable for a Friday night and walked down to the restaurant a little early. [Sidenote about parking: there is very little designated parking in the highlands, so if you must drive there, I would arrive a bit early to search out some street parking on the side streets.] The hostesses were kind, we were seated promptly, and our waiter was timely in getting our wine orders.\n\nWe ordered the olives to start, which come in a few different varieties, and although they were delicious, we both agreed there was no way two people could eat that many olives. It would be a great starter for a party of 4 or 6, though!\n\nFor dinner, I ordered the tagliolini mushroom ragu because my husband despises mushrooms and I rarely find myself in a position to eat them, and it was fantastic! I'm a major sucker for truffle oil, so I was instantly sold. My husband got the tagliatelle bolognese, which he said was awesome, as well. Both entrees were $16-17, and it was way, way more than either of us could eat. \n\nAll in, we probably spent just under $100 for a nice dinner for two with a couple glasses of wine each. Not too shabby in Atlanta! \n\nWe really enjoyed our experience at La Tavola, and we'll definitely return for special date nights. The only reason I'm withholding a star is due to the pretty small amount of space to catch a drink at the bar and the cramped feel of the outdoor area. Otherwise, it was great!",
+        "language": "en"
+      },
+      "date": "2016-09-29T13:17:17Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/K0zWMwv2PLbZsUyC1j9X_Q/o.jpg",
+          "caption": "Mushroom ragu and olives. So good!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lauren B.",
+        "user_id": "Wb6I7ia7JLa8jhavX2CKQQ",
+        "link": "https://www.yelp.com/user_details?userid=Wb6I7ia7JLa8jhavX2CKQQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gc2Vrk3KcpbRa-9IH9rHhw/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 347,
+        "photos": 3,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "Incredible!! Best authentic meatballs I've ever tasted. For a meal: you must get the Tagliolini with mushroom ragu, pecorino romano, and truffle oil. Devine in every way!!! I would have taken a pic but I ate it SO fast!",
+        "language": "en"
+      },
+      "date": "2020-10-25T22:38:33Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sandie M.",
+        "user_id": "55jzgOHTrqac7Y57PUy9mA",
+        "link": "https://www.yelp.com/user_details?userid=55jzgOHTrqac7Y57PUy9mA",
+        "address": "Suwanee, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "What a great little restaurant in a charming neighborhood! Went there last night for my birthday and had a great dinner. Our waiter, Lukas, was very knowledgeable about every dish and took very good care of us. We started off with great bottle of wine (Millepassi Cabernet / Petit Verdot) and had the burrata, it was different, we enjoyed it but we might try the Caesar salad next time. Then my boyfriend had the squid ink pasta which he liked and I had their tagliolini which came with mushroom ragu, truffle oil, pecorino romano. WOW, this was by far the best fresh pasta I've ever had! Creamy but not so rich that you can't eat all of it, which I did and loved every bite. For dessert we had the Tiramisu and the chocolate pear crostata....MMMM!!\nIf you want to have a great dinner experience, I highly recommend this restaurant. I know I'll be back :)",
+        "language": "en"
+      },
+      "date": "2020-10-20T18:44:35Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Stephanie A.",
+        "user_id": "QR4BpL8JglsZs90jf5k2iQ",
+        "link": "https://www.yelp.com/user_details?userid=QR4BpL8JglsZs90jf5k2iQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/9JH1nzdqWNZmrSgnOrV8iA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 126,
+        "photos": 107,
+        "reviews": 160
+      },
+      "comment": {
+        "text": "Sure this place is cramped, reminiscent of NYC spots. The food and service remain consistently on point.  The meat and cheese board is never to be missed. It is laid out like a work of pork art. Each cured item is sliced paper thin and adored with a pickled vegetable to cut through the fattiness.  Cheese is optional but why would you not opt for it? I mean , this board isn't kosher to begin with. \n\nI tried the roasted shrimp starter this time and it has that wonderful charred crustacean scent that takes me back to my Florida childhood.   Topped with lemon, capers and garlic it is a flavor powerhouse and the shrimp is head on, split, skewered and cooked to perfection. I rudely but unashamedly licked my fingers. He doesn't mind.\n\nNo entree for me tonight. I opted for two sides of perfectly creamy polenta and roasted veal meatballs. I forgot to ask if they came with marinara but they do. It's fine if you like red sauce. I don't but I ate it anyway. That polenta is EVERYTHING. \n\nPasta bolognese is comforting and classic. It is tossed in tagliatelle and simply heavenly. \n\nThe flourless chocolate cake is in need of a renaming. This is a dense almost candy like structure with a side of a ganache type concoction. The crispy almond praline helps offset the creamy goo but it may need a rethink. Maybe more egg whites to lighten, whipped cream instead of ganache?  It goes over the line even for us die hard chocoholics. \n\nBalcony is always first choice for quiet but this time I sat inside the main dining room and it did not suck.  I will be back for another visit.  It's still a win and if you can stay consistently good for this many years in Atlanta you are doing something right. Or everything right.",
+        "language": "en"
+      },
+      "date": "2015-08-17T02:44:14Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QL-YOQitX_Pl95e0wkP5zQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/POLiovqaieNc7-aw8dcNFw/o.jpg",
+          "caption": "roasted shrimp"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jenny R.",
+        "user_id": "hGmW-kpY0pdNSG1jF6W1CA",
+        "link": "https://www.yelp.com/user_details?userid=hGmW-kpY0pdNSG1jF6W1CA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/g0C6HZqoCHvQR1-PV1NpZw/180s.jpg",
+        "address": "Minneapolis, MN",
+        "friends": 21,
+        "photos": 153,
+        "reviews": 92
+      },
+      "comment": {
+        "text": "I've been here several times, once for my birthday, it's that good. \n\nThis is a small restaurant, so make sure you have a reservation. There is indoor and outdoor patio seating in the back. The patio is really pretty, with fans on the ceiling and fresh basil growing on the railing. \n\nI love that this restaurant offers $10 pasta dishes on Monday evenings. They have a small pasta menu available on Mondays, there is about 3-4 dishes to choose from and they have been tasty  every time we've tried them. I've also had their roasted beets, squid ink linguine and fingerling potatoes. I love the freshly made pasta!!! Everything here is delicious and I was never disappointed. \n\nFor my birthday, they gave me a free tiramisu cake that wasn't even on their menu :-)",
+        "language": "en"
+      },
+      "date": "2015-11-19T16:02:15Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iRs_Bnfk6duW6z5PiMs3tQ/o.jpg",
+          "caption": "Their birthday tiramisu!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LcEB-OaPgRelkuM8jTU1QA/o.jpg",
+          "caption": "Fresh pasta- off their Monday $10 menu"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Anusha R.",
+        "user_id": "sNdUfaoFkB0ko-CnaQELHA",
+        "link": "https://www.yelp.com/user_details?userid=sNdUfaoFkB0ko-CnaQELHA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_TV7bxglHbzUd0HMU9yrDw/180s.jpg",
+        "address": "Toronto, Canada",
+        "friends": 11,
+        "photos": 20,
+        "reviews": 19
+      },
+      "comment": {
+        "text": "Was there last night celebrating my birthday dinner and I'm glad I did. The food was spot on. The pastas like they tell you are fresh and house-made. We ordered the Parsnip Agnolotti, farro paccheri and squid ink spaghetti. I personally would pick the parsnip the next time I go. Good service and cozy ambience. We wrapped up with the tiramisu, it was on the house.  It was a lovely gesture from them. I would totally recommend trying out this place.",
+        "language": "en"
+      },
+      "date": "2018-04-06T15:25:55Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_SX6m8Mk7MIYVpQqVPnAbQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KatimaqscWHDjSSrWvhQ-g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DCeZD10lPVD0zCfz1sDYSQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_oeXNDpokZ8XqU8QhA83Uw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Denise P.",
+        "user_id": "5p5jGVdyYgzzQOS74hN-xw",
+        "link": "https://www.yelp.com/user_details?userid=5p5jGVdyYgzzQOS74hN-xw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YSdgGGU5CStHje2GoDkyww/180s.jpg",
+        "address": "Brooklyn, NY",
+        "friends": 140,
+        "photos": 353,
+        "reviews": 605,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We came here for Valentines Day dinner on a visit to Atlanta with friends. We were a group of 6 and had a lovely table in a nook by the window. There was a prix fixe menu with numerous choices. I probably should have written this sooner but if I remember correctly, it was $60 for starter, main and dessert, with a small upcharge for one item, which was extremely reasonable for the quality of the food.  Our waiter was fantastic, keeping us well supplied with bread, water, wine, and cocktails. Everyone in our group loved their meal. I wish I could tell you what I ate, but other than a crudo starter, a pasta and something lemony for dessert, I can't for the life of me remember what it was. Here is what I do remember- it was all delicious and the dessert was just the right balance of of lemon and sweet. Also, despite the restaurant being full and people waiting to be seated, we were not at all rushed. I would make a point of returning to La Tavola should I return to Atlanta.",
+        "language": "en"
+      },
+      "date": "2020-04-28T00:29:28Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Christina T.",
+        "user_id": "DMQ-2s5vBRbp9wUHpmVAhg",
+        "link": "https://www.yelp.com/user_details?userid=DMQ-2s5vBRbp9wUHpmVAhg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VP5G1Hc3pj0J0bLG9G9ocQ/180s.jpg",
+        "address": "South Pasadena, CA",
+        "friends": 16,
+        "photos": 68,
+        "reviews": 112
+      },
+      "comment": {
+        "text": "Enjoyed a delicious dinner tonight! \n\nI'll start off by saying that I was skeptical of eating Italian in Atlanta as we just moved here from New York City. Not only was it on par, but even better than dozens of Italian restaurants I've eaten at back home. We were both super impressed! \n\nWe started with the ricotta and salumi board appetizers (both delicious and super fresh) and for our entrees had spaghetti with veal meatballs (SO good! Yes, you can screw up spaghetti and meatballs) and Saltimbocca. Spaghetti was fresh and we came to find out the veal was  from a company that imports it from France. You could tell everything was made from scratch. \n\nOur waitress, Donna was extremely nice, helpful and knowledgeable. She told us about a loyalty program we could join to get points for eating at La Tavola & a few other restaurants owned by the same group, so we'll definitely be returning.",
+        "language": "en"
+      },
+      "date": "2018-07-23T02:56:34Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rachel-Mira B.",
+        "user_id": "hghq-0--vsMw-j0iGfOz-g",
+        "link": "https://www.yelp.com/user_details?userid=hghq-0--vsMw-j0iGfOz-g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/t-ptxQKamOdaW2T5E1X9JA/180s.jpg",
+        "address": "Honolulu, HI",
+        "friends": 171,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Delicious, super fresh Italian food and wonderful service by Luca from Argentina. Highly recommend!",
+        "language": "en"
+      },
+      "date": "2020-09-10T01:28:12Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jordan M.",
+        "user_id": "lTLWBweYBeZnYJDxxO-ohw",
+        "link": "https://www.yelp.com/user_details?userid=lTLWBweYBeZnYJDxxO-ohw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/I9kPYSQubyOJ7b_uK4ofjA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 463,
+        "photos": 18,
+        "reviews": 39
+      },
+      "comment": {
+        "text": "This restaurant is taking COVID-19 very seriously and it's much appreciated. We ordered take out the other night and the staff were super friendly and had us wait outside for our order. The food was good but it was a bit pricey for what we got.",
+        "language": "en"
+      },
+      "date": "2020-07-30T23:19:58Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Marisa P.",
+        "user_id": "IzDpH4vMzrZnHpqkaU_ECg",
+        "link": "https://www.yelp.com/user_details?userid=IzDpH4vMzrZnHpqkaU_ECg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hG3kBtVqdAgX7NxyDQC1lg/180s.jpg",
+        "address": "Indianapolis, IN",
+        "friends": 116,
+        "photos": 9,
+        "reviews": 39
+      },
+      "comment": {
+        "text": "Absolutely positively the best Italian food I've ever had! Our server, Harris, was INCREDIBLE. Not only did he greet us warmly and offer the best suggestions on the menu, but he also gifted us dessert after finding out we are new to Atlanta! He also gave us a list of great cool little spots to check out in the city, so we could have the experience of a local, and was so attentive to our needs!\nFood was INCREDIBLE, and wine was STUNNING. Be prepared for a beautiful, intimate but trendy environment, and all the southern hospitality you can handle.\nAbsolutely will be returning the next time we are in Atlanta!",
+        "language": "en"
+      },
+      "date": "2018-03-16T01:59:51Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Michael M.",
+        "user_id": "ThwnlSvfR3p-iPtxiIWZEQ",
+        "link": "https://www.yelp.com/user_details?userid=ThwnlSvfR3p-iPtxiIWZEQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YUWBnWAcTUj8oi03WvDmKQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 69,
+        "photos": 96,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "These guys do a really great job with hosting in house made pasta and fresh ingredients with a classy Italian style. Drinks are craft and unique for season.  Be sure to try the Basil Lemonada! Kudos to the great service for the staff, Will, Lauren, and Scott!",
+        "language": "en"
+      },
+      "date": "2018-06-09T22:41:49Z",
+      "rating": 5,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7s_HK89wswlndnVQF9PXYQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/O0uuGLZG3EaDMTdAMEi1Pg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Js7cnG3RBtBlK6PReaERIQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dx_lZ0e2DlOcjU1OdRsvEA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cy_oIZai5FC2PmijrCc-Qw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/toxWXRmKJz8P_oA8rxq2Mw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cPTY5gXrTdR2x6a-wjt42w/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Anthony G.",
+        "user_id": "jmK6MxFGGvUfUG1R7iPkBw",
+        "link": "https://www.yelp.com/user_details?userid=jmK6MxFGGvUfUG1R7iPkBw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2Vf-Fd1jC1lmhhbQZbkAjw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 3,
+        "photos": 11,
+        "reviews": 19
+      },
+      "comment": {
+        "text": "We have had dinner here and brunch. Always spot on. Salumi plate was awesome. The veal meatballs were tender and flavorful. The bucatini carbonara  was cooked aldente w guanciale in a slightly rich sauce w egg yolks .\nThis place always delivers\nHighly recommend!",
+        "language": "en"
+      },
+      "date": "2017-11-07T00:30:25Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tammy P.",
+        "user_id": "Ods5QCKjDQt-0SKNL_l-Uw",
+        "link": "https://www.yelp.com/user_details?userid=Ods5QCKjDQt-0SKNL_l-Uw",
+        "address": "TX, TX",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "We visit Atlanta once a year for Gift Market and we ALWAYS eat here.  The atmosphere, food and service are wonderful!  Randall has been our waiter on several visits and he is just great.  We've never had a bad meal.  Be sure to make a reservation!",
+        "language": "en"
+      },
+      "date": "2021-07-17T20:05:11Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Benjamin v.",
+        "user_id": "Vm8JWX15bwdeOiwl6gFVXA",
+        "link": "https://www.yelp.com/user_details?userid=Vm8JWX15bwdeOiwl6gFVXA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vcoNujVG5Ge-obDfmIqhuw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 8,
+        "photos": 38,
+        "reviews": 102
+      },
+      "comment": {
+        "text": "La Tavola is one of the only Fifth Group (Ecco, Lure, South City Kitchen, etc) restaurants I had not eaten at, so I was excited to try it out recently with a friend for dinner on a Monday night.  It's in the center of Virginia-Highlands and they have valet parking in the bank parking lot across the street.  The space inside is pretty tight, especially if you are seated at one of the tables that bump up against the food window from the kitchen.  I would request a booth if you have that opportunity.  \n\nOn Monday nights, La Tavola does three off-menu pastas that are specials for $10/each for an appetizer portion.  We had two of these pastas (a spaghetti carbonara and rigatoni in a red sauce) along with meatballs, calamari, and a salad.   The food was so-so.  The carbonara was the highlight, but everything else was just ok.  We split a chocolate semifreddo (a semi-frozen mousse) for dessert, which was quite good. \n\nSince the food was only okay, you would hope great service (as is the standard at Fifth Group restaurants) could offset the food.  This was not the case as the service was awful.  Our waitress was terrible.  She came by our table wanting to take our order 4 times in the first 15 minutes that we were seated.  The restaurant was not full at any point that evening so we did not appreciate getting rushed.  She then managed to make almost every interaction the rest of the night awkward.  On top of that, once we did order our food, it took an extremely long time to come out.  A manager even apologized for the delay unprompted, which signaled that something had gone wrong.  \n\nWe might have just caught them on a bad night, as most people seem to like La Tavola.  But based on our experience, I'm not planning to go back anytime soon.",
+        "language": "en"
+      },
+      "date": "2017-06-04T18:55:58Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 1,
+        "funny": 2,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Eric C.",
+        "user_id": "X_DkwPTzdO_VWzUcbUXREg",
+        "link": "https://www.yelp.com/user_details?userid=X_DkwPTzdO_VWzUcbUXREg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GU5fQnnwRfqMgZnzForSyA/180s.jpg",
+        "address": "Seattle, WA",
+        "friends": 1495,
+        "photos": 1232,
+        "reviews": 1743
+      },
+      "comment": {
+        "text": "We've started to have a real appreciation for the 5th group restaurant company that includes the South City Kitchen restaurants. We've been fans of SCK for quite some years now but didn't realize that La Tavola was part of the same group. As you guys know, we've been looking for some of the greatest Italian place in the city and we are glad to include La Tavola in the group.\n\nWe made our reservation for Saturday night on Open Table and were able to get a seat the same day (although they were solidly booked after 6:30pm. Unfortunately it was a rainy day and we had to find parking on the street over in the Virginia Highlands area. That didn't dampen our spirits as when we walked in, we were transported into what looks like an old converted pub into a fine dining restaurant. There are tons of seats at the bar but if you plan to order as much food as we did, then you had better get yourself a table.\n\nAs with their SCK restaurants, they have a beautiful list of wines. We decided to go with an Italian that night and were thoroughly impressed. Their somm is talented. While their menu isn't large, they have quite a number of dishes that would be hard to choose from. So in our state of hunger, we ordered almost everything. Our dinner started off with a meat and cheese board (you add the cheese on for $3). This was one of the largest/most plentiful board around. The bonus? They talked about each piece on the board which is something that is a must nowadays when you're serving something like this. \n\nThe veal meatballs were stunning as well as an appetizer and you get 3 to share. That was a perfect number and although I try to stay away from veal, I found this to be quite delicious. For the primi pasta dishes, you can order appetizer portions (which are normal people's portions) so that you can have more dishes. Apparently one of their staples and classics at the restaurant that has been served for decades was the squid ink pasta. This was a beautiful preparation of this type of pasta with tons of fresh seafood to top it all off. Wonderfully seasoned and delicious. We also ordered their mushroom pasta as well which I was excited to try and will admit unfortunately that this night's preparation was a little on the salty side. That didn't stop me from finishing my portion though. We also ordered the duck for our secondo and that was some of the best duck we have had in the area! If you don't know what to get, that should be what you order! Lastly, I found their tiramisu to be quite interesting. Extremely delicious but a modernized version of what you are probably imagined. It's almost a semi-deconstructed dessert that has all the components you're looking for. \n\nThis is a fantastic restaurant. Great food, great service and wonderful atmosphere. We can't wait to go back!",
+        "language": "en"
+      },
+      "date": "2018-12-16T18:25:02Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 7,
+        "funny": 3,
+        "cool": 6
+      }
+    },
+    {
+      "user": {
+        "name": "Anna Mia W.",
+        "user_id": "tm2-HNtTMGJnoAf4X7OVDA",
+        "link": "https://www.yelp.com/user_details?userid=tm2-HNtTMGJnoAf4X7OVDA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NgiC_D2YeMrpn9oJZuJqkA/180s.jpg",
+        "address": "Avondale Estates, GA",
+        "friends": 210,
+        "photos": 0,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "I quite enjoyed the atmosphere here. We were seated within 5 minutes, and didn't have reservations. It was a \"slow\" night for them, Tuesday around 6:30. We were sat on the patio which was lovely, comfy, and quiet. \n\nI had the Squid Ink Pasta, which I had been looking forward to. The sauce was messy & watery. The pasta was overly salted; which is semi-expected for squid ink. You'd think they'd be able to figure out a way to cut the amount of salt... but they haven't quite figured that out yet. The pairing of thai basil was also puzzling, although very intriguing, which is why I ordered this dish. The thai basil does not pair well with calamari or pasta, as it has a licorice-like flavor. \n\nThey fulfilled my request to get an individual meatball with my entree (meatballs are important), which was nice. The meatball was very good- and probably worth 1 of the 3 stars alone. \n\nMy table enjoyed the Spaghetti, and the Ragu. Both dishes \"could have been made better at home\", though. \n\nFor the portions you receive, it's rather expensive. \n\nIt is traditional in the sense that they expect you to order multiple courses, but not traditional in the flavors or pricing.",
+        "language": "en"
+      },
+      "date": "2017-10-04T03:22:10Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Erny H.",
+        "user_id": "cwVr4DA94VrnMOGeg73pqg",
+        "link": "https://www.yelp.com/user_details?userid=cwVr4DA94VrnMOGeg73pqg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3ez4H4nA4JbSem6uAngM2w/180s.jpg",
+        "address": "Cumming, GA",
+        "friends": 76,
+        "photos": 129,
+        "reviews": 58
+      },
+      "comment": {
+        "text": "Was there with family celebrating my bro in law's birthday dinner last night. We came in 7 people around 5.30 pm and was seated right away at the only big table in that resto. La Tavola is a very small restaurant, I think it's a-1,500 sqft resto, so the seating isn't that many. However, it wasn't the case around 7 pm. People start coming in, mostly were office workers or couples. Well, Virginia Highland is famous for pedestrians and eaters, so we got it. Food is decent. We tried the calamari appetizer. It was well-seasoned and grilled into perfection. Then for main course, we tried Duck Breast, Zuppa di Pesce, Roasted Chicken, and wrapped up with Semifreddo, Sorbetto, Bread Pudding and Tiramisu. Overall dining experience is good.",
+        "language": "en"
+      },
+      "date": "2017-10-21T05:05:41Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8FVcQOtsl4Zi2l_QwmNuZg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sPI04xkcTBnp-BP-fmk9uQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oReajpLpJnhzCF1kUmHBsw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/saRAyvHbo3KO35-efmI-3Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tRdsATMqi7oBhcDTcE7eTw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eE0MmvtsrtZLAbJpgH6APQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/czd71FhgMRsEsy-csrqR-Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ee7f1M7zVpZbYYgpObtg8g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4hekMwxnRYdKIyTtbGnZCA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cNnxJKDGMPZF_hk4f6O_2A/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Tiffany P.",
+        "user_id": "2wt0ya4WrRU67iKWams4SQ",
+        "link": "https://www.yelp.com/user_details?userid=2wt0ya4WrRU67iKWams4SQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5VXINS8lAa8snwmeOnPXew/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 14,
+        "photos": 2,
+        "reviews": 46
+      },
+      "comment": {
+        "text": "The wine list is well rounded for both by the glass and by the bottle and reasonably price. The appetizers are good size portions and shareable. We had the veal meatballs which were amazing and the focaccia which was delicious. Initially I was considering the spaghetti and meatballs but since they had a meatball appetizer I had the tagliatelle and it did not disappoint. The good thing about the pastas are they come in entree portions or you can scale down to an appetizer portion if you want to mix with other appetizers.",
+        "language": "en"
+      },
+      "date": "2019-08-09T14:59:04Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Luis M.",
+        "user_id": "e9UKDjFkzWpZ3_QnsZGX1g",
+        "link": "https://www.yelp.com/user_details?userid=e9UKDjFkzWpZ3_QnsZGX1g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/iCUOOdzKHTzyz7-0dC_duA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 16,
+        "photos": 534,
+        "reviews": 239
+      },
+      "comment": {
+        "text": "Some of my friends seem to really like this place for brunch or otherwise; I just dont think it hits the mark in terms of flavor at its price point.  The breakfast food offerings are ok.  The sausage is pretty good and they do give you a generous serving of it.  The pasta dishes look pretty, but just aren't spectacular.  The restaurant is pretty cramped inside and the din can be a bit much when you're in close quarters.  If you're in the neighborhood it is a convenient place to have Italian, but I wouldn't go out of my way for it.",
+        "language": "en"
+      },
+      "date": "2018-01-13T18:30:24Z",
+      "rating": 3,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5Y93wNZzoTY4VNY29dohcA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2glEmgFUw60tgO0pviRiYA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lTJ2Flh6vY-hw74qRRIdPg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Krystal C.",
+        "user_id": "TN4BHwPjiQkh-2OQRg0RnA",
+        "link": "https://www.yelp.com/user_details?userid=TN4BHwPjiQkh-2OQRg0RnA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OWmaaoxEnb08zSdWweKRWA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 7,
+        "photos": 50,
+        "reviews": 34
+      },
+      "comment": {
+        "text": "I celebrated my 31st birthday here and the food and service were great. I would highly recommend the Veal Meatballs and the Saltimbocca Alla Romana! Absolutely delicious. The sauce that accompanies the Saltimbocca Alla Romana is to die for. Yummo",
+        "language": "en"
+      },
+      "date": "2020-01-11T17:56:34Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jesus R.",
+        "user_id": "HjNykumYCC0sU_I3v33dwQ",
+        "link": "https://www.yelp.com/user_details?userid=HjNykumYCC0sU_I3v33dwQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/l7n1JNtPezy-FN4uTWdHwQ/180s.jpg",
+        "address": "Peachtree Center, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "I went with my honey to enjoy a nice night out and eat some delicious food. Did not really know what to expect because everyone has a different take on Italian food. When we arrived we were greeted by our amazing and loving server, Emily. We wanted a bottle of wine but did not know many of the wines on the list but she recommended one that was exactly what we were looking for. We ordered the burrata and the squid ink spaghetti as appetizers and they were so packed with flavor and the presentation was lovely. Our entrees came out, my honey ordered the tagliolini and I had the tagliatelle. I can't put into words how amazing the food tasted. After we stuffed our faces we decided to order their chocolate tart and ice cream that both were extremely savory and a great way to end dinner. I highly recommend this place as it will now be one of my new favorite spots.",
+        "language": "en"
+      },
+      "date": "2019-09-16T17:36:04Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Listiani H.",
+        "user_id": "iVXwUPdaCkKlDD7Stv7FGg",
+        "link": "https://www.yelp.com/user_details?userid=iVXwUPdaCkKlDD7Stv7FGg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xghXwxPhfKK92IYGahAtYA/180s.jpg",
+        "address": "Cumming, GA",
+        "friends": 131,
+        "photos": 425,
+        "reviews": 126
+      },
+      "comment": {
+        "text": "A reminiscence of our Italy trip for my hubby's birthday dinner. Seating for 7 people is not that comfortable because we barely had any space to move freely, but we love the ambience. We pretty much try all varieties of the dishes they offer, from their duck breast, roasted chicken, zuppe de pesce, squid black ink, calamari appetizer, and spaghetti with meatball. Food is pretty good, (but i believe it is not something i could call authentic Italian taste), yet overall their duck breast is the best of all!Their angelina cocktail is superb, as well as the lemon sorbetto and bread pudding.",
+        "language": "en"
+      },
+      "date": "2017-10-20T03:21:48Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LJMAwzhxNCqKbqhW8Yga5g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Q6dWhzbylekkM76IFOhMbw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4Uze4v7SlQImHNPkvR-IQg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_dEhECvdQPQL39sCazuDCw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6cosbdo9aZwxsAMmOjzlKg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/J-AIlSm3ySSJfd2Z1WRpfA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SwVWrWqpTa-K9mlhsQa2YQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HjlX8-d57Bt16fJHjRkQgA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GAvqO4GIcT5h00trk4vWxg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kFVXT2hI1e6G4_J8PTQjWg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jeff T.",
+        "user_id": "T-HHy4O7Ij_1sNBiKGeztQ",
+        "link": "https://www.yelp.com/user_details?userid=T-HHy4O7Ij_1sNBiKGeztQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/EmQ_KAx8H1qTQJzoios3QQ/180s.jpg",
+        "address": "Jacksonville, FL",
+        "friends": 6,
+        "photos": 78,
+        "reviews": 549
+      },
+      "comment": {
+        "text": "Amazing restaurant! Love the locations and atmosphere. Incredible staff and great service. The extensive authentic menu is fantastic. A must visit in ATL.",
+        "language": "en"
+      },
+      "date": "2020-02-15T14:05:55Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Yogesh N.",
+        "user_id": "_wr0Lh8aNQo-XJQOGsBt5A",
+        "link": "https://www.yelp.com/user_details?userid=_wr0Lh8aNQo-XJQOGsBt5A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/mIHrPgOibiCZuQUSpGCZsQ/180s.jpg",
+        "address": "Smyrna, GA",
+        "friends": 48,
+        "photos": 131,
+        "reviews": 57
+      },
+      "comment": {
+        "text": "We thoroughly enjoyed our first experience at La Tavola where the management and staff were amazing. Donna, our waitress was very knowledgeable and helpful and will definitely request her on our next visit. They have a good selection of wine and the bottle recommended to us was a nice bottle. Food was great, and they also gave us 2 glasses of champagne and a great dessert (like Tiramisu but much better) for our anniversary celebration dinner. The tagiolini (mushroom based) was the best dish, and squid ink spaghetti was also good. The roasted chicken is great dish for healthy and a bit spicy option.  I highly recommend this restaurant.",
+        "language": "en"
+      },
+      "date": "2018-01-23T20:45:25Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/A9ZwiakAAk3YUlM7FS51Zg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VsloG41b3C1wz0t2HzJZBQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/chfqHK06gXq4NGSECgJjzw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SHbtVA4g8r1wCUeMK-eytQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=eMJGDVzTH7mbGNWIfz6jcQ&start=210"
+  }
+}

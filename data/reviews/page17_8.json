@@ -1,0 +1,1731 @@
+{
+  "search_metadata": {
+    "id": "65f0a1d6fdca3e7dc6b5cd6c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f0a1d6fdca3e7dc6b5cd6c.json",
+    "created_at": "2024-03-12 18:41:26 UTC",
+    "processed_at": "2024-03-12 18:41:26 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/klJKIbiGWDpPIVhWeb4tZQ?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1d6fdca3e7dc6b5cd6c.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a1d6fdca3e7dc6b5cd6c.prettify",
+    "total_time_taken": 2.36
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 160,
+    "num": "50",
+    "place_id": "klJKIbiGWDpPIVhWeb4tZQ"
+  },
+  "search_information": {
+    "total_results": 1208,
+    "business": "Folk Art Restaurant"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 1208
+    },
+    {
+      "hl": "es",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Esther S.",
+        "user_id": "UlXJP4fzVg-mLSluUnY5rw",
+        "link": "https://www.yelp.com/user_details?userid=UlXJP4fzVg-mLSluUnY5rw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CajSOBrRK0Gder7mMeHwbQ/180s.jpg",
+        "address": "Alexandria, VA",
+        "friends": 795,
+        "photos": 750,
+        "reviews": 471,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "If you want love in your food, this is the place to be.\n\nEverything tasted so fresh and juicy, I was in love with my chicken and waffles. The waffle itself was sweet starting from the dough, and not too crispy or crunchy, but rather chewy to contrast the crispy of the chicken. Like I said, in love.\n\nLooks like your old town classic diner, and the people treat you jus like one of their own. \n\nDefinitely worth a visit!",
+        "language": "en"
+      },
+      "date": "2018-05-31T22:51:57Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wyIVGTLvyh8hwDrNY0EHRg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/r11fVsjkO-2vUsCxtq275w/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ra M.",
+        "user_id": "tou66N7dkARiKBC0Ogu8zg",
+        "link": "https://www.yelp.com/user_details?userid=tou66N7dkARiKBC0Ogu8zg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vqYW43pZ0adm5pEmNN2cUg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 0,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Steak and eggs -  \nPrompt and friendly service. I will definitely return to explore menu!",
+        "language": "en"
+      },
+      "date": "2021-09-30T16:10:02Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Courtney M.",
+        "user_id": "SeLRNtIxwDsdx13DVPjRIw",
+        "link": "https://www.yelp.com/user_details?userid=SeLRNtIxwDsdx13DVPjRIw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HRsj9SywwbVgbo3gU4qMDA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 506,
+        "photos": 335,
+        "reviews": 213,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Folk Art is absolutely one of my new favorite brunch spots in Atlanta! \n\nFood: The food is great and they have many interesting items on the menu. They do a lot with sweet potatoes here... sweet potato waffles, sweet potato beignets, sweet potatoes pancakes, etc. Get the \"Foul Play\" - Chicken & sweet potato waffle! Sooo good! \n\nPrice: Pretty decent prices on food. Average on drinks. I had the Foul Play (which was a nice portion size) and a mimosa for less than $20. \n\nAtmosphere: It's a lively, colorful, cozy place. Very hipster. You'll more than likely have to wait if you're there for brunch on the weekend, but it's not  too long. \n\nService: Great! The food came out pretty quick. Folk Art has complimentary valet parking, which is awesome because it's in area that's mostly street parking. \n\nOverall: Give it a shot!",
+        "language": "en"
+      },
+      "date": "2018-04-15T21:50:41Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YYcqeEhZn0VCvAVh2nNgAg/o.jpg",
+          "caption": "Foul Play - Chicken & Sweet Potato Waffle"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/npqJX2gxfmF1hjagtruxPA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PzMigkpeZYnp1iZ_52OaLQ/o.jpg",
+          "caption": "Banh Mi"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QPodkSl3fQXipu_iYK4JQA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Essence B.",
+        "user_id": "jbKc4dmPl0cfoGl0-sSm-Q",
+        "link": "https://www.yelp.com/user_details?userid=jbKc4dmPl0cfoGl0-sSm-Q",
+        "address": "Iowa City, IA",
+        "friends": 1,
+        "photos": 0,
+        "reviews": 27
+      },
+      "comment": {
+        "text": "I loved everything about eating here. It's cozy, tucked away, and feels like a hidden gem. The food is fantastic and priced very reasonably. Really interesting takes on traditional southern/brunch dishes. Seems to be care put into this food. \n\nThe grit fritters (I could eat a couple of orders of these alone!), sweet potato donut holes ( very sweet I need to share an order), huevos rancheros (a little spicy but with a purpose not just for pain), and southern fried folk (honestly some of the best gravy I've had in a while) were all so perfect. I'll definitely be back. \n\n\nThe grapefruit cooler was good too!!",
+        "language": "en"
+      },
+      "date": "2022-04-01T20:24:06Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Victoria R.",
+        "user_id": "XrgcHURVAe_wys_jdweKLw",
+        "link": "https://www.yelp.com/user_details?userid=XrgcHURVAe_wys_jdweKLw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/r_ovts88TopiAyYPavwNKQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 50,
+        "photos": 185,
+        "reviews": 229,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Simple, casual, delicious with great vibes!!! Found this gem today while I was in the area searching for \"best brunch\" and Folk Art concept and reviews attracted me. Sat at the bar, ordered the Foul Play, and people watched. Foul Play was probably one of the best chicken waffles presentations I've had for a couple reasons: \n\nWaffle is thin & flavorful \nPretty sure it was a sweet potato waffle at that\nTopped with a fried chicken breast, seasoned to perfection and not overcooked\nThen that was topped with a peach compote. absolutely amazing! \n\nOh yeah, my meal was only $10. I didn't feel like I walked out overly full eventhough I definetly cleared my plate.",
+        "language": "en"
+      },
+      "date": "2018-07-30T00:44:33Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/f-pyDV65x6avzPlPgtSLPQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ffDCe_RsOS0yfXa4zLSqnQ/o.jpg",
+          "caption": "Foul Play"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "La-Nay B.",
+        "user_id": "eGSoXkStUYzvL8pc3HQ5cQ",
+        "link": "https://www.yelp.com/user_details?userid=eGSoXkStUYzvL8pc3HQ5cQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ogNHSHa-LLeGti-gY4kMcA/180s.jpg",
+        "address": "Lancaster, CA",
+        "friends": 0,
+        "photos": 34,
+        "reviews": 34
+      },
+      "comment": {
+        "text": "When I say this place was very close to amazing, I almost want to scream it aloud!!!!! It's exactly what you imagine when going to Atlanta and having southern food! Would I go again?! Huh? Did you read the first part of my review?! \n\nAbsolutely I would go again and then again!!!! The folk chicken and gravy meal was amazing!!!! The gravy was super delicious! The biscuits were big and fluffy and chicken was very tender!!! The egg was a nice surprise and while I don't typically like a soft fried egg, it didn't take away from the experience! \n\nI also ordered the peaches with chicken and a waffle and yum once again! The peaches in the compote were the star of the meal! The chicken was good but the compote made it delicious! The waffle was okay but it was made better by the compote! Are you sensing a theme here? Yup, its the compote! It's everything! Trust me! \n\nI didn't get an opportunity to try the chicken sandwich that everyone is talking about but I absolutely will when I return! FYI dine if you can, GrubHub is ridiculous with their numerous hidden fees. TRUST!",
+        "language": "en"
+      },
+      "date": "2021-04-12T05:22:07Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Destiny C.",
+        "user_id": "Onw1PNqIQFbSsxWnorm3iA",
+        "link": "https://www.yelp.com/user_details?userid=Onw1PNqIQFbSsxWnorm3iA",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "I love going here for a brunch date on Saturday mornings. The grits are to die for! I haven't had a bad experience here and I keep coming back time after time. The only thing is the wait is usually pretty long and the inside is small yet cozy.",
+        "language": "en"
+      },
+      "date": "2023-01-23T05:24:11Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jazmin C.",
+        "user_id": "gzoEJd-WlTZubDeHL_bVAQ",
+        "link": "https://www.yelp.com/user_details?userid=gzoEJd-WlTZubDeHL_bVAQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KcU36okXu0Tx_-H0ya2UfA/180s.jpg",
+        "address": "Winston-Salem, NC",
+        "friends": 2,
+        "photos": 52,
+        "reviews": 27
+      },
+      "comment": {
+        "text": "Loved this!!! I had the chicken and waffles and it was delicious!!! I absolutely, loved it. The flat top Mac and cheese was to die for! We had some good drinks also! I'll definitely be back.",
+        "language": "en"
+      },
+      "date": "2021-02-16T02:00:26Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CptgHX7A0x2YTZ0LStYxTQ/o.jpg",
+          "caption": "Chicken and waffles"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OB2JqmmA_tBlhuEfKA9CWQ/o.jpg",
+          "caption": "Flat - Top Mac & Cheese"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Angelica D.",
+        "user_id": "DTFOGN81zlhrYENyvwQ79w",
+        "link": "https://www.yelp.com/user_details?userid=DTFOGN81zlhrYENyvwQ79w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OtsHe6PGZ_HjBcfIGHOUgw/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 467,
+        "photos": 1958,
+        "reviews": 423,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Folk Art is a laid back, casual restaurant with an extensive menu. I typically come around late brunch time on the weekends when the crowds have diminished. It's located in Inman Park near other awesome restaurants. If you can't find parking on the street, you can valet. \n\nI ordered the cinnamon sticky bun French toast with hash browns and a side of bacon. The French toast is awesome and really tastes like a cinnamon bun. The hash browns and bacon were delicious as well. I also ordered a smoked honey bourbon cocktail that was divine. It wasn't too sweet and it was pretty strong.\n\nThe staff here has always been friendly and this visit was no exception. They offer a variety of breakfast, brunch and dinner items and I look forward to returning and trying more dishes.",
+        "language": "en"
+      },
+      "date": "2017-10-29T14:08:18Z",
+      "rating": 4,
+      "tags": [
+        "5 check-ins"
+      ],
+      "feedback": {
+        "useful": 8,
+        "funny": 3,
+        "cool": 6
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Jason H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/9dHXwljQneuGOSczZkhx6w/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks so much, Angelica! Glad that you love our food. Hope to have you back again soon!\n\nBest,\nRhoda Hill, Owner",
+          "date": "2017-11-01T11:59:36Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Linda D.",
+        "user_id": "mFtK788q02imH7kfLJsGBw",
+        "link": "https://www.yelp.com/user_details?userid=mFtK788q02imH7kfLJsGBw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/EcM5oDsTliYv-y4_HaqjQg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 7,
+        "photos": 47,
+        "reviews": 109
+      },
+      "comment": {
+        "text": "I've only been once but I had a wonderful experience here. I went with my mom and uncle for brunch on a Tuesday. There was no wait time. It's pretty small I'm sure they're packed on the weekends. \nThey have a really extensive drink menu!  I had a Bloody Mary and it was very delicious, maybe a  bit small but extremely tasty. My uncle had a Long Island he really enjoyed that. And my mom had a mimosa. \nWe had the grit fritters as an appetizer. It was so good we had to order a second one. Omg so delicious. I think it changed my uncles life lol (he from California). \nWe each had a breakfast plate however I don't recall what they had I just know my family still raves about this place. I would definitely recommend. The service is friendly and the restaurant is very clean. Enjoy :)",
+        "language": "en"
+      },
+      "date": "2021-01-29T13:17:59Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Betty W.",
+        "user_id": "WCmnxTd1HeaCbeUE63v41w",
+        "link": "https://www.yelp.com/user_details?userid=WCmnxTd1HeaCbeUE63v41w",
+        "address": "Decatur, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "The service is SLOW. There is usually a long wait for hostess, then an even longer wait for a server. Don't ask for a steak medium well. It will be vastly overcooked  and well done. Some of the staff are extremely RUDE. Won't be returning. Sad",
+        "language": "en"
+      },
+      "date": "2022-09-20T23:06:46Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "S T.",
+        "user_id": "7T4Z6WjLIEeHvxoy_uqYyA",
+        "link": "https://www.yelp.com/user_details?userid=7T4Z6WjLIEeHvxoy_uqYyA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5314VToU9hsiQ0NsP1OnYg/180s.jpg",
+        "address": "Oakland, CA",
+        "friends": 1,
+        "photos": 9,
+        "reviews": 270
+      },
+      "comment": {
+        "text": "Cute place with attractive insides and good service. Very limited options for a vegan unfortunately... but my family members liked it.",
+        "language": "en"
+      },
+      "date": "2022-05-28T13:52:33Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Theresa A.",
+        "user_id": "CFtvP81fEtLWsFGfpTgKDg",
+        "link": "https://www.yelp.com/user_details?userid=CFtvP81fEtLWsFGfpTgKDg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cfWgYq5_5JbN9jeBL-699A/180s.jpg",
+        "address": "Boston, MA",
+        "friends": 142,
+        "photos": 298,
+        "reviews": 508,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We wanted local Southern Food while we were in Atlanta, and yelp reviews here looked great! We went here at 1pm on a Saturday and were told it was a 35 minute wait. We figured that was manageable. After 40 minutes I asked the hostess our spot in line and she said 4 people were in front of me. After I witnessed 5 parties get called their turn, I asked when we would be seated and was told there were we were next. THEN SHE CALLED ANOTHER PARTY IN. Finally we are called and we literally waited an hour. So now I am beyond starving and so excited for my food. Service was decent, and my husband did LOVE his chicken sandwich, but I did not care for the southern fried chicken. The gravy was very sweet, which I did not expect. I can't say that I would ever go back or recommend this place. It's not worth the hour wait or hassle of being told you are next in line 5 different times!",
+        "language": "en"
+      },
+      "date": "2019-10-14T17:29:44Z",
+      "rating": 2,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EWIhtF74SFl-BUZL0rfeqA/o.jpg",
+          "caption": "Chicken dinner!"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Tara N.",
+        "user_id": "-d1IMbab8X2D3RBCDczkqw",
+        "link": "https://www.yelp.com/user_details?userid=-d1IMbab8X2D3RBCDczkqw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cYn839iuULLPIqmpV0_LrQ/180s.jpg",
+        "address": "Buckeye, AZ",
+        "friends": 86,
+        "photos": 78,
+        "reviews": 73
+      },
+      "comment": {
+        "text": "Love this restaurant and southern menu. Went there a few times and loves the chicken and waffles, the grits and the coffees. Definitely would recommend this restaurant!",
+        "language": "en"
+      },
+      "date": "2022-06-14T06:28:21Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Deron T.",
+        "user_id": "OXKyGX8F39eXd8BylIBRSQ",
+        "link": "https://www.yelp.com/user_details?userid=OXKyGX8F39eXd8BylIBRSQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/S3qNQhKTEp3H6tfg0h8piA/180s.jpg",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "Great location with a fantastic/laid back ambiance! Staff are helpful and provide prominent customer service along with serving delectable dishes in a timely manner!",
+        "language": "en"
+      },
+      "date": "2022-06-12T23:51:05Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Linda W.",
+        "user_id": "XCCNko-QNWy63lCEA6RBLA",
+        "link": "https://www.yelp.com/user_details?userid=XCCNko-QNWy63lCEA6RBLA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SMICc1W_YnqnL8-ECoZCww/180s.jpg",
+        "address": "Kihei, HI",
+        "friends": 21,
+        "photos": 199,
+        "reviews": 176,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Stopped on a road trip. Parking is tough but they have free valet. Ordered shrimp po'boy. A little salty for my taste but nice big shrimp piled on a nicely toasted bun with fried pickles too. I enjoyed it. Hubby got Ruben and said it was pretty good!  Fun variety on menu. Would def try it again!",
+        "language": "en"
+      },
+      "date": "2019-12-21T20:13:58Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RM2prF_Syxdm0jSTBBiJzQ/o.jpg",
+          "caption": "Classic Shrimp Po'boy"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jennifer S.",
+        "user_id": "bz_8PFAUEHlkXtxkhd_ZVw",
+        "link": "https://www.yelp.com/user_details?userid=bz_8PFAUEHlkXtxkhd_ZVw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CNExdqjzt2TAxhGQ_sm4Rg/180s.jpg",
+        "address": "West End, Atlanta, GA",
+        "friends": 2,
+        "photos": 23,
+        "reviews": 57,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This spot was really good. I've passed it many times and I really enjoyed it. I ate the steak and eggs with a side of delias sausage. I ordered the fried tomatoes, they were pretty okay. I also have the French toast with peanut butter. I would definitely come back here. The wait wasn't long either",
+        "language": "en"
+      },
+      "date": "2021-04-07T00:00:25Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Holly Y.",
+        "user_id": "O2Yj5VBrYURq0fgNY6qb7w",
+        "link": "https://www.yelp.com/user_details?userid=O2Yj5VBrYURq0fgNY6qb7w",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 29
+      },
+      "comment": {
+        "text": "Creative menu, nice presentation, good service, funky charm. All I want to say is that  I enjoyed my breakfast. Do I have to write War and Peace to get this thing posted?",
+        "language": "en"
+      },
+      "date": "2022-11-15T23:30:03Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Amy T.",
+        "user_id": "NqPw4qXo1grbu57eJ21REg",
+        "link": "https://www.yelp.com/user_details?userid=NqPw4qXo1grbu57eJ21REg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/17cnUQlqLsN0ZRA4R2weLw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 204,
+        "photos": 188,
+        "reviews": 100
+      },
+      "comment": {
+        "text": "I really like the vibe at Folk Art. The interior of the restaurant has an old-timey feel and the outdoor seating is perfect on a sunny day. \n\nWe arrived on a Sunday late afternoon and there was a slight wait (this place can get packed). No worries tho because their breakfast items can be ordered anytime. \n\nStaff was super friendly and we got our food quickly. I ordered the chicken and waffles dish which was the perfect blend of sweet and savory. The chicken was deliciously fried and tasted fresh. There was also a peach compote with the dish which added a nice touch to my meal. \n\nNext time I will definitely try a lunch option. I saw many sandwich and burger items on the menu. I can't wait till my next visit!!!",
+        "language": "en"
+      },
+      "date": "2019-10-08T17:07:09Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RdMtxTCJDlz3NwVim4POqg/o.jpg",
+          "caption": "Triple Stack Burger w/ Fries (above)  Chicken and Waffles w/ Scrambled Eggs (bottom)"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Roger W.",
+        "user_id": "n41I2aCiO0rV6__X9m7Q_g",
+        "link": "https://www.yelp.com/user_details?userid=n41I2aCiO0rV6__X9m7Q_g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pevkxIV3-fXRglSdnrwLHQ/180s.jpg",
+        "address": "Peachtree Corners, GA",
+        "friends": 2,
+        "photos": 111,
+        "reviews": 45
+      },
+      "comment": {
+        "text": "This place was great for breakfast! Only downside is it's a little small but food and drinks were delicious. I still recommend",
+        "language": "en"
+      },
+      "date": "2021-02-15T22:48:06Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yPiRGiXGtzJ5Lzg77ANEpw/o.jpg",
+          "caption": "Drinks!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_CC_p46L16Q-3HsPWQ0UGA/o.jpg",
+          "caption": "Front of restaurant"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "frank c.",
+        "user_id": "uHhSDFy9GI96MFxq20wKHQ",
+        "link": "https://www.yelp.com/user_details?userid=uHhSDFy9GI96MFxq20wKHQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OmAvC4-qIGflybIRKLEDsw/180s.jpg",
+        "address": "Chicago, IL",
+        "friends": 68,
+        "photos": 20,
+        "reviews": 38
+      },
+      "comment": {
+        "text": "Hats off to the chef at this place! We flew in for business from Chicago and my husband found this gem. I had the fowlplay and my husband had biscuits and gravy, can't remember the name of his dish, but both were excellent. I did not care for the coffee, it was extremely bitter but great food and great service heavily outweigh that small negative.  Clean and properly  sanitized. We will definitely return.",
+        "language": "en"
+      },
+      "date": "2021-02-04T17:31:43Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_fb7-XLew7fI-_-9t3U0sA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fxkCvdeIxt5apgEsmJK-Nw/o.jpg",
+          "caption": "Outside of the building"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0o_f69q7_mdQqkPNjGa4Xg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/30hh6TOmuHcLR7LUHPyVUw/o.jpg",
+          "caption": "Fowl play. Sweet potatoe waffle, peach whisky compote and great fried chicken."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0nCGqqeDJYgw-9UIINhsxw/o.jpg",
+          "caption": "Restaurant"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kevin P.",
+        "user_id": "z3_cA4v4ylB8ndPc681V3w",
+        "link": "https://www.yelp.com/user_details?userid=z3_cA4v4ylB8ndPc681V3w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SWnUNd6Zs58lIt6q13bUyQ/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 86,
+        "photos": 331,
+        "reviews": 341
+      },
+      "comment": {
+        "text": "I can't remember how long I've been a fan of the Inman Park location so was thrilled when they took over the downtown Decatur location of Thumbs Up. \nFirst the transformation of the space is incredible. They gone be busy, lol. \nThere is a counter/bar area for dining in and long and gorgeous curved wood. They somehow made the space, which is on the bottom floor of a 1970 office building that once housed the now defunct Art Institute of Atlanta School, look like a remodeled older building with exposed brick walls and octagon tile on the floor. \nThe menu has been slightly updated but the favorites are still there, like all day breakfast including Sweet Potato pancakes, waffles and beignets! My fave is the roasted pork & chili verde. Brunch was favorite at Inman Park and will be here.\nDinner and lunch items are upgraded versions of diner food. Good bye Pastries a No No",
+        "language": "en"
+      },
+      "date": "2019-12-15T12:56:27Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3-HFMTGOHFJUiMelRmzEVQ/o.jpg",
+          "caption": "Bar"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zMzkd8QSJ-E7wULyS5iU_w/o.jpg",
+          "caption": "Breakfast"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2hqUR0f6HYbxqMjHFkQYJw/o.jpg",
+          "caption": "Inside"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Lc4w3fTp_PfDuOyONnQb0A/o.jpg",
+          "caption": "roasted pork & chili verde"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Deandra E.",
+        "user_id": "luMn--xl5-Bt24snBe0DFA",
+        "link": "https://www.yelp.com/user_details?userid=luMn--xl5-Bt24snBe0DFA",
+        "address": "Dover, DE",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Food is always on point & the service is prompt & kind. Always like to go when I am in town. Tight parking though. Get there early!",
+        "language": "en"
+      },
+      "date": "2022-12-19T21:59:22Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lataysha C.",
+        "user_id": "MHlRj-7XnMvNKpaA-UpAag",
+        "link": "https://www.yelp.com/user_details?userid=MHlRj-7XnMvNKpaA-UpAag",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oGL7qBSqawiJC5TQHL4Tlw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 12,
+        "photos": 360,
+        "reviews": 128
+      },
+      "comment": {
+        "text": "This is a seat yourself restaurant, so upon arriving, there was ample seating to choose from. After finding our seats, we were greeted by a young lady who brought over waters and told us she would give us time to look over the menu more. This was fine as we did look more, but she was so busy that she really didn't have time to come back; so a nice man waiter took our order. Our food came out in good time, hot and fresh. My food was good but the chicken needed salt and the waffle was a bit thin to where it became soggy when I poured the syrup and peach compote on top. My coffee was good as well. My wife stated she enjoyed her food as well. I thought it looked a bit sloppy as far as plating.",
+        "language": "en"
+      },
+      "date": "2021-05-18T16:39:41Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tc2Mp1dr0OW0QpCh-zcL7w/o.jpg",
+          "caption": "Foul Play"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FbolHjxt1ZNEdIuQh7dFqA/o.jpg",
+          "caption": "Shrimp and grits with eggs"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Serene L.",
+        "user_id": "ILWP2TyAHBmInqar9xJn8w",
+        "link": "https://www.yelp.com/user_details?userid=ILWP2TyAHBmInqar9xJn8w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Plo61deIgs-xSI2ElVaRYw/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 167,
+        "photos": 159,
+        "reviews": 499,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I give this place 5 Stars for it's speedy service, great atmosphere, friendly staff and decent wait times. But minus half Star for the food and parking situation.\n\nFirstly, parking is notorious in this area, of you have difficulty finding a spot, drive up to the valet. Shell out some money for the boys that park your car.\n\nThe wait for Saturday brunch at 25 mins is fairly decent. Lucky for us, there are cinema benches to rest it just wander along the route to peek into other establishments. The hostess will yell out your name when it's your turn, you won't miss her calling your name.\n\nWhen she yelled our name, we were down to a table near the bar. This restaurant uses all the space available. Lol\n\nSomeone took our drink order and disappeared quickly then she appeared again at the table next to ours. Clearly she's well versed with the size of the crowd. After giving us sufficient time to peruse the menu, she appeared again! Timely!!!\n\nOur food came quickly! Kudos to the kitchen!! My shrimp and grits looked nice but i didn't like it as much as others I've tried. First there were green bell and red bell peppers, secondly, it was too saucy and there was not enough grits to soak up the gravy. If there were more grits, the size wouldn't taste so salty.  The sweet potato pancakes was way too crispy for my liking though my husband loved it \n\nI might come back a second time to try other items to make a new judgement s to whether i would scratch it off my breakfast restaurant list.",
+        "language": "en"
+      },
+      "date": "2019-10-27T21:53:18Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Bethany A.",
+        "user_id": "TQEqtmLnglgtBZMDeghEHw",
+        "link": "https://www.yelp.com/user_details?userid=TQEqtmLnglgtBZMDeghEHw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/IIlQEmkvAODMRQg09mM3Og/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 15,
+        "photos": 10,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "After not agreeing on any of the restaurants we had on our list, we finally said \"screw it let's go here\" and we were both SO GLAD we did! Seating is a little snug but we made friends with our table neighbor. Our server was very sweet and the food was incredible! The chicken was juicy, flavorful, and perfectly fried. The sausage gravy was absolutely amazing. Not so rich that it overpowered the meal, but rather fairly light (for a gravy lol) and very flavorful. The pork in my sandwich was tender and moist and the collard cole slaw was amazing! I'm not a huge fan of slaw and was surprised that I loved it as much as I did. I also had a mango mimosa that was very tasty, but overpriced. Everything was so good and my boyfriend scraped his plate clean!",
+        "language": "en"
+      },
+      "date": "2021-07-26T18:48:01Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8wJIv9wVa1HrIT-W3hLn9A/o.jpg",
+          "caption": "Bad to the Bone Sandwich and Flat - Top Mac & Cheese for me and the Folk Southern Fried chicken biscuit. Amazing!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/93Qfoe6tdKdfsDCu4ElEBA/o.jpg",
+          "caption": "The Folk Southern Fried chicken biscuit was so good he was scraping his plate clean!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kim H.",
+        "user_id": "QPUpS_mOaK_HBX1WAXuLjQ",
+        "link": "https://www.yelp.com/user_details?userid=QPUpS_mOaK_HBX1WAXuLjQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tyuRxx1T-WoI9EfrzZGOcA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 7,
+        "photos": 41,
+        "reviews": 34
+      },
+      "comment": {
+        "text": "I'm going start off by saying this was my first time here, so I didn't know what to expect. When i walked in, a sign in the front said please wait to be seated, but no one ever came by so I seated myself. I had coffee (hot and good) and a waffle with chicken w/ peach compote on the side.  I'm so glad it was on the side because it wasn't really good. The waffle was flat so I would choose something else if I ever go back.  The pleasant surprise (sarcasm) was an $18 parking fee, which I would try and park on the street next time since I was truly surprised about that.  That's not the restaurants fault, but yikes. The fried green tomatoes are good with blue cheese crumbles.",
+        "language": "en"
+      },
+      "date": "2021-05-12T22:12:06Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5cHJ3XDU4u5vJLx1SmbD5Q/o.jpg",
+          "caption": "Chicken and Waffles"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YYqMytU1LxjiVQ0Cd3yErw/o.jpg",
+          "caption": "Fried Green Tomatoes"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Liz R.",
+        "user_id": "xETfyiW7Uhwcr5pBptpOIg",
+        "link": "https://www.yelp.com/user_details?userid=xETfyiW7Uhwcr5pBptpOIg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7LDv-WN0777iy1B2XalRIw/180s.jpg",
+        "address": "Vienna, VA",
+        "friends": 145,
+        "photos": 1924,
+        "reviews": 432,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "THIS PLACE IS THE MOTHERFATHER BOMB !!!!! Both of our entrees were beyond good and filling! They know what they're doing with food! That flat top Mac and cheese gives you the ooey gooey + crunch that you crave from baked Mac and cheese and it's perfect! Service was awesome as well. It's a really small place so squeezing between tables especially after having eaten all that damn food was a bit challenging  otherwise highly recommend you pay a visit!",
+        "language": "en"
+      },
+      "date": "2019-07-07T18:33:09Z",
+      "rating": 5,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AQGXx2wO63c4wMk0SezU2Q/o.jpg",
+          "caption": "Fried Chicken Sandwich with Pimento Cheese"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GBcJY4Wh7zHghr3v_G2jbg/o.jpg",
+          "caption": "Foul Play"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/U6YlPhCxCO1n_J9LEh9gpA/o.jpg",
+          "caption": "Corn Grits"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/d8PhusTe18allflQ_j9e3Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ni1awtQNg7AhdAd8Eq2wbA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DWfbLdZM2h7I3L44huE-4Q/o.jpg",
+          "caption": "Flat - Top Mac & Cheese"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mMtGBVQXMQXeNsaQUyxlcw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tL8BDAIKjskpOsoV_W157A/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 2,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Bruce M.",
+        "user_id": "mwPS2OOrF2nuD9VeSSrT8Q",
+        "link": "https://www.yelp.com/user_details?userid=mwPS2OOrF2nuD9VeSSrT8Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Q-ug2hyOuhqPANnVchza6g/180s.jpg",
+        "address": "Richmond, VA",
+        "friends": 198,
+        "photos": 25,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "I have heard about this place from friends but has never had the opportunity to visit. I found some time this past week and took advantage as my time to check them out. \n\nI went as soon as they opened, so finding seating was pretty easy. I was greeted by a friendly server as soon as I sat down. I ordered the Foul Play, which is Chicken and Waffles. The food came out rather quickly, putting the overall service for this establishment as an A+ in my book. My food was good. The chicken was seasoned decently and my eggs were cooked exactly as I asked.  Not sure what they used but I absolutely fell in the love with the syrup they used. \n\nOverall I would visit here again. They have some other good options that I look forward to trying in the near future.",
+        "language": "en"
+      },
+      "date": "2020-01-06T17:58:36Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Y05SFBrf8mI-l1lzNumxGw/o.jpg",
+          "caption": "Foul Play"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Brittney C.",
+        "user_id": "3IU4N6ymVaJvUpRmobM5fg",
+        "link": "https://www.yelp.com/user_details?userid=3IU4N6ymVaJvUpRmobM5fg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_nWIwvCM8Zhz6XdX-C4sJQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 149,
+        "photos": 896,
+        "reviews": 374,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Food is always amazing. The only thing is the waiter was terrible. This was my second time having him and he just wasn't very personable. We had to wait to be seated while they went back and got him. He just doesn't have a personable personality. \n\nI asked for no ice, and he got ice cause he was still walking away when we were telling him that. Smh. \n\nHopefully I will go again and Not lunch time.",
+        "language": "en"
+      },
+      "date": "2017-10-03T19:55:12Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rrcOgCSBixIS2hyQrsri2Q/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Jason H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/9dHXwljQneuGOSczZkhx6w/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks so much, Brittney! Glad that you love our place. Hope to have you back again very soon! -Rhoda Hill, Owner",
+          "date": "2017-10-07T18:04:13Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Doria C.",
+        "user_id": "EN84spugM_DJsMuT9zmIRA",
+        "link": "https://www.yelp.com/user_details?userid=EN84spugM_DJsMuT9zmIRA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xq5wVT4LVL70SlpfObDvCw/180s.jpg",
+        "address": "Stockbridge, GA",
+        "friends": 13,
+        "photos": 144,
+        "reviews": 166
+      },
+      "comment": {
+        "text": "OHMYFRIGGINGAWD!\n\nI thought their lunch was awesome.\nI really love their breakfast, that pancake made with sweet potatoes is like Merry fucking Christmas in my mouth, it wasn't even mine but I was offered a taste and slid my ass over to their seat and ate half of it.  \nI profusely said sorry since I didn't even know them.\n\nI had ordered sausage links over well eggs and fabulous hashbrowns with grilled onions with wheat toast, man! That shit was good.\n\nOmelet with the spinach and other stuff was yummy too.  \n\nJust a really awesome place with fucking yummy food.!",
+        "language": "en"
+      },
+      "date": "2019-07-28T14:05:48Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zivGVJQnG-ujAM2wrSAN2A/o.jpg",
+          "caption": "Yummy"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pTpMNmkhYvcrUwentbORQg/o.jpg",
+          "caption": "Tasty"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E94fhj3yS85q5WVbABTlEg/o.jpg",
+          "caption": "OMG PREFECT MAC N CHEESE"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kJihC2hjSwxfbYf2iW-9OQ/o.jpg",
+          "caption": "Yummy!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 4,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Jason H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/9dHXwljQneuGOSczZkhx6w/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks so much, Doria! Glad that you love our place. Hope to have you back again soon.\n\nBest,\nRhoda Hill, Owner",
+          "date": "2017-11-20T18:38:37Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ashlye B.",
+        "user_id": "E_Px1OdqTftlHim3DO1HeQ",
+        "link": "https://www.yelp.com/user_details?userid=E_Px1OdqTftlHim3DO1HeQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kjO3tGhyG4216AEKlNcW7A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 174,
+        "photos": 1353,
+        "reviews": 189,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We arrived to a 45 minute wait.. Parking was complimentary valet, which was perfect. The lot is big and it's beside the restaurant. The restaurant was playing old skool classic inside like Stevie Wonder and Curtis Mayfield and gave us a homie feeling. Our waitress was cureteous and fast. The mimosas was a perfect and I ordered the Chicken and Waffles that came with a peach whiskey chutney. Typical waffle but the chicken may have needed some Soul seasoning a little bland. My mom ordered the Veggie Omelette that was perfect she said!! My little one e loved the Cinnemon Waffle , it was perfect because it was thin unlike some other versions that are thick like Belgium. Overall the experience was a vibe. The artwork pays homage to the Atlanta Musicians with all the Artists name on mural. I want to come back and try the lunch options as well.",
+        "language": "en"
+      },
+      "date": "2019-05-12T22:38:39Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 6,
+        "funny": 2,
+        "cool": 4
+      }
+    },
+    {
+      "user": {
+        "name": "Cary B.",
+        "user_id": "b-3S8GVIZUvOam51ovocWA",
+        "link": "https://www.yelp.com/user_details?userid=b-3S8GVIZUvOam51ovocWA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2_cZYexMN1yDobtFv4Niig/180s.jpg",
+        "address": "Providence, RI",
+        "friends": 120,
+        "photos": 915,
+        "reviews": 129,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Oh folk art how I love your breakfast. By far the lobster Benedict is the winner. The best lobster Benedict in Atlanta! It's seasoned and cooked perfectly . Their huevos rancheros were really good, crunchy flavorful and just plain delicious! Make sure to come before 11 am to get breakfast! The sweet potato pancakes were nasty-heavy and dry. The hash browns seemed like they came straight from the supermarket freezer. The waiter described them like Waffle House hash brown and he didn't lie maybe even worse as in a place like folk art I would expect better quality. \n\nTheir lunch is also really good and affordable. My husband had the shrimp po boy which was Amazing!!! Shrimp was flavorful fried to perfect crispy State! The fries were also good! I had the grill cheese it's been voted to be the best in Atlanta. Although really good I guess I expected more but might be that I make a really good girl cheese at home. It's the best I've tried outside my house but would order the shrimp po boy before the grill cheese. The tomato soup was delightful with the sandwich and I'm not a tomato soup fan. Great job! I had the Mac and cheese and thought it was only ok. \n\nIn sum must get:\nBreakfast-lobster Benedict and huevos rancheros \nLunch - shrimp po boy \n\nParking is tricky in the neighborhood as your car will get towed in residential parking only, at night it's worth parking in the valet and tipping a couple dollars. During weekdays morning and early afternoon there's no valet so it's free parking!! Yeah!!",
+        "language": "en"
+      },
+      "date": "2018-01-04T17:35:49Z",
+      "rating": 4,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HYr57y3nUsE5SrIEbY-azg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GgunWEuWD-l_OVXd6BicPw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5SwDbrieuQn08n8kfBfBFw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Cvxsj0XXXlTmOC0HASbvng/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ot3scucTv8t6bZnSen6xuQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/u5klhmq0BR5ZfmyTybA8xw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QkWVBFSzrxX_6sBOSCoiIg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GhPuLPo3pYE89OQktSP9eQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Jason H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/9dHXwljQneuGOSczZkhx6w/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Best lobster benedict in Atlanta -- that's high praise, Cary! Hope to have you back for another very soon!\n\nBest,\nRhoda Hill, Owner",
+          "date": "2018-01-09T18:32:58Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ryan B.",
+        "user_id": "v6ttnV8AWzTc2bVhQU8zyg",
+        "link": "https://www.yelp.com/user_details?userid=v6ttnV8AWzTc2bVhQU8zyg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/IWdVoxYY9UFw0XG2IDL2DQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 242,
+        "photos": 43,
+        "reviews": 39
+      },
+      "comment": {
+        "text": "If you blink, you'll miss it but missing it would be a big mistake. I know because I've passed this spot a million times headed to places in Inman Park or L5P. but a friend suggested it for Saturday brunch & when i pulled up, I realized what it was!\n\nQuaint, colorful place right on the corner. Kind of small but in a good way.\n\nA million things on the menu and they all sound delicious. I wanted one of everything almost. Landed on the banana nut French toast + grapefruit mimosas. So delicious! I wanted to order more but was stuffed. I'll definitely be back soon.",
+        "language": "en"
+      },
+      "date": "2019-10-09T20:50:54Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3QxjPNtzZwssX7DPO3qYYA/o.jpg",
+          "caption": "Banana Nut Fosters & French Toast"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Raquel H.",
+        "user_id": "1O7wcFf0uC6Rg1DjsYXdWQ",
+        "link": "https://www.yelp.com/user_details?userid=1O7wcFf0uC6Rg1DjsYXdWQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-nw9bit3aORey8V_SKiunw/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 309,
+        "photos": 115,
+        "reviews": 108
+      },
+      "comment": {
+        "text": "Grits were creamy and delicious. Cute, quaint restaurant that's good for 1-4 people. The staff is extremely nice and the service is fast. The food was delicious . Great place for brunch with you friends! \n\nGreat place to start your day, then pick up a scooter and sight see!",
+        "language": "en"
+      },
+      "date": "2019-06-08T15:06:11Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VnNfNJI172lYt38OLnvKFg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4tLT05uXBctZnKGQgNlMeg/o.jpg",
+          "caption": "Nut Fosters"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Eboni A.",
+        "user_id": "SFFUigqyOSKZ9ehih_6j7w",
+        "link": "https://www.yelp.com/user_details?userid=SFFUigqyOSKZ9ehih_6j7w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Kj5RMl4c4W9Us5jKIm2dFg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 59,
+        "photos": 226,
+        "reviews": 175
+      },
+      "comment": {
+        "text": "Went a second time and everything was JUST AS AMAZING!!! This time my friend and I ordered French toast, create my own omelet, hash browns, and the chicken and waffle with the peach compote. The French toast is delicious! The chicken was well seasoned & tender. The portions were plentiful. Highly recommend. Service was awesome as well. Felt Covid safe: masks, QR Menu, plastics, hand sanitizer at every table, social distancing. A new fave!",
+        "language": "en"
+      },
+      "date": "2020-11-02T00:13:25Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Si0HPrTRReBKIdgyt7SHKQ/o.jpg",
+          "caption": "Chicken & Waffle"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vr1AuUzQKlLYlnR8v8Ec9Q/o.jpg",
+          "caption": "Omelette & hash"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5sZVnivMQzRMNipBmnOmkw/o.jpg",
+          "caption": "French Toast"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Laura S.",
+        "user_id": "UGmDEB5JHplZvQ29aze8bw",
+        "link": "https://www.yelp.com/user_details?userid=UGmDEB5JHplZvQ29aze8bw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ADHVpOzCXyMfaZZXdncAog/180s.jpg",
+        "address": "Kernersville, NC",
+        "friends": 69,
+        "photos": 3,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "Fantastic food and the atmosphere was awesome. Highly recommend making this a stop on your next trip to Atlanta.",
+        "language": "en"
+      },
+      "date": "2021-08-14T21:58:33Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZFPRI3-TFVWzVH8vGV2vmQ/o.jpg",
+          "caption": "Southern Comfort-shrimp and grits"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/n3T9SDTEedpj8rLVW6wj4w/o.jpg",
+          "caption": "Shrimp Po Boy"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7RKXluyTv7NZCZHkb21Rqw/o.jpg",
+          "caption": "Sweet Potato beignets"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Simon G.",
+        "user_id": "T9tK8yh9PHT82_4t74H_aw",
+        "link": "https://www.yelp.com/user_details?userid=T9tK8yh9PHT82_4t74H_aw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5uWV3N3nN8ks9KUISXeQ3g/180s.jpg",
+        "address": "Sunnyside, Queens, NY",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 25
+      },
+      "comment": {
+        "text": "Came here looking for some eggs Benedict, turns out they stop serving them at 11 AM. But we saw so many great options we couldn't leave without trying out Folk Art. \n\nThe atmosphere and restaurant are really cute, a great brunch or lunch location in a beautiful neighborhood.\n\nEverything on the menu sounded delicious but there are clear cut fan favorites. So we trusted them and went with the lobster rolls w/ a side of friends and the Bad to The Bone sandwich w/ a side of Mac and cheese. Could not have been more satisfied with our choices. \n\nThe lobster rolls were buttery and the lobster salad itself was fresh and tasty. The tomatoes on top were a little lackluster and not as fresh as i would have wanted them to be. The fries were delicious. \n\n\nThe bad to the bone sandwich was so good, a great combination of flavors. Onions, collard greens and pulled pork, not too saucy and just the right amount of every flavor. Mac was so good, crunchiness and creaminess all in one. \n\nOur server was very helpful and kind.\n\nOverall such a nice experience and a very enjoyable lunch on a beautiful day.",
+        "language": "en"
+      },
+      "date": "2019-04-23T17:46:25Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5elxoM1DK7BieZw4xerowA/o.jpg",
+          "caption": "Lobster Rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pKQar_zTIf2Z2QfR8hkQ_Q/o.jpg",
+          "caption": "Bad to the Bone"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Daviana C.",
+        "user_id": "nGmRD2YJt9X5WSe0hDJvsw",
+        "link": "https://www.yelp.com/user_details?userid=nGmRD2YJt9X5WSe0hDJvsw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/__oL9fsx5OhFIGGOErVkJQ/180s.jpg",
+        "address": "McCordsville, IN",
+        "friends": 205,
+        "photos": 999,
+        "reviews": 324,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I convinced my husband to come Folk Art during our trip to Atlanta after seeing an episode of Diners, Drive Ins, and Dives. I ordered The Foul Play: chicken and waffles with a peach compote. The chicken was delicious! The waffle was similar to one you'd get at any waffle house. The peach compote wasn't sweet enough for me but it was still good.\n\nThey have fun appetizers like bacon dipped in pancake batter and sweet potato beignets. We ordered the deep fried jalepeno cheese grits balls which is something I've never seen before! \n\nAlso a great place to find celebrities! We were there Wednesday and Jidenna was eating at a table right behind us!",
+        "language": "en"
+      },
+      "date": "2019-11-30T00:06:37Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Elliott A.",
+        "user_id": "Enxa07QNVj5vLZvi4ezTig",
+        "link": "https://www.yelp.com/user_details?userid=Enxa07QNVj5vLZvi4ezTig",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 15,
+        "reviews": 29
+      },
+      "comment": {
+        "text": "Best breakfast place you can eat at in Georgia. Consistently great food and service. The chicken and waffles is my goto.",
+        "language": "en"
+      },
+      "date": "2022-11-27T17:02:18Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sarah L.",
+        "user_id": "JQ_OzLwY3erPboDPB1MpGg",
+        "link": "https://www.yelp.com/user_details?userid=JQ_OzLwY3erPboDPB1MpGg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/459Z0djYvTPc9FfdRrVDdw/180s.jpg",
+        "address": "New Orleans, LA",
+        "friends": 290,
+        "photos": 123,
+        "reviews": 157
+      },
+      "comment": {
+        "text": "We came here for dinner and were quite satisfied with Folk Art. The prices of items on the menu were great - French toast for 8.99 plus the side and Bad to the bone sandwich for 10.99, and 3 bucks for iced coffee and 8 bucks for a frozen alcoholic coffee. The food and drinks we had were delicious. \n\nThe only bad thing about folk art, which isn't even their fault, is I spent a lot of time driving around finding a spot on the street - but we went here on a Saturday night so it was also expected. Folk Art has valet parking but the lot looked full. Servers were nice and when we went it was seat yourself which was fine. The whole restaurant is painted inside with R. Land art. \n\nThis place has a variety of items on the menu for everyone and they have nice cocktails too. We'll definitely come back!!",
+        "language": "en"
+      },
+      "date": "2019-04-14T14:25:51Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zGLFESOAZvFQJdNpXEGkcQ/o.jpg",
+          "caption": "Bad to the bone sandwich"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cHBK6pDGCR8OrebtSYrn9w/o.jpg",
+          "caption": "Carmelized banana nut French toast with bacon"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Amy Jo G.",
+        "user_id": "t4YV24d_SIiw_8d7SfSwgg",
+        "link": "https://www.yelp.com/user_details?userid=t4YV24d_SIiw_8d7SfSwgg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/H5Szz1sWXuMxnELhi5N9vQ/180s.jpg",
+        "address": "Brooklyn, NY",
+        "friends": 1170,
+        "photos": 7,
+        "reviews": 47
+      },
+      "comment": {
+        "text": "This place is a great spot, cute atmosphere and good coffee and eats. Service is a little slow cuz they're busy but they do take care of you. I had the virgin bloody mary and it was delicious. I usually prefer horseradish-based but this red pepper one was yummy. I got the Foul Play (chicken and sweet potato waffles with peach compote.) the waffles are amazing, chicken good and compote was pretty weird. It seems tomato based which is never seen before. I'd prefer a straight up sweet compote. But it's their southern spin on it for a savory dish I guess. If that doesn't appeal ask for it on the side. Overall I would recommend this brunch spot, just be patient.",
+        "language": "en"
+      },
+      "date": "2022-04-24T17:30:42Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Enaefe Z.",
+        "user_id": "B6Vlbag6bBEq03PBu_bfBQ",
+        "link": "https://www.yelp.com/user_details?userid=B6Vlbag6bBEq03PBu_bfBQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MMNudaaSb-Ul-OJGcBbHDA/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 179,
+        "photos": 658,
+        "reviews": 173,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I was extremely underwhelmed by this place. We had called earlier to make a reservation and they do not accept reservations. We showed up and they took our number down. We waited for about 30 mins until we were seated. Immediately we were seated we were informed that we couldn't take off our masks until the server had taken all our orders which was perfectly okay. We waited for about 10 minutes before our server came over. We asked for recommendations and ended up getting the I dream of weenie, fried pickles and pimento cheese dip. The dream of weenie was too salty and I would rather eat a plain hotdog than that. The fried pickles was just okay. The pimento cheese dip crackers were soft and stale. We were disappointed of course but were still excited to try the main brunch since it had really great reviews. For my meal I had the fried chicken sandwich plus a sunny side up egg. I was excited because the reviews were pretty good. Honestly, I'm not sure if it's the same sandwich people write about but it was very bland and underwhelming. I couldn't even eat the meal. My friend had the foul play which I ate out of and had the same feelings like I did with the chicken sandwich.",
+        "language": "en"
+      },
+      "date": "2020-09-18T17:48:51Z",
+      "rating": 2,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UEX0dDj7A7svymo4belu6g/o.jpg",
+          "caption": "I Dream of Weenie"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/J-XVYF-usTHSxBeuhGyWAw/o.jpg",
+          "caption": "Fried Housemade Pickles"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZwXTMDTJbB_IA-vOb8p3-w/o.jpg",
+          "caption": "Pimento Cheese dip."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vfb6j_H64EHg-TTHYf9wpw/o.jpg",
+          "caption": "Foul Play"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L-8Nh3ew9CTJ9wyXQQy7Iw/o.jpg",
+          "caption": "Fried Chicken Sandwich"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Brandon S.",
+        "user_id": "X_ZUJ5G_UmEfJcpjr3ecbA",
+        "link": "https://www.yelp.com/user_details?userid=X_ZUJ5G_UmEfJcpjr3ecbA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1_JCRt1O_NpRol2Ry0TnxQ/180s.jpg",
+        "address": "Birmingham, AL",
+        "friends": 258,
+        "photos": 11,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "The decor of the restaurant is very unique and interesting. Puts me in the mind of a \"middle of nowhere\" gas station or diner. My wife and I thought it was very interesting and different. Really matches the diversity of the neighborhood it sits in. \n\nI ordered the \"Foul Play\", which is chicken and waffle with a peach topping. The waffle was of the \"Waffle House\" variety. The chicken was a boneless breast. It was fried perfectly, very tender and juicy. The problem was that it wasn't seasoned. I was expecting some salt from the chicken to offset all of the sweetness from the peach topping and syrup. It was disappointing. My wife had the French toast and had no complaints. It was thick and fluffy. \n\nService was great. Everyone was nice and attentive to our needs.",
+        "language": "en"
+      },
+      "date": "2020-08-26T17:03:05Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gZluWjPjxTgDEVnb5b0dAA/o.jpg",
+          "caption": "Foul Play"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dXN8gZVqQ4s4XADuMGCE6A/o.jpg",
+          "caption": "French Toast"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Michael I.",
+        "user_id": "ooN3N-o1OZX2kMT3rlUeYw",
+        "link": "https://www.yelp.com/user_details?userid=ooN3N-o1OZX2kMT3rlUeYw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GZK_1y22NIkB5tMy5WuP4Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 533,
+        "photos": 643,
+        "reviews": 109
+      },
+      "comment": {
+        "text": "This was our first visit to this popular establishment. We were there for Sunday Brunch. We started with a Sweet Potato beignet topped with cinnamon bun drizzle and pecans. We also had Maple syrup on the side for dipping. We didn't really need the syrup but ate some anyway. Next I selected the s'mores French toast with eggs and bacon. My friend  had the Fried Chicken Biscuit  with the collard green cole slaw.\n\nAll of these dishes were very good and the mimosas were excellent! The prices are extremely reasonable for this area. Valet parking service made getting in and out a piece of cake. \n\nTry it, you'll like it!!",
+        "language": "en"
+      },
+      "date": "2019-07-16T14:07:27Z",
+      "rating": 4,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kPMIV0hEVQJMzDr7XuKa8w/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OYLWrIAkJNjNvBkZANcnkA/o.jpg",
+          "caption": "Brunch"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JNTQYF0RkOPuKSE1JlksMA/o.jpg",
+          "caption": "Apple Bitters Mimosa"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2FXpcV-WWyRpeRz7Kle6KQ/o.jpg",
+          "caption": "Sweet Potato Beignet"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TWScr4uQh4aL_-aevMh7zA/o.jpg",
+          "caption": "Folk Southern Fried"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Tvz1MGSjtQ5dmGhU3gTozQ/o.jpg",
+          "caption": "S'mores French toast"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Will P.",
+        "user_id": "QSYkRV1xS3HQONR5F7MJLg",
+        "link": "https://www.yelp.com/user_details?userid=QSYkRV1xS3HQONR5F7MJLg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ru70Zt4WDf9wBWd4bHyIbg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 577,
+        "photos": 444,
+        "reviews": 444,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Not sure how this joint got by me for this long but hoo boy Folk Art is a treat.\n\nMenu is one of the most creative and unusual in the city, with Southern classics and some greek dishes tossed in for good measure. ambiance is grunge-hipster-upscale (yes that's a thing) and is just a fully delightful place to pop in for noshings.\n\nI had \"Strawberry Fields\" salad (hold bleu cheese; eww) with blackened chicken and it was quite literally perfect. ate the entire thing.\n\nWe hit this place for a work meeting at lunch, which I think is a good play since weekends is insanely crowded (think: 2 hours at Flying Biscuit but actually worth the wait). yes, I'm throwing some shade.\n\nCheck out Folk Art... you won't be disappointed.",
+        "language": "en"
+      },
+      "date": "2019-10-18T16:04:37Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "J P.",
+        "user_id": "X8ROn7Jd3gMBh7KrICUbmQ",
+        "link": "https://www.yelp.com/user_details?userid=X8ROn7Jd3gMBh7KrICUbmQ",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Use to love this place due to the good food, tasty drinks, ambience and convenience. Unfortunately, now the staff appears to be overworked with bad attitudes and less attentive. During my last visit 3 days ago, I had to continuously get up to ask for things. Afterwards, instead of a pleasant brunch, I was exhausted from begging for more water, another drink, condiments, etc. Also, the servers will walk right by without checking on their tables (intentionally ignoring). By the way, I'm not the type to ask for a lot. \n\nLet's please get back to outstanding customer service. Thx",
+        "language": "en"
+      },
+      "date": "2022-04-20T17:40:28Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Briana L.",
+        "user_id": "fUsKTTxTTBPKmfUaio0YSA",
+        "link": "https://www.yelp.com/user_details?userid=fUsKTTxTTBPKmfUaio0YSA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/itD1C4nkW2zNasG9egdAkw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 17,
+        "photos": 401,
+        "reviews": 176,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We ordered their sweet potato beignets as a starter and those were great. Couldn't taste the sweet potato but still yummy. Had their lamb kafta and chicken pot pie. Pot pie had too much gravy but filling. And lamb kafta with cucumber salad and Mac and cheese as the two sides was good. Overall, service was okay, good food and great dessert. The wall art and ambiance was cool as well. Somewhat overpriced but overall a nice place to eat at.",
+        "language": "en"
+      },
+      "date": "2019-10-12T21:43:20Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/W8hJEaMU3R6vJo-HIdUy7Q/o.jpg",
+          "caption": "Chicken Pot Pie Deconstructed"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WlXdTxHdgpXVlOkJJagC4w/o.jpg",
+          "caption": "Lamb Kafta"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Maysam N.",
+        "user_id": "ulUFO5Jd30qLz8XHqxScMg",
+        "link": "https://www.yelp.com/user_details?userid=ulUFO5Jd30qLz8XHqxScMg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xUtYaGdaxmwwwxdRhXDYBA/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 0,
+        "photos": 28,
+        "reviews": 46
+      },
+      "comment": {
+        "text": "The food is ok, the wait list is very long, not because the restaurant is busy, it's mainly because of the waiters/waitresses. They are way under trained. They charged us 18% for service, in addition to the tipping. Although we just had a party of 3. We waited 1 hour to get into the restaurant and 1.5 hours to get the food. They charged us $ 3.5 for coffee that was very old and we never received a refill. The food was very ordinary. If you want a good brunch, I highly recommend you to do more search and find another place. The only good thing were the host who was super friendly and polite and the person who seemed to be a veteran server (she helped us, otherwise who knows when we would get service?!).",
+        "language": "en"
+      },
+      "date": "2021-10-03T20:05:02Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Maisha R.",
+        "user_id": "EPK4_bIsyVlrlsLH3RClEQ",
+        "link": "https://www.yelp.com/user_details?userid=EPK4_bIsyVlrlsLH3RClEQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4ZEbK6JYkclYCG8nmTp4zw/180s.jpg",
+        "address": "Jacksonville, FL",
+        "friends": 1991,
+        "photos": 8824,
+        "reviews": 1524,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place had a few issues with execution but overall, brunch was enjoyable.\n\nWe started with the sweet potato beignets. Our first batch was crispy and hard but the flavor was excellent! When the overly fried balls came to our server's attention, he got us a fresh batch that was soft and much better than the first one.\n\nAfter seeing the chicken and waffles picture I knew that I was going to try that. Others had the patty melt, folks southern fried, bananas foster waffle, veggie sandwich, and cinnamon pecan sticky bun french toast. For the most part, the food was very good and the portions were substantive. \n\nThe folks southern fried chicken and biscuits was covered in a sausage gravy that was thick and flavorful. The issue with that dish was the biscuits, which were too hard to really enjoy. The sweet potato waffle had a wonderful flavor but it was quite thin. A nice piece of chicken topped it though so it was enough food for me.\n\nService was really good and considering the fact that they let 2 people in our party of 8 sit for a half hour occupying two tables on a Saturday morning during a torrential downpour without any hesitation, I can't complain at all about the hospitality here. Our server tried to make everything right, which we really appreciated.",
+        "language": "en"
+      },
+      "date": "2017-01-22T17:52:39Z",
+      "rating": 3,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/366ltMDCpWaTLMM3wbvmsA/o.jpg",
+          "caption": "Bananas fosters waffle"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BPmzP0MbnAIjQ3957eqPiw/o.jpg",
+          "caption": "Folk southern fried"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GuwWEJ3vub_gKGFXNJcx9w/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_zdT04Fm7ShK4-Ux5tQXXg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/V6yDEJgSoCdaGmC37Ywqow/o.jpg",
+          "caption": "Sweet potato beignets"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/P9zMsw4OrepFc4N3OFPRdw/o.jpg",
+          "caption": "Foul play"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ptiv6m-_aODsfvkoJIFk9A/o.jpg",
+          "caption": "Cinnamon pecan sticky bun"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xPHo9bFu5r74TjUPhzK2cg/o.jpg",
+          "caption": "Patty melt"
+        }
+      ],
+      "feedback": {
+        "useful": 8,
+        "funny": 4,
+        "cool": 8
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Jason H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/9dHXwljQneuGOSczZkhx6w/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Maisha, thanks for the detailed feedback, and I'm happy we were able to give your party an escape from the downpour. As for the food, it's wonderful that you enjoy the flavors the chicken and waffles and sweet potato beignets. It's good we could replace the initial beignets since they weren't to our normal standard. I wish you'd loved all parts of your meal as much as the service and taste. On that note, I appreciate you brining the texture of the biscuits to my attention. I'd like to figure out why they weren't to our normal quality.\n\nWhat was the date of your meal?\n\nBest,\nJason Hill, Owner",
+          "date": "2017-01-25T23:12:08Z"
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=klJKIbiGWDpPIVhWeb4tZQ&start=210"
+  }
+}

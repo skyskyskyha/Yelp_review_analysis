@@ -1,0 +1,39 @@
+{
+  "search_metadata": {
+    "id": "65f09cd01c450a9a29ad240b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f09cd01c450a9a29ad240b.json",
+    "created_at": "2024-03-12 18:20:00 UTC",
+    "processed_at": "2024-03-12 18:20:00 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/6OQOVOqUd8CPkdff-lgqwA?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f09cd01c450a9a29ad240b.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f09cd01c450a9a29ad240b.prettify",
+    "total_time_taken": 0.64
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 130,
+    "num": "50",
+    "place_id": "6OQOVOqUd8CPkdff-lgqwA"
+  },
+  "search_information": {
+    "total_results": 112,
+    "business": "AltaToro",
+    "reviews_results_state": "Fully empty"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 112
+    },
+    {
+      "hl": "es",
+      "count": 1
+    },
+    {
+      "hl": "fr",
+      "count": 1
+    }
+  ],
+  "error": "Yelp Reviews hasn't returned any results for this query."
+}

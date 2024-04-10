@@ -1,0 +1,2145 @@
+{
+  "search_metadata": {
+    "id": "66018b0f66440ae32f32cbac",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c435cd11c3877dff/66018b0f66440ae32f32cbac.json",
+    "created_at": "2024-03-25 14:32:47 UTC",
+    "processed_at": "2024-03-25 14:32:47 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/QzkNSPWRd9jCyFFhwsXIMw?",
+    "raw_html_file": "https://serpapi.com/searches/c435cd11c3877dff/66018b0f66440ae32f32cbac.html",
+    "prettify_html_file": "https://serpapi.com/searches/c435cd11c3877dff/66018b0f66440ae32f32cbac.prettify",
+    "total_time_taken": 2.57
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 80,
+    "num": "50",
+    "place_id": "QzkNSPWRd9jCyFFhwsXIMw"
+  },
+  "search_information": {
+    "total_results": 190,
+    "business": "North Italia"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 190
+    },
+    {
+      "hl": "es",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Amber G.",
+        "user_id": "7Vynt6BGPGBV9idTB8I0Sw",
+        "link": "https://www.yelp.com/user_details?userid=7Vynt6BGPGBV9idTB8I0Sw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/t4JQWehOpvU-RohGkdChpQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 32,
+        "photos": 298,
+        "reviews": 181,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Service leaves much to be desired. We came for dinner and food was meh - best thing we had was actually the chef's board. Squid ink pasta and braised short rib nothing to rave about. I wouldn't come back for lunch or dinner - this is more of a place to have a drink at the bar with a chef's board and white truffle garlic bread.",
+        "language": "en"
+      },
+      "date": "2022-12-13T00:03:33Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Amber, thank you for your review. We're glad you enjoyed our Chef's board and White Truffle Garlic bread. We are sorry you were not satisfied with our Squid Ink pasta and Braised Short Rib. Next time, please let our managers know if anything can be improved so we can do our best to make it right. We hope you can give us another chance.",
+          "date": "2022-12-14T21:27:04Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Bruce W.",
+        "user_id": "9IbQcXZcraC7AXoQqGCjiQ",
+        "link": "https://www.yelp.com/user_details?userid=9IbQcXZcraC7AXoQqGCjiQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vaMVgemKL4k5ha4RX_2kLA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 1,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "I've been to North Italia six times in the last four weeks, and I absolutely love this place. From the moment you walk in, you are greeted with kindness and respect, and they have the friendliest people working there. The manager is a star! The food is outstanding, and they have the best spaghetti sauce I've ever had in 64 years, it's a go to place for a casual meal and great food that doesn't take two hours. I will always return two or three times a month. Thank you for a great service and great food.",
+        "language": "en"
+      },
+      "date": "2023-09-12T15:06:25Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Bruce, thank you for your review. We're so glad you enjoyed our outstanding food and great service. We look forward to your next visit.",
+          "date": "2023-09-12T23:36:08Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Katherine S.",
+        "user_id": "slgmBesjHLqAzETH81fc9w",
+        "link": "https://www.yelp.com/user_details?userid=slgmBesjHLqAzETH81fc9w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fepCjj6n3IP2kyhf3B5VUQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 0,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "My family and I visited North Italia for dinner on a Saturday evening. The ambiance was very laid back and the food exceeded our expectations! We were swayed to dine at North Italia after finding out it offered a kids menu, which my 5 year-old daughter really enjoyed. Additionally, the food that my husband and I had was quite tasty. Perhaps the best part of our experience however, was the service we received from Rose. She is a wonderful server who went the extra mile to ensure we had a very positive experience. We look forward to dining at North Italia again and will certainly be asking for Rose!!",
+        "language": "en"
+      },
+      "date": "2023-05-21T13:18:37Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Katherine, thank you for your review. We're so happy you and your family enjoyed our ambiance, tasty food, service, and extensive menu options. We hope to see you again soon.",
+          "date": "2023-05-22T18:37:49Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ashley M.",
+        "user_id": "011ZvZr8JXcVYjPFNKr8DA",
+        "link": "https://www.yelp.com/user_details?userid=011ZvZr8JXcVYjPFNKr8DA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/r4JgUwR5Kj0V7adl4DE9DA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 786,
+        "photos": 7,
+        "reviews": 32
+      },
+      "comment": {
+        "text": "Absolutely delicious. We had the garlic bread (it was plated beautifully and equally delicious), shrimp scampi (omg-finger licking good! Dip the bread in the sauce-perfection!), spicy rigatoni vodka, and house special bolognese. Everything was so good and the service was great also. So glad to have found this place-a delicious meal with QUALITY ingredients and great service is rare these days but y'all are getting it allllll the way right! Please don't change. We will definitely be back!",
+        "language": "en"
+      },
+      "date": "2022-11-09T01:49:05Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4ZD3JA2BkMJvm0Nr98zHIg/o.jpg",
+          "caption": "White Truffle Garlic Bread"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JILNV-ckQBMujy2VUKhmRw/o.jpg",
+          "caption": "Wild Shrimp Scampi"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thank you so much for this review, Ashley. We're glad you enjoyed our White Truffle Garlic Bread, Wild Shrimp Scampi, Bolognese, Spicy Rigatoni Vodka, and great service. We look forward to your next visit.",
+          "date": "2022-11-10T16:34:48Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Stephanie O.",
+        "user_id": "7aQPxU9LhI7_75OOErR47A",
+        "link": "https://www.yelp.com/user_details?userid=7aQPxU9LhI7_75OOErR47A",
+        "address": "TX, TX",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "The food was delicious! I ordered the bruschetta as an appetizer and the truffle flavor is strong but delicious and the short rib was so tender and so yummy I'd have it again and again! The service was pretty good except I will say our waiter was a little slow, but overall the staff is very friendly. The ambiance is pretty good, it's a good date night spot or when you and friends want to get together.",
+        "language": "en"
+      },
+      "date": "2023-12-01T14:00:06Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thank you so much for this review, Stephanie. We're glad you enjoyed our Prosciutto Bruschetta, White Truffle Garlic Bread, Braised Short Rib Lumache, great atmosphere, and excellent service. We look forward to your next visit.",
+          "date": "2023-12-01T17:52:34Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Minhchieu T.",
+        "user_id": "jEydQ1KeEI94Y-9wJ9ZlwQ",
+        "link": "https://www.yelp.com/user_details?userid=jEydQ1KeEI94Y-9wJ9ZlwQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SllltGJP2xYRJGRwQ9Jygg/180s.jpg",
+        "address": "Duluth, GA",
+        "friends": 0,
+        "photos": 5,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "We got a last-minute reservation on Friday night on the patio for a date with our pups! \n\nSpacious seating between tables so that our German shepherded, corgi, and chihuahua had enough space to lay down without being near the severs, other guests, or the dog a table over. The overhead fans felt nice and breezy. \n\nWe order the WHITE TRUFFLE GARLIC BREAD, the bread was just the right amount of crispy and soft. The ricotta spread so evenly and I didn't get an overpowering taste of truffle which I loved! \n\nI order the SQUID INK MAFALDINE, and I should have read the part where it said Calabrian chili bc it was SPICYY. I had to switch plates with the bf who got the CHICKEN PESTO. I enjoyed the black pasta and shrimp but could only eat a few bites due to the spice. \n\nThe Chicken pesto was a 3/5. I requested some Parmesan on the side, wish it was a little bit more creamy/ pesto. The chicken was cooked perfectly with mushrooms and pine nuts. \n\nService was a 3/5 after we sat down it did take a while for the waiter to come back, and we got a new waiter while waiting. The apps came quick and we were almost done when the entrees came.\n\nOverall a great date spot with the dogs  \n\nWill definitely come back with the girls to sit inside and take some pics.",
+        "language": "en"
+      },
+      "date": "2022-06-27T19:38:52Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jSyTcbOlKuV_pFkiuiis2A/o.jpg",
+          "caption": "Hermes had plenty of room to lay down on outside patio"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sWjcHbn7YPL51pFpUHEnfg/o.jpg",
+          "caption": "Dessert Menu and Boba"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SwCJ1Vc2UmMNYf9mHGhvsQ/o.jpg",
+          "caption": "Chicken Pesto"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HEg6_VlUorvrhXRu_AIq_A/o.jpg",
+          "caption": "Squid Ink Mafaldine"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "We're so glad you enjoyed our White Truffle Garlic Bread and Squid Ink Mafaldine, Minhchieu. We are so sorry you were not satisfied with our Chicken Pesto and service. We will follow up on this with our team. Next time, please let our managers know if anything can be improved so we can do our best to make it right. Thank you for your review, and we hope to see you again soon.",
+          "date": "2022-06-29T16:07:37Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Mommy D.",
+        "user_id": "rUOp_VSHd3DjSlohs2oKVw",
+        "link": "https://www.yelp.com/user_details?userid=rUOp_VSHd3DjSlohs2oKVw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JsPTHxVy-1sOD5mwHvmnXw/180s.jpg",
+        "address": "Duluth, GA",
+        "friends": 4,
+        "photos": 61,
+        "reviews": 65
+      },
+      "comment": {
+        "text": "I didn't know this place was in (well right next to the mail)! Anyhow it has a lil patio outside if you wanna get a little vitamin D and watch Lenox parking fiasco. Not my cup of tea , BUT inside is nice! Upscale and they may need a new host/hostess (no one was there after we came in and sat at bar...then, we saw others have the same issue! ‍ Please work on this Managers. Otherwise, we ordered the spicy rigatoni (I added shrimp) and it was AMAZING! The bartender was so friendly and a GREAT MIXOLOGIST! I think her name was Marie...she didn't have what I ordered, Caprihina (Brazil rum cocktail). BUT she asked me how it's spelled. Then, Voila ‼SHE MADE IT HAPPEN ‼We we're both impressed. Clean friendly spot Manager assisted me to restroom, just GEEAT HOSPITALITY ‼",
+        "language": "en"
+      },
+      "date": "2023-06-02T17:02:39Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "We're so happy you enjoyed our Spicy Rigatoni Vodka, drinks, and friendly service. Thank you for your review and we hope to see you again soon.",
+          "date": "2023-06-03T16:41:11Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Tammy P.",
+        "user_id": "YI5zMbBq94jx5P2r73kzCA",
+        "link": "https://www.yelp.com/user_details?userid=YI5zMbBq94jx5P2r73kzCA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nMYpXKqkHYlYQl_-SilpFg/180s.jpg",
+        "address": "Columbus, OH",
+        "friends": 106,
+        "photos": 3,
+        "reviews": 119
+      },
+      "comment": {
+        "text": "Excellent service -- delicious food, one comped desert for no reason whatsoever.  Recommend the meatballs and either of the grilled breads.  I wish I could remember the name of my server .... Serenity maybe?  She was so attentive.  Nice atmosphere.",
+        "language": "en"
+      },
+      "date": "2023-05-24T00:42:12Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Tammy, thank you for your review. We're so happy you enjoyed our delicious food, nice atmosphere, and excellent service. We hope to see you again soon.",
+          "date": "2023-05-24T23:35:21Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kalah N.",
+        "user_id": "LhWbNh-gp9Pzmag6fH-GBA",
+        "link": "https://www.yelp.com/user_details?userid=LhWbNh-gp9Pzmag6fH-GBA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_hCOVllxadlfUKEPTttWrw/180s.jpg",
+        "address": "CA, CA",
+        "friends": 1,
+        "photos": 16,
+        "reviews": 19
+      },
+      "comment": {
+        "text": "Nice clean very professional.. tasty food .. nothing to complain about .. must come and eat here. The Server Kyle had good customer service .",
+        "language": "en"
+      },
+      "date": "2023-07-28T21:59:30Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Kalah, thank you for your review. We're so happy you enjoyed our good food and service. We hope to see you again soon.",
+          "date": "2023-07-30T01:48:10Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jasmine L.",
+        "user_id": "V-2bG6O4iG9-cl9WeBEfcQ",
+        "link": "https://www.yelp.com/user_details?userid=V-2bG6O4iG9-cl9WeBEfcQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fPb2hFDgIBuH6iszrIToTw/180s.jpg",
+        "address": "Ocala, FL",
+        "friends": 101,
+        "photos": 188,
+        "reviews": 44
+      },
+      "comment": {
+        "text": "5/5!! North Italia is such a great date night spot! It's brand new so the interior is spotless. The food and customer service completely exceeded my expectations. The white truffle garlic bread is a great appetizer to share with a group of people and the spicy rigatoni vodka is one of the best pastas I've tried. It's a good combination of sweet and spicy. \n\nOur server, Erica P. delivered the absolute BEST service. Super attentive and kind. She made it seem like we were at a $$$$$ restaurant. \n\nGo go!!",
+        "language": "en"
+      },
+      "date": "2022-06-23T22:57:13Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MJymI87AWHd6j0GT_HtFjg/o.jpg",
+          "caption": "Bolognese (House Specialty)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eyc517MCrF9-SFLHmw6GSg/o.jpg",
+          "caption": "Spicy Rigatoni Vodka"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M3fhIVKSoX19LNNn4vSlyg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-shQ3dSD7N7caf4qTS9Lnw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kQoyG-7gZoAjqvdP5QJr0Q/o.jpg",
+          "caption": "White Truffle Garlic Bread"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks for your review, Jasmine. We're glad you and your party enjoyed our great White Truffle Garlic Bread, Spicy Rigatoni Vodka, and attentive service. We hope to see you all again soon.",
+          "date": "2022-06-24T13:55:34Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Brian H.",
+        "user_id": "dZnD5Fp2HA-Z5cFDgQRUww",
+        "link": "https://www.yelp.com/user_details?userid=dZnD5Fp2HA-Z5cFDgQRUww",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6IBHtSu_3TTJkDDTE3g46g/180s.jpg",
+        "address": "Mableton, GA",
+        "friends": 13,
+        "photos": 62,
+        "reviews": 39
+      },
+      "comment": {
+        "text": "Great food, great ambiance! This place consistently wins in my book. The food is fresh and very satisfying!",
+        "language": "en"
+      },
+      "date": "2022-12-02T01:08:11Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/n0lxkAwBC155y3u_bIO5KA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EC6czXOhmRGY_OxlPNewIA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Brian, thank you for your review. We're so happy you enjoy our great food and beautiful atmosphere. We hope to see you again soon.",
+          "date": "2022-12-02T19:15:04Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Lauren M.",
+        "user_id": "8vHsfxBXrLPJYbdRZh_jbg",
+        "link": "https://www.yelp.com/user_details?userid=8vHsfxBXrLPJYbdRZh_jbg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vlUzBXcahx8ERBhlpO6eRA/180s.jpg",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 490,
+        "photos": 311,
+        "reviews": 142
+      },
+      "comment": {
+        "text": "Pretty good restaurant!  The branzino and salmon were GREAT! It's located right next to True Food at Lenox Mall!  Make sure not to leave anything visible in your car. Be careful with leaving purses next to you if you are sitting on the patio. Unfortunately, these are the things you need to worry about in Atlanta these days, especially at Lenox.",
+        "language": "en"
+      },
+      "date": "2022-09-01T19:00:11Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wu5VPaxJul0zNr7kpL-7mA/o.jpg",
+          "caption": "Roasted Salmon*"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qj6ag6giE64Na0Z57V-pGQ/o.jpg",
+          "caption": "Chef's Board"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Z907DeEuWxsCHrq_Sh4ZkA/o.jpg",
+          "caption": "Cocktails"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aIlKrhMPABUDwKokQQOI5w/o.jpg",
+          "caption": "Grilled Branzino*"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Lauren, thank you for your review. We're glad you enjoyed our great Grilled Branzino and Roasted Salmon. We look forward to your next visit.",
+          "date": "2022-09-02T14:39:32Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Vanity A.",
+        "user_id": "AlEPx610dLXShBqfrHi_4A",
+        "link": "https://www.yelp.com/user_details?userid=AlEPx610dLXShBqfrHi_4A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Mfg10DOokjGCl0qjtLDjAQ/180s.jpg",
+        "address": "Augusta, GA",
+        "friends": 21,
+        "photos": 37,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "This is my second time eating at this location and I am not impressed. I ordered the prosciutto and fig pizza and let me tell you it was heavy. The prosciutto was overly salty and the fig was not sweet enough.The base was delicious however.  I'm used to getting a wood fired pizza and this one seemed to be missing that homemade feel. I would go back once more for the brunch pizza, but after that, if it's a disappointment, I will not be returning.",
+        "language": "en"
+      },
+      "date": "2023-06-06T23:12:02Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "We are so sorry you were not satisfied with your Prosciutto Pizza. Next time, if anything about your experience can be improved, please let our managers know so we can make it right while you are dining with us. Thank you for your feedback.",
+          "date": "2023-06-08T16:44:18Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Joshua S.",
+        "user_id": "kYBdml0kIsYUVu9DGiWwoA",
+        "link": "https://www.yelp.com/user_details?userid=kYBdml0kIsYUVu9DGiWwoA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/B2bNuLdKg7xn_ccXISjSaQ/180s.jpg",
+        "address": "San Francisco, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Thanks to the team for being so accomidating to my dietary restrictions. I had the seasonal salad with some changes and my son had the pasta. Excellent and thank you team! I forgot to mention that I also had the Cheescake dessert which was excellent and the bread was also great!",
+        "language": "en"
+      },
+      "date": "2023-08-01T17:02:18Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks for your review, Joshua. We're glad you and your son enjoyed our cheesecake, pasta, and the service our team provided during this visit. We hope to see you again soon.",
+          "date": "2023-08-02T19:48:30Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Bahar A.",
+        "user_id": "pPXUDgWkYxoPb42vUs6h8A",
+        "link": "https://www.yelp.com/user_details?userid=pPXUDgWkYxoPb42vUs6h8A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pflE2tSHO0d9iBn9IbOVfQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 15,
+        "photos": 169,
+        "reviews": 95
+      },
+      "comment": {
+        "text": "This restaurant is in between Cheesecake Factory and True Food, so don't get confused by Google Maps making it seem like it's across the street. \n\nMy group had a great experience! We all enjoyed our food, and our server, Janaye, was awesome!! We ordered the grilled bread, strozzapreti, spicy rigatoni, chicken parm, hazelnut torta, and Italian butter cake. No complaints! We will definitely be back!",
+        "language": "en"
+      },
+      "date": "2022-08-12T00:09:35Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Bahar, thank you for your review. We're so happy you and your party enjoyed our Spicy Rigatoni Vodka, Chicken Parmesan, Strozzapreti, and service. We hope to see you again soon.",
+          "date": "2022-08-12T15:14:17Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Lakshmi B.",
+        "user_id": "8wdalGdJ3hcr7vYExVIVkg",
+        "link": "https://www.yelp.com/user_details?userid=8wdalGdJ3hcr7vYExVIVkg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MlGmT4otYAP3vQ3aBkcyWg/180s.jpg",
+        "address": "The Loop, Chicago, IL",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Terrible service and so so food. Ordered the Chicken Parmesan and the daily pizza. Waited 30 for the food and when it arrived the pizza had meat after the waiter confirmed there is no meat on the pizza and the Chicken Parmesan was burnt.",
+        "language": "en"
+      },
+      "date": "2023-04-30T18:36:35Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "We are so sorry you were not happy with our service and chicken parmesan, Lakshmi. You have every right to feel the way you do. We will address this with our team. Next time if there is anything about your experience that can be improved, please let our managers know so we can do our best to make it right. Thank you for taking the time to share this with us.",
+          "date": "2023-05-01T19:04:39Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Astrid B.",
+        "user_id": "a4qOIQIZq9wzE5vA2nlJLA",
+        "link": "https://www.yelp.com/user_details?userid=a4qOIQIZq9wzE5vA2nlJLA",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 0,
+        "photos": 9,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "This restaurant never fails to impress with its incredible food. Having dined here multiple times, I can confidently say that their dishes consistently exceed expectations.\n\nThe ambience is delightful, and sitting outdoors enhances the experience, especially with pleasant weather.\n\nToday I order a Sicilian margarita for my drink and this was just okay. The service provided by the attentive staff was satisfactory.\n\nThis is a chain restaurant that defies expectations with its remarkable taste and I would definitely recommend.",
+        "language": "en"
+      },
+      "date": "2023-05-17T01:38:07Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thank you for your review. We're happy you enjoyed our delightful ambiance, incredible food, drinks, and attentive service. We hope to see you again soon.",
+          "date": "2023-05-17T19:44:53Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Keval P.",
+        "user_id": "ZfQxCaNleyX4D9oFdUmirw",
+        "link": "https://www.yelp.com/user_details?userid=ZfQxCaNleyX4D9oFdUmirw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DNkdOJvDhr_J_PavtEVjMg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 252,
+        "photos": 79,
+        "reviews": 92,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Came here for brunch and enjoyed myself even more than the hype promised. Service was spectacular and the food was even better! Prices are as expected and I can only attest to the brunch food, but I can say with certainty I will be back for dinner soon!",
+        "language": "en"
+      },
+      "date": "2022-09-20T19:55:22Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Keval, thank you for your review. We're glad you enjoyed our brunch and atmosphere. We look forward to your next visit.",
+          "date": "2022-09-22T15:24:25Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Nellie D.",
+        "user_id": "bVhpw_2yelUWuBfdJ-kUhA",
+        "link": "https://www.yelp.com/user_details?userid=bVhpw_2yelUWuBfdJ-kUhA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/EfagRq6MPdiyE5RjuzRnmQ/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 175,
+        "photos": 76,
+        "reviews": 162
+      },
+      "comment": {
+        "text": "Such an intimate spot. Great for friends, first dates, and a pasta craving. They cook all pasta Al dente! I recommend the chicken Parmesan with rigatoni in the spicy sauce! Also, the bolognese and the chicken pesto pasta! For sure, get the truffle bread! Unfortunately, the soup had no noodles, barely chicken, and was really salty.",
+        "language": "en"
+      },
+      "date": "2022-08-07T23:04:23Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L2Dlww8FKfTuOUtFMtKfrg/o.jpg",
+          "caption": "Kitchen"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ErY9uQJ1pOg3v-NDxWoFmA/o.jpg",
+          "caption": "Caesar salad"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hJAVGyOdJDIrq8sP3rx6RQ/o.jpg",
+          "caption": "Chicken soup"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "We're so glad you enjoyed our Chicken Parmesan, Bolognese, White Truffle Garlic Bread, and Chicken Pesto, Nellie. We are so sorry you were not satisfied with your soup, and we will follow up on this with our team. Next time, please let our managers know if anything can be improved so we can do our best to make it right. Thank you for your review, and we hope to see you again soon.",
+          "date": "2022-08-08T16:12:10Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Charece S.",
+        "user_id": "rMJbnIZr0jGcjSHHZ-yfgQ",
+        "link": "https://www.yelp.com/user_details?userid=rMJbnIZr0jGcjSHHZ-yfgQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/i5csb52vpAkIkG4l38dX0g/180s.jpg",
+        "address": "Smyrna, GA",
+        "friends": 114,
+        "photos": 306,
+        "reviews": 167
+      },
+      "comment": {
+        "text": "A nice warm and friendly place to hang out with friends. Atmosphere and staff was awesome. The food was amazing! I would definitely come again.",
+        "language": "en"
+      },
+      "date": "2022-10-08T00:38:47Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KRo0nRf-7qvXaZPm9MeqLg/o.jpg",
+          "caption": "White Truffle Garlic Bread"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xToalsLdIjeW4Xnf9U6hRA/o.jpg",
+          "caption": "Bolognese (House Specialty)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VKpiCuSViBjFpR6o7_0-Og/o.jpg",
+          "caption": "Tucano Punch"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Charece, thank you for your review. We're so happy you enjoyed our amazing food, service, and atmosphere. We look forward to seeing you again soon. ",
+          "date": "2022-10-08T20:51:30Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jinal S.",
+        "user_id": "FYiJn9X9lr0wFpj9r_NTpw",
+        "link": "https://www.yelp.com/user_details?userid=FYiJn9X9lr0wFpj9r_NTpw",
+        "address": "Atlanta, GA",
+        "friends": 20,
+        "photos": 12,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "I think my new favorite Italian Restaurant! Their White Truffle Garlic Bread is delish. Their Spicy Rigatoni Vodka is so good and actually has a bit of spice to it! Recommend the Pomegranate Mule too. A little pricey but great for occasions. Service was amazing. Spacious too. Def going here again!!",
+        "language": "en"
+      },
+      "date": "2023-05-09T00:17:19Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/07KuGFAxCqn4PMMH0rIFnw/o.jpg",
+          "caption": "White Truffle Garlic Bread"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks for your review, Jinal. We're glad you enjoyed our white truffle garlic bread, Spicy Rigatoni Vodka, cocktails, and amazing service while dining with us. We hope to see you again soon.",
+          "date": "2023-05-10T20:07:12Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Nancy P.",
+        "user_id": "F9NiXMtsS9MfBIEV9ysNnA",
+        "link": "https://www.yelp.com/user_details?userid=F9NiXMtsS9MfBIEV9ysNnA",
+        "address": "Austin, TX",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Waiter was not attentive.  Food was not very good.  And did not receive any type of bread with pasta dish.  Music was more of what you would hear in a club not fine dining. Did speak to manager and he stated bread is never offered but did offer to bring some even though we had finished.  Barely ate any of our pasta was bland and barely warm when served.  Waiter never came back to offer drink refills.  Overall disappointing.",
+        "language": "en"
+      },
+      "date": "2023-10-24T21:38:07Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Nancy, we are so sorry about the food and service you received from us. We would have felt the same way you did about this visit. Our service should be much better. We will address this with our staff. Thank you for your review, and we hope you can give us another chance.",
+          "date": "2023-11-02T22:53:49Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Nadia A.",
+        "user_id": "wAiyBpOJKjYFVDeZB663lw",
+        "link": "https://www.yelp.com/user_details?userid=wAiyBpOJKjYFVDeZB663lw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VUQyciGYOMDPXaIeq90Oog/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 80,
+        "photos": 578,
+        "reviews": 185,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The only bad thing about North Italia is that it's located at Lenox Mall. The food...DELICIOUS! We got the Crispy Calamari and White Truffle Garlic Bread to start. The calamari batter is clearly homemade and it's very flavorful. We got some marinara to dip, but I actually thought it was better unsauced. The garlic bread is unnecessarily delicious. We almost got one to go because it was THAT good! It is an absolute must try! Espresso Martini was very smooth - not the best I've ever had, but very good. Then came the entrees, and the deliciousness continued. My husband is a french toast expert and he loved the Donut French Toast. He didn't even need syrup which is a big deal for him. It was crispy on the outside and nice and warm on the inside. Whip cream and berry topping made it sweet and amazing. The Breakfast Carbonara Pasta was also very good. Pancetta added some spice and the egg was poached well. The pasta is made fresh and it made a big difference. Even as a newly opened restaurant, North Italia has some really unique and amazing dishes. The service was awesome and the restaurant vibe was nice. We had a late brunch, so we will definitely be back to try dinner.",
+        "language": "en"
+      },
+      "date": "2022-07-18T03:12:08Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DxmRh0cvg0B-NbSNfpRMfQ/o.jpg",
+          "caption": "Espresso Martini"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6ncSUpaVhAvuZHvy3-n3Mg/o.jpg",
+          "caption": "White Truffle Garlic Bread"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KCCDb2G-mOpBiiwSnMPBLw/o.jpg",
+          "caption": "Breakfast Carbonara Pasta*"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/h4lXnNe6ENDf6HJQlpjfXw/o.jpg",
+          "caption": "Glazed Italian Donut French Toast"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IAp_9G6uxuIKDZ4Wtoemiw/o.jpg",
+          "caption": "Crispy Calamari"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks for your review, Nadia. We're glad you and your husband enjoyed our delicious Breakfast Carbonara Pasta, Crispy Calamari, White Truffle Garlic Bread, Bombolini, and service. We hope to see you both again soon.",
+          "date": "2022-07-19T14:55:46Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kim D.",
+        "user_id": "hnab8V6rnvfvuE3cLI2oSQ",
+        "link": "https://www.yelp.com/user_details?userid=hnab8V6rnvfvuE3cLI2oSQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1eIgGLtdsbtCXyiM_PHDpw/180s.jpg",
+        "address": "Dunwoody, GA",
+        "friends": 3,
+        "photos": 16,
+        "reviews": 57
+      },
+      "comment": {
+        "text": "Great new spot in Dunwoody! Atmosphere is casual, popular music is playing, and there are a lot of windows so you get a nice bright fun spot. The patio is huge and the bar is cool with Tvs. Drinks were great, our server was attentive and wonderful. She remembered my food allergy and ensured I had good options. Great spot!!",
+        "language": "en"
+      },
+      "date": "2022-09-18T15:38:11Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/A0iX4BHcWgBXANz7cpLudg/o.jpg",
+          "caption": "Spicy sausage pizza"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IHLJhCc7ii3HTg9h4TSqww/o.jpg",
+          "caption": "Diver Scallops* with marinara instead of parmesan risotto"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks for your review, Kim. We're glad you enjoyed our atmosphere and attentive service. We hope to see you again soon.",
+          "date": "2022-09-20T15:31:04Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Zaviyah H.",
+        "user_id": "x-eZkzFYZQV-H9_bayE8uQ",
+        "link": "https://www.yelp.com/user_details?userid=x-eZkzFYZQV-H9_bayE8uQ",
+        "address": "Winston, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Ambiance was very nice , it was not too loud or packed on a weekday night . Service was great & food was as well. Food came out relatively quick which is a plus !!  Parking was no problem as it is connected to Lenox Mall.Will definitely visit again & recommend to others.",
+        "language": "en"
+      },
+      "date": "2023-10-20T18:35:28Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Zaviyah, thank you for your review. We're so happy you enjoyed our good food, great service, and beautiful atmosphere. We hope to see you again soon.",
+          "date": "2023-11-02T22:04:22Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Karen J.",
+        "user_id": "BzmW0d1mnrDUXa3fDloXhQ",
+        "link": "https://www.yelp.com/user_details?userid=BzmW0d1mnrDUXa3fDloXhQ",
+        "address": "San Francisco, CA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Had the pleasure of dining at North Italia, Buckhead yesterday.  We found the food to be amazing.   We had the grilled bread, pizza and Caesar salad.  Very tasty.  We also enjoyed dessert and selected the Tiramisu.  It was truly the best we had ever eaten.  We even ordered two to go!  But what we enjoyed most was the amazing service we received from Maria S.  She was approachable, kind, warm and friendly.  She made several suggestions from the menu, all of which we enjoyed.  She checked on us frequently and never hesitated to accommodated the requests we had.  She was truly committed to enhancing the customer experience.  \n\nBecky was another server that stopped by our table to check on us and she was just as kind and helpful.  Becky shared her favorite menu items with us as well.  Becky had a great sense of humor. \n\nI would highly recommend this establishment to anyone who loves great food and great service!",
+        "language": "en"
+      },
+      "date": "2023-05-21T17:59:21Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Karen, thank you for your review. We're happy you enjoyed our White Truffle Garlic Bread, Caesar salad, helpful service, and Tiramisu. We hope to see you again soon.",
+          "date": "2023-05-22T18:46:00Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Will D.",
+        "user_id": "A-vrxzPNerLmx2rppVm-vQ",
+        "link": "https://www.yelp.com/user_details?userid=A-vrxzPNerLmx2rppVm-vQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ybDv_WiSoatksJ86X0QD5A/180s.jpg",
+        "address": "Nashville, TN",
+        "friends": 150,
+        "photos": 95,
+        "reviews": 42,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I tell you what.. you better go and get a reservation to North Italia because soon they will be hard to get! We decided to get reservations to their grand opening and I'm glad we did. This place was superb. I'm talking the location, aesthetic, service, drinks, and don't get me started on the food! Okay it's a review so let me get started on the food.. I'm not being dramatic when I say everything we ordered was delicious. I know it's hard to believe because usually someone orders something that's so so, but not here, not at North Italia. You have to get the white truffle garlic bread (nonnegotiable). It came with with plenty of bread so 3-4 people could eat off of it. Now if you want pizza the Casio E Pepe did not disappoint. If you're looking for pasta and trying to decide between the Strozzapreti and the glazed short rib Cavatelli, get the Strozzapreti (you can thank me by finding this review useful). Of course if you have room for dessert and like warm + moist cake, the Italian butter cake was fantastic. If you want a little pep in your step before a night out, the Affogato will pick you up with a nice shot of espresso. Speaking of a night out, if you don't like to taste alcohol but love to have a good time get the Julietta. Very tasty (dangerous) and you'd think you were drinking a virgin cocktail. Overall 10 out of 10. Very very well done.",
+        "language": "en"
+      },
+      "date": "2022-06-23T00:05:09Z",
+      "rating": 5,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hdPLgFqZes484ufHbUEvIQ/o.jpg",
+          "caption": "Affogato Italian Butter Cake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/egdRSCxLRN6M5J_yzDFkPg/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QjzfPkbF3pjY372n1_8U7A/o.jpg",
+          "caption": "Cacio e Pepe"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FTxawO2osN8-vneST1y34w/o.jpg",
+          "caption": "Strozzapreti"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SnpPSwXEFwHE6mOc9_Ayvw/o.jpg",
+          "caption": "White Truffle Garlic Bread"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/N7_G3MNhDbi1BouYv451Ow/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CWXw7UWaeDQpxRAtJLevYA/o.jpg",
+          "caption": "Julietta Ginger Blossom Margarita"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qEbsrpG1vjWkHH9tt_Ifbw/o.jpg",
+          "caption": "Dessert Menu"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 1,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thank you so much for this review, Will. We're glad you enjoyed our atmosphere, food, cocktails, and service. We look forward to your next visit.",
+          "date": "2022-06-23T16:33:45Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ashley G.",
+        "user_id": "92rx1UTZ6D0nxt3FVgoYlQ",
+        "link": "https://www.yelp.com/user_details?userid=92rx1UTZ6D0nxt3FVgoYlQ",
+        "address": "Fairlie-Poplar, Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "The food is subpar the service is horrific. My best friend and I came in one Saturday and ordered the Breakfast sandwich and the breakfast carbonara. Everyone in the dining area came after us and received their service before us. When I received my food, it was COLD! I came back 2 weeks later for a networking event. I ordered 2 mules and received them an hour later. My best friend arrived after me and received her drink before me. The manager was receptive to the feedback, but nothing was done to rectify the situation. \n\nI also told my server to place the two drinks on my tab when I ordered. She preceded to tell me that she placed them on my husband's tab. I was with a client, not my husband at a networking event. \n\nIn regards to the food, I've ordered the spaghetti and meatballs. The spaghetti is this weird tubular pasta, the meatballs were decent. The breakfast carbonara is bland and tasteless, the breakfast sandwich looked good, but it was so cold when we received it. The potatoes also looked good, but again they were cold. \n\nIf you want subpar service and bland chain- Italian, then come here, but honestly, you'll probably get better pasta from Olive Garden or Carrabbas..... and this is coming from someone who has made pasta and Italy and dined at serval authentic Italian restaurants.",
+        "language": "en"
+      },
+      "date": "2023-05-16T01:36:24Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hello Ashley, we are so sorry about the food and service you received. We would like to speak with you a bit more. Please contact us by going to this webpage - http://www.northitalia.com/contact-reviews. Thank you.",
+          "date": "2023-05-31T21:25:13Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Betty R.",
+        "user_id": "tR6lIXCUDiz9PRhnBiQFeA",
+        "link": "https://www.yelp.com/user_details?userid=tR6lIXCUDiz9PRhnBiQFeA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uAvohJvtB1lpvak1CU7T0Q/180s.jpg",
+        "address": "Mason, OH",
+        "friends": 0,
+        "photos": 40,
+        "reviews": 57
+      },
+      "comment": {
+        "text": "Sunday brunch is delicious! The Smoked Salmon Avocado Toast was superb. Hubby has the Short Rib Hash and he enjoyed it very much. Fruit was juicy and in season. Atmosphere and service A+",
+        "language": "en"
+      },
+      "date": "2022-07-24T17:31:46Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uaL7QkvEPntpICVGs4wOlQ/o.jpg",
+          "caption": "Smoked salmon and avocado toast"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/odWbqYHmG4uFv9Qz7JZXcw/o.jpg",
+          "caption": "Short Rib Hash and fruit"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks for your review, Betty. We're glad you and your husband enjoyed our delicious Short Rib Hash, atmosphere, and service. We hope to see you again soon.",
+          "date": "2022-07-26T13:48:39Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "April A.",
+        "user_id": "nasG-tcOnhVeaSGTxMcvuQ",
+        "link": "https://www.yelp.com/user_details?userid=nasG-tcOnhVeaSGTxMcvuQ",
+        "address": "San Francisco, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Nae was absolutely amazing as a server.\nVery knowledgeable of the foods and ratings\nThe atmosphere is amazing!!!\nSo serene and relaxing!!!!\nWill definitely be back and tell all my friends about this place!!!!",
+        "language": "en"
+      },
+      "date": "2023-06-10T20:30:57Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi April, thank you for your review. We're so happy you enjoyed our amazing service and atmosphere. We hope to see you back soon.",
+          "date": "2023-06-12T20:11:11Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "John M.",
+        "user_id": "sARAVyryPRlqZKWL3YRwug",
+        "link": "https://www.yelp.com/user_details?userid=sARAVyryPRlqZKWL3YRwug",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "I've just try to couple of appetizers so far but they were very good. I'll definitely go back soon for lunch or dinner.",
+        "language": "en"
+      },
+      "date": "2023-09-19T19:08:48Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "We're so glad you enjoyed our appetizers, John. Thank you for the kind review, and we hope to see you again soon.",
+          "date": "2023-09-20T16:58:40Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Crystal W.",
+        "user_id": "LK8aZ1fusrcbW7B0bVLVmQ",
+        "link": "https://www.yelp.com/user_details?userid=LK8aZ1fusrcbW7B0bVLVmQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OugjH_c2QmaHb9k6nF9P3Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 11,
+        "photos": 0,
+        "reviews": 22
+      },
+      "comment": {
+        "text": "The food and drinks were great! We went for brunch on a Saturday and the service was good. We enjoyed it!",
+        "language": "en"
+      },
+      "date": "2023-03-10T16:37:56Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks for your review, Crystal. We're glad you enjoyed our food, drinks, and service while having brunch with us. We hope to see you again soon.",
+          "date": "2023-03-12T03:00:37Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Julia H.",
+        "user_id": "tcoRekk5TnDe5h-d01YtzQ",
+        "link": "https://www.yelp.com/user_details?userid=tcoRekk5TnDe5h-d01YtzQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OethPFkWXCfbvsIk5wd9ag/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 14,
+        "photos": 452,
+        "reviews": 108
+      },
+      "comment": {
+        "text": "My coworkers and I that work in the mall were pretty excited about this new restaurant and couldn't wait for it to open! Today we went for lunch and had the best service from Kheila! We were seated by the kitchen which I was pretty excited about for I like to watch it in action. All of our dishes were amazing and we are already talking about our next visit!",
+        "language": "en"
+      },
+      "date": "2022-06-25T23:58:31Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rESV4cNrx-C0DqM-RqnAKQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Br5vGTyLZ0f64TRU4KhvDw/o.jpg",
+          "caption": "Stozzapreti"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vm9qZ-QzKN6lpcy7hSKXqg/o.jpg",
+          "caption": "Seasonal Salad added blackened salmon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zHRYJRMK8sHQm7oSkYjvaQ/o.jpg",
+          "caption": "Arancini $12.50"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_-1CwBmeuOYv35A0gTHUpg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cDv2YyuNippdOH_1dN6oPA/o.jpg",
+          "caption": "Funghi Pizza"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thank you so much for this review, Julia. We're glad you enjoyed our amazing food and service. We look forward to your next visit.",
+          "date": "2022-06-27T19:24:34Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Melody L.",
+        "user_id": "EUnLAQYCDzt1CPs43xK07w",
+        "link": "https://www.yelp.com/user_details?userid=EUnLAQYCDzt1CPs43xK07w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5XKilVk66MzGaPuh4SsT7w/180s.jpg",
+        "address": "St. Marys, GA",
+        "friends": 138,
+        "photos": 54,
+        "reviews": 48
+      },
+      "comment": {
+        "text": "Family decided we wanted some lunch and we are not complaining at all about this spot!  Our waitress Erin was kind and informative!  We order the Truffle Bread for an app and OMG...SO GOOD!  The pizza...YUM!  The spinach and Kale side...my body literally said thank you!  Overall...great time, laid back atmosphere with cool drinks!",
+        "language": "en"
+      },
+      "date": "2022-09-05T18:12:41Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wJv3uOQ4huPL9cIJgmdIUg/o.jpg",
+          "caption": "Time for lunch!  The Daily Chef Pizza and the Spinach/Kale side!  I smashed the truffle bread appetizer!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks for your review, Melody. We're glad you enjoyed our Tuscan Kale Salad, pizza, White Truffle Garlic Bread, atmosphere, and service. We hope to see you again soon.",
+          "date": "2022-09-06T17:50:03Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Mercury L.",
+        "user_id": "_SrMWD_Nq_BQyJIDVRHQaw",
+        "link": "https://www.yelp.com/user_details?userid=_SrMWD_Nq_BQyJIDVRHQaw",
+        "address": "Northwest Washington, Washington, DC",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "I used to go to the North Italia in DC. The one in Buckhead is as good as always!!! \nThey have stable quality of food. Everything is fresh and tastes awesome. Nice vibe for dating.",
+        "language": "en"
+      },
+      "date": "2022-09-12T20:03:53Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hMSsop_325OztHcSZEhfmA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HKDXfnaFBXS7ryx-O9VEuA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thank you so much for this review, Mercury. We're glad you enjoy dining with us, and we look forward to your next visit.",
+          "date": "2022-09-14T15:22:36Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Warren G.",
+        "user_id": "40YS31DbtUVYT3Y3-oBzbQ",
+        "link": "https://www.yelp.com/user_details?userid=40YS31DbtUVYT3Y3-oBzbQ",
+        "address": "Business Parkway/Academy Acres, Albuquerque, NM",
+        "friends": 29,
+        "photos": 1,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "This has to be one of the worst food experiences I've ever experience in my 31 years of living . They are so slow . Everything about this place sucks the food was okay but it took about 45 mins to come out. I really wanted to come to this place so bad and when I did vibe was off I really wanted to like this place but coming here made me never want to come back here again !",
+        "language": "en"
+      },
+      "date": "2023-04-23T23:39:13Z",
+      "rating": 1,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1OHrDSGwDqwKPmoE0FLq-Q/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "We are glad you enjoyed our food and sorry you were not satisfied with the service, Warren. Next time if there is anything about your experience that can be improved, please let our managers know so we can do our best to make it right. Thank you for your patience with the wait, and we hope you give us another try.",
+          "date": "2023-04-24T19:55:44Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Lily W.",
+        "user_id": "xOx2ztcqb9KdRTyP0Tdl_w",
+        "link": "https://www.yelp.com/user_details?userid=xOx2ztcqb9KdRTyP0Tdl_w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8H91rV6AfRnVsv1eTkt51A/180s.jpg",
+        "address": "Queens, NY",
+        "friends": 232,
+        "photos": 7,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "The ambiance and service is really good and cute but the food is not. I got the shrimp scampi pasta and it was incredibly bland. Literally had no taste at all. The pasta was also over butter-y. The shrimp was fresh and good but again did not have much taste. I do not recommend this pasta. I did also have the calamari and it was okay.",
+        "language": "en"
+      },
+      "date": "2023-04-18T14:57:11Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Lily, we are so sorry you were not satisfied with your meal and hope you can give us another chance. Next time, if anything about your experience can be improved, please let our managers know so we can make it right while you are dining with us. Thank you for your feedback.",
+          "date": "2023-04-19T18:30:34Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Madalyn J.",
+        "user_id": "RA3AvVkeRo3V20bVyiVYGg",
+        "link": "https://www.yelp.com/user_details?userid=RA3AvVkeRo3V20bVyiVYGg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PtpovMDAVovJ_Xru32X7bw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 302,
+        "photos": 846,
+        "reviews": 205,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Attended the soft opening this weekend for brunch before they open on June 22nd. It is located in Lenox next to True Food Kitchen. Parking was not super easy, so we did valet (which was cash only). We sat outside on the patio which was very pleasant as it was shaded and there were fans keeping us cool. Our waitress Cal was very nice and knowledgeable on the whole menu. She made some great recommendations so we got the Breakfast Mule and the Caffe Old Fashioned- both were delicious. She also recommended we get the White Truffle Garlic Bread which was absolutely delicious!! Will never come here and not get that. For entrees we got the Pollo Fritto (very chicken fried steak-esque and was so good with the crispy hash potatoes! We also got the Breakfast Rosa Pizza- which was so so good, but also surprisingly spicy!! For dessert we had the tiramisu and it was perfection with the dark chocolate beads on top! We cannot wait to come here for dinner and happy hour!",
+        "language": "en"
+      },
+      "date": "2022-06-19T23:28:25Z",
+      "rating": 5,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wwbeRtcJLJh35aNa0yGJkQ/o.jpg",
+          "caption": "Exterior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yCVstssJZH0shmvGjWRf1Q/o.jpg",
+          "caption": "Breakfast Mule & Caffè Old Fashioned"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mo225_7VU1GrZ7p_01V0-A/o.jpg",
+          "caption": "Exterior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LaZx8S9O-mZjQBhKpmKWAw/o.jpg",
+          "caption": "Breakfast Rosa*"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/i-Fd17Hjlp6pHr_OeuzWeg/o.jpg",
+          "caption": "Tiramisu*"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xhtBqT1RxJejGBV9k7VlRA/o.jpg",
+          "caption": "Bar inside"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7cjnVYi-qPwniXvDceE12Q/o.jpg",
+          "caption": "White Truffle Garlic Bread"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CgjqpYqAyF7q-p3E5N_Qaw/o.jpg",
+          "caption": "Pollo Fritto*"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks for your review, Madalyn. We're glad you enjoyed our delicious White Truffle Garlic Bread, Breakfast Mule, Breakfast Rosa Pizza, and friendly service. We hope to see you again soon.",
+          "date": "2022-06-21T13:52:45Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Octavia G.",
+        "user_id": "xLHTSbQN7xbtgM9PyORH9w",
+        "link": "https://www.yelp.com/user_details?userid=xLHTSbQN7xbtgM9PyORH9w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pqseW6lN4AAOrrxZuA2oYw/180s.jpg",
+        "address": "Central LA, Los Angeles, CA",
+        "friends": 0,
+        "photos": 9,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Just took my boyfriend here for our anniversary dinner and Im considering going back tomorrow haha. This restaurant has definitely made it on my top 5 favorite restaurants. I ordered the white truffle garlic butter appetizer, which has definitely got to be one of the best appetizers I've ever tasted. The bolognese was a solid 8.6/10, I absolutely loved it and I would love to get it again. Second best bolognese I've ever had, the best being my friend's grandma's, but that's kind of hard to beat haha. My boyfriend ordered the salmon entree, which was also delicious, but we both agreed that the base (green soba with pine nuts) was a touch too salty. It was still amazing and I would personally order it myself haha. I'd rate it a 7.98/10. The dessert was the caramel dessert, which we weren't really a fan of, but neither of us like caramel so I'm not sure why he decided to order it haha. \nOur server, Alex, was wonderful. He was very kind and professional but still very much himself. I also got a chance to speak to CJ as well, who was so friendly. Everyone seemed super nice and welcoming. \nOverall, I could rave on and on about the food if I could! Not sure if the food was that perfect because the restaurant just opened a couple days ago but I really hope y'all continue to keep up the good work. I will DEFINITELY be a returning customer.\nFood: 9.2/10\nService: 10/10\nAmbience: 10/10, warm, dim lighting. Outdoor and indoor option. \nLocation: 7/10, easy to find, lots of foot traffic but it is at Lenox so y'all know to be careful lmaoooo. Easy, free parking.",
+        "language": "en"
+      },
+      "date": "2022-06-24T04:56:27Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mO98VmLRbckGO41DkiSxZg/o.jpg",
+          "caption": "Bolognese (House Specialty)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sjRro7gIWWtyG3q2pAPGiw/o.jpg",
+          "caption": "Roasted Salmon*"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HWTc2qwEi_Ypd0cnlp18Lw/o.jpg",
+          "caption": "White Truffle Garlic Bread"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks for your review, Octavia. We're glad you and your party enjoyed our delicious Bolognese, Salted Caramel Bundino, White Truffle Garlic Bread, Roasted Salmon, and wonderful service. We hope to see you all again soon.",
+          "date": "2022-06-24T14:06:52Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Merideth L.",
+        "user_id": "1Ba8h8mj42NFBomq9T7CFw",
+        "link": "https://www.yelp.com/user_details?userid=1Ba8h8mj42NFBomq9T7CFw",
+        "address": "Thomaston, GA",
+        "friends": 1,
+        "photos": 6,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "The food was fresh and delicious. The pasta could have been cooked longer, but overall was very pleased with my experience. The service was excellent, and we were checked on and cared for well. The environment was friendly and a great place to meet up with friends.",
+        "language": "en"
+      },
+      "date": "2023-04-07T04:19:22Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GBzZmkaXz-kKZLWKVF3kFw/o.jpg",
+          "caption": "Spicy Rigatoni Vodka"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hvl6KhfKCCVQgpuvHZbFwQ/o.jpg",
+          "caption": "Butternut Squash Anolini"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2Z4AczPe6OMOvfMFn32iRg/o.jpg",
+          "caption": "Hazelnut Torta"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VAmmGL_Q3u1kdTIuANa0xQ/o.jpg",
+          "caption": "White Truffle Garlic Bread"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XEf0aNsy5H_RXs-SkZLaWA/o.jpg",
+          "caption": "Sicilian Margarita"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks for your review, Merideth. We're glad you enjoyed our delicious food, friendly atmosphere, and excellent service. We hope to see you again soon.",
+          "date": "2023-04-07T13:28:58Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Eileen H.",
+        "user_id": "cUGWPU3UZVdxQpaK4Z-04Q",
+        "link": "https://www.yelp.com/user_details?userid=cUGWPU3UZVdxQpaK4Z-04Q",
+        "address": "Dunwoody, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "A party of four Saturday night at 7.  Welcomed promptly and was seated.  The renovation of the property was very nice.  The restaurant was not full.  Waited quite a while for our waitress to show up.  Ordered drinks.  They took forever to be delivered.  When they were, they were not correct.  \n\nWe ordered appetizers, entrees & dessert & coffee.\n\nThe food finally came.  It was not bad, but we were in the restaurant for 2 1/4 hours.  I couldn't decide if they were overwhelmed with take out orders or just didn't know how to run a kitchen.\n\nOur waitress rarely came to the table.  I could see her standing in the glassed in kitchen talking with two of her friends.   \n\nWe felt like this whole experience was a training & management issue.  Somebody needs to do some retraining for the bar, staff & kitchen procedures.  \n\nWe have better Italian restaurants in Dunwoody.  Won't be back.  Spend your money elsewhere.",
+        "language": "en"
+      },
+      "date": "2023-04-03T14:53:51Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Eileen, we are so sorry about the service you received and the wait you experienced. We would have felt the same way you did about this visit. We will address this with our staff and hope you can give us another chance. Thank you for your feedback.",
+          "date": "2023-04-05T19:01:24Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Brandon M.",
+        "user_id": "8QTBeXVZmB2PHeIyKfxG2g",
+        "link": "https://www.yelp.com/user_details?userid=8QTBeXVZmB2PHeIyKfxG2g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/S2ykZB9YaBoiidzDx_XsvQ/180s.jpg",
+        "address": "Honolulu, HI",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "Unfortunately had a very poor experience here. The side plates they gave us were dirty, and when we asked for new ones they gave us another one that was dirty. Took about 30 minutes just to get a drink. Waited an hour and a half to get our food. When we just asked to get it boxed to go they told us that something happened and the order never went through. We were the only table seated when we made our order so not sure how our order didn't go through when there were no other tables around us. Just a really bad experience and not worth coming back.",
+        "language": "en"
+      },
+      "date": "2023-03-31T23:05:32Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Brandon, we are terribly sorry for the wait you experienced. We know you are frustrated and we would like to speak with you more. Please contact us by going to our webpage - http://www.northitalia.com/contact-reviews. Thank you.",
+          "date": "2023-04-01T19:13:45Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "PC T.",
+        "user_id": "ryGO84_DpU3vXg6GwYsRmg",
+        "link": "https://www.yelp.com/user_details?userid=ryGO84_DpU3vXg6GwYsRmg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CuQw8KsRG9OXB5AKWRHQsg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "The food was perfection. The veggie eggs with asparagus and peas were blanched magnificently. Everything from scratch and it tastes like it!\nThe staff was so sweet!! And the coffee was great.",
+        "language": "en"
+      },
+      "date": "2022-10-01T14:40:13Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks for your review. We're glad you enjoyed our food, coffee, and service. We hope to see you again soon.",
+          "date": "2022-10-02T16:26:26Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Chantel W.",
+        "user_id": "9AmrpvIkmNdmeu51F7-n2w",
+        "link": "https://www.yelp.com/user_details?userid=9AmrpvIkmNdmeu51F7-n2w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/n04pwM4m4-H_NXaNKYrZCg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 97,
+        "photos": 84,
+        "reviews": 86
+      },
+      "comment": {
+        "text": "Was excited to see this place' open in Atlanta.  I've been to the Houston location a few times.  Since the Dunwoody location isn't open yet, I ordered DoorDash from the Lenox location.  Even with delivery, everything held up well and was very good.  My favorite is the Glazed Short Rib Cavatelli.  I paired it with the Tuscan Kale salad.  Both really good.",
+        "language": "en"
+      },
+      "date": "2022-07-16T15:07:50Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/K-Ly8PUjuJauLysAGFrJVg/o.jpg",
+          "caption": "Glazed Short Rib Cavatelli"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xcrkg4GSLQH68t7aGR6w5A/o.jpg",
+          "caption": "Tuscan Kale"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Chantel, thank you for your review. We're so happy you enjoyed our Tuscan Kale Salad and Glazed Short Rib Cavatelli. We hope to see you again soon.",
+          "date": "2022-07-18T15:22:18Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Shiv K.",
+        "user_id": "iqDbG0m5p18b2aV1UxQX-A",
+        "link": "https://www.yelp.com/user_details?userid=iqDbG0m5p18b2aV1UxQX-A",
+        "address": "Sandy Springs, GA",
+        "friends": 0,
+        "photos": 6,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "I got serenity as my waiter as her name she was soo welcoming and kind!she suggested me spicy rogotoni and it was amazing. I also had a cup cappuccino which was great too! Great ambience good for dates!",
+        "language": "en"
+      },
+      "date": "2023-03-29T00:12:15Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/f4oMgWgGRI4IyOxizCirWA/o.jpg",
+          "caption": "Spicy Rigatoni Vodka"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3U88QgDVgv1KNq_JdpB3cQ/o.jpg",
+          "caption": "Cappuccino"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thank you for your review. We're so happy you enjoyed our Spicy Rigatoni Vodka, ambiance, cappuccino, and kind service. We hope to see you again soon.",
+          "date": "2023-03-29T19:54:25Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Erick C.",
+        "user_id": "tzETft8MtynWsLg_zWUubw",
+        "link": "https://www.yelp.com/user_details?userid=tzETft8MtynWsLg_zWUubw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Pww5WhrdXzaFif3RDnG46g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 340,
+        "photos": 123,
+        "reviews": 61
+      },
+      "comment": {
+        "text": "Go see my guy Vari at the bar! You won't be disappointed. Great pasta and salad......but the meatballs were a little cold",
+        "language": "en"
+      },
+      "date": "2022-07-27T04:43:25Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xf4FYzuwJUOn4NOBZoH5FQ/o.jpg",
+          "caption": "Espresso Martini"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "We're so glad you enjoyed our pasta, salad, and bar service, Chuck. We are so sorry you had this experience with your Italian Meatballs, and we will follow up on this with our team. Next time, please let our managers know if anything can be improved so we can do our best to make it right. Thank you for your review, and we hope to see you again soon.",
+          "date": "2022-07-28T15:34:33Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ray F.",
+        "user_id": "69eVDLU656-pxE8VK0juqw",
+        "link": "https://www.yelp.com/user_details?userid=69eVDLU656-pxE8VK0juqw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4WjBg-bwzPi25TpinyiUGw/180s.jpg",
+        "address": "San Antonio, TX",
+        "friends": 81,
+        "photos": 71,
+        "reviews": 131
+      },
+      "comment": {
+        "text": "Friendly staff & great service.  We ordered the truffle bread, the Pig Pizza, the meatball pizza, Bolonese & Spaghetti.  All were delicious.  Highly recommend.  \nWe really enjoyed our dinner.",
+        "language": "en"
+      },
+      "date": "2022-07-10T16:05:24Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thank you so much for this review, Ray. We're glad you enjoyed our Italian Meatballs, Pig Pizza, White Truffle Garlic Bread, and Bolognese. We look forward to your next visit.",
+          "date": "2022-07-11T16:08:44Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Frances C.",
+        "user_id": "5w7xK4gsAXL0BHDAcJKBzw",
+        "link": "https://www.yelp.com/user_details?userid=5w7xK4gsAXL0BHDAcJKBzw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pEHIB3rte0zq1k9hHuV0NA/180s.jpg",
+        "address": "Lawrence, MA",
+        "friends": 67,
+        "photos": 17,
+        "reviews": 19
+      },
+      "comment": {
+        "text": "Amazing food, ambience and staff! My boyfriend and I wanted Italian food, and North Italia exceeded our expectations. He had the spaghetti and meatballs, and I had the chicken pesto (chef's kiss).",
+        "language": "en"
+      },
+      "date": "2022-07-09T22:09:41Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4Hd39erJvZn8_AuFWsOAIQ/o.jpg",
+          "caption": "Aesthetics"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Hi Frances, thank you so much for your review. We're so happy you and your boyfriend enjoyed our Spaghetti & Meatballs, Chicken Pesto, and great service. We hope to see you again soon.",
+          "date": "2022-07-11T15:42:29Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Katie M.",
+        "user_id": "Idb7cppxDpoMzrwT6QMxIg",
+        "link": "https://www.yelp.com/user_details?userid=Idb7cppxDpoMzrwT6QMxIg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3dY3UwvHl1FzHtDry9fCpQ/180s.jpg",
+        "address": "San Francisco, CA",
+        "friends": 0,
+        "photos": 23,
+        "reviews": 24
+      },
+      "comment": {
+        "text": "5 stars for service but 3 stars for the food. The food was super bland and didn't have any seasoning on it. I tried my friends food and tasted very plain as well, like red sauce and meat. The BEST part were the appetizers. The bread was amazing and so were the meatball looking appetizer that didn't actually have meat in them. The calamari was average. I don't find this place anything too special with the pasta. I do plan on coming back to try the pizza as I heard that is good.",
+        "language": "en"
+      },
+      "date": "2022-09-11T18:15:41Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rDLGOUesVUq31AiSExDeUQ/o.jpg",
+          "caption": "Strozzapreti"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "We're so glad you enjoyed our service, Katie. We are so sorry you were not satisfied with your Crispy Calamari and pasta dishes. We will follow up on this with our team. Next time, please let our managers know if anything can be improved so we can do our best to make it right. Thank you for your review, and we hope to see you again soon.",
+          "date": "2022-09-12T15:48:20Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Melody S.",
+        "user_id": "blqOXM-D6UR8iZv1HlyWnQ",
+        "link": "https://www.yelp.com/user_details?userid=blqOXM-D6UR8iZv1HlyWnQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AHB08tAUUrj-M7e-bm1k2Q/180s.jpg",
+        "address": "Suwanee, GA",
+        "friends": 3,
+        "photos": 11,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "My husband and I came here for our anniversary dinner. This restaurant has only been open for a couple weeks and everything ran so smoothly. Our waitress was so helpful when it came to making our dinner selections. I mean everything on the menu looked delicious! We ordered calamari for an appetizer and I had the chicken pesto. The portion is the perfect amount and the pesto was creamy and delicious. We will definitely be going back",
+        "language": "en"
+      },
+      "date": "2022-07-17T15:30:40Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gKoXN3cwbM2s8AtuLfPVwQ/o.jpg",
+          "caption": "Chicken Pesto Pasta"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Guest Services",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/1QmNawJbxbBSroPaiV_s3g/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks for your review, Melody. We're glad you enjoyed our delicious Crispy Calamari, Chicken Pesto, generous portion sizes, and helpful service. We hope to see you again soon.",
+          "date": "2022-07-19T14:18:06Z"
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=QzkNSPWRd9jCyFFhwsXIMw&start=130"
+  }
+}

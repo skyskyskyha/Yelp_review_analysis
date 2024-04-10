@@ -1,0 +1,1560 @@
+{
+  "search_metadata": {
+    "id": "66018b242236e2c96eaa04ae",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c435cd11c3877dff/66018b242236e2c96eaa04ae.json",
+    "created_at": "2024-03-25 14:33:08 UTC",
+    "processed_at": "2024-03-25 14:33:08 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/yyakxBb3bLHcnIxHUKJNgw?",
+    "raw_html_file": "https://serpapi.com/searches/c435cd11c3877dff/66018b242236e2c96eaa04ae.html",
+    "prettify_html_file": "https://serpapi.com/searches/c435cd11c3877dff/66018b242236e2c96eaa04ae.prettify",
+    "total_time_taken": 1.81
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 80,
+    "num": "50",
+    "place_id": "yyakxBb3bLHcnIxHUKJNgw"
+  },
+  "search_information": {
+    "total_results": 1243,
+    "business": "The General Muir"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 1243
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Irving R.",
+        "user_id": "Kv30PRaOjmEqrV-loXOJ2g",
+        "link": "https://www.yelp.com/user_details?userid=Kv30PRaOjmEqrV-loXOJ2g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QXRcZaITeJoqvPS-ws8xdg/180s.jpg",
+        "address": "Suwanee, GA",
+        "friends": 135,
+        "photos": 25,
+        "reviews": 120
+      },
+      "comment": {
+        "text": "We've been trying to come here for years...maybe close to a decade at this point, I dunno how long but a while. We finally made it here last night. My wife made reservations since every time we drove by (pre-COVID) there seemed to be a line, and since we live out of the way we never made it to the food.\n\nI wanted to come here specifically for the Fried Chicken and it did not disappoint. The skin was crispy and the chicken meat was not dry. I ended up eating 2 of the 3 pieces since they seemed like sizable portions to me. We also got chopped liver and matzo ball soup. \n\nFor dessert, Brooklyn Blackout Cake, NY Cheescake, and the Cookie Plate. Each of them received great reviews from the family. And not be be outdone but we got a bag of bagels before we left for free. I think if they have leftover bread/bagels then they give them to the dining guests as a treat on the way out.\n\nOverall all the food was delicious. And we are glad we crossed this one of the list. We will try to get back here for sure.",
+        "language": "en"
+      },
+      "date": "2021-10-09T19:55:42Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GfsIxqetbKdb6pFaagd1Mg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kelsey C.",
+        "user_id": "bxyF9ttgkrmMPBh0TUT-yg",
+        "link": "https://www.yelp.com/user_details?userid=bxyF9ttgkrmMPBh0TUT-yg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WTLrrNtaJ6un5EBZ1JJvZg/180s.jpg",
+        "address": "Birmingham, AL",
+        "friends": 47,
+        "photos": 531,
+        "reviews": 256,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Always a fantastic experience coming here. I love that the menu is not overwhelming and there is something for everyone. Our server was amazing and very knowledgeable of the menu. Must tries: Reuben, Matzo soup, and carrot cake. However, everything on the menu sounds delicious. The inside is beautifully decorated in such a simple way.",
+        "language": "en"
+      },
+      "date": "2021-09-05T19:15:15Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qOLMxEtfFXAjserCArhfcA/o.jpg",
+          "caption": "Roasted Turkey"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/h9-1Ckpx1joxLMS_zU7OGw/o.jpg",
+          "caption": "Pastrami"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UTcRl4UcURlOhxwraeXICQ/o.jpg",
+          "caption": "Roast Beef Sandwich"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_xNGQraE8h134TAlC8M75Q/o.jpg",
+          "caption": "Reuben Sandwich"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Sarah M.",
+        "user_id": "-Uncnn5LRaD5OY2J37svnw",
+        "link": "https://www.yelp.com/user_details?userid=-Uncnn5LRaD5OY2J37svnw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DErx-lBBa8ZBYBKBGRpjLA/180s.jpg",
+        "address": "Chicago, IL",
+        "friends": 2,
+        "photos": 2,
+        "reviews": 129
+      },
+      "comment": {
+        "text": "Per our trip and friends previous - they always struggle with coffee drinks that aren't just black. Food is good, but I've had better Jewish Diner food. Staff was wonderful and space was cute.",
+        "language": "en"
+      },
+      "date": "2023-03-02T21:30:23Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Teela J.",
+        "user_id": "Ohyu_UKm_cd2-aFJwYlAuA",
+        "link": "https://www.yelp.com/user_details?userid=Ohyu_UKm_cd2-aFJwYlAuA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/eQMpWbzkxBTKo0B7rS4oGA/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 3,
+        "photos": 23,
+        "reviews": 52
+      },
+      "comment": {
+        "text": "Had lunch at The General Muir. The food, service and atmosphere were super. There were families, business people and a diverse crowd. They just do it right. I had the deviled eggs and pastrami sandwich which were superb. Great quality, fresh ingredients, friendly faces and the wait time was fairly light around lunch.",
+        "language": "en"
+      },
+      "date": "2023-01-06T02:02:00Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Dana C.",
+        "user_id": "TAIh5RmzyuUxid__0VG2aw",
+        "link": "https://www.yelp.com/user_details?userid=TAIh5RmzyuUxid__0VG2aw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sW1ubyUIfA7y-WBWXtKjGw/180s.jpg",
+        "address": "Macon, GA",
+        "friends": 47,
+        "photos": 13,
+        "reviews": 47
+      },
+      "comment": {
+        "text": "I am from Brooklyn and used to love this place.  Ordered the large pastrami with chopped liver.  Chopped liver was horrible.  No onions.  Not sweet at all from caramelized onion.  Liver was bitter.  Sandwich portion of pastrami was smaller than it should be.  Very disappointed.",
+        "language": "en"
+      },
+      "date": "2023-01-15T19:25:02Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shelli O.",
+        "user_id": "5JU-vZJKsWHZ3OjF3G2Xpw",
+        "link": "https://www.yelp.com/user_details?userid=5JU-vZJKsWHZ3OjF3G2Xpw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_awOg1z6f-ssGfzCko3oVA/180s.jpg",
+        "address": "Las Vegas, NV",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "One on the world's best vegetarian sandwiches, their beet Ruben, keeps me coming back.",
+        "language": "en"
+      },
+      "date": "2023-02-18T17:03:07Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "David Y.",
+        "user_id": "651dpQ_lmDlEPcztJNvIhw",
+        "link": "https://www.yelp.com/user_details?userid=651dpQ_lmDlEPcztJNvIhw",
+        "address": "Boston, MA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "One of my favorite places for breakfast. Had the pastrami & egg rye sandwich for the first time. Very good pastrami, however, surprised at amount of fat. Had to open the sandwich to remove half a plate of fat, would have gotten indigestion otherwise. Manager says that is the way it comes, 2 parts lean, 2 parts fatty pastrami. Great coffee cake.",
+        "language": "en"
+      },
+      "date": "2023-03-07T16:22:36Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nJF2f-WRzWDOnb3PFd6VHA/o.jpg",
+          "caption": "Pastrami & egg sandwich and fat from the pastrami."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "F J.",
+        "user_id": "KjyvJpy-EfMbpL06qTy_dA",
+        "link": "https://www.yelp.com/user_details?userid=KjyvJpy-EfMbpL06qTy_dA",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 0,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Updated review, 10 years later! We come here a lot for weekend brunch. If you arrive before 9:30 there isn't typically a wait. The food and coffee are all delicious.",
+        "language": "en"
+      },
+      "date": "2023-08-02T01:29:38Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Emily G.",
+        "user_id": "DABAWZSYYEzktBjQGsni-g",
+        "link": "https://www.yelp.com/user_details?userid=DABAWZSYYEzktBjQGsni-g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BVqggi8gfVHv4-eWQcJwpw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 9,
+        "photos": 172,
+        "reviews": 151,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Would rate closer to 3.5. I think their food was okay. I visited around 12 on a Sunday. I knew there would be a wait and they do not take reservations for breakfast so I tried to call and be put on the waitlist, was told I had to come in and put my name on the list in person. Came in and was told there would be a 30-40 minute wait for 2 people. Luckily there was a spot at the bar so opted to sit there. Got a mimosa to start which was good. The menu had traditional Jewish/NY Deli options. Ordered the Avenue D bagel on sesame \"gravlax, salmon roe, cucumber, chives, schmear\". It was good, but for $15 a tad overpriced in my opinion. I am not dying to return, but if someone else wants to go, sure.",
+        "language": "en"
+      },
+      "date": "2021-08-29T23:53:27Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VnSAOaX5tXbiZrzBSDGWlg/o.jpg",
+          "caption": "Avenue D"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AvcRz5rzsChUy4_ckaTsxA/o.jpg",
+          "caption": "Menu"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Andje Y.",
+        "user_id": "iBKny6Y3Z39ic4-FL7rYIA",
+        "link": "https://www.yelp.com/user_details?userid=iBKny6Y3Z39ic4-FL7rYIA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BwAxHEcp_uthy4RoF2J5EQ/180s.jpg",
+        "address": "Suwanee, GA",
+        "friends": 329,
+        "photos": 10,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "I had the chicken salad sandwich with fries and the dessert basket! You can't go wrong at this place! The food here is amazing!",
+        "language": "en"
+      },
+      "date": "2022-09-14T02:27:53Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VwJ3Bwbzx8vpg7vFS_snwQ/o.jpg",
+          "caption": "General muir"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Gui G.",
+        "user_id": "_rvxykxj_yGsB_Mt9ugAUw",
+        "link": "https://www.yelp.com/user_details?userid=_rvxykxj_yGsB_Mt9ugAUw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sdS2Q1OmJoq1NCpO7w9aOw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 107,
+        "photos": 270,
+        "reviews": 437
+      },
+      "comment": {
+        "text": "We have been visiting the General Muir for years and have always been impressed by the delicious food and laid-back vibes. The bakery is a great option for brunch and lunch, and they always use high-quality ingredients in their dishes. On our most recent visit, we tried the lox bagel and the pastrami sandwich which were both delicious and satisfying. The service was friendly and attentive, and the atmosphere was relaxed and inviting. We also appreciated the reasonable prices and the wide selection of baked goods on offer. Overall, it was a great experience and we will definitely be returning in the future.",
+        "language": "en"
+      },
+      "date": "2022-12-11T18:28:21Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Hal B.",
+        "user_id": "Y0vJpCXEdyK6itosO4a5aA",
+        "link": "https://www.yelp.com/user_details?userid=Y0vJpCXEdyK6itosO4a5aA",
+        "address": "Atlanta, GA",
+        "friends": 188,
+        "photos": 0,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Fabulous NY style deli\nPastrami to die for\nFantastic bagels made on-site\nBakery next door for to go\nAmazing desserts",
+        "language": "en"
+      },
+      "date": "2023-02-26T11:56:19Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "LoveLive L.",
+        "user_id": "rxx3nGzAI_xg-JJVTcvYTQ",
+        "link": "https://www.yelp.com/user_details?userid=rxx3nGzAI_xg-JJVTcvYTQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uy0TOhe5zftsB8Eww6OfQw/180s.jpg",
+        "address": "GA, GA",
+        "friends": 1,
+        "photos": 2,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "OMG. delicious. The bagels are amazing and you must try them. I absolutely love the tri-colored cookies and the black and white cookies. Service is good. You have to come early in the morning or else the bagels and pastries will be sold out.",
+        "language": "en"
+      },
+      "date": "2023-02-20T01:53:35Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jane S.",
+        "user_id": "ccDPZau5GzewDQCIpLrBfA",
+        "link": "https://www.yelp.com/user_details?userid=ccDPZau5GzewDQCIpLrBfA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0T21oTTkcYX0Zb99mzpCdg/180s.jpg",
+        "address": "Smyrna, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "I love GM for brunch on Sunday. It's the best ever. I almost don't even care that Miller Union isn't open on Sundays this food is THAT good. Service and ambience are top notch as well.",
+        "language": "en"
+      },
+      "date": "2023-02-02T03:44:28Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jamila M.",
+        "user_id": "7YJi3I0PjJnayEvPuiKyyQ",
+        "link": "https://www.yelp.com/user_details?userid=7YJi3I0PjJnayEvPuiKyyQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TMKspcDReERUicJSlPS4fw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 3,
+        "photos": 4,
+        "reviews": 12
+      },
+      "comment": {
+        "text": "I am originally from the northeast (not information I share unless it serves to strengthen my point - hence the reason I'm sharing) needless to say, I know a thing or two about a deli and General Muir gets it! The food is exceptional - I highly recommend a Reuben pastrami. The cheesecake makes me feel like I am back in Jersey. The pickles have a perfect crunch and are pickled to perfection.  The service is very northern - these servers are in true character and I love everything about it and the decorum feels like I'm back in a Jersey deli. It works. All of it.",
+        "language": "en"
+      },
+      "date": "2023-01-30T19:20:36Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Gerald K.",
+        "user_id": "hb4P6ZDt3uT_w89QAzDrTA",
+        "link": "https://www.yelp.com/user_details?userid=hb4P6ZDt3uT_w89QAzDrTA",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "We had brunch here after a recommendation from our son. This is one of his favorite restaurants and I can see why. The food was superb. We started with the deviled eggs. The filling was so smooth and creamy and full of flavor. The matzoh ball soup.is the best I've ever had. Same with the pastrami sandwich. The restaurant is very tastefully decorated. Highly recommend!",
+        "language": "en"
+      },
+      "date": "2023-08-16T10:44:08Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Stephanie L.",
+        "user_id": "q7iWal_rXNSHkHeCMMvZxQ",
+        "link": "https://www.yelp.com/user_details?userid=q7iWal_rXNSHkHeCMMvZxQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MHFsCOgaZHMYCxf7NydLUw/180s.jpg",
+        "address": "Miami, FL",
+        "friends": 620,
+        "photos": 2378,
+        "reviews": 500,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Looking for some Jewish-deli style comfort food? The General Muir has you covered, offering the classics, and occasionally imbuing them with their own twist.\n\nWhile they do seem to have reopened with limited seating and reservations, they also have take out down to an art form. Place your order ahead of time or wait till you arrive to view the menu. In the time of Covid, patrons are (for the most part) good about respecting the socially distanced line and interior person limits.\n\nFor breakfast you can build your own bagel or go with one of their open faced combinations. Personally I really like the Avenue A, with nova smoked salmon, avocado, red onion, cucumber, dill, schmear, and grapefruit. Be warned the toppings are quite generous so it is definitely easier to take home than to attempt eating in the car. They also have omelets, scrambled eggs, smoked hash with pastrami, and a sweeter pecan crusted french toast with a spiced honey butter, bananas, and maple syrup. I saw sweeter relative to the other options, but this dish is actually solid and nowhere near cloying.\n\nThey do have lunch and dinner options served later in the day, although I don't have enough experience to have much opinion on them. Parking is pretty easy nearby. Definitely recommend for brunch, or just for those craving a black and white cookie or a warm bowl of matzoh ball soup.",
+        "language": "en"
+      },
+      "date": "2021-01-31T20:01:07Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 6,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Larry C.",
+        "user_id": "Z0N7ckmFFT2VDkqt8ut2nw",
+        "link": "https://www.yelp.com/user_details?userid=Z0N7ckmFFT2VDkqt8ut2nw",
+        "address": "Buford, GA",
+        "friends": 3,
+        "photos": 0,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "The food, service, and atmosphere were all very good.  The pricing leaves a lot to be desired.  I've eaten at many fine restaurants in many locations.  In comparison, The General Muir is off the charts over priced!!",
+        "language": "en"
+      },
+      "date": "2023-08-02T13:41:12Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jennie S.",
+        "user_id": "CEdQdTKPU4KkurFDEr1i7w",
+        "link": "https://www.yelp.com/user_details?userid=CEdQdTKPU4KkurFDEr1i7w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7tGua8GULtUImYQ6SfAbVQ/180s.jpg",
+        "address": "Chicago, IL",
+        "friends": 153,
+        "photos": 6,
+        "reviews": 32
+      },
+      "comment": {
+        "text": "This was a delightful experience-an upscale kosher-style deli in Atlanta! Clean, pleasant, and great service were major highlights. The food was outstanding-we had tuna melt, reuben sandwich, and an open-faced everything bagel Avenue D. It was all delicious! Also, they have a great selection of Dr. Brown's soda. \n\nCaution: Bigger crowds and long waits grow if you go later that 11:30",
+        "language": "en"
+      },
+      "date": "2021-08-14T05:37:47Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6JPl_JcJ9JZ5PUAe1AfkDA/o.jpg",
+          "caption": "Reuben"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nish K.",
+        "user_id": "vxRgc6S1mgXbZGXOE5nylQ",
+        "link": "https://www.yelp.com/user_details?userid=vxRgc6S1mgXbZGXOE5nylQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ul02xuHAEneMRVCjXcgxhQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 248,
+        "photos": 2212,
+        "reviews": 270,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Wait wait and wait!!  That's the way you build up an appetite I guess.\n\nArrived here on Sunday at about 1pm and found the inside packed. It was cold outside so everyone was just standing around inside waiting for their turn to get seated. We were a party of four and we gave our name and were told it would take about an hour.  Bad thing was that it was an hour but the good thing was that it took an hour (no more no less).\n\nImmediately after being seated our orders were taken. Our server was super friendly and polite! We ordered a few mimosas, coffee, and our food: Poached Eggs and Grits, 3 Egg Omelette, English muffin, Pecan crusted French Toast. It took nearly 20 mins for our drinks - I guess they decided that one drink was enough sinch they served it with our food. I wish they were better about this. Drinks can come first please - it doesn't take 20 mins to make mimosas.\n\nOut of all the food items, the French Toast was the best - perfect crispy crust, a caramelized banana, maple syrup at the bottom that we could dip our French Toast into without it being drizzled all over. Yum!\n\nThe omelette was super fluffy with cheese dripping out, and the greens were a great way to round off  a healthy brunch dish - however, it was nothing out of the ordinary! Good but not Wow!\n\nThe grits were creamy and cooked well, and the eggs were poached perfectly. I was told the English muffin was good too.\n\nOverall good but like I mentioned nothing spectacular. They have a limited brunch menu. If you like open faced bagels/breakfast sandwiches, that's probably their speciality. If you are looking for typical brunch items - you have better choices elsewhere.\n\nWhat turned me off were a few things:\n\n* Long wait\n* Time it took to get our drinks\n* Our server while polite didn't check in with us often and I had to flag her down for refills etc.\n* They were out of their bread basket and most of their schmears at 1pm\n\nParking is validated in the garage across the street but that didn't make it better! I'll have to be coerced into visiting this place again.",
+        "language": "en"
+      },
+      "date": "2020-01-24T19:45:36Z",
+      "rating": 3,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bpeIdcv3gXwD-pMqY5Uvew/o.jpg",
+          "caption": "3 Egg Omelet"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HSAZGpd-buC2qcLCzEghsA/o.jpg",
+          "caption": "Pecan Crusted French Toast"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/it-HycjvECT6tHtuIutFMQ/o.jpg",
+          "caption": "English Muffin"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TqFdoLy7b4BNXeMOXxI2Fg/o.jpg",
+          "caption": "Poached Eggs and Grits"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Megan A.",
+        "user_id": "nTGreWxzbT4xk_MyBMG-bw",
+        "link": "https://www.yelp.com/user_details?userid=nTGreWxzbT4xk_MyBMG-bw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/z2_Dyvi3dbq4HyBx8oOwcg/180s.jpg",
+        "address": "Fremont, CA",
+        "friends": 43,
+        "photos": 978,
+        "reviews": 154
+      },
+      "comment": {
+        "text": "~COVID-19 review ~\n\nThe General Muir is absolutely deserving of all the praise it receives!! This place is the real deal. If you have the opportunity to come for brunch (breakfast or lunch!), take it!\n\nParking : metered street parking available.\n\nService: Excellent! friendly, knowledgeable, fast\n\nThe General Muir is separated into a restaurant and bar area and on the far side there is a deli/to go counter. Indoor dining is available, but pending when you go you may need a reservation. I elected to get my item to go. As I walked into the deli counter, I couldn't help myself seeing all of the different bakery items that they had. So I added on a Tricolor cookie and a slice of their seasonal cheesecake. The young lady working the counter enthusiastically told me how good the lemon meringue was I knew it was a must. And boy did it not disappoint! I took it home to have for dessert in the evening, still fresh after being in the fridge for a few hours. The texture was perfection - silky, smooth, creaminess - not too thick but perfectly satisfying.\n\nAs much as their sweets are divine, I really came in for a bagel. I stopped in after reading all the reviews urging one to try the Avenue A. On the surface this may seem the standard bagel & lox - but the Avenue A is its own creation, an elevated, unique take. Firstly, the quality and freshness of the ingredients is excellent. The game changer is the grapefruit. Yep. You read that right. Grapefruit! This coral pink citrus not only adds to the visual of the dish, the tart, bright, slight bitterness pairs well with the savory element of the lox and the sweet of the cream cheese. The portion size of these open faced bagels is very generous - perfect for sharing. I was able to get two meals out of it.\n\nTLDR: Delicious! Go now! Get a bagel and a dessert!",
+        "language": "en"
+      },
+      "date": "2021-02-24T23:24:04Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gJT6N05ff9vS7uS-lEcdHA/o.jpg",
+          "caption": "Menu at the deli to go entrance"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oylfP5d5F2YI5XuBWVbcJA/o.jpg",
+          "caption": "Tricolor cookie"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_JxePFj1hFxFor_fA3JPtg/o.jpg",
+          "caption": "Seasonal cheesecake - Meyer lemon meringue"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gyUWdhjiCpoDXmwuccMeJg/o.jpg",
+          "caption": "Avenue A to go"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jeff C.",
+        "user_id": "ZbTNSKYX3vB1Ts2aSQ9MzA",
+        "link": "https://www.yelp.com/user_details?userid=ZbTNSKYX3vB1Ts2aSQ9MzA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uiEWTj-YZOemZ4FUkvMIAg/180s.jpg",
+        "address": "Mableton, GA",
+        "friends": 88,
+        "photos": 2,
+        "reviews": 162,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Best pastrami in Atlanta! Atlanta is a city that just doesn't have really good delis. Many are using just ok meats and breads and that's a problem. Neither is a problem at the General Muir!\n\nThe breads are fresh and the meats are even better especially that pastrami. I am always a fan of a place that can make a good corned beef or pastrami sandwich and they hit the mark! \n\nMy only complaint is that I wish the pickles were better. Would love for them to be a bit more sour. \n\nHaven't made it through much else on the menu because I always get the pastrami but one day I will explore more and I have no doubt it will all be fantastic as well!",
+        "language": "en"
+      },
+      "date": "2021-02-09T00:40:41Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ian I.",
+        "user_id": "p29eaakHMRIcvh7-oPWvFw",
+        "link": "https://www.yelp.com/user_details?userid=p29eaakHMRIcvh7-oPWvFw",
+        "address": "Braselton, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Some of the best food in the Atlanta area, although it's a bit pricier than other places that offer similar dishes, they execute flawlessly and you can expect to eat good here. The service is also great, and the bakery is also good",
+        "language": "en"
+      },
+      "date": "2023-07-18T17:05:46Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Teresa V.",
+        "user_id": "_wBHzuhLlAQjYKGFHywV0g",
+        "link": "https://www.yelp.com/user_details?userid=_wBHzuhLlAQjYKGFHywV0g",
+        "address": "San Francisco, CA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Out of Red wine....Really? Came to The General Muir on a recent Saturday night to celebrate my sisters birthday. A 2023 Michelin restaurant. How could we go wrong? Seriously. A couple of people in our party wanted some red wine and I was shocked at what transpired. First, the waitress said they may be out of red wine. Dinner on a Saturday night...Really? She came back with 'good news' - they have a bottle of the Jezebel Pinot Noir. They were all out of other red wines. [Just now did a quick search and this is a $22 bottle of wine.] It is listed first on their list of 8 red wines at $50 for the bottle. Special occasion so we ordered it. A few minutes later the waitress comes back and tells us the manager says the price on the menu is wrong and the bottle is really $80. I think we were all in a celebratory mood and didn't want to sour the night so we simply asked her to go back to the manager because, after all, we were celebrating a birthday. She came back with more good news - the manager agreed to sell the bottle for $50.  Next, from the limited dinner menu the only item that appealed to me was the salmon but came with brussels with a chili seasoning which I do not like. The chef would not substitute - my only option was to get the meal without the brussels or order something else. As nothing else on the dinner menu appealed to me I ordered their 'infamous' double  cheeseburger. Honestly it was comparable to the Steak and Shake burgers which I really like. The patties were smaller than what I have seen in pictures posted by other reviewers. Plus, they don't have any ketchup in the restaurant. My sister's prime rib was riddled with large chunks of fat. Not her favorite. Someone else in the party also wanted to substitute a vegetable and again the chef did not allow it. I did taste the Salmon that someone else ordered and it was delicious. Just sorry I was not able to enjoy it myself!  Perhaps dinner is not their strong-point [Surprising for a Michelin restaurant] --- I see most reviews are breakfast, brunch, lunch. Maybe our first clue should have been that the place was practically empty on a Saturday night.",
+        "language": "en"
+      },
+      "date": "2023-11-24T02:24:11Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Simran A.",
+        "user_id": "du9DdBdEG8gkfxivYGn4JQ",
+        "link": "https://www.yelp.com/user_details?userid=du9DdBdEG8gkfxivYGn4JQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KrG05a_exj5h3FV02O40Gw/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 935,
+        "photos": 1753,
+        "reviews": 559,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Went in on a Sunday with a party of 9 people and we had to wait around 45 minutes- they don't take reservations but if you are a small party, there is a deli inside and you can grab a seat at the community table. Everything in the deli looked delicious!\n\nWe started with the Basket of Pastry- delicious! There were four different kinds and I liked all of them. It was a good shareable size basket.\n\nMy friend got the Horchata and loved it. Apparently the coffee is really good here but I didn't try any. \n\nFor my main entree, I got the smoked hash. It tasted like something was missing. I wanted to get hot sauce to make it more flavorful. The pastrami in it was delicious though. I would recommend getting a side of crispy pastrami. My friend got the Avenue A bagel. For someone who has eaten a real NYC bagel, I wasn't a big fan of this one.\n\nThe service was great and our server was very friendly!\n\nI recommend this place just for trying out the pastries.",
+        "language": "en"
+      },
+      "date": "2019-08-06T16:08:28Z",
+      "rating": 3,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cUFQspQovy9Dgplwx9vQCw/o.jpg",
+          "caption": "Pastry Basket"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ERqbdm5saWWT_5TvZv8a4w/o.jpg",
+          "caption": "Smoked Hash"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hTRT3_7hRVa4VoQ8jTk-fg/o.jpg",
+          "caption": "Avenue A"
+        }
+      ],
+      "feedback": {
+        "useful": 6,
+        "funny": 2,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Joanna C.",
+        "user_id": "qhliFDdRH6tbKbIXVM_wzw",
+        "link": "https://www.yelp.com/user_details?userid=qhliFDdRH6tbKbIXVM_wzw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uWUyoUiXBQs4CHmJ7lP-kA/180s.jpg",
+        "address": "Washington, DC",
+        "friends": 254,
+        "photos": 2390,
+        "reviews": 983,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "After a long morning hike, my friend and I were hungry and also super in a rush. Luckily, The General Muir takes online orders and they're ready in 15 minutes! I went on the site, placed an order for the Fish and Potatoes, drove over, and the food was ready once we get there, score!!  \n\nThe Fish and Potatoes were also exactly what I needed. Delicious lox, perfectly cooked latkes (don't think I've had latkes since the pre-pandemic days, so much yum!!!), with ample amounts of arugula so I can get my veggies in. Gobbled this down quickly (okay, mostly because I was in a rush, but also, it was delicious)! There was also applesauce on the side, which was a nice touch.\n\nDelicious brunch, would love to eat it at a more leisurely pace next time. :) And hopefully, next time we'll plan better and actually eat at the restaurant!",
+        "language": "en"
+      },
+      "date": "2021-04-23T01:16:41Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brandon A.",
+        "user_id": "BdQkgjiuk-TBre4oFAvGNA",
+        "link": "https://www.yelp.com/user_details?userid=BdQkgjiuk-TBre4oFAvGNA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3KBcG7ucuPhdor_V8uT7Mw/180s.jpg",
+        "address": "Memphis, TN",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 5
+      },
+      "comment": {
+        "text": "Great sandwich. Pickle tasted like fish. But the pastrami was incredible. Good service. Turkey club also very good.",
+        "language": "en"
+      },
+      "date": "2022-11-25T21:05:47Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Saeed S.",
+        "user_id": "wuezi2Ui3Mpllv9jaC0UVQ",
+        "link": "https://www.yelp.com/user_details?userid=wuezi2Ui3Mpllv9jaC0UVQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OMfxfGMULR6i8vc7Vdn_Iw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 12,
+        "photos": 203,
+        "reviews": 53
+      },
+      "comment": {
+        "text": "Tgm is a consistent 5/5 for me.\n\nIf you come here start with the poutine with pastrami added to it\n\nIf you want to play it safe you can get the burger which is one of the best in the city. The bun is exceptional with a crisp outside and fluffy inside and the burger is pretty good too.\n\nLastly would highly recommend finishing the night with either a piece of cheesecake or a piece of chocolate cake. Both of which are the best in the city by far!",
+        "language": "en"
+      },
+      "date": "2021-01-26T02:53:53Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X5ir-z-YNP_riAQJxBNvbg/o.jpg",
+          "caption": "Burger and fries"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hVKjyMDyFCgVytXoQcwtLg/o.jpg",
+          "caption": "Cheesecake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4yXT2gSYanzHeFQkCYTYbQ/o.jpg",
+          "caption": "Poutine with pastrami"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hIx_fpIsp5kWJ6pBvHe35g/o.jpg",
+          "caption": "Poutine with egg and pastrami"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EXLmrXG-f75DR8CQ9bGVrg/o.jpg",
+          "caption": "Burger and fries"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WE4qEgXSJ-Esgkf1lSv3Zg/o.jpg",
+          "caption": "German chocolate cheesecake"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Dianna N.",
+        "user_id": "o8Lpbd9-X4Ep3z-gcVdNSw",
+        "link": "https://www.yelp.com/user_details?userid=o8Lpbd9-X4Ep3z-gcVdNSw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-I5A64XfNX8nd70zRak8nw/180s.jpg",
+        "address": "Seattle, WA",
+        "friends": 104,
+        "photos": 2553,
+        "reviews": 717,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "There's a kind of weird break between breakfast and lunch on weekdays. Breakfast ends at 10:30 AM, but lunch doesn't start until 11:30 AM, so they don't seat in the dining tables area during that time. However, the deli side is open throughout. We got there during that hour on a Friday, so ordered a couple things from the deli side while we waited. \n\nSalt Bagel $1.95 + Plain Schmear $1.25: I've only had one salt bagel at another place in CA but loved it. I was excited to come across another salt bagel, but didn't like this one as much. It wasn't salty enough, so it tasted pretty much like a plain bagel to me. \n\nPastrami Gruyere Biscuit $2.50: From the name, it sounds like it'd be a biscuit sandwich, but those items were just kind of mixed into the batter I guess. I didn't notice any pastrami, and overall the biscuit tasted a little sweet. \n\nChocolate Hazelnut Rugelach $1: Small pastry so just got a bite since we shared it, but pretty good. I wouldn't mind getting a couple with coffee or hot chocolate. \n\nPeople started to line up to be seated a little before 11:30 AM and tables seemed to fill up quickly, so seems worth getting there early or just waiting until after a lunch rush if planning to come on your lunch break.  \n\nMatzoh Ball Soup $7: I don't think I had ever tried matzoh ball soup before this, not that I can remember at least. I really liked the broth. It was light yet the right amount of flavor. I could do with or without the matzoh ball itself to be honest. \n\nRueben $12.95: The bread was perfectly toasted. The corned beef didn't stand out to me flavor wise, but there was a good ratio of sauerkraut to make it a good sandwich overall. \n\nChocolate Egg Cream $3: I had never even heard of these, so did a quick Google before ordering. It seems no egg is actually involved, so about misleading. I ended up liking it. I'd describe it as a slightly fizzy chocolate milk. I think it would've been nice to be a bit more fizzy. \n\nChai Latte $4: I only took a sip. It was fine. I was more in the mood for a cold drink so just stuck with my chocolate egg cream. I always love it when they make pretty designs on the top. \n\n*****\n\nMy Star Ratings: \n1 Star - Terrible. Just thinking about it makes me angry. \n2 Stars - Meh. Unlikely for me to return. \n3 Stars - OK. Open to coming back, but wouldn't go out of my way to. \n4 Stars - Yummy! Will definitely return if I haven't already. \n5 Stars - AMAZING!!! Would plan my day or even a trip around eating here.",
+        "language": "en"
+      },
+      "date": "2019-09-05T15:09:04Z",
+      "rating": 4,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CBT6ULfvseoKFzmq92bI-w/o.jpg",
+          "caption": "Chocolate Egg Cream $3"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/n54-cLXxxpQn5dET0kdYRQ/o.jpg",
+          "caption": "Pastrami Gruyere Biscuit $2.50 (front) and Chocolate Hazelnut Rugelach $1 (back)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yMeV3V8__Zf09-TTcUxOkQ/o.jpg",
+          "caption": "Chai Latte $4"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BUhN8F_9oxyCIPqrCcSj7w/o.jpg",
+          "caption": "Reuben Sandwich $12.95"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6NgveYqfTHhQOpT0CzMkjg/o.jpg",
+          "caption": "Salt Bagel $1.95 + Plain Schmear $1.25"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/H8JIGRsdP4XCeoY5PfqXbA/o.jpg",
+          "caption": "Matzoh Ball Soup $7"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ernie A.",
+        "user_id": "tVQ2ysLtPtLWQcWOx8djdQ",
+        "link": "https://www.yelp.com/user_details?userid=tVQ2ysLtPtLWQcWOx8djdQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/INOTcDTRtvL41KrYsvbqDg/180s.jpg",
+        "address": "Mansfield, GA",
+        "friends": 0,
+        "photos": 7,
+        "reviews": 81
+      },
+      "comment": {
+        "text": "First off, I would rate is higher but I will elaborate more in my review.\n1. Food quality 4 stars\n2. Food presentation 3 stars\n3. Service 3 stars\n4. Value1 star\nWe had wanted to try this place for quite a while since we had seen it on the Food Network.  When we got there we had to pay for parking.  Not knowing how long we would be there we opted for an hour and a half of parking.  That was just shy of five dollars.\nWe go into the restaurant and it's very nice.  Beautifully decorated with subway tile and look like a very classy high-end restaurant.  We got there about 11 in the morning so it wasn't too crowded.\nIt took a few minutes for our wait person to come see us.  By then we knew what we wanted.  I asked for the hash but was told it's only served at breakfast and it was past the breakfast hours.  So I opted for the Ruben.   My wife got one of their special bagel combinations that I believe was with the letterA.\nFood came out in a little while and it was fairly plainly presented.  My sandwich sat on a plain white plate with half a pickle on one side.  My wife's bagel was cut in half of course and the toppings were placed on top.  \nMy Ruben was tasty but because it was placed on a plate with no doily or paper underneath it the plate side was soggy.\nMy wife's bagel was OK but the smoked salmon was no better than any smoked salmon that you could get at any grocery store packaged.\nTotal of the bill for a sandwich and bagel was just under $35.  Add the tip in parking and you get almost $50 for this.\nNow I understand operating costs and overhead can be quite high in a place like this.  So I'm not going to complain too loudly.\nI will just say like I always do, The test of a restaurant is always will I come back.\nNot at this price point and quality level.\nGood basic food but way over priced.",
+        "language": "en"
+      },
+      "date": "2022-09-14T23:10:01Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lauren G.",
+        "user_id": "hhbHcNtjhM7o_LpjBo5eZQ",
+        "link": "https://www.yelp.com/user_details?userid=hhbHcNtjhM7o_LpjBo5eZQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/j-5R2TM9DBkRnpnswOAoEQ/180s.jpg",
+        "address": "Tampa, FL",
+        "friends": 478,
+        "photos": 1885,
+        "reviews": 188,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The Basics: General Muir is located at Emory Point near Emory University. It features a deli side of the restaurant with an assortment of fresh, homemade bagels, bagel sandwiches, pastries, and coffee drinks. Additionally, there is the main dining section on the other side of the restaurant with an outdoor patio, as well. I highly suggest this spot for lunch, dinner, cocktails, or even to just to pick up coffee in the afternoon! \n\nThings I like: Everything at General Muir is good and you truly cannot go wrong. For breakfast/ brunch, I really enjoy the Avenue A and their everything bagel and nova is great. The deli section of the restaurant is open until 5pm and at the deli you can get bagels, coffee, and some  fresh pastries, like black and white cookies and rainbow cookies. For lunch/ dinner, their burger is one of the best in the city and I also love their classic matzoh ball soup. Don't forget to get a cocktail with your meal! General Muir has an amazing bar where cocktail specials are creative and delicious. I have truly enjoyed my time sitting at the bar and talking to the bartenders about what they are making. They have even tested out cocktails with me before based on my tastes which I thought was amazing!\n\nThings I didn't like: Nothing! I have had a perfect experience every time I go to General Muir. Amazing atmosphere with some of the best food in Atlanta! \n\nGeneral Muir is a must if you are craving the best of NY style deli foods, creative cocktails, fresh baked goods, and great coffee. A must in the city!",
+        "language": "en"
+      },
+      "date": "2019-06-12T21:55:06Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Tu_tXtQsD8KPbAhNh4L0kA/o.jpg",
+          "caption": "Avenue A"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KruHLA48s6_I3U3rCaskSg/o.jpg",
+          "caption": "If Wishes Were Horses"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-OG85wDF1YU_YQcBv_Pzbg/o.jpg",
+          "caption": "Plain Bagel with Nova"
+        }
+      ],
+      "feedback": {
+        "useful": 5,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Matthew D.",
+        "user_id": "QyfV-W0toCp6SMkyrpOf2A",
+        "link": "https://www.yelp.com/user_details?userid=QyfV-W0toCp6SMkyrpOf2A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/c_xHQ3jqTMw_smkJIEQ3eQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 404,
+        "photos": 664,
+        "reviews": 209,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Going to TGM is typically a great decision. I enjoy going here when I'm craving a yummy lox bagel for breakfast. It's a great restaurant near the Emory area. They serve breakfast, lunch, and dinner. And they brunch it up on the weekends. I have only been for breakfast on the weekends and dinner once. They are typically pretty busy for breakfast on the weekends but it's worth the wait. And if you have a tremendously long wait you can grab a coffee or snack from their Togo area to hold you over. \n\nThe breakfast menu is pretty on point with some fish and bagel platters, variety of open face bagels, and plenty of breakfast plates. The most recent visit I ordered an Avenue A open face bagel, which was amazingggg. It's nova, schmear, avocado, grapefruit, dill, onion, and cucumber on top of your bagel of choice. (Everything Bagel for me) The Nova and toppings were great but the bagel was a lot chewier than usual. I ordered a Cubano to get started and of course a refreshing mimosa to wash down my bagel . \n\nI really would like to go back soon to try out their dinner menu again. Not sure how long it's been around now but I noticed they do have a ramen night on Monday that I would love to check out. The menu for it looks great. And Friday nights they have fried chicken Friday ! (I'm a sucker for fried chicken).",
+        "language": "en"
+      },
+      "date": "2019-10-27T10:58:01Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mfpo3O5jRJRDolh7Ce-deg/o.jpg",
+          "caption": "Avenue A"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0InBfW0q16d9tSORGc0QfA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Alfie B.",
+        "user_id": "mymQszIbCFxauVKKFJJJmw",
+        "link": "https://www.yelp.com/user_details?userid=mymQszIbCFxauVKKFJJJmw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_yznnOZWtpS_uicNwvgClg/180s.jpg",
+        "address": "Columbia, SC",
+        "friends": 38,
+        "photos": 842,
+        "reviews": 255,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I came to The General Muir after a recommendation from my brother.  We came for brunch (~1100) on a Saturday, and only had to wait about 5-10 minutes for a seat.  Service was very friendly and prompt.  \n\nThe General Muir is mainly a deli/brunch spot, but it apparently has a reputation for their burgers as well.  I was able to try a piece of my brother's that he ordered, and I can confirm that it is delicious.  We also ordered the pastrami poutine appetizer, and I had the trout.  The poutine had the perfect ratio of fries, gravy, cheese, and pastrami.  The trout dish had a nice balance of flavors/textures with the horseradish sour cream, onions, and potatoes. I'd definitely come back here to try more of their menu items.",
+        "language": "en"
+      },
+      "date": "2019-11-24T16:06:59Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6hCTAMDVt1Be_02brlLIPA/o.jpg",
+          "caption": "Pastrami poutine"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3o8ip5I0x5uKHUEa1e9M3g/o.jpg",
+          "caption": "Trout"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kitty R.",
+        "user_id": "7ijwNDCxqNB4fjgz27vvwA",
+        "link": "https://www.yelp.com/user_details?userid=7ijwNDCxqNB4fjgz27vvwA",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "I never thought i would be writing this review, but here i am. \n\nThe general Muir has had a special place in my heart since the first bite. The pastrami- bust down , the chicken salad- bust down, the salmon- bust down, the potatoes- bust down, the coffee- bust down, the service- you guessed it- bust down. Really a 100/10 place. \n\nToday i came and it was not worth it. I had my chicken salad sandwich, which they increased the price significantly came out in desperate need of salt. The most devastating part ... a 1/2 PICKLE!! Listen Ik the economy is trailing... but the pickle ?  \n\nI was originally going to get my fav (Avenue A) but it was 18$...  or the Fish and Potatoes had increased as well. \n\nI probably won't be coming back here and will have to find a new fav brunch place to fixate on. To all of the people i told it was the best brunch in Atlanta, apologies in advance. \n\nthe old general Muir... i miss you",
+        "language": "en"
+      },
+      "date": "2022-09-03T18:40:25Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lamar K.",
+        "user_id": "t0Usio-OfxCJ7KDzmro6tQ",
+        "link": "https://www.yelp.com/user_details?userid=t0Usio-OfxCJ7KDzmro6tQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Z7MvQr4uGtc289f_OkZ02A/180s.jpg",
+        "address": "Hampton, GA",
+        "friends": 37,
+        "photos": 2,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Excellent food and service, had a great Sunday Cousins dinner will be making more reservations in the future",
+        "language": "en"
+      },
+      "date": "2022-11-03T15:47:53Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "T S.",
+        "user_id": "qLtQWtCHLvBZ72akFjXNtg",
+        "link": "https://www.yelp.com/user_details?userid=qLtQWtCHLvBZ72akFjXNtg",
+        "address": "Suwanee, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "We had great service and drinks, but we were not impressed with the food.  I'm disappointed because I have heard great things about them.  I had the pastrami sandwich and it had so much meat with fat on it.  My family's fries were not good either.  Burger was ok for another family member.  \n\nI do like the ambiance and decor there.  It's in a nice location too.  I might try it again sometime, but I'm not in a hurry.",
+        "language": "en"
+      },
+      "date": "2022-02-22T18:56:29Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mpDsjeMzp-Z-Le_i5FXELg/o.jpg",
+          "caption": "My take home leftovers"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Adam B. J.",
+        "user_id": "6u82x6PkhQD2zm6Qa3mxCw",
+        "link": "https://www.yelp.com/user_details?userid=6u82x6PkhQD2zm6Qa3mxCw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MYrIp40S-Qf3f4EtsEU5Cg/180s.jpg",
+        "address": "Cayce, SC",
+        "friends": 190,
+        "photos": 342,
+        "reviews": 1070
+      },
+      "comment": {
+        "text": "The General Muir is absolutely worth going to.  Bagels and lox are one of my favorite things to eat for breakfast.  My wife knowing this, found The General Muir when looking for a place for brunch on our way out of Atlanta.  There was a wait, but we enjoyed delicious cocktails while we waited.  My wife and I split the Lower East Side (Gravlox, Nova, Smoked Trout Salad) with an everything bagel and the smoked hash.  Both salmon were great, but we both like the gravlox the most.  The hash was to die for.  The pastrami!  Holy cow, the pastrami.  We ordered two orders of the Matzoh Ball soup to take home for dinner that night.  My wife makes delicious Matzoh Ball soup, don't tell her but The General Muir's was the best I've had.",
+        "language": "en"
+      },
+      "date": "2021-09-22T13:38:10Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hPqOSfHIORVgT-NY2zymyQ/o.jpg",
+          "caption": "JFK"
+        }
+      ],
+      "feedback": {
+        "useful": 5,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "mary-margaret b.",
+        "user_id": "GLKaV_mZ4Iyw8FHHNgSBjg",
+        "link": "https://www.yelp.com/user_details?userid=GLKaV_mZ4Iyw8FHHNgSBjg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Zk5fcuA-mbUkNY5ULm1Eyw/180s.jpg",
+        "address": "Park City, UT",
+        "friends": 216,
+        "photos": 9,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "The food is actually outstanding. I don't really go anymore after the pandemic because they were very rude about social distancing even for pick up wants open seated  dining had resumed. A great place for vegetarian's and I definitely recommend the Reuben made with beets.",
+        "language": "en"
+      },
+      "date": "2022-11-30T12:28:31Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Trang L.",
+        "user_id": "E8fHWb1o-Y5-93utoLkQRg",
+        "link": "https://www.yelp.com/user_details?userid=E8fHWb1o-Y5-93utoLkQRg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FS2PQAxPiH7FUNhWGN2iLA/180s.jpg",
+        "address": "Parkland, FL",
+        "friends": 606,
+        "photos": 647,
+        "reviews": 345,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The description of this restaurant is that it is a fresh take on a traditional Jewish deli. They nailed it! I loved the ambiance when you first walk in. I came for breakfast, and they allowed for self seating. They also offer covered and uncovered seating outdoors.\n\nI had a latte (delicious), and the pastrami/gruyere sandwich. I HIGHLY recommend this! The pastrami slices were very generous, with some fat. The caramelized onions were such a great touch. The \"deli sauce\" is my favorite-- ketchup and mayo. It was the perfect breakfast sandwich, and would be easy to take to go if needed. I really wish I was from this area so I can come back for this sandwich.",
+        "language": "en"
+      },
+      "date": "2019-04-11T21:15:08Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1vEqvFq1i0Jn0pr3ORErYw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PJmAvnYcbWEYQr2ETaZ6tg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E3_s-vSaCHEX7bOpMxHqyg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Mads B.",
+        "user_id": "LONoA2egHbFjTJ3a6_UMXQ",
+        "link": "https://www.yelp.com/user_details?userid=LONoA2egHbFjTJ3a6_UMXQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/juqZR-1YQBpZUvoTZL5Edg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 19,
+        "photos": 498,
+        "reviews": 403,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Loved our breakfast here. I've been wanting to come here for a while, and so glad I finally did. \n\nI had the poached eggs with grits and a side of latkes. The grits were great, especially with the toast to dip in. The latkes were good - what you'd expect from latkes. \n\nI wish I'd gotten the cinnamon roll. A friend did and it looked amazing!\n\nKeep in mind they don't serve food all day in the dining room. There are breaks is service when the dining room is technically closed. Make sure to check their posted hours. \n\nThere's a parking garage right across the street, and they validate parking for 2 hours.",
+        "language": "en"
+      },
+      "date": "2020-01-14T14:09:27Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NSA29YU9-xLa07LLilVQ8w/o.jpg",
+          "caption": "Poached Eggs and Grits. Yes to this all day! So good. So flavorful."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sb_wDWqOYUwx9hF90NNqvQ/o.jpg",
+          "caption": "The Cinnamon Roll. I didn't have this, but I wish I had. It looked AMAZING."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ompxSXDQfazsnxIVGtO3Ew/o.jpg",
+          "caption": "Latkes. Fine. Nothing special, but exactly what you'd expect."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Melanie W.",
+        "user_id": "PGzcB6vLgyLNeidizEGgjQ",
+        "link": "https://www.yelp.com/user_details?userid=PGzcB6vLgyLNeidizEGgjQ",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 16,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Food was amazing and service was great! Loved the inside of the restaurant! Love that they have a place to just do take out orders! Wish I lived closer!",
+        "language": "en"
+      },
+      "date": "2022-11-27T15:25:27Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M3ox5kn25ZXcgl4mxlyFbA/o.jpg",
+          "caption": "Latkes with Nova it was amazing!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Meagan D.",
+        "user_id": "qH5NEUpj-bNDlo5GBO_0PQ",
+        "link": "https://www.yelp.com/user_details?userid=qH5NEUpj-bNDlo5GBO_0PQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cy0QyhB3xHI4ZUWHQ2diJw/180s.jpg",
+        "address": "Powder Springs, GA",
+        "friends": 160,
+        "photos": 199,
+        "reviews": 89,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Overall I thought the food and service was good. I ordered the soup (Matzoh Ball) and half sandwich (Roasted Turkey). It was my first time trying Matzoh Ball soup, so I have no idea what to compare it to? I'm glad it was not super salty and came out hot! The sandwich was good enough for my level of hunger but if you do not like mushrooms, I'd say ask them to remove them because the flavor of them is very present! The Turkey is not deli Turkey but thick cut slices. I ordered some items to-go (bagels with smear w/ nova, black and white cookies, and the sweet potato cheesecake). I haven't tried the bagels yet. The black and white cookies are cool if you like really sweet soft cookies. The smell and flavor of the cheesecake was good but I am not a fan of super soft cheesecake! I love NYC style (thick and rich). It felt like I was eating a pudding. They validate parking for 2-hours if you park in the deck which is nice. My server was very helpful and accommodating. The. Bathrooms needed some TLC.",
+        "language": "en"
+      },
+      "date": "2021-11-11T21:07:30Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0Vbl55w8q6bIE2eSYfJmjQ/o.jpg",
+          "caption": "Matzoh Ball Soup"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OGhRm6wymb-hKUk46FXQDA/o.jpg",
+          "caption": "Inside dining room lighting"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VWmtzRofthmJhxBV3hG6VQ/o.jpg",
+          "caption": "Sweet potato cheesecake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZuZIwYz0SAaQTeeu0RQptA/o.jpg",
+          "caption": "Black and White Cookie"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QnF8IfkOqjXDTc3GVhtBog/o.jpg",
+          "caption": "Matzoh Ball Soup and Roasted Turkey Sandwich"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Marc L.",
+        "user_id": "LJoQpBliN0pgzzFFGKKOpQ",
+        "link": "https://www.yelp.com/user_details?userid=LJoQpBliN0pgzzFFGKKOpQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/EHaN_HRDdTIMDsEqt4fIGw/180s.jpg",
+        "address": "Fountain Valley, CA",
+        "friends": 1225,
+        "photos": 2068,
+        "reviews": 582
+      },
+      "comment": {
+        "text": "Solid Jewish deli favorites out in Emory Point area.\n\nI first heard about the General Muir on Diners, Drive-Ins & Dives and had it bookmarked because I can't resist good Jewish deli food no matter where I am in the country. Located in a shopping center close to Emory University and the CDC, the location is nondescript on the outside but buzzing on the inside.\n\nNamed after General Charles Henry Muir of the Spanish-American War and World War I fame, the restaurant is a modern Jewish eatery perfect for breakfast or a quick lunch. Sitting at the counter, they have a full bar stocked with a wide variety of whiskies and gin. \n\nFor breakfast I ordered an open-faced bagel, their Avenue A, which has nova smoked salmon, grapefruit, avocado, red onion, cucumber, dill, and schmear on a toasted Everything Bagel for $14. I also got a bowl of Matzoh Ball Soup and half a Reuben sandwich for $13.50, as well as a side of Latkes for $5.\n\nThe Matzoh Ball Soup was perfection; I can see why the restaurant has the famous Yiddish quote, \"troubles with soup is easier than troubles without soup\" displayed throughout. After a year full of trouble, everyone could use a bowl of hot soup! General Muir's Matzoh Ball Soup itself is closer in size to a cup than a bowl, but the broth and matzoh ball are a perfect tonic for a hangover or just an especially long week. The Latkes are fine, lightly seasoned and crunchy... but I found the Avenue A bagel I got a bit of a miss. I'm a fan of bagels done New York style, with a gratuitous amount of schmear... the Avenue A had a thin layer of cream cheese, which is understandable when you order an open-faced bagel sandwich, but the variety of toppings were kind of overwhelming. Generally, I prefer my breakfasts simple and nuanced, so the grapefruit, red onion, cucumber, and dill overpowered the lox and schmear for me.\n\nI took the half Reuben togo because, if it wasn't already obvious, I had ordered too much food. But even a few hours later I could tell that it was a solid Reuben, with the corned beef, sauerkraut, Swiss cheese, and Russian sauce meshing together deliciously between 2 slices of toasted rye. It makes me curious how their Pastrami is, especially the Crispy Pastrami. Besides regular dine-in, they also have a convenient bakery section where you can pick up coffee, lox, bagels, and other baked goods for takeout.\n\nWith so many great breakfast options all over Atlanta, I'm not sure I would go out of my way to General Muir's for breakfast, but if I'm near Emory or the Druid Hills area I would definitely be patronizing this place regularly. \n\nMake sure you get the Matzoh Ball Soup!",
+        "language": "en"
+      },
+      "date": "2021-11-07T03:49:24Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZsTj_7JRdVcnZbx-TNCLUQ/o.jpg",
+          "caption": "Busy dining room on a sleepy October Sunday morning"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0k60vDNxCI2sIjbiM5wzNQ/o.jpg",
+          "caption": "The bar/counter area"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kViVS17MZZBY1V1hgg6Zpw/o.jpg",
+          "caption": "Clean, modern, and nondescript exterior"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_L9EqY4Z5fehM0eGnGwE5Q/o.jpg",
+          "caption": "Lotta great whisky and gin option here"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0MlCoaL3r8IsYMTT9FHU_g/o.jpg",
+          "caption": "Latkes - $5"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DbDLD1KwLGOc_CBuse0Mzw/o.jpg",
+          "caption": "Half Reuben Sandwich"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lipVYX3JiH1fi7ZLQKwWRg/o.jpg",
+          "caption": "Matzoh Ball Soup... amazing!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/72-XK16-TWAeY7CaPA7m8g/o.jpg",
+          "caption": "Avenue A - nova, grapefruit, avocado, red onion, cucumber, dill, and schmear, on an Everything Bagel for $14"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zAM8hJJFWBAeORfgVUc9pQ/o.jpg",
+          "caption": "The bakery section"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YtUXHybu2n4loX26DS_TTA/o.jpg",
+          "caption": "Menu (October 2021)"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Sandie S.",
+        "user_id": "vWopG-VMmuzZyOl5iEDVkg",
+        "link": "https://www.yelp.com/user_details?userid=vWopG-VMmuzZyOl5iEDVkg",
+        "address": "Atlanta, GA",
+        "friends": 12,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Love General Muir. The food and service are both excellent. We were there 2 times on this visit. Both times they were out of black and white cookies. They need to bake more daily.",
+        "language": "en"
+      },
+      "date": "2023-05-24T13:53:29Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shanky S.",
+        "user_id": "2UUCpOeQNuyOcbfS0SSp-g",
+        "link": "https://www.yelp.com/user_details?userid=2UUCpOeQNuyOcbfS0SSp-g",
+        "address": "Columbus, GA",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 55
+      },
+      "comment": {
+        "text": "Average at best. Service ok. Probably gets gray ratings cause it's layout and good atmosphere. Menu is severely limited. Not a place that I'd go to again. One was enough.",
+        "language": "en"
+      },
+      "date": "2023-05-03T22:02:06Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alexis B.",
+        "user_id": "h7p-GuaHFGsiKCF4g6Bjqg",
+        "link": "https://www.yelp.com/user_details?userid=h7p-GuaHFGsiKCF4g6Bjqg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rKTC0C3D1LnOlG317W7AQw/180s.jpg",
+        "address": "Baltimore, MD",
+        "friends": 2783,
+        "photos": 16268,
+        "reviews": 4039,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I had heard about the General Muir from some Jewish food blogs I follow, and I knew that I needed to eat there on my next trip to Atlanta. So this past weekend (on a trip to Atlanta for my birthday), we finally got to experience this much lauded Jewish-style deli in Atlanta. And I was impressed!\n\nSince I wasn't sure when I'd be able to come back, I wanted to go all out. So I ordered the Lower East Side Platter (yes, a whole platter just for me): lox, nova, and smoked trout salad served with capers, red onion, olives, and choice of schmear and bagel - I went with an everything bagel with horseradish dill cream cheese). Very good. I will say that I couldn't tell the difference between the lox and the nova (one is salt cured and one is smoked), so the smoke was definitely light on the nova. But everything was good. Good bagel, good lox/nova, good smoked trout salad. The platter was very traditional (down to the green lettuce under the tomatoes, onions, capers, and olives).\n\nMy husband went a little less traditional and got the Avenue D open faced bagel: lox, choice of schmear, salmon roe, cucumber, and chives. This was also good (he got it on a salt bagel, so it was a bit of a salt bomb, which is what he wanted)! He also got a side of crispy pastrami, which was amazing. Definitely crispy on the outside without being dry or tough on the inside. VERY peppery (which I like). \n\nBecause we had a drive back to Nashville in front of us (and no desire to cook when we got home), we also picked up a few bagels from the deli and a bit more cream cheese). So when we got home we got to enjoy our leftovers. My husband made a sesame bagel crispy pastrami sandwich, and I had my leftover lox/smoked trout salad on a sesame bagel.\n\nThey don't take reservations for brunch. We showed up around 9:30ish on a Sunday morning and they were already quite busy, but they had seats for 2 at the bar or on the outside (heated in the winter) patio (no available tables inside). The service was a little scattered (it took us a while to leave), but they were pretty busy. \n\nThe restaurant is beautiful and a very good size. I definitely wouldn't hesitate to have another meal here when we next visit Atlanta! A great meal. And it's great to have such a wonderful New York style deli (with some playful creativity) in Atlanta, where you might not expect one!",
+        "language": "en"
+      },
+      "date": "2019-01-14T14:31:33Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fWHQbMJ6cJ0ijs6Qragbbg/o.jpg",
+          "caption": "The Lower East Side Platter"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eSwwEhrq0UdlUmjT_hye4w/o.jpg",
+          "caption": "Avenue D"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/S5EoAm3r3lMIZ6yrWnMcoA/o.jpg",
+          "caption": "Side of crispy pastrami"
+        }
+      ],
+      "feedback": {
+        "useful": 10,
+        "funny": 3,
+        "cool": 5
+      }
+    },
+    {
+      "user": {
+        "name": "Faith C.",
+        "user_id": "HyRXDpGVFRjB_27GGU7H0Q",
+        "link": "https://www.yelp.com/user_details?userid=HyRXDpGVFRjB_27GGU7H0Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/w1Tt4cQge2X5xLJBM3Q2zA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 367,
+        "photos": 153,
+        "reviews": 195,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This has been one of my favorite places to get take-out brunch during COVID. They are still take-out only for now, and that reassures me a bit more than getting take out from a place that does dine in as well. Ordering online is a cinch and my order is always ready when I get there (takes me about 10-15 min from submitting my order to drive there). Everything is packaged in paper containers and thoughtfully labeled so no surprises. \n\nThe food! So tasty and a really good value. I usually get the pastrami and egg sandwich which is filling and delicious. The pastrami is always so tender and goes great with the runny fried egg and melted american cheese. It comes with a pickle spear. Sometimes I get the Avenue A, and it is delicious as well. The lox is really good quality. It comes with grapefruit pieces on it, which seems weird and is something I would not normally be a fan of, but somehow it works. A great option if you are looking for something really fresh tasting. \n\nToday I added the deviled eggs to the mix and I have to say they are probably the BEST deviled eggs I've ever had. They absolutely do not skimp on the egg yolk filling and it is soo creamy. If you like deviled eggs, you will not regret getting these! They are operating on a limited menu but I can't wait until they are back open for dine-in at a time when I'm more comfortable with it.",
+        "language": "en"
+      },
+      "date": "2020-08-09T18:52:33Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 10,
+        "funny": 4,
+        "cool": 9
+      }
+    },
+    {
+      "user": {
+        "name": "Trishan A.",
+        "user_id": "j343ym__TMyM0DsyTjL4gA",
+        "link": "https://www.yelp.com/user_details?userid=j343ym__TMyM0DsyTjL4gA",
+        "address": "San Francisco, CA",
+        "friends": 25,
+        "photos": 12,
+        "reviews": 67
+      },
+      "comment": {
+        "text": "Unfortunately I didn't get to eat. The restaurant was about half full but they would only seat me at a sunny table in the middle of the patio on an 80° day. I asked about two empty tables next to the building in the shade and he flat out refused to seat me. No explanation, no rationale. FWIW, I was dressed professionally in a collared shirt for a business meeting. Can't patronize a restaurant that treats me that way.",
+        "language": "en"
+      },
+      "date": "2023-03-24T15:28:43Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sam A.",
+        "user_id": "jmGgpWXSZrqA1mHUsAu8ow",
+        "link": "https://www.yelp.com/user_details?userid=jmGgpWXSZrqA1mHUsAu8ow",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/L1LqeVDrk0PrC3s0E3enzg/180s.jpg",
+        "address": "Bellevue, WA",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Stopped her for sunday brunch with friends and could not have had a better experience! we got seated quickly, the food was amazing (The General is a must try). Tony came to check on our table and our experience and we had a great connection. so good to see a manager who so genuinely cares about the patrons of the establishment! I will definitely be returning.",
+        "language": "en"
+      },
+      "date": "2022-11-08T00:14:28Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Katharine P.",
+        "user_id": "fr92o32ZciX6VqmO9PC49A",
+        "link": "https://www.yelp.com/user_details?userid=fr92o32ZciX6VqmO9PC49A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7V1ZwKBPhACw2KLcJnlPAg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "A $48 food bill for lunch yesterday (before tip) included side salad with 30% brown and slimy leaves and a refusal to validate parking for the parking garage, even though the retail shops in the same development do so. With the only other parking option requiring signing up for an app to pay for parking meters, this seemed both chintzy and short sighted. The matzoh ball soup, potato salad and chocolate cake were good, and my friend said her bagel was good, but the salad greens were old, and it was $48 for this Plus parking. In general I would say that communication is an area of major training opportunity for the service staff, both with listening and with sharing. This lunch was mostly frustrating and of poor value in my opinion.",
+        "language": "en"
+      },
+      "date": "2022-10-18T11:08:29Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=yyakxBb3bLHcnIxHUKJNgw&start=130"
+  }
+}

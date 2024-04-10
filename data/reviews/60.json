@@ -1,0 +1,2351 @@
+{
+  "search_metadata": {
+    "id": "65ef30faca968ffd0c6ddbad",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cba2f21086e022a5/65ef30faca968ffd0c6ddbad.json",
+    "created_at": "2024-03-11 16:27:38 UTC",
+    "processed_at": "2024-03-11 16:27:38 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/wuOlcGt0jzkSnXA-kkPJHA?",
+    "raw_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef30faca968ffd0c6ddbad.html",
+    "prettify_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef30faca968ffd0c6ddbad.prettify",
+    "total_time_taken": 6.31
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 50,
+    "num": "50",
+    "place_id": "wuOlcGt0jzkSnXA-kkPJHA"
+  },
+  "search_information": {
+    "total_results": 521,
+    "business": "The Consulate"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 521
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Eric Q.",
+        "user_id": "LXYDAquzwh-apDFQmY15bA",
+        "link": "https://www.yelp.com/user_details?userid=LXYDAquzwh-apDFQmY15bA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uZB1ZJltTXS5ktQTS9TFAA/180s.jpg",
+        "address": "GA, GA",
+        "friends": 1,
+        "photos": 11,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Whimsical. Artsy. Low-key sheikh. The service impeccable. My server Ted knew the menu and tasted many of the items in it. So much to choose from! Settled on the Bulgogi Squid Ink Pasta dish. Sweet with a hint of spice and just an all around delight to my palate! I'll definitely be back.",
+        "language": "en"
+      },
+      "date": "2023-10-03T19:32:25Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/i7buMPVXKWvKCUZCc5Igsw/o.jpg",
+          "caption": "Bulgogi Squid Ink something..."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eDjaMfopX26TCc71wPBkow/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are glad you enjoyed, Eric!  We look forward to your next journey with us!",
+          "date": "2023-10-05T01:11:47Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "LeBain L.",
+        "user_id": "K0k_f6tAJWejY33H7_Nx8g",
+        "link": "https://www.yelp.com/user_details?userid=K0k_f6tAJWejY33H7_Nx8g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qbXj435s-jb7XOETiW0iYg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 8,
+        "photos": 197,
+        "reviews": 91
+      },
+      "comment": {
+        "text": "Very fine dining with a menu that changes quarterly. Full bar, intimate seating. Behind the Federal Reserve adjacent to the Midtown MARTA station.",
+        "language": "en"
+      },
+      "date": "2023-12-09T00:12:12Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "LeBain, we are glad you enjoyed and we look forward to your return!",
+          "date": "2023-12-12T02:51:30Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Vanessa D.",
+        "user_id": "h3gvu33m72hWHiwO8etfrw",
+        "link": "https://www.yelp.com/user_details?userid=h3gvu33m72hWHiwO8etfrw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YHOBuxzQnUWs-nFSbF1gyg/180s.jpg",
+        "address": "San Francisco, CA",
+        "friends": 200,
+        "photos": 2667,
+        "reviews": 804,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "TL;DR\nAmbiance: 11/10\nService: 13/10\nFood: 7/10 (this is specific to my dish as described below)\nDrink: 9/10\n\nFull story: \nThis is my second time at The Consulate. My first time was over a year ago so I couldn't tell you which country was being featured, but I remember enjoying the meal significantly. This time, Cambodia was the featured country. Our server was ABSOLUTELY fantastic. He asked us our names and remembered them! I have never ever had a sever ask my name at the start of the meal before. It was really nice. To drink, I started with the Cambodian \"island iced tea\". It has mezcal in it and I'm currently in my mezcal phase. It was pretty tasty. My friends had another drink that was dark red, I don't recall it's name but that was real tasty as well. My second drink, I asked our server for something with mezcal and he got me a drink with the word \"naked\" in it. I liked it. But my friends got a coconut tequila drink that, because it was made after my drink in the same shaker, tasted like mezcal (instead of tequila) and that was hands down my favorite drink. Because my friends hate mezcal, they didnt like the drink so they had it redone in a fresh shaker so that it tasted like tequila, but I didn't like it because I'm not a huge fan of tequila.  Basically me and my friends have opposite taste in drinks.\n\nFinally to eat, I had the Lok Lak (Cambodian Pepper Beef). This had a grandiose amount of pepper, honestly more than I expected. So the dish was really spicy, which I loved, but to be honest, the amount of pepper just was a bit too much for me; tasted too \"peppery\" (and I love pepper). So for this dish specifically, I'd give it a 4/5. Got a side of white rice (not included) which went well with the dish (though I feel like noodles would have tasted delicious as well). The rice and meat together was definitely enough for 1 person.\n\nLoved the ambiance and our server literally volunteered to snap photos of us both at our table and the lounge area. He knew what he was doing and he was doing it extremely well! \n\nNext month is South Korea. I'm so sad I'll be missing it. \n\nCan't wait to be back!",
+        "language": "en"
+      },
+      "date": "2022-11-20T21:31:33Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/O_0FnqRxvjXFKYacYersgQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zlj90IJy9mG4oDzGbOZ8bQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vj2TvsCMkpflWjtTzET6yA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZVbqU_uZfZeeaoikcRLoMw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wPgfpCJX83w_JfdbwR4PZg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PufZ3TP2DrEdIEL4H0zEaQ/o.jpg",
+          "caption": "Lok Lak (Cambodian pepper beef)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rLqJ6p9tSNj0uAfdKj--oA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AeNQfSFU_IR66U8g7o8PDw/o.jpg",
+          "caption": "Cambodian island iced tea (middle), forgot the name of the other drinks"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vcg7-moPcN2sNJ356cGMHQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Dwzp-tzebBaRlaYhOw4iWw/o.jpg",
+          "caption": "Lok Lak (Cambodian pepper beef)"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Vanessa, kudos on the no phone rule!!  We are glad you enjoyed!!!",
+          "date": "2021-09-15T03:04:02Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "George O.",
+        "user_id": "O55xLfdTuFb4vWQep8kSVQ",
+        "link": "https://www.yelp.com/user_details?userid=O55xLfdTuFb4vWQep8kSVQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JkGZgpiBGWY8WFzngsUJnQ/180s.jpg",
+        "address": "Old Aurora, New Orleans, LA",
+        "friends": 1,
+        "photos": 166,
+        "reviews": 99
+      },
+      "comment": {
+        "text": "Creative dishes & drinks in a super cool and trendy setting w a a portion of the menu that stays the same year round and another portion that rotates to various countries every 3 months. The service was spectacular w many vegan options. However, the portions are relatively small and the seating is cramped. You won't be able to avoid overhearing the conversations of other patrons as we the table are almost on top of each other. The prices are about what you'd expect for such a trendy place. This is definitely a spot I'd recommend. Loved it!",
+        "language": "en"
+      },
+      "date": "2023-09-19T21:05:34Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/A1Jk7iFh5EJ7z3_DoqiKeQ/o.jpg",
+          "caption": "Japanese fried chicken & rice waffles (foreground), vegan jollof rice (background)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8LCUsIpVIlCD_G1jF0q5XQ/o.jpg",
+          "caption": "Seaweed salad"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are truly glad you enjoyed,  George, and look forward to your return! We do have 2 areas that have tables next to each other, but most of the restaurant is made up of booths. Feel free to request one upon your next visit for a more secluded dinner.",
+          "date": "2023-09-26T23:01:28Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Nav R.",
+        "user_id": "qbsSx05FiIkQGvRHEiKAtw",
+        "link": "https://www.yelp.com/user_details?userid=qbsSx05FiIkQGvRHEiKAtw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1XodxwhdGVR3D8g7n0Pf7A/180s.jpg",
+        "address": "Long Beach, CA",
+        "friends": 3,
+        "photos": 130,
+        "reviews": 184,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "A grand setting, especially the waiting area with the old-school lounge chairs. Although we had a reservation, we still had to wait 20 minutes for our table. Large menu, though I really wish they had more options for vegetarians. Our waiter was very helpful going through the menu. Unfortunately, because of the delay in seating, our meal felt a bit rushed as they were closing. I will give my meal a 3.5/5, rounding up to 4 for the ambience and cool concept.",
+        "language": "en"
+      },
+      "date": "2023-01-31T02:36:03Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5emebOq8Nht6HJG60DbEXg/o.jpg",
+          "caption": "Vegetarian noodles"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are glad you enjoyed your visit Nav! Hopefully you did not miss the 11 vegetarian dishes on our menu! Our executive Chef is a vegetarian! We have had guests get quite comfortable and overstay the 2 hour suggested time. So sorry! We look forward to your return!",
+          "date": "2023-02-02T02:30:38Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Lee L.",
+        "user_id": "IWH4WWZP-jgvwVIH5TTAYg",
+        "link": "https://www.yelp.com/user_details?userid=IWH4WWZP-jgvwVIH5TTAYg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/X20z9R-sbM5G3dZaMAC_FQ/180s.jpg",
+        "address": "Marina del Rey, CA",
+        "friends": 89,
+        "photos": 258,
+        "reviews": 609
+      },
+      "comment": {
+        "text": "Overall, a positive experience but for the price and flavor profile, it left me wanting more.\n\nConcept: Cool idea in that there are basically two menus. One is the staple of global cuisine and the other is a monthly rotation of a new country. When we came as a party of two on a Tuesday night in May 2023, it was Mexico.\n\nThe ambiance is great - kind of old school meets cluttered chic. They have big booths that make you feel special and important. \n\nService is A+. Our server (unfortunately I forgot her name) was lovely, friendly, and helpful. While she didn't make specific recommendations, she really knew the menu - even the new stuff.\n\nBut the food. It was fairly disappointing. Maybe because I'm from LA and have been to Mexico more times than I can count, but the food was kind of mediocre. We ordered everything from the Mexican menu, which included esquires (corn in a tortilla bowl, real basic with no flavor), beef birria tacos (not bad), and mole chicken (meh). There was NO SPICE at all and when I asked for salsa picante the server was confused but came back with some tomato sauce with jalepeño? It was weird.\n\nI also ordered a basic margarita that was awful. I don't know how you mess that up. The other cocktails my friend ordered that were more \"American\" were tastier.",
+        "language": "en"
+      },
+      "date": "2023-05-18T01:30:37Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 2,
+        "funny": 2,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for your visit and feedback. Spice can always be added , but not taken away. rather than have a dish that many would feel is too spicy for them to enjoy, we opt for a mild level with some dishes. We do not have any Salsa Picante or many other items that are in abundance in a Mexican Restaurant. We feature the dishes for 90 days, then it is on the another global destination. Your server tried their best to accommodate your request.  A mention to adjust your drink can easily be made once you notify your server.",
+          "date": "2023-05-19T04:52:28Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Glenn M.",
+        "user_id": "TvXBQUOllvKLuMyD0hYt4g",
+        "link": "https://www.yelp.com/user_details?userid=TvXBQUOllvKLuMyD0hYt4g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FLhg_s17FSWIvV53Bm_KSQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 20,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "A Perfect Proposal...\n\nWhere can I start? There is so much that's right with this restaurant, from the ambiance, to the amazing rotating global menu, to the next level service and care. I made reservations here to propose to my (now) fiance last weekend and explained what I was looking for with Mia. I cannot say enough about how amazing she and the entire staff were on such a special night for us. \n\nWhen you walk into the restaurant, everything is so well curated around the establishment. There seems to be an interesting story behind every piece on the wall. I really appreciate when care is placed on the interior design of a restaurant and it represents so much. \n\nWe ordered the Korean BBQ Duck Confit, the Octopus alla Griglia, and the Whiskey-Braised Lamb Shank. All three dishes were great, but my personal favorite was the Korean BBQ Duck Confit. And for drinks, we had the Banshee Scream and the Moroccan Sunset. Both were very good as well, but the favorite was the Moroccan Sunset. And because it was a particularly special night for us, they were kind enough to gift us a candle lit brownie dessert and a champagne toast.\n\nNow the service really made the night special for us. From Mia choosing the best table in the house for us, to the card that was signed by the entire staff, and the great service from Jordan (kinfolk). They even chose the exact right song to play when I proposed (and that young lady's name escapes me because I was so nervous, but a BIG thank you to you as well - you know who you are and you've confirmed our first dance song!). The entire staff and everyone in the restaurant went wild when she said Yes! So what was already a great night, was made that much more special by everyone at The Consulate.\n\nWe'll see you all again soon...",
+        "language": "en"
+      },
+      "date": "2023-06-14T07:19:18Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Glenn, we are honored and thrilled that we were a part of this special , memorable evening! Thank YOU for selecting us! We are truly glad for you and look forward to your next visit!",
+          "date": "2023-06-15T01:29:18Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kamilah B.",
+        "user_id": "La0JEsFTfVXkmloUpTiDgA",
+        "link": "https://www.yelp.com/user_details?userid=La0JEsFTfVXkmloUpTiDgA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3h2GDcKX7_XWoaOky6DvtA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 6,
+        "photos": 30,
+        "reviews": 62
+      },
+      "comment": {
+        "text": "The Consulate is the product of a daring, adventurous chef and a detail obsessed interior designer. Both native New Yorkers, Douglas and Mei have made Atlanta their city of choice to call home.\n\nThe Consulate is a place to house dishes from the world over...under ONE roof. Every time I visit The Consulate I have a unique experience since their menu changes every quarter. We visited for the Ireland menu and I was bit hesitant due to my limited knowledge of Irish cuisine. But I was pleasantly surprised! That Chopped Cheese is something else. Our server Cherry recommended it and when the runner brought it out he had nothing but positive things to say. \n\nDef stood out! We brought half home (it's quiet large) Even the next day it held together. Thanks for giving us a new perspective on Irish American food!\n\nStaff is well trained and knowledgeable, and the service is always great.\n\nWe appreciate The Consulate for its unique concept, thoughtful interior design and amazing food!!!",
+        "language": "en"
+      },
+      "date": "2023-06-25T18:30:56Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Kamilah, thank you for understanding what we strive to provide! A fun, adventurous, yet quality dining experience. So many people do not seem to get us, and it is refreshing, when someone does. No attitudes, relax, and enjoy. Thats what we love to see. We look forward to your return!",
+          "date": "2023-06-27T23:22:36Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Maleah G.",
+        "user_id": "CYrzAb6q6EQhdZKGFOIPlg",
+        "link": "https://www.yelp.com/user_details?userid=CYrzAb6q6EQhdZKGFOIPlg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4yUly_zd8IrLEKCFhQMq9A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 223,
+        "photos": 315,
+        "reviews": 128,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The Consulate is a great restaurant with such an interesting concept. With a 90-day rotating menu, one lucky guest decides which country the restaurant will base their custom cuisine for patron to seasonally enjoy. We visited during the Korean menu.\n\nWe had a party of nine and sat in a private room, which created an intimate atmosphere. Our server, Wesley, not only provided excellent service, he also memorized all nine of our names as well as everyone's order without fail or error. The drink menu was the icing on the cake. \n\nI had the pork belly, Korean fried chicken, and kimchi. All three dishes were top-tier and made to perfection--*chef's kiss*. \n\nThe decor in the restaurant is creative and fun. I truly enjoyed my experience. I wish the location was easier to navigate and get to. Other than that, I highly recommend this spot!",
+        "language": "en"
+      },
+      "date": "2023-01-15T19:33:31Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Fun fact: We actually preferred a tucked away location because we did not want EVERYONE to know about us. We have proudly kept our elegant, sophisticated clientele for 7 years! The first time may be a challenge, but your next will be a breeze! We look forward to your return Maleah!",
+          "date": "2023-02-02T02:35:14Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Taina J.",
+        "user_id": "SIOvHgy6wPMv4KGHjN8Jcg",
+        "link": "https://www.yelp.com/user_details?userid=SIOvHgy6wPMv4KGHjN8Jcg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OUWxichPgqWZK5CYH7yIkA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 54,
+        "photos": 135,
+        "reviews": 94,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My friends surprised me by taking me here since I've been dying to try it ever since I heard the concept of the restaurant! It did not disappoint! The food was some of the best I've had, and our server was extremely helpful with the food and drink suggestions! I also love the ambiance of the place. I definitely will be going back!!",
+        "language": "en"
+      },
+      "date": "2023-01-15T14:12:46Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are glad to hear you truly enjoyed your stay with us and hope to see you again!",
+          "date": "2023-02-02T02:36:09Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Lawrence M.",
+        "user_id": "1omgu-DASXb_jUP2I1FxRg",
+        "link": "https://www.yelp.com/user_details?userid=1omgu-DASXb_jUP2I1FxRg",
+        "address": "Dallas, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Good drinks and food terrible parking . Hostess was not accommodating but bartenders were wonderful!",
+        "language": "en"
+      },
+      "date": "2024-02-08T12:25:19Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Sending a DM regarding our host. Parking? We are the only restaurant in midtown with FREE, secure validated parking. It is mere steps away, and the entrance is on West Peachtree. \nWe are glad you enjoyed your visit and we look forward to your return! Paraguay starts March 1st!",
+          "date": "2024-02-09T02:20:29Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jim D.",
+        "user_id": "ayMuHv_alTih10mbZ9HgZQ",
+        "link": "https://www.yelp.com/user_details?userid=ayMuHv_alTih10mbZ9HgZQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QB_KYOEPQRH0In7Pjm_1iQ/180s.jpg",
+        "address": "Chicago, IL",
+        "friends": 131,
+        "photos": 4526,
+        "reviews": 657,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place has a cool concept. The staff spin a globe & wherever it lands that's the inspiration for the menu. Tonight was \"Cambodian cuisine\". We started off in the bar with a couple of cocktails while waiting for our tables. The cocktails were good enough but lacked potency in regards to alcohol content. I have to mention that I despise expresso martinis which one of cocktails mirrored but here Twas delicious. Most of the food was ok but that pistachio sea bass was delicious. There are a few hits amongst several missed but the place is solid & eclectic.",
+        "language": "en"
+      },
+      "date": "2022-11-25T20:39:42Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OWurZFvrBkcSa3nBZ_nchw/o.jpg",
+          "caption": "Cocktails"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Kjui27yh8rSYbRsw7ACvpQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ygHW7jgusYAkOo7C548Eqg/o.jpg",
+          "caption": "Cocktail"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/j-Coi8jtspQAuczK2qQ7xg/o.jpg",
+          "caption": "Mmmmhmmm"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zDCs2leLWVEeY8moG8AF0Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2OTfZdLJnERlQBOsoI4rXA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/T9xJaqaR8VFKk9cJs6oDuQ/o.jpg",
+          "caption": "Alloco CôTE D'IVOIRE. (vegetarian dish) fried Plantains, crushed pistachios and peanuts, spiced tomato sauce."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Lpnz_lU6QdNRp_e96cNBPQ/o.jpg",
+          "caption": "Cheese Trio Plate  INTERNATIONAL rotating fine cheese trio, chefs select jams, crostinis, olives, and seasonal fresh fruit."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MbXlrYgKW1nxMWe6V56uag/o.jpg",
+          "caption": "One of the \"unisex\" restrooms"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RN5wDAkaYNfgO-o3cpGTBQ/o.jpg",
+          "caption": "Cocktail"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are glad you enjoyed. Our cocktails are all jiggered and have quite a kick, though sometimes masked in complexity. Our Korean menu starts Dec 1st",
+          "date": "2022-11-26T05:33:08Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Nitin M.",
+        "user_id": "Mwr2lIRpUodfk-C_vSf4Pg",
+        "link": "https://www.yelp.com/user_details?userid=Mwr2lIRpUodfk-C_vSf4Pg",
+        "address": "Duluth, GA",
+        "friends": 10,
+        "photos": 69,
+        "reviews": 94
+      },
+      "comment": {
+        "text": "Our family of five dined here on a Friday evening for a birthday dinner.  \n\nWe were fortunate to get a corner table by the bar.  Be sure to take in the warm, cozy, classy décor, which includes an exquisite collection of art pieces. You feel like you have diplomatic immunity, and the discussion agenda should be topics on a global scale. The lounge area off to the side makes you want to have a neat peaty smoky Islay Scotch.  Very tastefully done interior.\n\nOur server was friendly yet very professional and provided us a great overview of the menu options.  Cocktails we had were on point.  \n\nWe started off with Korean BBQ Duck Confit, which was savory without being too rich for an appetizer. \n\nThe entrée we ordered were: The Brooklyn Irishman Chop Cheese, Berbere Lamb tibs, Black Truffle Bulgogi and Chiles en Nogada. The Chop Cheese surprised us all.  Every entrée was good.  \n\nFor dessert we had, Honey Bubble Tea Taro Brownie and Turkish Coffee Cheesecake.  The Turkish Coffee Cheesecake is a must order item, best dessert I have had in a while\n\nWe have been wanting to visit for a while and glad we came.  We will return for another amazing experience. If you happen to be in Atlanta, do visit and make a reservation in advance.\n\nThank you to the Consulate Team.",
+        "language": "en"
+      },
+      "date": "2023-07-22T02:19:41Z",
+      "rating": 5,
+      "tags": [
+        "2 check-ins"
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for choosing us to share  your special day with.  We are truly glad you enjoyed and we look forward to your return!",
+          "date": "2023-07-22T04:16:52Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Miranda W.",
+        "user_id": "u0r3AHuOw9l_y_OkrN5RIQ",
+        "link": "https://www.yelp.com/user_details?userid=u0r3AHuOw9l_y_OkrN5RIQ",
+        "address": "Atlanta, GA",
+        "friends": 64,
+        "photos": 0,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Food was great and the server was amazing but I'm disappointed with the service provided by the hostess. We made reservations for 7PM, and we e didn't get seated until 7:42PM. Given we were 7min which we had called ahead saying we were having trouble with finding the parking lot. We were given a 15-20 minute wait time which kind of defeats the purpose of a reservation but okay since we were a bit late. However, it took more than 30 minutes to get us seated and when I expressed I was upset it took that long the hostess just stared blankly at me. At least apologize saying sorry for the wait and it's busy or something.... Common customer service knowledge would be to do that.",
+        "language": "en"
+      },
+      "date": "2024-02-09T01:06:06Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are glad that you enjoyed your service and your meal. Madison is new and still a bit green with knowing how to respond to guests. She does not want to say the wrong thing, so she sometimes remains quiet. We apologize for the wait , as we have been extremely busy in recent weeks and guests sometimes linger well past the suggested dining time. We look forward to your return!",
+          "date": "2024-02-09T02:18:11Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Dave C.",
+        "user_id": "i0p2dfz8-UWqualLHYa_2Q",
+        "link": "https://www.yelp.com/user_details?userid=i0p2dfz8-UWqualLHYa_2Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_5Siv6o_AW8oLtrN-ZOryg/180s.jpg",
+        "address": "Rochester, NY",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "For several reasons, wife, Valerie and me chose to celebrate our 32 year wedding anniversary in Atlanta.  After seeing a feature on The Consulate at  https://aspire.tv/shows/city-eats-atlanta/episodes/the-consulate/ - I decided we must go and check it out.\n\nThe Consulate did not disappoint, we enjoyed an outstanding experience from appetizer through dessert.  First, the ambiance, decor and vibe were outstanding - the music, people and energy were just what I envisioned for our celebration. We started with the Havana Egg Roll which was amazing - moist marinated pork, crispy egg roll with mojo sauce to compliment ... we couldn't get enough.  Since it was the 1st night of the Japanese cuisine, Valerie selected the the Tonkatsu pork chop which she enjoyed.  I had the Cote D'Ivoire Jollof rice with cubed sirloin from the Resident menu.  I must say the Jollof rice with vegetables was savory with the perfect spice (Suya) which was quite satisfying and delicious.\n\nLastly, the service was exemplary - thank you Cecelia!   We were blessed to be seated by 2 wonderful couples in those cool, comfortable, crushed blue velvet sofa chairs - one couple celebrating a birthday and the other their 10th wedding anniversary ... Wow.  So when you're looking for an unique dining experience in the Atlanta area to celebrate a special occasion, you must visit The Consulate. \n\nMy compliments to Doug, Mei and the entire staff!",
+        "language": "en"
+      },
+      "date": "2023-09-02T10:52:22Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hey Dave!! Great chatting with you and we are glad you enjoyed!! We look forward to your next excursion wit us!",
+          "date": "2023-09-02T23:37:00Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Joanne L.",
+        "user_id": "xCxn7znxsm2zjIs5Lqfsow",
+        "link": "https://www.yelp.com/user_details?userid=xCxn7znxsm2zjIs5Lqfsow",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 69,
+        "reviews": 26
+      },
+      "comment": {
+        "text": "At The Consulate Atlanta -- Wanted to try this establishment for a long time but schedule was packed but finally made it - cute concept \n\nThe Consulate changes their menu every ninety days to a different country, currently Ireland is the country they've decided to highlight with items on the menu that give guests a chance to experience the country - not all the dishes we chose were irish but we had a great time \n\nFound out Shepherds Pie is an irish dish - had no clue \n\nNext is Japan",
+        "language": "en"
+      },
+      "date": "2023-07-22T19:56:54Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1s5BU26L6nVV1YfRXOsapQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wJYGgBLdNW7uul1g0iKDJg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/irzUGPwqcr31zikmTL9A6g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ftaxk5DNOQm1J24ZrSBmgw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are glad you enjoyed Joanne! Japan starts Sept 1st",
+          "date": "2023-07-26T21:19:30Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Clyde C.",
+        "user_id": "pNQaolZ28Kq_aLR3R0lYAQ",
+        "link": "https://www.yelp.com/user_details?userid=pNQaolZ28Kq_aLR3R0lYAQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/78UZ1wilHyRD37r5i5If-w/180s.jpg",
+        "address": "Cumming, GA",
+        "friends": 34,
+        "photos": 165,
+        "reviews": 50
+      },
+      "comment": {
+        "text": "My wife wanted to visit this restaurant as  part of her birthday celebration. We arrived and parked in the parking garage. We arrived and were promptly greeted. The decor is incredible! \nAll of the sodas are bottled...the way good soda should be. We started with the King's Ransom - charcuterie. It consisted of prosciutto, salami, and duck breast. The cheeses were a goat cheese soaked in red wine, a thyme cheese, and a blue cheese. There was dried apricots, fresh grapes, candied walnuts, and those tiny pickles. OFF THE CHAIN!\nWe also ordered the Cuban sandwich egg rolls-meh- the rolls were a bit too big and the pork was a bit dry. There was also no Swiss cheese. The mustard on the side was great.\nThe son ordered the octopus and it was very well prepared. The waitstaff was impressed with an 11year old getting the octopus.\nThe wife ordered the Birria tacos and loved how nicely the meat was seasoned. She also ordered the street corn and was disappointed that it was a cold dish as one tends to think warm with that dish.\nI had the Birria Ramen. It was a very good dish with shredded short ribs, veggies, Birria consume', and topped with a fried egg. Great choice on the fried egg!\nFor desert, the son ordered the brownie that was more cake like than brownie. It was also dry. I ordered the coffee cheesecake that was okay but nothing I would order again. The wife had the apple cake that was shaped like an apple. It was YUMMY!\nI also had their version of an old fashioned which was decent.\nAll in all a solid experience and I love their focus menu rotates every 90 days. Definitely going back.",
+        "language": "en"
+      },
+      "date": "2023-04-02T02:03:46Z",
+      "rating": 4,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D_gcCfPl2q0lELY_j3Czow/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VbYY6z8PrCDarmRAlYyNMg/o.jpg",
+          "caption": "Octopus"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/A0yxemJe1T-E6o0JrtSdMw/o.jpg",
+          "caption": "Apple cake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/avdjny9-otitKdYFSyvViQ/o.jpg",
+          "caption": "King's Ransom"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JS1pRU7qjQ-Dl3gNrZZJkQ/o.jpg",
+          "caption": "Birria Ramen"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jNBn-0LlGe3YtY9Hzri-aw/o.jpg",
+          "caption": "Birria tacos"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are glad you enjoyed Clyde, and look forward to your next visit!",
+          "date": "2023-04-22T00:16:32Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ashley M.",
+        "user_id": "YMYb73K3Dv3oiac4mADJSg",
+        "link": "https://www.yelp.com/user_details?userid=YMYb73K3Dv3oiac4mADJSg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sGoA4FMUvPPCltVeef7Zxw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 935,
+        "photos": 2904,
+        "reviews": 705,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Okay, I have absolutely no idea how it took me this long to come here. This place has the trifecta in my book: great service, amazing food, incredible drinks!\n\nI met a couple of coworkers here spontaneously for Friday night happy hour. We didn't have reservations and they were fully booked all evening, so we found ourselves in the waiting area while we hoped for seats to open up at the bar. While we were waiting, a server came by several times to check on us and bring us drinks. I ordered the Oddjobs Punch: Elijah Craig small batch bourbon + lemongrass ginger syrup + lemon + china-china + St. Germain. Funky drinks are usually hit-or-miss for me, and I didn't have high hopes for this one, but this drink was absolutely PERFECT! It was so delicious I ended up with this same drink the rest of the evening. Try it, you'll have no regrets. My coworkers love The Consulate Elixir, described as a reconstructed \"modern\" old-fashioned. Maybe if I ever venture out, I'll give that one a try.\n\nAfter lounging in their waiting area for ~40 minutes, the server notified us that one of high-top tables by the bar was opening up, and we could pull up a third seat so we could have a table. HOW ACCOMMODATING! We loved our server so much that we requested he serve us at the bar, but he explained the bar area is serviced by the bartenders, and even when we switched over, there was no skipped beat in our stellar customer experience. Master Mixologist Cle served us for the remainder of the night and he was incredibly lively.\n\nOn to the food! As you know, The Consulate menu changes every 90 days so don't get too hooked on your favorites. Keep coming back to try new things, amirite? Friday night, we visited the Ivory Coast. I tried the following:\n\n-Goa Coconut Shrimp: Breaded and coconut encrusted, fried Jumbo shrimp, Sauce d'Arachide peanut sauce.\n-The  Havana  Egg  Roll - CUBA: 10 hour roasted pork, honey ham,  asiago cheese, mojo mustard,  pickle spear        \n-Choukouya - Ribeye Cubed Steak, Suya seasoning, grilled onions, red and green peppers, peanuts, garlic, ginger.\n\nCle steered me away from ordering the $42 American VIP and instead directed me towards the Choukouya. I am so glad he did! Every dish was so phenomenal it is very difficult to pick a favorite. All the dishes were bursting with flavor and fresh ingredients. I am so glad we came here. The atmosphere, food, drinks, service is perfect. I can't wait to come back!",
+        "language": "en"
+      },
+      "date": "2022-01-23T20:08:39Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 8,
+        "funny": 2,
+        "cool": 7
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are so glad you discovered us Ashley! We are glad you enjoyed! Yes, Cle was smart in suggesting our Visa dishes since it was your first visit. We want you to try the dishes that are rare in our great city of Atlanta! The VIP Steak is for the less adventurous, more traditional diner.  I suspect he sensed your great spirit of exploring! We look forward to your next visit!-  March 1st begins Iran!",
+          "date": "2022-01-26T00:19:24Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Mia W.",
+        "user_id": "gZhs-mpzmL3bU8Q4m9Z65Q",
+        "link": "https://www.yelp.com/user_details?userid=gZhs-mpzmL3bU8Q4m9Z65Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BYNyUkBI0s05schijhu74w/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 510,
+        "photos": 26,
+        "reviews": 32
+      },
+      "comment": {
+        "text": "My bf and I had our first date here in 2020 and I've been coming back (with him) ever since. The green beans are a staple and my fave!",
+        "language": "en"
+      },
+      "date": "2023-09-22T22:07:03Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Mia, we are truly glad you enjoyed, and we look forward to your return! We are glad we hold a special place in your history!",
+          "date": "2023-09-10T03:04:56Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Andrea S.",
+        "user_id": "D6vJyIEtGuSagJgZAXu1bw",
+        "link": "https://www.yelp.com/user_details?userid=D6vJyIEtGuSagJgZAXu1bw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YI_JTW6ShrCSskFlXqScmQ/180s.jpg",
+        "address": "Orlando, FL",
+        "friends": 616,
+        "photos": 1953,
+        "reviews": 497,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We enjoyed dinner fare from all around the world. My favorites -- the Havana Roll inspired by Cuba, the Pancit inspired by the Philippines, & the Alloco inspired by the Ivory Coast. \n\nTravel to Atlanta for flavors from all around the world",
+        "language": "en"
+      },
+      "date": "2022-01-14T04:09:20Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7A-eWS-1uFhrGez0TNV6yg/o.jpg",
+          "caption": "Havana rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NoyQ4lKrVwXOSG7I3F76Vg/o.jpg",
+          "caption": "Sitting area"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EZ3N3ZKdIa6otFFnfwzjsg/o.jpg",
+          "caption": "Decor"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/C3ETpeMt604RFoxQzF31Hg/o.jpg",
+          "caption": "Group dining"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JXT620ifEvMVd8wS2Kge1Q/o.jpg",
+          "caption": "James Bond bathroom"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2TjyGPU8jiU0EwNws-kkUQ/o.jpg",
+          "caption": "Moroccan sunset"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ygt1nBn5u5_JHEH1W3X5Eg/o.jpg",
+          "caption": "Waiting area"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7W241hpbtCZjul7bN_Oj8w/o.jpg",
+          "caption": "Charcuterie"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HZEj-5X0j7omyuHNqRVdPw/o.jpg",
+          "caption": "Decor"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/b7oPMC8kXOk8a2oFtSjt6A/o.jpg",
+          "caption": "Charcuterie"
+        }
+      ],
+      "feedback": {
+        "useful": 5,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Andrea, we are truly glad you enjoyed, and look forward to your next visit! ps - Iran starts March 1st!",
+          "date": "2022-01-20T00:31:09Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Lauren T.",
+        "user_id": "d14E4Amf9Q116n1vuMbj-A",
+        "link": "https://www.yelp.com/user_details?userid=d14E4Amf9Q116n1vuMbj-A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/suMPlOgkHgbtPc4lPAZs_w/180s.jpg",
+        "address": "Bridgeton, NJ",
+        "friends": 1,
+        "photos": 72,
+        "reviews": 82
+      },
+      "comment": {
+        "text": "Beautiful place with a variety of options. Food was very delicious and our server was great.",
+        "language": "en"
+      },
+      "date": "2023-06-25T12:22:48Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SL8wdP1Lro4MdVnL-zRTFw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/b5JujeHTMMf38WX4Ltixig/o.jpg",
+          "caption": "Seafood Stew"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/svlF5OaUxQtMs6WxL-V04Q/o.jpg",
+          "caption": "Sheppard Pie"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are truly glad you enjoyed your visit. That is why we are here. To provide something a bit different, but quality. We look forward to your return, Lauren!",
+          "date": "2023-06-27T23:23:49Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Liselle B.",
+        "user_id": "WN9eL-1SQljcrzH9i8mEAw",
+        "link": "https://www.yelp.com/user_details?userid=WN9eL-1SQljcrzH9i8mEAw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QDsNI1U6msvYUBOkMMSKyw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 106,
+        "photos": 4001,
+        "reviews": 487,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "What can I say? 5 years later and I still enjoy patronizing this restaurant. Went in on a whim for an after dinner set and sat at the bar, where Clé's service was excellent as he served up delicious cocktails.\n     I was totally feeling the selection of music that was being pumped out of the overhead speakers throughout the restaurant. Swaying to the music as I sipped my drink, coupled with the nice décor and ambience that surrounded me, made for a chill, yet sophisticated experience.\n     I was a bit sad that I had already eaten because I would have loved to try some of the dishes from the featured country this time around so, I guess that means I will be returning much sooner than I thought to dine on that Côte d'Ivoire fare. In the meantime, I will say that I was fully satisfied with my latest visit.",
+        "language": "en"
+      },
+      "date": "2022-01-07T13:22:43Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/A7y9qlzUbtV4td6smbyr7g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/C1kvs4ErlHfsp7TEl9HsVw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HKOVdn1avukiU_1TTjvN2w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Q9CQ1RCWnV9NHjHs_xQneQ/o.jpg",
+          "caption": "Great décor!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ildDOpOqhEcc9FGdP63ClA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3taMOVmXPgImW-zIhq4t5w/o.jpg",
+          "caption": "Love the rotary phone!"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 0,
+        "cool": 5
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Liselle, transport is the magical task we try to do each and every night!! We love Atlanta, but want our guests to escape for a spell! We hope to see you again!",
+          "date": "2017-02-18T04:13:08Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Scarlett F.",
+        "user_id": "OiSLpZwHZ5PZM-vyDCF0lA",
+        "link": "https://www.yelp.com/user_details?userid=OiSLpZwHZ5PZM-vyDCF0lA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vZ1RuMeJ5qXHHHAtnBow3w/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 176,
+        "photos": 492,
+        "reviews": 183,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place was spectacular. The decor was astonishing. I like how friendly and knowledgeable the servers were. They have a changing menu every week, and let's you get a chance to taste dishes all around the world. The bathroom is very interesting, it has a variety of machine guns along the walls. My dish was very good, yet different. It was an Ethiopian entree.",
+        "language": "en"
+      },
+      "date": "2022-08-29T17:48:50Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jmM31jvbJ3Em4MdEDEPcCQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wcsqGjYQu4pjGp1xZXMJYQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XaNFmXKtm-cHXM54jXkIEQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/p47grNIs7ZTBolzXo5T7Iw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7frSuDdvqjjFviBaWfcxUQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are glad you enjoyed, Scarlett! Our menu rotates to a new destination very 90 days! Our brand new menu started today - Sept 1st and is Cambodia! We look forward to your return for it!",
+          "date": "2022-09-02T03:12:37Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "angela c.",
+        "user_id": "MdqCWe2wD7ibqJy0BycNTA",
+        "link": "https://www.yelp.com/user_details?userid=MdqCWe2wD7ibqJy0BycNTA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/d092fLdb5XQduHh3hCjrrg/180s.jpg",
+        "address": "Cumming, GA",
+        "friends": 219,
+        "photos": 471,
+        "reviews": 118,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Try this place ASAP. The menu rotates between the dishes of various countries. This month the menu was based on Ukrainian dishes. I dined with some besties. I had the Chicken Kiev. It was delicious. It's a legendary breaded Ukrainian dish made with a Springer Farms chicken breast encasing garlic butter, herbs and spices. It was very crispy on the outside and succulent and moist inside. It was served with house mashed potatoes. I did not try the pork dumplings but my friend really enjoyed them and said that she will get them again. Not pictured is a charcuterie board. It had both sweet and savory options. This was a great dining experience. I will come with my husband the next time so that he can enjoy this gem.",
+        "language": "en"
+      },
+      "date": "2022-08-21T04:43:45Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Q7pXE-GMImvuy72_kfCUHw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eN2Tbua5zb9ya72ZIaKh-w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6ouYPYPWKrh_5-r9lvxyKw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_D5BcHw3H09P37HKorR5rg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Angela, we are so glad you enjoyed and look forward to you bringing your husband!",
+          "date": "2022-08-23T01:39:28Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jassu's J.",
+        "user_id": "C3nt0sEGm8Ky0MF2VD-8Gw",
+        "link": "https://www.yelp.com/user_details?userid=C3nt0sEGm8Ky0MF2VD-8Gw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TpMBjECYUiDOj4ypjbPhAw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 18,
+        "reviews": 53
+      },
+      "comment": {
+        "text": "Always different rotating menu. Very cool concept and the food was all good. Great service, worth the date night or family hang!!",
+        "language": "en"
+      },
+      "date": "2023-10-19T15:20:01Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Jassu, we are glad you enjoyed and we look forward to your return!",
+          "date": "2023-10-20T01:44:49Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "G. R.",
+        "user_id": "vAO9hy8Po9cmyoXUQaJODg",
+        "link": "https://www.yelp.com/user_details?userid=vAO9hy8Po9cmyoXUQaJODg",
+        "address": "Quincy, MA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "The vibe is great, drinks are solid, but the food was rather underwhelming.\n\nSeaweed salad was unique and a 10/10, that's what saves this a 3rd star.\n\nTruffle Bulgogi had not one trace of truffle. Overly salty/sweet, mostly tasted like heavily reduced premade teriyaki. \n\nJoloff rice had nice spice but was badly undersalted.\n\nJapanese pancakes were just okay, the vegan bacon that came with them tasted purely of liquid smoke.\n\nOverall, I would maybe go back when the menu rotates, but was unimpressed this time through.",
+        "language": "en"
+      },
+      "date": "2023-11-05T21:29:15Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for the feedback G. R. \nNo, there is no \"pre made teriyaki\" on any of our dishes. We are a scratch kitchen.  The Jollof has minimal salt in the recipe so the many spices can shine. Salt can always be added to preference, but not taken away. \nThe vegan bacon is a trumpet mushroom, heavily seasoned with smoked paprika, salt and spices and baked in the oven. Once again, we are a scratch kitchen. no liquid smoke in the recipe.\nThe bulgogi dish has truffle oil in but it is possible a step was missed in preparing your plate. \nWhen your server checks on you, feel free to mention any of these concerns and many could have been remedied on the spot.\nAny questions of ingredients  can also be shared if curious. Our kitchen operates at a very high level of execution and expectations. Chef Lin spends untold hours perfecting each recipe and insists on the finest ingredients. Ask our vendors. Her reputation for being  a critical chef and sending back anything that does not pass her standards is something we have come to love.",
+          "date": "2023-11-06T20:46:18Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Chanelle R.",
+        "user_id": "OANKYEYwaD8PVO9dlha6LA",
+        "link": "https://www.yelp.com/user_details?userid=OANKYEYwaD8PVO9dlha6LA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dfJmcqJSK6wVKi1fMabdaA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 807,
+        "photos": 3,
+        "reviews": 31
+      },
+      "comment": {
+        "text": "The service is always amazing!! I love how the menu changes every 90 days. I'm excited to go back for Japan in September. The Birria ramen is A1.",
+        "language": "en"
+      },
+      "date": "2023-08-26T21:30:48Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are truly glad you enjoyed, and we look forward to your return...\nJapan starts Sep 1st!",
+          "date": "2023-08-30T19:02:16Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Megan M.",
+        "user_id": "ajP74H9K_jty0hEevb3NgQ",
+        "link": "https://www.yelp.com/user_details?userid=ajP74H9K_jty0hEevb3NgQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3n4P2f2xGzQDPIZALIAWlw/180s.jpg",
+        "address": "Port Clinton, OH",
+        "friends": 448,
+        "photos": 7,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Awesome as always--the new Ireland menu is great! Highly recommend the chop cheese, Shepard's pie, and Irish cream & whiskey cheesecake.",
+        "language": "en"
+      },
+      "date": "2023-06-06T01:18:39Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gMlQGOfvO3q5FcMF071lBQ/o.jpg",
+          "caption": "Irish Cream & Whisky Cheesecake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zVZ6C2kbhzg5zrXNbocA-g/o.jpg",
+          "caption": "Shepard's Pie"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9c3jAL0BJ4lTjirBhwA_AA/o.jpg",
+          "caption": "The Brooklyn Irishman Chop Cheese"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OvF_OE_zlsTGSNPcKaUT3A/o.jpg",
+          "caption": "Munster Mini's"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Megan, we are glad you enjoyed!!! thank YOU!",
+          "date": "2023-06-15T01:29:41Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Rae D.",
+        "user_id": "aLzrOdqWucITUL1bYQbubw",
+        "link": "https://www.yelp.com/user_details?userid=aLzrOdqWucITUL1bYQbubw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1GTibFtnZfEhtsmQvx5gEA/180s.jpg",
+        "address": "Chico, CA",
+        "friends": 82,
+        "photos": 5,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Great food and beautiful ambience. The confit is a must have - don't miss it! Also had the birria tacos - so good!",
+        "language": "en"
+      },
+      "date": "2023-05-05T01:43:18Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IfVWD3XblDh9THrduQV5Uw/o.jpg",
+          "caption": "Estas nueces"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are glad you enjoyed your visit with us Rae! \nWe look forward to your return during Ireland! (June1st to Aug31)",
+          "date": "2023-05-09T21:23:40Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Julia B.",
+        "user_id": "e9FubBC9486EnH-QuRbuOg",
+        "link": "https://www.yelp.com/user_details?userid=e9FubBC9486EnH-QuRbuOg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XQP1MtmTU080KA5Kv5knEA/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 54,
+        "photos": 1538,
+        "reviews": 408,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I love the concept of this place. I originally made a reservation because I saw they were focusing on Korea. When I got there, they had just changed the menu that day to focus on Mexico. That was fine because there were so many options to choose from. Starting with the drinks they were fantastic. I had gotten a specialty drink, called the sunsets, something or the other... I can't remember the exact name, but it was delicious. Loved the fruity flavor.  We started with the kings ransom charcuterie, and that was really good. I loved the candy coated walnuts and the housemaid jam. We then had the sautéed okra from Thailand, the okra was nice and tender and the sauce was really good. After that I had the polio al tequila con lima, which was a Tijuana dish. It had a mango salsa and a mango chili sauce with mashed potatoes. The dish was OK, not my favorite it was good, but nothing really stood out.  For dessert I had the kavove yabluko which was a Ukrainian honey crisp apple cake dessert with white chocolate, and salted caramel. That was really good. The cake itself was not too sweet which I really enjoyed but you could taste the apple flavors inside. I loved the white chocolate on the outside, and the presentation was fantastic. The service at the restaurant was great and love the ambience. I will definitely be back when I am in Atlanta for business again.",
+        "language": "en"
+      },
+      "date": "2023-03-02T15:41:30Z",
+      "rating": 4,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Yu9M13FFUejT1N84ORJwZA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QI7tvyy8pDRaDeGm3_gVwQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ElSomlN8bGO8U2_MmzMcSw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rqtom0B69ZzVcr7fMoHcuw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GgxhbCPai2zlSkKQvT25yQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cRa3Hiy0s5NElBrH5KZSsg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/urag-8Z-mkv4TfIFJinPCA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Julia, we are glad you enjoyed and we hope to see you again, when in Atlanta!",
+          "date": "2023-03-02T17:56:33Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Amirah R.",
+        "user_id": "GZK5jS8-gCrdJxTJCJ2J9w",
+        "link": "https://www.yelp.com/user_details?userid=GZK5jS8-gCrdJxTJCJ2J9w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XjhQ7GMdcHWd9uwEfTOC-A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "It's a rotating menu but it never disappoints. Everything on the menu can be shared. \nThe first time we went, we were celebrating my S/o achievements and our waitress surprised us with champagne when she found out which was so sweet and unexpected. We loved the food and staff so much that day that when we had family & friends in town to celebrate him graduating medical school- we had to book a reservation and again it did not disappoint! We pretty much ordered everything on the menu so we could all share & have a taste- no complaints except we wanted more!",
+        "language": "en"
+      },
+      "date": "2023-05-13T05:13:30Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Leonardo M.",
+        "user_id": "QTa2bu3xzvRlTm1eZrBbqw",
+        "link": "https://www.yelp.com/user_details?userid=QTa2bu3xzvRlTm1eZrBbqw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uY4fSy9epxSqMp77rt2tBg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 95,
+        "photos": 2,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "What an amazing experience! We enjoyed last night a great dinner with friends and we couldn't be more happy with the whole experience. Food was amazing, our waitress was the most charming and helpful woman who sadly will be returning to her home country France very soon. The ambiance is beautiful. Some of the 1 star reviews here are clearly done by entitled people that believe being a yelp elite makes them a kind of a god, how laughable and tacky. Can't wait to come back! Reservation has been made!",
+        "language": "en"
+      },
+      "date": "2023-08-14T00:03:06Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Leonardo, it warms our heart that you, and others see thru the few visitors we have had, that try to demand their way and then jump online with fabricated issues when they do not get it.  We are not perfect, but we are striving to be. Any errors on our part are adjusted asap as always. We look forward to your return! Japan starts Sept 1st. \n.",
+          "date": "2023-08-15T21:57:51Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Paula L.",
+        "user_id": "bv0GFScFTSIiYC9GUOsFvw",
+        "link": "https://www.yelp.com/user_details?userid=bv0GFScFTSIiYC9GUOsFvw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UWHFxu5D5mY9CR6ktR17MA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 29,
+        "photos": 127,
+        "reviews": 160
+      },
+      "comment": {
+        "text": "WORST EXPERIENCE EVER!!!!\nCame here with a small work team (8 of us) with HIGH expectations. Ambiance is gorgeous! All the aesthetics and details are 10/10!  Unfortunately this visit not only fell short but completely upended my desire to ever dine (or encourage others to dine) here again. \n\nOur waiter Ken was the absolute worst! It was clear that we were a nuisance to him (albeit the is HIS job of choice). From the moment he first spoke to us to the moment I had to escort him away from our table. Yes, I HAD TO DEMAND HE LEAVE AND ESCORT HIM AWAY FROM OUR TABLE. I was worried it was going to get physical! \n1- Our first request (made by me) was to have the appetizers cut in 4 portions rather than 2. He did everything but accommodate our request. He brought knives and suggested we cut it ourselves as he walked away from the table. He took it to the kitchen and came back and said \"they said no\" put the plate down and walked away.\n2-We asked what gins they have and he sighed at the thought of actually having to tell us. I asked if I could have a cocktail from the menu but with gin instead of bourbon. He said \"no\" and moved on to the next person. No explanation, just NO. A coworker just sat down and was reviewing the wine list when Ken was ready to take her drink order and she hadn't decided. He told her \"oh yeah because this is such an important decision\" and then walked away. \n3-my manager then demanded the appetizer (Havana egg rolls) be cut in 4 rather than two as per our request. NOTE: two ppl in my party had been here recently and the waiter Wesley acquiesced. Ken's response was an angry \"I've never been asked to cut anyone's food over the age of two!\" My manager said \"I can tell you a lot of things I've. Ever experienced at a restaurant one being refused a simple request!\" Ken's posture became VERY AGGRESSIVE and he said to my manager \"what are you gonna do abt it?! Huh?? What are YOU gonna do about it???\" and kinda bucked at my manager as if to provoke him to get physical. Ken was turning red! At that point I got up and asked Ken to leave immediately! I told him to take a break or whatever but to get away from this table. I walked behind him and asked to speak to the owner. The owner came and we old him what happened and that Ken needed to go home! Rather than take accountability the owner shared how they used to have a waiter (Wesley) that did that for parties (so we weren't egregious in our request) but he was fired due to embezzling almost $40k. I got full detail on how Wesley conducted his illegal operations but no accountability for the incident that occurred right then or a call to action. It was beyond disgusting! Further, Ken was not removed from the floor nor was he assigned tables away from us. Rather we were left without a waiter for 20 mins and reeling from this almost violent altercation. \nIn hindsight we should have left. But I think we were in disbelief and  paralyzed from the encounter.  Jordan tried to turn our experience around, and the owner sent over complimentary shareable appetizers. He came by once to make sure we got the apps and he did apologize. But it meant nothing as Ken continued the wait on tables around and behind us and would grimace every time he walked by. And while it was likely unintentional, he bumped my ponytail when walking by a few times and never acknowledged or apologized.\nThe food overall was ok. I ordered lamb chops and was not asked what temp. When they came out no pink was in sight...I like my lamb chops med rare. The mashed potatoes desperately needed salt. I tasted the Irish seafood stew and though that was tasty. A Filipino in our group barely ate her Pancit because of the spice (she said spicy is not typical in the Philippines and I trust her). Overall the food was not impressive, which makes it easy for me to never return. \n*we received complimentary appetizers and dessert for our troubles, but left scarred from the experience.",
+        "language": "en"
+      },
+      "date": "2023-06-30T19:59:05Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hello Paula. Quite a bit of your story here was omitted the day you dined. This is the first I am hearing of any \"near physical altercation\". You told me in person of the details, but there seems to be a lot that was not mentioned in person,  on here.  \n1- yes, your previous server did things he was not supposed to. Such as cutting guests steak, cutting corn off a Cobb and many other items that are NOT protocol here. I mentioned his track record to provide some context. Also, You had a new server in 5 minutes, not 20. \n2- Since you are a Coca Cola employee, perhaps you can relate: if a delivery driver gets into an argument with a store keeper, do you send that driver home, so no other stores get delivered? NO. You simply have another driver service that store.  I would never stretch my team thin, or have my other guests suffer because someone demanded it.  As I stated, Ken has been with us for quite a while and any abrasive tone is VERY out of character for him. I suspect your boss barking that \"Oh-you WILL be cutting my egg roll!!\" may have upset him. Servers are not servants and respect goes both ways. Not excusing Kens rude responses or tone. He was out of order, and I intended to deal with it AFTER the shift.\n3- Our Nuuk Lambchops only come medium/well as stated on the menu. We do not ask temp with them.\n4- Our Pancit is still on the menu from a year ago, because our regular Filipino guests love it. Spice is not prevalent in that dish. \n5- I too was scarred, as your boss requested to speak to me after the dinner and demand I send MY staff member home. When I told him I planned on discussing things with Ken AFTER the shift. Your manager  then began YELLING and SHOUTING in front of my guests to \"send him home!!\". Truly surreal. I was stunned as this was embarrassing, VERY inappropriate behavior from a \"senior executive\" with Coca Cola. After he left I had to apologize to that side of the dining room for his behavior.\n6- I do understand  your visit did not go well for many reasons and we apologize for you not enjoying it. We will continue forward with our 7 years of patronage from thousands of well traveled guests. We want everyone to have the best dining experience possible here.",
+          "date": "2023-07-02T00:15:47Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Andrea A.",
+        "user_id": "w-5d85wUtRBG3g3h4dksDA",
+        "link": "https://www.yelp.com/user_details?userid=w-5d85wUtRBG3g3h4dksDA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8hJGf6ptrmNVg2AYLAyBdA/180s.jpg",
+        "address": "Orlando, FL",
+        "friends": 76,
+        "photos": 554,
+        "reviews": 159
+      },
+      "comment": {
+        "text": "Went with a friend who had been wanting to try this hip spot. The rotating menu currently features Korean. We got there right when it opened so we could sit at the bar. Bartender was terrific, ambiance was great. Food was delightful. Truly one of the best meals I've had in a while. The lotus root was flavorful and fresh. The dumplings had great pan searing on the outside and a delicious chicken + shrimp filling. The star was the bulgogi with squid ink pasta. Incredible flavor, beef and pasta cooked just right. I'm so happy my friend wanted to try this place.",
+        "language": "en"
+      },
+      "date": "2022-12-30T01:17:24Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/H4OVo6A99p6-FVgEUWPfUg/o.jpg",
+          "caption": "Korean fried chicken + bulgogi with squid ink pasta"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Liat_DKwUKqexWIuOU27kw/o.jpg",
+          "caption": "Braised lotus root, cheese plate, dumplings, Korean BBQ duck confit"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1uFi7_TTS5BfzIFs1em65A/o.jpg",
+          "caption": "Bulgogi with squid ink pasta"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Andrea, we are glad you finally made it here and enjoyed! Thank YOU",
+          "date": "2023-02-02T02:37:27Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Scott S.",
+        "user_id": "CXUqnMN3G3LuIfgk8zOaSg",
+        "link": "https://www.yelp.com/user_details?userid=CXUqnMN3G3LuIfgk8zOaSg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VjkAaAJP2MX3sZmn-nqA8Q/180s.jpg",
+        "address": "Peoria, AZ",
+        "friends": 1,
+        "photos": 5,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Fantastic ambiance, incredible decor, and food to match it all. Everything was great. I loved this place well worth the trip. If you're from out of town, a must visit.",
+        "language": "en"
+      },
+      "date": "2023-09-19T23:16:03Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are truly glad you enjoyed,  Scott, and look forward to your return!",
+          "date": "2023-09-26T23:01:48Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Varun K.",
+        "user_id": "IdDAwEMIZmPt8V5Jt8n5DQ",
+        "link": "https://www.yelp.com/user_details?userid=IdDAwEMIZmPt8V5Jt8n5DQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CSjRYRgNzSL4BWPqGK_0rw/180s.jpg",
+        "address": "Alexandria, VA",
+        "friends": 1,
+        "photos": 152,
+        "reviews": 99
+      },
+      "comment": {
+        "text": "The consulate is such a unique establishment in the heart of midtown, just steps away from the midtown marta spot.  The restaurant looks non-descdipt on the outside and is easy to miss, but once you walk in has a very eclectic and exhibits a  fine dining environment.  The staff was very friendly and very professional, being extremely helpful with suggestions and explanations on the menu.   \n\nWe started the meal out with cocktails, waiter suggestion, and they were absolutely delightful.  Very light and refreshing while being unique and fun to taste.   We decided to approach this meal family style, which I highly recommend! There's so many different types of dishes and it's a great pleasure to be able to try as many as you can.  One of my personal favorites from the meal was the Ukrainian dumplings.  Such an interesting dish with mushroom sauce coating a potato and mushroom dumpling.  The Nuuk Chops were also an absolute delight, having a very interesting spice run and being very flavorful overall.  The other key highlight from the meal was the Lok Lak where it was very spice heavy but I absolutely loved the sauce and the very spice and seasoning flavor on the steak!",
+        "language": "en"
+      },
+      "date": "2022-10-20T02:30:50Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D5_QMsLzrxRtPUifcPVOJA/o.jpg",
+          "caption": "Lok Lak"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PGmE4qVRczWtnXtOIhcZvg/o.jpg",
+          "caption": "Choukaya"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/J4AB2VO9dXtyDuLW0S1CVg/o.jpg",
+          "caption": "Nuuk Chops"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jZQcdCRiKKYnAN9BlP71vw/o.jpg",
+          "caption": "Sautéed string beans"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mAIHKYrwUDgs8cDt8kHzdQ/o.jpg",
+          "caption": "Lemongrass chicken"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7KygJGpgmdD__zc2ph7PVQ/o.jpg",
+          "caption": "Ukrainian dumpling"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fvIA7X7YDqgp40oq3VE8zw/o.jpg",
+          "caption": "Nuuk Chops"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uOrvLTeMBUuY9khFi6qerA/o.jpg",
+          "caption": "Filipino Shrimp Pancit"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Pcb9BhZ9vLgB8_HjggcRVg/o.jpg",
+          "caption": "Lemongrass chicken"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EC5xR5a5mY3sHgUXBBXLww/o.jpg",
+          "caption": "Octopus alla Griglia"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are glad you enjoyed, Varun, and look forward to your next visit!",
+          "date": "2022-10-28T00:27:11Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Rene B.",
+        "user_id": "XBmskUPnX7eTZEqaDdsx2A",
+        "link": "https://www.yelp.com/user_details?userid=XBmskUPnX7eTZEqaDdsx2A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/E6tAHVkVmQz6LjoaGwvBsw/180s.jpg",
+        "address": "Brooklyn, NY",
+        "friends": 131,
+        "photos": 2326,
+        "reviews": 702,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Super cute place!  Perfect date night vibe- tons of sexy appeal.  I came once and sat at the bar but this time I was here for the full experience.\n\nI came on a Friday night with a last minute reservations.  Kudos to the staff for squeezing us in!  Once seated we ordered promptly but it took 30 minutes before the appetizer arrived.  That was a long wait with no explanation or apology.\n\nAppetizer- the street skewers were delicious... those quail eggs will be  in my future good dreams!  \n\nThe entrees..\nAmerican vip Steak and potatoes..this was filling but the quality of the meat was subpar.  For $42 the meat should be excellent.  This dish did not leave us feeling vip.\n\nIsle of Luzon Sisig- this was delicious!!  Tons of flavor and some nice heat.  \n\nSo my experience was mixed.  My other half says he is not coming back.  (steak and the long wait) \nHowever I'm willing to give it another shot once they spin the globe for a new menu.",
+        "language": "en"
+      },
+      "date": "2021-07-17T02:56:01Z",
+      "rating": 3,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ix4qfZAUYCP2YYfFEDQmiA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/G8gsEGZbU4ghGJsoq3jSgw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6uxtLgWTsWsoHlLgKl2KPg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/K809HOCpeNN5kwQngEZP1g/o.jpg",
+          "caption": "Steak"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/b6xuhzUYHqo53WuW9WQsfw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aFIyrWu-ta2_1sypxpm53g/o.jpg",
+          "caption": "Bathroom"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/plW4h7KqBhCbFWz0Df7wDg/o.jpg",
+          "caption": "Skewers"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NGzCnIbXy2-G3sJ8LVSz4g/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 1,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for the feedback Rene. Yes, we agree...30 is too long. Apologies. We will remind service staff of how we operate. Your server SHOULD have notified you if there was any delay. Our beef is sourced from select cuts from Buckhead Beef. We work in conjunction to provide our guests with the best they have to offer. We look forward to your return, and perhaps that visit will deliver a fav dish of yours!",
+          "date": "2021-07-17T03:21:15Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Nicole S.",
+        "user_id": "TMCdNIFHN44hlL0DN7VBRQ",
+        "link": "https://www.yelp.com/user_details?userid=TMCdNIFHN44hlL0DN7VBRQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-H-seXR8xlmb2XVNyKfZGQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 29,
+        "photos": 472,
+        "reviews": 93,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Where to start....The Consulate is tucked away from the street and you must go to a neat parking deck,bit they will validate your ticket at the time of check-in. The inside has a warm and inviting vibe that is very cozy and intimate. Our server was very prompt and attentive and examined each dish in detail. Each dish was flavorful and I honestly cannot find anything negative to say towards our dinner. My ol' fashion drink was \"okay\",u grien had the Moroccan sunset whivh I must say was pretty good. There is an automatic 18%gratuity added to each check and you have 2.5 dinner time window. If you are looking for a great place to wine and dine or celebrate an occasion,give this place a try..you won't be disappointed.",
+        "language": "en"
+      },
+      "date": "2022-07-27T03:51:09Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wOi8PfufEzAaJdrrJRr6Fg/o.jpg",
+          "caption": "The Kings Ransom"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vbpQGoP8uYOLARCeCNpG6A/o.jpg",
+          "caption": "Our booth"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZDfvUohuRlMqJwoHq1vGqw/o.jpg",
+          "caption": "Mushroom,Potato dumplings"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4U-DhyOwR1vApoIi8kjbIA/o.jpg",
+          "caption": "Duck Confit"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/amf9-WhKzE58e-hy8BsMaw/o.jpg",
+          "caption": "It was 5 'o somewhere"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mcYmIxmtRqZ7holm87Ht4Q/o.jpg",
+          "caption": "Sitting area"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/l8eS2FtHJ6szDURS6wEKhA/o.jpg",
+          "caption": "Kavove Yabluko  Ukrainian coffee cake with cinnamon apple streusel, white chocolate"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/g0woczr6mwqkBztidJRbFA/o.jpg",
+          "caption": "Deconstructed Ol' Fashioned"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GtdPO2lj9EPu0q08AR_OiQ/o.jpg",
+          "caption": "Jolloff rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/S9TR75sUON_X014eRc6yWA/o.jpg",
+          "caption": "Filipino Shrimp"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are glad you enjoyed, Nicole! We hope to see you again in the near future!",
+          "date": "2022-07-27T23:32:58Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Yolanda A.",
+        "user_id": "SWtK3SaqwgSqRGtjTFu3cw",
+        "link": "https://www.yelp.com/user_details?userid=SWtK3SaqwgSqRGtjTFu3cw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rbX03HlX2TZR1G8tAzuIyg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 201,
+        "photos": 1530,
+        "reviews": 246,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Birthday Dinner\n\nThe Consulate does not disappoint. From the diverse dining menu to the very knowledgeable staff and versatile decor, the experience is truly unique. The Consulate is hidden off 10th Peachtree but worth finding. Every few months the menu changes so it will be warranting another visit. Consulate offers international tapas menu, which I love tapas for dining. You get to experience more of the menu.\n\nLocated off 10th and Peachtree there is parking in garage with teal 10th street parking sign.  Parking is validated by Consulate. Park on 1st level and walk thru under walkway then a left down the stairs to the restaurant. There is a sign giving directions. \n\nSlowly entered taking in the decor, the website had me excited to see it first hand. There was plenty of booths and seating options. Make reservations as they get booked. The decor was definitely interesting. Booths very comfortable and provide intimate setting. Diverse music playing at medium level. You can still hold a conversation or listen. Booths mute party beside you conversations which I love. We had a great view of the entire restaurant.\n\nCraft cocktails were carefully thought. We ordered the Consulate Elixir and Thrilla in Manilla. Both cocktails were good. Thrilla in Manilla is a Filipino influenced cocktail with slightly sweeter taste made with a Japanese Whiskey. The Consulate Elixir is a resident cocktail. A spin on the classic old fashioned cocktail. Can't go wrong with either.\n\nOn to the menu, the Resident menu is a list of foods offered on a consistent basis. The International menu changes every 90 days, which I love. They pick a customer at random to spin globe to select country to spotlight so to speak for the next 90 days. We had The Diplomat from the Resident menu. This was a Angus beef double patty burger with sautéed onions, mushrooms, smoked gouda cheese, truffle aioli on a brioche bun. It was cut in half for sharing. We ordered it medium. It was delicious. All the flavors were amazing. Just delicious.\n\nFrom the Global menu we tried the Ethiopian lamb tips that came with rice. We also ordered a side of eggplant as suggested by our waiter. He said the lamb tips were spicy. Lamb tips were very well seasoned with a dry rub that gave me chili rub vibes. It had a little kick but not too spicy. My friend, Tracee, said it was spicy. I enjoy spicy food so it was low level spice to me. Steamed rice was cooked perfectly. The eggplant side was really flavorful. Loved the garlic and ginger sauce it came it. Glad we went with that suggestion.\n\nCan't celebrate without dessert. We tried the Turkish coffee cheesecake. He brought it out with a candle for me. The crust was like a oreo coffee flavored crust. Cheesecake part was good with an orange sauce and chopped pistachios on top.\n\nThis was an amazing dining experience. Food and cocktails were on point. Casual dress restaurant. Definitely would go back.",
+        "language": "en"
+      },
+      "date": "2021-07-26T17:09:12Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Yc06Mg--vv_7XFCbiyUNWA/o.jpg",
+          "caption": "Bar Area"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YorfixMwNNWgDa9MuD2vlg/o.jpg",
+          "caption": "Decor"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iILAqVlDUG2gsa--4DqjHg/o.jpg",
+          "caption": "Steamed rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wHz415vPEcEuFt2MmYlVkw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/s_GMPVi626EvbMRgL1fP3A/o.jpg",
+          "caption": "Consulate Elixir"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tT9VWD7jWM2qntLzCywJlg/o.jpg",
+          "caption": "Eggplant in garlic and ginger sauce"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6HebrOBPnUCow6QbTiwcBg/o.jpg",
+          "caption": "Main Dining"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cSqjJXjlUnOPcNGJLLNTtQ/o.jpg",
+          "caption": "Thrilla in Manilla"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wgTL79KyZyPkDTP0-5pwMw/o.jpg",
+          "caption": "Berbere lamb tibs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JZV378Z0zFUcOAKeuxaA9A/o.jpg",
+          "caption": "Birthday Lady"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Yolanda, thank you for your visit and detailed review! We hope to see you again soon!",
+          "date": "2021-09-15T03:10:14Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "KK S.",
+        "user_id": "l8dqGwUcWYVtsHcSjPHgfw",
+        "link": "https://www.yelp.com/user_details?userid=l8dqGwUcWYVtsHcSjPHgfw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/m3GxQHImRQnH9FUH6McocA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 57,
+        "reviews": 36
+      },
+      "comment": {
+        "text": "I took my Gemini there for his birthday. We had the Korean BBQ Duck Confit, Lamb tips and Birria Ramen. Everything was delicious. The Birria Ramen was a bit under seasoned for our tastes but I added some salt and an extra chile. So, that helped elevate it for me! The service was great and the ambiance was very comfortable. Great for a night out with friends or family! It was not very well lit when we went so we didn't take any photos!",
+        "language": "en"
+      },
+      "date": "2023-06-17T22:59:38Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We keep our venue dim nightly. We are glad you enjoyed and look forward to your next visit!",
+          "date": "2023-06-21T00:42:36Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Paul B.",
+        "user_id": "q7G2PX4mWmIr6tbuee5caw",
+        "link": "https://www.yelp.com/user_details?userid=q7G2PX4mWmIr6tbuee5caw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hdj7znZVzwG1tdxyz-QYbQ/180s.jpg",
+        "address": "Decatur, Atlanta, GA",
+        "friends": 264,
+        "photos": 0,
+        "reviews": 27
+      },
+      "comment": {
+        "text": "Probably the best meal I've had in Atlanta. Service was great and the prices were fair for the quality. Only thing is that the server let us know that the service fee (18%) was only for the kitchen staff and not the wait staff, so I get as if I had to tip twice which was 38% of the cost of the meal. \n\nJust something to know before you go in the door.\n\nIn response to the owner: then you have wait staff giving tables the wrong information. I asked twice because I thought it was odd and she was very clear that the service fee didn't go to her. I've looked at a few more reviews that confirm the same.",
+        "language": "en"
+      },
+      "date": "2023-02-14T23:32:28Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "No sir! Sorry you misunderstood! The 18% service fee goes directly to your server. We could not operate successfully if guests had to tip 38%! We can gladly refund any additional funds left.  Please do not hesitate to let me know...We are glad you enjoyed and look forward to your return!",
+          "date": "2023-02-15T05:47:34Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Dineke T.",
+        "user_id": "doNQWxYoUINTUbsbMKPnlA",
+        "link": "https://www.yelp.com/user_details?userid=doNQWxYoUINTUbsbMKPnlA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/eyMQyqCjJ20JkClsFYdfMw/180s.jpg",
+        "address": "Conyers, GA",
+        "friends": 0,
+        "photos": 16,
+        "reviews": 62
+      },
+      "comment": {
+        "text": "Came here on a solo pre-birthday dinner to knock it off my yelp list. Ambiance and food? Really good! 5 stars. But I'm taking a star away because I literally could not find it at 8:00 at night. Atlanta already gives me anxiety as it is, but I know it's not supposed to be catered to me  maybe it was just me lol. I really like the set up of the menu & will come back with my boyfriend on the next go around.",
+        "language": "en"
+      },
+      "date": "2023-02-05T04:35:03Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UbcUNnzVGn-b7zVUZ2Rodw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QFURp96cI-sjxM9ct_ypMA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wHx_d-NnDzqzeTI94QZSWg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Glad you enjoyed.",
+          "date": "2023-02-07T03:09:52Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Rita C.",
+        "user_id": "JZ-Je0WfW1-xmbEJ8bFK3w",
+        "link": "https://www.yelp.com/user_details?userid=JZ-Je0WfW1-xmbEJ8bFK3w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4K_IEZ9OeQYCFfIy5I1aWw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 14,
+        "photos": 704,
+        "reviews": 171,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I'd been before, and quite liked it. Yesterday was a disappointment. \nWe were shown to our table, ordered drinks (somehow the only water options were bottled this time?), and then looked at the menu and ordered. We usually do shared dishes regimen. The first plate, an entre, came before our drinks... and we finished it before the drinks ever came (we ordered a sangria and a gin cocktail that didn't seem that complex). Next two dishes came after the drinks, can't say I was that impressed with the Flavors this time. Maybe Romanian food is not to my palate, it was nothing special. \nMy husband ordered a beer, also took ages. Best f all was the coffee cheesecake. won't be coming back any time soon. \nStaff was nice and courteous, service and food are below expectation.\nGiving this 2 stars mostly due to the previous 2 visits.",
+        "language": "en"
+      },
+      "date": "2021-09-24T02:44:35Z",
+      "rating": 2,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cm5vI03Te0UzEgjHkuI4zA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dTtL_7HQRgrGGFVu7ST0RQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/m5Y9ql6RK3Jf540bar__SA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sZMDqVJg_puOm53yxuVsNQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wr2w2lCrBqiPcOEK9Wpf_A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yovIkL8hDCZBAyPKBM5cDw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "-  Thanks for your visit Rita. Perhaps you misunderstood your server. We have always had, sparkling , still or tap.\nWe are down one bar tender. Apologies for your delayed drinks. We had ONE team member making drinks for the bar and the entire restaurant. He was filling orders as fast as anyone could possibly expect. Thank you for your patronage, and perhaps our next menu will be more to your liking.",
+          "date": "2021-09-24T02:47:33Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Darlene O.",
+        "user_id": "6kw_7bNS11Xvgd1XPxVx3Q",
+        "link": "https://www.yelp.com/user_details?userid=6kw_7bNS11Xvgd1XPxVx3Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ekMA2cQhDrWreVRDg0HYcA/180s.jpg",
+        "address": "Grand Prairie, TX",
+        "friends": 139,
+        "photos": 623,
+        "reviews": 350
+      },
+      "comment": {
+        "text": "FINALLY can cross this off my bucket list of Atlanta restaurants. \n\nReservations are best!\n\nParking is validated in the shared garage parking off W Peachtree and 10th. \n\nWhy four stars? This is not a restaurant you come unprepared for. The menu is eccentric but that is what makes it unique. The main menu changes every three months featuring food from a different part of the world. When I went Ukraine was featured. They also maintain \"The Resident\" menu which are staple menu items that were featured at one point in time and fared well during its spotlight. I ordered from the Resident menu. \n\nI was caught between trying the Ukraine's stuffed pepper with ribeye cubes and rice but waitress, Mariah, who was such a doll, recommended I go with the other option I had my eye on, the Shrimp Pancit. \n\nI ordered the Shrimp Pancit and the Havana egg rolls. Havana egg rolls were worth the hype. Shrimp Pancit 4/5 heavy on the veggies (peppers and carrots), thin/vermicelli like noodles. It was good but wasn't mind blowing or anything I'd go through the hassle of coming here again to order. \n\nCocktails: HIGHLY RECOMMEND The Moroccan Sunset. Very pretty drink with a wine infused ice cube. Perfect amount of juice to alcohol ratio. I followed it up with an Amaretto Sour which was a bit watery. I'm accustomed to an Amaretto Sour that is sweet and sour. \n\nDecor is very eclectic. Not quite what I was expecting for this upscale restaurant. The mood was very much date night from what I perceived. I dined solo, so just my observation.",
+        "language": "en"
+      },
+      "date": "2022-06-25T01:46:54Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yc9pcC5qf-gtkql4Qlee8Q/o.jpg",
+          "caption": "Shrimp pancit"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Darlene, for your visit. Reminder: you can always ask our bar team to adjust a drink. Our beverage director is here nightly.",
+          "date": "2022-06-30T21:32:36Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jamaya P.",
+        "user_id": "O0shRkfNn6yt6cOKZdHZTQ",
+        "link": "https://www.yelp.com/user_details?userid=O0shRkfNn6yt6cOKZdHZTQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LHjMC9t4SbRX9ZUD0MB6ow/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 389,
+        "photos": 201,
+        "reviews": 87
+      },
+      "comment": {
+        "text": "This is a beautiful location tucked right behind one of the Midtown MARTA entrances. You would never know until you go inside. Beautiful decor. I know you wanna know about the food. The best thing on that menu was the Alloco, fried plantains with spiced tomato sauce on the side. Sweet and soft on the inside and crunchy on the outside with the savory sauce, DELICIOUS! The menu was in Mexico during this time. We had the Jalisco Esquites, a chilled corn salad that was supposed to be slightly similar to elote. It was nice and refreshing but I wouldn't need to order it again. My mom had the Rebanadas de Cielo, which were birria tacos with consume. She loved them and the tender meat in the tacos. I've had better birria but it was her first time having it and she loved it. I had the Black Truffle Bulgogi. I love Bulgogi and the meat was melt in your mouth tender but the sauce was too sweet. This is coming from someone who likes sweet. The first two desserts we had were extremely underwhelming. We got the Sueño de Chocolate Mexicano, a spiced chocolate cake and the Honey Bubble Tea Taro Brownie. The brownie was super dry and the spiced chocolate cake was different but not in a good way. We told our waiter, Chris and he brought us his favorite dessert which was the Turkish Coffee Cheesecake. That was AMAZING! Chris made great suggestions and didn't charge us for the dessert change, which was greatly appreciated. He was extremely attentive and patient. He was happy to take pictures of us for my birthday dinner and gave amazing wine suggestions. I would definitely want to be seated in his section again because he brought a personal touch to the experience. I'd definitely go again but I'd avoid those desserts mentioned and the Bulgogi.",
+        "language": "en"
+      },
+      "date": "2023-04-20T15:20:26Z",
+      "rating": 4,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/II9Ns40RZF4wbYV0kL259A/o.jpg",
+          "caption": "Alloco"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_qty_tJh5YZgqUU2O3vFMQ/o.jpg",
+          "caption": "Rebanadas de Cielo"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bWPAG_jyTvWTLgy-ZGCAHw/o.jpg",
+          "caption": "Jalisco Esquites"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_96-qKUidycWo7eTNTnbOA/o.jpg",
+          "caption": "Turkish Coffee Cheesecake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oDGC1sEfGZXboRf6xdhm9A/o.jpg",
+          "caption": "Sueño de Chocolate Mexicano"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2mUW9rB85PRLHVPj0or4Sg/o.jpg",
+          "caption": "Honey Bubble Tea Taro Brownie"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9kNhT6Uo8lLIPuWUfR4xCw/o.jpg",
+          "caption": "Black Truffle Bulgogi"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are glad you enjoyed and look forward to your next visit!",
+          "date": "2023-04-22T00:15:44Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "amber n.",
+        "user_id": "rw1ex_Zga-QyvCCqcNvCQA",
+        "link": "https://www.yelp.com/user_details?userid=rw1ex_Zga-QyvCCqcNvCQA",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 1,
+        "photos": 4,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "The food is delicious and it is truly an experience. There is a variety of food. The Korean BBQ duck confit was delicious. The atmosphere is perfect for a date night.",
+        "language": "en"
+      },
+      "date": "2023-12-03T22:24:44Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Amber, we are glad you enjoyed and we look forward to your return!",
+          "date": "2023-12-12T02:52:14Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Nick D.",
+        "user_id": "VKj6_O3TGzQnEoP8rchHlg",
+        "link": "https://www.yelp.com/user_details?userid=VKj6_O3TGzQnEoP8rchHlg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VF71Z3SGCq48lruCHlwTQg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 6,
+        "photos": 37,
+        "reviews": 67
+      },
+      "comment": {
+        "text": "So this place has a gimmick of providing a full new rotation of international food every few months. I can say now that they've done my ethnicity's food that their kitchen is SUPER misinformed and does not get the dishes traditionally correct in any semblance. BUT... the ambience is super cool and the drinks are amazing. Still 5/5.\n\nEDIT: I'd like to reply to Doug's comment below. Doug, I'll take everything you say to heart and assume that there is a genuine desire and effort in researching the new country's dishes. That's fine and well. But what Romanian food I had at The Consulate (Ciorba de Perisoare, Sarmale, and Mici) were not just unlike how my mother and grandmother prepares them, but are unlike every single preparation I've ever had of them. Not only were they not \"elevated\", they were bastardized, muddled, and so unrecognizable from the originals that they were no longer worthy of having the same name. A sandwich is not a pizza just because you put warm tomatos and cheese on bread. \n\nSeeing a restaurant be so ignorant and dismissive of criticism on authenticity from someone who belongs to the ethnicity they're trying to emulate is very telling.\n\nLastly, for a review that \"no one takes seriously anymore\", you seem pretty upset (read: butthurt). Considering I still rated The Consulate 5/5 stars, seeing you be this combative towards a positive review sprinkled with constructive criticism is extremely entertaining. Enjoy your shitty sarmale.",
+        "language": "en"
+      },
+      "date": "2023-02-03T20:23:57Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Of course I'm going to disagree Nick...  Nope, our kitchen is NOT \"super misinformed\". Our executive Chef does EXTENSIVE research on each and every dish before releasing the menu. ...She sources the finest produce from The Dekalb Farmers Market, BuHi Mart, Patel Bros and Yeshi Mart. We have MANY guests nightly that native to each and every menu we have done. Every single menu has been met with praise from said natives. Chef Lin is well aware that guests will compare dishes to their moms and grandmoms recipes. But we successfully introduce many people to try new cultural dishes that Atlanta may not currently offer, and yes, also some  more common dishes that Chef intentionally elevates, and fuses with new ingredients. Our foods reputation speaks to her talents. No, sir...we are waaaay more than a cool looking place with excellent craft cocktails. A quick read of our SEVEN YEARS of reviews on Yelp (which not many people take serious anymore) , Opentable  and Google Reviews  will attest to that fact. \nWe still will welcome you back with open arms and we look forward to your return Nick!   :) - Doug Hines  - owner/interior designer/GM\nThe Consulate Atlanta\nUPDATED RESPONSE:  I was very open to a conversation and was quite curious as to what dishes you felt were incorrect. My stucco contractor is Romainian and had his entire family here during the Romanian menu. They insisted NO adjustments were needed and that true Romanian food is often bland, so they understood the reason for more seasoning. Your inability to have a conversation speaks volumes of your character.  We have often known... we are NOT here for everybody.  #godspeed",
+          "date": "2023-02-03T21:29:26Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Erica P.",
+        "user_id": "y_tWIo7jh3KWqXq-qQ2YZw",
+        "link": "https://www.yelp.com/user_details?userid=y_tWIo7jh3KWqXq-qQ2YZw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1Q2Y_5k_hNCBTyFI-UP0OQ/180s.jpg",
+        "address": "Charlotte, NC",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "The best service I've ever received in Atlanta. The food was amazing and the staff was extremely friendly. The ambience was everything as well!",
+        "language": "en"
+      },
+      "date": "2023-02-03T03:55:10Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1lp1FO5pRIR121on-4xhBg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are glad you enjoyed Erica,  and look forward to your next visit!!",
+          "date": "2023-02-03T21:30:04Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Bill C.",
+        "user_id": "O2EyHYI8YmG8FZEe_Nd_0Q",
+        "link": "https://www.yelp.com/user_details?userid=O2EyHYI8YmG8FZEe_Nd_0Q",
+        "address": "Atlanta, GA",
+        "friends": 10,
+        "photos": 4,
+        "reviews": 23
+      },
+      "comment": {
+        "text": "Note:  I a reposting this review from two years ago because 1) The service and attitude of the owner was just that BAD, and 2) Because of a response to the review, which I replied to, my original review can only be found with difficulty.  This made it such that my review that shows up on YELP does not have the context it needs.\n\nI have moved on, but people need to know the TRUTH about this business.  In all of your bluster and in your replies, you never said my experience did not happen, and you admit to your inadequate response.  You continue to show your true colors of how you manage your business.  IF YOU ARE CONSIDERING THIS RESTAURANT PLEASE READ OTHER NEGATIVE REVIEWS.  YOU CAN SEE HOW HE RESPONDS TO ANYONE THAT DOES NOT THINK HIS ESTABLISHMENT IS STELLAR.\n\n1.0 star rating4/23/2020  Previous review\n\nI really was looking forward to this place but it was a big letdown.  I planned an evening with my family that included a show at the Fox in August of 2019 and selected this restaurant for our pre-show meal based on the reviews.  It was a special occasion for the five of us, as two of our sons were back in town for the weekend.\n\nThe food was excellent and the service was very good.  That is, until we were about to leave.  The bill was delivered at they had already included a 20% tip (about $50) on the bill.  Odd, I thought, since we were only a family of 5.  But  since everything was great I actually had planned to tip them more, so I simply added about $20 as an additional tip. The server collected the bill and we stayed and talked until it was time to leave for the show.\n\nAs we were leaving, we were - and I cannot think of another word for it - accosted by the head server (not the main server for our table).  He said, very loudly as we were walking toward the door \"Excuse me, was there something wrong with the service?\", and when he rushed over I talked with him to try to understand his issue.   He was unprofessional, rude, and very loud, directing other diners attention to us.\n\nAfter I understood that he was perturbed by what he thought was a $20 tip on a ~$250 dinner tab.  I told him that the $20 was the EXTRA tip on top of the $50 already on the receipt, but he didn't believe me.  I waited while he went to the back office and checked.  He came out and apologized after he understood that I had actually tipped over $70 to bring the total bill to over $340 for the dinner, not including that $50 plus tips that we spent on drinks before dinner.    He apologized.  \n\nThe owner came over and I explained what happened to him and expressed my disappointment.  He spoke with the head server (I waited) and he also came back and apologized.   He also offered me free drinks if I ever came back, but I DON'T EVER plan to go back there.  I spent just under $400 dollars there including the $70+ dollars in tips.  I expected more,  and the 20-30 minutes I spent with them sorting it out meant that I was late for the show at the FOX.  \n\nBeware!  Excellent food.  Good Service, but lousy management and ownership.   I really liked this place.  Immediately after the meal I was hoping to make it one of my 'go to' restaurants.  The owner should have done more, including reprimanding his head waiter and providing a more meaningful apology.",
+        "language": "en"
+      },
+      "date": "2023-06-23T17:01:48Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "UPDATED RESPONSE JUNE 2023:  Your visit was during covid. its now 2023. Not sure what would have made you happy, but I will NEVER \"reprimand\" my staff in front of a guest for ANY reason. They are grown, skilled adults. Humans make mistakes, and he apologized. But somehow that was not good enough for you.  And for you to question my race in your direct message to me is absurd. \nYou wrote :\n\"If you really do consider yourself to be Black, I believe it is only when it is convenience or to your advantage. And - I do not need your suggestions or encouragement as to what I do with my time and how I spend my money. I encourage your to really get in touch with what you allow in your dining establishment and correct the problems.\".    ... wow.... unreal. \nYOU are what make us look bad. You refresh your review \"just because\"?  Every single review you have ever written is a 1 star when you do not get your way. You are never happy. You wish to inflict damage to each business you write of...but in turn, fill your own life with negativity. \nWe have moved on...and I suggest you do to. \nThankfully 2019 is in the past. We hope life improves for you.  \nOur PREVIOUS RESPONSE: (FROM OVER TWO YEARS AGO)\nHow are you going to play the \"race card\" in a black owned establishment?  \nWe have ZERO time for such antics here.",
+          "date": "2020-04-24T19:57:41Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kimberly K.",
+        "user_id": "siVESBXBrGnKoOaYwgm_Bw",
+        "link": "https://www.yelp.com/user_details?userid=siVESBXBrGnKoOaYwgm_Bw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DXnkJ599c-G7f-uMhJzvnw/180s.jpg",
+        "address": "Vinings Estates, Mableton, GA",
+        "friends": 0,
+        "photos": 18,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "This is from the Cambodia menu. The food and drinks were very flavorful. Even the grandparents, who don't like spicy food, were able to find food they enjoyed !",
+        "language": "en"
+      },
+      "date": "2022-12-18T16:05:00Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-Ujal7PSiASzs5h6zBBXJw/o.jpg",
+          "caption": "Cambodia menu"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "MeiAndDoug H.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/G9qjaqJiJJcjgkXw28GblA/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are glad you enjoyed, Kimberly and look forward to your next visit!",
+          "date": "2022-12-23T02:05:55Z"
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=wuOlcGt0jzkSnXA-kkPJHA&start=100"
+  }
+}

@@ -1,0 +1,1869 @@
+{
+  "search_metadata": {
+    "id": "65ef2c815119a61774158d42",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cba2f21086e022a5/65ef2c815119a61774158d42.json",
+    "created_at": "2024-03-11 16:08:33 UTC",
+    "processed_at": "2024-03-11 16:08:33 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/jx0yeEipLwhKDlwWcyGt9Q?",
+    "raw_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef2c815119a61774158d42.html",
+    "prettify_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef2c815119a61774158d42.prettify",
+    "total_time_taken": 1.81
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 0,
+    "num": "50",
+    "place_id": "jx0yeEipLwhKDlwWcyGt9Q"
+  },
+  "search_information": {
+    "total_results": 961,
+    "business": "26 Thai Kitchen & Bar"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 961
+    },
+    {
+      "hl": "es",
+      "count": 2
+    },
+    {
+      "hl": "fr",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "K K.",
+        "user_id": "WSI6rebdoQWuvenHKzNOTg",
+        "link": "https://www.yelp.com/user_details?userid=WSI6rebdoQWuvenHKzNOTg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LjfZogz6iHzQK-o62sjFcA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 17,
+        "photos": 0,
+        "reviews": 32,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The atmosphere was lovely. We were greeted by a hostess and immediately taken to a table for two. This was a Monday night so I was surprised they were open but what a nice surprise.\nThe place wasn't full but there was a nice hum of conversations going on around us and, though the floors are hardwood and the ceilings high, my companion and I were able to have a great conversation of our own. \nAlong with candles burning in the centre of the room, there were fairy lights decorating various areas of the room. Pretty and the tv playing the basketball ball game on mute wasn't nearly as intrusive as it might have been. \nSo food. Finally... it was great. Everything we had was so good. The crab was awesome, my companion said, and the duck special was extraordinary. I hope they'll have it again. \n\nWe had nothing besides water so can't comment on Thai drinks nor cocktails. \n\nI didn't realize there was also a location at Perimeter. I suspect the Lindbergh/Buckhead location is more... laid back. Just a suspicion. Have not yet been to Perimeter.",
+        "language": "en"
+      },
+      "date": "2024-01-26T22:34:15Z",
+      "rating": 5,
+      "tags": [
+        "1 check-in"
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ashlea H.",
+        "user_id": "4jweJYcwIkNfTaDUM-65cQ",
+        "link": "https://www.yelp.com/user_details?userid=4jweJYcwIkNfTaDUM-65cQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JvP5MuurdUhPVwL-uHSdiw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 21,
+        "photos": 746,
+        "reviews": 138,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Okay, this was a spontaneous trip with my cousin and when I say I'm SO GLAD we went. This is a 5 Star experience okay! The moment we were seated, the waiter greeted us by speaking a Thai welcome, then filled our glasses and gave us some delicious recommendations. We ended up getting the Chicken Satay and Fried tofu as appetizers and let me just say, DELICIOUS! The only thing \"negative\" I want to mention is everything is made fresh so be prepared to wait a bit for your dishes, but with the right company this isn't too bad at all! \n\nOur entrees were nice large portions, seasoned amazingly and just so YUM! (Rama chicken and Grandma's curry). The right amount of spice too! \n\nAnd of course we had to get something from their dessert menu too. Everything was reasonably priced for the area. A 3-course meal cost us about $98 total which isn't bad at all, especially for the QUALITY of everything! \n\nThe restaurant itself looks so warm and welcoming on the inside. Very modern and spacious (on a Wednesday afternoon lol) perfect for a date night or dinner with family/friends.\n\n\nWill definitely be returning!",
+        "language": "en"
+      },
+      "date": "2023-12-17T21:40:31Z",
+      "rating": 5,
+      "tags": [
+        "5 photos",
+        "1 check-in"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ukzD8jcdH2ACa7nD2RlNfA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_DekcPsnNuxvxC9aMniOjQ/o.jpg",
+          "caption": "Chicken Satay and Crispy Tofu (VG)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wPyY8NPpGeoTMMaT4uvzlg/o.jpg",
+          "caption": "Rama Chicken"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ItyWA_3cTn2Ov8ifww_6-w/o.jpg",
+          "caption": "Thai tea crème brûlée and walnut brownie with vanilla ice cream"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/F70thLBE1CymEOVZAUD54w/o.jpg",
+          "caption": "Grandma Curry* (VG)"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Emily J.",
+        "user_id": "eFFAdlV14QUjkXRj7Bk_iQ",
+        "link": "https://www.yelp.com/user_details?userid=eFFAdlV14QUjkXRj7Bk_iQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bI9_dtXS9qN0Gmi7YbRm5g/180s.jpg",
+        "address": "Wilmington, NC",
+        "friends": 354,
+        "photos": 977,
+        "reviews": 304,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My daughter lives in one of the apartment buildings right on the next block from this restaurant so we ordered to-go from here for dinner last night. We both ordered pad thai, hers with crispy tofu and mine with chicken. Hers was spice level medium and mine was mild (I am a HUGE spice wimp). Ordering online was super easy!\n\nI went to go pick it up a few minutes after the time it was supposed to be done and ended up having to wait another 5-10 mins. The restaurant itself looks really nice. The staff was friendly, and all the patrons seemed to be having a good time. \n\nThe pad thai was ok- not bad, but definitely not the best I've ever had. The biggest issue though was that the spice levels were not medium and mild- my \"mild\" was my daughter's normal \"medium\" spice level and her \"medium\" was so hot that she had to stop eating at one point and just drink milk. The portions were really generous so we weren't hungry at all afterwards which was good.",
+        "language": "en"
+      },
+      "date": "2023-11-14T17:15:58Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/44j1zxKSTcVXluCez1WKFA/o.jpg",
+          "caption": "Chicken pad thai"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Lilliana C.",
+        "user_id": "DtpXhlt_75A7wfiqx5aBzA",
+        "link": "https://www.yelp.com/user_details?userid=DtpXhlt_75A7wfiqx5aBzA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pLF7R1QHw_XQlANNRq5Ugg/180s.jpg",
+        "address": "Midtown, Atlanta, GA",
+        "friends": 106,
+        "photos": 382,
+        "reviews": 99,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "It's always a great night when I get to go to 26 Thai! This is one of my favorite restaurants in Atlanta. It doesn't matter which location you visit, each restaurant consistently dishes out quality food and personable service! I love how the ambiance in each location is a bit different. The Buckhead restaurant lit with candlelight, making it a great spot for a romantic date night. My go-to order: Thai Tea, Crispy Spring Rolls, and the Drunken Noodles. Delish!",
+        "language": "en"
+      },
+      "date": "2024-01-26T19:52:17Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E5oPEXdxx8MpC8rlcngU1g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vjVc_p2JiDfyh86KqEKK_g/o.jpg",
+          "caption": "Drunken Noodle **"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/E0RgrKL3Yu_pqdhMi9TX_Q/o.jpg",
+          "caption": "thai tea"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/s_YNoCyzxtyl9zkbiuEd4A/o.jpg",
+          "caption": "Crispy Spring Rolls (V) (4 pcs)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TFv8lQysBle8nNN4vNW_hg/o.jpg",
+          "caption": "bar"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8XYHRqsHThoeSN8A-saSuw/o.jpg",
+          "caption": "interior"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nellie M.",
+        "user_id": "4yiDNExj3eQb_8KqKoPFDg",
+        "link": "https://www.yelp.com/user_details?userid=4yiDNExj3eQb_8KqKoPFDg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BMKrfrv9fCerzq0ZyGOIDA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 189,
+        "photos": 190,
+        "reviews": 54,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Halloween at 26 Thai Kitchen & Bar was an experience. Congratulations on doing such an amazing job with all the Halloween decorations. It looks amazing! Starting off with the \" Saim Sunrise \" with patron silver tequila, champagne, mango purée & lime is a great cocktail to get your evening started. Appetizers are always my favorite at this restaurant because each bite is delicious. Crab cheese rolls are next up with crab meat, cream cheese, carrot & sweet Thai chili sauce. I would definitely recommend these items for sure. \n\nLastly, this is one of my favorite places to go eat hands down. Between the customer service, food,  ambience and cleanliness of the restaurant, it will always keep me coming back for more.",
+        "language": "en"
+      },
+      "date": "2023-11-09T00:17:47Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RZ9NBTFJLUTk3lqQtPG3NQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3K6v5kn731Xn92f4wno4yQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Maria L.",
+        "user_id": "kHMrVKBeH54uEBOCvHdFsw",
+        "link": "https://www.yelp.com/user_details?userid=kHMrVKBeH54uEBOCvHdFsw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YQdLvJzDwHdckMFAkqYouA/180s.jpg",
+        "address": "Orlando, FL",
+        "friends": 13,
+        "photos": 187,
+        "reviews": 76,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place is rated well and lived up to the rating. It was quiet the day we visited and our server was attentive and helpful. She even wrapped our leftovers very thoughtfully. This basil fried rice comes standard medium heat and even that was spicy (in a good way)!",
+        "language": "en"
+      },
+      "date": "2024-01-08T23:41:07Z",
+      "rating": 5,
+      "tags": [
+        "2 photos",
+        "1 check-in"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2BiUggQBpWP7tUTlrUPbiQ/o.jpg",
+          "caption": "Basil Fried Rice **"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IIOx_0ELRnYoSh8KDPmq8Q/o.jpg",
+          "caption": "Interior"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Xee V.",
+        "user_id": "raNdxr5fAjdXULtR1RKj_g",
+        "link": "https://www.yelp.com/user_details?userid=raNdxr5fAjdXULtR1RKj_g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CKlQb9FcwnjFlqrVH1B7YA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 47,
+        "photos": 1024,
+        "reviews": 219,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I highly recommend 26 Thai Kitchen & Bar. While exploring Atlanta with my family, we were craving Thai food and stumbled upon this gem\n\nThey offer both indoor and outdoor seating. We choose outdoor seating at first but it was so windy  that we ended up going indoors. \n\nOur server was amazing. He was very attentive and took care of us extremely well. \n\nWe ordered the Curry balls, Chicken Massaman, Shrimp Pad Thai, and Beef Drunken Noodles. \n\nEverly bite was delicious. The Chicken Massaman was my favorite. It was incredibly tender, cooked to perfection, and bathed in a rich, aromatic Massaman curry sauce.",
+        "language": "en"
+      },
+      "date": "2023-05-18T00:53:46Z",
+      "rating": 5,
+      "tags": [
+        "9 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7EGIf_ODtOijiqh-xRjmcw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uMSVAw7sJMgcq7kZKTuZHQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7VPcpl4iABYo_YAU6res6A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pqHRo-WfkOMrCUFE9GEWuQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EYETYRx3Jqi8E-46Pdu4ig/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ttet-72ekrQ9XhHdGmNE2w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ug2rAXf-TYhuMVt1Fhhoqw/o.jpg",
+          "caption": "Pad Thai"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/a68rOtI7Du_VuIzRtvZs2A/o.jpg",
+          "caption": "Curry Ball"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_ay0g7yHTS-ewKSRP2O1cg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 1,
+        "cool": 4
+      }
+    },
+    {
+      "user": {
+        "name": "Julie M.",
+        "user_id": "u-a2yVNxRFvfF9pnksDRQw",
+        "link": "https://www.yelp.com/user_details?userid=u-a2yVNxRFvfF9pnksDRQw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wbEfkYOREew69Pg5-8gEew/180s.jpg",
+        "address": "Brooklyn, NY",
+        "friends": 292,
+        "photos": 585,
+        "reviews": 446,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This is probably my favorite Thai restaurant. The service is always good. The vibes are always cozy. I've been to 2 of their locations and they are both consistently good. My favorite things to get here are the crab cheese rolls, the crab fried rice, and the five hour short rib. Everything is always fresh, delicious, and one of a kind. This place is one of a must haves any time I'm in Atlanta.",
+        "language": "en"
+      },
+      "date": "2024-01-03T20:01:55Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jessyca C.",
+        "user_id": "ifEl6iNdFx-s_sw1yOIsaw",
+        "link": "https://www.yelp.com/user_details?userid=ifEl6iNdFx-s_sw1yOIsaw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/j_LbQzmBUZ-umyozpjSj-A/180s.jpg",
+        "address": "Stonecrest, GA",
+        "friends": 2,
+        "photos": 88,
+        "reviews": 39,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The food and the service were exceptional. Lea was my server and she made some great recommendations. Everything was perfectly plated and tasted amazing. I went around 1:30pm so it was super chill. The atmosphere was cozy and chic. Great for a solo date, couples, or just lunch with friends. Probably my fav thai place in atl so far.",
+        "language": "en"
+      },
+      "date": "2023-10-29T02:26:57Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3wR_B36zqIqlF6XfdnWECA/o.jpg",
+          "caption": "Roti Bread and  Panang Curry  Soooooo good"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-ba9qPZ1fbXO9qx4GMeEZw/o.jpg",
+          "caption": "Vegetable Potsticker"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/03BBI0zUqRHjtVpx3ZNtJw/o.jpg",
+          "caption": "Coconut Ice Cream"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HoVW5bm6C3uZ7eRPvaUDJQ/o.jpg",
+          "caption": "Street Crab Noodle"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yMd1A-TuRIAG-N3FyohegA/o.jpg",
+          "caption": "Street Crab Noodle and consume"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pkcgarBSV1-2jpLGHXiMOA/o.jpg",
+          "caption": "Sparkling water"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brad G.",
+        "user_id": "xnILwlD_ECBo4O-VaX9H9w",
+        "link": "https://www.yelp.com/user_details?userid=xnILwlD_ECBo4O-VaX9H9w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UC1nZhu_KTylPVOmcUS7TA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 79,
+        "reviews": 62
+      },
+      "comment": {
+        "text": "Another amazing experience at 26 Thai in Buckhead! The duck special was fabulous as was the Thai tea creme brulee! Our server, Lea, was extraordinary!",
+        "language": "en"
+      },
+      "date": "2024-01-20T22:00:19Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/k_yQwSdFMqEZUqIKxDhs7g/o.jpg",
+          "caption": "Thai Tea Creme Brulee"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kMyBxiPwBtIbrdwGol_beg/o.jpg",
+          "caption": "Duck Special"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "De'Marlo B.",
+        "user_id": "ytoU7TyGWTdNtNdhI-ixkg",
+        "link": "https://www.yelp.com/user_details?userid=ytoU7TyGWTdNtNdhI-ixkg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xMVujZaLDKvbM2CqFWd_BA/180s.jpg",
+        "address": "Orlando, FL",
+        "friends": 33,
+        "photos": 28,
+        "reviews": 24
+      },
+      "comment": {
+        "text": "I live very close to and had been wanting to try it for some time. I finally did and enjoyed everything from the service to the ambiance. I'll definitely be back soon.",
+        "language": "en"
+      },
+      "date": "2024-01-14T13:07:20Z",
+      "rating": 4,
+      "tags": [
+        "3 photos",
+        "1 check-in"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oxuIJeY3B_KvoXcDaqOPQg/o.jpg",
+          "caption": "Honey Bee"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xeab9X-Kf6UFca_w92PzRg/o.jpg",
+          "caption": "Vegetable Potsticker (VG)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8b7f4q9ARV-AKXJAIIRbdg/o.jpg",
+          "caption": "Crispy Spring Rolls (V) (4 pcs)"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Joy H.",
+        "user_id": "9HCqBsQEemOk9-MsIgyFcA",
+        "link": "https://www.yelp.com/user_details?userid=9HCqBsQEemOk9-MsIgyFcA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/P_Z7fKMecUlONhK5HAS5gw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 46,
+        "photos": 63,
+        "reviews": 37,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I recently dined at 26 Thai Kitchen and Bar located at Perimeter Mall, right by Urban Outfitters. Here's the lowdown on my experience.\n\nParking is a breeze with free mall parking in the lot. Now, let's talk service - it was a bit slow, and our server forgot to put in a drink order, which took quite a while to arrive. A small hiccup, but it happens.\n\nNow, the highlight - the food was really good! We decided to go for the Platter, which offers 4 tapas options for $39, and it was perfect for sharing. We opted for the street style pork, signature wings, Thai dumplings, and the crunchy spring roll. Each dish was a delight.\n\nFor my main course, I went with the Spicy Lobster Fried Rice, served in a pineapple, and it was amazing! \n\nThe restaurant itself is cute and inviting. I'm definitely planning to return for another visit.\n\nIn summary, 26 Thai Kitchen and Bar at Perimeter Mall delivers on delicious food, despite a bit of a service hiccup give it a try!",
+        "language": "en"
+      },
+      "date": "2023-09-21T03:30:25Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Rene B.",
+        "user_id": "XBmskUPnX7eTZEqaDdsx2A",
+        "link": "https://www.yelp.com/user_details?userid=XBmskUPnX7eTZEqaDdsx2A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/E6tAHVkVmQz6LjoaGwvBsw/180s.jpg",
+        "address": "Brooklyn, NY",
+        "friends": 131,
+        "photos": 2326,
+        "reviews": 702,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Love this place! The vibe is right-charming environment, good music and delicious food!\n\nWe have been here twice and we will be back.\n\nSalmon and shrimp - not as flavorful as other dishes.\nCrispy grouper - yassss\nGreen curry chicken- spicy goodness\n5 hour short rib - so good and you will have leftovers!\n\nGinger martini is very sweet.\nPhuket fire ( margarita). So good!",
+        "language": "en"
+      },
+      "date": "2023-01-26T01:35:20Z",
+      "rating": 4,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BN4Qz79-xGf9dVd3Ttfg9g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xLAAqL0mzp_k6a1ahBJSSQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/enZ4WBVPLKqMX9o6o2YA6w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QSsBcP7l4KMAuI3STkaEYQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_UPxxabHuiiUDpTNqt22rw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/g_UyiwCnlwIva-HkYnBeQQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bi-A0xtpP6GEr2OXtVbF4A/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Jina P.",
+        "user_id": "5mAhDkSyOnlTN12LbVLtIA",
+        "link": "https://www.yelp.com/user_details?userid=5mAhDkSyOnlTN12LbVLtIA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZKXuCOGGGSP0LRLzAj4QKQ/180s.jpg",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 2,
+        "photos": 118,
+        "reviews": 54
+      },
+      "comment": {
+        "text": "Not a fan of Thai food usually but wanted to give this place a chance. The drunken noodles were quite delicious, and fried rice was good as well. I would not recommend the Mango Lemonade. The food does lack a bit of spice but overall good portions, the shrimps were also big and plenty in the rice. You get your money's worth at this fine dining place. The service was also great!",
+        "language": "en"
+      },
+      "date": "2024-01-05T17:10:52Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-JUG8F91FF0hJQxVYcUfPQ/o.jpg",
+          "caption": "Basil Fried Rice **"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tGgeNradvMhZCkP7M5dLfQ/o.jpg",
+          "caption": "Thai Mango Lemonade"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WDnuSyhoc8bGy3Rlu7zWwg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tkDWFOLqB5hrZ_Pfs9yvAg/o.jpg",
+          "caption": "Drunken Noodle ** with Crispy Chicken"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mahauganee S.",
+        "user_id": "OsFFu_Brkf1Wn1RRuBECrQ",
+        "link": "https://www.yelp.com/user_details?userid=OsFFu_Brkf1Wn1RRuBECrQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TusRXAlvDr9DyvU3SdjJ0g/180s.jpg",
+        "address": "Stockbridge, GA",
+        "friends": 42,
+        "photos": 576,
+        "reviews": 162,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We went in as a family of 6 for birthday lunch on a Saturday afternoon and were able to be seated immediately at a large round table so every person had their own space and I didn't have to listen to small people complain about someone touching them  Anyhoo, there's no street parking out front but they validate for the nearby parking garage, which is nice! \n\nOkay so this was just a good all around experience. The ambience is almost elegant. The decor is well done and the corner location with big windows allows in natural light while also giving you a good view of the outside. It would work well for a date night. \n\nThe service was stellar: extremely attentive, appropriately paced, and very helpful in an anticipatory way. Our server (Sylvia) collected food allergy information before making suggestions, offered off-menu substitutions/options to help us feed the tiny people, and helped us generally navigate the experience. \n\nWe started with two appetizers: crab cheese rolls and vegetable potstickers. Both were well-liked around the table. For entrees, we ordered 4 and ate family style: drunken noodles, pad see ew, house fried rice with chicken and house fried rice with vegetables. The preteens should be on the marketing team for the drunken noodles; it's a day later and they're still talking about it! There was no consensus on whether the veggie or chicken fried rice was better and there were varying complaints about the fried rice overall: too soft, not enough seasoning, too much basil, etc. Tough crowd! Pad see ew is my go to but this one didn't have enough sauce. I requested more and was brought a small container of sauce right away, but it was more salty than sweet. I would try a different dish next time.\n\nNow about the birthday. I mentioned it to Sylvia and she brought out a complimentary coconut ice cream beautifully decorated. See the pic.\n\nWhile we might give varying ratings to different parts of our dining experience, the experience overall was a 5 for me. Not to mention, this is a completely women-ran business and deserves all the support! I hope we can get back there for a date night!",
+        "language": "en"
+      },
+      "date": "2023-01-22T20:14:10Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/H8Zu5GTcZT11LyUYdmgrvA/o.jpg",
+          "caption": "Crab Cheese Rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/akLE6fpKjCxCXNRvYfAM8w/o.jpg",
+          "caption": "Vegetable Potsticker"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fbsbdG9ovCojeUCCWkrPRg/o.jpg",
+          "caption": "Pad See Ewe House Fried Rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3zCtPzFLurknK1hoMnnxNA/o.jpg",
+          "caption": "Coconut ice cream"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "A G.",
+        "user_id": "LJhQx48XHLggMDxkX4bePw",
+        "link": "https://www.yelp.com/user_details?userid=LJhQx48XHLggMDxkX4bePw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/F_4tJg6L64ZeNEIuc6L7Lw/180s.jpg",
+        "address": "Ellenwood, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 144
+      },
+      "comment": {
+        "text": "Absolutely delicious. I had the pineapple half with chicken fried rice, it was so delicious I think about going back often, but haven't made it back yet. The rest of my party had curry, and steak and eggs. We all shared the appetizer tower and everything was delicious. I would highly recommend.",
+        "language": "en"
+      },
+      "date": "2024-01-27T02:14:16Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Allison C.",
+        "user_id": "XM_LGQTJ2P1_giT8y4zZ1Q",
+        "link": "https://www.yelp.com/user_details?userid=XM_LGQTJ2P1_giT8y4zZ1Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PTYgUBtnzeAfpaFZuDU6Rw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 278,
+        "photos": 264,
+        "reviews": 88,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "AMAZING food. I absolutely love Thai food and I feel like I found a jackpot in Atlanta, and both my partner and mom back me up on this. The food was so flavorful and the portions are gigantic - expect to have lots of leftovers. After I left the restaurant, I already couldn't wait to go back to try their other dishes. \n\nThe service was also incredible. Our waitress was incredibly attentive and from the beginning, asked us about our food allergies to make sure we didn't have any adverse reactions. She also asked us about our parking tickets (there's a garage right next door to the restaurant) before we even had a chance to in order to make sure we got it validated.",
+        "language": "en"
+      },
+      "date": "2023-01-03T03:51:02Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/S1IiLgmdVyXsbsiuES6Q6w/o.jpg",
+          "caption": "Bangkok Noodle"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pdgz5C2SwG9fLuvIuHNXuA/o.jpg",
+          "caption": "Thai Dumplings"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zrKQuvb4EjCar5ctG0O0cw/o.jpg",
+          "caption": "Rama Chicken"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IOYT5joMhq-jRGANM3qajg/o.jpg",
+          "caption": "Pad Thai"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tina H.",
+        "user_id": "HiBTbv4amlmTBMA3noa8Cg",
+        "link": "https://www.yelp.com/user_details?userid=HiBTbv4amlmTBMA3noa8Cg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zTv0lQ9QbvqtMteMEDSxXg/180s.jpg",
+        "address": "Madison, WI",
+        "friends": 145,
+        "photos": 1735,
+        "reviews": 197,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Nice ambiance to the restaurant. It was quiet and the one server was great at giving us options and recommending dishes he liked. We enjoyed the choose your own tapas from the appetizer menu and didn't know it would be so large! We had also ordered the panang curry with chicken. It has a little heat but it is very savory. The best items from the appetizer menu were the roti massaman curry and satay chicken. Both were simply gobbled up. The Thai spring rolls were the least favorite, but were still good (especially better with the peanut sauce from the chicken satays instead of the plum sauce they were served with.) Would like to return to try some of the other dishes.",
+        "language": "en"
+      },
+      "date": "2023-05-25T15:53:00Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wsqGXz8BbYcyzaQ1JT_Izw/o.jpg",
+          "caption": "Chicken satay with peanut sauce, massaman curry roti, Thai spring rolls with plum sauce, and thai dumplings"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OWEQ48kQ-1_8hwMkkxiELg/o.jpg",
+          "caption": "Panang Curry with chicken"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jessica C.",
+        "user_id": "aYmmyYbQYtGD7JzeVZuCKg",
+        "link": "https://www.yelp.com/user_details?userid=aYmmyYbQYtGD7JzeVZuCKg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bk-xs1nnYd_zxwsRAnZrOQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 2,
+        "photos": 23,
+        "reviews": 37
+      },
+      "comment": {
+        "text": "26 Thai was a lovely dining experience. Unfortunately, due to the fish oil in majority of the dishes my date was limited to only a few options on the menu. I enjoyed my share of appetizers and drinks. And for the non drinkers they do offer mock tails.",
+        "language": "en"
+      },
+      "date": "2023-11-06T17:07:33Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wt9idfrhxFrpQabVs41kqw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6d6a3hL4ACvH2-RXhrA2QQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VLB55Lwl13qrC8eOFgz1YQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eUwB0DbBXrBtC0jeOwxSag/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wwq_HYzslWsbshIdl0WoIA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Latoya W.",
+        "user_id": "RvWX82SO-FLs_Elkweyrow",
+        "link": "https://www.yelp.com/user_details?userid=RvWX82SO-FLs_Elkweyrow",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gVMTRrb0zV8z_2PnN_Pphg/180s.jpg",
+        "address": "Cincinnati, OH",
+        "friends": 549,
+        "photos": 951,
+        "reviews": 251
+      },
+      "comment": {
+        "text": "Yummmy!! With such a big menu with tons of options. You can't go wrong here!  The day we came, the spot had a lot of different types of specials of the day. So we had to try some of the specials. Really loved the curry fried rice (where they infused the rice with green curry!) and fried scallops. \n\nThe cocktails were all great and the service was even better. Our waiter was beyond knowledge and knew the menu inside out. Would love to go back whenever in the area.",
+        "language": "en"
+      },
+      "date": "2023-05-10T00:24:43Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/saVRAM-M05ytBd7HdxYaug/o.jpg",
+          "caption": "The special - infused fried curry, rice, and fried scallops"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MKW9O-9-IH2FatcJZJPVQA/o.jpg",
+          "caption": "Another special... an appetizer"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5AwTkBwKXAGeZRGWjFpeNw/o.jpg",
+          "caption": "A lovely drink"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CsWIRbLpoX4u2pR9paDF8w/o.jpg",
+          "caption": "The special. Spicy mezcal drink"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Dnq98GbL6oVR6LJ3IRSG6g/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Arielle M.",
+        "user_id": "rnC0DD7Zl9ycFBn9Ufzbqw",
+        "link": "https://www.yelp.com/user_details?userid=rnC0DD7Zl9ycFBn9Ufzbqw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_S15OTh5e79frU-ql50pGA/180s.jpg",
+        "address": "Hollywood, FL",
+        "friends": 125,
+        "photos": 798,
+        "reviews": 275,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My mother in law and I were craving Thai food and with its great reviews, we decided to go to 26 Thai for dinner. \n26 Thai is in a shopping area but is on the corner and easy to find. The parking garage is conveniently located right next to the restaurant.\n\nThe restaurant is large and spacious with great decor and ambiance. There is plenty of seating. Our server was Evan and he was great. Super friendly, eager to explain the menu, always checking in on us. Loved him. \n\nOur food was great as well. I had Grandmas Curry, their vegetarian style red curry. The flavors were popping. I was, however, disappointed in the small amount of rice given for such a large bowl. I also was disappointed to see only 5 little triangles of tofu in my entire bowl of curry. The curry was also a little runny for my liking. It felt more soup like to me, and I'd prefer a thicker consistency. My mother in law had the pad Thai. The one thing that disappointed me was that Evan encouraged her to order the beef, but didn't tell us there was a $4 up charge. I'm not a fan at all of pushing sales and sneaking extra charges in. This did irk me. Mom reported that her food was great. Our spring rolls were delicious too. We ordered the fried ice cream but will probably never order it again. It was $12 and was a rip off. The ice cream in the middle was a small ball- this dessert is mainly fried dough. \n\nUltimately, the store gets 3 stars simply bc of the small portions in comparison to the large price. If the portions would commensurate with the price, then 26 Thai would've definitely had a 4-star rating from me",
+        "language": "en"
+      },
+      "date": "2023-04-25T23:39:42Z",
+      "rating": 3,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AJq_Aq9jaqueEYjcEhNAqw/o.jpg",
+          "caption": "Spring Rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-YcAqNuWWb2XERxKu-vUEQ/o.jpg",
+          "caption": "Spring Rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6dfRlVRTBbaScuIiSvzaSQ/o.jpg",
+          "caption": "Grandmas Curry (vegetarian)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lKKCZfbzHj4fuDJOGU23Rg/o.jpg",
+          "caption": "Pad Thai (w/ beef $4 extra)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yQRAtHWijd9bgy_-cLb8wg/o.jpg",
+          "caption": "Fried ice cream- just a tiny scoop of ice cream in the middle. Delicious but not worth $12"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1Ey03M4NpjV_9PNGqdN8vA/o.jpg",
+          "caption": "Dining room"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Alice K.",
+        "user_id": "UX1qfvGmxTBtNYzI2notYg",
+        "link": "https://www.yelp.com/user_details?userid=UX1qfvGmxTBtNYzI2notYg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2rFLDZPQgoDqPaFj0XXi9Q/180s.jpg",
+        "address": "Suwanee, GA",
+        "friends": 0,
+        "photos": 8,
+        "reviews": 39
+      },
+      "comment": {
+        "text": "I made to plans to get dinner with some girlfriends that were in town for the holidays and picked this place on a whim! They were able to seat our party of 4 quickly without reservations! The server was extremely friendly and helpful. The drinks and food were all amazing! I will say that all of our dishes came out spicy without any warning. We didn't mind because we love spicy food but this may be an issue for people that don't like spicy. All in all I would come here again and again when I am in the area!",
+        "language": "en"
+      },
+      "date": "2024-01-08T23:29:17Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brian S.",
+        "user_id": "kes2u9v1ZrtKl_tH4v6LFg",
+        "link": "https://www.yelp.com/user_details?userid=kes2u9v1ZrtKl_tH4v6LFg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LhmNtFaKiJevajjAKd4WZA/180s.jpg",
+        "address": "Brookhaven, Atlanta, GA",
+        "friends": 91,
+        "photos": 3191,
+        "reviews": 253,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Absolutely 100% 5 stars!  I had ordered take-out/delivery from this restaurant before and knew the food was good.  However, this time was my first time for an in-person visit.  Every aspect of the evening & and meal was spot on!  The hostess at the front was kind & cordial. The interior of the restaurant is quite lovely, too.  Lastly, the food was absolutely amazing!  I tried the new Thai/Peking duck entrée which was new on the menu for specials and I was blown away with the explosion of fresh flavors.  Without a doubt the best part of the meal was the server.  Gabby G was probably the best waitperson/server I have ever encountered.  Gabby was very kind, very knowledgeable and precisely attentive.  I absolutely will go back to 26 Thai, and for sure ask for Gabby!",
+        "language": "en"
+      },
+      "date": "2023-03-18T13:45:35Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3rrH0v8OmFgaONZTH3xQJg/o.jpg",
+          "caption": "Khao-Soi"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ABA6Tnw2MYEBhBFxKFBjkg/o.jpg",
+          "caption": "Shrimp in a Blanket"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wlc2pAiddbAoJSGByj0_fw/o.jpg",
+          "caption": "Mint & Melon Mojito.  Amazing!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uI7bQL58tJxPrTIF95tw6w/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ET2x-fWGVZewQDMpr-IaOQ/o.jpg",
+          "caption": "Peking Duck (Thai Style)"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ashley K.",
+        "user_id": "-nqKpArRhkYyN5EEeraFqQ",
+        "link": "https://www.yelp.com/user_details?userid=-nqKpArRhkYyN5EEeraFqQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/v7zIj8W7M5GpRC1xlvXsyw/180s.jpg",
+        "address": "Lawrenceville, GA",
+        "friends": 24,
+        "photos": 1007,
+        "reviews": 109,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I was looking for a redemption birthday dinner for my SO after a failed one the night before and happened upon 26 Thai on Yelp. So glad we chose to come here for dinner. I now have a new favorite ITP Thai restaurant. \n\nFOOD:\nCrab Cheese Rolls ($10) - Thoroughly enjoyed this. Love that it's not wrapped the typical way where there is too much wonton and small amount of filling. The cream cheese is not too overpowering or too sweet. It is so creamy and delicious. Crunchy on the outside and super soft on the inside. \n\n26 Basil Fried Rice ($25) - Plentiful portions of shrimp and chicken. The chicken was a bit dry, but the shrimp was so juicy and good. There is just enough basil that it doesn't overpower all the other ingredients. Really good mix of protein, rice, and veggies. \n\nPanang Salmon & Shrimp ($29) - One of the best Thai curries I've ever had in Georgia. Salmon and shrimp were cooked perfectly as well. The flavor is amazing, but it's a shame there is so little of the curry. It definitely leaves you wanting to come back and try more though, so maybe it's strategic. \n\nSERVICE:\nI absolutely recommend Toni if she is there! She was very welcoming and so attentive. From the beginning of checking whose birthday it was to giving us complimentary ice cream for my SO's birthday to getting our parking ticket validated, she was always on top of things. \n\nCan't wait to stop by and try more dishes next time!!",
+        "language": "en"
+      },
+      "date": "2022-08-22T01:43:28Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2EOzT86UOXO9HcVMUjPC6w/o.jpg",
+          "caption": "Crab Cheese Rolls ($10)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/H8EYSwtWK_6SfPRQIESrjA/o.jpg",
+          "caption": "Panang Salmon & Shrimp ($29)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Tpa1P20V0sq9hNhrZK8Zdw/o.jpg",
+          "caption": "26 Basil Fried Rice ($25)"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Tanni D.",
+        "user_id": "qRp-5RKOD9sBLKapaWn_RQ",
+        "link": "https://www.yelp.com/user_details?userid=qRp-5RKOD9sBLKapaWn_RQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oNRjz5farc3WRqmMRlNH6Q/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 21,
+        "photos": 828,
+        "reviews": 299,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I came here on a date night last weekend. The ambiance was lovely, and our waitress was so sweet and helpful. We ordered the 26 Basil Fried Rice and Basil Spaghetti. Each dish contained two jumbo prawns that were absolutely delicious. The entrees were expensive, but the portions were large and they both were bursting with flavor!",
+        "language": "en"
+      },
+      "date": "2023-02-24T18:10:01Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3RfkcOVLAadTc6EgSeSvUw/o.jpg",
+          "caption": "26 Basil Fried Rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OV_PDrailnAE5Vwr7oItfA/o.jpg",
+          "caption": "Basil Spaghetti"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AaBF3tTTwXSBIfXA5qZtrg/o.jpg",
+          "caption": "26 Basil Fried Rice"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sheena S.",
+        "user_id": "GW_Zgwva1wuVfnOaBH73HQ",
+        "link": "https://www.yelp.com/user_details?userid=GW_Zgwva1wuVfnOaBH73HQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DbZPFhU3kKM78BxamMQbHw/180s.jpg",
+        "address": "Alpharetta, GA",
+        "friends": 238,
+        "photos": 4823,
+        "reviews": 355
+      },
+      "comment": {
+        "text": "This was the first restaurant I had when I moved to Atlanta years ago. It has been my go to for good Thai, and place to take guests. I know I've given it a 5 star before, but this time, I was SO disappointed with the flavor of ALL of the food. We ordered chicken satay. It was heavily lacking salt. That's a rookie mistake. The deluxe fried rice was ok. The prawns were delicious, but again, I was left wanting more flavor from the dish. Chicken Panang was ordered medium, but it was pretty much mild. I am guessing you have to order Thai Hot to get some heat. \n\nService is ALWAYS great here. I give them 5 stars on service. Ambience of restaurant is still nice, but it's starting to need some refurbishing. I'm saddened by this experience because I won't be back after this. I have a rule where I try not to repeat places but this one was my rule breaker. We ate here often and happily. Last time we were here, they told us the Midtown location serves sushi. That was wrong. It is in fact the Brookhaven location, but I didn't bother going because the prices for rolls was very steep. Anyhow, it's been a good run 26 Thai. \n\nParking : validation for the deck directly behind the restaurant. \nLocated: right across the Marta Station\nReservations : easy and available",
+        "language": "en"
+      },
+      "date": "2023-01-09T20:31:51Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 6,
+        "funny": 1,
+        "cool": 4
+      }
+    },
+    {
+      "user": {
+        "name": "Barry S.",
+        "user_id": "f1tdaXpQf8GbN3DGxPh11w",
+        "link": "https://www.yelp.com/user_details?userid=f1tdaXpQf8GbN3DGxPh11w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kU4UQJYIoaqXGWQJ1HVnAQ/180s.jpg",
+        "address": "Dallas, TX",
+        "friends": 218,
+        "photos": 17,
+        "reviews": 71
+      },
+      "comment": {
+        "text": "Top 5 best food I've ever had.  The service was top tier. The young lady was so attentive. The dishes she recommended blew me away. The 5 hour short rib is hands down one of the best dishes I've ever had. The curry was so so flavorful...even the rice! I could've eaten it by it self. So much attention to how the flavors come together.",
+        "language": "en"
+      },
+      "date": "2023-11-14T03:45:08Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shami P.",
+        "user_id": "dmaDTOs2C2SivMMURxkOOg",
+        "link": "https://www.yelp.com/user_details?userid=dmaDTOs2C2SivMMURxkOOg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uFqXBbcZgBS99sref9cDaw/180s.jpg",
+        "address": "Old Fourth Ward, Atlanta, GA",
+        "friends": 147,
+        "photos": 72,
+        "reviews": 118,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "the food was delicious and our server was so great and sweet. Everything we ordered came out hot and fresh and the drinks were tasty. Definitely a place to visit again!",
+        "language": "en"
+      },
+      "date": "2023-07-29T04:48:13Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Henry T. J.",
+        "user_id": "0KpZ4ayB-3yy0Oe43NHs7w",
+        "link": "https://www.yelp.com/user_details?userid=0KpZ4ayB-3yy0Oe43NHs7w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bO1xNjwJUXT2pro0hWUdzQ/180s.jpg",
+        "address": "Atlantic Station, Atlanta, GA",
+        "friends": 2,
+        "photos": 0,
+        "reviews": 35
+      },
+      "comment": {
+        "text": "My family and I have gone to 26 Thai many times, and we have never been disappointed. There is always a new special which is always tasty. The service is on point. Frequently times, the owner is on-site making desserts",
+        "language": "en"
+      },
+      "date": "2023-11-13T00:55:25Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Muriah L.",
+        "user_id": "F6EEcnLfnyHTIRM32v0vQQ",
+        "link": "https://www.yelp.com/user_details?userid=F6EEcnLfnyHTIRM32v0vQQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HY18d32G3FUOxe-cqJ9nTw/180s.jpg",
+        "address": "Bowie, MD",
+        "friends": 81,
+        "photos": 32,
+        "reviews": 30
+      },
+      "comment": {
+        "text": "The drunken noodles dish was okay. It could have used more sauce and the noodles were very chewy. I don't remember what the drink was called but it had matcha and coconut creme and was very good. The thai dumplings were tasty. They only give you 4. I'm used to getting 6 or 8 but they were very big for the 4 that they give you.",
+        "language": "en"
+      },
+      "date": "2023-08-12T20:42:52Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BRvLwrZxWpWm31304wcOog/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jeremy E.",
+        "user_id": "lO-S8MTgUgQfXSpnF2VzTQ",
+        "link": "https://www.yelp.com/user_details?userid=lO-S8MTgUgQfXSpnF2VzTQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/II9qnupjTFqbkL_YHsorGQ/180s.jpg",
+        "address": "Danville, VA",
+        "friends": 152,
+        "photos": 18,
+        "reviews": 91
+      },
+      "comment": {
+        "text": "My wife and I came here for a Friday evening dinner while visiting Atlanta. I had seen the good reviews on Yelp! and thought we could give it a try since my wife loves Thai food. When we arrived there was no wait, which worried me since it was a Friday night and supposedly a great restaurant. Once we were seated those worries left immediately. \n\nThe staff and our server were wonderful! The ambiance was fantastic and we loved the low light in the restaurant. Don't worry, each table has its own personal light on the table, which was fun.\n\nThe food was amazing as well. I got the chef's special Khao Soi which I was told is not typically served at most Thai restaurants. It's the best of both worlds if you want something with curry and noodles! My wife had the Pad Thai (her favorite) and she said it is probably the best she has ever had. She even made a comment to our server when we ordered on how much she loves the peanuts in Pad Thai and the brought her extra peanuts when the food was brought out.\n\nOverall amazing experience and if we are definitely coming back if we are ever back in the area.\n\nP.S. - They also do parking validation for the parking garage",
+        "language": "en"
+      },
+      "date": "2023-06-22T13:36:19Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Greg S.",
+        "user_id": "JPve3nDBLHBdKCAGkOgClA",
+        "link": "https://www.yelp.com/user_details?userid=JPve3nDBLHBdKCAGkOgClA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-29OhkYgq4dEKlMurvyHZQ/180s.jpg",
+        "address": "Cape Coral, FL",
+        "friends": 301,
+        "photos": 284,
+        "reviews": 211,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Got seated right away. Was greeted at my table  with a Thai like greeting, which was cool. The food was delicious. Fresh. And was presented well. Once my budget gets built back.. ill have to come back. Oh of course..the atmosphere...definitely a place to take a date.",
+        "language": "en"
+      },
+      "date": "2022-12-01T22:39:43Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Wyp0YM583xV3DonLifZURg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X5mYeJmHFX06cCLam9cQRQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Joshelyn ..",
+        "user_id": "vyCTk_7SZBiVFQu02332sQ",
+        "link": "https://www.yelp.com/user_details?userid=vyCTk_7SZBiVFQu02332sQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/F08zP-6oBFzLfb6I1vJV5A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 10,
+        "photos": 238,
+        "reviews": 93,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place is BOMB!!!! The food here was amazing!\n\nI was here for work and the location was supreme considering it was within the community of where my AirBNB was. I wanted to go somewhere close and within walking distance since I didn't feel like driving and fighting for parking (parking is off-street BTW). \n\nMy Rama chicken was extraordinary! The flavors were amazing, very light coconut curry sauce which I wanted more of, yet not heavy. The chicken was juicy and tender with the breading/fried coating being the perfect touch to an already perfect dish. The rice was cooked perfectly-not too mushy and not too firm. The avocados were a nice touch as well. I loved that they incorporated a few vegetables likes carrots and onions into the sauce too. HIGHLY RECOMMEND!\n\nThe spring rolls were delicious, and they came with a side sauce which they paired well with. I don't remember much about the sauce and rolls to be honest because I was so hungry and scarfed those down quickly lol\n\nNow let's talk about the Fried Banana Pudding Rolls! By far THEE BEST dessert I've had ever! I ended up getting those to go but I am HIGHLY pleased by the flavor! The fried wrapping with the cream cheese at the bottom, and bananas, it was divine!\n\nThe atmosphere was nice. I sat at the bar per my usual when I'm solo. I will say I'm glad I beat the evening dinner crowd because as I was leaving, they were getting busier. \n\nYES, GO HERE! It's worth it!",
+        "language": "en"
+      },
+      "date": "2022-05-22T15:30:38Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KPNCYKiJtM2UMyLxNjjrZA/o.jpg",
+          "caption": "Rama Chicken Jasmine Rice Spring Rolls (already eaten)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/l4tErTLPTP-W0s2bcE7m3g/o.jpg",
+          "caption": "Fried Banana Pudding Rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w5RH1QLABTsIxmv7OOB8tQ/o.jpg",
+          "caption": "The ticket"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Diedre R.",
+        "user_id": "d_SCA4qvpcVXorlwe4ZdGw",
+        "link": "https://www.yelp.com/user_details?userid=d_SCA4qvpcVXorlwe4ZdGw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Wc2OmHY_XXNYiIfi564dQw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 458,
+        "photos": 1559,
+        "reviews": 1157,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We came here for a Mother's Day lunch and I've been telling everyone about our server Carley.\n\nShe was a true delight, personable without being intrusive, made great recommendations and from where we were sat, she also made the drinks and what great drinks they were.\n\nFor Mother's Day they had someone called the Mother's Sparkler, which was explained that it was raspberry vodka, raspberry puree, ginger agave and topped with sparking wine.  I had three @ $16/ea and they just continued to get better and better.  We ordered a total of five for our party of three. \n\nMy mom had the whole fried red snapper ($37) and the presentation and taste were exact to her desire.  My mom has been eating whole red snappers since before I can remember so she knows exactly what she wants it taste like and the last time I spoke to her she told me she was still sucking on the fish bones and raving how tasty the red sauce that topped the fish tasted. \n\nI had the Panang Salmon and Shrimp ($29), that was salmon, three regular sized shrimp along with broccolini and ginger rice.  It was average portion size and taste. \n\nMy daughter had the 5-hour short rib.  Note: This is one rib.  Not big enough to justify the $35 price tag of the meal but there were enough noodles that she'll probably have them for leftovers for the next couple of days. She loves ribs, but didn't mention much about it, so I imagine it was average at most also.\n\nWe also order the small plate mussels and the lobster potstickers.  Both are highly recommended.   They are small plates, but we were able to share, so that made the dishes even more enjoyable. I looked at the menu after we left and didn't see either of these dishes online, so its possible this was part of the special Mother's Day menu they had. \n\nMultiple locations and we went to the one near the Lindberg Marta station. \n\nOverall they earned the 5 star review based on Carley and the drinks, she is exactly what you want when dealing with someone serving you in the food industry.",
+        "language": "en"
+      },
+      "date": "2022-05-09T18:12:03Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GnWnqV1HNNIEnOFBkvluow/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RDPnVoFnc0KQ7x82ftiQiw/o.jpg",
+          "caption": "mother with her Mother's Sparkler"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eAUHYmgVRtcQHfVsqoCy5w/o.jpg",
+          "caption": "Whole Red Snapper"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uT9pziuv57MNtmBy_NORSw/o.jpg",
+          "caption": "Whole Red Snapper"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IKeRK_8R4bkMO4EGQP62uQ/o.jpg",
+          "caption": "Panang Salmon & Shrimp"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AMr6CE50Wq-TJ8Fq6omndA/o.jpg",
+          "caption": "Mussels and Mango Lobster Potsticker"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 3
+      }
+    },
+    {
+      "user": {
+        "name": "Nydie C.",
+        "user_id": "u8II-JGviLEj146HSyn8LA",
+        "link": "https://www.yelp.com/user_details?userid=u8II-JGviLEj146HSyn8LA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/30IZKCz8kTwH9gJZjxJONA/180s.jpg",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Amazing experience. Food and drinks are amazing!! Service was also great!\nGreat ambiance for special occasions",
+        "language": "en"
+      },
+      "date": "2023-07-19T17:44:09Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nicola L.",
+        "user_id": "fVxaNpuRibsdCw2P2Lwl6g",
+        "link": "https://www.yelp.com/user_details?userid=fVxaNpuRibsdCw2P2Lwl6g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/g52tNa1TS072adFkDMNu8Q/180s.jpg",
+        "address": "Stone Mountain, GA",
+        "friends": 187,
+        "photos": 637,
+        "reviews": 236,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I apologize for this lengthy review...\n\nCelebrating has become a creative feat.  Before I do this review here is a snippet of a backstory. Last minute I needed to book a large reservation. I called soooo many restaurants, with no success. I called another location and I believe her name was Alicia. Oh my gosh! She was so helpful, in explaining the policy of a private room. And explained that the Lindbergh location would be a better option, for my catering needs. \n\nI called the Lindbergh location and again was met the same excellent service, very refreshing. \n\nFast forward, to the night of service. \n\nParking:\nPark at city center parking across from Dunkin' Donuts and longhorn steakhouse. The restaurant validates up to 3 hours. If you go late at night, when it's time to leave you won't need a ticket to exit. Park on the street on your own risk. \n\nService:\nExceptional!!! Maurice my waitstaff was so patient.  For as much as I know about food and dining out, when I am reading a menu something weird happens. I lean heavily on the waiter to suggest, satisfying options. He was the best. By the look of things the others seemed committed to the experience. \n\nFood:\nI highly urge you to get the sampler. $30, for 4 items from the small plate menu. I'm going to give my option a nickname, \"Nikki sampler.\" Spring roll, chicken satay, roti - unbelievably good, vegetable potstickers. The dipping sauces with the sampler was paired perfectly. \nAnd then I ordered the ever popular drunken noodle - choice of protein. \nAlso if you have any allergies, let them know. \n\nOooh drinks:\nLychee martini cloudy nice and mild. I wasn't fond of the cloudiness of the drink. The taste was okay. \nTamarind martini, warm flavors. More tamarind would of made it a little sweeter and what I would of preferred. \nI love that they have a large selection of cocktails. \n\nOverall, I'm in love. The ambiance, decor, bar area worth every penny.  I can't wait to go back.",
+        "language": "en"
+      },
+      "date": "2022-02-06T04:44:37Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Okv9b2o8UIP4Il8TwdUaYQ/o.jpg",
+          "caption": "Tamarind martini"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lBlYZvnUJ-znjS26d4WyMA/o.jpg",
+          "caption": "Drunken noodle with chicken"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JBuu8VMLJCaSeckZzxZI6g/o.jpg",
+          "caption": "Complimentary birthday treat. Awesome treat for the guest of honor"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RL1PUXD3zk6jpPHdKbd5yA/o.jpg",
+          "caption": "Lychee martini"
+        }
+      ],
+      "feedback": {
+        "useful": 6,
+        "funny": 1,
+        "cool": 5
+      }
+    },
+    {
+      "user": {
+        "name": "Erin S.",
+        "user_id": "B-nz1ZBp9GdevG3pCuLo-A",
+        "link": "https://www.yelp.com/user_details?userid=B-nz1ZBp9GdevG3pCuLo-A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7HV7gBNZpQLGIh7Hd_OzFg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 377,
+        "photos": 4089,
+        "reviews": 783,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We had a party of 5 at 7:30 on Sunday, 1/30/22. We made reservations, but we didn't really need them on a Sunday night. The inside is pretty small, but there's outdoor seating too, though they weren't using it the night I was there. Service was good!\n\nHere's what I tried:\n- All in One Roll ($17): I liked it! The sauce was good.\n- Drunken Noodle ($17 for chicken): Generous portion. Good flavor.\n\nOthers in my party got Tom Yum Soup ($5 for chicken), Coconut Soup ($5 for tofu), Avocado Roll ($6), Pad See Ewe ($17 for chicken), Panang Curry ($17 for chicken), Pineapple Boat ($21). Everyone enjoyed theirs!\n\nIt was good, but a tad expensive. I think there are better Thai restaurants in the area.",
+        "language": "en"
+      },
+      "date": "2022-02-05T17:56:13Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2vZSDlgq9Xd__OPp93SFAA/o.jpg",
+          "caption": "All in One Roll"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fV_vzzg33ARU9mlnafOVmw/o.jpg",
+          "caption": "Sushi menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/irCjy-eVKTmEyXKsEGYZeg/o.jpg",
+          "caption": "Sushi menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vMD2HKagJmLmTtOSo12eeg/o.jpg",
+          "caption": "Drunken Noodle"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/muPmrdrcIgSkav7zt2mdPg/o.jpg",
+          "caption": "Drink menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-_lgHR6z-L2qIb-GtNbHaQ/o.jpg",
+          "caption": "Drink menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Z6KmsYm6RRCkDivJ_ldECg/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OpmIE0uNxZx1pYdMlOMKdg/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vYPNknDehVfW2B0PdkbE7Q/o.jpg",
+          "caption": "Tom Yum Soup"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/e2-kZkp3PupGQu3ZMWz9CA/o.jpg",
+          "caption": "Pad See Ewe"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Olivia S.",
+        "user_id": "I4OpjfW7SS1pGLVEGXg6lQ",
+        "link": "https://www.yelp.com/user_details?userid=I4OpjfW7SS1pGLVEGXg6lQ",
+        "address": "Snellville, GA",
+        "friends": 0,
+        "photos": 8,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "Food was great, the atmosphere was really cute and the prices were not bad at all. The service was great and the staff was super nice and accommodating",
+        "language": "en"
+      },
+      "date": "2024-01-31T06:40:27Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "FD W.",
+        "user_id": "d6gEUZOjhn_pbPyGhzZScA",
+        "link": "https://www.yelp.com/user_details?userid=d6gEUZOjhn_pbPyGhzZScA",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Ambience was very nice. Friendly and polite staff.. Food missed the mark. Calamari was chewy... fried rice with chicken and beef appeared and tasted microwaved.",
+        "language": "en"
+      },
+      "date": "2024-01-19T00:06:34Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Latasha B.",
+        "user_id": "yclIZNxWujUvrVhGGLRkWg",
+        "link": "https://www.yelp.com/user_details?userid=yclIZNxWujUvrVhGGLRkWg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hbnOX-iDi2duweZcauZXXA/180s.jpg",
+        "address": "Ladson, SC",
+        "friends": 148,
+        "photos": 1274,
+        "reviews": 287,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "We stopped by for a late lunch on our way out of town. It wasn't very busy, so we were seated right away. Additional people trickled in after we arrived, so it seems we hit the sweet spot where timing is concerned. The restaurant was decorated nicely and had an intimate feel even on a bright afternoon which is hard to pull off or it could just be where we were seated. \n\nThe wait staff was very attentive and made great suggestions as to what we should try and what was popular with other guests.\n\n\nThe Lychee Martini was really tasty. There was a piece of Lychee in the bottom which was a nice surprise. The appetizers were both absolutely delicious. On most first visits to a restaurant I load up on the apps, and this time I should have tried more! Everything was so good but I didn't want to be half sleep trying to drive 4hours home. \n\nIf you are visiting or a local, give this place a shot. You'll enjoy it.",
+        "language": "en"
+      },
+      "date": "2022-01-25T02:18:56Z",
+      "rating": 5,
+      "tags": [
+        "8 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UlLZ88XgBg0kKRMWpOHywQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rbp6Ik6bQkGSFuGjywZj2A/o.jpg",
+          "caption": "26 Basil Fried Rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/I7tKa6fblHbzbHa9exYHUA/o.jpg",
+          "caption": "Cream cheese Rolls yummy"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/n1tlZVnZP-CthVQ8iKHWdg/o.jpg",
+          "caption": "Dumplings"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nzAXRGw_TLnOUMKKcAjAYw/o.jpg",
+          "caption": "Lychee Martini"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dfwupb5zldDi165Z2KPdSA/o.jpg",
+          "caption": "Wine Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KpeYnGj75hhYvikAzkcIcg/o.jpg",
+          "caption": "Cocktail Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/f30bCQ6MCA7NsaJNZ7OgPw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Charles G.",
+        "user_id": "FXM1iPOOJ2a_K55jv__wtA",
+        "link": "https://www.yelp.com/user_details?userid=FXM1iPOOJ2a_K55jv__wtA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GT08UDEhxWCCe6iF6y-0jw/180s.jpg",
+        "address": "Canton, GA",
+        "friends": 120,
+        "photos": 166,
+        "reviews": 508,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My wife and I began dating in Thailand, and the first meal we had after our wedding was Thai delivery to the hotel. We don't always or even often go for Thai for our anniversary, but this crazy busy summer I dropped the planning ball and wanted somewhere that showed I wasn't completely thoughtless, so I searched for nice Thai restaurants. I'm so thankful for the great reviews Yelpers have this place, because it was a great 13th anniversary!\nOur server, to start with, was delightful. She offered to move us to a nicer table; she was present without intruding; she had great recommendations; she offered to get several pictures of us; and she even gifted us some ice cream after I sweated through a delicious curry! That's phenomenal service.\nThe food didn't disappoint, either. We ordered a bottle of Spanish rose bubbly, which was greatly enjoyed. We ordered the sampler of appetizers: crab sticks, dumplings, chicken satay, and roti masaman. Each was fresh and perfectly portioned. We split the special of the day, which was a green curry version of the surf and turf 5 hr rib (my wife LOVES green curry, so that was a great special for us) and the whole snapper. I've included pictures of the main courses, and let me tell you - the joy we experienced when I picked up the bone to cut the meat in half for us and the meat immediately fell off - it's the ideal rib situation! Some of the snapper pieces had powerfully fishy taste, but the majority were delicious. \nThe mango sticky rice was a bit disappointing because the sticky rice had formed a hard crust, but the center wasn't as tough, so we enjoyed it until we literally couldn't eat more. The black coffee was perfect, too, for those who like coffee after dinner (a habit for me only when driving back OTP from these joints!).\nThis is mostly white noise for all the terrific reviews, but I recall one guy whining that it was a \"sports bar\" - I can only imagine he left a review on the wrong page as there were only two TVs, both turned off the whole time we were there.",
+        "language": "en"
+      },
+      "date": "2022-08-01T02:01:25Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sCIRC7Ov6cQgBZ3qd247gg/o.jpg",
+          "caption": "Whole Red snapper in chili sauce."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wP20iGRr6an4hTp148nhwg/o.jpg",
+          "caption": "Green curry 5 hr beef rib - worth the whole trip here on its own!"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Stacy V.",
+        "user_id": "pd8lhExXmJd_e52q7kPi2g",
+        "link": "https://www.yelp.com/user_details?userid=pd8lhExXmJd_e52q7kPi2g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JSnRDumH0YtboBEffVp9eg/180s.jpg",
+        "address": "Austell, GA",
+        "friends": 3,
+        "photos": 87,
+        "reviews": 34
+      },
+      "comment": {
+        "text": "Took myself on a date and what an amazing little spot! I got the appetizer where you can choose 4 small plates and the the shrimp in a blanket, basil rolls, roti massaman and cream cheese and crab rolls and for desert I got the Thai tea créme brûlée..... everything was amazing!!! The waitress was the kindest, couldn't have had better service than what I did! They also validate parking!!",
+        "language": "en"
+      },
+      "date": "2023-03-23T10:21:25Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/P6krRULmZ1d3fB-6q0LIsw/o.jpg",
+          "caption": "Platter 26 Thai Platter"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/csUHuR_6OPgku2Tq7oZZIg/o.jpg",
+          "caption": "Basil Rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PGzuNcIv6qWMRK-OACllpA/o.jpg",
+          "caption": "Thai Tea Crme Brulee"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JxaPms2jYcBkPws02s68XQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AJfc6MVemP-24XuBPYEZ1Q/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Adelaide H.",
+        "user_id": "IsUoTLoMjwcNapN7W6HIKg",
+        "link": "https://www.yelp.com/user_details?userid=IsUoTLoMjwcNapN7W6HIKg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/33uqyLnkVcxfbsfVfyMp4g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 279,
+        "photos": 10,
+        "reviews": 59
+      },
+      "comment": {
+        "text": "Food is bad and expensive. I went to the Cheshire bridge location with my husband. We were excited to try something a bit more upscale. It was such a waste. Nothing was easy. Service was weird. It was a graveyard in there it was so quiet. I do not recommend!",
+        "language": "en"
+      },
+      "date": "2023-09-02T01:03:46Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ambe C.",
+        "user_id": "7VgyfrxKZrIL1bg_MO9q5w",
+        "link": "https://www.yelp.com/user_details?userid=7VgyfrxKZrIL1bg_MO9q5w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/F3SvTJYMGfFxnmqVXUz9JQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 233,
+        "photos": 723,
+        "reviews": 289,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "THAI 26 @26thai was the perfect choice for dinner tonight. Today was a Monday  and I needed some comfort food in my life. Thai food has become the go-to for days like this. I started with the \"Honey Ginger\" tea. That mellowed me allll the way and was quite yummy. \n\nI've never had the Basil Fried Rice served with shrimp so, I gave it a try. The serving was huge and so were the shrimp. \n\nAlso, the food came REALLY fast and the staff delivered awesome customer service.\n\nIf you're having a case of \"The Mondays\" or, you just want some good food....stop on by.",
+        "language": "en"
+      },
+      "date": "2021-12-14T16:50:55Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QuQc50YfcaWjehSgmaCLmg/o.jpg",
+          "caption": "Thai Tea"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WiAITVAnhKPiQmsyGv3h9Q/o.jpg",
+          "caption": "26 Basil Fried Rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VQ5WuhPjNApDnzLIxQZDJA/o.jpg",
+          "caption": "26 Basil Fried Rice"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Troy K.",
+        "user_id": "HcSrKDUWGd4RPm-vYn5n-g",
+        "link": "https://www.yelp.com/user_details?userid=HcSrKDUWGd4RPm-vYn5n-g",
+        "address": "Marietta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Title: A Weekly Delight at 26 Thai\n\nRating: \n\n26 Thai has become my go-to destination every Friday night, and I can't help but sing its praises for consistently delivering an exceptional dining experience. From the delectable dishes to the impeccable service and the cozy atmosphere, this Thai restaurant has truly captured my heart\n\nFrom the moment you step inside, you're enveloped in a warm and cozy atmosphere. The soft lighting and decor creates an inviting ambiance that makes you feel right at home. It's the perfect setting for an intimate dinner or a relaxed meal with friends and family.\n\nNow, let's talk about the food. The culinary offerings at 26 Thai are the pinnacle of excellence. The menu is a treasure trove of authentic Thai flavors, and every dish I've tried has been an absolute delight. Whether you're a fan of the classics like Pad Thai and Green Curry, or if you're adventurous and want to explore more exotic dishes, 26 Thai has something for everyone. Their attention to detail in crafting each dish is truly impressive. The flavors are vibrant and balanced, and the use of fresh ingredients is evident in every bite.\n\nOne thing that sets 26 Thai apart from the rest is their unwavering commitment to excellence in service. The staff here are attentive, friendly, and always willing to go the extra mile to make your dining experience enjoyable. They remember their regular customers and greet us with a warm smile, which makes us feel like family. The recommendations and explanations of the dishes on the menu are top-notch, and they are quick to accommodate any dietary preferences or allergies.\n\nIf you're a fan of Thai cuisine, 26 Thai is a must-visit. I can't recommend it enough. Whether you're a frequent visitor like me or it's your first time, you'll be treated to an exceptional dining experience that combines delectable food, impeccable service, and a cozy atmosphere. It's more than just a restaurant; it's a culinary sanctuary that keeps me coming back week after week.\n\nWith love,\n\nTroy",
+        "language": "en"
+      },
+      "date": "2023-11-04T20:46:25Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "S R.",
+        "user_id": "RjGXUii6Uo8LNEnMHc7aaA",
+        "link": "https://www.yelp.com/user_details?userid=RjGXUii6Uo8LNEnMHc7aaA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bCciXJjSjyziy6VpjKZWUQ/180s.jpg",
+        "address": "Smithtown, NY",
+        "friends": 8,
+        "photos": 115,
+        "reviews": 173
+      },
+      "comment": {
+        "text": "We went last night to 26 Thai. Everyone loved their meals: Drunken Noodle, Pad See Ewe, and Chicken curry. The service was fine. This is a cashless business so make certain you have a credit card to pay.",
+        "language": "en"
+      },
+      "date": "2023-07-02T13:37:43Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Arnesh S.",
+        "user_id": "5VRp_XMBcj4aq3dj2GKINg",
+        "link": "https://www.yelp.com/user_details?userid=5VRp_XMBcj4aq3dj2GKINg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kvpAsiyLtwRMlwWv3Ill8g/180s.jpg",
+        "address": "New York, NY",
+        "friends": 79,
+        "photos": 325,
+        "reviews": 54
+      },
+      "comment": {
+        "text": "This place is an unassuming Thai restaurant that definitely delivers on their food. I ordered Roti Massaman and Spring Rolls as appetizers, both of which were incredible. Their Roti Massaman was a delicious pairing of a soft, flaky roti with a rich curry - one of the best I've had across any Malaysian or Thai restaurant. A trip back to Atlanta would be worth it for the Roti Massaman alone. The Spring Rolls had a perfectly crunchy exterior, which presented a beautiful contrast in texture to the soft glass noodles inside. The other components of the interior comprised of taro, cabbage, carrot, and celery inside, yielding earthy and complex flavors. For the main course, I went with the Drunken Noodle with Chicken, which came piping hot, straight from the wok. The chefs at 26 Thai Kitchen have mastered wok hei, and you can't go wrong with any of their other wok specialities on the menu - this is a unique place that proudly serves up some of the most delicious Thai food in Atlanta!",
+        "language": "en"
+      },
+      "date": "2023-08-15T15:57:03Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iMFfh1aKlrqwQqOtZ5d_YA/o.jpg",
+          "caption": "Drunken Noodle w/ Chicken"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/o-tjuT1u1oQiNPM0Kn5swA/o.jpg",
+          "caption": "Spring Rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UR7eOLAMUAVk7txVyGE5Fg/o.jpg",
+          "caption": "Roti Massaman"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Clay B.",
+        "user_id": "9DZmg4sx4K5pnKIKMTzV-A",
+        "link": "https://www.yelp.com/user_details?userid=9DZmg4sx4K5pnKIKMTzV-A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wwCTVzmBjPBVBhJBafEpOw/180s.jpg",
+        "address": "Mableton, GA",
+        "friends": 123,
+        "photos": 471,
+        "reviews": 334
+      },
+      "comment": {
+        "text": "I'll keep this short and sweet....\n\nNot for me. The food had some weird taste which I had no choice but to send it back. Basically, destroyed my appetite so I decided I'd find somewhere else to eat. Maybe \"Thai\" is just not my thing. On this visit I tried the pepper steak, but as mentioned, could not eat it so it was sent back. Maybe I'll try again in the future.",
+        "language": "en"
+      },
+      "date": "2023-01-04T16:37:08Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ava E.",
+        "user_id": "rvEM7znIUcJ4zP1Lc7cQTg",
+        "link": "https://www.yelp.com/user_details?userid=rvEM7znIUcJ4zP1Lc7cQTg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MNSjxdOm-28aoiinr0S8fg/180s.jpg",
+        "address": "Hayward, CA",
+        "friends": 51,
+        "photos": 470,
+        "reviews": 464,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "My first night in town and I met a colleague here for dinner. Loved the ambiance immediately and was really interested in dining here.  Another colleague joined and we ordered appetizers.  \n\nWe ordered the spring rolls and pot stickers...and both were delicious.  I also ordered the Whole Red Snapper, that was a whole fish that they fliet and cooked the meat and placed back on the fish....it was amazing with garlic rice.\n\nIt was a perfect meal for my first night/time in ATL!  Would definitely eat here again! Staff was great and very helpful!",
+        "language": "en"
+      },
+      "date": "2022-06-05T02:14:36Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 4,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Victoria M.",
+        "user_id": "bwkwpY3ZGrq9EhyDWt3asw",
+        "link": "https://www.yelp.com/user_details?userid=bwkwpY3ZGrq9EhyDWt3asw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6kj3I3Na6VWrzKNYamSehQ/180s.jpg",
+        "address": "San Francisco, CA",
+        "friends": 7,
+        "photos": 95,
+        "reviews": 53
+      },
+      "comment": {
+        "text": "I've been going to 26 Thai Kitchen & Bar routinely for Thai food in Atlanta. The best dish I've eaten so far at this restaurant has been Basil Gai because of the great flavors.\n\nCritique:\nOccasionally the Basil Gai will be extremely salty. \n\nIngredients: \nMinced chicken, bell pepper, onion, green bean, spicy basil sauce, fried egg, jasmine rice",
+        "language": "en"
+      },
+      "date": "2023-02-04T06:04:01Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=jx0yeEipLwhKDlwWcyGt9Q&start=50"
+  }
+}

@@ -1,0 +1,1697 @@
+{
+    "search_metadata": {
+        "id": "65ef2b01f26ac6b43e8bbd70",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f3ac24a8377f2625/65ef2b01f26ac6b43e8bbd70.json",
+        "created_at": "2024-03-11 16:02:09 UTC",
+        "processed_at": "2024-03-11 16:02:09 UTC",
+        "yelp_reviews_url": "https://www.yelp.com/biz/ApwmEiStq9aP9-Tf2xfVtA?",
+        "raw_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef2b01f26ac6b43e8bbd70.html",
+        "prettify_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef2b01f26ac6b43e8bbd70.prettify",
+        "total_time_taken": 2.4
+    },
+    "search_parameters": {
+        "engine": "yelp_reviews",
+        "start": 0,
+        "num": "50",
+        "place_id": "ApwmEiStq9aP9-Tf2xfVtA"
+    },
+    "search_information": {
+        "total_results": 1747,
+        "business": "Gus's World Famous Fried Chicken"
+    },
+    "review_languages": [
+        {
+            "hl": "en",
+            "count": 1747
+        },
+        {
+            "hl": "sv",
+            "count": 1
+        },
+        {
+            "hl": "ja",
+            "count": 1
+        },
+        {
+            "hl": "de",
+            "count": 1
+        },
+        {
+            "hl": "es",
+            "count": 3
+        }
+    ],
+    "reviews": [
+        {
+            "user": {
+                "name": "Stephanie J.",
+                "user_id": "tYNCKGIu9olnIcD9wTM_KA",
+                "link": "https://www.yelp.com/user_details?userid=tYNCKGIu9olnIcD9wTM_KA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/jYc-7hyDEmiQfehYUJ4rAw/180s.jpg",
+                "address": "San Francisco, CA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "This location was extraordinary! The service was top notch, the food was impeccable, and the ambiance was fantastic! I love love love this place! I cannot say enough about the chicken being perfect, the Mac& cheese was delicious  and the baked beans were yummy! If you haven't tried Gus's World Famous Chicken, you don't like chicken! Please visit the location in the Peachtree Mall! It's worth every dime!",
+                "language": "en"
+            },
+            "date": "2024-01-21T16:54:23Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "No N.",
+                "user_id": "hypQ0WQKkKPTbjv0JLHkGw",
+                "link": "https://www.yelp.com/user_details?userid=hypQ0WQKkKPTbjv0JLHkGw",
+                "address": "GA, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "Very crispy fried chicken, with a little spice. Friendly staff and stays open later than other restaurants in the area.",
+                "language": "en"
+            },
+            "date": "2024-01-27T14:43:12Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jon L.",
+                "user_id": "YnSxh5AC2EtmOyg2XqcqPQ",
+                "link": "https://www.yelp.com/user_details?userid=YnSxh5AC2EtmOyg2XqcqPQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/u9kYpEYZlmkg3sWWIqDtyA/180s.jpg",
+                "address": "Forest Hills, NY",
+                "friends": 84,
+                "photos": 73,
+                "reviews": 184,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "This isn't the fanciest place. It's on the lower level of the Peachtree Center shopping complex, and it's one step removed from looking run down. The menu is simple as well - it's just a way to tell them how many pieces of chicken you want. \nThe reason to come here is the chicken, which lives up to the \"World Famous\" billing. It might be the best fried chicken I've ever had, and it's definitely in the top 5. \nBonus points for great service - my waitress was very friendly and attentive.",
+                "language": "en"
+            },
+            "date": "2024-01-20T23:05:35Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NXlargDVImheC-8NbfqyFA/o.jpg",
+                    "caption": "Three piece white meal. Two beasts and a wing. It was crazy good and enough food to count as lunch and dinner!"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Giovanni V.",
+                "user_id": "kD_FScl4YPpVFjN03GW2Cg",
+                "link": "https://www.yelp.com/user_details?userid=kD_FScl4YPpVFjN03GW2Cg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/mr63t_UG_tw1oBKLJGu0Zg/180s.jpg",
+                "address": "Columbus, OH",
+                "friends": 16,
+                "photos": 170,
+                "reviews": 187
+            },
+            "comment": {
+                "text": "Meh. Popeyes is way better !\nOverhyped and overpriced. \nIt just tasted bland and lacked flavor.",
+                "language": "en"
+            },
+            "date": "2024-02-27T22:42:07Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Celi H.",
+                "user_id": "nbwhBWbICkZDZhRWOAFGHw",
+                "link": "https://www.yelp.com/user_details?userid=nbwhBWbICkZDZhRWOAFGHw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Lm6cO8maA2zuhYkAKfXayQ/180s.jpg",
+                "address": "FL, FL",
+                "friends": 3,
+                "photos": 109,
+                "reviews": 18,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I went in to order take out, simply because it was late and I had to rush to the airport to catch a flight. The restaurant is pretty big and spacey on the inside. Upon ordering, my food came out in about 10 minutes.\n\nHere's what I ordered:\n3 Piece Wing with Baked beans and Mac and cheese \n2 piece Dark with greens and Mac and cheese \n4 tender with Mac and cheese and fries\n\nEverything was delicious. The chicken was nice and crispy, juicy and fell off the bone.\n\nI travel often to ATL and I'll definitely be back!",
+                "language": "en"
+            },
+            "date": "2024-01-15T01:32:48Z",
+            "rating": 4,
+            "tags": [
+                "6 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FHo5sNTJVqGpbolNv1OBpg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w2gEbiBXh2Pzs2uzmlJVGw/o.jpg",
+                    "caption": "Menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3PDPEAZTj-A2gBPDykvf7w/o.jpg",
+                    "caption": "4 tender with Mac and cheese and Fries"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3QqQDQxqBsNoAv3c46yZ0g/o.jpg",
+                    "caption": "3 Piece Wing with Baked beans and Mac and cheese"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vAxl-dzMStvNFjDJ_kD8lQ/o.jpg",
+                    "caption": "Take out area"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/91i8capIuKeZPyOA99yZ3A/o.jpg",
+                    "caption": "Outside, front of restaurant"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Charmaine C.",
+                "user_id": "TZ-20bMe4LOTPig_rZFiZA",
+                "link": "https://www.yelp.com/user_details?userid=TZ-20bMe4LOTPig_rZFiZA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6EULYG_v-Vsso6PqnRapDA/180s.jpg",
+                "address": "McLean, VA",
+                "friends": 214,
+                "photos": 417,
+                "reviews": 306,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Fresh tasty spicy juicy crispy southern style fried chicken! So satisfying!!! My heart might have stopped for a moment but boy it was heaven! \nMy daughter recommended it and said it's life changing;) \nFriendly fast service and conveniently located near our hotel.",
+                "language": "en"
+            },
+            "date": "2024-01-11T21:50:35Z",
+            "rating": 5,
+            "tags": [
+                "3 photos",
+                "1 check-in"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nRLQ_QS__VIXEStZX851ow/o.jpg",
+                    "caption": "Sweet Tea"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rlXdadCoZZ3Vj7bp0XAh4w/o.jpg",
+                    "caption": "8 Piece Snack"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zWWBZqMtNUtebcl0fGX6PQ/o.jpg",
+                    "caption": "Mall entrance"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Abegail A.",
+                "user_id": "DihTsliUxbqpoA9W3uRDBA",
+                "link": "https://www.yelp.com/user_details?userid=DihTsliUxbqpoA9W3uRDBA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2NKiBEhOpZJb3qXDHaimWw/180s.jpg",
+                "address": "Rockville, MD",
+                "friends": 1137,
+                "photos": 6068,
+                "reviews": 1116,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "My first meal in ATL didn't disappoint. The Southern fried chicken at Gus's was just as good as I remembered (I wish they still had their MD location!). Crispy, juicy, flavorful, and delicious! Don't sleep on that fried okra either. Although rather cheesy, I found the mac and cheese to be just okay.\n\nGus's gets bonus points for being a block away from my hotel.\n\nService was friendly, and food came out in a decent amount of time. Loved the cozy and welcoming vibe this restaurant gave.",
+                "language": "en"
+            },
+            "date": "2023-11-22T02:05:57Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/v9sSXZurLXsbQtNKgoCirg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VcHjMbfesVWsCJ0PekoGSA/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 8,
+                "funny": 3,
+                "cool": 4
+            }
+        },
+        {
+            "user": {
+                "name": "Christine L.",
+                "user_id": "NYDDpBOkyHoCpI-ACAvsRg",
+                "link": "https://www.yelp.com/user_details?userid=NYDDpBOkyHoCpI-ACAvsRg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/T7Julcx0V0Uxu3sdNJ2mlg/180s.jpg",
+                "address": "Pasadena, CA",
+                "friends": 325,
+                "photos": 570,
+                "reviews": 98,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Visited Gus's World Famous Fried Chicken during my trip to Atlanta and it was awesoem! The service was friendly and welcoming right from the start. The highlight, of course, was the chicken - it lived up to the hype with a deliciously spicy kick that set it apart from your average fried chicken. I appreciated how accommodating they were with substitutions, allowing us to swap sides to our preference. Opted for the 2-piece dark meat plate, and it was a perfect choice. Definitely planning a return visit the next time I'm in Atlanta. Highly recommend for anyone looking for top-notch fried chicken with a unique twist!",
+                "language": "en"
+            },
+            "date": "2024-02-05T22:42:32Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Hb1Zd4kVbwveuIhKvvd-YA/o.jpg",
+                    "caption": "2 Piece Dark Plate"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Miss Maggie C.",
+                "user_id": "ojovtd9c8GIeDiB8e0mq2w",
+                "link": "https://www.yelp.com/user_details?userid=ojovtd9c8GIeDiB8e0mq2w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/q9LFycofbm_uPt3XBXW8tw/180s.jpg",
+                "address": "Saratoga, CA",
+                "friends": 124,
+                "photos": 293,
+                "reviews": 596,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "There is an entrance to Gus's from the underground hotel restaurant area under the Hilton/Marriott/Hyatt.  They make this a sit down place where you wait to be seated but the sign where you wait at and the counter they tell you where to sit at are very far away so it's doesn't really feel like a sit down place.  Some of the tables hadn't been wiped yet so we picked one that seemed clean.  They're famous for their fried chicken so that's what we got!  The fried chicken was a little spicy on the outside but the two dark meat chicken pieces I got were very tender and indeed very crunchy.  I also got a side of collared greens which were good too.  Prices are around $8 for a two piece chicken meal on top of a piece of bread (didn't really understand how to eat it with the bread so just ate it like a side piece), and around $3 for each side.  They also have platters that already come with sides.",
+                "language": "en"
+            },
+            "date": "2024-02-29T05:35:26Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/B6ZB4-5SAqsEobexC8tlLA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BLGAMaEKk8SbH2dGCXwdxg/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Audrey B.",
+                "user_id": "CUsdKQl6W8N9psTryKSOTQ",
+                "link": "https://www.yelp.com/user_details?userid=CUsdKQl6W8N9psTryKSOTQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_DcdRz7C1sUp2GCghQJTOw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 225,
+                "photos": 168,
+                "reviews": 153,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I must have been in a bad mood topped with coming in on a bad day because today the service was so good. The space is casual and the food was good. The skin was a fried but was still real good inside which I don't know how that magic happened but it happened. The skin is spicy so be warned. I just got it with fries but enjoyed it not the less. Even the tenders were good and not dried out like many other tenders.  Shout out to Jass (hope I got that right) she wore a blue shirt and was kinda short. Just so sweet and helpful.",
+                "language": "en"
+            },
+            "date": "2024-01-03T17:47:43Z",
+            "rating": 5,
+            "tags": [
+                "2 check-ins"
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Alex M.",
+                "user_id": "DvL6N0HgYiZVZAGylnVi-g",
+                "link": "https://www.yelp.com/user_details?userid=DvL6N0HgYiZVZAGylnVi-g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wrdpoYQYgHnpZTaPJkpzhw/180s.jpg",
+                "address": "New York, NY",
+                "friends": 29,
+                "photos": 1012,
+                "reviews": 207,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Was visiting Atlanta and heard from numerous folks that we had to try Gus's, so we did and we're not disappointed!\n\nThe downtown location was easy to get to, large inside, southern charm ambiance, and smelt wonderfully like fried chicken! The service was quick and friendly - which we really appreciated as we had a few questions (and can tell the place was starting to get busy). \n\nNow that chicken was some of the best we ever had! Perfect crunch and spice to all of the pieces - my favorite was the thigh, but those wings were also top 5 with the best I've had. The fries were just OK (and would probably do a different side next time). Was also super reasonably priced too. \n\nI'd def go back to Gus's next time I find myself in Atlanta!",
+                "language": "en"
+            },
+            "date": "2023-10-06T12:57:23Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yarnm4ZZ7plYor-cS0OjWg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/F8ESWL7xt5WbwP1C5VNqog/o.jpg",
+                    "caption": "2 Piece White Plate with a side of another wing and a chicken thigh. Also subbed beans for fries. All were fantastic!"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 1,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Anna O.",
+                "user_id": "CnS4rsFd5iK4_-PkZOy4NQ",
+                "link": "https://www.yelp.com/user_details?userid=CnS4rsFd5iK4_-PkZOy4NQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/di2mjpEsYputc9wRcQiEuw/180s.jpg",
+                "address": "Elk Grove, CA",
+                "friends": 25,
+                "photos": 131,
+                "reviews": 39,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "The \"BEST\" southern food I've ever had. We walked in and waited to be seated, our server was Jabrea, she was sweet and helpful. I had the 3 piece dark plate with leg and thigh and for my sides I ordered baked beans and Mac and cheese. The baked beans were the best I've ever had and the Mac n cheese was top notch too.\nMy husband also had the 3 piece dark but he had the fries. He also loved the chicken (especially the crispiness and the spice). The only thing he missed was peach cobbler.\nOverall it was great food with friendly service and a clean environment.",
+                "language": "en"
+            },
+            "date": "2023-10-05T23:50:05Z",
+            "rating": 5,
+            "tags": [
+                "6 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/90nTLccGlPt3pM43VGQAHw/o.jpg",
+                    "caption": "3 Piece White Plate Mac & Cheese Baked Beans"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hKc8hwuvG4WZ_003mTYXmw/o.jpg",
+                    "caption": "Outside area"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/N0N9N-5jnVYz1h4G1RmUMw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NxEAwUxTcW-i-cm8dUmXeg/o.jpg",
+                    "caption": "3 Piece Dark Plate Seasoned Fries"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jAdOWGRKLB6XcvyLSEvS0w/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HW74hTGLAbj8bCfsGCoLPw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Laura M.",
+                "user_id": "QBr6tDNUl-4cYDQn8HDlPw",
+                "link": "https://www.yelp.com/user_details?userid=QBr6tDNUl-4cYDQn8HDlPw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DwxvD8tciT_pa7iJRIm_jA/180s.jpg",
+                "address": "Chicago, IL",
+                "friends": 131,
+                "photos": 448,
+                "reviews": 213,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "This restaurant is such a gem.  We came here after the SEC Championship game, so it was very busy!  But the line moved quickly to get seated.  Plus there was an option to order takeout instead.  Our waiter was incredibly friendly.\n\nWe each ordered fried chicken platters (2 dark pieces for me, half chicken for my companion), and we were pleased to find out you could substitute the prefixed sides for others from their menu.  The meals come with baked beans, cole slaw, and a piece of white bread.  We ended up switching out one of those sides each for the potato salad.  And to share, we got the macaroni and cheese.  It was all delicious!  The fried chicken was made just the way it should be - perfect amount of batter, crispy and not soggy with grease. \n\nAfter we ate, we also got pie.  Now, we were hoping to try either their sweet potato or pecan pie, but they were sold out.  Our waiter suggested the chess pie, and we decided to give it a go!  It was so good!  It's basically a vanilla custard type flavor, and I'm so glad we tried it.\n\nOverall, I highly recommend Gus' and hope to come back one day!  The food was great and so was the service.",
+                "language": "en"
+            },
+            "date": "2023-12-03T22:50:47Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Danielle C.",
+                "user_id": "-G4Rkk5mh6aWQeoKcpJq-w",
+                "link": "https://www.yelp.com/user_details?userid=-G4Rkk5mh6aWQeoKcpJq-w",
+                "address": "New Haven, CT",
+                "friends": 2,
+                "photos": 14,
+                "reviews": 34
+            },
+            "comment": {
+                "text": "I didn't care for it. The fried green tomatoes were bland and the chicken dry and lacking in flavor. The cole slaw and beans did t taste homemade. Waitress was friendly and location convenient to the conference center.",
+                "language": "en"
+            },
+            "date": "2024-03-04T22:03:19Z",
+            "rating": 2,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/81vljCm-A06R4usmW5qWMQ/o.jpg",
+                    "caption": "2 piece dinner - breast & wing"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sxTLAFnRC8Fg6H-IrqzjMA/o.jpg",
+                    "caption": "Fried Green Tomatoes"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Lisa C.",
+                "user_id": "HGgsNBaaUprlK8kbGN1Xmg",
+                "link": "https://www.yelp.com/user_details?userid=HGgsNBaaUprlK8kbGN1Xmg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ct4hxqGIHJKP4wssXduKuQ/180s.jpg",
+                "address": "Port St Lucie, FL",
+                "friends": 143,
+                "photos": 506,
+                "reviews": 150,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Second time at this specific downtown location - Amazing. Flavorful. Fresh. Crispy. Juicy. \nShould I stop or keep going? \n\nService is amazing and as I mentioned in the Sandy Springs Gus's location, I enjoy the welcoming family vibes when I enter this restaurant. This location is a lot better than the other. \n\nTip: Paid street parking or parking garage since it's located in downtown Atlanta",
+                "language": "en"
+            },
+            "date": "2023-08-21T21:31:21Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bvy1wcgx7wlHYUwzbjDtSA/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Chris M.",
+                "user_id": "3HMrnMk97YPUGgBuHQk4fA",
+                "link": "https://www.yelp.com/user_details?userid=3HMrnMk97YPUGgBuHQk4fA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1FKSD7mzpwlP4X8SfHL38w/180s.jpg",
+                "address": "San Antonio, TX",
+                "friends": 17,
+                "photos": 46,
+                "reviews": 75,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Well. What can I say. Great chicken. Loved it. Being downtown was nice to have this close by. \n\nHostess was awesome. I ordered more than I should have but found a way to eat it! Lol. \n\nFried green tomatoes were great. \n\nIf you find yourself near a Gus's hit them up worth the trip.",
+                "language": "en"
+            },
+            "date": "2023-07-03T20:12:35Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0bW3Hg-k0kM7Nhe7ML-BHA/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Kimberly C.",
+                "user_id": "pJTfRH7yi04vg63Pd2IK_g",
+                "link": "https://www.yelp.com/user_details?userid=pJTfRH7yi04vg63Pd2IK_g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/isGeM-FfhG27juqWqS5CpQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 1,
+                "photos": 22,
+                "reviews": 51
+            },
+            "comment": {
+                "text": "In 2024 I vowed to only give 5 stars to places that were a HELL YES! This is one of them! It's a dark space, quiet, but filled with people simply eating. The chicken is delicious! It's got a little kick, but it isn't burn your face off spicy. The beans...just get them! The folks working behind the counter were effective, communicated expectations well and were just good down home folks. Do be prepared that everything is dropped fresh into the fryers so your wait time is about 10-20 minutes for piping hot deliciousness. This place is a DO NOT MISS!",
+                "language": "en"
+            },
+            "date": "2024-02-26T16:41:29Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Neleh H.",
+                "user_id": "utpFs22zY_fXvx4_mxLTvw",
+                "link": "https://www.yelp.com/user_details?userid=utpFs22zY_fXvx4_mxLTvw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/P_ObBTNcCmOuV1NaK9Fa4A/180s.jpg",
+                "address": "Union City, CA",
+                "friends": 403,
+                "photos": 1205,
+                "reviews": 706,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Straight up simple delicious fried chicken served up w slaw & white bread at a very reasonable price. Fried green tomatoes not bad. Local beer was great with chicken. \nI kinda would've like a few specks of carrot in the slaw or some kinda fresh veg option- but that's ok it's not that kind of joint.\nThere was plenty of seating Friday night as we walked over from our hotel. Our server was super attentive. We really enjoyed our meal & visit.",
+                "language": "en"
+            },
+            "date": "2023-06-20T00:09:42Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nVuhDHKAkIUF56ZqbbLvIg/o.jpg",
+                    "caption": "2 Piece Dark Plate"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cCkkOBc7WeOyIomIpUHVXA/o.jpg",
+                    "caption": "Fried Green Tomatoes"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NOkg7Z6l7sS3X2-CYBZc5w/o.jpg",
+                    "caption": "Beer"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "D. K. C.",
+                "user_id": "BXz2HAGbW9zShg1pZoRDsQ",
+                "link": "https://www.yelp.com/user_details?userid=BXz2HAGbW9zShg1pZoRDsQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/E9fJN6vozoN8d5YWvOyBYw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 3242,
+                "photos": 1262,
+                "reviews": 366,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "For the record, I need you to understand the level of excitement that came over me at the fact that I was finally able to try Gus's!\n\nI have a girlfriend who has told me on more than one occasion that Gus's was the best fried chicken she has ever had in her life. As such, I had to go! \n\nAfter years of saying \"I'm going\" I was finally able to make my way in. I love that there is parking directly across the street from the building. Upon walking in I was drawn to the cafe style setup presented. It looks like a weekday cafe mixed with a small family restaurant. Great aesthetic for a friend lunch or personal meal. \n\nWe were seated upon entry and greeted by our waitress Nicole. Nicole walked over very upbeat and all smiles. She was super friendly and instantly connected with us as we laughed and joked as we discussed our drink choices. Note to Management, Nicole's service was above standard and worth recognition. \n\nI decided on a Sweet Tea and the 2 Piece. For the record they do NOT have cornbread. Nicole comforted me by letting me know I wasn't alone in my thoughts that cornbread would be on the menu. LoL!\n\nThe Sweet Tea was Southern Sweet Goodness and exactly what I needed on a warm Spring Day. As I sit here and write this I want some more. LoL!!\n\nThe chicken was a true experience. Crunchy on the outside. Moist and meaty on the inside. Well seasoned with a noticeable blend of flavor on the meat as well as in the batter along with being perfectly cooked. This 2 piece hit the spot in the exact way that was needed at the moment. \n\nI will admit, when it comes to GREAT Fried Chicken, Gus's has made its way to my Top 10 List!!!  \n\nIf you are near a Gus's I suggest you make it a point to stop in and grab you an order. Make sure to sit down before taking a bite as it will cause a sensation of flavor-goodness throughout your whole body. HaHa!!",
+                "language": "en"
+            },
+            "date": "2023-04-29T13:30:44Z",
+            "rating": 5,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gZksaYtirGJmA3I9KUBQEg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qYsuwzRulwEa51q6wWy0hQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/q1IkKh6OcQQ2BXZaNNrPvQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HBUioeS9TvjZajI-j785Tw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Christina R.",
+                "user_id": "byV70bKT87SHgN0uRtow6w",
+                "link": "https://www.yelp.com/user_details?userid=byV70bKT87SHgN0uRtow6w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vNNmTqvHv8vhN5Dz1JM-PA/180s.jpg",
+                "address": "Las Vegas, NV",
+                "friends": 252,
+                "photos": 5137,
+                "reviews": 1197,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "The best fried chicken I've ever had, hands down!\n\nSeriously, this is some excellent fried chicken.  We ordered a 2 piece dark and a 2 piece white and all 4 different pieces were hot, juicy, flavorful, crispy and oh just ever so slightly spicy.  Sacrilege, I know, but sometimes I like to dip my fried chicken into ketchup/hot sauce.  This chicken does not need that.  It's so flavorful and juicy, it really doesn't need an accompaniment.  I wish Gus's were in Las Vegas, I'd get a bucket a week.\n\nThe sides were ok.  The coleslaw was good but very sweet and over-dressed.  The greens were ok but lacked any depth of flavor.  The baked beans were very good.  I have never had such a tomato heavy base baked bean with bell peppers.  Really, really good.  \n\nThe service in this place is a little lackluster.  There seemed to be a lot of servers (I counted 5 I think) but they seem to be more involved with checking their phones and gossiping than anything else.  That being said, our server did check up on us at least once so I can't really complain.  Our table was sticky and when our server put our utensils down, she grabbed a napkin, put that down first, then put our napkins and silverware on said napkin.  It's like she knew the table was dirty, which I definitely didn't like.  Instead of phones, maybe wipe down some tables?",
+                "language": "en"
+            },
+            "date": "2023-03-07T16:29:38Z",
+            "rating": 4,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uxZKSjUgov9Vb5ZqAD1M_Q/o.jpg",
+                    "caption": "Tables"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YC5roGXzbNkMH_RgMhH1Cw/o.jpg",
+                    "caption": "2 Piece Dark"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TuqRkeHy1XDZclPCD4TP9A/o.jpg",
+                    "caption": "2 Piece White"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MsH7fJrPnEYdpPcGDYuT4A/o.jpg",
+                    "caption": "Lemonade in a commemorative cup (wish I kept it now)"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Awhyd_PJEIvK8s60acT3Hw/o.jpg",
+                    "caption": "Office water tank"
+                }
+            ],
+            "feedback": {
+                "useful": 2,
+                "funny": 1,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Jeremy B.",
+                "user_id": "rDyMtKDY9lxYv5GlxFO8VQ",
+                "link": "https://www.yelp.com/user_details?userid=rDyMtKDY9lxYv5GlxFO8VQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WTTF7kzHZwRoYLFtuM9DUQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 448,
+                "photos": 3474,
+                "reviews": 941
+            },
+            "comment": {
+                "text": "Always a great spot to grab lunch. It's conveniently located downtown with a parking lot directly across the street from the restaurant. I've been frequenting this spot for the past 6 years and the service is always good and on point. There's nothing better than their spicy  fried chicken and their crispy fried okra.",
+                "language": "en"
+            },
+            "date": "2023-12-09T18:40:56Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ok3ZmL8nycSzR2xpca4vKQ/o.jpg",
+                    "caption": "That 3 Piece White Plate with them WANGZ"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Danielle K.",
+                "user_id": "srob2s0_tZBtASKXtPOheQ",
+                "link": "https://www.yelp.com/user_details?userid=srob2s0_tZBtASKXtPOheQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-UooAzBD5wvdIsRjUUNuQA/180s.jpg",
+                "address": "Vancouver, Canada",
+                "friends": 134,
+                "photos": 426,
+                "reviews": 258,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Out-of-this-world fried chicken from Tennessee! \n\nI love fried chicken. So naturally, my interest was piqued when I found this place in Atlanta serving \"world famous\" fried chicken!\n\nGus's is a chain originally from Tennessee. It started out as a small family business some 60 years ago, & has since grown to multiple locations across 14 states. \n\nChicken:\n- Gus's World Famous Hot & Spicy Fried Chicken (10-piece assortment)\n- Tenders (x2)\n\nSides: \n- Slaw\n- Mac & Cheese \n- Greens\n- Potato Salad \n- Baked Beans\n\nStarters:\n- Fried Okra \n- Fried Pickle Spears\n- Fried Green Tomatoes\n\nDrinks:\n- IBC Root Beer Float \n- Diet Coke \n\nThe fried chicken was exceptional. It was so tender & juicy on the inside, while perfectly crispy on the outside. Even parts that you'd expect to be tougher usually (like the thigh) were tender & juicy too! That's because they marinate all their chicken for 24 hours beforehand! What's even more amazing is that the spiciness was so sublime, you could enjoy the spicy taste without having your entire mouth burn up! \n\nThe fried starters were surprisingly tasty too. I loved the okra & the green tomato. The ranch dips were a perfect pairing.\n\nThe sides were pretty decent, of which my faves were house-made potato salad & slaw. \n\nThe IBC Root Beer Float was so creamy & refreshing! Simply heaven. The drinks come in a cute souvenir cup you can take home too!\n\nOverall, we were very impressed with our meal at Gus's. Their fried chicken is definitely some of the best we've ever had!",
+                "language": "en"
+            },
+            "date": "2023-02-17T23:30:23Z",
+            "rating": 5,
+            "tags": [
+                "6 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6e08IuSec8mzJra921vtSw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4BiTWH2PMsSeKteJEgt99Q/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jhunSeBD9WOiqnKIgjn4nA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vL0ks9e-VstKDWojjH-mzQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5xnHxa36gfciJO3HapUtAg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/A7RqZXk3O42jmwCljQRtNw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Erica E.",
+                "user_id": "6iL3kh42CDWhcEq3y-A5HQ",
+                "link": "https://www.yelp.com/user_details?userid=6iL3kh42CDWhcEq3y-A5HQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7Vp1NdB94Mnnr9ZyJmr6tA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 3896,
+                "photos": 4748,
+                "reviews": 423,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Omg. Y'all, this is some good chicken. I want to curse so badly to get my point across but this is a family-friendly app, so let me get myself in order. But baby! Who knew?! I guess all of you giving rave reviews knew, but why didn't y'all tell me, your friend?! Smh. Well, the secrets out and I now know where to get some amazinggg fried chicken in Atlanta. \n\nSo if you've read any of my reviews, you'll see that I'm a frequent solo diner and a major fan of takeout. Sometimes getting all dolled up and going out in ATL traffic just isn't the move but a girls gotta eat! So I hop on a delivery app and order a meal with a click. And lucky me, I stumbled upon Gus's. I love myself some fried chicken and/or hot wings, always a great plan. But you can't always find exceptional fried chicken sometimes, but I have!\n\nMy go-to is the three piece dark combo. When I ordered it for the first time, I expected to need hot sauce but not at all! Omg it was so juicy! The skin was so crisp but it was all so flavorful, and it had a kick too! I'm a spicy dark kinda gal and these were fireeeee, no hot sauce needed. My first set of sides were greens and Mac & cheese, and honestly, not the move. The Mac seemed like fancy Kraft and the greens were just okay, but my mama makes the best greens so I'm bias lol. But I've tried the fries and the baked beans as well and they were delicious! The fries were nicely seasoned and the beans weren't too sweet, but flavorful. As I write this, I'm plotting on my leftovers in the kitchen lol. \n\nDefinitely my go-to fried chicken spot going forward!",
+                "language": "en"
+            },
+            "date": "2023-01-21T23:49:11Z",
+            "rating": 4,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/N5eCK1SfKz2ID5xbD2vhZg/o.jpg",
+                    "caption": "3pc dark"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L7ZBD86NLkrebUhdR3bFCA/o.jpg",
+                    "caption": "3pc dark"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iPMKWbZA-YxiHnGGJKL6TA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vrb_G8YJB_2aH-3Xl7CyPg/o.jpg",
+                    "caption": "Greens & Mac and Cheese"
+                }
+            ],
+            "feedback": {
+                "useful": 23,
+                "funny": 7,
+                "cool": 20
+            }
+        },
+        {
+            "user": {
+                "name": "Dan C.",
+                "user_id": "_cxCVEZY3x3aED267M-P7Q",
+                "link": "https://www.yelp.com/user_details?userid=_cxCVEZY3x3aED267M-P7Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CIxQtVVadR9LDzlAWoi_tA/180s.jpg",
+                "address": "Concord, NH",
+                "friends": 0,
+                "photos": 18,
+                "reviews": 88
+            },
+            "comment": {
+                "text": "I enjoyed lunch two days in a row. I ordered the two piece white meat with fried okra and coleslaw. First lunch was myself and a colleague. The second lunch I brought eleven colleagues. The chicken was very moist. The okra and slaw were excellent. The service was great and quick. I was nervous with the group of 12 as everything is cooked fresh but our food arrived quickly.",
+                "language": "en"
+            },
+            "date": "2024-02-12T02:29:19Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Lonnie M.",
+                "user_id": "1vU1vwm0oJ234fM1O3i9cg",
+                "link": "https://www.yelp.com/user_details?userid=1vU1vwm0oJ234fM1O3i9cg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VyhHrJOu23dpQyHwSFKN2A/180s.jpg",
+                "address": "Keller, TX",
+                "friends": 114,
+                "photos": 42,
+                "reviews": 87
+            },
+            "comment": {
+                "text": "This is a great location for Gus's World Famous fried chicken. I actually loved the in-formalness of the location and interior space. The staff were great and the food was on point. The chicken and the fried okra were exceptionally good. When in Atlanta, I will certainly go back.",
+                "language": "en"
+            },
+            "date": "2024-01-01T23:36:53Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bh1ty2nVgrnJ1NYWsdNjeQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jack L.",
+                "user_id": "Nnt_lN31bp3EuuudFXIbDw",
+                "link": "https://www.yelp.com/user_details?userid=Nnt_lN31bp3EuuudFXIbDw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HryDqvW_s20UyuTmGq74Lw/180s.jpg",
+                "address": "San Diego, CA",
+                "friends": 88,
+                "photos": 554,
+                "reviews": 342,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I was told by my friend that this place is one of her favorite chicken places in ATL. Yes, its pretty good especially the chicken skin. I love that it has a spicy blend on the chicken that isn't as common in some of the other places we tried in ATL. Meat was juicy and the skin was crunchy. My biggest gripe were the sides -- beans were good but not great and the cole slaw was my least favorite thing I had this whole trip. Come for the chicken, but you can probably skip the sides.",
+                "language": "en"
+            },
+            "date": "2023-07-24T20:51:11Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/p-JGaM9I30MEozv9XLO1nA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3OgDSohb2tl7AvFyXQ5L9Q/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Paolo V.",
+                "user_id": "xNQ4aPaih8_RXRqVJz21NA",
+                "link": "https://www.yelp.com/user_details?userid=xNQ4aPaih8_RXRqVJz21NA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/I66B3tMSC7haigmpJ2M4rQ/180s.jpg",
+                "address": "Laguna Niguel, CA",
+                "friends": 8,
+                "photos": 384,
+                "reviews": 182
+            },
+            "comment": {
+                "text": "This place did not disappoint. The food was absolutely great. I wasn't a fan of the potato salad for besides that everything was a hit. \n\nFried chicken was definitely delicious. I had a kick that I totally enjoyed. \n\nI can't say much about the ambience because I DoorDash this to my hotel but the service was quick.",
+                "language": "en"
+            },
+            "date": "2023-09-09T06:18:38Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lgN_Vz2BLpyNFsIheHlmNw/o.jpg",
+                    "caption": "Potato salad and Mac & Cheese"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xfL8NB1gueDallT3CFOqMA/o.jpg",
+                    "caption": "Three piece  3 Piece Dark Plate"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Shamila P.",
+                "user_id": "E6dX0_he4DSEeJGBGJDOPQ",
+                "link": "https://www.yelp.com/user_details?userid=E6dX0_he4DSEeJGBGJDOPQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-9wK5cTO1-uNyoJ-sU03Sg/180s.jpg",
+                "address": "Charleston, SC",
+                "friends": 102,
+                "photos": 770,
+                "reviews": 215,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "We both reach got a two dark two sides \nOkra and Slaw + Beans and Mac and Cheese\nBrad got a float.\nThis establishment has indoor seating only.\nReally chill vibe , food does take a moment ( it's not fast food)\n\nWait staff was nice and polite.\n\nWe really like the chicken and food. We birth killed all our food.",
+                "language": "en"
+            },
+            "date": "2023-01-29T21:42:06Z",
+            "rating": 4,
+            "tags": [
+                "7 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xXRIv0DIN93ECeTOAiVAeA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JhjBT5VgTf-lT8ScybT8Qw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cGUdFYr32MW0qudtKw8CEw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M_SEYGZJSqoKag0EDM89tA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/amawDPRI2QRx9pQBn0H32A/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HFf0i-EtBqZMOuRt4DmGvA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2LfDbXO9GAfLeY2YeYrWFQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "David B.",
+                "user_id": "sNBsp8dKRkwi_ZRpwQX60g",
+                "link": "https://www.yelp.com/user_details?userid=sNBsp8dKRkwi_ZRpwQX60g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GdO4N1QLcI2vifiGJQNVNg/180s.jpg",
+                "address": "Bloomfield, CT",
+                "friends": 89,
+                "photos": 49,
+                "reviews": 191,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "The chicken was moist, high quality, and large but the preparation was just ok in my opinion. It was more of a light and whispy batter than crunchy. The added spices provided a slight kick, which I didn't realize when ordering, but I appreciated the flavors. Sides were basic slaw and beans that seems they took time to add peppers, onions, and seasoning to which were elevated. I would go back given the positives but this doesn't stand up to other fried chicken royalty.",
+                "language": "en"
+            },
+            "date": "2023-11-14T11:54:06Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Reese S.",
+                "user_id": "b8zyOli0OZx7tzjcA6S5hg",
+                "link": "https://www.yelp.com/user_details?userid=b8zyOli0OZx7tzjcA6S5hg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/9BLgKCLSWjcTMfoqVgCzOQ/180s.jpg",
+                "address": "McDonough, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 6
+            },
+            "comment": {
+                "text": "Love good food nice flavor best chicken in ga hands down Weill definitely be back if you haven't tried it definitely need to.",
+                "language": "en"
+            },
+            "date": "2024-02-01T18:30:28Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "LaWanda N.",
+                "user_id": "ESq2HTpDncEjOdZEyAJfaA",
+                "link": "https://www.yelp.com/user_details?userid=ESq2HTpDncEjOdZEyAJfaA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wPZHKp4WnZKcNflgauCrUQ/180s.jpg",
+                "address": "Morrow, GA",
+                "friends": 25,
+                "photos": 589,
+                "reviews": 224,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I've never had a bad dining experience at Gus's, and today was no exception! The food was fresh and tasty (as always). Our waitress was quite pleasant and attentive for the most part. \n\nWe ordered fried green tomatoes, but never got them. When we got done eating, I asked her to take them off of our check because they never arrived....she seemed shock but eagerly agreed to take them off. \n\nWe proceeded to leave, and I don't know who the gentleman was, but he seemed to be a manager, owner, someone...well he came after us and offered us the tomatoes stating that we must've had a taste for them since we ordered them, and our waitress just didn't realize they'd been prepared. \n\nThat was such a pleasant surprise and very nice gesture! I'm glad we tipped her well, despite the fgt's issue. This is the reason I've rated them a 5 and not 4!!! That's superb customer service! \n\nSorry no pics of our lunch, just got caught up and immediately started eating!",
+                "language": "en"
+            },
+            "date": "2023-05-07T01:59:33Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Shannon S.",
+                "user_id": "24wltX9hIiyPNWNxohH-bg",
+                "link": "https://www.yelp.com/user_details?userid=24wltX9hIiyPNWNxohH-bg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/IP7u5COq6Fnj1Z6OnkLeAw/180s.jpg",
+                "address": "Arlington, VA",
+                "friends": 43,
+                "photos": 305,
+                "reviews": 200,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Gus' is definitely a solid restaurant if you have a hankering for fried chicken. It is seasoned very well. No one wants bland fried chicken.  Our server was kind and attentive, keeping in mind we roll deep, so that can be an issue with big parties. Not here though, no complaints regarding the service. It's a nice vibe, you can watch sports and enjoy your meal. I had the fried wings with Mac and cheese and fried okra. The fried okra was absolutely delicious, you can't go wrong with that. That Mac and cheese needs some work, not bad, but certainly not southern style, it's giving stouffer's with some shredded cheese on top. \n\nOverall, it's a decent restaurant and I would recommend if you are downtown.",
+                "language": "en"
+            },
+            "date": "2022-12-14T21:41:59Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/f7psKpoE5ZpSKarBigRWsw/o.jpg",
+                    "caption": "3 Piece Wing"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Joe F.",
+                "user_id": "AVvIutvxDBJXAA5pgw-oiQ",
+                "link": "https://www.yelp.com/user_details?userid=AVvIutvxDBJXAA5pgw-oiQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gdGZltmPwchaDsIBftHlRg/180s.jpg",
+                "address": "Baconton, GA",
+                "friends": 10,
+                "photos": 51,
+                "reviews": 67
+            },
+            "comment": {
+                "text": "Love this chicken!! Such a spicy flavor kick in the mouth! Generous portions of okra and Mac and Cheese delivered in speedy fashion. Have eaten at 4 different locations and every one has GREAT service! I even bring home a pile for leftovers!",
+                "language": "en"
+            },
+            "date": "2024-01-24T00:55:12Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Emmeline W.",
+                "user_id": "Ig9VgORlOOn7CASU1imERA",
+                "link": "https://www.yelp.com/user_details?userid=Ig9VgORlOOn7CASU1imERA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5FsHnL-9lhv82bSuBQhhkw/180s.jpg",
+                "address": "Berkeley, CA",
+                "friends": 279,
+                "photos": 2073,
+                "reviews": 764,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Probably one of the better restaurants in downtown! I'm visiting for work but determined to squeeze some time in for local eats that aren't in California. Of the places (downtown) I've tried so far, Gus's easily beats the rest out.\n\nFor COVID safety measures, some staff wear masks. Inside is casual and humble, a very Southern homestyle feel. I believe this is a part of the food court in an adjacent mall, but also accessible from the side street. I walked in on a Sunday afternoon and was seated immediately. Staff are attentive and courteous-- kindly gave recommendations when I asked. I appreciate that their menu is short and simple, keeping straight to the basics.\n\n3 PIECE DARK: Expertly fried chicken-- definitely steps up from your average chicken chain. Batter is thin, light, and crispy, seasoned with a light spice to complement the tender, juicy meat. Sits on top of a piece of white bread, but not greasy at all.\n\nBAKED BEANS: Just the right balance of sweet and savory to whet your appetite. I usually don't like any type of beans, but these were a nice surprise!\n\nCOLLARD GREENS: Average. They're fine. A little bland compared to everything else, but still tasty.\n\nCOLESLAW: Also pretty standard mayo-based slaw.\n\nI think I made the error of catching up on my Yelp reviews while I was here-- around the end of my meal, my server saw that I was giving a 2 star (this was for another business) and immediately started being more cold to me LOL. Hopefully this review shows that I had a good time after all :')",
+                "language": "en"
+            },
+            "date": "2022-10-10T19:36:36Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/636MBchIorfqc28PedDeoQ/o.jpg",
+                    "caption": "Cole Slaw"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HHjaQ27IXXvSmF6PdFvVaw/o.jpg",
+                    "caption": "3 Piece Dark w/ Baked Beans and Collard Greens"
+                }
+            ],
+            "feedback": {
+                "useful": 3,
+                "funny": 0,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Goldie O.",
+                "user_id": "rIYe9NvWYWwLyKtD0WeVWg",
+                "link": "https://www.yelp.com/user_details?userid=rIYe9NvWYWwLyKtD0WeVWg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SRlGE5gbQXqYT6FE-YpUqg/180s.jpg",
+                "address": "Houston, TX",
+                "friends": 469,
+                "photos": 614,
+                "reviews": 211,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Let's just say I ate here 4 times on a 3 day weekend visit to Atlanta. The chicken is very well seasoned and that skin is just fried so nice and crispy! It's a little pricey for some chicken but it was worth it.\n\nAlso, I will say the workers were very nice each time I came including Adrian and DeAndre! (Give DeAndre a raise, he be in there working hard)! I think the service can be a little slower in the evenings versus when I came earlier in the afternoons so that may ne something to work on as it gets really busy during dinner time.",
+                "language": "en"
+            },
+            "date": "2022-10-04T07:05:37Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tLVOImVhHXGTz5nDVPMX2w/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 3,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Ashu M.",
+                "user_id": "e-THwfS0f-lZ79e04HQYaQ",
+                "link": "https://www.yelp.com/user_details?userid=e-THwfS0f-lZ79e04HQYaQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Q-S8iPPCi7gsoegGfyJwWg/180s.jpg",
+                "address": "Norcross, GA",
+                "friends": 41,
+                "photos": 21,
+                "reviews": 48
+            },
+            "comment": {
+                "text": "Went to this place last night after a show in Theatrical Outfit for dinner. Has been on my list for a long time so was excited. First off, service is good. The girl who seated us and our server were really awesome and it is a huge place with lots of tables. \n\nWe were a party of 4, so 2 ordered special for the day with 4 leg pieces and 2 sides and 2 of us went a la cart with tenders and sides. Fries, okra fries, Mac n Cheese were really good. We even ordered the pecan pie - delicious..\n\nNow for the cons - the tenders were over cooked and a bit rubbery. When the bill came, we noticed that they had charged us for the regular price for the 2 specials. Thankfully we noticed it and it was rectified. They also charge for the extra sauce.\n\nOnce again, I am not as excited about fried chicken options in Atlanta and keep comparing to the humble but mighty Chick-fil-a who deliver quality fried chicken with no up-charge for sauce and have amazing service and quality every time. \n\nOne more time",
+                "language": "en"
+            },
+            "date": "2023-11-04T14:31:53Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Tanisha H.",
+                "user_id": "N0C71vvxVoUiYliid5VpdA",
+                "link": "https://www.yelp.com/user_details?userid=N0C71vvxVoUiYliid5VpdA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kOhe9O35hybTlrwBxQN30w/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 87,
+                "photos": 1948,
+                "reviews": 310,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "This isn't my first time here but I finally decided to write a review.. 2 piece dark meat, fried okra, and coleslaw. The chicken was good, and so was the okra.",
+                "language": "en"
+            },
+            "date": "2023-03-13T22:56:37Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QVbePm8t1A7LbLJfAk58Nw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 3,
+                "funny": 1,
+                "cool": 4
+            }
+        },
+        {
+            "user": {
+                "name": "Rodney M.",
+                "user_id": "Yj7TtwPx2X245ORwtS6KPw",
+                "link": "https://www.yelp.com/user_details?userid=Yj7TtwPx2X245ORwtS6KPw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OpbLG3eqftowv1_jexHj6w/180s.jpg",
+                "address": "Cantonment, FL",
+                "friends": 11,
+                "photos": 5,
+                "reviews": 61
+            },
+            "comment": {
+                "text": "The world famous fried chicken lived up to its name. The wife and I stopped in before attending a local sporting event and the food and service was spot on. \nThe staff made us feel at home and like we are regulars.  The chicken and sides cakes out quickly and was spot on. We ended up both cleaning our plates.  A definite spot for some southern fried chicken.",
+                "language": "en"
+            },
+            "date": "2023-06-09T17:14:43Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Wvy8U_h_h1ph_OOHQUv8-g/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Tracie C.",
+                "user_id": "JCY7ZWSq6zj6BKQm7m7x8A",
+                "link": "https://www.yelp.com/user_details?userid=JCY7ZWSq6zj6BKQm7m7x8A",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Kgf6T5j_mxpDsgyk7r8f0g/180s.jpg",
+                "address": "East Arlington, Jacksonville, FL",
+                "friends": 81,
+                "photos": 2,
+                "reviews": 8
+            },
+            "comment": {
+                "text": "I have heard about Gus's for a long time. Finally got to Atlanta and had to try it! The food was SO GOOD!! Run don't walk. The food was fried to order. We didn't wait long, but you also knew when it came it was going to be worth the wait!! It totally was  the greens were phenomenal, and the Mac n cheese super creamy!! \nHands down best fried chicken other than my Momma's!! \nFletcher was awesome as well!! If you haven't tried it. I would recommend you go get you some Gus's fried chicken!!!",
+                "language": "en"
+            },
+            "date": "2023-05-01T21:46:56Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xeoo-gwMpHHJD0b1IJ3Txg/o.jpg",
+                    "caption": "8 piece all dark, greens, Mac n cheese"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NIW_ivwen8tIRyw8b3MU5A/o.jpg",
+                    "caption": "Gus's cup"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 1,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Raihanul H.",
+                "user_id": "3nyjvZsMkr2I4Q0M9C3iyw",
+                "link": "https://www.yelp.com/user_details?userid=3nyjvZsMkr2I4Q0M9C3iyw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FQIM8xhbD-CE8WAazC0bZg/180s.jpg",
+                "address": "Queens Village, NY",
+                "friends": 0,
+                "photos": 13,
+                "reviews": 7
+            },
+            "comment": {
+                "text": "The fried chicken was super juicy and full of flavor, Mac and cheese was tasty and coleslaw was fresh. Service was friendly and quick. Wish the inside was lit up a bit more like the Austin location.",
+                "language": "en"
+            },
+            "date": "2023-11-09T05:33:44Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PHfP4j4hnuHwf5BIhWfGkQ/o.jpg",
+                    "caption": "3 Piece Wing Plate subbed the beans for Mac & Cheese"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Theresa O.",
+                "user_id": "EpbQc551VvRXtw6RlnU55A",
+                "link": "https://www.yelp.com/user_details?userid=EpbQc551VvRXtw6RlnU55A",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Cavw8zu3vp-u5omK0QztvQ/180s.jpg",
+                "address": "Studio City, CA",
+                "friends": 0,
+                "photos": 10,
+                "reviews": 12
+            },
+            "comment": {
+                "text": "Just like Memphis! It was great getting our Gus' favorites in Atlanta. It's hard to find, but once you get there... it's worth the effort. Be sure to go downstairs. It was great being able to walk there from our hotel. \nI was so glad they had Chess pie -- my favorite! And it was warm and yummy!",
+                "language": "en"
+            },
+            "date": "2023-10-29T16:25:46Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Denice Y.",
+                "user_id": "WoM2TkibuV5g4iLB0mnCEw",
+                "link": "https://www.yelp.com/user_details?userid=WoM2TkibuV5g4iLB0mnCEw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/L_sk3po7-3ORsyQ0QwBqMg/180s.jpg",
+                "address": "Delano, CA",
+                "friends": 3,
+                "photos": 91,
+                "reviews": 81,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I'm here visiting Atlanta, and did not know where to eat, so I obviously used Yelp for help on where to eat. After reading reviews about this place, I wanted to Give it a try. \n\nThe fried chicken was delicious! Juicy on the inside, and crunchy on the outside! They serve it fresh out of the fryer, which made the experience even better because you know it's fresh ! I enjoyed the fried okra, and the Mac & cheese. \n\nThey all had great customer service. Our server checked up on us often, and was very friendly! \n\nThe ambiance of the restaurant felt like you were eating at a family members house. I think the servers also made it feel like it was a home. That southern hospitality was great here !",
+                "language": "en"
+            },
+            "date": "2022-11-01T04:25:59Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Yuq5jXO_sJmn6ivUBFqWdQ/o.jpg",
+                    "caption": "3 piece chicken w/ fried okra and mac&cheese"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Cat M.",
+                "user_id": "PQtpuntybWKFf47FckpMjg",
+                "link": "https://www.yelp.com/user_details?userid=PQtpuntybWKFf47FckpMjg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XcKPujmGf7_ChjVBZCyzog/180s.jpg",
+                "address": "Fall River Mills, CA",
+                "friends": 28,
+                "photos": 64,
+                "reviews": 115,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Yes. Just go. This place is so good. The reviews about how juicy and flavorful the chicken is are spot on. I got the baked beans and slaw on the side which was great. The slaw is on the sweet side but I just added a bit of pepper and found it to be a great compliment to the spice of the chicken. This is the peel off the skin to eat it all, no matter how full you are type of chicken. And the prices are super reasonable! Great staff and delicious food. I would happily go back.",
+                "language": "en"
+            },
+            "date": "2023-04-07T23:26:38Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lSYneqnG7liHTVixBvytmA/o.jpg",
+                    "caption": "2 Piece White Plate"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Sonjachard\u00e9 M.",
+                "user_id": "4DPxi4Aln6QczIZR4KzgPg",
+                "link": "https://www.yelp.com/user_details?userid=4DPxi4Aln6QczIZR4KzgPg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/egIksTCehcSCClLOcZFkOA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 138,
+                "photos": 126,
+                "reviews": 250,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I first had Gus' in Memphis and it was absolutely delicious. Even though it was cold cause it was an hour later as I ate it in my hotel bed. I was elated when I learned that they had two locations in the atlanta area, one of them only 20 minutes from me. I order from here maybe every other month when I get a fried chicken craving (I don't eat meat regularly) and it never disappoints. I never had ordered anything except the chicken and sweet tea - both of which are good. The chicken skin is crispy, the meat itself is well flavored, and it passed the fried chicken test of being delicious while cold. I love this place and hope they never close.",
+                "language": "en"
+            },
+            "date": "2023-09-24T05:40:24Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            },
+            "owner_replies": [
+                {
+                    "owner": {
+                        "name": "Wendy M.",
+                        "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/nwNNFog6laLbfaROHlkQgg/90s.jpg",
+                        "role": "OWNER"
+                    },
+                    "comment": "We are truly grateful for your business and your review. It's a real compliment when we hear that someone rarely eats meat, but will splurge with us on occasion. We look forward to serving you again.",
+                    "date": "2023-09-27T02:31:34Z"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Chestina S.",
+                "user_id": "H27FC27OsTpKEMtVCVCH9A",
+                "link": "https://www.yelp.com/user_details?userid=H27FC27OsTpKEMtVCVCH9A",
+                "address": "MD, MD",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 10
+            },
+            "comment": {
+                "text": "Disgust in every bite! This was the worst excuse for southern cuisine. I am using that term loosely. The potato salad, and coleslaw were oversaturated with sugar to mask the poor taste. The chicken was old, poorly seasoned. The so called spice was weak and had an after taste!! The mac and cheese rate a 2 on a 10 point scale.",
+                "language": "en"
+            },
+            "date": "2024-02-23T01:59:22Z",
+            "rating": 1,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Philip J.",
+                "user_id": "_BcuXITrotGbNlHFY8fD8g",
+                "link": "https://www.yelp.com/user_details?userid=_BcuXITrotGbNlHFY8fD8g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nGuXjIEbDKtu7ecv9xR45w/180s.jpg",
+                "address": "Oakland, CA",
+                "friends": 172,
+                "photos": 554,
+                "reviews": 252,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Nice little spot here with great fried chicken. It doesn't taste like your Popeyes or KFC joints, the chicken here is much better.\n\nGreat atmosphere and gotta love the personalities of the workers here. Overall great experience and great food!",
+                "language": "en"
+            },
+            "date": "2022-10-01T01:00:13Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/O3JQgyIuYxdU-Ysecm2sSA/o.jpg",
+                    "caption": "2fried chicken dark plate with cole slaw and seasoned fries"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Yori T.",
+                "user_id": "gfWYjW3pXfzFC3F8JRaIDg",
+                "link": "https://www.yelp.com/user_details?userid=gfWYjW3pXfzFC3F8JRaIDg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8mTDjNr0rOXQN4zZ25DCFg/180s.jpg",
+                "address": "Brooklyn, NY",
+                "friends": 47,
+                "photos": 6,
+                "reviews": 56
+            },
+            "comment": {
+                "text": "The chicken lives up to the hype. Simply cooked & served in fast, casual environment. Highly recommended!",
+                "language": "en"
+            },
+            "date": "2023-12-23T19:55:37Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Phyllis H.",
+                "user_id": "dmRxQlISd8CxdpuRsrHaMQ",
+                "link": "https://www.yelp.com/user_details?userid=dmRxQlISd8CxdpuRsrHaMQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6jeuFcfc2gDN5sV1SWHkVg/180s.jpg",
+                "address": "Streamwood, IL",
+                "friends": 0,
+                "photos": 8,
+                "reviews": 30
+            },
+            "comment": {
+                "text": "Walking distance from the Atlanta Marriott Marquis. Didn't eat in, got it to-go to take back to the hotel. I ordered wings, greens and Mac & cheese. Hubby had 2pc dark with greens and beans. Very good, cooked fresh to order, not dry or overcooked. Green were delicious and the Mac & cheese was okay, but probably wouldn't order again- I'm picky about my Mac and cheese, I'm not a cheese sauce or velvetta fan.\n\nWhile waiting for our order there were a stream of people coming in to either place an order or picking up their call in order. FYI, I don't use or like any hot sauce, because I believe anything that's cooked right you don't need a sauce to change the flavor. I appreciated the little kick the chicken had, seasoning was on point.",
+                "language": "en"
+            },
+            "date": "2023-09-15T03:43:43Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Michelle B.",
+                "user_id": "r94BYw9YGeRTD7s_Cm_gwA",
+                "link": "https://www.yelp.com/user_details?userid=r94BYw9YGeRTD7s_Cm_gwA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JfmMJQNuKOOqx4rff5G9Bw/180s.jpg",
+                "address": "Riverview, FL",
+                "friends": 22,
+                "photos": 216,
+                "reviews": 146,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I love Gus fried chicken. The only reason I gave them 4 stars was the macaroni and cheese was not homemade. It tasted like box macaroni and cheese. The fried okra and greens were good. I ended my fried chicken. I do recommend them if you can get pass not having homemade macaroni and cheese. Our server Fletcher was awesome.",
+                "language": "en"
+            },
+            "date": "2023-03-25T17:16:54Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/84VJI53shQKj4JLZM_F_3g/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/x90WxoN_fKkAwY-Hm1KjyA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9un1I9W9VNPxLynPyNjB1A/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Midori M.",
+                "user_id": "uU9Ze5RJLgXyPNqjOaDHWA",
+                "link": "https://www.yelp.com/user_details?userid=uU9Ze5RJLgXyPNqjOaDHWA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4NS07u2kxLjKcVLmGm7Sdg/180s.jpg",
+                "address": "Fresno, CA",
+                "friends": 94,
+                "photos": 1036,
+                "reviews": 151,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Came to ATL for business and had to have some southern fried chicken. We found Gus's. It's called world famous for a reason. Food was absolutely amazing. The chicken was hot and juicy. Had a little spice to it. Mac and cheese was delicious. It was some of the best fried okra I've ever had. We also ordered some pie. We ordered chocolate, sweet potato and         All of the were soooo good. Service was good. If I'm ever back here I'll definitely be going back.",
+                "language": "en"
+            },
+            "date": "2023-02-02T17:11:42Z",
+            "rating": 4,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/b2pXurMNhgQfl2fgaHRsAw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5UVtXoGZUkSOgY_H2Oy3Nw/o.jpg",
+                    "caption": "2 Piece Dark Fried Okra Mac & Cheese"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ty2-bSc65S0UkJ7UxPMtRg/o.jpg",
+                    "caption": "2/23"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zaB7ZSlQvQtT7XvPGbGMZw/o.jpg",
+                    "caption": "3 Piece White Mac & Cheese Baked Beans"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lpCYjMNaoEZremriUpn_nw/o.jpg",
+                    "caption": "3 Piece White Mac & Cheese Baked Beans"
+                }
+            ],
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 1
+            }
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=ApwmEiStq9aP9-Tf2xfVtA&start=50"
+    }
+}

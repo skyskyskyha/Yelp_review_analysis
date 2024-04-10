@@ -1,0 +1,1824 @@
+{
+  "search_metadata": {
+    "id": "65ef30361c450a97b6131fae",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cba2f21086e022a5/65ef30361c450a97b6131fae.json",
+    "created_at": "2024-03-11 16:24:22 UTC",
+    "processed_at": "2024-03-11 16:24:22 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/1VAX8KygRWcloSuv5x5o5A?",
+    "raw_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef30361c450a97b6131fae.html",
+    "prettify_html_file": "https://serpapi.com/searches/cba2f21086e022a5/65ef30361c450a97b6131fae.prettify",
+    "total_time_taken": 5.91
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 40,
+    "num": "50",
+    "place_id": "1VAX8KygRWcloSuv5x5o5A"
+  },
+  "search_information": {
+    "total_results": 1140,
+    "business": "Superica"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 1140
+    },
+    {
+      "hl": "sv",
+      "count": 1
+    },
+    {
+      "hl": "fr",
+      "count": 2
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Samantha E.",
+        "user_id": "L9ZJpCQgXzfNXiJI9ahyZw",
+        "link": "https://www.yelp.com/user_details?userid=L9ZJpCQgXzfNXiJI9ahyZw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GFm6n9aFDSvjEkXynFcUPw/180s.jpg",
+        "address": "St. Petersburg, FL",
+        "friends": 231,
+        "photos": 487,
+        "reviews": 1100,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Ended up here with a large group on a trip to Atlanta!\n\nFirst off- the group included two couples with toddlers, and the hosts and servers handled this with aplomb.\n\nQueso was delicious. Everyone seemed to like their meals. I really enjoyed the chile relleno-- although it was enormous, be prepared. I really enjoyed the corn and mushrooms; it was delicious and I didn't miss the meat.  A few people got fajitas and seemed to like them. My husband said his tacos al carbon were quite good. And the one-year-old was a big fan of the beans. They had a good variety of drinks, margarita and otherwise. \n\nGood food in a trendy area. I can see why it's popular.",
+        "language": "en"
+      },
+      "date": "2022-03-16T23:54:17Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fd20a96QZZTJccfzrSFQug/o.jpg",
+          "caption": "Chile Relleno ($19)"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Shawn D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/DqkUdZvihMbTuJcKThxh8w/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for such wonderful feedback. You know what they say...\"everything is bigger in Tex-Mex!\"  We believe in doing everything bigger. Big portions, big flavor, big passion! We can't wait to serve you and your friends again soon!!",
+          "date": "2022-03-19T16:57:12Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Andrea F.",
+        "user_id": "3L9k8dutcwz_aMxRCCMtKA",
+        "link": "https://www.yelp.com/user_details?userid=3L9k8dutcwz_aMxRCCMtKA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zCxzitJ-34tum8h898kUyw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 73,
+        "photos": 169,
+        "reviews": 65,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "What can be better than a jalapeño mango slush (seasonal) or steak or chicken nachos.  Not your ordinary nachos, different is sometimes better and at Superica that is definitely the case.",
+        "language": "en"
+      },
+      "date": "2022-10-08T15:26:09Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QmDfel1lG8FshKzHpDMMhw/o.jpg",
+          "caption": "Jalapeño mango slush (seasonal)"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Charla D.",
+        "user_id": "p3mqzFBEf0WNDH0e6SMF3g",
+        "link": "https://www.yelp.com/user_details?userid=p3mqzFBEf0WNDH0e6SMF3g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WlWQ7vRp3NwhD5Q9sVQ7Vg/180s.jpg",
+        "address": "Tyler, TX",
+        "friends": 77,
+        "photos": 7,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "The food was amazing. Fresh and delicious. But the SERVICE was OUTSTANDING. Ashley was our server and she is truly top notch! Wish we lived closer.",
+        "language": "en"
+      },
+      "date": "2023-07-19T23:08:53Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/taVIBaqRVVgP3zi2YJuPsg/o.jpg",
+          "caption": "The food was amazing but the SERVICE was outstanding. Ashley Griffin was our waitress and she was the BEST!! Wish we lived closer!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DRMAoPsunRL2Oo3S87LDSw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Christian D.",
+        "user_id": "2c7_XLFNriagzlCFyCwFaQ",
+        "link": "https://www.yelp.com/user_details?userid=2c7_XLFNriagzlCFyCwFaQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Yd4Xgh0gNmnx7QtssipCdg/180s.jpg",
+        "address": "Evanston, IL",
+        "friends": 4,
+        "photos": 51,
+        "reviews": 53
+      },
+      "comment": {
+        "text": "The service was great and the ambience was inviting. I came in to grab a snack and work on my book. I sat at the bar and ordered queso and gauc which was alright. What wasn't alright is that I spent $23 on dip lol I wouldn't go back",
+        "language": "en"
+      },
+      "date": "2023-09-14T13:59:03Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Food C.",
+        "user_id": "xR3sYpWp_Zdn2wB4pHVQRQ",
+        "link": "https://www.yelp.com/user_details?userid=xR3sYpWp_Zdn2wB4pHVQRQ",
+        "address": "Brookhaven, GA",
+        "friends": 0,
+        "photos": 34,
+        "reviews": 63
+      },
+      "comment": {
+        "text": "We love the fajitas. Queso, guacamole, and salsa is always delicious! The steak for the fajitas is so flavorful and the tortillas melt in your mouth. Even when we took some home for the next day, everything was near perfect. And make sure to dip or pour that garlic butter on some bacon wrapped shrimp. Holy moly. This place is amazing.",
+        "language": "en"
+      },
+      "date": "2023-10-25T03:02:38Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aOxqvtqHUOTBgIEupjyk7w/o.jpg",
+          "caption": "Guacamole"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Carrie H.",
+        "user_id": "V-kAFYHZKhs63AIUjGylNw",
+        "link": "https://www.yelp.com/user_details?userid=V-kAFYHZKhs63AIUjGylNw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PPHTkESe9EmF2E47OtJqvA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 114,
+        "photos": 1795,
+        "reviews": 315,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Superica will always be my go-to Tex-Mex. They have excellent decor, comfy chairs at the bar and tables, fantastic service, and phenomenal drinks and food. \n\nThroughout COVID, we ordered to-go food from here when we could as we wanted to make sure it stayed around. Orders were always correct, but you can always use more chips. \n\nCome by yourself and pull up at the bar or reserve the back room for a large party. We had a friend's birthday party in the large room, and it was lovely. \n\nWhen you sit down, someone will place their perfectly salted crispy chips, Verde salsa, and chili salsa; not sure of their real names, but that's what I call them. I prefer the chili and my hubby the Verde, which works out perfectly. Then we order queso and drinks. I always have at least one of their margaritas or the Paloma and sometimes switch it up with one of their other cocktails. My hubby is a vodka gin guy, so the bartender sometimes puts a spin on one of their cocktails. \n\nAs for food, there are so many delicious options that I always have difficulty deciding. I love their nachos. The nachos are eight individual chips loaded with cheese and then baked. They put the fixings in the center of the plate so you can make lots of perfect bites. If I want more food, I usually get the shrimp fajitas (not on the menu, but they will make it). The fajitas are yummy in my tummy. I love crafting my perfect bits, which is why I order them over tacos. \n\nI love this place!",
+        "language": "en"
+      },
+      "date": "2022-02-17T23:16:20Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/o1QZ08zYbRqR74ns09v_6w/o.jpg",
+          "caption": "Delicious Chili Con Queso, salsas, and a margarita"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CBoYdSdCdJ6dOyp-0z-4iw/o.jpg",
+          "caption": "I swear the tortillas are homemade as they are hot and so good"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4OwfXuqEvm-oKP4ZIjA4pQ/o.jpg",
+          "caption": "Spicy Margarita"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XZYbgRPxc0P8AdJN3MVH_A/o.jpg",
+          "caption": "My fajita and Margarita DE LA Casa"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1AkK7teJtNZs4HvfRPy-vw/o.jpg",
+          "caption": "Shrimp Fajitas with all the fixings- oh, the butter!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X5t_DuPRd4MXWv0W_wl-Ug/o.jpg",
+          "caption": "What I put on my shrimp fajita"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Carrie!!! Thank you so much for the feedback! We love being your go to Tex-Mex spot! We know that you have so many options in a foodie city like Atlanta and we are just honored that you chose us! We can't wait to see you and your hubby again soon!",
+          "date": "2022-02-19T01:57:16Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jade C.",
+        "user_id": "lRF7GDS13KbjiS5jvsSVXw",
+        "link": "https://www.yelp.com/user_details?userid=lRF7GDS13KbjiS5jvsSVXw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kDCcvxKwmmNUQAguLgWqUg/180s.jpg",
+        "address": "Oakland, CA",
+        "friends": 150,
+        "photos": 92,
+        "reviews": 137
+      },
+      "comment": {
+        "text": "Enjoyed the enchilada that is more so on the right, the refried beans were perfect, and tasty! Chicken was a wee bit dry. Overall the meal was filling, I wasn't able to finish my rice.\n\nDined inside this time around, the host mentioned there was a wait for outside, but there were seats available. Perhaps they do reservations. This time around it was \"taco Tuesday\" lol.\n\nI was looking to try the street tacos. Note that they're more so tex mex than traditional. My daughter ended up ordering the pork belly, she really enjoyed it.",
+        "language": "en"
+      },
+      "date": "2022-08-26T11:50:50Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FpPW7-N-UvwmXwoSLU84BQ/o.jpg",
+          "caption": "Tamales"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ktpALpxXsSdPbK6NUGjYwQ/o.jpg",
+          "caption": "Chicken Enchilada, refried beans, Spanish rice"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Jade, the tamales are some of my favorites!!!! I hope to see you soon, we will save you a margarita!!",
+          "date": "2022-08-22T18:13:20Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Debi J.",
+        "user_id": "H0PqDVq8hVEv8JH4nL8srQ",
+        "link": "https://www.yelp.com/user_details?userid=H0PqDVq8hVEv8JH4nL8srQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sLIHMH8IR1F6EXVkUAWJFg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 8,
+        "photos": 44,
+        "reviews": 232,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Wow. I wanted so much to like this place. First off, the pros: \n\nrestaurant has a nice and pleasant vibe. \nThe hostess and our server were friendly. \nThe complimentary tomatillo salsa was good. \nMy husband enjoyed the pork belly tacos. \n\nThat's pretty much where it ends. \n\nThe cons:\nOur drinks took 25 minutes to get to our table, and when they arrived mine was terrible. Basically, a \"Bloody Mary\" that was an $11 glass of flavorless tomato juice and looked pitiful to boot. One slice of jalapeño on top and that's it. Didn't have the slightest hint of vodka. \n\nThe complimentary dark green salsa verde was smoky but it was so over salty we couldn't eat it. \n\nWe ordered guacamole which was good, but they serve very thick chips (different than what comes with the salsa) and they were cold, yet dripping in grease. \n\nMy food was just like eating a plate of gringo trash that was also so very salty it was inedible. Probably some of the worst \"Mexican\" food I've ever had the displeasure to be served. It was a big mushy plate of slop. The taco that came with it poured grease down my hand and forearm when I picked it up. Totally gross. \n\nThe waitress was very apologetic and took the food away. \n\nThe kitchen staff tried to make up for the terrible meal by sending out a pancake. The pancake unfortunately was very dense, heavy and dry as a bone. The home made syrup that came with it was delicious though. \n\nEpic fails all the way around. I will say the restaurant did remove the charge for my food and the Bloody Mary. I will not go back, nor will I ever recommend this place. \n\nPatria Cocina over at the Beacon Atlanta is so much more authentic, bright and fresh.",
+        "language": "en"
+      },
+      "date": "2021-12-12T21:25:17Z",
+      "rating": 2,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mx_ajKhQksrDKKdozJZRdQ/o.jpg",
+          "caption": "Guacamole with cold greasy chips"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/macJdBDaBYeDPJrlE47H6Q/o.jpg",
+          "caption": "El Lopez gross"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kpDABhORBrKieG9ktmkL2A/o.jpg",
+          "caption": "The world's saddest Bloody Mary"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "David H.",
+        "user_id": "di4xHIwUiQSLLgbuPjPVSg",
+        "link": "https://www.yelp.com/user_details?userid=di4xHIwUiQSLLgbuPjPVSg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/K3kYtiiJYWHbKbYhLGxl4w/180s.jpg",
+        "address": "Lake Park, FL",
+        "friends": 210,
+        "photos": 3,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Delicious food. Outstanding service. Server knew his menu to help us decide on things. Will be back next time we are in town.",
+        "language": "en"
+      },
+      "date": "2023-09-14T17:19:29Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nick A.",
+        "user_id": "_mSxEfAl4mizbN8c4a3GYg",
+        "link": "https://www.yelp.com/user_details?userid=_mSxEfAl4mizbN8c4a3GYg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BuoSi9Q3n289otNB8QdPlg/180s.jpg",
+        "address": "Washington, DC",
+        "friends": 705,
+        "photos": 589,
+        "reviews": 165
+      },
+      "comment": {
+        "text": "Annnnnd this place is still excellent. Every time I stop at any location in any city it's always delicious. I cannot get enough of this place. From the service to the food/drinks. You will never go wrong with Superica. Again, I'm not a big chain kind of guy, but somehow they manage to keep consistency across all of their restaurants and still source from ingredients. I spoke with the wait staff and they noted they try their best to make most of their sauces and ingredients in-house. You just gotta love a place like this.",
+        "language": "en"
+      },
+      "date": "2022-12-22T08:12:14Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks Nick! We hope to see you back again soon!",
+          "date": "2022-01-27T02:59:53Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Annette M.",
+        "user_id": "GzTp_V0PCyfYifDbOy_E7Q",
+        "link": "https://www.yelp.com/user_details?userid=GzTp_V0PCyfYifDbOy_E7Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xTLJfr2f8ENJwVCGVZ8gSA/180s.jpg",
+        "address": "Toronto, Canada",
+        "friends": 133,
+        "photos": 2464,
+        "reviews": 344,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "If you plan to come to this restaurant expect a significant wait if you are not there right when it opens. \nwe, fortunately, we're there right when it opened.\nThe host and wait staff were very friendly.\nWe ordered our drinks which were excellent-\nRed Sangria, Horchata and OG Margarita.\nOur sauces were okay \nChips were cold\nGuacamole was season-less\nQueso Fundido w/chorizo was swimming in grease and heavy on achoite \nMy chicken and nacho is truly a starter, though I ordered it as an entree) very plain\nPollo con Mole enchiladas were tasty\nTacos al carbon - were incredibly disappointing- they didn't include the crema or vegetables \nThe side rice and beans were tasty.\nFor all the hoopla, we were incredibly disappointed !  \nDon't drive yourself - parking is challenging.",
+        "language": "en"
+      },
+      "date": "2021-06-27T17:53:36Z",
+      "rating": 2,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8FFsttGl8dKrooqQJ12AAw/o.jpg",
+          "caption": "Taco Al Carbon- side of beans"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PmS3MxcoZj_6Iodx_2PiSQ/o.jpg",
+          "caption": "Pollo Con Mole"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LkZ00OjtN92jIn_lvcj3Eg/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L6201A36lcRDEROw6lmtfg/o.jpg",
+          "caption": "OG Margarita"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mr7ZiIZuU6kX1G1YN4bqhA/o.jpg",
+          "caption": "Sangria"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Or4IquF4soQ9PyzF0TiK_w/o.jpg",
+          "caption": "Queso Fundido w/ Chorizo"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vIXluwzBvf2bXSkGQPygFA/o.jpg",
+          "caption": "Nachos w/chicken"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5ivxgv86QHQm6r9MticIcg/o.jpg",
+          "caption": "Guacamole"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AbA6UFsvBWOA4OO-nV__eQ/o.jpg",
+          "caption": "Horchata"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PnI1q40vC3SWIo0iE3d12g/o.jpg",
+          "caption": "Ambiance"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Abby A.",
+        "user_id": "k2NDRmSQmg3pBPtC4QrQHw",
+        "link": "https://www.yelp.com/user_details?userid=k2NDRmSQmg3pBPtC4QrQHw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HNlGSv65Y9seMckx_bYF0Q/180s.jpg",
+        "address": "Austin, TX",
+        "friends": 657,
+        "photos": 135,
+        "reviews": 113,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Tasty restaurant we went to for my birthday brunch. We had delicious mimosas, queso & enchiladas. The service was great and food came out very fast, as we got there right when they opened. They have a dedicated brunch menu along with their entire regular menu as well, so plenty of options for the entire group!",
+        "language": "en"
+      },
+      "date": "2022-05-11T00:34:50Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5p9AT9rInPSwZzqlx7oojw/o.jpg",
+          "caption": "Chicken Enchiladas"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Abby Happy Belated, we are so honored you chose us to share it with!",
+          "date": "2022-05-18T17:17:09Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Anya S.",
+        "user_id": "bALaDMB2aFcjJgufZdpvNQ",
+        "link": "https://www.yelp.com/user_details?userid=bALaDMB2aFcjJgufZdpvNQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hiU_Bqz8bNFBZvvXVrX82Q/180s.jpg",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 0,
+        "photos": 7,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "Incredible food and vibes! One of my fave date night locations, my fiancé and I go often",
+        "language": "en"
+      },
+      "date": "2023-09-04T15:23:54Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brianna R.",
+        "user_id": "NN9hfvi0FfyA8q0Lg6lMwQ",
+        "link": "https://www.yelp.com/user_details?userid=NN9hfvi0FfyA8q0Lg6lMwQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XnSrvRzRcbMB29KCAUpV7A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 20,
+        "photos": 186,
+        "reviews": 54,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I feel like this place is usually very busy but we were able to get walk in for 3 people after about a 30 min wait. The servers wear masks so that helps me feel a bit safer during these crazy times! \n\nI love getting pork when I get Mexican/Tex Mex food so I got the Tacos Al Carbon with Crispy Pork Belly. The pork was good and crispy but I think it needed more of the guava glaze. I got to choose the type of bean I wanted on the side so I got refried. My husband ordered the Mesquite Grilled Quail and it comes with pork tamales. All of the food was great! Also the two salsas that come with the complimentary chips are nice and slightly spicy.\n\nSuperica also has a nice assortment margaritas and mixed drinks. I loved the Matador, which I picked because I like pineapple! The cilantro was more subtle than I thought it was going to be but still tasted lovely!",
+        "language": "en"
+      },
+      "date": "2021-08-11T14:12:38Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mWBriYKPkTd7Wntaj9Q3SQ/o.jpg",
+          "caption": "Taco Al Carbon, crispy pork belly with your choice of beans and rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1myQOrUEgaFq1FYortT1Ng/o.jpg",
+          "caption": "Mesquite Grilled Quail, comes with tamales"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TOHmS1KpLAlgJLFMWLLshg/o.jpg",
+          "caption": "Matador margarita"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Christina A.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/I7uSPtNDLldDE-aBy4Y3lQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for the review Brianna! We too LOVE the Matador. We're thrilled you had a great evening and look forward to seeing you next time.",
+          "date": "2021-08-29T20:23:58Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Elena V.",
+        "user_id": "mY0dM8VJ9cNKCUcTf65PuA",
+        "link": "https://www.yelp.com/user_details?userid=mY0dM8VJ9cNKCUcTf65PuA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6GiDtNOi8_i6p0DaaXWYDQ/180s.jpg",
+        "address": "Horizons West / West Orlando, FL, FL",
+        "friends": 0,
+        "photos": 10,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "I loved the decor of this place, first of all. It was so unique, especially the huge windows that opened up behind the bar that doubled as a countertop to eat on outside. The food was good, I ordered fajitas with steak and chicken. The steak was a bit over cooked, but it had great flavor. I tried the pozole verde soup, and it was a big strong on the acidic side but still very tasty. The salsas that come with the chips were also terrific. The servers were super friendly and helpful with the menu as well. I'd come again!",
+        "language": "en"
+      },
+      "date": "2023-02-22T18:23:01Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uL2GhCmEJEj8d50Xy1biuw/o.jpg",
+          "caption": "Tacos"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/d0-Gc3a0Fqs4Oh24LaVznw/o.jpg",
+          "caption": "Pozole verde"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brittany R.",
+        "user_id": "ozYsVo9-krc6D6G69UDYqg",
+        "link": "https://www.yelp.com/user_details?userid=ozYsVo9-krc6D6G69UDYqg",
+        "address": "Riverside, CA",
+        "friends": 0,
+        "photos": 3,
+        "reviews": 26
+      },
+      "comment": {
+        "text": "Love this place! Food and ambiance are great. Location is perfect as well. A must try if you are visiting Atlanta",
+        "language": "en"
+      },
+      "date": "2023-11-15T22:28:29Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Amil J.",
+        "user_id": "hnpvD2kP2WWmxVXeiGl3Ew",
+        "link": "https://www.yelp.com/user_details?userid=hnpvD2kP2WWmxVXeiGl3Ew",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Bov2Cyl2gaSvLt-_BWtowg/180s.jpg",
+        "address": "Brooklyn, NY",
+        "friends": 4,
+        "photos": 81,
+        "reviews": 72
+      },
+      "comment": {
+        "text": "Tacos were good. Corn amazing\nStaff really need to know what's going on in a restaurant. Definitely will be back drinks are very strong",
+        "language": "en"
+      },
+      "date": "2022-06-13T00:20:42Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NNmyygsQE4Co91yzM8HTXQ/o.jpg",
+          "caption": "OG Margarita"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Amil for the kind words.  It was our first event in some time, but we are doing it again in July, we hope to see you there!!!",
+          "date": "2022-06-15T15:46:00Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Asia E.",
+        "user_id": "03n7_buIe-lARdl74Y22AQ",
+        "link": "https://www.yelp.com/user_details?userid=03n7_buIe-lARdl74Y22AQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6hFSTeBAtsjE7xHFH1e-Mg/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 189,
+        "photos": 865,
+        "reviews": 395,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This is the cutest little place with an amazing outdoor patio. We were seating inside as their was a wait for outside seating. For appetizers we chose Guacamole and the queso dip which was a different type thicker than the traditional queso not mad but not quite what i was expecting. The guacamole was nice and fresh also. For my entree i chose the steak tacos with a side of black beans. The steak was nice and tender and their salsa verde was the perfect addition to my tacos. Overall it was a good experience the only downside is that they are a bit pricey for tacos. My meal was $29 for the steak tacos.",
+        "language": "en"
+      },
+      "date": "2022-03-19T20:43:45Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VFdqOOXEQ99IeiSCGE5fPQ/o.jpg",
+          "caption": "Steak Tacos Al Carbon with black beans"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/j3I2sgzXC5UJ9aIeh3cnwQ/o.jpg",
+          "caption": "Queso Fundido"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R1-1VtWzTTL9QpeXVBeytA/o.jpg",
+          "caption": "Guacamole"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "V J.",
+        "user_id": "qMtyT6QsE0Nj8XI3aKvWog",
+        "link": "https://www.yelp.com/user_details?userid=qMtyT6QsE0Nj8XI3aKvWog",
+        "address": "Ellenwood, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 22
+      },
+      "comment": {
+        "text": "Never clean, the floors always feel like all the leftover food and drink was swept to the floor and abandoned. Food is not worth such high prices. Service is hit or miss. I would try it again for the 4th time to see if they improved, one day.",
+        "language": "en"
+      },
+      "date": "2023-11-22T00:21:27Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Madison T.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/Mrfu-MWCaH5gQUzraEPM-Q/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "VJ\n\nOur apologies for a less than memorable experience. We pride ourselves on our property as it is of providing our guests with a great experience. Please reach out to me I would love the opportunity to apologize and provide an experience you deserve from us.\n\nMike Dickey\nGM Superica Krog\nMdickey@rocketfarmrestaurants.com",
+          "date": "2023-11-22T22:03:50Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Rebekah M.",
+        "user_id": "E4AkiSjsnCeHiPFt4veUsg",
+        "link": "https://www.yelp.com/user_details?userid=E4AkiSjsnCeHiPFt4veUsg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BR-jdsyp1-x5RN0-KwBNMg/180s.jpg",
+        "address": "Middletown, RI",
+        "friends": 0,
+        "photos": 6,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "Food was classic Tex mex. Drinks were small and not very strong. Decent place if you don't have other options.",
+        "language": "en"
+      },
+      "date": "2023-06-19T20:13:50Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tauheedah M.",
+        "user_id": "39Pn3pbPLpF68pAAP-u9YA",
+        "link": "https://www.yelp.com/user_details?userid=39Pn3pbPLpF68pAAP-u9YA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RCLqLzYfm_4-IiA1aUnRWw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 67,
+        "photos": 582,
+        "reviews": 235,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "So so so good. Omg the flavor of the meat. I had the chicken fajitas and they are delicious. \n\nThe queso is so good.\n\nThe salsas ESPECIALLY the green one is so so so good. \n\nMargaritas are good. \n\nExpensive!!! Is it worth the money? I'll be going back I just wish someone else was paying but then I wouldn't order all I want bc I'd be too considerate  \n\nGO!!! Dont hesitate, Dont complain about the long ass wait...we waited 2 hrs. Just grab a drink from the bar and ppl. Watch until it's time to experience the deliciousness. \n\nOh I tasted the enchiladas...yummy \n\nJust Go! I'm a chubby foodie chef. Trust Ya Gyal",
+        "language": "en"
+      },
+      "date": "2021-03-27T17:12:41Z",
+      "rating": 5,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yVuc7GOChzagE7ac6mgfHw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sGvu0rhGXDRzSVTzMV4Ilw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Bol1X_Yq1V4D7aNmvYzv4Q/o.jpg",
+          "caption": "Shrimp Tacos"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WQASM7ASqn0kLdrZVD_Elw/o.jpg",
+          "caption": "Queso"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gx4Ik4GNazy_diMs-YzmQQ/o.jpg",
+          "caption": "Puffy Taco Dinner"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CbfxEC5MBQFEOlFcW2bAeQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6ngrjOV2xvLmF0hNvA_w9g/o.jpg",
+          "caption": "Chicken Fajita"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "D L.",
+        "user_id": "z-yvbUGwFn8PAijEHdU_RA",
+        "link": "https://www.yelp.com/user_details?userid=z-yvbUGwFn8PAijEHdU_RA",
+        "address": "Concord, CA",
+        "friends": 4,
+        "photos": 66,
+        "reviews": 112
+      },
+      "comment": {
+        "text": "I tried to order for take out on the website, but their platform had a ton of bugs and wasn't working. I called in to alert a staff member and ask if I could place an order on the phone (only because the platform wasn't working! Otherwise, i understand it's too much work for staff to do this regularly). The staff told me that I had to come in to place my takeout order and refused to addrss any of my concerns. \n\nLike ??? this defeats the purpose of ordering to go?",
+        "language": "en"
+      },
+      "date": "2023-06-16T01:12:00Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nadine A.",
+        "user_id": "fDzZV977dergpwXyiqFs8A",
+        "link": "https://www.yelp.com/user_details?userid=fDzZV977dergpwXyiqFs8A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/f8pkROUKioL3CYDi8LyxRA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 31,
+        "photos": 1027,
+        "reviews": 189,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I haven't been to Superica in awhile. Everything is good. Over the years , I had many great dishes but baby!!!! That pollo con mole will have you do a spin, Suzy's Q and a body roll lol. Hands down the best mole I've had. It's velvety. You can taste the chili peppers and chocolate. I never order chicken dishes at any Tex-mex or Mexican restaurant. I prefer other proteins but I order this chicken mole enchilada 95% of the time here.  I'm sooooo excited that Chef Fry is opening one on the Westside!!!!!!! Super stoked! I can't wait!",
+        "language": "en"
+      },
+      "date": "2022-01-17T07:41:35Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FqqhaLYpEFttv1J9Uzdl4Q/o.jpg",
+          "caption": "Outside sign."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KD9P7bL5cY1dJ2GuqwhsLw/o.jpg",
+          "caption": "Pollo Con Mole"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank You Nadine! Great photos!!!",
+          "date": "2022-01-27T03:02:40Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Laura Z.",
+        "user_id": "7cGrH5dkTR2EhzrPyRX_dg",
+        "link": "https://www.yelp.com/user_details?userid=7cGrH5dkTR2EhzrPyRX_dg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/eRzix47NwjKtaEqZ4o1eoA/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 449,
+        "photos": 584,
+        "reviews": 179
+      },
+      "comment": {
+        "text": "TLDR: very solid mexican food that has good portions and reasonable price points\n\nSuperica is always a solid choice for food with a great amount of indoor/outdoor seating (great for the 70 degree weather Atlanta has recently been having)! \n\nFor starters, we shared the chips and guac which was pretty yummy - wouldn't say anything spectacular but it's food done well.\n\nFor the main, i got the beef enchilada which was very solid! again, nothing crazy but very good and filling. was a big greasy from the beef but still very good!",
+        "language": "en"
+      },
+      "date": "2022-03-30T04:28:14Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LGla2zQLby5LKyVaN3B9Pw/o.jpg",
+          "caption": "beef enchilada"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-BXa8KcycmKdInqohVPW-w/o.jpg",
+          "caption": "chips and guac"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks Laura for the feedback! We are so pleased that you enjoyed your dinner and our amazing patio! We are making a few upgrades in the coming week to the outdoor dining space so come back soon to an EVEN BETTER patio dining experience.",
+          "date": "2022-04-03T17:19:24Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Michael H.",
+        "user_id": "CxH8aA8N1v1qKHJ7oRYaqw",
+        "link": "https://www.yelp.com/user_details?userid=CxH8aA8N1v1qKHJ7oRYaqw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4p9Z8lzYErdworhCWZqHxA/180s.jpg",
+        "address": "Augusta-Richmond County consolidated government (balance), GA",
+        "friends": 100,
+        "photos": 150,
+        "reviews": 262,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Late night visit, but the service was impeccable. Chips and salsa (super tasty) were delivered quickly. Our server was amazingly attentive and her attitude made us smile. We had the OG margarita and some chili queso. Both were AWESOME!  This is a must visit when you're in the Beltline.",
+        "language": "en"
+      },
+      "date": "2022-07-30T23:55:20Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Michael, we strive hard for exactly what your experience was! See you next time you're on the Beltline!",
+          "date": "2022-08-09T16:32:23Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Hernley J.",
+        "user_id": "lIxHVC5F6LfFuOaPDPxqvQ",
+        "link": "https://www.yelp.com/user_details?userid=lIxHVC5F6LfFuOaPDPxqvQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/usRQ_InAD7TM1gW2qKrgsg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 42,
+        "photos": 428,
+        "reviews": 119,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I was excited to go to Superica because I was told the food was amazing, it unfortunately was not. The interior design, aesthetics, and vibe of the restaurant was great but all that unfortunately did not match the food. The drinks weren't that amazing either.",
+        "language": "en"
+      },
+      "date": "2022-09-22T17:27:22Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Mr Hernley I am sorry your experience fell short of the amazingness that you were expecting, I would love the opportunity to change your first impression.  Please reach out to me if you are willing at jsweeney@rocketfarmrestaurants and we can set something up, I look forward to hearing from you and hopefully the opportunity to live up to expectations.  Be well",
+          "date": "2022-09-26T16:14:29Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Nicole N.",
+        "user_id": "ULvxxr-QUIHH2iOWwr-BMw",
+        "link": "https://www.yelp.com/user_details?userid=ULvxxr-QUIHH2iOWwr-BMw",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Went here once when there was live music and the experience was amazing!  The food is good but the vibe is great!!",
+        "language": "en"
+      },
+      "date": "2023-10-28T16:38:27Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Caleb G.",
+        "user_id": "_NBJOTJfaqggE4ZsXqJAVQ",
+        "link": "https://www.yelp.com/user_details?userid=_NBJOTJfaqggE4ZsXqJAVQ",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "I discovered this place years ago with my ex girlfriend. The food has always been consistent, the cocktails are simple but executed very well, and service has  always been fine. Tonight was one of the best experiences I've ever had thanks to my bartender Bossi. He asked the kitchen if they could give me vegetables to dip my guac instead of chips they delivered mushrooms and without having to say anything to him he went and got carrots and radishes put on some gloves and cut them fresh for me and presented them well. Little things like this make experiences, and are the reason I'm proud to be in the hospitality field myself.",
+        "language": "en"
+      },
+      "date": "2023-10-28T00:02:42Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Journey W.",
+        "user_id": "lTN3CCKllOdJVC-A09v8ZQ",
+        "link": "https://www.yelp.com/user_details?userid=lTN3CCKllOdJVC-A09v8ZQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KrD-vM1UpasicgDwAU3tqQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 33,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "Part of my Vegetable Mixta. I didn't realize until I open my to go box that a majority of my meal was onions and not too much of any other vegetables. The sweet potatoes were so hard I couldn't put a fork in them, basically way under cooked.  My ginger marg was delicious, but no slice of ginger which I live to eat. And to add, the music was so loud we had to yell at each to have a conversation.  Not sure why restaurants turn into clubs after a\nCertain hour.  This was my 3rd not so good dining experience",
+        "language": "en"
+      },
+      "date": "2022-07-09T00:28:01Z",
+      "rating": 2,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xcqZVOER6fRH49O95JKMpA/o.jpg",
+          "caption": "Vegetable Mixta"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Journey I am terribly sorry for the misses on your recent visits. If you feel up to it reach out to me at the restaurant or email me at jsweeney@rocketfarmrestaurants.com",
+          "date": "2022-08-09T16:38:25Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Aishwarya I.",
+        "user_id": "8V5LgH5oOpgP9Kcj5MufFw",
+        "link": "https://www.yelp.com/user_details?userid=8V5LgH5oOpgP9Kcj5MufFw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gs7aq6yvi_tGVojVNpWDeg/180s.jpg",
+        "address": "Seattle, WA",
+        "friends": 35,
+        "photos": 248,
+        "reviews": 180
+      },
+      "comment": {
+        "text": "As a gal from the land of Tex-Mex, I was VERY dubious about the quality of a Tex-Mex joint in Georgia, but was pleasantly surprised by every aspect of my experience here! (It is a chain, which made me even more wary about it to be honest, but I was very pleased with the food and overall ambience.)\n\nMy friend and I showed up as soon as they opened on Saturday morning (10am) and it was very quiet! It started getting busy around noon. The outdoor patio is very spacious and has a lovely vibe with the decor, furniture, and even the design of the patio floor underfoot. We love a place that offers free chips and salsa - our server informed us that because they don't own a freezer, the salsa and everything else is made fresh daily with ingredients brought in each day! The tomatillo/verde salsa was my favorite, albeit a bit salty, and the other one has a smoky flavor with a bit of heat at the end.\n\nI didn't try any of the drinks so I can't speak to those, but the food was so tasty. We loved the huevos mexicanos (yummy even without the tortillas tbh) and chilaquiles, but the hot cakes were OUT OF THIS WORLD. If you're going to try anything here, it has to be the hot cakes. I saw a foodie TikTok recommend those to me which is why this place ended up on my foodie list in the first place, and now I can see why. They were SO tasty!! Not your typical pancake - they were deliciously buttery, not too sweet, and cake-like in consistency, especially with the syrup (which also gives honey vibes). They melt in your mouth!! Definitely a foodie experience worth having.\n\nOverall, the food was great, the service was excellent, and the vibes were on point! One of my favorite brunch experiences in Atlanta, hands-down.",
+        "language": "en"
+      },
+      "date": "2022-03-19T16:32:03Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jcOqYmuYj4MnzIxgUfeF3Q/o.jpg",
+          "caption": "Huevos mexicanos"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_OVMAguixNek-SdCiVK4WA/o.jpg",
+          "caption": "Free chips and fresh-made salsa!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ofV4MbLE0Ev2fScFhxaz-Q/o.jpg",
+          "caption": "Chilaquiles divorciados"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/i2ZXCarDLuWjw-BLTnK1-w/o.jpg",
+          "caption": "Hot cakes - double stack"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Shawn D.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/DqkUdZvihMbTuJcKThxh8w/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for such high praise! We love that you enjoyed your brunch. Almost everything we serve is made fresh daily like our salsas! Please come back again soon.",
+          "date": "2022-03-19T16:52:37Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Tracey B.",
+        "user_id": "kY2EOV20_u9acMnFPPf8-g",
+        "link": "https://www.yelp.com/user_details?userid=kY2EOV20_u9acMnFPPf8-g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1nHrXCTPk871jXMPR_DDWQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 312,
+        "photos": 1254,
+        "reviews": 250,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Superica is SUPER!!!\n \nI have come to the Krog Street Market area for quite some time and have seen this restaurant but have never dined there.  I'm glad I did because they are really delicious!  I ordered the Camarones Brochetas and loved every bite.  The Chile spiced gulf shrimp was stuffed with Monterey Jack cheese and wrapped with bacon was really tasty.  My only complaint is that the bacon was too salty, which overpowered the dish.  To break up that salty taste a nice maple bacon would really help blend the flavors of this dish nicely.  You already have the spice/savory flavor with the Chile spice so a little sweet would take this dish to the next level.  \n\nAs for my drink, I ordered the Matador margarita.  It's a very refreshing drink with pineapple, lime, and a cilantro which adds a nice kick.   I enjoyed it so much that I ordered a couple.  \n\nAs for my dining experience, I appreciated the observance of social distancing and they gave us the option to dine outside.  It was still warm outside so we chose to sit on the patio.  The staff all wore masks, were super friendly, and made sure to handle our food and drinks with extra care.  This is a place that I can see myself frequenting because it's in a bustling location with delicious cuisine!",
+        "language": "en"
+      },
+      "date": "2020-12-28T15:17:50Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/T5BwunDWwdbuvdS2EIudrA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Asg7H_iw_THr0HZryyirhA/o.jpg",
+          "caption": "Camarones Brochetas"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Reva B.",
+        "user_id": "o0SYfwJn97CofmRNbFaW5A",
+        "link": "https://www.yelp.com/user_details?userid=o0SYfwJn97CofmRNbFaW5A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-oHerXXPnyMSEBA4aJQrgg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 705,
+        "photos": 3178,
+        "reviews": 214,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Absolutely amazing service from Nick & Casey at the bar! We sat at the table on side of the bar and it still felt like we were at the bar because the service was just as attentive! \n\nThe food:\nI came here for the food since they have Tex mex nachos, meaning they bake the ingredients on the tortilla chips! This is literally the only place I could find in Atlanta that does this. Just a note, the beef fajita nachos come medium rare, so if that not your preference ask for your temperature when you order.The chicken and shrimp fajitas... soooooooooooooo goood! lol even the Mexican butter that comes with the chicken :) I cannotwait to come back! Definitely sitting in the bar area for my guys!",
+        "language": "en"
+      },
+      "date": "2020-11-01T22:48:43Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8FjYJ_DDI-PPigc9mSw1ng/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aazA4XXbbxqPFbRVRzHZrg/o.jpg",
+          "caption": "This what I'm looking for!!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SeUyTe-Fa3m8xGDsyS3oYQ/o.jpg",
+          "caption": "Chicken Fajitas!"
+        }
+      ],
+      "feedback": {
+        "useful": 10,
+        "funny": 4,
+        "cool": 9
+      }
+    },
+    {
+      "user": {
+        "name": "Mel M.",
+        "user_id": "26Z4vLGzBUYKQnqsnPe0yQ",
+        "link": "https://www.yelp.com/user_details?userid=26Z4vLGzBUYKQnqsnPe0yQ",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 8,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "If I could give zero star...seated quickly on a Saturday afternoon, chips and salsa and water arrived promptly to our table by General Manager; however, service soon became negative. We placed our order with the server and after an hour of watching every table around us get served, even those seated on both sides of us, we had to nearly make a scene to get anyone to come to our table and help us. By that time, we were done and left. \nThe server was and manager were neglectful and never came by to ask us how we were and see why our order never arrived.  I strongly do not recommend this restaurant due to poor and neglectful service.",
+        "language": "en"
+      },
+      "date": "2023-04-15T18:29:20Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Mel! I'm truly sorry to hear about your experience with us today.   Thank you for giving us the feedback as I would be grateful for the opportunity to speak to you directly.   Please reach out to falvarado@rocketfarmrestaurants.com -  Felix Alvarado, General Manager",
+          "date": "2023-04-15T20:32:19Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Alec P.",
+        "user_id": "Nigj1NK-BFlj0cEwOmENow",
+        "link": "https://www.yelp.com/user_details?userid=Nigj1NK-BFlj0cEwOmENow",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ITcPGsmQ9gmskuqCYBMXIg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 459,
+        "photos": 1,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Used to be my favorite restaurant! Don't get me wrong the food is still amazing, but now nickel and dimming for everything service is very slow. \n\nCharging for the beans and rice that used to be free is understandable but now a dollar for the foaming butter...",
+        "language": "en"
+      },
+      "date": "2022-01-27T00:01:34Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_MhrSD8TVd8PN0qFoY7eJA/o.jpg",
+          "caption": "Never texted me saying my table was ready...yet it was my fault..."
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Elizabeth N.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/fGSQXu_ruaBlXIwicsWwxQ/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks Alec! We will see you again soon!!",
+          "date": "2020-07-15T14:26:20Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Marissa B.",
+        "user_id": "Ss9IFZcN4QEQYHy-QIO8nA",
+        "link": "https://www.yelp.com/user_details?userid=Ss9IFZcN4QEQYHy-QIO8nA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/urBGHc4NNiH3CyRgxWiQXw/180s.jpg",
+        "address": "San Francisco, CA",
+        "friends": 1,
+        "photos": 3,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Food here is always decent. It's expensive mexican but worth it if you get the right items!",
+        "language": "en"
+      },
+      "date": "2023-02-07T16:28:09Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Marissa! Thanks for the feedback from your visit with us.  I would love the opportunity to hear from you directly and hope we can get you back to the restaurant and show you a great experience.  Please feel free to reach out at falvarado@rocketfarmrestaurants.com.  Hope to hear from you! - Felix Alvarado,  General Manager",
+          "date": "2023-02-10T03:48:25Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Danny B.",
+        "user_id": "Z2OzOx2Ry24HrEK6IP4o5Q",
+        "link": "https://www.yelp.com/user_details?userid=Z2OzOx2Ry24HrEK6IP4o5Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/g5NDRP9p4JCYcEP8fn_FmQ/180s.jpg",
+        "address": "College Park, GA",
+        "friends": 121,
+        "photos": 369,
+        "reviews": 227,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This spot gets five stars for the atmosphere, well priced food and drinks, good quality of food, and the friendly staff. I came here on a Sunday with some friends to celebrate finishing part of my dissertation. There was a 45 minute wait to be seated but that's not bad because we were able to use the time to go get a beer in the market. I ordered the O.G. Which is their house margarita as well as the enchiladas de pollo con mole. I love the food here so you really can't go wrong with anything on the menu. We also had some queso with chips as an appetizer. Their queso is better quality than most Mexican restaurants so I definitely recommend it! The Dos Equis on draft is also a must try. \n\nParking: it can be a bit tricky to park depending on the day you want to eat there. Weekdays are probably easier than weekends as far as parking goes. There is a free lot for Krog Street customers that you can use as long as you don't leave the Krog Street area. This fills up pretty quick but there are some paid spots nearby as an alternative.\n\nI would definitely recommend you try this spot and the rest of Krog Street market if you are visiting Atlanta!",
+        "language": "en"
+      },
+      "date": "2020-11-09T17:49:31Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DT1wYCSmMOcyS1e_HD9j1w/o.jpg",
+          "caption": "Enchiladas de pollo con mole!"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Kyle S.",
+        "user_id": "yACLb6lUDPjw0g5JrNwXMg",
+        "link": "https://www.yelp.com/user_details?userid=yACLb6lUDPjw0g5JrNwXMg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SeO7QiA--zprDZO_F2Y5Hg/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 396,
+        "photos": 388,
+        "reviews": 261,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Nice vibe, consistently good food, and great location at Krog St Market. \n\nNeed I say more?\n\nI prefer getting their chicken enchiladas. They are filled with delicious tasty shredded chicken and topped with your choice of sauce. I prefer the mole. \n\nFajitas are a solid choice too. \n\nTheir drinks are good; nothing fancy, and could be cheaper. That's the only critique I have.",
+        "language": "en"
+      },
+      "date": "2022-01-11T02:58:07Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks Kyle! Mole Enchiladas with a fried egg is the best way to go! Come back again soon!!",
+          "date": "2022-01-27T03:05:52Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "lucy t.",
+        "user_id": "jRYMggXaHpCtR_R9ydKJRw",
+        "link": "https://www.yelp.com/user_details?userid=jRYMggXaHpCtR_R9ydKJRw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/A-SJAqoRSvIEJnCRneERDg/180s.jpg",
+        "address": "Geneva, IL",
+        "friends": 13,
+        "photos": 66,
+        "reviews": 91,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Soo good. We loved the fun vibe of this Tex-Mex restaurant as we walked in. Large outdoor seating area was full so we ate inside. Warm chips with tasty red and green salsa were delivered quickly. I ordered the chicken tacos Al carbon. The flour tacos are homemade so they were fresh and the chicken was grilled to perfection. There was a green creamora sauce that added some heat and a side of pivot and lettuce filled in the taco. Great hot sauce too. Place was super busy but our waiter was very attentive pouring water and bringing more chips and salsa without our having to request them. Thank you for a fun evening 0f delicious food!",
+        "language": "en"
+      },
+      "date": "2022-08-09T00:47:24Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Lucy, the Cremosa is my favorite of our sauces! Hope to see you soon!",
+          "date": "2022-08-09T16:30:25Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "M O.",
+        "user_id": "a8ynWiD16zKBlTCX7Ojtjg",
+        "link": "https://www.yelp.com/user_details?userid=a8ynWiD16zKBlTCX7Ojtjg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/N9sxaFYXcj0sO15PJkG_AA/180s.jpg",
+        "address": "Jacksonville, FL",
+        "friends": 1,
+        "photos": 11,
+        "reviews": 46
+      },
+      "comment": {
+        "text": "This place was so good. Really cool atmosphere, the food was delicious too. It was in this really cool part of town too nearby tons of other local businesses and restaurants. Definitely a great spot. A little pricey for what it is but the quality of food & ingredients was well worth it, definitely worth the splurge if you're feeling a nice comfort meal. Very great portions too. Definitely a great spot, just don't take a first date here- the food all has amazing sauces and it can get pretty messy",
+        "language": "en"
+      },
+      "date": "2023-01-01T12:55:07Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Ashlye B.",
+        "user_id": "E_Px1OdqTftlHim3DO1HeQ",
+        "link": "https://www.yelp.com/user_details?userid=E_Px1OdqTftlHim3DO1HeQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kjO3tGhyG4216AEKlNcW7A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 174,
+        "photos": 1353,
+        "reviews": 189,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "The wait is long so please go online and add yourself to the wait list and it will save you!! \nThe food is great, drinks on point and the ambiance inside is chill with all the social distancing go on. They will require you to wear a mask until you are seated if you wait inside. I usually park on the side street (lucky me). So go ahead and Experience the Krog City dining.",
+        "language": "en"
+      },
+      "date": "2020-09-07T02:34:59Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GGbXJqrDsMzkUv76WEN9QQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0XVTK_nvnoU9GN1rd0vX4Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/r0cQI0pv6ikkWsHOMTgXKQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 3
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Elizabeth N.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/fGSQXu_ruaBlXIwicsWwxQ/90s.jpg",
+            "role": "MANAGER"
+          },
+          "comment": "Thanks Ashley! Hope to see you again soon!!",
+          "date": "2020-09-07T02:35:30Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ken P.",
+        "user_id": "YTP-_mdUpCLaLMLPB2eUWw",
+        "link": "https://www.yelp.com/user_details?userid=YTP-_mdUpCLaLMLPB2eUWw",
+        "address": "Beverly Hills, CA",
+        "friends": 2,
+        "photos": 13,
+        "reviews": 72
+      },
+      "comment": {
+        "text": "EXCELLENT!!!!!! Thank you to \"BRYAN\" the manager for making our Dinner FANTASTIC!!!!\nShout Out to \"SAM\", Best Server hands down!!!\nExcellent food as well!!!\nSUPERICACis a must when down in the Krog district....\nThank you to Bryan and Sam for an experience that we will not soon forget!!!\nAAAAAAAAAAA++++++++",
+        "language": "en"
+      },
+      "date": "2023-04-29T22:58:33Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Miriam F.",
+        "user_id": "Tq0NgtIfem_rbym3bafyww",
+        "link": "https://www.yelp.com/user_details?userid=Tq0NgtIfem_rbym3bafyww",
+        "address": "Pittsburgh, PA",
+        "friends": 1,
+        "photos": 0,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Amazing salsa. Even better (and kinder) bar tender. I could go here every week. I will happily become a regular here.",
+        "language": "en"
+      },
+      "date": "2023-09-10T15:46:09Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "D M.",
+        "user_id": "7WNrzJMDlLJBh2tU4jNxGw",
+        "link": "https://www.yelp.com/user_details?userid=7WNrzJMDlLJBh2tU4jNxGw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5bp5Nvv0GiNXl8cVsPwwtw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 38
+      },
+      "comment": {
+        "text": "Some of the best Tex mex in Atlanta!! It can be kind of pricey but I think it's worth it. I've  tried many items on the menu and thoroughly enjoyed them all. I wish they would bring back the live music though!",
+        "language": "en"
+      },
+      "date": "2023-04-18T17:39:08Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Vandy C.",
+        "user_id": "rXBjuqG1cbgi6aVC448aBw",
+        "link": "https://www.yelp.com/user_details?userid=rXBjuqG1cbgi6aVC448aBw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xLfzjYhQ8JTBa_1IDuW6ow/180s.jpg",
+        "address": "Columbus, IN",
+        "friends": 1,
+        "photos": 30,
+        "reviews": 41
+      },
+      "comment": {
+        "text": "I would say this business model of a wait list is okay but not having a phone number to call and find out if they are open or not is terrible.  Our experience -- our daughter had picked the Krog St location to go out to dinner with her friends with her parents for her birthday.   Parents land there early to put the group of 7 on the wait list while the young ones come closer to seating time.   Got to the restaurant and there was no one seated or waiting post 5pm.  Finally someone comes and tell us the whole place was closed to outsiders that evening for a private party.  Can you please learn how to post a message to that effect on your social media and web channels!!! It was already 5:15pm when that happened and we had to scramble to find another restaurant that could either give us a reservation for 7 on a Saturday evening in downtown or midtown Atlanta (like that is going to happen) or pray for a miracle... a miracle did happen and that will be in my review for Atrium at Ponce Market,, because they went above and beyond to accommodate us! \n\nMy recommendation to those wanting to visit Superica for a special event -- please don't!",
+        "language": "en"
+      },
+      "date": "2023-03-04T00:42:31Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Vandy!  I'm sorry to hear about your experience.  I would be grateful for the opportunity to hear from you directly.  Please reach out at your earliest convenience at falvarado@rocketfarmrestaurants.com-  Felix Alvarado, General Manager",
+          "date": "2023-03-05T22:02:01Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Amber A.",
+        "user_id": "zVgzZlROhBOuguCSjsdLgw",
+        "link": "https://www.yelp.com/user_details?userid=zVgzZlROhBOuguCSjsdLgw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yfFi0he8O1L_aGU_61JYyg/180s.jpg",
+        "address": "Duluth, GA",
+        "friends": 0,
+        "photos": 8,
+        "reviews": 20
+      },
+      "comment": {
+        "text": "I have come to this location several times and had the best experiences. My family and I went yesterday and it was the worst experience. We got there at 5 pm and was told a wait time of 45 minutes. 45 minutes turned into a hour and a half. After getting to our table, our waitress was swamped. The tortilla fryer was down. Everyone ordered at the table and the waitress thought my daughter and I would eat off the same plate. Everyone's food came out. I had to wait another 20 minutes for my food. We had to place plates inside of our booth because she didn't come get the dirty plates.So I didn't get a chance to even eat because everyone was down with their food. We had to repeatedly remind the waitress and ask for things. This was a very disappointing experience from one of my favorite. Also, the waitress got everyone's card but but the bill on one card!",
+        "language": "en"
+      },
+      "date": "2023-03-05T23:07:58Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Amber,  I'm very sorry to hear about your experience over the weekend.  It sounds like there were some opportunities there and I truly appreciate you taking the time to provide us the feedback so that we can avoid these things in the future.  I would be more than grateful for the opportunity to hear from you directly in hopes we can get you back to the restaurant.  Please reach out directly at falvarado@rocketfarmrestaurants.com - Felix Alvarado,  General Manager",
+          "date": "2023-03-08T23:28:45Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Nick T.",
+        "user_id": "3KWGcrZY0_naTykn_uKmvQ",
+        "link": "https://www.yelp.com/user_details?userid=3KWGcrZY0_naTykn_uKmvQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xQJp4l6g6UrpR16jneTEzA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 10,
+        "photos": 21,
+        "reviews": 77
+      },
+      "comment": {
+        "text": "Superica is always great from the service to the food. Gets busy on the weekends but have an open bar you can wait for your table at and usually a pretty quick line. We'll worth the wait for any meal. Personal favorite are their fajitas.",
+        "language": "en"
+      },
+      "date": "2023-03-05T13:32:58Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Cherise W.",
+        "user_id": "pMMFKQ2MeuD6U_4wNHom7g",
+        "link": "https://www.yelp.com/user_details?userid=pMMFKQ2MeuD6U_4wNHom7g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Cb6mezGMTBUjow0LsTgtWw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 14,
+        "photos": 35,
+        "reviews": 71
+      },
+      "comment": {
+        "text": "Ok, so I love this place. I love the ambiance. It's very eclectic urban outfitters, cowboy vibes. I like the different textures this place gives. It's definitely a top Tex Max place. I usually get the queso with chorizo and while I wait for that to come out I'm chowing down on the chips and green salsa. That green salsa is Bae and will have you visiting this place twice in once week. Lol! \nNow, I tried the barbacoa tacos. And the meat was real good but honestly, Superica, y'all need to cook them taco shells a bit. Like they taste fresh out the pack. Them tortillas are still tortilla-ing if you know what I mean,!I'm just being honest. Y'all would have some bomb tacos if y'all just tweaked that little detail. I heard next time I should get the chicken Quesadillas, that they were very good. That was actually from a bartender that works here. This place is perfect for a casual date day or night. And in my opinion you should sit at the bar. The layout of the rest of the restaurant is very family oriented in my opinion. Overall good food, good drinks, good ambiance and friendly and accommodating staff. You should go!",
+        "language": "en"
+      },
+      "date": "2022-12-31T20:38:05Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Simone W.",
+        "user_id": "eFFFYcxc9m0E0HIq5DLyTg",
+        "link": "https://www.yelp.com/user_details?userid=eFFFYcxc9m0E0HIq5DLyTg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CHvp7EdYJSvjKFCflnkO-A/180s.jpg",
+        "address": "Tampa, FL",
+        "friends": 475,
+        "photos": 100,
+        "reviews": 24
+      },
+      "comment": {
+        "text": "Let me begin by saying, if you come to the Krog Street Market on the weekend expect it to be very busy. I'd suggest using a ride share app because the parking lot can be crowded. I came here on a Sunday with some friends and we were told that the wait time would be about 45 minutes to an hour. This wasn't a problem since there's so much to do in the area. We walked right around the corner and had drinks at Hop City. Right as we were finishing up, we got a text that our table was ready. \n\nWe headed over and received great service the whole evening from everyone. I can't remember the exact menu name of what I ordered, but it was a chicken and steak fajita with bacon wrapped shrimp. The meal was soooo delicious and seasoned well. We also shared the queso appetizer which was also good! In addition to the great food, we received wonderful service from our waitress. Overall the atmosphere was nice, the food was great, and the service was excellent. I'd definitely recommend checking out this location!",
+        "language": "en"
+      },
+      "date": "2021-06-25T14:58:41Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fz6dsiW_7oFM650hQ-wx0Q/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Brian W.",
+        "user_id": "q3eqxaL6-12hGvWDyxqomg",
+        "link": "https://www.yelp.com/user_details?userid=q3eqxaL6-12hGvWDyxqomg",
+        "address": "Hampton, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 33
+      },
+      "comment": {
+        "text": "Sunday Brunch is to die for. The steak and eggs with all the fajita trimmings is where it's at!!!",
+        "language": "en"
+      },
+      "date": "2023-08-23T14:02:40Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sherri W.",
+        "user_id": "De951KErGnOIn4VnO12REw",
+        "link": "https://www.yelp.com/user_details?userid=De951KErGnOIn4VnO12REw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/r852qrLre7KEfb5QqvaMsA/180s.jpg",
+        "address": "Dacula, GA",
+        "friends": 29,
+        "photos": 91,
+        "reviews": 22
+      },
+      "comment": {
+        "text": "We ordered the queso w/chorizo as an appetizer and short rib entree. Both were delicious. The short rib was fatty and tender. You can pull it off the bone. It's worth making the trip to any of their locations. Not sure if they have dessert. The service was great too.",
+        "language": "en"
+      },
+      "date": "2022-07-20T21:00:52Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DX2YLou2bqLTBnmD_nK8hA/o.jpg",
+          "caption": "Short ribs and queso"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Ford F.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/o5uReNcQsslJ2SEqwLE_YQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Sherri thank you for the kind words! The short rib is quite the eye catcher.  See you soon!",
+          "date": "2022-08-09T16:33:13Z"
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=1VAX8KygRWcloSuv5x5o5A&start=90"
+  }
+}

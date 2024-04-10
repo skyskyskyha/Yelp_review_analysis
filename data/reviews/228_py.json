@@ -1,0 +1,1541 @@
+{
+    "search_metadata": {
+        "id": "65ef310747ccf1a34f0767a1",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f3ac24a8377f2625/65ef310747ccf1a34f0767a1.json",
+        "created_at": "2024-03-11 16:27:51 UTC",
+        "processed_at": "2024-03-11 16:27:51 UTC",
+        "yelp_reviews_url": "https://www.yelp.com/biz/WS_3VW9O2CmJMzlI4uxJrA?",
+        "raw_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef310747ccf1a34f0767a1.html",
+        "prettify_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef310747ccf1a34f0767a1.prettify",
+        "total_time_taken": 2.6
+    },
+    "search_parameters": {
+        "engine": "yelp_reviews",
+        "start": 0,
+        "num": "50",
+        "place_id": "WS_3VW9O2CmJMzlI4uxJrA"
+    },
+    "search_information": {
+        "total_results": 432,
+        "business": "Manuel's Tavern"
+    },
+    "review_languages": [
+        {
+            "hl": "en",
+            "count": 432
+        }
+    ],
+    "reviews": [
+        {
+            "user": {
+                "name": "Hong L.",
+                "user_id": "TfSnkfJFrjyyuuNDc9l8JA",
+                "link": "https://www.yelp.com/user_details?userid=TfSnkfJFrjyyuuNDc9l8JA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/axcgvICpWldeX_RUxKy6KQ/180s.jpg",
+                "address": "Brooklyn, NY",
+                "friends": 338,
+                "photos": 711,
+                "reviews": 856,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "We came on a Saturday during Brunch and had to wait till 2pm for them to serve the wings. We waited an hour but it went by fast with the decent craft beers on draft and $0.50 pinball games. The pinball games were so much fun and not crowded on a Saturday noon time. The service was very friendly and let us hang out and remembered that we wanted the wings so gave us the lunch menu a few minutes early. \n\nWorth the wait for the lemon pepper wings . So crispy and juicy.",
+                "language": "en"
+            },
+            "date": "2023-10-01T20:17:11Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5S178bxMlWrO0L1zw7XDAw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VAnaiwOLZk4yNkY0JFp3bQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Steve C.",
+                "user_id": "Uonpp_3mGtdo7OP1DR7zvA",
+                "link": "https://www.yelp.com/user_details?userid=Uonpp_3mGtdo7OP1DR7zvA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/64KZcIHao7xjzj7gbNpq8A/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 44,
+                "photos": 1562,
+                "reviews": 709,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "First visit to this iconic establishment. Very cool inside, reeks with nostalgia. \n\nI had the French dip sandwich, adding peppers and onions; it came with a side of fries. Sandwich was good. The sour cream/horseradish sauce that came with it was more or less sour cream with just a faint hint of horseradish (would have preferred more horseradish). I'm just gonna hang out here man. I'll just hang here that's fine.\n\nI don't recall ever having horrible ketchup, that is until I came here. The ketchup they offer is very vinegary and just plain nasty. Fortunately, they had one other brand that was organic, and it was fine tasting.\n\nService was good. They have a full bar with several draft offerings.",
+                "language": "en"
+            },
+            "date": "2023-12-29T15:34:18Z",
+            "rating": 3,
+            "tags": [
+                "4 photos",
+                "1 check-in"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7R9NIsNEsWbJHsKQdN0V5A/o.jpg",
+                    "caption": "French Dip with Fries"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/I4PDmR7HrP99bFSGmQ6qEg/o.jpg",
+                    "caption": "Drink menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8n7tO7nBZedeeSpmXCAHOA/o.jpg",
+                    "caption": "Food menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/G2euJ57qaKqxvJqkt1xV9Q/o.jpg",
+                    "caption": "NASTY ketchup!"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Morganne M.",
+                "user_id": "2UP9Xi5bR8s0eku1fY9uZw",
+                "link": "https://www.yelp.com/user_details?userid=2UP9Xi5bR8s0eku1fY9uZw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xmgJs2liY7aFMa5ybvfA3w/180s.jpg",
+                "address": "Blandtown, Atlanta, GA",
+                "friends": 1,
+                "photos": 4,
+                "reviews": 29,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Came here for brunch. Service was good. I ordered a mimosa and it was not weak which I appreciate. The portion sizes were huge and food was solid and reasonably priced.",
+                "language": "en"
+            },
+            "date": "2024-02-12T02:22:06Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "D. K. C.",
+                "user_id": "BXz2HAGbW9zShg1pZoRDsQ",
+                "link": "https://www.yelp.com/user_details?userid=BXz2HAGbW9zShg1pZoRDsQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/E9fJN6vozoN8d5YWvOyBYw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 3242,
+                "photos": 1262,
+                "reviews": 366,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "We threw a surprise birthday party for my friend and I am so glad we chose Manuel's. This was my first time at the restaurant and I honestly will be back. \n\nThe venue has a neighborhood feel. The hardwood floors are great with the natural design aesthetic. The big windows provide ample natural light and allow you to experience the area as a whole while sitting inside. \n\nWe booked the back room which is a huge area. There is also a speaker connection which is great as it allows you to create your own ambiance that you desire. There is also a curtain you can close which allows for you to be off in your own world while still being present at the venue. \n\nAlong with the booking, you get your own servers for the room. This is a great addition as it makes the service and experience as a whole very personal. The service provided was amazing. The servers were friendly. They knew the food and drink menu very well and were able to keep everyone's orders in order and keep away from any confusion or mix ups. \n\nThe food at Manuel's was AMAZING! I decided on the Steak Quesadilla with a side of Tater Tots. I'll be honest, I think I'm addicted. LoL!!! \n\nThe steak in the quesadilla was tender, meaty, seasoned, and most of all a perfect portion. The quesadilla as a whole is a healthy portion and great as a personal meal or one to share. (I want another one now. LoL!)... the Tater Tots took me back to childhood. They were crispy on the outside and soft on the inside. They were a perfect pairing for the Quesadilla. Furthermore, the fixings that come with the quesadilla were fresh and good. Can you tell I enjoyed my meal?\n\nOverall this was a great experience. Manuel's is perfect for a group of friends or a personal meal. You can't go wrong with dropping in.",
+                "language": "en"
+            },
+            "date": "2023-04-09T17:05:03Z",
+            "rating": 5,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PxuuE1TXZfEzCrsIq-KOZg/o.jpg",
+                    "caption": "Steak Quesadilla"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M1hRrdjDAp63js8z9dsZgA/o.jpg",
+                    "caption": "Large Order Tater Tots"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KZk7q7bL9ReanLjmr_4v2g/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/V-pgWMy5j5Vxe3X74Edubw/o.jpg",
+                    "caption": "Steak Quesadilla"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nExyWhvlChsP-WdSfRdvzg/o.jpg",
+                    "caption": "Steak Quesadilla"
+                }
+            ],
+            "feedback": {
+                "useful": 5,
+                "funny": 3,
+                "cool": 6
+            }
+        },
+        {
+            "user": {
+                "name": "Emily G.",
+                "user_id": "DABAWZSYYEzktBjQGsni-g",
+                "link": "https://www.yelp.com/user_details?userid=DABAWZSYYEzktBjQGsni-g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BVqggi8gfVHv4-eWQcJwpw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 9,
+                "photos": 168,
+                "reviews": 149,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I enjoyed this place! Gave me dive bar vibes, but bigger. There is a free parking lot behind the building. Inside, it's a seat yourself kind of joint. Their drink menu was huge. Opted to order 10 wings Terry sauce style which is an extra $1 upcharge from buffalo. I did not enjoy the sauce at all, it was kind of like a sweet and spicy peppery sauce, but the size and taste of chicken was amazing. I would order again with a different sauce. The tots with ranch were delicious. My companion ordered the chicken fried steak and really enjoyed it! I'd recommend this place",
+                "language": "en"
+            },
+            "date": "2023-10-21T23:33:55Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Jga0RrWr3Jo2Yjupt-Ob5g/o.jpg",
+                    "caption": "10 terry sauce wings"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Christy L.",
+                "user_id": "X5ybsLTeym1X5dVbWXA1eg",
+                "link": "https://www.yelp.com/user_details?userid=X5ybsLTeym1X5dVbWXA1eg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LA-lQLuFQ8PVDqVaWSQkXA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 285,
+                "photos": 14,
+                "reviews": 23
+            },
+            "comment": {
+                "text": "Good food, good service, good atmosphere, plus free parking! Good, good, good! \nI just realized this was stuck in draft mode for who knows how long...",
+                "language": "en"
+            },
+            "date": "2024-01-07T00:50:36Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Katie B.",
+                "user_id": "-x3rpl6TDAeD3Tb4FsAcEw",
+                "link": "https://www.yelp.com/user_details?userid=-x3rpl6TDAeD3Tb4FsAcEw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uBa0PWEjiIVdTSNEtVSzQA/180s.jpg",
+                "address": "Winder, GA",
+                "friends": 60,
+                "photos": 73,
+                "reviews": 152,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Only ordered takeout, but the staff was extremely nice, and the place had a cool vibe going in. I'd love to come back and sit down and eat here. I've heard great things. The burger was decent, tots were delicious, the mozzarella sticks were good but the marinara?! I wanted to bathe in it. Absolutely fantastic. Fast, efficient, maybe a little pricier than I expected, but good.",
+                "language": "en"
+            },
+            "date": "2023-11-27T04:27:32Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 1,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "James S.",
+                "user_id": "clDOsmh-2esY2Y6OC9XEuw",
+                "link": "https://www.yelp.com/user_details?userid=clDOsmh-2esY2Y6OC9XEuw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VH4kGsCiKZ_ioEh9EviQ8w/180s.jpg",
+                "address": "San Antonio, TX",
+                "friends": 1,
+                "photos": 441,
+                "reviews": 762,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "During my visit to Atlanta, this was my favorite restaurant. I sat at the bar for lunch and was quickly greeted by Melanie, the bartender. This spot feels like a neighborhood hangout; staff knew customers names but also greeted me with same enthusiasm. \n\nI had the special, the salmon BLT, and it was quite good. The food came out quickly and hot. \n\nThe next time I'm in Atlanta, I'll definitely stop in again.",
+                "language": "en"
+            },
+            "date": "2023-04-01T14:21:30Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/x_5dvuaA3z3Xe8qSIES68Q/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bNBaJmhiyxJ-lNgOxoh8Uw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Pat K.",
+                "user_id": "IznQXFKyGQT8cuJw7Fd5cA",
+                "link": "https://www.yelp.com/user_details?userid=IznQXFKyGQT8cuJw7Fd5cA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nplkhTXqD5rk0Mkeixu2cA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 0,
+                "reviews": 19
+            },
+            "comment": {
+                "text": "The food and drinks are always fabulous at Manuel's! But I want to give a shout out to the wait staff. A rude wait staffer can ruin a good meal for me. I have never experienced this at Manuel's. Everyone is friendly, fun, knowledgeable and helpful. They truly make a great experience even better!",
+                "language": "en"
+            },
+            "date": "2023-11-18T01:31:16Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Danielle S.",
+                "user_id": "V34qejxNsCbcgD8C0HVk-Q",
+                "link": "https://www.yelp.com/user_details?userid=V34qejxNsCbcgD8C0HVk-Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tQMRSOLHY_0B-vl75ieNyg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 457,
+                "photos": 425,
+                "reviews": 375,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I checked out Manuel's for the first time on a Tuesday night because they were hosting their first \"carapace\" storytelling show since the pandemic. It's truly the perfect spot for an event like this, with a big room full of large tables and a laid-back dive bar vibe. The walls are covered in memorabilia, and you can immediately tell why it's a neighborhood institution of sorts. \n\nThere was only one server handling the entire room, so service was a bit slow, but that's to be expected. He did the best he could! The draft list was pretty amazing, and you can order most drinks as either a pint or a pitcher. For the food, I had a Philly cheesesteak, which was great bar food, with a generous serving of crinkle fries. I hope to be back.",
+                "language": "en"
+            },
+            "date": "2022-06-29T13:42:03Z",
+            "rating": 4,
+            "tags": [
+                "2 check-ins"
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Carrie H.",
+                "user_id": "V-kAFYHZKhs63AIUjGylNw",
+                "link": "https://www.yelp.com/user_details?userid=V-kAFYHZKhs63AIUjGylNw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PPHTkESe9EmF2E47OtJqvA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 114,
+                "photos": 1795,
+                "reviews": 315,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Manuel's Tavern is a staple bar and meeting place in Atlanta. You can come by yourself or rent out one of the side rooms for a large party. They have free parking lots behind their place and across the street. \nWe came here to watch a World Cup match on a Sunday because they open at 9:30 am and the match began at 10 am. It is hard to find a brunch place that opens before 11 am because in Georgia places can't serve alcohol before 11 am on Sunday. We sat at the bar. Our server was very friendly. She knew lots of people that sat at the bar, so it seems like a place lots of regulars visit. \nOnce it turned 11 am I had their spicey bloody mary and then I had the mimosa. For the mimosa they pour a bit of orange juice in a glass and then give you a little bottle of prosecco to pour yourself. \nFor food I had the fried chicken biscuit and cheesy grits. The grits were so good. The fried chicken was a little tough, seemed too cooked, for my taste. I did like the biscuit so next time I come here I will try something else that comes with the grits and biscuit.",
+                "language": "en"
+            },
+            "date": "2022-12-19T20:45:05Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zn4kvo4ZUqyCFkRyMsyfXg/o.jpg",
+                    "caption": "Fried chicken biscuit with the best creamy, cheesy grits"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jK2fDtIOgNEyALxLjYagEA/o.jpg",
+                    "caption": "The spicy Bloody Mary"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jones H.",
+                "user_id": "YMzenvGDV61OtKx7KDbZEA",
+                "link": "https://www.yelp.com/user_details?userid=YMzenvGDV61OtKx7KDbZEA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/k3LWZK5EGcTo_EXeZ4V8Vw/180s.jpg",
+                "address": "Stone Mountain, GA",
+                "friends": 173,
+                "photos": 1424,
+                "reviews": 231,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "My first visit to Manuel's was a pure delight!\n\nParking was easy breazy and that's saying a lot for Atlanta restaurants. This alone will encourage me to dine here again and again. \n\nThe restaurant is big and spacious. \nThe server was so friendly and personable.\nI ordered a half rack of the slow cooked House Ribs along with collard greens and mashed potatoes. They were to die for. \nMy lunch companions ordered the Hot Dog Plate with chilli added. The hot dog plate comes with two delicious hot dogs, they ordered the collard greens. \nMy other lunch compaion ordered the Country Fried Stake, it was huge and topped with white pepper gravy, along with collard greens, mashed potatoes and a third side came with that dish as well which was red beans and rice. I'm not sure if that was a special yesterday or it comes with three. \nEveryone enjoyed their meal.\n\nFor dessert I ordered the delicious Blueberry pie with ice cream, I was excited to see two heaping scoops. \n\nI'm happy I finally got a chance to visit the best voted neighborhood bar in Atlanta!\nI can't wait to come here again.",
+                "language": "en"
+            },
+            "date": "2022-03-04T17:49:02Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JGBQwoewLSh1-d39l9jaSg/o.jpg",
+                    "caption": "A good looking Dale's Pale Ale"
+                }
+            ],
+            "feedback": {
+                "useful": 6,
+                "funny": 0,
+                "cool": 8
+            }
+        },
+        {
+            "user": {
+                "name": "Mike M.",
+                "user_id": "6MrPDpDy4M6kPm_kNw6tpw",
+                "link": "https://www.yelp.com/user_details?userid=6MrPDpDy4M6kPm_kNw6tpw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oid9Q6KVUimh8v3UotPBsA/180s.jpg",
+                "address": "Canton, GA",
+                "friends": 0,
+                "photos": 7,
+                "reviews": 16
+            },
+            "comment": {
+                "text": "Great atmosphere, friendly service, and delicious food. I will be going back the next time I'm looking for a place to eat in this area.",
+                "language": "en"
+            },
+            "date": "2023-11-08T12:01:41Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Vena F.",
+                "user_id": "B60DVeOLo9skFsah23xYaQ",
+                "link": "https://www.yelp.com/user_details?userid=B60DVeOLo9skFsah23xYaQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GeraLDutVjDuzOei50t1_g/180s.jpg",
+                "address": "GA, GA",
+                "friends": 97,
+                "photos": 86,
+                "reviews": 271,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Superior service.  Food is less impressive than expected.  We ordered the wings, quesadillas and French dip.  Wings would be better if fried a lil more(skin was slippery texture after being sauced(sauce was good). The quesadilla(steak) was bland.  The French dip was a miss, flavor profile not expected.",
+                "language": "en"
+            },
+            "date": "2023-05-15T22:33:19Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Katherine G.",
+                "user_id": "Js8qs_BhpQ7GDkoF6IDsUw",
+                "link": "https://www.yelp.com/user_details?userid=Js8qs_BhpQ7GDkoF6IDsUw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UWguWzGNiheZRIwtLk6n_Q/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 811,
+                "photos": 94,
+                "reviews": 365,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "The concept of this place is so unique - a democratic pub! Almost feels like a museum eating here - loved all the art. Food is basic, inexpensive bar food. Would be cool if they hosted events to watch debates and election coverage - they might already do that and I just wasn't aware.",
+                "language": "en"
+            },
+            "date": "2023-03-13T18:51:32Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Jennifer L.",
+                "user_id": "RaXjcl-rYqRQoStWzHLO8g",
+                "link": "https://www.yelp.com/user_details?userid=RaXjcl-rYqRQoStWzHLO8g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bX6h5US0Ak_SFjkUSeBIag/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 51,
+                "photos": 169,
+                "reviews": 404,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Considering this place is an Atlanta staple and part of our history, there isn't much to say other than it's great! If you haven't been, be sure to stop in, everything I've had on the menu is decent.",
+                "language": "en"
+            },
+            "date": "2023-03-22T15:48:57Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Gregory C.",
+                "user_id": "Pb7Hba8XgZKncOGsiyCNgA",
+                "link": "https://www.yelp.com/user_details?userid=Pb7Hba8XgZKncOGsiyCNgA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/y0Uxm7yFVAoVaia7ghftyQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 92,
+                "photos": 1209,
+                "reviews": 191,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I have been wanting to try this tavern for some time now. I've been in Atlanta close to 10 years and finally made it to Manuel's Tavern. I do appreciate the vibe of an old school tavern with no frills on the pub grub. I came here with a group of friends and found ample seating. No hosts, so it's a bit confusing where to sit. But if you opposite the old school pinball machines, there's a large dining room. I wanted to try the hot dogs but opted for the chicken tendies instead. The coating on the tenders was a bit thick but the chicken was moist and flavorful with the horseradish sauce. I started dipping my crinkles in the side sauce. So tasty! They had a wide variety of beers, very impressive selection. I had an Alpha Abstraction vol. 21, which can be hard to find in the city on tap, so kudos on selection! Great spot to hang with friends post game for drinks and pub grub.",
+                "language": "en"
+            },
+            "date": "2022-09-18T15:21:57Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ren24ja6avNvjP4XqPt0xw/o.jpg",
+                    "caption": "Chicken Fingers with Fries and Bobby's Horseradish Sauce"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Max B.",
+                "user_id": "eEW8LWfQVST16mMYDDf1qA",
+                "link": "https://www.yelp.com/user_details?userid=eEW8LWfQVST16mMYDDf1qA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/L2AFggmSAYdmamUjJcmgSw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 16,
+                "photos": 213,
+                "reviews": 84
+            },
+            "comment": {
+                "text": "I have known Manual's to be a Atalnta staple even before having my first drink there. Although the food is just okay- the company that Manual's keeps is great. Manual's achieves the local \"come as you are\" bar feel without feeling manufactured. The bar and decor is very nostalgic which brings me to 3 stars because Manual's isn't exactly on the cutting edge of anything new. Of course that's why you come.",
+                "language": "en"
+            },
+            "date": "2022-12-28T17:14:21Z",
+            "rating": 3,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lYFbeu-5Q6u8nnbTdu8yVg/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Kesht R.",
+                "user_id": "2RREFKNLn6BbSUF3-XghPg",
+                "link": "https://www.yelp.com/user_details?userid=2RREFKNLn6BbSUF3-XghPg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/IynGbOgf0KOiTeUTcuDVKw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 85,
+                "photos": 459,
+                "reviews": 197,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "A suggestionthat I decided to try. \n\nOrdered moscow mule.  The ginger beer was just right and on time.  I don't think she put the vodka in it.  I didn't get tipsy and it doesn't take much.\n\nNow those nnachos were good.   And it's not many places with good nachos.   Mostly everything was fresh!  I swear those jalapenos were home grown and pickled.  Nice kick!  \n\nThe chili was flavorful.  I hope i don't get heartburn tonight.  If i do....it was with it.\n\nJust right amount of queso.  Equally balanced.\n\nI'll definitely come back again. \n\nIt's on the corner of North Avenue and N. Highlands Ave..",
+                "language": "en"
+            },
+            "date": "2021-11-29T00:09:13Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dJmtS_xDSYdYps963HaekQ/o.jpg",
+                    "caption": "Half size nachos with chili. 11/28/2021"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Kevin C.",
+                "user_id": "DVDLRYt37TdPXtluovM33A",
+                "link": "https://www.yelp.com/user_details?userid=DVDLRYt37TdPXtluovM33A",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gvZvXLdtTY5QYJbrtXgX0A/180s.jpg",
+                "address": "Brookhaven, GA",
+                "friends": 1006,
+                "photos": 8654,
+                "reviews": 1051,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "R and I met up with two friends a couple of weeks ago on Wednesday for lunch.  This place was recommended because Manuel's Tavern has a lot of history, opening in 1956.  The owner was a strong supporter of the Democratic Party, and his business became a venue and a meeting place for decision makers and supporters of the party.\n\nFree parking is available and can easily be found in two parking lots; one behind the tavern and the other one diagonally across the street.  There are, what I consider, three separate sections in Manuel's Tavern: the bar area with a big bar and booths with tables, a nice sized meeting room (First Level - that's what it's called) and a large dining area (named Eagle's Nest).  Wood is used almost everywhere - tables, counters, walls, ceilings.  Whatever isn't mostly wood is brick.  There are so many things on the walls, many pictures of customers/patrons, plaques, and many random things.  You have to come here to see it.  I actually love the old and quirky vibe.  If this place could talk...!\n\nWhen the four of us arrived, we sat at one of the tables in the large dining area.  There were probably 5 tables total that had customers sitting at them, with two servers handling everyone.  We had a QR code at our table that brought up an online menu, but it didn't have any prices listed.  No, this is not one of those places that intentionally leave off prices on its menu.  A server came to our table and brought us menus after we pointed out that the online menus didn't provide prices.  It's a good thing that we weren't in any hurry, and were taking our time catching up with each other since we hadn't seen our two friends for a few months, because our server took her time getting to us.  Eventually, our server came to take our orders, writing them down on her order pad.  I ordered the country fried steak, fries, green bean casserole and a biscuit.  R ordered the corned beef reuben and fries.  Z ordered the lunch special tacos meal, and S ordered the pulled pork sandwich meal.\n\n45 minutes later, our food was served.  We were all really hungry by the time our meals arrived.  Unfortunately, I didn't like my meal at all.  The country fried steak, including the gravy, was barely warm.  Instead of getting the fries and green bean casserole that I ordered, cubed roasted red potatoes were on my plate, and collared greens were in a side bowl.  As I ate my very bland and mediocre country fried steak (had to add salt and pepper to have any flavor), I waited for our server to come back out on the restaurant floor, but that took about 10 minutes.  By that time, I had finished my country fried steak, and sampled a bite each of the red potatoes (cool temperature and just ok tasting), the collared greens (salty and cool temperature) and the very flavorless and cool (temp) biscuit.  Finally I got to flag the server down, explained that I didn't get what I ordered, and told her what I ordered.  She offered to get me what I had originally ordered and asked if I wanted to keep the two side dishes, to which I quickly answered that I didn't want to keep them.  Ten minutes later, she brought my hot sides.  The fries were very good.  Crisp but not hard on the outside and salted just perfectly.  The green bean casserole was just awful, though - completely mushy, and I didn't have any way to salvage the flavor.  The salty collared greens tasted a lot better than the green bean casserole, but that isn't really saying much.  The others said that their food was ok - no one raved about any of their meals, though.   R told me that the chef got chintzy with the amount of meat in his sandwich.  I was disappointed with our server because she seemed to purposely ignore our table, plus, with her writing everything down on her order pad, how did my two sides come out incorrectly and almost cold?  In hindsight, I believe that my meal was ready first, but it stayed in the kitchen and got cooled down while the other meals were completed so that all of the meals were served at the same time.\n\nI definitely won't be coming back here for mediocre food and inattentive service.",
+                "language": "en"
+            },
+            "date": "2022-04-24T02:04:03Z",
+            "rating": 2,
+            "tags": [
+                "10 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6UEcskSe9UyuAwRLtW2h9Q/o.jpg",
+                    "caption": "External view of Manuel's Tavern."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Gwm7EEuNI2SY9kvzYwKnug/o.jpg",
+                    "caption": "Manuel's Tavern - external view."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uOLP2uFdc3DcDARW3B12aw/o.jpg",
+                    "caption": "View of the pinball machines."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-l6eJbHEU589YwXjnl5KRA/o.jpg",
+                    "caption": "Painted wall just outside of the restrooms."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ip6KQmvftXG5xRFvhvUARw/o.jpg",
+                    "caption": "View of the bar."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dIvDe1tCFnwMe1uOoLP4BQ/o.jpg",
+                    "caption": "View of the main dining area."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M9xKpEjulBiYtBmZqHacBA/o.jpg",
+                    "caption": "Pulled pork meal."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DSSFwCSmHk_OEgvaAntAjA/o.jpg",
+                    "caption": "View of the main dining area wall decor."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kw1xm1xjdrH_oVv3GN-r6A/o.jpg",
+                    "caption": "Country fried steak meal."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ToS7D5NDftoY2qsCt_10JQ/o.jpg",
+                    "caption": "External wall."
+                }
+            ],
+            "feedback": {
+                "useful": 13,
+                "funny": 2,
+                "cool": 5
+            }
+        },
+        {
+            "user": {
+                "name": "Michael M.",
+                "user_id": "EQKaDc6JYi_1e7UEsVU_Hw",
+                "link": "https://www.yelp.com/user_details?userid=EQKaDc6JYi_1e7UEsVU_Hw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nduK1pT2362ItXY7WLxE9g/180s.jpg",
+                "address": "Cartersville, GA",
+                "friends": 400,
+                "photos": 11,
+                "reviews": 10
+            },
+            "comment": {
+                "text": "When my dad asked where I wanted to go for my 21st birthday. I told him I wanted to go where he did in college at GT. Manuel's Tavern is a staple in Atlanta and has been for decades. This is now the 3rd time in 10 years I've been here and nothing has changed. It is still some of the best bar food you will find in Atlanta. From the perfectly crisp tots. To the flavorful wings and the incredible bar staff. When you walk in you feel like you've become a part of this great cities history. I could go on and on about the drinks. How well diverse the Beer and drinks menus are. But at the end of the day you just need to go and try this little slice of Atlanta history.",
+                "language": "en"
+            },
+            "date": "2023-01-03T16:49:50Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rtIeKAvTUcg4qDn2HgfALQ/o.jpg",
+                    "caption": "10 wings with terry sauce, a Paloma, side of tots"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3CqLsf-6f1heE5dbaB_Cxg/o.jpg",
+                    "caption": "The Bar"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8e6KEPPbpNyuw9R9JBUM1g/o.jpg",
+                    "caption": "French dip, tots, Paloma"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Alex H.",
+                "user_id": "9vtt0LN8BgHH1rTZvjzEbg",
+                "link": "https://www.yelp.com/user_details?userid=9vtt0LN8BgHH1rTZvjzEbg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0OMMctdxHSjxxsHsmNLxxA/180s.jpg",
+                "address": "Norcross, GA",
+                "friends": 45,
+                "photos": 21,
+                "reviews": 58
+            },
+            "comment": {
+                "text": "I don't get down here enough, because I have to drive in from Norcross, but it's always worth it.  The insane Dogzilla with everything is a must have for anyone making their first visit.  Other great options include the Ruben, Chicken Salad Melt, House Chili, and French Dip.  I love all the pics you'll see hanging of older Politicians who visited Manuel's in it's younger days.  A bit of history hanging throughout the Dining Room and Bar worth walking around to see and read the descriptions offered with some of them.\n     Then my favourite part are the Pinball Machines.  Who doesn't love those???  I gleefully feed them my money, getting my happy levels up.  I have to always warn my friends in advance if I stray from the Table, that's where I'll be.  \n     The vibe of the place to me is a \"Working Person's\" place.  It's welcoming, warm Staff, friendly Customers who genuinely may offer to buy you a Beverage just because they can.  If I lived closer, this would most likely be my regular spot.  FYI, the place has been owned by the same Family since it's inception, so that is just another reason why this place is so special for so many Patrons.",
+                "language": "en"
+            },
+            "date": "2023-07-21T00:04:52Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Oliver L.",
+                "user_id": "n4Th2q0sZToDAEQtosoKJQ",
+                "link": "https://www.yelp.com/user_details?userid=n4Th2q0sZToDAEQtosoKJQ",
+                "address": "Marietta Street Artery, Atlanta, GA",
+                "friends": 0,
+                "photos": 4,
+                "reviews": 8
+            },
+            "comment": {
+                "text": "Best american food I have ever tried in America!!!! Really great and fantastic!!!!! Enjoying.",
+                "language": "en"
+            },
+            "date": "2023-07-06T23:04:16Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xw-j1DQvE-c4QSLKeXlFqQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FWK0A24SqhQQ1sYqH3cKhw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Melissa G.",
+                "user_id": "hlSZZGCZ6_G9TbRvndI9kw",
+                "link": "https://www.yelp.com/user_details?userid=hlSZZGCZ6_G9TbRvndI9kw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pS2mbk5JFMHFvEKD7vs7xQ/180s.jpg",
+                "address": "Austin, TX",
+                "friends": 214,
+                "photos": 313,
+                "reviews": 571,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Manuel's Tavern is one of the coolest spots we were able to get to during our visit to Atlanta for the Shakey Knees Music Festival in the fall of 2020.  I absolutely love how diverse the menu was in terms of food and drinks!\n\nAfter a full day of music festing we decided to hope into Manuel's Tavern to revive our bodies with food and some booze. There really is something for everyone on their menu. We opted for mozzarella sticks, a bowl of homemade chili, country fried steak, and a McCloskey burger and it did not disappoint.\n\nService was fantastic here and although there was karaoke happening in the other area/room we were always tended to. I could hear the folks doing karaoke were having a blast as we could hear their music from our booth (near the front door). \n\nLots of sports playing overhead on the tv's and the main room audio which wasn't a distraction but a great way to indulge in some sports action as we waited for our food.\n\nI also loved looking at all the photos around the wall and lined along every nook and cranny in this place. It really shows the charm and local feel of Atlanta. Can't wait to come back and get some more grub and drinks.",
+                "language": "en"
+            },
+            "date": "2022-01-11T16:49:31Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Liberty D.",
+                "user_id": "EKN4CBp5b7vt-5SALOacVw",
+                "link": "https://www.yelp.com/user_details?userid=EKN4CBp5b7vt-5SALOacVw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cWMA_MhzkZVhCrl4Zlsggg/180s.jpg",
+                "address": "Daytona Beach, FL",
+                "friends": 15,
+                "photos": 48,
+                "reviews": 145
+            },
+            "comment": {
+                "text": "Great old school tavern vibe. I love that this place is kept original even though it's been around for awhile. Generations of politicians have had a drink at this staple and was pleasantly satisfied.\n  The beer choices were plenty along with liquor and thr nachos are a must try :).",
+                "language": "en"
+            },
+            "date": "2022-07-28T21:07:51Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 2,
+                "funny": 1,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Edward G.",
+                "user_id": "QAJN1qfcJ1Cp86eaSFvOHw",
+                "link": "https://www.yelp.com/user_details?userid=QAJN1qfcJ1Cp86eaSFvOHw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hUswLAwX4mO1RNHr-syAgg/180s.jpg",
+                "address": "Staten Island, NY",
+                "friends": 134,
+                "photos": 369,
+                "reviews": 61
+            },
+            "comment": {
+                "text": "Came in out of the rain after we touched down in Atlanta, and were welcomed into classic neighborhood tavern, complete with a shrine to JFK behind the bar.  My first Brunswick Stew did not disappoint - a hearty bowl of warmth with pork and chicken with just the right balance of savory.  I was a bit disappointed with the nachos.  They were super liquidy - leaving the chips very soggy.  I see other patrons enjoy them, so maybe this plate was a bit off.  \nLots of terrific knick-knacks that have adorned the premises for about a dozen presidential administrations.  Absolutely worth dropping-in.",
+                "language": "en"
+            },
+            "date": "2022-03-28T00:55:09Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/y1scKTWZQXJfRdC5pBHfqQ/o.jpg",
+                    "caption": "JKF enshrined behind the bar."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tSMrg462BLoeSFAy3hRl8Q/o.jpg",
+                    "caption": "Neon and more above the door."
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Bruce K.",
+                "user_id": "hWDybu_KvYLSdEFzGrniTw",
+                "link": "https://www.yelp.com/user_details?userid=hWDybu_KvYLSdEFzGrniTw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7S0KhopYZrKHYWyq9J_KuA/180s.jpg",
+                "address": "Charlotte, NC",
+                "friends": 2142,
+                "photos": 56119,
+                "reviews": 21464,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Five stars for this old school bar and tavern. I met up with my friend who lives nearby on her recommendation. This place is classic. If it's been here fifty years, I would not be surprised.\n\nTwo rooms, one with the bar and the other is for dining. The bar is classic with a mirrored wall behind shelves of booze. Beer taps and fridges stocked with all sorts of stuff. A few barflies hanging out as well.\n\nThey do have a full menu and at least for the moment (July 2020), they're serving dine-in.\n\nWe got a round of drinks or two and just enjoyed the atmosphere.\n\n[Review 13627 overall, 946 of 2020, number 320 in Georgia.]",
+                "language": "en"
+            },
+            "date": "2020-08-12T20:58:02Z",
+            "rating": 5,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GzCOG207oth53JAUGo5C3A/o.jpg",
+                    "caption": "Dining room at Manuel's Tavern"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pCqj0uay0eLFzRIJJr8GAg/o.jpg",
+                    "caption": "Menu at Manuel's Tavern"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nYQV7S9mkYHe7qOfeBU9sQ/o.jpg",
+                    "caption": "Manuel's Tavern, Atlanta"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/plCH4KcXyOEW68_9uR_5mg/o.jpg",
+                    "caption": "Bar at Manuel's Tavern"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/G1RK1nv1uCEe_jL2UIRA2g/o.jpg",
+                    "caption": "Bar at Manuel's Tavern"
+                }
+            ],
+            "feedback": {
+                "useful": 15,
+                "funny": 6,
+                "cool": 12
+            }
+        },
+        {
+            "user": {
+                "name": "Dave S.",
+                "user_id": "6BPMK69rK1UPhcVi_B-q2w",
+                "link": "https://www.yelp.com/user_details?userid=6BPMK69rK1UPhcVi_B-q2w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/EYxn4nJ0NucW0YFQ19jqaQ/180s.jpg",
+                "address": "Roswell, GA",
+                "friends": 92,
+                "photos": 426,
+                "reviews": 299
+            },
+            "comment": {
+                "text": "We had an amazing snack and some drinks at the bar here. We have lived in ATL for years, and somehow neither of us had been here before?! This place is legendary, as most say. Very cool vibe in here, laid back bar, and an amazing list of draft beer. We were going to an early show so it wasn't crowded (around 5:30pm on a Thursday), and we got our food very quickly. \n\nWe ordered the Greek salad to split, and it was good - nothing too special, but it didn't need to be. For main dishes, we ordered the corned beef reuben, which was perfect. One of the better ones I've had in Atlanta, for sure, and I'd get it again in a heartbeat. K ordered the country fried steak, and it was HUGE. They do not skimp on the portions here, at all - we took home a box full of leftovers. The steak was great, collard greens were decent, and the mashed potatoes and biscuit were both divine. \n\nLoved it - we will absolutely not be strangers to Manuel's again.",
+                "language": "en"
+            },
+            "date": "2022-06-29T17:57:16Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Kade H.",
+                "user_id": "mZsMbe7SAWggYde_0rC_kw",
+                "link": "https://www.yelp.com/user_details?userid=mZsMbe7SAWggYde_0rC_kw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CmB5r4UaJr6e8otcaDyHog/180s.jpg",
+                "address": "Tulsa, OK",
+                "friends": 21,
+                "photos": 210,
+                "reviews": 112,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Just a neighborhood bar doing it's thing amazingly. Nothing fancy, but delicious and that's the way I like it. Hope to be able to stop in again next time I'm in Atlanta.",
+                "language": "en"
+            },
+            "date": "2021-10-01T09:34:59Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ux0LNkjSe0orNsrweo9fig/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PIEJUVMEWV2mfnplGMzoYA/o.jpg",
+                    "caption": "Manuel's Favorite"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/B-jlQOHuiIcrsWMoEfq-cA/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Janine M.",
+                "user_id": "7EZbPZnd0OhaSoBiuxw7EA",
+                "link": "https://www.yelp.com/user_details?userid=7EZbPZnd0OhaSoBiuxw7EA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gfB0frAniZYOt_NFME6Tyw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 87,
+                "photos": 12,
+                "reviews": 21
+            },
+            "comment": {
+                "text": "I have NEVER ordered food for it to be delivered with a typed NOTE from the owner with their name and number for feedback and recommendations. Instead of typing a new review, I'll just copy and paste the message I sent the big guy:\n\n\"Good evening, Mr. Maloof! My wife and I just ordered from your restaurant and she and I both agreed that we needed to let you know how delicious it was. It was our first time and we didn't know what to get so we ordered the chicken quesadilla, chicken nachos, wings and a salad. EVERYTHING was seasoned beyond perfection and great portion sizes. The only feedback/recommendation we have is for the possibility of the chips to be separated from the toppings for the nachos. They were quite soggy by the time it was delivered. But we had some extra tortilla chips here at home so we were still able to enjoy the meal. \nAnd thank you for this note in our bag. This is an amazing idea! Again, phenomenal meal! Keep it up!\"\n\n\n\nI have no photos to add because we scarfed the food DOWN!  it really was tasty as hell.",
+                "language": "en"
+            },
+            "date": "2022-06-07T00:55:19Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Clint E.",
+                "user_id": "bHqDdblK_IJ1xSzMKMybOw",
+                "link": "https://www.yelp.com/user_details?userid=bHqDdblK_IJ1xSzMKMybOw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hG7jEYCSwdIe8JH0DTWMfw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 76,
+                "photos": 568,
+                "reviews": 287,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Manuel's is definitely a trip back in time.  I enjoyed walking around the entire premises and looking at all of the photographs on the wall- Obama, Jimmy Carter, and so many others. This place used to be a democrat party hang out place. \n\nI found the food to be fairly typical bar/pub fare.  The nostalgia is what won me over. I will revisit when I am in the area.",
+                "language": "en"
+            },
+            "date": "2020-04-23T03:53:49Z",
+            "rating": 4,
+            "tags": [
+                "7 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Od4al--bMhBTJPlJ6FHAdA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sgNaebXJcJN9e9_4iQtgVA/o.jpg",
+                    "caption": "JC!"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cRJo4EUjd2782P8LiqDCCw/o.jpg",
+                    "caption": "Cool!  Obama visited."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fCswORKovqnRrlKMDpsVcg/o.jpg",
+                    "caption": "The DP."
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9rQyRi3RYKmlz1oQMWOXqg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/klme063OTVxMYUD9GwHf0Q/o.jpg",
+                    "caption": "O's visit"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/P8jBiLU4hNbqsjQJQkLHGQ/o.jpg",
+                    "caption": "a little history."
+                }
+            ],
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Christopher K.",
+                "user_id": "wzuzLXZIDOWxuM1l5GJC_w",
+                "link": "https://www.yelp.com/user_details?userid=wzuzLXZIDOWxuM1l5GJC_w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-3EX9J6s5mify2PVrB5W2A/180s.jpg",
+                "address": "Kennesaw, GA",
+                "friends": 19,
+                "photos": 16,
+                "reviews": 16
+            },
+            "comment": {
+                "text": "I went to Manuel's Tavern for lunch and had a fantastic experience. The chicken tenders were some of the BEST I have ever had. The entrees my colleagues got looked equally as good. Food came out quickly and portions were huge. Great service to top it off. Will definitely be added to our rotation!",
+                "language": "en"
+            },
+            "date": "2022-12-21T21:36:59Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jenna J.",
+                "user_id": "5H6C3buuPK3c9w0mpJ2paw",
+                "link": "https://www.yelp.com/user_details?userid=5H6C3buuPK3c9w0mpJ2paw",
+                "address": "Providence, RI",
+                "friends": 327,
+                "photos": 5,
+                "reviews": 16
+            },
+            "comment": {
+                "text": "A staple, classic tavern & always a blast. Veggie burger hits the spot every time! Easy bar to sit at and all the workers are friendly & helpful. Service is exactly what you'd want from a long standing tavern",
+                "language": "en"
+            },
+            "date": "2023-06-12T01:46:25Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jennifer B.",
+                "user_id": "6l5akrcIkMGJ3qm_9K8GhQ",
+                "link": "https://www.yelp.com/user_details?userid=6l5akrcIkMGJ3qm_9K8GhQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ftM9PuG7jzr_nvhP_nxcXA/180s.jpg",
+                "address": "Louisville, KY",
+                "friends": 204,
+                "photos": 66,
+                "reviews": 113
+            },
+            "comment": {
+                "text": "A classic, old school, neighborhood restaurant/tavern. Located in a really great part of town, Manuel's has an at home feeling - casual and warm. The walls are packed wi the old pictures and artwork, the ceilings are decorated with bistro lighting or wood planks at the bar, and the interior is exposed brick and wood. I had the behind burger which was really good, my daughter just had a side of mac n' cheese and enjoyed that too. Plenty of parking is definitely a bonus, too! I like and recommend this place a lot.",
+                "language": "en"
+            },
+            "date": "2022-11-09T18:52:38Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Hal P.",
+                "user_id": "j0GJd8WB7gMBmjY-VUXo1g",
+                "link": "https://www.yelp.com/user_details?userid=j0GJd8WB7gMBmjY-VUXo1g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xLCFEb1oXUeXVX00YFozHg/180s.jpg",
+                "address": "Bay Ridge, Brooklyn, NY",
+                "friends": 14,
+                "photos": 4,
+                "reviews": 10
+            },
+            "comment": {
+                "text": "A landmark in Atlanta... I love the boiled peanuts and the beer selection.\nI had the Stan's Breakfast Bowl... the grits were like desert...",
+                "language": "en"
+            },
+            "date": "2022-05-25T04:15:21Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Megan M.",
+                "user_id": "y5koQFUPs9adOhDXZgzcLQ",
+                "link": "https://www.yelp.com/user_details?userid=y5koQFUPs9adOhDXZgzcLQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/R0B1bBxANE2wozNiq4WFaw/180s.jpg",
+                "address": "Charleston, SC",
+                "friends": 100,
+                "photos": 13,
+                "reviews": 42
+            },
+            "comment": {
+                "text": "The brunch menu is fantastic, very simple and wonderful staff. Nothing super special but a good staple  tavern",
+                "language": "en"
+            },
+            "date": "2022-11-28T03:05:58Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Freddy C.",
+                "user_id": "sp86O6zpqPH1fFiUTdvSgQ",
+                "link": "https://www.yelp.com/user_details?userid=sp86O6zpqPH1fFiUTdvSgQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7WcW7yYpSXeSGjKJJYvwNw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 3,
+                "photos": 0,
+                "reviews": 2
+            },
+            "comment": {
+                "text": "The best breakfast in town! Check out the pancake selection it changes every week. How awesome is that!!!",
+                "language": "en"
+            },
+            "date": "2022-11-04T18:57:35Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Sandeep G.",
+                "user_id": "k4Nshd0jVyr_1O4KkAxyMQ",
+                "link": "https://www.yelp.com/user_details?userid=k4Nshd0jVyr_1O4KkAxyMQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/v1A6kIN7vi2Yx78VBpBnnQ/180s.jpg",
+                "address": "Plano, TX",
+                "friends": 66,
+                "photos": 34,
+                "reviews": 565,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Good ambience and vibe. Excellent service. The food however is nothing to talk about.\n\nThe menu is limited, the food portions are generous, cooked well but does not have flavors standing out. \n\nThis is a tavern and seems more like a watering hole and not so much a restaurant.",
+                "language": "en"
+            },
+            "date": "2020-11-14T22:34:34Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "James M.",
+                "user_id": "UrCRVszaxr0v_HW28zla9w",
+                "link": "https://www.yelp.com/user_details?userid=UrCRVszaxr0v_HW28zla9w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/r7-M-jAi69yhzUZlfLzcWg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 6,
+                "reviews": 27
+            },
+            "comment": {
+                "text": "Awesome for what it is which is great bar food served by friendly staff. I've never ordered a dish that I didn't enjoy and everything is reasonably priced.",
+                "language": "en"
+            },
+            "date": "2022-10-04T00:24:21Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jennifer L.",
+                "user_id": "pS_ANrBMsmpFO6OnFskSNA",
+                "link": "https://www.yelp.com/user_details?userid=pS_ANrBMsmpFO6OnFskSNA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/T1LvW1XqOYk7and065iXYQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 31,
+                "photos": 19,
+                "reviews": 29
+            },
+            "comment": {
+                "text": "I love Manuel's tavern and how it feels like a small bar but it's not. All the staff are SUPER friendly. The food is delicious!! Especially the French dip and their breakfast. And their tuna melt is amazing except they haven't had it on the menu in a long time which is a shame because EVERYONE loves it and wants to see it back on the menu. OR even if they rotate it on the menu in place of the chicken salad melt for a couple weeks at a time. \nBit I highly recommend coming to this historical landmark and trying it out.",
+                "language": "en"
+            },
+            "date": "2022-02-14T00:01:58Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Tari O.",
+                "user_id": "WoEfl5cpreTvMC5d_0UOMQ",
+                "link": "https://www.yelp.com/user_details?userid=WoEfl5cpreTvMC5d_0UOMQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gD-MhWOJt8aTfs2KeS_eDA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 170,
+                "photos": 2846,
+                "reviews": 791,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Stopped by Manuel's Tavern on a Tuesday night for a group dinner. They serve typical bar fare with a few hearty meat and potato dishes and rotating specials. When I went they had steak kabobs which looked very appetizing. I ordered the salmon wrap which did not appear to have more than 4 oz of salmon so I probably wouldn't order it again. The staff was great very friendly and attentive. \n\nGreat spot for large group meals and for families. Parking is right behind the building.",
+                "language": "en"
+            },
+            "date": "2018-07-23T12:37:06Z",
+            "rating": 4,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6ClcrbyiSf_Fh5OR6U2-Tg/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9I_MmTBd67447pIghS3Piw/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Lb_CpI-37WiDMzZpdUaw5Q/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Mb75sqYGrk9MsdQtYWRWgA/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 1,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Scott D.",
+                "user_id": "L5r3IFFy53ow3wcEo_iDWw",
+                "link": "https://www.yelp.com/user_details?userid=L5r3IFFy53ow3wcEo_iDWw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NOYZ0oXJIXYqa2nby9GBtg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 34,
+                "photos": 7,
+                "reviews": 30
+            },
+            "comment": {
+                "text": "Food is excellent.  Great ambience.  It can be hard to find true, old school tavern in the world of bougie foodie joints.  This place is everything a tavern should be with great drinks, great conversation, and awesome food.  The employees are all friendly and engaging.  Definitely an Atlanta gem!",
+                "language": "en"
+            },
+            "date": "2022-07-04T16:10:19Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jamarcus T.",
+                "user_id": "K8VSrOOCdXS9VX5S66W4GQ",
+                "link": "https://www.yelp.com/user_details?userid=K8VSrOOCdXS9VX5S66W4GQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qNXp7QsgIMXdTCxVXAvM-w/180s.jpg",
+                "address": "Decatur, GA",
+                "friends": 624,
+                "photos": 7512,
+                "reviews": 1642,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Hoping for a bite to eat. Manuel's Tavern was suggested and so we headed on over for dinner, surprisingly finding a parking spot in their rear lot.\n\nWhen we walked in, the place was packed!  We saw three main rooms.  The one front and center when you walk in, a main dining area to the left, which holds what seemed like 100 people, and a smaller room to the right, which was blocked off for a private function.\n\nWe seated ourselves in the larger dining area to the left, and just a fair warning, this place is PACKED on a Friday evening.  Wait staff eventually got to us and we ordered the following:\n\nMemphis BBQ sandwich - $7.95\nSide of Onion rings - $2.25 to add on\nFish basket - about $9\n\nStarting with the Memphis BBQ sandwich, it is a slow cooked sliced pork protein that's cooked in their house bbq sauce.  That's all topped with slaw and its placed in a kaiser roll.  You can also get fries or sub out the fries for something else.  I chose to sub for a side of Onion rings.\n\nThe sandwich was hit or miss.  My first bite was dry and flavorless, my second bite was sweet and tangy.  The third bite was Cole slaw intense.  There really wasn't any uniformity here and each time I took a bite it was a different flavor.  That's fine when each bite tastes great...but some of the bites missed the mark for me.\n\nThe onion rings were thick cut and crispy.  The batter wasn't really seasoned, although ketchup took care of that for me.  Probably wouldn't order the rings again but if they were sitting in front of me, sure i'd throw down a few.\n\nI didn't try the fish basket due to my allergy, but they came with two sides.  She asked for hush puppies and collard greens.  The greens were okay, and while the hush puppies had good flavor, they were little grease balls.  I was told the fish was okay.\n\nLocated off of North Highland ave, parking for Manuel's shouldn't be a problem.  Although it was packed, we did find a parking spot behind the building (you can enter from the rear or the front of the restaurant), but there's also additional parking at the lot next door.\n\nSeating is plentiful.  We counted several heads sitting at several tables, and while navigating to find our own, there was a table or two still available during this busy period.\n\nThis is my second time to Manuel's tavern and we'll probably come back at some point.  It has enough menu variety, it's close enough where it's convenient and while the food is hit or miss for me, when it's a hit, it's definitely a hit.",
+                "language": "en"
+            },
+            "date": "2018-02-13T16:57:09Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 16,
+                "funny": 11,
+                "cool": 13
+            }
+        },
+        {
+            "user": {
+                "name": "Jessica Z.",
+                "user_id": "Y9SIxmg7RmW3ICnV9A_a6g",
+                "link": "https://www.yelp.com/user_details?userid=Y9SIxmg7RmW3ICnV9A_a6g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SSomQTAwuGoL2ZCPmwbzAw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 143,
+                "photos": 194,
+                "reviews": 57
+            },
+            "comment": {
+                "text": "Very chill bar with a ton of personality! The staff was attentive, nice and social distancing is enforced. \n\nLovely place to grab a drink with friends.",
+                "language": "en"
+            },
+            "date": "2020-10-23T22:33:09Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JUTv9tq_u81E0gN66jsC6g/o.jpg",
+                    "caption": "Inaide"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Calvin P.",
+                "user_id": "Q19nRFy2J1Rtslf3KXjTzg",
+                "link": "https://www.yelp.com/user_details?userid=Q19nRFy2J1Rtslf3KXjTzg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qEjmUJ4GMgQzKu8o-AMtBg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 1,
+                "photos": 1,
+                "reviews": 35
+            },
+            "comment": {
+                "text": "An institution in the city of Atlanta. Come in here for a wide selections of beers and great food. Rarely can you find a bar with charm. You're welcome!",
+                "language": "en"
+            },
+            "date": "2022-06-22T22:38:25Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Mike P.",
+                "user_id": "xtiLAX-i35vEksPxb6bMkw",
+                "link": "https://www.yelp.com/user_details?userid=xtiLAX-i35vEksPxb6bMkw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dc5rK8b530jpljcBtc47dg/180s.jpg",
+                "address": "La Crescenta, La Crescenta, CA",
+                "friends": 5,
+                "photos": 499,
+                "reviews": 196,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Took a nostalgic trip down memory lane and ducked into Manuel's for a bar burger and a draft beer. My o my how times have changed since 1990. Burgers aren't $4.99 anymore and now they got the Beyond Burger and that's not all, they even have a veggie patty that quite frankly sounds much more delicious than the Beyond burger. Well I normally don't eat red meat anymore but I made an exception for old times sake. I must say the Manuel Burger with Blue-cheese was a fastball down the middle! Truly delicious with a crispy exterior, juicy inside. The onion, tomato and lettuce on the burger were very good quality too.",
+                "language": "en"
+            },
+            "date": "2019-10-29T01:00:55Z",
+            "rating": 4,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8svDJ5YV4xNXnLroB_2I4Q/o.jpg",
+                    "caption": "Front cover of the menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CHiRa4TSq_SqVvy75kbiaQ/o.jpg",
+                    "caption": "Low and slow pulled pork-awesome plate of deliciousness"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Wakt1j9OOAlQj5Z905sozw/o.jpg",
+                    "caption": "Pictures of president Carter and others on the walls"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7jkK2mqKdFPZnsFf19xIWw/o.jpg",
+                    "caption": "More photos on the wall"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/n1n0eJLjQhMrcDiGWs76lw/o.jpg",
+                    "caption": "The Manuel burger with blue cheese"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Nathan R.",
+                "user_id": "nphhI0fYH2a636XUpZffFQ",
+                "link": "https://www.yelp.com/user_details?userid=nphhI0fYH2a636XUpZffFQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FqaEMTOlqY4zlEn7chaLow/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 4,
+                "reviews": 15
+            },
+            "comment": {
+                "text": "My favorite neighborhood restaurant in Georgia. I have lived within walking distance of Manny's on and off for twenty years. Many of my friends live nearby and it became a routine happy hour, afterwork, pre-game meet-up destination. It is the kind of place you can take your parents when they visit from out of town, without having to make a reservation. For decades it was a hangout for Atlanta journalists, CNN employees and local Democrats. Presidents Clinton, Carter and Obama have all eaten here. Be sure to pay homage to the painting of JFK behind the bar. The names of regular patrons, living and deceased, are engraved on some of the barstools.\nAs for the menu, it is classic American bar cuisine, cooked just how you like it when you make it yourself at home. Large portions. Rich savory sauces. Fresh breads. Large chicken wings. And the menu has just about everything. My favorites are the Wings with Terry Sauce, the Chicken Philly, the Lasagna, the Rueben, and the McCloskey Burger with Blue cheese and mushrooms (always with the House Steak Fries, and add the house side salad if you're really hungry).\nTips: There is a second parking lot across the street. There is reserved parking for clergy. There are two electric charging parking spots. They do take out. They have side rooms for hosting Corporate meetings, D&D clubs or your fantasy football draft. There used to be a chicken coop on the roof where they collected fresh eggs. Not sure if it is still there since the remodel. The staff is local, professional, courteous and they treat their regulars with respect. They honor long-time employees by naming menu items after them and placing their pictures on their hallowed walls. They used to have a couple of pinball machines, not sure if they are still there. The staff write down your orders with pen and paper. There are no apps or digital menus or tech. They announce daily specials on their Facebook page.",
+                "language": "en"
+            },
+            "date": "2022-04-27T04:44:19Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Ginger G.",
+                "user_id": "pYeXZhQRjy5-Ojgne0v8TA",
+                "link": "https://www.yelp.com/user_details?userid=pYeXZhQRjy5-Ojgne0v8TA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Kqo86mREApDV1iSq44X97Q/180s.jpg",
+                "address": "Conyers, GA",
+                "friends": 103,
+                "photos": 16,
+                "reviews": 34
+            },
+            "comment": {
+                "text": "I've been a patron of Manny's for YEARS but had never tried their brunch before this past weekend. OH MY! I've been missing out. \n\nMy guests both ordered the french toast - one with bacon and one with sausage. They loved it! The portion size was perfect and they both cleaned their plates. I ordered the special, the asiago asparagus omelet which was delicious! The plate came with a cup of fruit, a biscuit, and grits or potatoes. I was given the grits by mistake but took the opportunity to try them. They were creamy and seasoned to perfection. What else was seasoned to perfection? Those dang potatoes! Holy cow they were flavorful. *chef's kiss*\n\nIf you are on the fence about going for brunch or any other meal, GO! They are enforcing social distancing inside and have included tables outside in case you feel more comfortable.",
+                "language": "en"
+            },
+            "date": "2020-12-15T13:36:33Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Stuart S.",
+                "user_id": "pg5vOBclrJW3UBxJPq9Qrg",
+                "link": "https://www.yelp.com/user_details?userid=pg5vOBclrJW3UBxJPq9Qrg",
+                "address": "Atlanta, GA",
+                "friends": 5,
+                "photos": 2,
+                "reviews": 33
+            },
+            "comment": {
+                "text": "I called to get takeout at 8:00 pm Friday 10/21/22, FOUR items and was told can't get takeout due too much business at restaurant. I'd JUST called 5 minutes earlier to ask if there was a way to order online or just call in the order and was told just to call ln the order. But she was ready to take my order right then. I then consolidated the orders and called back to order....some people just don't want to work I guess because they're too \"overwhelmed\" by regular life at a job. I work at an ER but we don't have that option to say stop...we just keep on keeping on...grow up Manuel's or get new peeps to answer the phone because I'm not EVER ordering or going to Manuel's again, which is a shame since I used to drop by after getting off a long day(s) at Grady...",
+                "language": "en"
+            },
+            "date": "2022-10-22T00:46:23Z",
+            "rating": 2,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Christina T.",
+                "user_id": "DMQ-2s5vBRbp9wUHpmVAhg",
+                "link": "https://www.yelp.com/user_details?userid=DMQ-2s5vBRbp9wUHpmVAhg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VP5G1Hc3pj0J0bLG9G9ocQ/180s.jpg",
+                "address": "South Pasadena, CA",
+                "friends": 16,
+                "photos": 68,
+                "reviews": 112
+            },
+            "comment": {
+                "text": "Got Brunch takeout today and was really satisfied. \nTheir pumpkin pancakes are AMAZING! \n\nWhenever we get takeout or delivery, we're always so impressed with the way they pack everything up to stay warm. \n\nCan't wait to eat there again :)",
+                "language": "en"
+            },
+            "date": "2020-10-31T19:55:58Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=WS_3VW9O2CmJMzlI4uxJrA&start=50"
+    }
+}

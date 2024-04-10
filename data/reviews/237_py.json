@@ -1,0 +1,1627 @@
+{
+    "search_metadata": {
+        "id": "65ef312496f5d7976a6bbe67",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f3ac24a8377f2625/65ef312496f5d7976a6bbe67.json",
+        "created_at": "2024-03-11 16:28:20 UTC",
+        "processed_at": "2024-03-11 16:28:20 UTC",
+        "yelp_reviews_url": "https://www.yelp.com/biz/Kcva2t7e6Ukpb5vMvkdc2w?",
+        "raw_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef312496f5d7976a6bbe67.html",
+        "prettify_html_file": "https://serpapi.com/searches/f3ac24a8377f2625/65ef312496f5d7976a6bbe67.prettify",
+        "total_time_taken": 2.09
+    },
+    "search_parameters": {
+        "engine": "yelp_reviews",
+        "start": 0,
+        "num": "50",
+        "place_id": "Kcva2t7e6Ukpb5vMvkdc2w"
+    },
+    "search_information": {
+        "total_results": 554,
+        "business": "La Fonda Latina"
+    },
+    "review_languages": [
+        {
+            "hl": "en",
+            "count": 554
+        },
+        {
+            "hl": "es",
+            "count": 1
+        }
+    ],
+    "reviews": [
+        {
+            "user": {
+                "name": "Vanessa D.",
+                "user_id": "h3gvu33m72hWHiwO8etfrw",
+                "link": "https://www.yelp.com/user_details?userid=h3gvu33m72hWHiwO8etfrw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YHOBuxzQnUWs-nFSbF1gyg/180s.jpg",
+                "address": "San Francisco, CA",
+                "friends": 200,
+                "photos": 2667,
+                "reviews": 804,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Visit: 2021\nReview finished: 3/2024\n\nFinishing this review in 2024: I've come here once, back in 2021 and honestly can't remember much besides the fact that it was a first date (didn't go past that), had a great meal (some type of red meat was ordered for sure, maybe quesadilla?) and great drinks. But it's been so long I wouldn't do this review justice trying to recall. What I will say is that I gave it 4/5 which means I enjoyed the food and drinks it and I'll probs go back one day (though it's already been 3.5 years lol).",
+                "language": "en"
+            },
+            "date": "2024-03-04T01:00:05Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "India N.",
+                "user_id": "ATv3cs1ZPsUTcsc-aisBMg",
+                "link": "https://www.yelp.com/user_details?userid=ATv3cs1ZPsUTcsc-aisBMg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-lB5hRbQNteys4Xwku8LKA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 2,
+                "photos": 56,
+                "reviews": 53,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I love this place. I've been coming here for years but this night was the first time in a long time. I was happy that the quality and taste are just the way I remember it from my college days. Highly recommended are the grilled chicken with rice and beans or any of the paellas.\n\nIt was a cool winter evening but we opted to sit on the outdoor balcony under a heat lamp. It was a lovely evening with nice service.",
+                "language": "en"
+            },
+            "date": "2024-01-13T04:27:01Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BP-YdsRI-rLGxuAae5wbEQ/o.jpg",
+                    "caption": "Polla a La Parrilla"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BlGkFjEHLj_rODT56dbM3w/o.jpg",
+                    "caption": "Bistec a La Parrilla"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Mandy L.",
+                "user_id": "VLovC_ugSb1GuUAzLQrKDw",
+                "link": "https://www.yelp.com/user_details?userid=VLovC_ugSb1GuUAzLQrKDw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qmL1AXgIBUmxNJGO71Uq_Q/180s.jpg",
+                "address": "Birmingham, AL",
+                "friends": 80,
+                "photos": 51,
+                "reviews": 62
+            },
+            "comment": {
+                "text": "Service \nAmbience \nFood \n\nThis little Atlanta Mexican diner is delicious. Let me say that first. You'll be hard pressed to find better Mexican food close to downtown. However, the service left a lot to be desired. We felt more like an inconvenience than customer. My recommendation? Order it to go and enjoy a delicious dinner in.",
+                "language": "en"
+            },
+            "date": "2023-12-04T00:21:01Z",
+            "rating": 3,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rGmRMqT88i6QqtssjNBy0A/o.jpg",
+                    "caption": "Paella"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1_4H6eiVC8kVmcSv5LqlKg/o.jpg",
+                    "caption": "Pork carnitas"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Brittany W.",
+                "user_id": "V3bhUoA6ObJIVAnFCndmdg",
+                "link": "https://www.yelp.com/user_details?userid=V3bhUoA6ObJIVAnFCndmdg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/80JiRvUp0bRO94QtaxiA8A/180s.jpg",
+                "address": "Marietta, GA",
+                "friends": 6,
+                "photos": 23,
+                "reviews": 73
+            },
+            "comment": {
+                "text": "Just okay. Don't come here thinking it's Mexican food bc it's not. I was disappointed they didn't have ground beef. The queso is very good though.",
+                "language": "en"
+            },
+            "date": "2024-03-07T16:14:56Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Megan B.",
+                "user_id": "pXxSODeSKQ41IuaiXBgv8w",
+                "link": "https://www.yelp.com/user_details?userid=pXxSODeSKQ41IuaiXBgv8w",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zV-EqMRP9_DDcCo-F-xlcg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 8,
+                "photos": 154,
+                "reviews": 62,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "*FOOD*  This spot is consistent, fast, and always good. I always get the shrimp tacos, and they fill me up every time. \n\n*SERVICE*  The servers here are like a fine-tuned machine. They're quick and get you all you need very fast. They'll make it work for just one in your party - or if there ten of you. \n\n*AMBIANCE*  No reservations here - it's first come first serve for seats. They serve you quick, so usually a wait isn't too long depending on the night.",
+                "language": "en"
+            },
+            "date": "2023-11-14T01:49:02Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-zkGZPkOsPw-Qt20Yz3JbA/o.jpg",
+                    "caption": "Shrimp Tacos"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XVlod8FLer26vqlwu62ORg/o.jpg",
+                    "caption": "Shrimp Tacos"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Lily S.",
+                "user_id": "1uaKvhQTHmWAIlt3GXpF6g",
+                "link": "https://www.yelp.com/user_details?userid=1uaKvhQTHmWAIlt3GXpF6g",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/F68UtTUfgPDKj3wFM3tckw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 266,
+                "photos": 682,
+                "reviews": 303,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Decent food with reasonable price: a seafood paella for 1, 2 beef tacos, 1 sangria, 1 unsweetened tea, 2 chicken enchiladas for a total of $55\n\nFood was overall decent, nothing to write home about. The beef tacos tasted like Big Mac tacos with burger meat",
+                "language": "en"
+            },
+            "date": "2023-10-27T18:29:37Z",
+            "rating": 3,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6WK2nIvvqsS8GSvBZEIIkQ/o.jpg",
+                    "caption": "Paella Del Mar"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jordan M.",
+                "user_id": "dkzhIsWWvlf5YVE-2mAIgw",
+                "link": "https://www.yelp.com/user_details?userid=dkzhIsWWvlf5YVE-2mAIgw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wbC78Tkh3eQk2RNlJ8v1Vg/180s.jpg",
+                "address": "Washington, DC",
+                "friends": 275,
+                "photos": 143,
+                "reviews": 119,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I lived in Atlanta for four years and have visited on and off for the last four. I'm sure by this point that I've been to hundreds of places to eat. This is one of the top five places I've ever eaten in Atlanta and I didn't find out about it until a month ago. my friend introduced me and I tried the chicken Cuban sandwich with rice and beans and it was extraordinary. Most places you can't get a Cuban, but this was beyond unlike anything I've ever tried before. The chicken was grilled to perfection. Rice was perfect as well as the beans. We also started with the salsa and queso. Salsa was really good and freshly made but the starve the appetizers was the queso. Top three queso I've ever had maybe the best. I am literally salivating writing this review. This place is darn near worth a flight.",
+                "language": "en"
+            },
+            "date": "2023-12-02T17:03:35Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R0f2rhTDd_Cu5nAofbI7Qg/o.jpg",
+                    "caption": "Reuben Cubano: Arroz; black beans"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 1,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Brilliant Chipo P.",
+                "user_id": "isfpSJyqhDzBbgXs-FJGDw",
+                "link": "https://www.yelp.com/user_details?userid=isfpSJyqhDzBbgXs-FJGDw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lYiLcWmGFxDbKUCQNOuwRw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 24,
+                "reviews": 21
+            },
+            "comment": {
+                "text": "The food was meh. It tasted salty and off. The only thing I really liked was the chicken within the paella. We sat upstairs and I like the view. The servers were okay, nothing outstanding or terrible.",
+                "language": "en"
+            },
+            "date": "2024-02-23T04:41:54Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Grace L.",
+                "user_id": "QY64gTALUIvaMK9i3Crgxw",
+                "link": "https://www.yelp.com/user_details?userid=QY64gTALUIvaMK9i3Crgxw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/odV5rIEBwuoIHU5OTy9MtQ/180s.jpg",
+                "address": "Naperville, IL",
+                "friends": 35,
+                "photos": 266,
+                "reviews": 178
+            },
+            "comment": {
+                "text": "Seat yourself and the service is incredibly quick. We got the 1/2 marg pitcher for $16 and it was really great. A little disappointed that they had no specials for national marg day. The shrimp tacos were definitely better than the seafood paella I've gotten before.",
+                "language": "en"
+            },
+            "date": "2024-02-23T03:56:52Z",
+            "rating": 4,
+            "tags": [
+                "2 photos",
+                "1 check-in"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cM__vRsgFV8LW8BzPHfLSg/o.jpg",
+                    "caption": "shrimp burrito"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yE-_NTRnByGx6NYfPyWdYQ/o.jpg",
+                    "caption": "shrimp taco"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Taylor J.",
+                "user_id": "f_9TVn-1NKUVUWX2CCQxEQ",
+                "link": "https://www.yelp.com/user_details?userid=f_9TVn-1NKUVUWX2CCQxEQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Upk49JwEaKam13pvaTD4Pw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 2,
+                "photos": 28,
+                "reviews": 18
+            },
+            "comment": {
+                "text": "Very laid back environment, with at tentative service. The food was unreal, I suggest staying on their true Cuban side. The flavors are authentic. Right off ponce and the balcony is nice and easy. Parking is also available easily. \n\nThere will be small chicken bones in the dish so watch what you're eating! But can't get over the flavors.",
+                "language": "en"
+            },
+            "date": "2023-11-03T20:40:52Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mNjTdHx73uHCYiUy6-sP7Q/o.jpg",
+                    "caption": "Chicken and rice- mouth watering"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Mia W.",
+                "user_id": "gZhs-mpzmL3bU8Q4m9Z65Q",
+                "link": "https://www.yelp.com/user_details?userid=gZhs-mpzmL3bU8Q4m9Z65Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BYNyUkBI0s05schijhu74w/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 510,
+                "photos": 26,
+                "reviews": 32
+            },
+            "comment": {
+                "text": "Food is always fresh and consistent.\nDrinks are cheap and good! I've been coming to the various La Fonda locations for probably 8 years now and I've never had a bad meal. Love the ensalada pescado (salmon) as my go to. Healthy and filling!",
+                "language": "en"
+            },
+            "date": "2024-01-26T15:13:03Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Helena M.",
+                "user_id": "GgwNOsdxR0E9s5R8DzHZSQ",
+                "link": "https://www.yelp.com/user_details?userid=GgwNOsdxR0E9s5R8DzHZSQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/l6m5Uw9PH8RRvQ3IMh2dRA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 29,
+                "photos": 378,
+                "reviews": 139,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Came here for a quick lunch during work. Love Cuban food so I was excited to try this. I got the Reuben Cubano & if you love Reubens and love Cuban sandwiches you'll love this.\n\nLooking forward to coming back and for one, enjoying their outdoor seating and trying the arroz con pollo!",
+                "language": "en"
+            },
+            "date": "2023-06-05T21:55:50Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mYkI4lr9Ag37Kce223rxNA/o.jpg",
+                    "caption": "Reuben Cubano"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Joy C.",
+                "user_id": "WYwnNhSqFiuHCVrBWkeKTw",
+                "link": "https://www.yelp.com/user_details?userid=WYwnNhSqFiuHCVrBWkeKTw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KXhEUeKXRUPzqaRcNYwvaA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 34,
+                "photos": 177,
+                "reviews": 150,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "One of my fave spots for great Cuban food. \n\nLocation and Parking \nThis location is on Ponce, near the intersection of Freedom Pkwy. Parking is available in a small lot for free, or you can park on the street. \n\nVenue and Atmosphere \nThe decor is straightforward, with steel chairs and wooden tables. The restaurant is very clean. \n\nService \nThe employees are kind and efficient, and took our orders promptly. \n\nFood and Beverages \nI always order the Cuban sandwich, and it never disappoints. I tried their tortilla soup this time; it was flavorful and topped with cheese which was a nice touch. Their chips and salsa are house made and some of the best in ATL. \n\nVerdict \nIf I'm craving a Cuban sandwich I'll be back!",
+                "language": "en"
+            },
+            "date": "2023-09-05T01:28:38Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Thomas R.",
+                "user_id": "gme4Qlv0arH_r1-RcmNoAA",
+                "link": "https://www.yelp.com/user_details?userid=gme4Qlv0arH_r1-RcmNoAA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4NYQ7H2wI4XQQfFyUWw8Bg/180s.jpg",
+                "address": "Austin, TX",
+                "friends": 25,
+                "photos": 205,
+                "reviews": 119,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I was encouraged to visit La Fonda by my brother awhile ago, so when my boyfriend and I were looking for a cute date spot recently La Fonda seemed like the perfect fit. Needless to say, it did not disappoint. While some bad weather made it so we couldn't sit on the rooftop patio, everything about the indoor experience was spectacular.\n\nThe service was prompt and friendly, and the food was delicious. I got the enchiladas while the boyfriend got the burrito, and both were great. While the food prices aren't super cheap, they make up for it with the drinks. We got the specialty frozen marg half pitcher for only $15, and it was 1) great tasting and 2) strong. A perfect combo, really.\n\nThe chips and salsa were also to die for. I think it might be the first time I've eaten at a Latin place where the chips and salsa genuinely felt high quality. All in all, I really enjoyed La Fonda and I'm excited to come back!",
+                "language": "en"
+            },
+            "date": "2023-02-21T17:22:46Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vEgiCeF2PnKndNw9omJksg/o.jpg",
+                    "caption": "The two Texas Cocktails"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JkUt8QI5bSckT4fRDV9vcQ/o.jpg",
+                    "caption": "Enchilada dish with the burrito dish in the background"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Patrick R.",
+                "user_id": "yZ4h4B5Bt7cAf4LXMxFhWA",
+                "link": "https://www.yelp.com/user_details?userid=yZ4h4B5Bt7cAf4LXMxFhWA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pi_nmxQLh7XV6VZLkamySQ/180s.jpg",
+                "address": "Dallas, TX",
+                "friends": 12,
+                "photos": 110,
+                "reviews": 86,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I've lived 5 minutes from La Fonda my whole life and never been, assumed it was a weird place off Ponce. But my girlfriend and I were desperate to find an open place on News Year Day so gave it a try and we're glad we did!\n\nFirst, La Fonda has UNLIMITED HEATED CHIPS. Not sure what I've done in life to deserve this luxury, but the server kept refilling our table with bowl after bowl of hot chips directly from the oven, which came with free salsa. Food was just amazing too, truly authentic Latin cuisine I haven't tasted since I literally lived in Latin America as a child. La Fonda may be the most underrated establishment in Atlanta, don't give it a pass (literally).",
+                "language": "en"
+            },
+            "date": "2023-01-18T06:19:17Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/or3-9NManH_o7LA3JjT_jg/o.jpg",
+                    "caption": "Chips, salsa, & girlfriend"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JkIlwZU9zz3dXVOWZ2dJ_w/o.jpg",
+                    "caption": "Arroz Con Pollo"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Antonio R.",
+                "user_id": "ZZWLBQA_cD0Bo2rC_4bKAQ",
+                "link": "https://www.yelp.com/user_details?userid=ZZWLBQA_cD0Bo2rC_4bKAQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vbVgLQjpIJXk8aqZ88IKew/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 28,
+                "photos": 755,
+                "reviews": 294,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I enjoy coming to La Fonda on Ponce. The staff is friendly and they have a great patio upstairs where you can view the Atlanta skyline. \n\nI always order the same thing because it's a lot of food and it reminds me of home. I order the Arroz con Pollo ($15). It's rice with chicken and it comes in a cast iron pan. It don't finish the whole thing so I always have left overs. \n\nI highly recommend it. I will definitely be back and will likely order the same thing.",
+                "language": "en"
+            },
+            "date": "2022-12-02T16:20:45Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wQa1dNK6mQl_dgoXKeyT2g/o.jpg",
+                    "caption": "Arroz Con Pollo"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Max B.",
+                "user_id": "eEW8LWfQVST16mMYDDf1qA",
+                "link": "https://www.yelp.com/user_details?userid=eEW8LWfQVST16mMYDDf1qA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/L2AFggmSAYdmamUjJcmgSw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 16,
+                "photos": 213,
+                "reviews": 84
+            },
+            "comment": {
+                "text": "Good food served at a breakneck speed. \n\nLa Fonda enjoys a nice two story space and they utilize the space well enough. The outdoor seating on the main level is plenty. There is an expansive indoor ground level. The upstairs outdoor seating is both covered, coveted, and small. I felt that I was lucky to grab a table for two outside on a warm spring night (5/26/23). \n\nI did literally have to grab the table. La Fonda is a first come first serve restaurant and La Fonda does not (or at least did not) employ the use of a host. Despite the lack of a host, I did certainly feel seen. Before I could even sit down my table was greeted with chips and salsa. The stealth from La Fonda's staff was my hint that I wasn't so lucky after all to find the table outside. La Fonda wants to get the diner in and out as quickly as possible. This speedy business model became most apparent when my table received our drinks and food at the exact same time (about 7 minutes after ordering). I really do not like receiving my cocktail and meal together. I want to slow down and enjoy myself and my company. I have nowhere else I want to be. \n\nThe food at La Fonda proves their crowd. I appreciate that La Fonda has various paella dishes on their menu. For me, ordering paella perfectly sums up the whole concept of \"going out to eat so that you can try food you wouldn't normally cook at home\" spiel. I ordered the \"paella for one\" and the meal was precise to the description. The rice was lip smacking and every bite had great flavor that popped. The fish tacos were also good and spicy. \n\nThe drink menu distracted me throughout my meal. The front cover of the drink menu features a print warning: \"Special Orders and Drinks Made Correctly Are Non-Refundable.\" I understand that customers can be annoying and needy; but customer needs are part of the territory. No matter how wrong the customer may be they do still have agency and they are probably good people. Customers dine out so that they can eat something that they would not normally cook at home and so that they can be waited on. Customers want to be cared for. \n\nRestaurants have an ability to become part of the community and to offer a dining experience. Restaurants can love their community just as much as their community loves them. La Fonda's drink menu warning suggests that La Fonda is not interested in their customers' desire for a dining experience. The rushed pace at La Fonda combined with the Drink Menu Warning made me feel un-welcomed and uncared for; as if I'm just someone in La Fonda's way. I cannot change my opinion. After all, all of my correct opinions cannot be unchanged.",
+                "language": "en"
+            },
+            "date": "2023-06-07T10:53:29Z",
+            "rating": 3,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R9xkerM0ymmeKLcFY-SKfQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Julian C.",
+                "user_id": "Pv0sWLqu65LMV9uyXGlFYg",
+                "link": "https://www.yelp.com/user_details?userid=Pv0sWLqu65LMV9uyXGlFYg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ecSxjWcCW82P2cLzVdScdQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 262,
+                "photos": 121,
+                "reviews": 121
+            },
+            "comment": {
+                "text": "I came here with my Latina friend and we chose to sit upstairs, which was breezy with a nice view. We ordered the sangrita for a drink, which was a mix of frozen margarita and red sangria; SO good. So good, they could be dangerous.\n\nFor food we ordered the paella which was hot, fresh, and tested amazing. There was a very generous portion for two and a reasonable price. We also ordered the churros which were yummy but could've had a better ratio of cinnamon in their cinnamon sugar. \n\ndespite the great food and view, my silverware had dried beans on them, so I needed to wait for replacements, and the server brought our bill without asking if we wanted dessert, which made me feel a little rushed when I asked if we could in fact get the churros.\n\nDespite this, we had a nice experience and I'll come back for the sangrita and paella",
+                "language": "en"
+            },
+            "date": "2023-06-30T16:40:21Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PRg22xhULTVGaDKxwLINag/o.jpg",
+                    "caption": "Paella"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Tandi M.",
+                "user_id": "kuS9xJztOFBe6NZoX0vZrw",
+                "link": "https://www.yelp.com/user_details?userid=kuS9xJztOFBe6NZoX0vZrw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RQq2FJb20K3tHW8BjlLScw/180s.jpg",
+                "address": "Home Park, Atlanta, GA",
+                "friends": 116,
+                "photos": 7,
+                "reviews": 6
+            },
+            "comment": {
+                "text": "Salmon Burrito and Beef Reuben Cubano! We shared and it was amazing. I was having a bad day and this meal changed my mood! So grateful!  Oh, and did I mention...unlimited chips!  The service was super fast and it feels calm inside!",
+                "language": "en"
+            },
+            "date": "2023-10-24T02:33:22Z",
+            "rating": 5,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Z-_J0qnUuuFKKaDIcZZmMA/o.jpg",
+                    "caption": "Salmon Burrito"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Z8BEwUQ-wt-vPNviL2rnJg/o.jpg",
+                    "caption": "Beef Reuben Cubano"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Laks P.",
+                "user_id": "Gy3l4v8Z19T338fjEooVdQ",
+                "link": "https://www.yelp.com/user_details?userid=Gy3l4v8Z19T338fjEooVdQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AJZ-CrTvoagNB-no-5kF7Q/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 46,
+                "photos": 855,
+                "reviews": 191,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Was not a fan of this place...Just not my taste I guess...\n\nI think their food is very mediocre. I got the paella and my friend got the chorizo cubano and both my friend's dish and mine were extremely salty. I really wanted to like the paella but it simply was not good and despite all the salt and meat, tasted almost bland. \n\nI think they had a good drink selection for cheap prices which is something I would come back here for, but if you're really hungry, maybe not the place to go for good food. \n\nThe service was also just not the best. It was mediocre at best as well.\n\nThe good side to this place is that there is not hassle with parking, but other than that not a big fan to be honest. \n\nWhile I may not have enjoyed this place, you never know if you'll like it unless you try!",
+                "language": "en"
+            },
+            "date": "2022-09-19T03:50:58Z",
+            "rating": 3,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ve2bKrocD5qjkABMsOaDpA/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kl28bG2D383G6skPQjiSig/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X8Ags6RPjNBVN3lwjUMTjQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UZIY1GaHzdkgANwiDWHjxw/o.jpg",
+                    "caption": "Paella Del Mar"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/T0a-dfe8d7Dydi1SNLpssA/o.jpg",
+                    "caption": "Cubano"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Lilliana C.",
+                "user_id": "DtpXhlt_75A7wfiqx5aBzA",
+                "link": "https://www.yelp.com/user_details?userid=DtpXhlt_75A7wfiqx5aBzA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pLF7R1QHw_XQlANNRq5Ugg/180s.jpg",
+                "address": "Midtown, Atlanta, GA",
+                "friends": 106,
+                "photos": 382,
+                "reviews": 99,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I've been coming to La Fonda for 24 years and the Ponce location is by far the best! The food quality is great (so much better than other locations) and the service is always friendly. The quesadillas are the best and I always love enjoying them outside on the upstairs patio!",
+                "language": "en"
+            },
+            "date": "2023-03-15T02:18:13Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tc-tuXe6SjFgZsYJr6uesw/o.jpg",
+                    "caption": "black bean quesadilla"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Benjamin S.",
+                "user_id": "H42ogaxlM1J_KILDWdWCZg",
+                "link": "https://www.yelp.com/user_details?userid=H42ogaxlM1J_KILDWdWCZg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/a47gS-tw_fwEVXBHlh2tPg/180s.jpg",
+                "address": "GA, GA",
+                "friends": 0,
+                "photos": 3,
+                "reviews": 11
+            },
+            "comment": {
+                "text": "Good burritos and mojitos. Also, a good bang-for-you-buck. Plus the upstairs outdoor seating is cool. The wait staff weren't great but they weren't terrible either. The Mexican Iceberg was more fun looking at than drinking.",
+                "language": "en"
+            },
+            "date": "2023-10-20T16:36:33Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nI4BLYXY3MaIovCitc8FCw/o.jpg",
+                    "caption": "Mexican Iceberg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Natalya P.",
+                "user_id": "wBk0Gq_ObI8SxUtsTtACVQ",
+                "link": "https://www.yelp.com/user_details?userid=wBk0Gq_ObI8SxUtsTtACVQ",
+                "address": "Lawrenceville, GA",
+                "friends": 16,
+                "photos": 90,
+                "reviews": 100
+            },
+            "comment": {
+                "text": "Food-\nI love the steak tacos with the parboil rice and black beans. The meat is always tender and generously seasoned. The salmon burrito is also a favorite. \nA while back, I ordered the seafood paella and there was a scarce amount of seafood. I do not recommend that dish, especially considering the price.\nThey make good horchata. It's a little on the sweet side but that is typically the case.\n\nService-\nNot once have we had an experience here where our server was not attentive or the food did not come out fast. We have never had a wait at this location, either. It is good to know that they do not accept reservations here. It is a first come first serve basis. \n\nAmbiance- \nI always sit on the rooftop when I can. There are plenty of fans and heaters for all sorts of weather. Downstairs are wooden booths and tables.\nWe always feel welcomed when we dine here. A great choice for authentic Cuban food!",
+                "language": "en"
+            },
+            "date": "2024-01-08T05:14:30Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Ash B.",
+                "user_id": "fOe6zJvZxCgeVi3pJ1IdDQ",
+                "link": "https://www.yelp.com/user_details?userid=fOe6zJvZxCgeVi3pJ1IdDQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CtZw2DooJiPmiqn1cLZj9Q/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 25,
+                "photos": 80,
+                "reviews": 153
+            },
+            "comment": {
+                "text": "Customer service is awful but the food and drinks are decent. I had the plantains and chicken soup and both were decent. I also had a banana daiquiri that was good too. The customer service, almost an hour for a refill.",
+                "language": "en"
+            },
+            "date": "2023-09-28T19:40:29Z",
+            "rating": 3,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8CN2j60yXxakfIKBaAqAmQ/o.jpg",
+                    "caption": "Drink menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/o51m6Z8jR-amAWYmF_NjKA/o.jpg",
+                    "caption": "Banana daiquiri was decent"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Serena H.",
+                "user_id": "0avXKqohR1ZCNCMheVZLEQ",
+                "link": "https://www.yelp.com/user_details?userid=0avXKqohR1ZCNCMheVZLEQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XGb-_Kux7S-8gxXVXebLmw/180s.jpg",
+                "address": "Southwest Houston, Bellaire, TX",
+                "friends": 4,
+                "photos": 0,
+                "reviews": 34
+            },
+            "comment": {
+                "text": "Yum! Got the seafood and chicken paella and it was just enough for two! They give lots of seafood so there is something in every bite! The place is super cute and cozy and the chips and salsa are great!",
+                "language": "en"
+            },
+            "date": "2023-12-09T21:33:45Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Tanisha H.",
+                "user_id": "N0C71vvxVoUiYliid5VpdA",
+                "link": "https://www.yelp.com/user_details?userid=N0C71vvxVoUiYliid5VpdA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kOhe9O35hybTlrwBxQN30w/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 87,
+                "photos": 1948,
+                "reviews": 310,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I always get the same meal because it's so good. The chicken is always juicy, and the beans and rice are always delicious. But the highlight of the meal was the Pina colada, it was really good.. I will always frequent..",
+                "language": "en"
+            },
+            "date": "2022-10-15T17:14:58Z",
+            "rating": 5,
+            "tags": [
+                "5 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2cdBV7v-ct0_QqpeNqly-A/o.jpg",
+                    "caption": "Pollo a la parilla"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KdmRxgiatXATwIOP56_rJg/o.jpg",
+                    "caption": "Pina colada"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_BR-oAoSIw7Iw0G7I19xzw/o.jpg",
+                    "caption": "Menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/T5TnH9eRPJkIvjYIluyx6A/o.jpg",
+                    "caption": "Menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ashXt8_hB8apKa_8phdOcQ/o.jpg",
+                    "caption": "Menu"
+                }
+            ],
+            "feedback": {
+                "useful": 3,
+                "funny": 1,
+                "cool": 3
+            }
+        },
+        {
+            "user": {
+                "name": "Anuj K.",
+                "user_id": "uJJH1nCmWAs4nDzucUetsA",
+                "link": "https://www.yelp.com/user_details?userid=uJJH1nCmWAs4nDzucUetsA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Q-Hxhg5K8H-UxGiHS6PgAw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 1,
+                "photos": 11,
+                "reviews": 14
+            },
+            "comment": {
+                "text": "Service was solid, a little slow to start off, but it was because of the fact that we came in with a large group. Meal starts off with complimentary chips and salsa with an assortment of different sauces to add on. The menu is pretty large, so definitely worth coming back to try different items. I tried the steak torta which I thought was fantastic. It had some sort of aioli within it that really brought together the dish. Tried some of my friends paella and thought this was another very well made dish.",
+                "language": "en"
+            },
+            "date": "2023-09-13T02:43:34Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tStLTr5_pL4qBlrCb4SRGw/o.jpg",
+                    "caption": "Steak Torta"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Roderick B.",
+                "user_id": "kt_41dZPuQeTdNg2Z8Xubw",
+                "link": "https://www.yelp.com/user_details?userid=kt_41dZPuQeTdNg2Z8Xubw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yaScDYHbhkqQCHG_T_L4FQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 94,
+                "photos": 752,
+                "reviews": 95
+            },
+            "comment": {
+                "text": "I am happy to say this restaurant hasn't changed one bit since I moved to LA. The food is still absolutely delicious and a good portion. The service is still friendly and handles the always busy restaurant pretty well. The music is still a bit too loud but does drown out the obnoxious people, who always want you to every word of their conversations. Not the restaurant's fault at all. I ordered the same pressed ham and pork sandwich I had so long ago and couldn't even finish it, perfect leftover meal for later. I look forward to my next visit.",
+                "language": "en"
+            },
+            "date": "2023-06-20T16:19:08Z",
+            "rating": 5,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DLOwVNQLSZpiGnx4pOmH6A/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/u2nfrhSf-6cSv-2BJ7HIFQ/o.jpg"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t-SokX4hEcjSkpoxSjarMQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "CyRhonda C.",
+                "user_id": "wHSs0RP_Nf-bSVAH_sMjNA",
+                "link": "https://www.yelp.com/user_details?userid=wHSs0RP_Nf-bSVAH_sMjNA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5s9fytAufLMmF-etaHetOQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 9,
+                "reviews": 12
+            },
+            "comment": {
+                "text": "Flavored margaritas were BOMB! I had the fish enchiladas and there were very tasty. Service was pleasant and timely.",
+                "language": "en"
+            },
+            "date": "2023-08-17T20:01:45Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/myk4zjrq3SQbTSJsWFn6og/o.jpg",
+                    "caption": "Fish enchiladas"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Tony M.",
+                "user_id": "rtlerca0yhHTwndcp6LiGg",
+                "link": "https://www.yelp.com/user_details?userid=rtlerca0yhHTwndcp6LiGg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8xCshhbK2I_3FnQM6LSYOg/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 496,
+                "photos": 167,
+                "reviews": 147
+            },
+            "comment": {
+                "text": "So this is my second visit to La Fonda Latina, first was a horrible experience on the Howell Mill location (which thankfully is now closed). So this is for the one on Ponce. I had the ribeye my wife had the arroz con pollo. The steak was what you expect not well seasoned but feasible. The yellow rice with black beans were a lot better than last time (they used to much cumin) my wife's food was more presentation than flavor yet safe to say it's edible. The service was satisfactory at best and the place was a bit noisy mixed with the loud music it makes it hard to have a conversation. I guess you can say, it's one of those spots you have to try for yourself!",
+                "language": "en"
+            },
+            "date": "2023-07-26T00:50:58Z",
+            "rating": 3,
+            "tags": [
+                "4 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6SH5tOMsDM9pITSVhiDR8w/o.jpg",
+                    "caption": "Menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/73MkFLP-6Mu6EXm4OzH7LQ/o.jpg",
+                    "caption": "Open menu"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AYn_ZAJXpq4o136hS4JQTw/o.jpg",
+                    "caption": "Rib-eye"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CqzzZiqoRTp15PNf2szGyg/o.jpg",
+                    "caption": "Arroz Con Pollo"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Kelly O.",
+                "user_id": "6wOuJImD3MyrPyfOMuAp6Q",
+                "link": "https://www.yelp.com/user_details?userid=6wOuJImD3MyrPyfOMuAp6Q",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6IVxpwlP2-GWicCGWT-7BQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 89,
+                "photos": 42,
+                "reviews": 19
+            },
+            "comment": {
+                "text": "Reliable Latin cuisine at a great value - good margaritas, interesting menu options (they have many Cuban dishes with other Latin cuisine inspiration as well), and very quick service at the Ponce location. Love the outdoor seating here too! More casual vibes that are perfect for when you just don't know where you want to eat.",
+                "language": "en"
+            },
+            "date": "2023-04-10T16:39:14Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0pK0EPqUIPut8mw-JGKWcw/o.jpg",
+                    "caption": "Beef enchiladas"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Jenifer S.",
+                "user_id": "7TKO1Ec1N4h4UQZOrd4axg",
+                "link": "https://www.yelp.com/user_details?userid=7TKO1Ec1N4h4UQZOrd4axg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8EcIOPOMuhoKkS7oFZ1hAg/180s.jpg",
+                "address": "Greer, SC",
+                "friends": 90,
+                "photos": 26,
+                "reviews": 126
+            },
+            "comment": {
+                "text": "The food was amazing!!! Lots of vegetarian options! I got the vegetarian enchiladas with black beans and rice and it was super good!!! I def recommend if you are in the area. The outside rooftop seating was a great atmosphere for a later relaxed dinner.",
+                "language": "en"
+            },
+            "date": "2023-09-11T12:17:51Z",
+            "rating": 5,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Ishamar R.",
+                "user_id": "RfwkResRviDA-fUS7GXtFg",
+                "link": "https://www.yelp.com/user_details?userid=RfwkResRviDA-fUS7GXtFg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FYdFHNmjep0Eooctt29CEw/180s.jpg",
+                "address": "Marietta, GA",
+                "friends": 79,
+                "photos": 730,
+                "reviews": 111,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "I found this place interesting because they have Spanish, Cuban, and Mexican dishes. I wanted to try a little of everything. The service here was nice and there's also roof porch seating. \n\nThe only bad thing was the parking, there's a few parking spots at their location but there's parking at the other restaurants next door (if they aren't too busy). \n\nWe ordered:\n1. Paella - without shrimp \nI loved the flavors of this Spanish dish! I never heard this before and now I want to have it all the time. It was very delicious \n2. Tostones \nI wasn't a fan of their tostones. The inside was very soft and felt uncooked. Wouldn't recommend \n3. Beef Enchiladas \nThis was also very delicious and filling. The tortilla is made from corn ( yum yum ). \n\nEnjoy ;)",
+                "language": "en"
+            },
+            "date": "2022-03-23T14:53:31Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8w5KWlP2Vr32eZVipkyIyw/o.jpg",
+                    "caption": "Paella"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/J8hCUEXUEoFfQix0BblErA/o.jpg",
+                    "caption": "Paella"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Krystal W.",
+                "user_id": "n1JLrhFxrau2DkDJF-f9kw",
+                "link": "https://www.yelp.com/user_details?userid=n1JLrhFxrau2DkDJF-f9kw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-YAmiomuHSCVL7pFr65CWQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 16,
+                "photos": 136,
+                "reviews": 10
+            },
+            "comment": {
+                "text": "The upstairs patio has a great ambiance and vibe and especially on a warm night or a sunny day!! Their mojitos are so good!",
+                "language": "en"
+            },
+            "date": "2023-04-20T00:50:22Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iCp7MrB5mm0ho8wgYgVnFw/o.jpg",
+                    "caption": "The rooftop at LaFonda is always perfect on a warm day, or night!!!"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Jonathan K.",
+                "user_id": "KjOLEj6uoZq8h01B4rZmZg",
+                "link": "https://www.yelp.com/user_details?userid=KjOLEj6uoZq8h01B4rZmZg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lCZgvGDMiAh-Sj9ZgUaWHw/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 218,
+                "photos": 502,
+                "reviews": 219,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "The food at La Fonda is just another representation of pretty much all the food in and around downtown Atlanta- touristy, popular, but average quality in terms of the taste. First, the inside need central AC. It is definitely not comfortable dining during the heat of the summer. I do appreciate the fact that they have rooftop seating, but it did not help with the heat either. Tried to cool down with some coke only to realize they serve cans as opposed to fountain. I savored my single can of coke strategically, balancing it out between cooling myself down and pairing with the food later. \n\nNow onto the food. We ordered chips and guacamole. Solid guac, I have nothing to say about it. The guac tasted fresh, but it would be nice to have a taste of lime since the acidity usually goes really well with the savory of the guac. That being said, the absence of lime was not a deal breaker for me. I ordered the shrimp taco, which came with rice and beans. I have to say, the food wasn't bad, but it wasn't amazing either. The price was about $11 for the dish, which was very reasonable. The shrimp taco tasted very bland and the smokiness of the shrimp was very weak. The rice and beans... well, it's just rice and beans. I can probably make that using the ingredients from Publix and still have it taste the same. \n\nParking can be difficult to find. Street parking is your best bet. \n\nOverall, food wasn't bad, but there were no \"wow\" factors either. Would definitely recommend driving out for more authentic Mexican food.",
+                "language": "en"
+            },
+            "date": "2022-07-16T01:58:58Z",
+            "rating": 3,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "keairra m.",
+                "user_id": "Gw2hSteqfSyNNl-igq7VRQ",
+                "link": "https://www.yelp.com/user_details?userid=Gw2hSteqfSyNNl-igq7VRQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_pn1yQU_jpU079NbWNAIvA/180s.jpg",
+                "address": "Los Angeles, CA",
+                "friends": 20,
+                "photos": 260,
+                "reviews": 119,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Stopped by to have drinks and decided to order food. I attempted to order veggie enchiladas but the option to not have Mushrooms because it's pre mix was a bummer. So I went with the cheese enchiladas and I have to say I wasn't disappointed at all. It tasted amazing. The food came out quickly. I ordered a prickly pear margarita. It had great flavor but wasn't enough alcohol as I didn't feel anything and I'm a light weight. The bathroom smelled nice and it was Farley clean but usable. I would definitely come back for a visit. Just wish I had the option not to have mushroom in the vegetarian options.",
+                "language": "en"
+            },
+            "date": "2022-06-07T03:55:30Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bwveIR_WQZoR6bVbHbGsNQ/o.jpg",
+                    "caption": "Chips and Salsa to get you started"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CIGKZpA4TV9UC0SIuzXRWQ/o.jpg",
+                    "caption": "Cheese enchiladas with  yellow rice and black beans.  prickly pear margarita."
+                }
+            ],
+            "feedback": {
+                "useful": 2,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Carolina G.",
+                "user_id": "WhQnBwQHwkpw3hzSR51ESw",
+                "link": "https://www.yelp.com/user_details?userid=WhQnBwQHwkpw3hzSR51ESw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lzGl6f_WR9ZAn8ER6eEW3A/180s.jpg",
+                "address": "GA, GA",
+                "friends": 0,
+                "photos": 2,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "I was looking for a Latin place to go eat at, and this place showed up. Heared from some friends that the food is good, and it's okay. Like the prices are fine for the amount of food you get. They could've done so much better with the Cuban-Mexican fusion, like having white rice for cuban dishes and the yellow rice for mexican ones, but its only yellow rice. The rice is good, but it takes away from the beans and the ropa vieja when you eat them together. The tostones are overpriced, specially since they taste like the frozen ones. Overall nice, fast, and really good service, plus location is pretty and has a nice view.",
+                "language": "en"
+            },
+            "date": "2023-05-01T19:27:28Z",
+            "rating": 4,
+            "tags": [
+                "2 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yeeuUKNFBO9sn5_QqgsyLA/o.jpg",
+                    "caption": "Pork Chops with Beans"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sS6IbmGqZtVLgW3k8WNH6g/o.jpg",
+                    "caption": "Ropa Vieja with Beans"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Dixine H.",
+                "user_id": "HBO7mj2pdYm35Qc1RiNCFQ",
+                "link": "https://www.yelp.com/user_details?userid=HBO7mj2pdYm35Qc1RiNCFQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pDOpq0wIJjhP7yK9oMqoEQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 224,
+                "photos": 227,
+                "reviews": 185,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "The food is always delicious and fresh, the cocktails are $6.95 each and they have a rooftop patio that overlooks the street. This is my go to spot for good food and vibes. And they don't give you a limit to dine in!",
+                "language": "en"
+            },
+            "date": "2022-04-25T15:12:50Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NXJJOjx8uj6HqubxGiyr2Q/o.jpg",
+                    "caption": "Paella Del Mar"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 2
+            }
+        },
+        {
+            "user": {
+                "name": "Sneha N.",
+                "user_id": "KAFjO-7vxZ3R0yWMAYhXHQ",
+                "link": "https://www.yelp.com/user_details?userid=KAFjO-7vxZ3R0yWMAYhXHQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/y_7fIfcPO2oriOsxz7PBJQ/180s.jpg",
+                "address": "Washington, DC",
+                "friends": 5,
+                "photos": 91,
+                "reviews": 36
+            },
+            "comment": {
+                "text": "La Fonda in Ponce De Leon in Atlanta is a charming spot for Latin cuisine. I was pleased with the variety of tacos on the menu, so I went for the shrimp tacos and they were delicious. The flavors were well balanced and the shrimp was cooked perfectly. However, I would say the food was great, but not exceptional. It was a satisfying meal, but I wouldn't say it blew me away. On the other hand, the salsa for the table was fantastic. It was very fresh and had a great kick to it. I appreciated that it was complimentary and refilled as needed. The service was prompt and the staff was friendly. I was seated quickly and my drink was refilled often. Overall, La Fonda is a solid choice, especially if you're in the mood for fresh salsa and prompt service.",
+                "language": "en"
+            },
+            "date": "2023-02-02T20:35:27Z",
+            "rating": 4,
+            "tags": [
+                "3 photos"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YQOcCgG9xLPWdEtvZWBB8g/o.jpg",
+                    "caption": "Front of restaurant"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/G6aJVcaErl18po9jg_BcTA/o.jpg",
+                    "caption": "Shrimp tacos"
+                },
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iJQQmcJ-kj2q24J0PS_KeQ/o.jpg",
+                    "caption": "Salsa"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Dominique N.",
+                "user_id": "bnDEwxJ0mlOfuR3JbgHlhQ",
+                "link": "https://www.yelp.com/user_details?userid=bnDEwxJ0mlOfuR3JbgHlhQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gC1WfEB983lTKOJTyuwshg/180s.jpg",
+                "address": "Houston, TX",
+                "friends": 72,
+                "photos": 173,
+                "reviews": 133,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "My go to for cheap Latin American food. My go to is the veggie cuban and a marg. Super cheap, but still tasty!",
+                "language": "en"
+            },
+            "date": "2022-05-01T17:01:11Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0-Z_iCDDgTOB7zQe0-Rfrg/o.jpg",
+                    "caption": "Fish enchiladas in foreground and quesadilla in background."
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "L M.",
+                "user_id": "Y3OZyY-n-sOqH5pzooVyjw",
+                "link": "https://www.yelp.com/user_details?userid=Y3OZyY-n-sOqH5pzooVyjw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Xq93T2U0DRo6obQZFgGI1Q/180s.jpg",
+                "address": "Grayson, GA",
+                "friends": 1,
+                "photos": 23,
+                "reviews": 76
+            },
+            "comment": {
+                "text": "I've been here countless times and enough to realize the food is inconsistent. Got a sandwich=bread was stale. Arroz con pollo=funny smell and tasted old. Tostones=tasted reheated. Steak (tacos,sandwich, ribeye)=overcooked and tough. For this to be \"Latin\" food, they fail to give authenticity to any of the dishes lol. \n\nThere's a tall guy that works here and he is rude and unhelpful. I'd hate to throw out the racist card, but he's friendly to lighter folks and unresponsive if you're his color or darker. To the point where he doesn't speak when he first comes to the table, just asks what you want. no greeting. We speak to him and he ignores it. If you say thank you to him, he doesn't reply. No joke. I've experienced multiple times. \n\nThe saddest part, one time a homeless, drunk man was bothering people on the patio and the racist employee came outside to ask the man to leave. The drunk man then cussed the employee out and started harassing the guests. My husband gets up and makes the guy leave. Do you think that was acknowledged? No! My husband stopped the paying guests from being harassed and stops the employee from being cussed out. No thank you, no discount, nothing! Came back a few nights later, guy was still ignoring us. We should have minded our own business and let him continue to be humiliated in front of the guests. \n\nMaybe it's this location, but the staff is consistently ruins the experience.",
+                "language": "en"
+            },
+            "date": "2022-11-06T14:14:48Z",
+            "rating": 2,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Chris S.",
+                "user_id": "vW1utzt5QQYXCZ5vijrAMw",
+                "link": "https://www.yelp.com/user_details?userid=vW1utzt5QQYXCZ5vijrAMw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/db1hYxmIJH6BAkF46XnRjQ/180s.jpg",
+                "address": "New York, NY",
+                "friends": 382,
+                "photos": 558,
+                "reviews": 240,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Came here Thurs evening with a friend. Not too crowded and we opted to sit outside.\n\nOrdered the Chuletas which were SO DELICIOUS .. the meat wad cooked very tender and the criolla tomato sauce on top was a great complement to the pork chops. It came with rice and beans and for only $13 it was more than worth it. You also get chips and salsa at the table (chips can get refilled) so it was a great time overall. \n\nService was friendly and pretty quick. Parking lot is a bit tiny so you might want to look for street parking nearby.",
+                "language": "en"
+            },
+            "date": "2021-07-23T05:56:17Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Gzr7GsmeA8o9gv--u7YxXw/o.jpg",
+                    "caption": "Chuletas De Cerdo a La Parrilla"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Sandra O.",
+                "user_id": "LUKQzq0IjFyLs2MVph0yyQ",
+                "link": "https://www.yelp.com/user_details?userid=LUKQzq0IjFyLs2MVph0yyQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/S3UPISBaWOcfAzPTTynixA/180s.jpg",
+                "address": "Marietta, GA",
+                "friends": 215,
+                "photos": 1294,
+                "reviews": 566,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Great waiter. Best service ever hear. Absolutely chronic margueritas. Criminal how bad they were. Parking is limited but so great for people who can walk here. Two outside seating areas.",
+                "language": "en"
+            },
+            "date": "2022-03-26T17:06:05Z",
+            "rating": 5,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-WEgt7D4KF6KYFxbKtfcmw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Kyle S.",
+                "user_id": "yACLb6lUDPjw0g5JrNwXMg",
+                "link": "https://www.yelp.com/user_details?userid=yACLb6lUDPjw0g5JrNwXMg",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SeO7QiA--zprDZO_F2Y5Hg/180s.jpg",
+                "address": "Houston, TX",
+                "friends": 396,
+                "photos": 388,
+                "reviews": 261,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "Solid, consistent food. One of my favorite things about this restaurant is their chips and salsa... absolutely amazing!\n\nI enjoy their burritos, queso, and their paellas. The food is a bit on the saltier side but I still think the flavors are all there. The patio is great for groups to gather, grab a drink, and just enjoy the weather. Service is good too!",
+                "language": "en"
+            },
+            "date": "2022-05-03T14:56:33Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Stephanie G.",
+                "user_id": "WmDHqb_1Frb_q8sc0VLCuw",
+                "link": "https://www.yelp.com/user_details?userid=WmDHqb_1Frb_q8sc0VLCuw",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ScMpLhi8oh-qJq9bW9ICOQ/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 99,
+                "photos": 529,
+                "reviews": 424,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "La Fonda is one of the cool, local joints in the city. Their food and drinks are cheap and delicious. I could never understand how they sit people - it's first come first serve but people can jump in line if there's an empty table for 2 and there are 2 people waiting to be seated. Once you get seated though, everything goes pretty smoothly. Service is a hit or miss but I think food is good for the price. I usually get paella when I'm here but this time I got the grilled salmons plate with rice and beans. Fish was grilled to perfection and not dry.",
+                "language": "en"
+            },
+            "date": "2022-04-30T16:13:37Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ucjClxoMxp7fVpgEJEU_sw/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Diana C.",
+                "user_id": "EoNYdMYyVPTDugdJePJdyQ",
+                "link": "https://www.yelp.com/user_details?userid=EoNYdMYyVPTDugdJePJdyQ",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xJPIWPx2QaW_CH_F6LRQdw/180s.jpg",
+                "address": "Cumming, GA",
+                "friends": 0,
+                "photos": 3,
+                "reviews": 6
+            },
+            "comment": {
+                "text": "Amazing seafood paella, grilled chicken salad, chips, queso and guac are good too, the experience worth the trip",
+                "language": "en"
+            },
+            "date": "2023-07-13T22:24:01Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Ena C.",
+                "user_id": "g8AxMx5f6WE1nYKf9EvRkw",
+                "link": "https://www.yelp.com/user_details?userid=g8AxMx5f6WE1nYKf9EvRkw",
+                "address": "Sandy Springs, GA",
+                "friends": 8,
+                "photos": 125,
+                "reviews": 50
+            },
+            "comment": {
+                "text": "Shrimp Tacos were to die for, comes with 2 tacos, yellow rice and beans. Drinks are strong and delicious. The house salsa is the perfect combination of spicy and savory and the chips were freshly cooked. I will be back more often. I've only been to this location once but oh is it so worth it!",
+                "language": "en"
+            },
+            "date": "2022-11-28T16:48:37Z",
+            "rating": 4,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AOkVVsqwrzq1KfNWFi2Gsg/o.jpg",
+                    "caption": "Shrimp tacos"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Mrs. K.",
+                "user_id": "DKcZsmHzdwQpnenjYKJuNA",
+                "link": "https://www.yelp.com/user_details?userid=DKcZsmHzdwQpnenjYKJuNA",
+                "address": "Atlanta, GA",
+                "friends": 0,
+                "photos": 1,
+                "reviews": 1
+            },
+            "comment": {
+                "text": "This afternoon, I ordered Ropa Vieja in person as a to go order from La Fonda on Ponce de Le\u00f3n. I've ordered it to go from here several times before with no issues. However, today they gave me OLD REFRIGERATED Ropa Vieja in the to go container. I don't know how old it was! Not only was it cold and old, it was mostly green peppers, onions, and tomatoes. There was very little meat. I am disgusted and very unhappy that I was served this! You're better off getting Ropa Vieja from Papi's Cuban Grill a few blocks away on Ponce de Leon!",
+                "language": "en"
+            },
+            "date": "2023-08-09T21:21:36Z",
+            "rating": 1,
+            "tags": [
+                "1 photo"
+            ],
+            "photos": [
+                {
+                    "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hyam9feQnIj-2OxDf7p2mQ/o.jpg"
+                }
+            ],
+            "feedback": {
+                "useful": 0,
+                "funny": 0,
+                "cool": 0
+            }
+        },
+        {
+            "user": {
+                "name": "Ebony M.",
+                "user_id": "YPEuTx7UJmB5j841ThgAbA",
+                "link": "https://www.yelp.com/user_details?userid=YPEuTx7UJmB5j841ThgAbA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/NaPsgp_rcxdg2eg6XUjH-w/180s.jpg",
+                "address": "Toledo, OH",
+                "friends": 24,
+                "photos": 3,
+                "reviews": 113
+            },
+            "comment": {
+                "text": "I chose a burrito which was a bad choice it was nothing really special but The paella is to die for ,hand down some of the best that I've tasted.",
+                "language": "en"
+            },
+            "date": "2023-02-25T10:10:34Z",
+            "rating": 4,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 1
+            }
+        },
+        {
+            "user": {
+                "name": "Greg A.",
+                "user_id": "voVeJcHVZLRZGrd7UAslHA",
+                "link": "https://www.yelp.com/user_details?userid=voVeJcHVZLRZGrd7UAslHA",
+                "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/67ZG6_3M0QDtmrExgLfZuA/180s.jpg",
+                "address": "Atlanta, GA",
+                "friends": 169,
+                "photos": 203,
+                "reviews": 331,
+                "elite_year": 24
+            },
+            "comment": {
+                "text": "La Fonda is a Spanish, Cuban, and Mexican place that doesn't really manage to do justice much to either of the cuisines.  It's not necessarily bad.  It's just very, very mediocre.  If you're coming here, I'd say you should stick with Mexican out of the 3.  But there are plenty of better Mexican places you can check out all over Atlanta.",
+                "language": "en"
+            },
+            "date": "2022-08-23T15:46:05Z",
+            "rating": 2,
+            "feedback": {
+                "useful": 1,
+                "funny": 0,
+                "cool": 0
+            }
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=Kcva2t7e6Ukpb5vMvkdc2w&start=50"
+    }
+}

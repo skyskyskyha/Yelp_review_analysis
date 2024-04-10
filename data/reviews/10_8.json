@@ -1,0 +1,2032 @@
+{
+  "search_metadata": {
+    "id": "660190ac5fc49314a98cb6a2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c435cd11c3877dff/660190ac5fc49314a98cb6a2.json",
+    "created_at": "2024-03-25 14:56:44 UTC",
+    "processed_at": "2024-03-25 14:56:44 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/ZxaJGBjpbugagOozLYvnPQ?",
+    "raw_html_file": "https://serpapi.com/searches/c435cd11c3877dff/660190ac5fc49314a98cb6a2.html",
+    "prettify_html_file": "https://serpapi.com/searches/c435cd11c3877dff/660190ac5fc49314a98cb6a2.prettify",
+    "total_time_taken": 1.61
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 100,
+    "num": "50",
+    "place_id": "ZxaJGBjpbugagOozLYvnPQ"
+  },
+  "search_information": {
+    "total_results": 323,
+    "business": "Virgil's Gullah Kitchen & Bar - West Midtown"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 323
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Mekia2287 ..",
+        "user_id": "10eetHs2iiVwXrPF13oUew",
+        "link": "https://www.yelp.com/user_details?userid=10eetHs2iiVwXrPF13oUew",
+        "address": "Wayne, Indianapolis, IN",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Service was amazing! The staff were so attentive and the food was pretty good!  I will definitely be coming back!",
+        "language": "en"
+      },
+      "date": "2024-02-26T00:34:43Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shantae Y.",
+        "user_id": "XKuyAOlWG6FJlH-8lSjVpQ",
+        "link": "https://www.yelp.com/user_details?userid=XKuyAOlWG6FJlH-8lSjVpQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SX8-4lVtgqH_HG5YIpWVsg/180s.jpg",
+        "address": "Kirkland, WA",
+        "friends": 289,
+        "photos": 21,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "The food here was absolutely amazing! My friend and I went here for lunch during her move so I ordered three a-la-carte items: the sammen, Mac and cheese and greens. The service was really great and the food came out really quick as well. I will be back because I want to try something that's fried and smothered in gravy.",
+        "language": "en"
+      },
+      "date": "2023-10-01T16:19:26Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_Ld9yxS2eY2iGRAZoQz2Xg/o.jpg",
+          "caption": "Sammen, Collards and Mac and Cheese"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you Shantae for you positive words and feedback",
+          "date": "2023-10-19T21:31:44Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Bonita H.",
+        "user_id": "FJrSsXt7cg_Twy3DCDcbAQ",
+        "link": "https://www.yelp.com/user_details?userid=FJrSsXt7cg_Twy3DCDcbAQ",
+        "address": "Chicago, IL",
+        "friends": 0,
+        "photos": 6,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "OMG the service, the food, the atmosphere AMAZING!!! \n\nOur waiter who was sooooooo dope, don't remember his name but Jamaican man with dreads, brought us some muffins! That started the fiasco! Allllll the way down hill from there! In a juxtaposed way. I fell into the best seasonings and blend of food, texture, spice and taste! The fried salmon to the grilled salmon, the Mac n cheese, greens, and the fried chicken was delicious. To top it all off the bread pudding was phenomenal! I have to leave ATL, so that I don't go back! This is heaven for your taste buds!",
+        "language": "en"
+      },
+      "date": "2023-08-25T19:00:41Z",
+      "rating": 5,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vr4LTUafNYmyP-10LaDaKg/o.jpg",
+          "caption": "Bread pudding"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FIrNggXENKVn1B9Ku3obzw/o.jpg",
+          "caption": "Muffins"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EyhODrtDtn3v05etcJSTZA/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/c3fXXKLdpkLsxBkyvFkB4w/o.jpg",
+          "caption": "Chicken potatoe wedges"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wH5MKvXirBycRKQ4czxf1Q/o.jpg",
+          "caption": "Dining"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kWocvJjrSawpdCrMw4roiA/o.jpg",
+          "caption": "Chicken"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kristen M.",
+        "user_id": "2YgyF7ucy9QxKpwL0Dp64w",
+        "link": "https://www.yelp.com/user_details?userid=2YgyF7ucy9QxKpwL0Dp64w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ane_KNoa-LRaUzjHPfuskA/180s.jpg",
+        "address": "New Orleans, LA",
+        "friends": 357,
+        "photos": 1,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "I've had the food before it was excellent but this time. It was not so\nGood the gumbo\nIs overpriced one long piece of okra one shrimp mainly gravy and the salmon balls wasn't to flavorful and was cooked to fast had to put in oven\nWhen i got home  to continue cooking maybe should request fried well done. Dont accept cash only cashless and  dont accept call in orders so u have to pay to park then go in place your order and wait  staff seemed friendly though",
+        "language": "en"
+      },
+      "date": "2023-10-13T13:23:28Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hey Kristen, We are truly sorry to hear about your recent dining experience at our restaurant. We apologize for the quality of the dishes you received, as well as any inconvenience caused by having to recook the food once you got home. Our goal is to consistently deliver delicious and satisfying meals to our valued guests, and we apologize for falling short of this during your visit. Concerning your mention of us being a cashless restaurant, we would like to clarify that we do not accept cash as a form of payment. We apologize if there was any confusion or miscommunication regarding this policy. Similarly, we apologize if there was any misunderstanding about taking orders over the phone. We are more than willing to accommodate phone orders, and we apologize for any inconvenience this may have caused. Your feedback is extremely important to us, as it helps identify areas for improvement. We will address the issues you have raised with our kitchen team to ensure that they are more diligent in delivering dishes that meet our guests' expectations. Additionally, we will revisit our communication and payment policies with our staff to ensure that everyone is well-informed and that our guests have a seamless experience. We genuinely appreciate your feedback and hope that you will give us another chance to provide you with the outstanding dining experience you deserve. Please reach out to us directly, and we will make sure to prioritize your next reservation and ensure that everything exceeds your expectations. Thank you for bringing these matters to our attention. We value your patronage and look forward to the opportunity to serve you better in the future. Sincerely, Bentley GM",
+          "date": "2023-10-19T20:16:16Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Melanie W.",
+        "user_id": "LzWdl2z6g8FB3m_Pp9B2Qw",
+        "link": "https://www.yelp.com/user_details?userid=LzWdl2z6g8FB3m_Pp9B2Qw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7vLEw-focyEga_hgbqUfmg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 248,
+        "photos": 140,
+        "reviews": 88,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I was super excited to try Virgil's in West Midtown! They didn't have any reservations available so my husband and I walked in on a Sunday evening around 6:30PM. First of all, this location is perfect and I love the industrial feel of the restaurant. It is spacious and has lovely decor. The host quickly greeted us and let us know we could grab some seats at the bar. We decided to sit upstairs. The bartender/server was attentive and my peach margarita was delicious. We tried the shellfush plate, slammin' sammen, and were comped some corn muffins. Everything was so good and the leftovers made a delicious meal for the day. The music playing in the background of the restaurant added to the overall vibey feel. I will definitely be back! 10/10 would recommend.",
+        "language": "en"
+      },
+      "date": "2022-12-05T19:27:24Z",
+      "rating": 5,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/idgD0lDQy3FnkwBAR7Qfcg/o.jpg",
+          "caption": "Peach margarita"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5_oVkVE_rG0BjR-kMiqpww/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nxv3vOwb7mzWK2pNZY1CGA/o.jpg",
+          "caption": "Shellfush plate."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7MIJZXGQEJduH3KtwXZsCg/o.jpg",
+          "caption": "Happy hour menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Jc_GH1HK6RYII1vRVAPn5A/o.jpg",
+          "caption": "Bussin' corn muffins."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hszJ4DbMh5nZ9qsK1_XAow/o.jpg",
+          "caption": "Indoor mural."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-6FCJc9x--pgD_kU9wFLGQ/o.jpg",
+          "caption": "Slammin' sammen."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Melanie, we are super excited you loved Virgil's Midtown. So glad you decided to give us a try. Thank you for sharing your experience, and we're hoping to see you again soon for another date night.",
+          "date": "2022-12-27T21:41:43Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Layonda H.",
+        "user_id": "WcxgtROvn-KFKPAXE9RENQ",
+        "link": "https://www.yelp.com/user_details?userid=WcxgtROvn-KFKPAXE9RENQ",
+        "address": "Booker T Washington, Monroe, LA",
+        "friends": 0,
+        "photos": 4,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "This restaurant charged us a surcharge iao 27.00 for something \"call ticket over 100.00\".. our ticket was already 124.00 and then they tag tax.. The food was good but overpriced.",
+        "language": "en"
+      },
+      "date": "2024-02-03T17:13:20Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sweetie Z.",
+        "user_id": "paYHxYwbc9a8PhaNyXAbEA",
+        "link": "https://www.yelp.com/user_details?userid=paYHxYwbc9a8PhaNyXAbEA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/230h8346I-KK5uEhfMu8KA/180s.jpg",
+        "address": "Brooklyn, NY",
+        "friends": 637,
+        "photos": 71,
+        "reviews": 55
+      },
+      "comment": {
+        "text": "Came here about an hour and 20 minutes before closing, and the service wasn't great. I get it's almost closing time but the service shouldn't suffer.  The kitchen was closing in 10 mins as per our server, luckily I knew what I wanted. THE SEAFOOD SAMPLER PLATE, not absolutely sure what it's called but it came with the Deviled crab or crab cake, VERY DELICIOUS! To be honest I'm sold and cannot wait to go back. \n\nIt's a chill vibe but looks like the upstairs space may be more of a date night or more than casual dining place. AKA Get dressed they have cute mirrors and picture spaces .",
+        "language": "en"
+      },
+      "date": "2023-05-01T21:37:17Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Sweetie,\nDepending on the day, the upstairs can be date night, nightclub, Karaoke stage, or game space. We try to keep interesting things happening at Virgil's. I am glad to know you're coming back - and you're right, service should be consistent all day. We've addressed greeting guests, and it seems it's time for a refresher in service during the final hours of the evening. Come again, and let us know if you see a difference. Thank you for visiting.",
+          "date": "2023-05-09T04:45:26Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ashley P.",
+        "user_id": "86q8TQ8Th1Jydh9W5M5uag",
+        "link": "https://www.yelp.com/user_details?userid=86q8TQ8Th1Jydh9W5M5uag",
+        "address": "Fort Worth, TX",
+        "friends": 1,
+        "photos": 1,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "Those smothered pork chops... And the wings... Then the shrimp and grits... \n\nIt's been a week and I'm still dreaming of those grits.",
+        "language": "en"
+      },
+      "date": "2023-08-10T13:57:12Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1UCK73tnYC0qeKEDR5K71w/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kofi G.",
+        "user_id": "0SUReva_6-jluT2MEgNuMg",
+        "link": "https://www.yelp.com/user_details?userid=0SUReva_6-jluT2MEgNuMg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/IT5XBg78pJQOmEJGz0vM5g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 1,
+        "photos": 15,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "Slammin Sammen\nCame here for dinner. Thought it would be quiet but they play good music (loud but you don't have to scream). The food was phenomenal! Some of the best macaroni and cheese I've ever had. So well seasoned and cheesy! My salmon was good, the sauce was good and plenty of wages. Their grits were A-1. The only negative was they'd run out of all shrimp and most of the appetizers. Server failed to tell us one of the dishes we ordered had meat and pork even though we led by telling her we were pescatarian. They have free parking in midtown! Good vibe, kind people, and really good food.",
+        "language": "en"
+      },
+      "date": "2023-01-16T04:03:43Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_EoVvaN0q1sbiDy5ND5ytA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4yk4oYVgu9g4vLx-IQ6mJw/o.jpg",
+          "caption": "Mac n cheese"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fm9bKFI3SVAwUiHip_vMLw/o.jpg",
+          "caption": "Salmenn biscuit"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Kofi, sorry about that mix up, but thanks for letting us know. We utilize feedback for training to improve our service and customer experience, so your next visit will be even better.",
+          "date": "2023-01-17T02:06:35Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Brinton F.",
+        "user_id": "CEt0_T8esUCiH7o7jHlYlA",
+        "link": "https://www.yelp.com/user_details?userid=CEt0_T8esUCiH7o7jHlYlA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-BJrZrxFmDVDdGDGOhbGog/180s.jpg",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 773,
+        "photos": 1,
+        "reviews": 40
+      },
+      "comment": {
+        "text": "Lawd hammercy - **WARNING** do not frequent this restaurant if you don't have time to lay it down and take a nap after! The drinks are strong and the food is a-maz-ing!\n\nThis is for sure my go-to comfort food spot whenever I'm in Atlanta. Trust me when I say get the Slammin Sammin and wings. You will be good to go! The rice is fire as well.\n\nHappy eating!",
+        "language": "en"
+      },
+      "date": "2023-08-08T03:17:30Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Essence S.",
+        "user_id": "2CGzBX535GPr-Ur-8u8B0w",
+        "link": "https://www.yelp.com/user_details?userid=2CGzBX535GPr-Ur-8u8B0w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AGQu50MZ0BGOkiaNCAE0iw/180s.jpg",
+        "address": "Tuscaloosa, AL",
+        "friends": 1,
+        "photos": 1,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "First time visitors. My husband and I visited Virgil's on a Saturday night, we arrived at 7:30p, we made reservations so there was no wait be. We were seated upstairs, the hostess informed us that if our meal is over $100 we would automatically be charged 21% gratuity. I felt good about the place because I loved the hip vibe and trendy decor. R&B music was playing in the background. The place was small, they were busy but not overcrowded. Here's where everything went left. We first ordered 2 cocktails and 2 appetizers, after 45min went by and nothing on the table, we flagged down the waiter with him saying the bartender never got the order, so we had to wait another 10min for 2 cocktails. Our entrees arrived an hr and half later. I got shrimp and grits my husband got fish and fries. The food was good but definitely not worth the 2 hr wait. Our ticket was under $100 and We were charged the 21% anyway. I informed the waiter and he made corrections. If you're okay with extremely slow service then I would visit.",
+        "language": "en"
+      },
+      "date": "2024-02-07T03:46:02Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Cory H.",
+        "user_id": "1k9GkraoNjGSCCCkTmA8Bg",
+        "link": "https://www.yelp.com/user_details?userid=1k9GkraoNjGSCCCkTmA8Bg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/79fbpQKtq3RfWAO-NTWttw/180s.jpg",
+        "address": "Dallas, TX",
+        "friends": 118,
+        "photos": 1280,
+        "reviews": 232,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Had a great brunch experience and tried many items. Atlanta definitely has a lot of great food options. The service was good and the vibe was nice with R&b music playing. Everything we ordered came out quickly and was hot and delicious. This is a Gullah restaurant and they have some good seasoned and flavorful dishes. The seafood with grits was amazing. It included fried shrimp and oysters with grits served with crabmeat on top. I sat at the bar and the bartender made me some of her signature drinks, including a mimosa with tequilla. She was very nice and even made recommendations to me on her favorite eateries in Atlanta.  Definitely look forward to stopping back by next time I am in the area.",
+        "language": "en"
+      },
+      "date": "2022-10-23T17:03:09Z",
+      "rating": 5,
+      "tags": [
+        "7 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/O2cMEasPxA0jtE0THbLP3g/o.jpg",
+          "caption": "Seafood bowl, grits, shrimp, oysters, and crab."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GYYCJv7KefFdzZ3uxP01SQ/o.jpg",
+          "caption": "Seafood bowl, grits, shrimp, oysters, and crab."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LYOH7__091RpUnGivmniAg/o.jpg",
+          "caption": "Seafood bowl, grits, shrimp, oysters, and crab. A wing and hash"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OUnZpia24R26SJ3B0qrO6A/o.jpg",
+          "caption": "A wing"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w5tiXce18TQ9ruNd79qcmQ/o.jpg",
+          "caption": "Gullah Hash"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4Y2uOVU1GfVosY7-o6xydw/o.jpg",
+          "caption": "Gullah Hash"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pa4MInUidOwp9rviH6uD2A/o.jpg",
+          "caption": "Whiting fish"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/HUtZKS_LdK5cmpPk0yd-8A/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the review!  That holds a lot of weight coming from a yelper!  Please tell all of your friends! :-)",
+          "date": "2022-10-24T19:05:32Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Courtnie D.",
+        "user_id": "UHST1t9JXqulDyFsfxEagg",
+        "link": "https://www.yelp.com/user_details?userid=UHST1t9JXqulDyFsfxEagg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Tried this place for the first time today.  When I 1st walked in me and 2 others stood at the door waiting to be acknowledged by anyone so we could get seated. NO one never said anything nor did we get just a finger up showing hey please give us a second. And yes they seen us standing there it's not huge  and no it wasn't jammed packed at all! So one of the waiting guests sat herself and the other goes over to the bar and ask the lady hey should we keep waiting . She then sarcastically say yes give me a second. He came back like wow we're only trying to follow their rules. Ok so another lady finally comes downstairs and ask where would we like to sit..she wasn't apologetic at all! As I was seated she tells me we are out of greens, egg rolls, and some type of soup!! Immediately I'm disappointed because I came for the AFTA church plate that includes greens. SMH!  however, I'm then given a list of things that you can't do as far as substitute. I said ok so if I'm planning to order something that includes something you are out of then I can't get another side??? WOW. This lady charged me for every item separately because they were out of a sides (greens) that's on their menu! It was only a few bucks higher but that's NOT the problem it's the principle of the matter!I say all this to say my people must do better. I could have chosen several other locations to go eat dinner but decided to try them and I'm VERY DISAPPOINTED.  VERY. SMH \nOh.. And I forgot to mention in my google review I tried the cabbage and green beans as a replacement and BOTH WAS NOT GOOD AT ALL.",
+        "language": "en"
+      },
+      "date": "2024-02-19T02:47:46Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Valerie M.",
+        "user_id": "gUYenL4nt1Xdc-4GTfqvxg",
+        "link": "https://www.yelp.com/user_details?userid=gUYenL4nt1Xdc-4GTfqvxg",
+        "address": "San Francisco, CA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "I ordered online and my order wasn't correct, no apology was given. I drove from Covington to Conyers and had to drive back again because the Conyers location doesn't have a phone # \nThe food was cold and the presentation of the food was sloppy. \nI love to support black owned business and I'm so disappointed. \n\nValerie",
+        "language": "en"
+      },
+      "date": "2023-10-01T23:32:24Z",
+      "rating": 1,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Kn1mGxP19ijYBbLVNBcJ0A/o.jpg",
+          "caption": "All of the okra was stuck together \r The pork chops are fried hard and dry and the eggs are dry. They didn't complete my order correctly."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/e5UWCPnHf6HY6gNMMWF87Q/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hey Valerie, I will share this with the Conyers location \nI will like to apologize For Virgils that this happen and we aims to do better",
+          "date": "2023-10-19T21:31:07Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Mercida H.",
+        "user_id": "yeviKZ0BqE30__Ma0o9cXg",
+        "link": "https://www.yelp.com/user_details?userid=yeviKZ0BqE30__Ma0o9cXg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/f9R8uVjfW0zHk7t9hccFHA/180s.jpg",
+        "address": "Eastland, Charlotte, NC",
+        "friends": 28,
+        "photos": 60,
+        "reviews": 25
+      },
+      "comment": {
+        "text": "The best experience for my birthday! Atmosphere is chill, music is right and food is delicious. My husband had the Aftah Chuch Dinner and I had the Slammen Sammen!!! I've never had crab gravy over rice but it is a must have. The cornbread muffins are melt in your mouth delicious. Our waiter Chase was amazing and so handsome! All the waiters and waitresses were so good looking. Maybe they planned it that way cause it show worked for me!",
+        "language": "en"
+      },
+      "date": "2023-06-11T18:46:36Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WreBmFFb6cNPbZPFpNybkQ/o.jpg",
+          "caption": "Melt in your mouth corn bread muffins. My husband said better than mine!! Agree!!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vkgk58HSK9lRq55V9yj0AA/o.jpg",
+          "caption": "I forgot the name of this baby here but you must try."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GI99RB4no2VVDf7Urcw7zQ/o.jpg",
+          "caption": "Slammen Sammen with corn and crab gravy over rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GD1eiYHkvXz9p9mQ0tkYaA/o.jpg",
+          "caption": "Aftuah Chuch is what would definitely eat every Sunday."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chinika M.",
+        "user_id": "1zQXW62lzY5DSDCtR1Hnwg",
+        "link": "https://www.yelp.com/user_details?userid=1zQXW62lzY5DSDCtR1Hnwg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rWgl-8wi3v_EW9tYrGZFtw/180s.jpg",
+        "address": "Smyrna, GA",
+        "friends": 141,
+        "photos": 263,
+        "reviews": 170,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I decided to have my birthday brunch with some of my faves at Virgil's West Midtown.  While the food was delicious and, barring any issues, would warrant them five stars but everything else dropped them to a generous three. \n\nUsing Open Table, I was able to book a reservation for 8. A rep from the restaurant messaged me twice to confirm the appt and notify me of the 15-minute grace period, 20% gratuity for parties over six, and the need for 80% of the party to be present to be seated. Ok, cool, pretty standard stuff. \n\n\nOn the day, we all arrived on time, minus one who accidentally went to the College Park location. No problem, my 80% was there. After a short wait, we were seated upstairs when the host told us we had a 1.5-hour limit from when we sat and not when we received our order. Excuse me?  That would have been reasonable if our server wasn't doing double duty as bartender and arrived to greet us and begin taking orders 15 minutes after we sat. I don't fault her because she was incredibly stretched thin. After asking for water four times, the table finally received some 45 minutes into our visit. After eating and waiting for our checks, our server delivered them some time later. Despite extending grace about the packed restaurant with a server who couldn't be attentive, the host told us we were over our time limit. Sir, we just got the check.  I get they have to turn over tables but telling us we were over our time limit when the timeliness issue is with the restaurant.",
+        "language": "en"
+      },
+      "date": "2023-05-25T03:01:10Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Chinika,\nThank you for bringing this to my attention, and I apologize for the frustration you experienced while visiting. Please be patient with us as we work these issues out. We have to balance long waits for walkins, open opening reservations and managing table limits. I'll be sure to pass it along to managers that it's important to make sure service is fast and accurate if we're enforcing table limits. I hope you'll decide to give us another chance in the near future. Thank you for dining at Virgils.",
+          "date": "2023-05-29T22:19:52Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Charis W.",
+        "user_id": "rB2XG5VZTLkDcnv5RsWFgw",
+        "link": "https://www.yelp.com/user_details?userid=rB2XG5VZTLkDcnv5RsWFgw",
+        "address": "TN, TN",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "everyone needs to know about this place honestly. the food was a 10/10, appetizer, drinks, entrees. everything was FIRE!!! and jaylen, our server, was amazinggggg. such a cool vibe in this restaurant too it was so awesome, played great music all night, just love the overall environment in here so much!",
+        "language": "en"
+      },
+      "date": "2024-03-15T01:11:51Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gee S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/LU_Wkg65mxiVhbDyTKYnIw/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "We are delighted that you had such a fantastic experience at our restaurant, Charis! Your kind words about the food, service, and atmosphere mean a lot to us. We look forward to welcoming you back soon for another memorable dining experience with us.",
+          "date": "2024-03-16T14:46:34Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jessica S.",
+        "user_id": "BZGRzEqhNDB1dfWrmTFLgQ",
+        "link": "https://www.yelp.com/user_details?userid=BZGRzEqhNDB1dfWrmTFLgQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LZrOdj03Zcl_ywC1U1z7NQ/180s.jpg",
+        "address": "Oakland, CA",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "Friendly wait staff, delicious food and drinks. Great music playing, cute restaurant!",
+        "language": "en"
+      },
+      "date": "2023-06-27T18:03:02Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YfZfC2MEkce-UQ9zzUOlvQ/o.jpg",
+          "caption": "Slamming Sammen, skrimps and grits with crab meat"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thanks for visiting.",
+          "date": "2023-07-10T21:11:42Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Wes C.",
+        "user_id": "6VpopK8qGgTHGAJ6OkY-Yg",
+        "link": "https://www.yelp.com/user_details?userid=6VpopK8qGgTHGAJ6OkY-Yg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-zcLDl25394kcFmfYy_pLw/180s.jpg",
+        "address": "Columbia, SC",
+        "friends": 0,
+        "photos": 2,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "Excellent service, food,and atmosphere. The bread pudding is BOOMIN! William provided great service.",
+        "language": "en"
+      },
+      "date": "2023-11-11T02:46:11Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Brionna H.",
+        "user_id": "QznyFRObwqJqJkqIXmLREw",
+        "link": "https://www.yelp.com/user_details?userid=QznyFRObwqJqJkqIXmLREw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sKHR6pNCNhtRLndEhHEDeA/180s.jpg",
+        "address": "Hollywood, FL",
+        "friends": 0,
+        "photos": 7,
+        "reviews": 6
+      },
+      "comment": {
+        "text": "This spot in Atlanta right here was amazing. Our waiter was amazing and we went here twice during our time in Atlanta. We had the same waiter both time, and on our second visit he remembered what we drank and our food selection mind you it was four of us. The food was amazing especially those fried okra.... I think our waiter  name was Arnold. If you are ever in Atlanta please visit this restaurant and ask for Arnold tell him 305 ladies sent you..",
+        "language": "en"
+      },
+      "date": "2023-08-22T22:30:01Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Hseafw-tlbTqziefcY0LVQ/o.jpg",
+          "caption": "Outside of the restaurant"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jUPjDNpM_UVHXIL87_jgqw/o.jpg",
+          "caption": "Pork chops,"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Gaby B.",
+        "user_id": "d-yE8qSjlewE5yc39ClQnQ",
+        "link": "https://www.yelp.com/user_details?userid=d-yE8qSjlewE5yc39ClQnQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FGfrpfNYVY1YQAzAQj8Hpg/180s.jpg",
+        "address": "Snellville, GA",
+        "friends": 77,
+        "photos": 227,
+        "reviews": 60,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This place was such a treat! I'm really thankful my bestie decided to have our monthly GNO here. We came on a Thursday night. \n\nOur waiter was amazing. Truly friendly, anknowledgeable, and hospitable. (I will be returning soon just to take pics of food and drinks and to order items we didn't order this night ) \n\nWe ordered shareable and individual plates. Everything was tasty  and we found the drinks to be reasonably boozy and complimentary to the dishes. \n\nThe chef came by our table by complete happenstance just to check up on us, too. That's what I call world-class attention to detail. This island gal appreciates it.",
+        "language": "en"
+      },
+      "date": "2022-10-10T17:39:16Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/HUtZKS_LdK5cmpPk0yd-8A/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the great review!  Means a lot coming from an Elite!  Hope to see you again soon Gaby!",
+          "date": "2022-10-17T21:39:48Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Tymane P.",
+        "user_id": "kCNmrfKJx_vRQukazstiYg",
+        "link": "https://www.yelp.com/user_details?userid=kCNmrfKJx_vRQukazstiYg",
+        "address": "Perimeter Center, Dunwoody, GA",
+        "friends": 34,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Love the food the service is great and it's a nice ambience. I enjoy coming here for brunch with friends and karaoke is fun!",
+        "language": "en"
+      },
+      "date": "2024-01-28T23:29:07Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Carmelita T.",
+        "user_id": "QUPs6SkwKoL9xwFpBihjlw",
+        "link": "https://www.yelp.com/user_details?userid=QUPs6SkwKoL9xwFpBihjlw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/e1jYhcWR0qwnmeIF6BMX3Q/180s.jpg",
+        "address": "Winston-Salem, NC",
+        "friends": 7,
+        "photos": 386,
+        "reviews": 85,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Great ambiance, service, and good food. Definitely a spot for a date night or girls night out. They have indoor and outdoor seating with a rooftop patio seating. It's a whole vibe! If you go please ask for Xander!",
+        "language": "en"
+      },
+      "date": "2022-09-30T01:14:01Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M0_wej1UDtc4cb7zOApRDg/o.jpg",
+          "caption": "Cornbread muffin's"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cGhI_8vwTHAPXDx5LKXQIw/o.jpg",
+          "caption": "Blackened Salmon jasmine rice"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kcS6c-hREm6epgA43iZTQQ/o.jpg",
+          "caption": "Bread Pudding"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZPbY47H6IlcpB7g02FDNDg/o.jpg",
+          "caption": "Fried Green tomatoes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/I8Idc0QHRFoM22UxpYQ4fQ/o.jpg",
+          "caption": "Shrimp & crabmeat pasta salad"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_B1bZssFzLH9-MdMgMHZ1Q/o.jpg",
+          "caption": "Chicken wings macaroni & cheese and greens"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ix2DBZhI_PMMErPuwajVrA/o.jpg",
+          "caption": "Salmon Balls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eQAgfWdaR49O9OSRcC-d9g/o.jpg",
+          "caption": "Pork chops and collard greens"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vgJxHDk97Qjk7s19hkN_Sg/o.jpg",
+          "caption": "Cheesecake"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RZZEBXHgEwb7mBGtA-FDdQ/o.jpg",
+          "caption": "Shrimp w honey"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/HUtZKS_LdK5cmpPk0yd-8A/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you so much for the review!  Hope to see you back!",
+          "date": "2022-10-05T13:10:30Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Simply H.",
+        "user_id": "E9ESF1_kCuTM3iKzKrchxQ",
+        "link": "https://www.yelp.com/user_details?userid=E9ESF1_kCuTM3iKzKrchxQ",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "On Thanksgiving afternoon, I placed and online order and the restaurant charged me for my online order totaling $46.74 . I showed up shortly thereafter to pickup my dinner and the restaurant was closed for the holiday. The next day I went to the restaurant to have the lunch that I had already paid for. The waitress appeared annoyed, and got the manager. The manager appeared unbothered, but suggested a refund. Minutes later he reappeared with a receipt showing I was refunded $38.01. Apparently, he had unilaterally decided to keep the tip although I was not serviced and hadn't given approval for a partial refund.\n\nThis is unacceptable.",
+        "language": "en"
+      },
+      "date": "2023-11-24T16:29:45Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Joseph P.",
+        "user_id": "MW5puJsREiAfnjmLvyWCIg",
+        "link": "https://www.yelp.com/user_details?userid=MW5puJsREiAfnjmLvyWCIg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qCsdAFqn-g8JLVSwgOxw2Q/180s.jpg",
+        "address": "Alexandria, VA",
+        "friends": 4,
+        "photos": 8,
+        "reviews": 22
+      },
+      "comment": {
+        "text": "I ate here over the weekend. I was happy that there is parking available (paid). It's not always easy to find parking in Midtown.  I was greeted when I walked in, and they shared with me about the different ambiance upstairs vs downstairs. I was alone, so I ate upstairs at the bar. The music was fantastic, and I ordered the Afta Church Plate, which consists of Mac & Cheese, Fried Chicken Wings, and Collards. The food was delicious and so was the sweet tea. All of the staff were very friendly and welcoming. I'll definitely return. I also ran into the  owner later that day and made sure to compliment him on the business. I love to see it!",
+        "language": "en"
+      },
+      "date": "2023-06-12T15:53:30Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/j5V2EDTu-7TL6DdoFhldng/o.jpg",
+          "caption": "Afta Church Plate (Mac & cheese, chicken, collards w/ sweet tea)."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tena L.",
+        "user_id": "K1cUyIaBJT_7bPFXgX42Zw",
+        "link": "https://www.yelp.com/user_details?userid=K1cUyIaBJT_7bPFXgX42Zw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nLX2bBpYcJHQ_8gU8_oW5A/180s.jpg",
+        "address": "West Palm Beach, FL",
+        "friends": 48,
+        "photos": 87,
+        "reviews": 75
+      },
+      "comment": {
+        "text": "Caveat: My ancestors are from the Sea Islands of South Carolina. \n\nNot sure how authentic this Gullah\nKitchen is...we tried it last night since we're in town and I'm for sure an Atlanta (ATL) foodie .  Didn't get a chance to chat with a manager or owner. Vibe is very ATL - especially for Labor Day weekend. \n\nOk so the food - it was tasty. Waitress said they were out of red rice, a signature Gullah staple, but my daughter's plate arrived with red rice!  Good news, the red rice was very good! \n\nThey were out of Corona too - Thursday night ?!  WTH!\n\nTried my fav childhood seafood, Deviled Crabs - not bad but they're not usually deep fried. \n\nCrab rice was mushy. Couldn't see grains or crab. The fried green tomatoes were bland with little sauce to bring this alive.  \n\nMy BFF had their salmon and rice; jasmin rice had hard or uncooked grains tucked under the fish. Salmon was the best meal at the table. \n\nSo we were wondering why our waitress wasn't in a hurry for anyone or anything. Come to find out, a gratuity is added to every check  - even parties of 3!?!  Apparently it's an ATL thang to do that. We paid $36 for slow service - with a smile. \n\nWith so many, delicious, unique, places to eat in ATL, to repeat, it has to be outstanding.  Virgil's was not.",
+        "language": "en"
+      },
+      "date": "2022-09-02T20:46:04Z",
+      "rating": 3,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-V_Z7BpS_5eUNEZcsj76wA/o.jpg",
+          "caption": "Virgil's Gullah Kitchen!"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Wendy S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/bvYxQlWF6uE28S_TrhsEtA/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Tena, thank you for your feedback. Glad you enjoyed the vibe. I'm sorry you didn't get to speak with a manage. Please email us at contact@virgilsgullahkitchen.com. We want to make this right.",
+          "date": "2022-09-06T17:02:17Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Airiel J.",
+        "user_id": "uJjiZtomAcVoBauINoRvzg",
+        "link": "https://www.yelp.com/user_details?userid=uJjiZtomAcVoBauINoRvzg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/n4JioEM1w0uszLedvGItpA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 148,
+        "photos": 446,
+        "reviews": 220,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Naw, this ain't it for me. Mac and cheese and skeeta beach drink was the only thing I liked.  Even on those I think they can do better on the price. $10 Mac about the same size of a CFA order of Mac. Nope nope nope!",
+        "language": "en"
+      },
+      "date": "2022-08-28T23:36:13Z",
+      "rating": 2,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hK-VUkNIFydh0BhCAvJ6Dw/o.jpg",
+          "caption": "Bar seats view"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 2
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Wendy S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/bvYxQlWF6uE28S_TrhsEtA/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Thank you for your feedback; we'd love for you to reconsider visiting us again. Please email us at contact@virgilsgullahkitchen.com",
+          "date": "2022-09-06T16:56:21Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ricki R.",
+        "user_id": "NU-Qj1ZnWzJgAonVHlOHuQ",
+        "link": "https://www.yelp.com/user_details?userid=NU-Qj1ZnWzJgAonVHlOHuQ",
+        "address": "Sweet Auburn, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "The bartender Jasmine was awesome and I also had the pleasure of meeting the manager Latessa and I could not have asked for a better experience! I have been to a lot of restaurants in Atlanta but I have to say this was by far one of my best. Thank you to those lovely ladies for making my day. I will definitely be back.",
+        "language": "en"
+      },
+      "date": "2024-02-01T00:18:22Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kay A.",
+        "user_id": "qNYZx-u5qaMxXQlk2N1k_A",
+        "link": "https://www.yelp.com/user_details?userid=qNYZx-u5qaMxXQlk2N1k_A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/aTIHzEvwgMrX8NEI8wglmg/180s.jpg",
+        "address": "Tacoma, WA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "We enjoyed our food entrées and drinks!  The host and our waiter were very professional and friendly. It was impressive to to see how all of the wait staff worked so hard to accommodate their customers.\nWe were on vacation in Atlanta this week, and we agreed that we would return to Virgil's restaurant on our next visit.",
+        "language": "en"
+      },
+      "date": "2023-06-04T04:22:38Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shmorrow L.",
+        "user_id": "WKyUT95RyTnGOolOQhmISQ",
+        "link": "https://www.yelp.com/user_details?userid=WKyUT95RyTnGOolOQhmISQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Q2yZtMqjuNB3hDftbTzMDg/180s.jpg",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 5,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "The food was so delicious and came in good time! The decor and ambiance was a vibe and the customer service was great! I definitely recommend and give 5 stars! The DJ was playing great music!",
+        "language": "en"
+      },
+      "date": "2023-07-06T19:12:45Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/s6LlmYgsdkDeL5ixNq6cCA/o.jpg",
+          "caption": "After church plate"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for visiting.",
+          "date": "2023-07-10T21:03:47Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ria R.",
+        "user_id": "EmBTDDGoR1HwESx0YE7G1g",
+        "link": "https://www.yelp.com/user_details?userid=EmBTDDGoR1HwESx0YE7G1g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RnS_oFd67fcYEWwXEcB4Nw/180s.jpg",
+        "address": "Upper Marlboro, MD",
+        "friends": 36,
+        "photos": 1218,
+        "reviews": 88
+      },
+      "comment": {
+        "text": "Virgil's is one of my favs. As soon as I land, I usually hit up the location in College Park. Tried the Midtown location for the first time today. Beautiful deck/patio but the noise level makes it slightly hard to converse. \n\nMy food was okay. Usually, when I indulge in unhealthy food, I can deal with it better when it's tasty. The food was just slightly below okay. The servers were more into the music than the guest. \n\nMy server, Dior, as great. Thank God for him because I believe that I was forgotten. Took a minute for a server to come over. \n\nFood was Meh. Drinks were Meh. Still a Virgil's fan but feel like I need to leave here and go get something satisfying. \n\nAnd there's this sewage stench the blows by on the lower patio. Made we want to throw up  (not sure if it had anything to do with sitting right above the grease trap but man....what a way to ruin my appetite). Someone in a red shirt came by and asked me to leave a review and asked if everything was ok. Honestly, I didn't feel comfortable saying, \"no, I'm unhappy...had a long business day and my food and the smell is trash.\" People are defensive, didn't feel like the fight or argument and just chalked it up as a loss. \n\nThey started covering the seats when I was still sitting there finishing my drink .... It was like a 'please leave' action \n\nMaybe there will be a next time. If not, I still pray this business continues to thrive. Nice to see how they've expanded. Much success",
+        "language": "en"
+      },
+      "date": "2022-08-26T02:10:28Z",
+      "rating": 3,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vEM6CgxNI_AVnnczNIALyg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YPlWJRQMvC98f3SMafxCQw/o.jpg",
+          "caption": "Too tangy, thick and tart"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eANJ9QdguTsJ5foJZGXhgA/o.jpg",
+          "caption": "Very small....something was off"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w4bgw5tMJ47SywnMDxUCSg/o.jpg",
+          "caption": "Okra gumbo...came out luke warm with not much okra"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Hsi2pSu4Dl1YTeRJL9KaVQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CXYaMFTp95ORon7kvCQADw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Wendy S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/bvYxQlWF6uE28S_TrhsEtA/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Ria, thank you so much for your feedback. I'm so sorry for your experience. Please email us at contact@virgilsgullahkitchen.com we want to make things right.",
+          "date": "2022-09-06T16:54:21Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Alvin M.",
+        "user_id": "O6yblqk4vZfL1uHtOoGNxQ",
+        "link": "https://www.yelp.com/user_details?userid=O6yblqk4vZfL1uHtOoGNxQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CVWHEZ-yxARZGrdb-G6KNg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 92,
+        "photos": 61,
+        "reviews": 34
+      },
+      "comment": {
+        "text": "Great atmosphere, great food, great service First time visiting, will definitely be back, Ordered the muffins, fried green tomatoes, wings, green and Mac & Cheese. Everything was on point",
+        "language": "en"
+      },
+      "date": "2023-04-30T12:01:21Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Bxn_Qqqr9Y-_flnYQC4clw/o.jpg",
+          "caption": "Sweet potato muffins"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wrc0m8fG8fAtrFW04TRkNg/o.jpg",
+          "caption": "Wings and grits"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kkiSlzgtbPEF5fLVxnAAQA/o.jpg",
+          "caption": "Afta church plate"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8j2fKZj52iW56ReBwHYjjg/o.jpg",
+          "caption": "Fried green tomatoes"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Alvin - we're happy to know you had a great time at Virgil's. Looking forward to seeing you again.",
+          "date": "2023-05-09T04:46:52Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ashley D.",
+        "user_id": "4Ln4EKbPbH79XuT-Hf01Dg",
+        "link": "https://www.yelp.com/user_details?userid=4Ln4EKbPbH79XuT-Hf01Dg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Vj3Gh0Aw48a3ZoQ5Uo7bTQ/180s.jpg",
+        "address": "Pittsburgh, PA",
+        "friends": 1,
+        "photos": 8,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "I cannot say enough great things about Virgil's! You NEED to get the corn muffins when you go, they are the best corn muffins I've ever had. The Afta church plate did not disappoint either! Everything was so flavorful and delicious, will definitely be back the next time in in ATL!",
+        "language": "en"
+      },
+      "date": "2023-05-20T16:18:26Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WS7LXnmlGiuWWF_17_uAgw/o.jpg",
+          "caption": "Bussin' cornmuffins"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w9Yj2mHeWhOUenVLTox0yw/o.jpg",
+          "caption": "Bussin' cornmuffins & fried okra"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ano6phPzcvlKCGJFR9oTpw/o.jpg",
+          "caption": "afta church plate"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you, Ashley. The Bussin' Corn Muffins are a crowd favorite! We certainly hope to see you again.",
+          "date": "2023-05-29T22:02:08Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Ajah G.",
+        "user_id": "D_4GnMpIsKnmOY6x9jZU8g",
+        "link": "https://www.yelp.com/user_details?userid=D_4GnMpIsKnmOY6x9jZU8g",
+        "address": "Pensacola, FL",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "The food was amazing & fairly priced. The service was just as good if not better. The ambiance is chill nothing too extra. Our food and drinks came super fast and our server/bartender Will was very attentive and friendly . I definitely recommend this place , & will be back again !",
+        "language": "en"
+      },
+      "date": "2023-11-12T01:14:18Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Qsqgd9qhQCrGha6XMFzSDQ/o.jpg",
+          "caption": "Afta' Chruch Plate & Muffins"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Dymond H.",
+        "user_id": "KbHEOu25xnf9lKfb4C-wpQ",
+        "link": "https://www.yelp.com/user_details?userid=KbHEOu25xnf9lKfb4C-wpQ",
+        "address": "Buffalo, NY",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Passed by Virgil's on my way to another restaurant and decided to stop in. I sat at the bar as a party of one. \nTo start off with the pros: My bartender was attentive. He took my order quickly, suggested drinks, gave recommendations. I ended up getting the crab rice, 4 wings, and a Deleon reposado drink. My food came out within 15 minutes max, and it was pretty good. \n\nNow for the cons: Although it was good, the crab rice was a small portion. I ordered the wings just in case. They were regular fried whole wings drizzled with their special sauce. The size of them reminded me of American deli. Really small for $13.00. \n\nSo after 2 appetizers and a drink, my bill ended up being 45.00 USD (not including parking). For the life of me, I genuinely don't understand the price point. 18.00 US DOLLARS for a Deleon drink? Nothing special about it, no garnishes, no show, just Deleon and pineapple lol. \n\nWhat started out as a quick lunch turned into a pricey meal and I was still hungry after. My experience here wasn't horrible, but definitely not good enough for the price they charge. It's been a few hours since I left, and it really left a sour taste in my mouth. Idk if it's the new Atlanta scene, but it's really disappointing.",
+        "language": "en"
+      },
+      "date": "2023-11-11T01:03:23Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kristopher W.",
+        "user_id": "vgo7fiCV1ppes5x8hQ9GrQ",
+        "link": "https://www.yelp.com/user_details?userid=vgo7fiCV1ppes5x8hQ9GrQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RYSAAoTEpWG14Che3kSySQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 58,
+        "photos": 683,
+        "reviews": 183,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I checked out the new Virgil's location Saturday after the Atlanta United game. When we arrived around 6pm it was not too crowded and were seated promptly. We ordered appetizers and the yella boi drink. The drink was good and strong! The chicken and egg rolls were really good. I really liked that this location is larger than the one in college park. It has seating upstairs and downstairs. They ambiance was really nice. They had some good r&b and soul music playing. It did start to get busy around 7:30pm with more of a crowd showing up. I will come back to this location and try more items off the menu. Glad to have this location since it's closer to me!",
+        "language": "en"
+      },
+      "date": "2022-08-08T14:09:23Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Uwad55DzMRQspNc2odm2aw/o.jpg",
+          "caption": "Chicken wings & Egg Rolls"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aqY47_Tb3ACRGkS8qyNkDg/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D2M8l6rcWoD7BncensI1qw/o.jpg",
+          "caption": "Yella Boi"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Aliyah C.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/6lrptte__ePDjAsza3IGyQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Kristopher, thank you for sharing your feedback. We are thrilled to learn that you enjoyed your experience. We hope to see you again soon!",
+          "date": "2022-08-10T22:10:24Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Brittney M.",
+        "user_id": "kMTAf7iZT8aCQS18kcrIiw",
+        "link": "https://www.yelp.com/user_details?userid=kMTAf7iZT8aCQS18kcrIiw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/84CroWo_MjNxYFuwRLyMPA/180s.jpg",
+        "address": "Nashville, TN",
+        "friends": 113,
+        "photos": 9,
+        "reviews": 32
+      },
+      "comment": {
+        "text": "I have eaten so many great places in ATL- it's one of my favorite food cities. I was honestly still blown away with this place it was DELICIOUS. I will acknowledge the other reviews that say the food does take a while to come out BUT it was worth the wait in my opinion and the staff was incredibly friendly. I will come back here every time i visit ATL. The vibes are immaculate and it's such a fun place. I will say though- it is a little loud so don't come here for conversation lmao but 10/10 loved it",
+        "language": "en"
+      },
+      "date": "2023-05-07T15:00:55Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zTtGm4gdR-7OPUFJCCLnww/o.jpg",
+          "caption": "Fried pork chops"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Brittney, thank you for the review. I'm glad you enjoyed your visit. I hope we get to serve you again.",
+          "date": "2023-05-09T04:36:53Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kia S.",
+        "user_id": "cwM2jCwNO2lyC7qWkYqyeQ",
+        "link": "https://www.yelp.com/user_details?userid=cwM2jCwNO2lyC7qWkYqyeQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zzpLQkFvbt8sALpMWEIKow/180s.jpg",
+        "address": "Snellville, GA",
+        "friends": 1,
+        "photos": 1,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "Came back for my 4th visit and the food didn't disappoint. We had one issue but our waiter Vinchi went over and above and resolved our issue. His service and knowledge of the food options made my order choice great. Thank you again and I'll be back for my fifth visit soon. Take care and thanks again!",
+        "language": "en"
+      },
+      "date": "2023-11-04T18:54:35Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/HUtZKS_LdK5cmpPk0yd-8A/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you!",
+          "date": "2022-12-06T13:48:10Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Jennifer G.",
+        "user_id": "4OWV2Qr63cvMN_pIhcuXQQ",
+        "link": "https://www.yelp.com/user_details?userid=4OWV2Qr63cvMN_pIhcuXQQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ojjah3lGE3w6MD2xC7CeAA/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 3,
+        "photos": 6,
+        "reviews": 47
+      },
+      "comment": {
+        "text": "I have been wanting to Dine here for a while. The service, atmosphere and presentation were phenomenal. The food was good, not great. I had the salmon croquettes as my appetizer, Salmon, rice and corn as my entrée. It was a good experience overall,but I don't have to revisit.",
+        "language": "en"
+      },
+      "date": "2023-09-23T04:23:02Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Jennifer!!! I would like to express my sincerest apologies for the disappointing quality of food you experienced during your recent visit to our restaurant. We strive to provide each and every guest with exceptional dining experiences, and it deeply saddens us to hear that we fell short of our goal with your visit. Guest satisfaction is of utmost importance to us, and your feedback has not gone unnoticed. We take reviews like yours seriously and will be addressing this matter with our kitchen team to ensure that the quality of our food meets the high standards we set for ourselves. While we understand your decision not to revisit our restaurant based on this experience, we would be grateful for another opportunity to serve you and regain your trust. We value your patronage, and we genuinely want to provide you with the outstanding dining experience you deserve. If you would be willing to give us another chance, please do not hesitate to reach out to us directly, and we will make sure to prioritize your reservation and ensure a much-improved experience. Once again, please accept my deepest apologies for the disappointment you encountered. We appreciate your feedback and will use it to make the necessary improvements and adjustments to our operations. Thank you for bringing this matter to our attention, and we hope to have the opportunity to welcome you back and showcase the true quality and excellence we strive for. Warm regards Bentley GM",
+          "date": "2023-10-19T21:44:16Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Anna L.",
+        "user_id": "jnVoYPP0ENk1X7WDpZfc4w",
+        "link": "https://www.yelp.com/user_details?userid=jnVoYPP0ENk1X7WDpZfc4w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/u9a30yUHig7yqCkkpaOQFQ/180s.jpg",
+        "address": "Decatur, GA",
+        "friends": 1,
+        "photos": 60,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "Love love love!  The Corn muffins will make you question ya own mama! The chewie dessert......smh... wish I got an extra one. Trust me, you will NOT want to share. My Only regret was waiting so long to try them out!! Shout out to Cookie, bomb server, a whole vibe",
+        "language": "en"
+      },
+      "date": "2023-03-21T22:20:08Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5cXPhZmS7ADyhWKl1C1NHg/o.jpg",
+          "caption": "Fush basket"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ujpvu4hto5VI5vvaWas37Q/o.jpg",
+          "caption": "Bussin Corn muffins!!!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Angel F.",
+        "user_id": "d7R3sKFoxRpB2y9xHNfORA",
+        "link": "https://www.yelp.com/user_details?userid=d7R3sKFoxRpB2y9xHNfORA",
+        "address": "Glendale, AZ",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Thank you sooo much for the great hospitality nd service our waitress tarika was the best server I've ever experienced thank you!",
+        "language": "en"
+      },
+      "date": "2024-01-19T20:12:44Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi, glad you enjoyed the great hospitality that's what we strive for with every guest. I will let Tarika know you enjoyed your visit",
+          "date": "2024-01-22T11:59:29Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Nate T.",
+        "user_id": "C8mzhYVPGWy_9uKa0guzCQ",
+        "link": "https://www.yelp.com/user_details?userid=C8mzhYVPGWy_9uKa0guzCQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/IsfkLQsT9D9lf5OdOpOx8w/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 228,
+        "photos": 16,
+        "reviews": 42
+      },
+      "comment": {
+        "text": "Love this new Virgil's West Midtown location! It's 6 min from my house. That Geeche-henny-sumthin got me right I had two and shoulda stopped at one. Has two outdoor patios with great views of the city! Lots of space to move around and parking. It was a good crowd but I didn't have to worry about hours long waits. The service was great and everyone was so personable. They told me the building is a converted two story firehouse which is really cool. \n\nAs soon as I tasted the blackened salmon I went mhmm ...It was so good and I was full! It's not a lounge vibe yet like CP Virgil's but they had good 90s R&B soul playlist and it's much more like a traditional restaurant. This is going to be my go to spot for sure!",
+        "language": "en"
+      },
+      "date": "2022-07-15T04:00:10Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1Dzc5hQLJmnYMfz6Hr94Mw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QLoNQ7ml40Zn_Lk1d_7LwQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/c44ST9crkJISG3IjvmsO2w/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 1,
+        "cool": 4
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Aliyah C.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/6lrptte__ePDjAsza3IGyQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Nate, thank you for such an outstanding review. We are delighted to know that we exceeded your expectations. We look forward to you becoming a regular!",
+          "date": "2022-07-19T21:02:30Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Noelle M.",
+        "user_id": "9fv8HfCd_OH-Rgp2LZap7g",
+        "link": "https://www.yelp.com/user_details?userid=9fv8HfCd_OH-Rgp2LZap7g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TJHiYPlsXcnkFmv-1YSF5w/180s.jpg",
+        "address": "Collier Heights, Atlanta, GA",
+        "friends": 6,
+        "photos": 34,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Love this spot, the food is amazing and the vibes are on point. I ordered the salmon with jasmine rice and like a cream corn sauce it was amazing. It also has fried oyster and shrimp on top but I loved the combination of flavors. We also had drinks which were pretty good. Will be back",
+        "language": "en"
+      },
+      "date": "2023-04-23T23:01:33Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R2K6v6tsT0RHxfgKfqUrZQ/o.jpg",
+          "caption": "Margarita"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KrFbqjqUhxNvEP5Ek0JsXw/o.jpg",
+          "caption": "Margarita"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/c-DPvLJXtu27k8AyH_qoYA/o.jpg",
+          "caption": "Salmon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ah8lQJvPGqodqwtXTMbN_g/o.jpg",
+          "caption": "Fried green tomatoes"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2afFyATm1xn1p4zqtjQgzw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi Noelle. Thank you for letting us know you had a great meal and a good time. See you again someday.",
+          "date": "2023-05-09T04:48:12Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Darrin R.",
+        "user_id": "7qVkNo62om3OzYyziFCHEg",
+        "link": "https://www.yelp.com/user_details?userid=7qVkNo62om3OzYyziFCHEg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/s4ZujISGIOqFkOtcDrlMAQ/180s.jpg",
+        "address": "Lithonia, GA",
+        "friends": 18,
+        "photos": 1481,
+        "reviews": 171
+      },
+      "comment": {
+        "text": "Happy Hour with friend\nAs I approached, I noticed there was an open parking lot right next door. From what I understood, parking is free for the first 2 hours for restaurant patrons. I entered and waited for my friend to arrive. I found a few seats available at the bar. I sat there for a while until the bartender finally made an appearance. I asked about the happy hour menu, and she provided a sticky, dirty paper menu that looked a little worn. Then I noticed the bar itself was a little sticky. I reviewed the menu and asked about the happy hour beers. The bartender advised that no beers were available because the taps were not working. After a few minutes of conversation, I finally figured out that I could order a bottle of beer at regular price. I decided to order a Modello. Looking around, the place had a very nice ambiance and decor. From where I was sitting, I could look right into the kitchen. My friend arrived and also asked about the happy hour menu. He was told they had a specialty drink available, a Mango Martini. He ordered that while I was still working on my Modello. We found out the Mango Martini was made with Tequila, Vermouth, Sour Mix, and Mango Juice. That sounded like a strange mixture of stuff, and when it arrived, and he tasted it he said it was \"Disgusting\".  Also, while we were sitting at the bar, we kept getting a sour smell coming from somewhere behind the bar. We could not pinpoint what it was or where it was coming from. My friend went to the bathroom on the second floor, and when he returned, he advised that there was another bar up there. I finished my Modello, and he left his unfinished drink at the bar. We went upstairs, and the great decor continued. We approached the bar and asked about the happy hour menu. The bartender was a little confused, but eventually got everything clarified. He advised that the craft beer taps were working, and I could get the 16 oz for $2. My friend found out he could get the house vodka mixed with pineapple juice for $2. Win and Win! We enjoyed a few rounds and ordered some wings from the happy hour menu. Our bartender advised that they were whole chicken wings. We started small and ordered four. They arrived pretty quickly.  The wings were a good size and had a good crunch. We could tell they were very fresh, but they could have used a little more salt/seasoning. Overall, they were tasty and a perfect after-drinks appetizer. No guarantee you will have the same experience that we did, but upstairs saved the downstairs. It turned this review from a negative to a positive. We will be coming back for happy hour and go right to the second level.  They even have some outdoor and balcony seating to enjoy when the weather heats up.  Great happy hour deals (once they got it all worked out), good food,  great ambiance, super clean bathrooms in this Black Owned restaurant/bar.",
+        "language": "en"
+      },
+      "date": "2023-03-19T15:47:54Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dqCCfTABX0LNsHY3jCmx1A/o.jpg",
+          "caption": "Downstairs"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nXIxz4aaDTJo6QqLHYucdQ/o.jpg",
+          "caption": "Drink Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/U8A84CpGJQqlJhZIwPUy9A/o.jpg",
+          "caption": "Parking"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xqpSiDtErOLgU36NmN_dFA/o.jpg",
+          "caption": "Downstairs dining"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ci1q31Uyo0a5bPGfIb5qGw/o.jpg",
+          "caption": "Bar/Kitchen view"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PzW85wpTbpyBRYtYXSz5dw/o.jpg",
+          "caption": "Food Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ey1cm611Oj1nOwNZGhRCTQ/o.jpg",
+          "caption": "Upstairs Dining area"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9r5qOAnYs05Jlpu2-NnJ9w/o.jpg",
+          "caption": "Upstars Happy hour beer"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/raaPvVESdFxx0Fcs3xeJ6A/o.jpg",
+          "caption": "Bar area"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JtHAqZvfMMna-fh5V9aPWQ/o.jpg",
+          "caption": "Upstairs bar"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hi. Please see my response to your complaint on Google. Thank you for visiting Virgil's.",
+          "date": "2023-03-21T05:09:31Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Melissa O.",
+        "user_id": "xFzqzZP9LD_8SSSw0PPDgw",
+        "link": "https://www.yelp.com/user_details?userid=xFzqzZP9LD_8SSSw0PPDgw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_jFgC9AypVx-4x06egPyWw/180s.jpg",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 7,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "This place is terrible!! I ordered 3 different things on the menu and had to send of all it back!  No salt..no flavor and the fried fish was mushy.  When I asked to speak to the manager, she came out with an attitude and said, \"Well...this is how we cook here.  Either you like it or not!\"   I paid $60 for shit I had to throw away and could not eat",
+        "language": "en"
+      },
+      "date": "2023-10-25T00:25:03Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Melissa, I am truly sorry to hear about the terrible experience you had at our restaurant. Please accept my sincerest apologies for the unseasoned food and the poor attitude displayed by our manager when they came to your table. We deeply regret that we fell short of your expectations and provided such a disappointing dining experience. We strive to provide exceptional service and quality dishes, so it's disheartening to learn that we failed to meet these standards during your visit. Your feedback is invaluable to us, and we take it seriously as we continuously strive for improvement. We would greatly appreciate it if you could provide us with more details about your experience, such as the date and time of your visit, so that we can investigate the matter thoroughly and address the issues. Our goal is to rectify and learn from our mistakes to ensure that this does not happen again in the future. We would like to extend an invitation for you to return to our restaurant, as we genuinely want to make it up to you and provide you with the exceptional dining experience you deserve. Please feel free to contact us directly so that we can discuss how we can ensure your next visit with us exceeds your expectations. Once again, we apologize for the negative experience you had, and we hope for the opportunity to make things right. Thank you for bringing this to our attention, and we look forward to hearing from you Bentley GM",
+          "date": "2023-10-30T20:39:15Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Millicent P.",
+        "user_id": "-q1fMUJnREoErf3Uh0xURQ",
+        "link": "https://www.yelp.com/user_details?userid=-q1fMUJnREoErf3Uh0xURQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bAmFQmqHC0HJnP6hKFrUsg/180s.jpg",
+        "address": "North Tampa, Tampa, FL",
+        "friends": 126,
+        "photos": 1,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "We stumbled on this place on 5/20 and had an amazing time the vibe is amazing the food even better!!! Great people working at this location.  We are headed back to Florida and had to stop in again today 5/21 to get some food to go to take back on the drive home!! I will definitely come back when in Atlanta again!!",
+        "language": "en"
+      },
+      "date": "2023-05-21T19:37:04Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rpUpyF5-Dk7BL3nZuehsxA/o.jpg",
+          "caption": "The Jam-up wings are amazing!!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Hey Millicent. We're so happy to have made new friends. Now, you come see us as soon as you can, okay? We appreciate your company. Take care.",
+          "date": "2023-05-29T22:04:18Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Kayla W.",
+        "user_id": "XsA3h0b4LZ_mHSaHFh9COg",
+        "link": "https://www.yelp.com/user_details?userid=XsA3h0b4LZ_mHSaHFh9COg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zf7UL4fUYNoCNKlgUqogpw/180s.jpg",
+        "address": "Houston, TX",
+        "friends": 533,
+        "photos": 5,
+        "reviews": 14
+      },
+      "comment": {
+        "text": "I really loved the atmosphere! Played great music our waitress was super nice and informative regarding the menu at first. But after we placed our order, never saw her again. Making eye contact means nothing. She never came to check on us. \n\nTwo families left because they didn't receive service after being seated. \n\nThe drinks were good. Even though we only got to order 1 due to the lack of customer service. And the food was underwhelming. It wasn't busy at all. maybe 4 families there. We went in the middle of the day. Extremely unfortunate.",
+        "language": "en"
+      },
+      "date": "2023-03-06T22:15:16Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Gregory S.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/12C898qjJ-EKbRcUlUxZYQ/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Kayla, thank you for making me aware of what happened during your visit. That was not the experience we work to provide at Virgil's, and I want to address this as quickly as possible. I will direct message you for more information. I apologize, and hope we can make it right.",
+          "date": "2023-03-07T02:34:24Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Liselle B.",
+        "user_id": "WN9eL-1SQljcrzH9i8mEAw",
+        "link": "https://www.yelp.com/user_details?userid=WN9eL-1SQljcrzH9i8mEAw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QDsNI1U6msvYUBOkMMSKyw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 106,
+        "photos": 4046,
+        "reviews": 489,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I'm really excited for this new location as the original location isn't the most convenient for me to access. The layout here is great with both indoor and outdoor dining options and the atmosphere is classy chic.\n     Ordered the Afta Church Plate which comes with 4 whole fried wings, macaroni and cheese, and collard greens. I opted to get the sweet and spicy drizzle sauce on the side so I could regulate my dipping. The food was amazing! The wings were perfectly seasoned and fried and the two sides were also flavorful, I especially liked the greens. I partook in some mimosas too, which were also good.\n     The customer service provided by XO and the other employees that came by to check on us was wonderful. I also appreciated that Bentley (presumably the GM) stopped by to speak to us as well and get some customer feedback.  Everything was on point and it was a very welcoming and relaxing dining experience. If the business is reading this review, please continue to maintain the quality of food and service you provided and I will definitely keep coming back!",
+        "language": "en"
+      },
+      "date": "2022-06-26T15:54:22Z",
+      "rating": 5,
+      "tags": [
+        "6 photos",
+        "First to Review"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Fto9c_I6c5t6tAKholEb8g/o.jpg",
+          "caption": "Nice art."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-w7kF7zjPTj5R_gwpdzwYQ/o.jpg",
+          "caption": "Partial view of downstairs dining area."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/l8S9RcJ1wGStw1fYaLQ-iA/o.jpg",
+          "caption": "The Afta Church Plate."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5PSFbcKdp3zrvqMwssmH3A/o.jpg",
+          "caption": "Food menu."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X_BuAvJGFScupIaSTm80gw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R8TlxXZi7HE80kXlblR3_g/o.jpg",
+          "caption": "Bar."
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 3
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Aliyah C.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/6lrptte__ePDjAsza3IGyQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Liselle, thank you so much. We're excited about our new location and looking forward to you becoming a regular. See you again soon.",
+          "date": "2022-06-29T05:10:02Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Samantha V.",
+        "user_id": "dNVy9Zp3cO6lGZP-RWZZzQ",
+        "link": "https://www.yelp.com/user_details?userid=dNVy9Zp3cO6lGZP-RWZZzQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LohVyVi6ri46xNsoFjNLcA/180s.jpg",
+        "address": "Hartford, CT",
+        "friends": 563,
+        "photos": 410,
+        "reviews": 246,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "When I say some of the BEST Fries Chicken I HAVE EVER HAD! Virgil's was esthetically one of the best looking restaurants as well. From food, to decor, to service this place was an outstanding experience in the Midtown area. I would recommend it and when I come back to Atlanta I will be back!",
+        "language": "en"
+      },
+      "date": "2022-07-25T12:50:20Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dXx85K8-jz8jri2nX1pTOw/o.jpg",
+          "caption": "Corn muffin with Sweet Potato Purée and Honey Butter"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yaJnY8thuYE7XJDWmKDPng/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cAOtcZnLWavITfjhaZnBpg/o.jpg",
+          "caption": "Fried Chicken with Gullah Sauce and Potato Wedges"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Aliyah C.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/6lrptte__ePDjAsza3IGyQ/90s.jpg",
+            "role": "CUSTOMER_SERVICE"
+          },
+          "comment": "Samantha, thank you for visiting. We are happy to know that you enjoyed your experience. It was a pleasure serving you, and we can't wait to see you again!",
+          "date": "2022-07-29T02:42:53Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "David R.",
+        "user_id": "fq0YqKXPxzdaq4a7PLP7vw",
+        "link": "https://www.yelp.com/user_details?userid=fq0YqKXPxzdaq4a7PLP7vw",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "I recently dined at Virgil's and was thoroughly disappointed with the experience. The manager Bella of the restaurant had her baby with her while she was working but the manager was completely neglecting her duties. She didn't check on us once during the meal, and our food arrived cold and unappetizing.\n\nAs if the lack of service weren't bad enough, the manager also let her baby crawl around the restaurant, which is a major health hazard. It's unhygienic to have a baby on the ground where people are eating, and it's a clear violation of health and safety regulations.\n\nOverall, I was extremely disappointed with my experience at this restaurant and I won't be returning. The manager needs to prioritize her job and ensure that her customers are taken care of, instead of bringing her baby to work and neglecting her responsibilities.",
+        "language": "en"
+      },
+      "date": "2023-10-21T21:24:29Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=ZxaJGBjpbugagOozLYvnPQ&start=150"
+  }
+}

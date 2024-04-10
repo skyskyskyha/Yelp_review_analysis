@@ -1,0 +1,1703 @@
+{
+  "search_metadata": {
+    "id": "660190804b91eb86ba332442",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c435cd11c3877dff/660190804b91eb86ba332442.json",
+    "created_at": "2024-03-25 14:56:00 UTC",
+    "processed_at": "2024-03-25 14:56:00 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/dTsp-JNNA7u5F9WtxVBEug?",
+    "raw_html_file": "https://serpapi.com/searches/c435cd11c3877dff/660190804b91eb86ba332442.html",
+    "prettify_html_file": "https://serpapi.com/searches/c435cd11c3877dff/660190804b91eb86ba332442.prettify",
+    "total_time_taken": 5.87
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 100,
+    "num": "50",
+    "place_id": "dTsp-JNNA7u5F9WtxVBEug"
+  },
+  "search_information": {
+    "total_results": 1023,
+    "business": "Bistro Niko"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 1023
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Gina T.",
+        "user_id": "wUUGCHO6Jksp8-_YsC-j-g",
+        "link": "https://www.yelp.com/user_details?userid=wUUGCHO6Jksp8-_YsC-j-g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PhPxGhgA-b2NomTOQATk-g/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 88,
+        "photos": 677,
+        "reviews": 120
+      },
+      "comment": {
+        "text": "My first time here and really enjoyed it! I am a huge fan of seafood so typically eat that when I go out (unless I'm at a steakhouse). I started with the mussels, which were delicious!! I had the scallops entree which was also great! I believe it was paired with a creamy mashed potato which was very good as well! \n\nI would recommend! Great atmosphere, service & location.",
+        "language": "en"
+      },
+      "date": "2021-10-18T09:29:39Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cQeQOVf82X_xwv4Ff8Zi7A/o.jpg",
+          "caption": "Hall, Napa Valley 16"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PJuOUXDChcTD6vNt5zP_Tg/o.jpg",
+          "caption": "My friend's entree! Had a bite (forgot the name) but was great!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ikQWLYnH2M6maLsbTnKn7g/o.jpg",
+          "caption": "Maine Sea Scallops St. Jacques"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ana G.",
+        "user_id": "UMF_ScUlaIf4Ak_F7bVPfQ",
+        "link": "https://www.yelp.com/user_details?userid=UMF_ScUlaIf4Ak_F7bVPfQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FJmC-yYTiotrOru1dhGnng/180s.jpg",
+        "address": "Sunny Isles Beach, FL",
+        "friends": 11,
+        "photos": 1,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Otra excelente experiencia si estás en Atlanta! Repetidle 100% todo lo que pedimos fue delicioso, las papas fritas únicas, el flat bread de salmón delicioso",
+        "language": "en"
+      },
+      "date": "2023-03-09T15:08:26Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Nicole B.",
+        "user_id": "lEGt2ansiNewbjMxtBmQng",
+        "link": "https://www.yelp.com/user_details?userid=lEGt2ansiNewbjMxtBmQng",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hTDt1l7cZAA75p0YoR34WQ/180s.jpg",
+        "address": "Charlotte, NC",
+        "friends": 450,
+        "photos": 157,
+        "reviews": 115
+      },
+      "comment": {
+        "text": "Loved this place! Buckhead restaurant group is a great group with excellent restaurants! Yum",
+        "language": "en"
+      },
+      "date": "2022-08-10T11:54:36Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uEmuFvA3dQ5u8Y5aZ6ZVYA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jason M.",
+        "user_id": "izoNMYGgbrE_cYkI_1ylwA",
+        "link": "https://www.yelp.com/user_details?userid=izoNMYGgbrE_cYkI_1ylwA",
+        "address": "Duluth, GA",
+        "friends": 640,
+        "photos": 5,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Bistro Niko is my favorite Buckhead Life group restaurant.  My meal tonight may have been the best I've ever had there.  Lobster fettuccine with tomatoes which was the special.  The dish had a light sauce and huge chunks of lobster.  I would love to see this make its way to the permanent menu.",
+        "language": "en"
+      },
+      "date": "2023-08-24T02:23:01Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Lauren M.",
+        "user_id": "8vHsfxBXrLPJYbdRZh_jbg",
+        "link": "https://www.yelp.com/user_details?userid=8vHsfxBXrLPJYbdRZh_jbg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vlUzBXcahx8ERBhlpO6eRA/180s.jpg",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 490,
+        "photos": 311,
+        "reviews": 142
+      },
+      "comment": {
+        "text": "I always have a good experience here!  Good service, good food, nice place, and not overly expensive! I think the fish and steak frites are amazing",
+        "language": "en"
+      },
+      "date": "2022-06-15T05:49:42Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FGHCnTRi9DuZCKUszAi-gA/o.jpg",
+          "caption": "Loup De Mer"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8rA7sFH1Fc2n5xt29Ol3Iw/o.jpg",
+          "caption": "Faroe Islands Salmon"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ObtlwNcokNZaWAp50LZVhg/o.jpg",
+          "caption": "Maine Sea Scallops"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hoiLvxlQMD0RkOVmwbY40Q/o.jpg",
+          "caption": "Entrance"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ed B.",
+        "user_id": "CbnUjk570aZlNdOqyfZ0JQ",
+        "link": "https://www.yelp.com/user_details?userid=CbnUjk570aZlNdOqyfZ0JQ",
+        "address": "Villa Rica, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 22
+      },
+      "comment": {
+        "text": "Food was exceptional and the staff was spot on! Good wine list and dessert was heavenly! Not cheap at all but worth the price",
+        "language": "en"
+      },
+      "date": "2023-07-06T22:21:24Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rob S.",
+        "user_id": "FPI1tctdOB302LBs1XU7XQ",
+        "link": "https://www.yelp.com/user_details?userid=FPI1tctdOB302LBs1XU7XQ",
+        "address": "Decatur, GA",
+        "friends": 2,
+        "photos": 1,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Always great ribeye.  Came for Father's Day dinner.  Does not disappoint.  All were happy with their dinner",
+        "language": "en"
+      },
+      "date": "2023-07-15T14:52:39Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Christy C.",
+        "user_id": "IRyrG3qHe7TvEQXugdBUhQ",
+        "link": "https://www.yelp.com/user_details?userid=IRyrG3qHe7TvEQXugdBUhQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/I_iqewNWLUefeDHWt0z9ig/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 45,
+        "photos": 324,
+        "reviews": 127
+      },
+      "comment": {
+        "text": "Went here yesterday for brunch and I'll get right to it:\nPros: \nbeautiful ambiance \nGreat live band\nPhenomenal service \nGood portions \nPricing wasn't too extravagant \nClean facilities \n\nCons:\nThe butter with the bread was too cold and hard\nThe pork belly dish needed a little more sauce to go over everything. \n\nSid definitely come back, especially for dinner. The pork belly dish was a large piece of pork beautifully crusted with mustard. Topped over hash browns and a egg. The sauce was the only thing that could've been better. It's a seriously great spot and I can't wait to come back.",
+        "language": "en"
+      },
+      "date": "2021-06-14T17:49:56Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sH-Q_rJRnxzInQE0mQ3uHg/o.jpg",
+          "caption": "Roast Pork Belly Mustard-Crusted"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/66EFwoj4HY32SxFRCqhR9Q/o.jpg",
+          "caption": "Crisped Duck Confit"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sumintra W.",
+        "user_id": "cCkgEykyLXN5lROU_FBy2A",
+        "link": "https://www.yelp.com/user_details?userid=cCkgEykyLXN5lROU_FBy2A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ioHNN1oFpPPsft4Zbanj0A/180s.jpg",
+        "address": "Sarasota, FL",
+        "friends": 249,
+        "photos": 747,
+        "reviews": 195,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Every time I come to Atlanta, I pass by this restaurant. Finally I got to experience the Bistro Niko flavors. From the host to the server to the exquisite quality and taste of the food. Our experience here was exceptional! The flavors in the dishes were fresh and delightful.\n\nThe atmosphere was exquisite with a vintage French feel and the vibe was very welcoming.",
+        "language": "en"
+      },
+      "date": "2020-03-07T17:34:08Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xBkyXr68ha5ZmKn7y2ob2A/o.jpg",
+          "caption": "Yellowfin Tuna Tartare"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3NJO-afK_SK5zz_z6IfFzA/o.jpg",
+          "caption": "Lindt Chocolate Flourless Cake"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Keith W.",
+        "user_id": "yKVWIrH8-2BPRN4jZuKlIA",
+        "link": "https://www.yelp.com/user_details?userid=yKVWIrH8-2BPRN4jZuKlIA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/T_V0IhiELxge52S1abst1A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 25,
+        "photos": 0,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "Ordered food to go. I ordered the burger, medium with very little pink. I also ordered their smoked salmon pizza, light on the capers. Once I got home, I realized that my food had not been prepared in the way that I had requested. The burger was bloody and overly pink, practically raw. And the pizza was loaded with capers, more than what customarily comes on the dish. Overall, I was highly disappointed in my experience.",
+        "language": "en"
+      },
+      "date": "2022-12-11T05:43:35Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Darrell H.",
+        "user_id": "VMchRCxLbDJMY4vzib0JhA",
+        "link": "https://www.yelp.com/user_details?userid=VMchRCxLbDJMY4vzib0JhA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/abv5u7R_ZWjrXyjOZZtIHg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 25,
+        "photos": 1409,
+        "reviews": 145
+      },
+      "comment": {
+        "text": "Only went for dessert! I will go back to give a more thorough review. I had the apple Tarte and it was late in the evening right before they were about to close at 11:00pm. I had the sweet tooth The bar tender recommended this dessert and i took him up on it. It did not disappoint. I want to go back and try the creme brûlée",
+        "language": "en"
+      },
+      "date": "2022-05-01T06:57:48Z",
+      "rating": 4,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/044JOJuqcJkPAN2x3sOfQw/o.jpg",
+          "caption": "Dessert Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CMzRTKHcs3gSpJG-TZlgpQ/o.jpg",
+          "caption": "Apple Tarte"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Evan G.",
+        "user_id": "sjV4NqZx5d0NqY1y7p6fEw",
+        "link": "https://www.yelp.com/user_details?userid=sjV4NqZx5d0NqY1y7p6fEw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cHQce4dSgdbjUlJJF0oszA/180s.jpg",
+        "address": "Charleston, SC",
+        "friends": 128,
+        "photos": 28780,
+        "reviews": 4802
+      },
+      "comment": {
+        "text": "Bistro Niko on Peachtree Road in Atlanta is a great place to go for delicious and flavorful French food in a unique and cool atmosphere. The staff here is very accommodating and makes sure that you have a special meal each time. Well worth a visit for a memorable meal.",
+        "language": "en"
+      },
+      "date": "2022-05-21T18:43:34Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/geKp0rzj9qP0dYOb6ttbXQ/o.jpg",
+          "caption": "Bistro Niko"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/m5yDbkPO10laaMw2V1PZAw/o.jpg",
+          "caption": "Bistro Niko"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FrYzoxiZnsY7HpfDkLbFow/o.jpg",
+          "caption": "Bistro Niko"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "H M C.",
+        "user_id": "Db0wv0iyJPi2drYaHzKklQ",
+        "link": "https://www.yelp.com/user_details?userid=Db0wv0iyJPi2drYaHzKklQ",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Service was terrible. had to flag down servers. Then the mains arrived in the middle of our apps. Noise level is extreme. And it was stifling! Food wasn't memorable enough to go back.",
+        "language": "en"
+      },
+      "date": "2023-07-09T14:04:14Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Meenal P.",
+        "user_id": "EE4WUuqn9jKR8JZ_mppCWw",
+        "link": "https://www.yelp.com/user_details?userid=EE4WUuqn9jKR8JZ_mppCWw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KIxfH_xmClJ9JZmzCMb8-Q/180s.jpg",
+        "address": "Cumming, GA",
+        "friends": 30,
+        "photos": 167,
+        "reviews": 39
+      },
+      "comment": {
+        "text": "What an amazing place with a beautiful and splendid ambience! I went here for jazzy brunch and totally loved it. Although the music volume could be a lil up to prevent me hearing the chattering of all the guests and it was jam packed and had waiting inspite of reservations, i think it's deliberately done for people be able to chat over brunch!!!\nYummy cocktails   and delicious food even though I'm a vegetarian!!!\nWent here for anniversary celeb and received a special wish our dessert when told! Check photos !!!",
+        "language": "en"
+      },
+      "date": "2021-06-13T20:10:49Z",
+      "rating": 5,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OqkuzmZCZHKcOlERTD-VLg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Of2Roeu9L6jdDu5KpiTLwA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Bibac3sOTx86S-vA0FgKUw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SSWs8KiWXRZx_Jfbpi0Q1A/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Joe M.",
+        "user_id": "RlSTXdXPRj6i0iqN0uOW6w",
+        "link": "https://www.yelp.com/user_details?userid=RlSTXdXPRj6i0iqN0uOW6w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rB8kHKD6rb4Luj8_6vjcSA/180s.jpg",
+        "address": "Alpharetta, GA",
+        "friends": 0,
+        "photos": 10,
+        "reviews": 23
+      },
+      "comment": {
+        "text": "Exceptional service. Just simply excellent service.  And the food was excellent Nikolas was my server. Simply exceptional",
+        "language": "en"
+      },
+      "date": "2022-09-30T23:15:44Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "K N.",
+        "user_id": "9qhHhCsvbmFmPzPRllhgnw",
+        "link": "https://www.yelp.com/user_details?userid=9qhHhCsvbmFmPzPRllhgnw",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Clam Margarita at Bistro Niko\n\nEither the menu has a dreadful typo, or our server was a fool.\n\nWe ordered a cocktail called \"La Praire\" - yes that's exactly how it was spelled. It's correctly pronounced \"lah PRAYER.\"\n\nOur server corrected us, calling it \"La Prairie,\" pronounced \"lah prayer-EE.\"\n\nThe question is ... was it a typo or was our waiter wrong?\n\nThe answer is both.\n\nLa Praire, in French, means clam, specifically a small bivalve raised in the muddy waters of the English Channel. We strongly suspect Bistro Niko had no intention of naming a margarita-like cocktail after a CLAM. So for sure, that was a typo.\n\nLa Prairie, in French, means meadow, which seems more appropriate to a tequila-elderflower beverage. However, a wise server does not correct the customer, especially if the customer is correctly pronouncing the drink as it is printed in the menu. He should have known better.\n\nPS - The drink was clam-free, but also? It was bad. Tasted a bit like paint thinner with St. Germaine.",
+        "language": "en"
+      },
+      "date": "2022-12-28T13:14:40Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kyleigh F.",
+        "user_id": "A6ILM4ByYh_b8e_b772OgQ",
+        "link": "https://www.yelp.com/user_details?userid=A6ILM4ByYh_b8e_b772OgQ",
+        "address": "Cloverdale, OR",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "You're paying for atmosphere, which isn't even that great because of how chaotic is it in there. Worst steak I've had in atlanta",
+        "language": "en"
+      },
+      "date": "2023-06-26T02:06:45Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Elizabeth G.",
+        "user_id": "-4j7FFx5QRXHjyPkRh2FKg",
+        "link": "https://www.yelp.com/user_details?userid=-4j7FFx5QRXHjyPkRh2FKg",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 10
+      },
+      "comment": {
+        "text": "The scallop dish is really great. Service is great as well. They gave free birthday dishes. Loved it",
+        "language": "en"
+      },
+      "date": "2023-06-25T23:58:16Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kevin C.",
+        "user_id": "DVDLRYt37TdPXtluovM33A",
+        "link": "https://www.yelp.com/user_details?userid=DVDLRYt37TdPXtluovM33A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gvZvXLdtTY5QYJbrtXgX0A/180s.jpg",
+        "address": "Brookhaven, GA",
+        "friends": 1006,
+        "photos": 8654,
+        "reviews": 1051,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "After making an Open Table reservation for Bistro Niko weeks ago, R and I came here last Thursday night to celebrate his birthday.\n\nBistro Niko is a French restaurant on Peachtree Road in Buckhead.  Valet parking is available, and, if you don't mind walking, there is self-parking available in the parking garage nearby.  Self-parking turns out to be free if you get a parking voucher from the host station before you leave the restaurant.  Parking is always available in the parking garage.\n\nWe were greeted immediately by the host as we walked in, and promptly led to a table away from all other diners, which is what I wanted.  Within 5 minutes, our server, Manny, came to the table and asked us if we wanted any drinks.  Neither R nor I wanted any alcohol, so we asked for water.  Manny asked if we wanted flat or sparkling water, adding that the sparkling water was also complementary.  We opted for the sparkling water.  When Manny brought the water glasses to our table, he asked if he could take our order.  \n\nWe both ordered the Caesar salad, which was brought to us within about 10 minutes.  Before he left to put in our order with the kitchen, Manny explained that anchovies were included in the Caesar salad.  I knew that the addition of anchovies actually made the salad a true Caesar, so it was fine with me.  I just liked that Manny was very thorough, ensuring that there wouldn't be any culinary surprises for us.  The Caesar salad was perfect!  Everything, especially the white anchovy, blended together made for a delicious salad.  The croutons were the airy toasted kind that were crunchy but not so hard that your jaws get a workout.\n\nAfter we were done with our salads and our plates taken away, Manny asked us if we wanted to order anything else, and we said yes.  He let us know what the specials of the day were, but we already had our dinner entrees already figured out.  R ordered the broiled hanger steak and pommes frites.  I ordered the ribeye steak cafe and pommes frites.  Both of us also got the béarnaise sauce on the side.  I didn't keep track of the time it took for our entrees to arrive because we took the time to talk and people watch.  This restaurant has a nice relaxed vibe going on.  Our steaks came, and they were perfect!  The doneness (medium rare), good beef and very little salt flavor, good fat marbling and being boneless all made for a very nice juicy tender ribeye.  Even though   The béarnaise sauce was a tasty enhancement to the steaks.  A little bit of both steaks were brought home as leftovers, and I actually ate both of them.  (lol).  My palette confirmed that I had made the better choice of steak!\n\nTo celebrate R's birthday, Manny brought a surprise dessert with a lit candle on it.  It looked like three baked puffs cut in half, with a scoop of vanilla ice cream each between the halves.  Sliced almonds and some type of chocolate sauce (semi-sweet) covered of it.  I couldn't eat any more than one bite of mainly the ice cream because it was all too rich and sweet for me.  R thoroughly enjoyed it!\n\nThis restaurant could tighten up their facemark wearing policy for the customers by having them wear facemarks whenever they're walking through the restaurant.  Many customers were without facemarks as they carried on their conversations while walking right by all those who were already seated at their tables.  Also, some of the tables weren't six feet away from others, so social distancing guidelines weren't strictly adhered to.  By the time we left, most of the tables had people sitting at them.\n\nBistro Niko has great customer service.  The managers came around to our table a couple of times to ask how everything was going.  Manny did a great job as server.  Thank you, Manny!",
+        "language": "en"
+      },
+      "date": "2020-11-15T02:07:08Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 5,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Harley S.",
+        "user_id": "_rVlbC15nRQPSq-o3hMzdQ",
+        "link": "https://www.yelp.com/user_details?userid=_rVlbC15nRQPSq-o3hMzdQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kiABZkBdiKoAnj2QOOMfvg/180s.jpg",
+        "address": "McLean, VA",
+        "friends": 3,
+        "photos": 1710,
+        "reviews": 639,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I am so impressed with this bistro! When I travel to Atlanta to visit my company's office in Buckhead, I'll try to catch a meal here, because honestly, it's on par with the best Bistros I've ever tried (Bouchon comes to mind). \nAND a French Bistro must be judged by its classics:\nCassoulet: Superlative. Heavenly. \nSteak frites: Best hanger steak I've ever had. Frites slightly underdone but flavorful and cut from fresh spuds. \nLoup de mer: As perfectly cooked as any sea bass filet you'll ever have, with lemon butter perfection\nBread: NOT a baguette, but hot,  crusty, Dutch oven bread that makes you forgive the transgression. \n\nCan't wait to come back and try more classics.",
+        "language": "en"
+      },
+      "date": "2020-02-07T02:36:09Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vqfp4yHl_5kjFGsUI40RWQ/o.jpg",
+          "caption": "Winter Cassoulet is INCREDIBLE. You can't see the garlic sausage and pork belly under the beans and the crisped duck confit!"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Coleman O.",
+        "user_id": "96scOZ38tPwDuFdxGu9PMA",
+        "link": "https://www.yelp.com/user_details?userid=96scOZ38tPwDuFdxGu9PMA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RHVU17fp77boZoWNlHQqow/180s.jpg",
+        "address": "Fairhope, AL",
+        "friends": 17,
+        "photos": 1319,
+        "reviews": 249,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Decided to eat at Bistro Niko whole visiting my Atlanta Office.  Always loved the French menu and vibe in Buckhead.  The bistro is on Peachtree Road right in the middle of Buckhead and is surrounded by glass walls to overlook PT and has a wide open feel.  Definitely a great place for a business meeting.\nI started by ordering the Escargot and a glass of Anne Amie Pinot Noir.  The escargot were absolutely delicious.  Rich in butter and garlic, fresh escargot and the pastry that tops each was perfectly crafted.\nFor my entree, I decided on the Trout Meunière which comes over whipped potatoes.  I cannot describe how expertly this dish was prepared.  The Trout was fresh, cooked perfectly, the sauce was incredible, and the potatoes were insanely good.  Well done!!!  Add to it the spot on service from my server, and what a great experience!  I cannot wait to get back!\nHIGHLY RECOMMENDED!!!",
+        "language": "en"
+      },
+      "date": "2019-10-03T20:16:39Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/I-gxD0rJcJmqmWNB22Q0ow/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_IRNVR7Q2R_BknT6e3rLwg/o.jpg",
+          "caption": "Trout Meunière- The sauce is so good you can drink it!!!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OlOUPhBkTakVW3CmQUAlFg/o.jpg",
+          "caption": "Escargot- Delicious!"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Pano K.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/bl6IJ_orhPe5STkVuty25Q/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the kind words, Coleman! We hope to see you back again soon!",
+          "date": "2019-10-07T15:30:34Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Tari O.",
+        "user_id": "WoEfl5cpreTvMC5d_0UOMQ",
+        "link": "https://www.yelp.com/user_details?userid=WoEfl5cpreTvMC5d_0UOMQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gD-MhWOJt8aTfs2KeS_eDA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 170,
+        "photos": 2854,
+        "reviews": 793,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Enjoyed a delicious dinner at Bistro Nikko. Bistro Nikko is located in the heart ofBuckhead off of Peachtree. The restaurant specializes in French cuisine as the name suggests, but they have simple classics as well. They also have an extensive wine menu which is great because their bar area is large and nice to hang out for people watching, a date, or enjoying a drink with friends. \n\nI ordered a cab and the duck medium rare per the chef's suggestion. The duck was cooked perfectly. I just wish there was more of it. It's paired with an orange/citrus sauce so if you don't like the citrus with your meal this may not be the dish for you. My dinner mate enjoyed the trout. Both were large portions. \n\nParking is valet or self park(I paid $12 to self park for about 90-120 minutes). I recommend valet but the line was too long when I arrived.",
+        "language": "en"
+      },
+      "date": "2019-06-19T20:41:16Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FkPwSL9NvL4l943U-kvSgA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/h-t6vZ-BEBXUP4-_9WREAA/o.jpg",
+          "caption": "Duck"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ey8Sc9m3rCyTFEeMfSZ1EA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-9muGnI7ZEDZHiNYGoi52A/o.jpg",
+          "caption": "Menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LX7exM4Ea5qYOTWWiUuSnA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 0
+      },
+      "owner_replies": [
+        {
+          "owner": {
+            "name": "Pano K.",
+            "thumbnail": "https://s3-media0.fl.yelpcdn.com/buphoto/bl6IJ_orhPe5STkVuty25Q/90s.jpg",
+            "role": "OWNER"
+          },
+          "comment": "Thank you for the kind words, Tari! We look forward to serving you again soon!",
+          "date": "2019-06-21T13:55:06Z"
+        }
+      ]
+    },
+    {
+      "user": {
+        "name": "Peter L.",
+        "user_id": "z9J_i9gEus_6WrIWWNc5OQ",
+        "link": "https://www.yelp.com/user_details?userid=z9J_i9gEus_6WrIWWNc5OQ",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 11,
+        "reviews": 69
+      },
+      "comment": {
+        "text": "Always an Atlanta classic for lunch brunch or dinner, Bistro never disappoints. I typically get the trout meunière but last night I had the skate and it was delish!! I also love their tartar, flat breads, charcuterie boards, they have a great burger and steak & frites. They also have wonderful desserts. A wonderful patio too when the weather is nice.",
+        "language": "en"
+      },
+      "date": "2023-06-30T12:57:08Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Deiniese C.",
+        "user_id": "44nTa0zOPyvRhRM-pru90A",
+        "link": "https://www.yelp.com/user_details?userid=44nTa0zOPyvRhRM-pru90A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MImPioqPDfko5e1G4gbIPg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 211,
+        "photos": 0,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "Very nice Atmosphere, the food was delicious. If you enjoy fish I recommend trying the skate wing. Very delicious.",
+        "language": "en"
+      },
+      "date": "2022-08-11T15:58:03Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Tammy C.",
+        "user_id": "MTZAbwi01sCIbPSBlr9xJQ",
+        "link": "https://www.yelp.com/user_details?userid=MTZAbwi01sCIbPSBlr9xJQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/R1OnMgZIcRCVfaw9YMhmDA/180s.jpg",
+        "address": "Fort Pierce, FL",
+        "friends": 1064,
+        "photos": 453,
+        "reviews": 237
+      },
+      "comment": {
+        "text": "Better late than never as Bistro Niko is truly one of our Atlanta favorites. Obscenely great service and cuisine that parallels! \n\nWe will review today beginning with the great beer and wine selection. Loved my Weihenstephan and Clarence had the St. Bernardus.  It was in a small pour with a big dog bite! Crab Cake was full chunks of fresh crab with an amazing grain mustard Beaure blanc sauce that added a sweet yet tangy addition - best away from the beach. Add this to the Gruyere Cheese Puffs and heaven arrived early.\n\nMove over every Shephard's Pie- Dinner was the Veal Parmentier. Holy grail.... Osso Bucco so tender with mashed potatoes, carrots and a Gruyere Crust. Literally the most exquisite and soul warming dish I've ever eaten! Sadly we don't dine out as much in the winter but we will boot up every winter to enjoy this seasonal specialty. \n\nI could spout for another hour but no room for dessert! Billy, was excellent on menu guidance and the service at our table by the bat was nothing short of amazing. Don't wait to enjoy this Atlanta restaurant - there is something for every taste and based in tonight and past experience you will not be disappointed. Look forward to seeing your reviews!",
+        "language": "en"
+      },
+      "date": "2021-02-23T23:22:41Z",
+      "rating": 5,
+      "tags": [
+        "9 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8FtzDmtY8DsmlbMMvOc4uA/o.jpg",
+          "caption": "Veal Parmentier"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ST68OE-4QPNTV2pGHAtHHQ/o.jpg",
+          "caption": "My version of Frisée Salad but with handpicked lettuce. (I dislike Frisée but this salad is the bomb!)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_ACZCi6kngHqZGBEYp9Odw/o.jpg",
+          "caption": "Crab Cake Special"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/e_pjjsHLwIGkR34aB-mmhg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bVRLx0qDVX1HchOC0yRUgg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qDvucWTKcYNxCkeL3Wo2NQ/o.jpg",
+          "caption": "Gougeres"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/V1xT9S0TewF-9KsPykmk7g/o.jpg",
+          "caption": "Tuna Tartare"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GHLgkbQ87TBOUZoBWna0-A/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/e4q93akNea9gj-miIrTspQ/o.jpg",
+          "caption": "Veal Parmentier"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "L M.",
+        "user_id": "Y3OZyY-n-sOqH5pzooVyjw",
+        "link": "https://www.yelp.com/user_details?userid=Y3OZyY-n-sOqH5pzooVyjw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Xq93T2U0DRo6obQZFgGI1Q/180s.jpg",
+        "address": "Grayson, GA",
+        "friends": 1,
+        "photos": 23,
+        "reviews": 76
+      },
+      "comment": {
+        "text": "Not impressed. Was able to snag a renovation while on the way to the restaurant. Our waitress was ok, not warm or welcoming, just ok. We asked for an order of gougeres but the waitress said she had to check in if they could be made. 2 minutes later she appears with a basket of tiny \"gougeres\" there was no cheese to be found in it. They were dry and mini size, didn't resemble the pics on Instagram. I have had them elsewhere and they are filled with cheese. These were dried out empty puffs. \n\nMoving along, I ordered the steak and frites. Fries were divine, best I'd ever had. Though I had to eat from the top of the stack because the bottom fries were swimming in blood from the steak. The steak came out cooked to a medium rare- medium temperature though I asked for medium well. Since the waitress disappeared I just ate the outer pieces that were cooked a little longer. The outside was charred but not in a good way. It made the steak very bitter tasting and not pleasant. My spouse got the au poivore burger and it was just ok, nothing special. Waitress was absent so we didn't order dessert, we just paid using the QR code and left. \n\nThis experience did not live up to what you would expect from Buckhead Life group. But I guess it makes sense based on the ample availability to book a reservation at the last minute.",
+        "language": "en"
+      },
+      "date": "2021-12-24T23:50:52Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Liz A.",
+        "user_id": "9CVpvdXy6fywn6-H4f0U8Q",
+        "link": "https://www.yelp.com/user_details?userid=9CVpvdXy6fywn6-H4f0U8Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/q48Fz_UZiCMJHgJ7RCk3hQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 48,
+        "photos": 1028,
+        "reviews": 150,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "When you walk into Bistro Niko, you're transported out of Buckhead to a quaint café on the Champs-Elysees in Paris. You can just feel the Parisian air filled with soft music, the smell of baguettes and the clatter of patrons enjoying their wine. From French staples like fantastic escargot, charcuterie, tartes, cocktails, and French inspired Skate Wing, there's a little bit of that French inspiration in every dish. Would you take a stroll down to the Arc de Triomphe with us?\n\nStarting with the hors d'oeuvres, we sampled the escargot, Jambon de asparagus, a little bit of the country pate plate, as well as the best little salmon tarte.  The favorite of these was the fresh and bright smoked salmon tarte with it's slow-smoked in house and tender salmon atop a crisp \"French pizza\" bread and drizzled with an amazing crème fraiche. With the salt and slight fishiness of the salmon, crisp of the bread, creaminess of the crème, and earthiness of the minced onion and capers, it was a balance and delicious bite. A lox bagel all grown up!\n\nPlus, who knew we loved escargot this much? Something we don't eat very often, this is going on the \"we need to try more\" list, because it's so rich and decadent you need your own bowl. You won't want to share. From the buttery-goodness of the sauce surrounding the salty snail to the crunch and heft of the puff pastry, to the slight cheesiness around it, it was a fantastic little mouth full. It had so much deepness that it was unforgettable. Eat the entire bite at once. YUM.\n\nMoving on to the Jambon and Pate, the Jambon, which is known to us as prosciutto, was PERFECTLY cut and literally would melt in your mouth. One of the best prosciutto slices we've ever tasted, the flavor itself was phenomenal! Perfectly paired with crunchy and tender asparagus, crunchy lettuce, and a rich poached egg, it was an all-around great bite. Salty, rich, crunchy, tasty. The traditional country pate reminded us of a make-your-own sandwich. Accompanied by crunchy lettuce, bread, pickles, and mustard, you could add all of it in one bite or eat the pate plain. The best bite here was to put some of the pate, lettuce, mustard, and one pickle on top. It's a crunchy, salty, and meaty bite. Now, that's a sandwich!\n\nDon't leave Bistro Niko without trying the chef's favorite dish, Skate Wing. Something you don't see very often on menus, we had to jump at the chance to try it this once. Let us tell you, it's super rich and delectable! Starting with the ray itself, it starts out with a crunch on the outside and ends with tender and meaty, lightly salty on the back. Perfectly cooked in a brown butter that is so rich and deep that it simply melts in your mouth. The Skate is paired with tender spinach and potatoes to add earthiness and balance out the buttery fish. It was one of the best fish dishes we've had this year with so many complex flavors, yet so simple. We'd highly recommend!\n\nWhat would a French dinner be without wine and cocktails? Not very Parisian, right? So, with each course, we sampled a different cocktail. With the escargot and Jambon we sampled the Trois Martini. This beauty is the perfect mix of vodka infused with strawberry, raspberry, and blueberry. It drinks just as juicy and bright as the fruit in it but with the vodka booze on the back. It's so refreshing and good. With our second course of the tarte and pate, we decided to go with a wine cocktail mix called the Specialite Le St. Germain. One of the best champagne cocktails you can find here in Atlanta, it's a delicate balance of floral St. Germain, champagne, and club soda. The perfect Parisian patio sipper with fizzy bubbles followed by floral notes and ending cool and crisp. Last but not least, with the Skate we enjoyed our favorite sip of the day, the Nouvelle Vie. Made with one of our favorite gins, Highclere Castle Gin and shaken with elderflower, Chareau, and Cucumber, it's a dynamic all-around crowd pleaser. Imagine the earthy and piney of the gin on the front and finishes with floral and cucumber on the back. So flavorful and bold, this one is a must try.\n\nThe late lunch in the French café seeped into the evening and the lights of the Eiffel Tower started to glow in the background. The delicious meal now fading into memory but will mark an unforgettable portion of our trip to Bistro Niko, that spot that reminds us of Paris.\n\nFin.",
+        "language": "en"
+      },
+      "date": "2020-09-15T16:22:34Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7hAfpRShYktHuxc2ACgEIw/o.jpg",
+          "caption": "Smoked Salmon Tarte"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eZxE9zqVUuiVaSIjiw9oTg/o.jpg",
+          "caption": "Specialite Le St. Germain"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R2Rp9dDWEV9woYtr0zIPAg/o.jpg",
+          "caption": "Traditional Country Pate"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RnmglV3WiCwFs3X7h4Ntfw/o.jpg",
+          "caption": "Skate Wine and Nouvelle Vie Cocktail"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/796EJ02K-HfOZm1IOumIBQ/o.jpg",
+          "caption": "Escargot"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Ken R.",
+        "user_id": "ujnyml6BDLTQlo0SVxiyNQ",
+        "link": "https://www.yelp.com/user_details?userid=ujnyml6BDLTQlo0SVxiyNQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VgLJm9eyYdspKsyveirVLA/180s.jpg",
+        "address": "Chattanooga, TN",
+        "friends": 9,
+        "photos": 556,
+        "reviews": 143,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "It was late. We just got into town. They were closing, but we were welcomed in with open arms and treated to one of the best meals I've ever experienced. We started with the featured appetizer for the evening, duck sausage with lentils. The seasoning and presentation were perfect. Spot on flavors. \n\nFor the main course I ordered the skate wing with spinach and steamed potatoes. The spinach was creamy, buttery, and tasted like they had been soaked for week in the sauce. Just a trace of bitter, simply amazing. The wing had a slight taste of fish with a soft chicken like texture. It was on par with the best fish I've ever eaten and I live near the coast. My wife had the Coq au vin. The mushrooms, potatoes and sauce were perfect. The chicken was tender and filled with flavor. Both our potatoes tasted like they had been grown in butter. \n\nYou have to check them out if you are in the area. We felt bad about keeping them late so we skipped dessert. I'll be coming back for that. They looked astounding. Our server, David, said stay it's not a problem, but they had been too nice already. Do give them a try. I'm a pretty picky eater. The flavor has to be there.",
+        "language": "en"
+      },
+      "date": "2019-10-01T03:07:57Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/l-TYd4wTASrj-cHXYYzkrA/o.jpg",
+          "caption": "Duck Sausage with Lentils"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RYcSRARyr1zTWbg8g-l3pg/o.jpg",
+          "caption": "Sauteed Skate Wing"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-p1lcDCU6-_RN04TRIbLkg/o.jpg",
+          "caption": "Coq Au Vin"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "S C.",
+        "user_id": "lngHJmH7B3qNZORsuVlDZw",
+        "link": "https://www.yelp.com/user_details?userid=lngHJmH7B3qNZORsuVlDZw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SvW1k1cM125Tjw7BpyWfUw/180s.jpg",
+        "address": "Columbia, MD",
+        "friends": 112,
+        "photos": 62,
+        "reviews": 238
+      },
+      "comment": {
+        "text": "5 stars for the ribeye Adobe. \nStaff was nice as always. \nEasy to park with valet parking.",
+        "language": "en"
+      },
+      "date": "2022-01-06T03:31:06Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Karen J.",
+        "user_id": "gS7k0Qnz3V06RKOuPBo_Pw",
+        "link": "https://www.yelp.com/user_details?userid=gS7k0Qnz3V06RKOuPBo_Pw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0pVv5ZXYMJFBj_3J39Mf5Q/180s.jpg",
+        "address": "Argyle, TX",
+        "friends": 42,
+        "photos": 985,
+        "reviews": 196,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Picked this restaurant for a team dinner. It was a really good choice. The atmosphere was a bit loud, but we were a group of 6, so quiet and intimate was not required. The menu looked wonderful!  It was varied - the usual seafood, pork, beef, and chicken, but they kicked in lamb, duck, and escargot. \n\nI ordered the scallops.  They were in a white sauce that was tasty and not too thick. Also, the scallops weren't over cooked.  Nice and plump. The veggie was three asparagus spears; yes, I said three. Coulda used more asparagus. The starch was creamed potatoes. All dishes were very tasty. \n\nThe service could have been a little faster, but it wasn't too horrible. Could have been an off day. I'd come back again.",
+        "language": "en"
+      },
+      "date": "2019-08-02T12:05:42Z",
+      "rating": 4,
+      "tags": [
+        "6 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QBx9TFQ16lHfrJY8432lEg/o.jpg",
+          "caption": "New spot in the ATL"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jkQaYUw6bYKIrySXPctdsQ/o.jpg",
+          "caption": "Pork chop"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/f2xUQg-vujEXJWiPr0MehA/o.jpg",
+          "caption": "Crime Brûlée"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tqdh-A_89I0tNG7gHqrSxg/o.jpg",
+          "caption": "Lamb"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rLUtSq21PVmhMO81Mip78A/o.jpg",
+          "caption": "Apple pie"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DqkgDVyQbSuA1ovRuReysg/o.jpg",
+          "caption": "Scallops"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Linda V.",
+        "user_id": "PQ6KATU0NZ7QJ4QGKTjGTg",
+        "link": "https://www.yelp.com/user_details?userid=PQ6KATU0NZ7QJ4QGKTjGTg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/o-yJgb7Z46tfupatHoD6XQ/180s.jpg",
+        "address": "Hoschton, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "July 12, 2022.  I had been looking forward to eating here for several years.  My children took me for my birthday dinner.  It was such a disappointment.  I Expected better food & service.  Steak was over cooked.  Service was terrible, felt we were being rushed. Perhaps they were short staffed.",
+        "language": "en"
+      },
+      "date": "2022-09-11T00:26:14Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sam M.",
+        "user_id": "G0FD0XFpuP08uvdmJvhV3w",
+        "link": "https://www.yelp.com/user_details?userid=G0FD0XFpuP08uvdmJvhV3w",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/J8kDFcNUnCvEXi1mvCrUpg/180s.jpg",
+        "address": "Indianapolis, IN",
+        "friends": 5,
+        "photos": 43,
+        "reviews": 45
+      },
+      "comment": {
+        "text": "What a fantastic, fancy dinner! We dined outside on the covered patio and it was fabulous. We had escargot for apps, and shared a bottle of Pinot Noir. I had duck which was superb and passed on dessert because I was really full. But I heard the crème brûlée was excellent! Definitely a good choice for a grown up meal for the adults.",
+        "language": "en"
+      },
+      "date": "2022-02-12T22:42:31Z",
+      "rating": 4,
+      "tags": [
+        "4 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vEm0bd6EAwOuFEPK-FFvzw/o.jpg",
+          "caption": "Skate Wing"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0MYavqUHFo0Rhx8cUB6Lqg/o.jpg",
+          "caption": "Escargots \"En Croûte\""
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7jxZ8sHXmvBT8k8duOdPkw/o.jpg",
+          "caption": "Crème Brulée a La Vanille"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xGXv4mmgvva4sphyupidPQ/o.jpg",
+          "caption": "Crisp Duck Confit"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jade C.",
+        "user_id": "lRF7GDS13KbjiS5jvsSVXw",
+        "link": "https://www.yelp.com/user_details?userid=lRF7GDS13KbjiS5jvsSVXw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kDCcvxKwmmNUQAguLgWqUg/180s.jpg",
+        "address": "Oakland, CA",
+        "friends": 150,
+        "photos": 94,
+        "reviews": 138
+      },
+      "comment": {
+        "text": "Snobby older male bartender lol, but his service was okay. I sat at the bar, grabbed a bite & a drink. I ordered a Manhattan, it was packed with a punch! I asked the bartender to pick a bourbon of his choice, to fulfill my drink. There was kind of a gnat issue, not sure if there were open doors. This place was packed around 7ish.\n\nI went on to order the scallops with the mashed potatoes. My meal was very light and tasty. The salt and pepper shakers that was given was not needed. Looking forward to trying more of the menu.",
+        "language": "en"
+      },
+      "date": "2021-08-18T08:47:37Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Andy C.",
+        "user_id": "LtLJ8LfS9IQdeuRU0L1Lig",
+        "link": "https://www.yelp.com/user_details?userid=LtLJ8LfS9IQdeuRU0L1Lig",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/XeBpzsi-imD8Xjrmyxm7pA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 40,
+        "photos": 39,
+        "reviews": 73
+      },
+      "comment": {
+        "text": "I have been craving a French bistro experience so my wife took me here for a birthday dinner and I loved it.  I had the Shrimp Sautee Provencal and it was lovely.  The sauce was so flavorful that I was grateful for the bread that came with the dish.  My wife got the Skate Wing, something I have never had before, and it was cooked to perfection.  The capers really added a great finishing touch.\n\nFor dessert our server recommended the Île Flotante.  I was skeptical since I generally don't care for meringue, but we got it anyway.  After my first bite I realized that have just never had good meringue before.  Since it was my birthday I received a complimentary second dessert of Profiteroles.  Even though we were very full we still managed to have a few bites. ;-)\n\nNicolas was our server that evening and he was spectacular.  Attentive but gave us our space, provided great recommendations, and was a pleasure overall.  Needless to say on our next visit we will request him again.",
+        "language": "en"
+      },
+      "date": "2021-08-10T11:17:59Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jules C.",
+        "user_id": "A1uLrc_GOew4eMQ-95VS_A",
+        "link": "https://www.yelp.com/user_details?userid=A1uLrc_GOew4eMQ-95VS_A",
+        "address": "St. Louis, MO",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Good food and good service. A very festive atmosphere good wine and good oysters we have been going there for years.",
+        "language": "en"
+      },
+      "date": "2023-04-07T17:21:23Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ayo C.",
+        "user_id": "xNwXSHJh5wCacRs-lDtOpw",
+        "link": "https://www.yelp.com/user_details?userid=xNwXSHJh5wCacRs-lDtOpw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YWjHbQNCVC74bBrCaHY_yg/180s.jpg",
+        "address": "Los Angeles, CA",
+        "friends": 142,
+        "photos": 63,
+        "reviews": 44
+      },
+      "comment": {
+        "text": "Stumbled upon Bistro Niko while out exploring the new area I've relocated to. \n\nI arrived around 6pm and grabbed a seat at the bar. I was joined by 2 friends and we ordered a bottle of white wine for the night. Out of the group we order the escargot and they were simply delicious. \n\nI'm looking forward to returning for a dine in experience. Overall great first impression and COVID protocols were followed.",
+        "language": "en"
+      },
+      "date": "2021-01-21T15:32:07Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kt04ojdLK5YPDqF1J9rpEQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mike S.",
+        "user_id": "dy4yvG2HdAWXMkMDpdCe2Q",
+        "link": "https://www.yelp.com/user_details?userid=dy4yvG2HdAWXMkMDpdCe2Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wqcF3xzIxceeoBlmsNFgPA/180s.jpg",
+        "address": "Fort Lauderdale, FL",
+        "friends": 0,
+        "photos": 4,
+        "reviews": 15
+      },
+      "comment": {
+        "text": "Truly outstanding meal today with first class service.  I periodically eat here so I ordered my go to- pan seared trout with mashed potatoes and green beans.  The seasoning was on point and the food was very hot as it came to the table.  Our server, Mesti was incredible, and the Bistro is lucky to have her.  My friend had the scallops and he said it was impeccable.  Fantastic overall experience.",
+        "language": "en"
+      },
+      "date": "2022-09-30T18:45:06Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Richard F.",
+        "user_id": "E4ggzD4uJQywUz5EkbqhKA",
+        "link": "https://www.yelp.com/user_details?userid=E4ggzD4uJQywUz5EkbqhKA",
+        "address": "Buckhead, Atlanta, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Great food and service. A little noisy but the food, location and service even it out",
+        "language": "en"
+      },
+      "date": "2023-03-27T22:49:27Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sophie Y.",
+        "user_id": "8SzB-b_UdMRS36xjNTZNnQ",
+        "link": "https://www.yelp.com/user_details?userid=8SzB-b_UdMRS36xjNTZNnQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SFdg4G-V3EPWiukY8J7D6Q/180s.jpg",
+        "address": "Indian Land, SC",
+        "friends": 1,
+        "photos": 63,
+        "reviews": 32
+      },
+      "comment": {
+        "text": "Honestly the pictures don't do this place justice. It was decorated for Valentine's Day and the ambiance was so incredible. The staff was very polite and professional, and the food was amazing. Everything came out as ordered and was cooked great. This place is perfect for a family dinner or date night. I would recommend eating here, and also recommend making a reservation to make sure you have a table!",
+        "language": "en"
+      },
+      "date": "2022-01-15T05:54:58Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XQ1xON1bX3vQ-xWGz-M2Ig/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_3aF7g1fHGrAZLUP5b19sw/o.jpg",
+          "caption": "Beautiful dining room"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lPD2DSbIi45c10zJUOyR5Q/o.jpg",
+          "caption": "Sautéed Salmon Filet"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lHqFA_9v3RVOK6HukUMi2g/o.jpg",
+          "caption": "Pan Roasted Duck Breast"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZVc82_a0fbeQ7MGFr6R-_w/o.jpg",
+          "caption": "Gruyère cheese appetizer"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Amy P.",
+        "user_id": "asZq5IyKEmiQu03h1S5cKA",
+        "link": "https://www.yelp.com/user_details?userid=asZq5IyKEmiQu03h1S5cKA",
+        "address": "Highlands, NC",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "If you get seated in the room near the hostess stand, feel comfort in knowing that, although it might feel like you are transported back to the Piccadilly, you can hear your dining partners talk. It's a trade off. The main dining room is so loud, it's a workout trying to talk. But, you might burn off your dinner yelling across the table. The food is fine, especially after working up an appetite with all the waiting for your server and yelling across the table. On a Sat night, you'll need a solid 3 hours. By the time dessert rolls around, it's time for bed. Calories saved! The best update since my last visit: QR codes at the table for paying the bill - totally offsets the wait time between server visits.",
+        "language": "en"
+      },
+      "date": "2023-03-12T04:51:21Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Amanda R.",
+        "user_id": "5WmMpLe5JMAUKQZSAnLHdw",
+        "link": "https://www.yelp.com/user_details?userid=5WmMpLe5JMAUKQZSAnLHdw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/452cdBD1H2RARWlqmcUeNA/180s.jpg",
+        "address": "Fort Lauderdale, FL",
+        "friends": 31,
+        "photos": 570,
+        "reviews": 26
+      },
+      "comment": {
+        "text": "I have never received anything less than fabulous service. I have tried many items on the menu, and have never been disappointed.",
+        "language": "en"
+      },
+      "date": "2021-07-09T02:09:49Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4bV9J9FRz3RUjdbqAnwbDQ/o.jpg",
+          "caption": "Flounder dinner special - yum!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AqR0WYjRW3oGRsmGoqq8NQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Alicia D.",
+        "user_id": "EjEpH9atlZ-JmCnh65_iYw",
+        "link": "https://www.yelp.com/user_details?userid=EjEpH9atlZ-JmCnh65_iYw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Qs7svRuwX_a6WCI5E7S1jg/180s.jpg",
+        "address": "Brookhaven, Atlanta, GA",
+        "friends": 479,
+        "photos": 430,
+        "reviews": 190
+      },
+      "comment": {
+        "text": "Bistro Niko was one of my weekly go-to spots for years pre-Covid, but after my most recent visit, sadly, I likely won't return. I've long been a fan of all the Buckhead Life restaurants & have been a guest of the VIP Club at Chops Lobster Bar. Bistro Niko was a reliable part of Buckhead Life - good drinks, pretty good food & top-notch service. But my last visit was highly disappointing. The exceptional service I'd come to know & expect was sorely lacking. One individual wasn't just unprofessional, this person was insulting & offensive...on more than one instance. \n\nThis alone was enough to make the visit my last, but the last straw: irresponsible Covid protocols. As a healthcare worker, I'm astutely aware of & appreciate settings that adhere to CDC's Covid public health guidelines. The dining room tables largely adhere. The bar, however, completely fails. Many restaurant bars have been able to get this right - they block off seats, remove seats altogether, install plexiglass, etc... to encourage responsible behavior in accordance with CDC guidance. Bistro Niko's bar had none of these measures. With no guidelines, strangers cram in to the bar, virtually sitting on top of one another. They don't have the respect or decency to ask if you mind that they sit mere inches from you. Because I have a family member who's been in the hospital with Covid for over 2 months, I have a heightened sense of awareness about good Covid behavior & this is the epitome of irresponsible. \n\nFood service people play an important role in protecting public health (ie prevention of food-borne illness). If a restaurant flouts Covid safety measures, one can't help but wonder about their adherence to food safety measures. If Bistro Niko neglects to provide a safe environment during a pandemic & they lack professional, respectful service, they don't deserve my business. There are way too many other deserving restaurants to support.",
+        "language": "en"
+      },
+      "date": "2021-03-06T03:44:15Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 10,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Millie S.",
+        "user_id": "hY_A0Rt4-csZ2qiJKNEhTA",
+        "link": "https://www.yelp.com/user_details?userid=hY_A0Rt4-csZ2qiJKNEhTA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/MpztQQA3wRgW7PZBFgdXAg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 471,
+        "photos": 1440,
+        "reviews": 118
+      },
+      "comment": {
+        "text": "Definitely do not leave with out having onion soup!  Oh my. I will definitely be having brunch here again alongside some nice background music. I never lived through the the 40's, but read enough about it that I was sure to have walked into it. The decore was exquisite, filled with pockets of fun things to look at. \nValet parking was provided, and food was not entirely out of reach when it came to ordering as you wished. Perhaps ordering drinks would make it just a bit higher in price. \nSpace was grand which made it possible to not worry about bringing a party to the restaurant, yet there were different rooms with in the restaurant if you were thinking of having a quieter one on one meal. I will go again for sure, and again, and again... did I mention the deliciousness of their onion soup?\n\nDélicieux!!!",
+        "language": "en"
+      },
+      "date": "2020-02-07T23:57:31Z",
+      "rating": 4,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LWBtDqf2Pd2GF4TXMtE-MQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/a9p3piqBVi2v8FewHEovjA/o.jpg",
+          "caption": "French Onion Soup"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BQGAMOpECm90eKlOEAYTwQ/o.jpg",
+          "caption": "Brunch menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GG0w6_H-CXl_sMGgvci0Lw/o.jpg",
+          "caption": "Decor"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/G8crw6OYIFbrBjIHT0Ayig/o.jpg",
+          "caption": "All the single ladies!"
+        }
+      ],
+      "feedback": {
+        "useful": 8,
+        "funny": 2,
+        "cool": 7
+      }
+    },
+    {
+      "user": {
+        "name": "Racheal R.",
+        "user_id": "_WVwK66BDvNGN3nVzflFkg",
+        "link": "https://www.yelp.com/user_details?userid=_WVwK66BDvNGN3nVzflFkg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/t2B_HVgPg--eUVprWQX_Eg/180s.jpg",
+        "address": "Marietta, GA",
+        "friends": 7,
+        "photos": 206,
+        "reviews": 105,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "In summer of 2020 Bistro Niko feels like a safe space to dine. The food is always good and so are the cocktails. Outdoor seating is always enjoyable for people and car watching, and the nice breeze that blows through. The only reason they don't get five is because they do not dust or wash their outdoor chairs. There are always spider webs on them, so watch out for that. Despite that I come to Bistro Niko multiple times a year and will continue to.",
+        "language": "en"
+      },
+      "date": "2020-07-12T16:18:44Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Cl-w0ATHP6sjp0NKA6LCMQ/o.jpg",
+          "caption": "Maine Sea Scallops"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Weston L.",
+        "user_id": "DUnnhslg029HnJ9PT6JAuA",
+        "link": "https://www.yelp.com/user_details?userid=DUnnhslg029HnJ9PT6JAuA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5fcnat_eJJU43E4ei6o1Uw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 4,
+        "photos": 1,
+        "reviews": 17
+      },
+      "comment": {
+        "text": "Good French fare. Excellent French onion soup. Four stars because it is hit or miss with cocktails.",
+        "language": "en"
+      },
+      "date": "2022-04-22T16:31:41Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Al M.",
+        "user_id": "MEYWD3nf64p3INCsJ5KOaA",
+        "link": "https://www.yelp.com/user_details?userid=MEYWD3nf64p3INCsJ5KOaA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gB5xWy-tcIApaUkh2yEyqQ/180s.jpg",
+        "address": "Ann Arbor, MI",
+        "friends": 2015,
+        "photos": 5632,
+        "reviews": 626
+      },
+      "comment": {
+        "text": "First night in town for the Christmas holiday, we snagged a 7:30 pm reservation at popular Bistro Niko on Peachtree in the very heart of Buckhead.  \n\nAfter valeting the car, the first thing we noticed walking through the door was a myriad of soft white Christmas lights adorning Niko's beautiful high-ceilinged dining room. \n\nAs we walked toward the bar to wait for our table, we passed the Bistro's unique open kitchen where there French dishes are prepared in view of the Bistro's guests. \n\nWe started with a quad of appetizers for our table of five:   Escargots en croute, a selection of both Cape Cod and British Columbia Oysters on Ice, a Flatbread smothered with 'shrooms and a basket of Gougeres (light gruyere cheese puffs).  These true-to-form French apps were a definite highlight of our Niko experience.  \n\nThe Tureen French Onion Soup w/ gruyere cheese was another standout and is also highly recommended. \n\nFor entrees, we sampled the highly touted Le Steak Frites, the COQ Au VIN chicken, La Bouillabaisse -Facon du Chef and a dish of Seafood Tagliatelle Pasta in a creamy white wine sauce....great selection of French faves. \n\nBistro Niko combined a beautifully festive ambiance with excellent French fare and outstanding service.  This Buckhead 'go-to' grabs four stars all night long.",
+        "language": "en"
+      },
+      "date": "2019-12-24T14:49:08Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CDSCEm58G-JVQuQ5eD5z1Q/o.jpg",
+          "caption": "Entry to the Bistro."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VKCbZgAFciBj8D6WEEUryQ/o.jpg",
+          "caption": "The red awning welcomes patrons in the glassy heart of Buckhead."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0HXLgCTs1xFkwxIU1ywMbQ/o.jpg",
+          "caption": "Steak Frites."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jeSY0pawtwKYwN8CqCXWBw/o.jpg",
+          "caption": "Escargots \"En Croute\"....delicious!"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8b5eGHammLRURt69yVzx7Q/o.jpg",
+          "caption": "Open Kitchen."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6FLwlxJJ7zvRW4DGCOfKog/o.jpg",
+          "caption": "An Old Fashioned start."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wPXpA7TJqTH43spoA4RmOw/o.jpg",
+          "caption": "La Bouillabaisse \"Facon du Chef\"."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/W_cVY5c4zCdA8f0vEV3N9A/o.jpg",
+          "caption": "Entry on Peachtree in Buckhead."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_OuOWTTQ_bEX2NFfCGnibg/o.jpg",
+          "caption": "Warm and festive atmosphere."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QB0lqxCFNIEgbEd3pswYHQ/o.jpg",
+          "caption": "Tureen French Onion Soup."
+        }
+      ],
+      "feedback": {
+        "useful": 74,
+        "funny": 36,
+        "cool": 66
+      }
+    },
+    {
+      "user": {
+        "name": "Monique V.",
+        "user_id": "03I5PkJiXk2V0I3moiCVXA",
+        "link": "https://www.yelp.com/user_details?userid=03I5PkJiXk2V0I3moiCVXA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ug3Pfh7q6P7ZhMnY0bq5Vg/180s.jpg",
+        "address": "Chamblee, GA",
+        "friends": 197,
+        "photos": 1380,
+        "reviews": 259,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I am so happy I chose to have my birthday dinner at Bistro Niko. Everyone was very friendly and accommodating to my party of 8 the whole night.\n\nThe parking is valet, as it is Buckhead, but it's only a $2 charge (gratuity not included).\n\nThe venue itself is beautiful in my opinion, I love the dim romantic aspect of the restaurant and the string of lights throughout as well.\n\nFrom the time I walked in it seemed like the whole staff knew it was my birthday. The hostess informed us the table wasn't ready and directed is to the bar area. We waited for about 25 mins before we were seated, which was fine because some of my party showed up late.\n\nAfter we were seated out waiter Nikki came right over to get our drink order. He was amazing, funny and absolutely fabulous & if you have a large party ask for him! Also he made great recommendations.\n\nBeing that it was my birthday I felt daring and wanted to try the Escargot. Turns it wasn't all that daring as they taste just like some buttery and delicious clams. The little flake roll on top really complimented the appetizer.\n\nBistro Niko really changed my opinion of French cuisine, everything sounds delicious, but for my entreé I knew I was getting the scallops, they looked great in the pics and tasted even better in person. I got them without tomatoes. They were cooked perfectly abd the mash potatoes were so creamy abd decadent paired very well. I tried my friend's lamb chops and omg they were amazing especially with the sauce it came with.\n\nI am definitely going to be going back to Bistro Niko, I can't wait to try a different dish. Since the weather is getting nice it would be fabulous to sit in the patio and enjoy a glass of rosé too.",
+        "language": "en"
+      },
+      "date": "2018-03-19T18:21:15Z",
+      "rating": 5,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EfeW37YVBp_EuB1OZJZqXQ/o.jpg",
+          "caption": "Nicely stocked bar with more than 1 bar tender"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Hx8bcI6_XcN8enETANGlnw/o.jpg",
+          "caption": "The table setting"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/28plChJvEFiLGuX6rIizJQ/o.jpg",
+          "caption": "The menu"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/z1-9_uprt312e6YyAP1RUg/o.jpg",
+          "caption": "Coté Mas Brut Rosé- My birthday drink of choice $36. Very good not too sweet"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/guVK2kdE-mf22dNVhvhU5w/o.jpg",
+          "caption": "The bag my bottle came in"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EpfyQXmomEoCWvzrwUNY2w/o.jpg",
+          "caption": "It was my birthday so I had to try the Escargot. It was buttery goodness, very delicious tasted like clams."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Bgb_89xVW-0FY_L66hWbOQ/o.jpg",
+          "caption": "The reason why I came. These Maine Scallops St. Jacques are everything! The whole dish was perfection"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EvprTjLuQtKjm6q4sex71Q/o.jpg",
+          "caption": "Cotes D'Agneau Grilles- omg so tender and juicy. Flavor all the way. Great dish."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/h8UXR1DYK8tvIi9jP_BHbw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0bYmHqHR30q3Ld70u8E5dA/o.jpg",
+          "caption": "Faroe Island Salmon. Cooked to perfection, very delicious. Petit portion."
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Matthew H.",
+        "user_id": "p6YwgTLJrwUKrmE2YK02GA",
+        "link": "https://www.yelp.com/user_details?userid=p6YwgTLJrwUKrmE2YK02GA",
+        "address": "GA, GA",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "The food overall was just okay.  We had the ceasar salad, steak tartare, crab cake and swiss raclette as our apps.  They were all pretty basic in flavor outside of the crab cake which was the star for the round. For the main course we had the mushroom and truffle pizza and steak au poivre twin beef tenderloins.  The steak was cooked perfectly but was nothing special; however the pizza was the star.  It was lite and crispy with great flavor.  I highly recommend it.  For dessert we had creme brulee and ile flotane.  I would only recommend the ile flotane if you wanted dessert, the creme brulee sugar top had a burnt taste so it ruined the flavor.",
+        "language": "en"
+      },
+      "date": "2022-09-30T00:50:17Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Olivia K.",
+        "user_id": "ouYEgplAre2GMP2jyfVobg",
+        "link": "https://www.yelp.com/user_details?userid=ouYEgplAre2GMP2jyfVobg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wnbLmJOcL2qzvRHbCZCOhg/180s.jpg",
+        "address": "Boston, MA",
+        "friends": 250,
+        "photos": 96,
+        "reviews": 106,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This has been marked in my bookmarks for a while, but I was finally able to dine here for the first time for a friend's birthday dinner! I gave it three stars because I feel that there were a few things that missed the mark for me. I thought the staff was pretty friendly, they came to refill our waters pretty frequently, but one of the hosts wasn't wearing a mask, and the service was a bit slow. The interior is interesting, it does have romantic vibes, but also some parts felt tacky to me. However, the food was better than I expected. I ordered the escargot as appetizers, and they were alright although I should preface that that was my first time trying escargot. Not bad! For my main entree, I ordered the coq au vin, which comes with two legs braised in red wine. I thought it was good -- tender and juicy, and the red wine reduction was well-seasoned. Hopefully, with some time, the restaurant can fully get back on its feet post-COVID.",
+        "language": "en"
+      },
+      "date": "2021-05-12T15:14:48Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CMj-m-WeIu0kYxhMZPFtJw/o.jpg",
+          "caption": "Coq Au Vin"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nCEmJkSukh22xzswCDq8NA/o.jpg",
+          "caption": "Escargots \"En Croûte\""
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Ernest F.",
+        "user_id": "c-EHwbbHhcfvlyd70vBqDg",
+        "link": "https://www.yelp.com/user_details?userid=c-EHwbbHhcfvlyd70vBqDg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/267I6gIeDP5aPMW_MJbjbQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 653,
+        "photos": 561,
+        "reviews": 128
+      },
+      "comment": {
+        "text": "My first time coming here...I was impressed by the decorations an warm feeling when i entered the establishment...the waiter was excellent an the food was great...they have a great wine an drink selection also...I will definitely be back again to try more items on the menu....",
+        "language": "en"
+      },
+      "date": "2021-11-22T15:08:51Z",
+      "rating": 5,
+      "tags": [
+        "5 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6wnsbh_lVsAubVlQw9UbPA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oGMNt3cmgJE96JCEkRdS0g/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TLiHoSj0f53EJxOx-4EmxA/o.jpg",
+          "caption": "Roasted Chicken Bourgeoise"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zIZ8Kda1vKzqOhK6dGZWyA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-LIFdg5z91ez0zL64IrbvA/o.jpg",
+          "caption": "Smoked Salmon Tarte Pizza"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=dTsp-JNNA7u5F9WtxVBEug&start=150"
+  }
+}

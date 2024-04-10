@@ -1,0 +1,31 @@
+{
+  "search_metadata": {
+    "id": "65f0a0e1d036a73ac3a3bbf5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f0a0e1d036a73ac3a3bbf5.json",
+    "created_at": "2024-03-12 18:37:21 UTC",
+    "processed_at": "2024-03-12 18:37:21 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/6XI06NdZI1pIN30Wn2cYbA?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a0e1d036a73ac3a3bbf5.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a0e1d036a73ac3a3bbf5.prettify",
+    "total_time_taken": 1.11
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 150,
+    "num": "50",
+    "place_id": "6XI06NdZI1pIN30Wn2cYbA"
+  },
+  "search_information": {
+    "total_results": 136,
+    "business": "MCK Restaurant And Bar",
+    "reviews_results_state": "Fully empty"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 136
+    }
+  ],
+  "error": "Yelp Reviews hasn't returned any results for this query."
+}

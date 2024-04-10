@@ -1,0 +1,1536 @@
+{
+  "search_metadata": {
+    "id": "65ef29bbe815af3177ec73d0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/224956ab1b733912/65ef29bbe815af3177ec73d0.json",
+    "created_at": "2024-03-11 15:56:43 UTC",
+    "processed_at": "2024-03-11 15:56:43 UTC",
+    "yelp_url": "https://www.yelp.com/search?find_desc=Atlanta%2C+GA&find_loc=Atlanta%2C+GA&start=220",
+    "raw_html_file": "https://serpapi.com/searches/224956ab1b733912/65ef29bbe815af3177ec73d0.html",
+    "total_time_taken": 2.62
+  },
+  "search_parameters": {
+    "engine": "yelp",
+    "find_desc": "Atlanta, GA",
+    "find_loc": "Atlanta, GA",
+    "start": 220
+  },
+  "filters": {
+    "neighborhoods": {
+      "value": "p:GA:Atlanta::",
+      "list": [
+        {
+          "text": "Morningside / Lenox Park",
+          "value": "Morningside_/_Lenox_Park"
+        },
+        {
+          "text": "Westside / Home Park",
+          "value": "Westside_/_Home_Park"
+        },
+        {
+          "text": "Buckhead",
+          "value": "Buckhead"
+        },
+        {
+          "text": "East Atlanta Village",
+          "value": "East_Atlanta_Village"
+        },
+        {
+          "text": "Kirkwood",
+          "value": "Kirkwood"
+        },
+        {
+          "text": "Emory Village",
+          "value": "Emory_Village"
+        },
+        {
+          "text": "West Paces Ferry / Northside",
+          "value": "West_Paces_Ferry_/_Northside"
+        },
+        {
+          "text": "Reynoldstown",
+          "value": "Reynoldstown"
+        },
+        {
+          "text": "Candler Park",
+          "value": "Candler_Park"
+        },
+        {
+          "text": "Lindbergh",
+          "value": "Lindbergh"
+        },
+        {
+          "text": "Old Fourth Ward",
+          "value": "Old_Fourth_Ward"
+        },
+        {
+          "text": "Inman Park",
+          "value": "Inman_Park"
+        },
+        {
+          "text": "Virginia Highland",
+          "value": "Virginia_Highland"
+        },
+        {
+          "text": "Midtown",
+          "value": "Midtown"
+        },
+        {
+          "text": "West End",
+          "value": "West_End"
+        },
+        {
+          "text": "Little Five Points",
+          "value": "Little_Five_Points"
+        },
+        {
+          "text": "Georgia Tech",
+          "value": "Georgia_Tech"
+        },
+        {
+          "text": "Cabbagetown",
+          "value": "Cabbagetown"
+        },
+        {
+          "text": "Edgewood",
+          "value": "Edgewood"
+        },
+        {
+          "text": "Atlantic Station",
+          "value": "Atlantic_Station"
+        },
+        {
+          "text": "Poncey-Highland",
+          "value": "Poncey-Highland"
+        },
+        {
+          "text": "Ormewood Park",
+          "value": "Ormewood_Park"
+        },
+        {
+          "text": "Ansley Park",
+          "value": "Ansley_Park"
+        },
+        {
+          "text": "Lake Claire",
+          "value": "Lake_Claire"
+        },
+        {
+          "text": "Grant Park",
+          "value": "Grant_Park"
+        },
+        {
+          "text": "Downtown",
+          "value": "Downtown"
+        },
+        {
+          "text": "Castleberry Hill",
+          "value": "Castleberry_Hill"
+        },
+        {
+          "text": "Druid Hills",
+          "value": "Druid_Hills"
+        },
+        {
+          "text": "Centennial Place",
+          "value": "Centennial_Place"
+        },
+        {
+          "text": "East Lake",
+          "value": "East_Lake"
+        }
+      ]
+    },
+    "distance": [
+      {
+        "text": "Bird's-eye View",
+        "value": "g:-84.47593688964844,33.72776616734189,-84.27131652832031,33.89891688437141"
+      },
+      {
+        "text": "Driving (5 mi.)",
+        "value": "g:-84.4247817993164,33.77030054809328,-84.32247161865234,33.85587620512014"
+      },
+      {
+        "text": "Biking (2 mi.)",
+        "value": "g:-84.39920425415039,33.79184514875722,-84.34804916381836,33.834632907576776"
+      },
+      {
+        "text": "Walking (1 mi.)",
+        "value": "g:-84.38641548156738,33.80254409475938,-84.36083793640137,33.82393797437476"
+      },
+      {
+        "text": "Within 4 blocks",
+        "value": "g:-84.37682390213013,33.81053176901896,-84.37042951583862,33.81588024116821"
+      }
+    ],
+    "price": [
+      {
+        "text": "$",
+        "value": "RestaurantsPriceRange2.1"
+      },
+      {
+        "text": "$$",
+        "value": "RestaurantsPriceRange2.2"
+      },
+      {
+        "text": "$$$",
+        "value": "RestaurantsPriceRange2.3"
+      },
+      {
+        "text": "$$$$",
+        "value": "RestaurantsPriceRange2.4"
+      }
+    ],
+    "category": [
+      {
+        "text": "Mediterranean",
+        "value": "mediterranean"
+      },
+      {
+        "text": "Local Flavor",
+        "value": "localflavor"
+      },
+      {
+        "text": "Korean",
+        "value": "korean"
+      },
+      {
+        "text": "Thai",
+        "value": "thai"
+      },
+      {
+        "text": "Landmarks & Historical Buildings",
+        "value": "landmarks"
+      },
+      {
+        "text": "Grocery",
+        "value": "grocery"
+      },
+      {
+        "text": "Amusement Parks",
+        "value": "amusementparks"
+      },
+      {
+        "text": "Lounges",
+        "value": "lounges"
+      },
+      {
+        "text": "Acai Bowls",
+        "value": "acaibowls"
+      },
+      {
+        "text": "Chicken Wings",
+        "value": "chicken_wings"
+      },
+      {
+        "text": "Breakfast & Brunch",
+        "value": "breakfast_brunch"
+      },
+      {
+        "text": "Playgrounds",
+        "value": "playgrounds"
+      },
+      {
+        "text": "Barbeque",
+        "value": "bbq"
+      },
+      {
+        "text": "Public Services & Government",
+        "value": "publicservicesgovt"
+      },
+      {
+        "text": "Restaurants",
+        "value": "restaurants"
+      },
+      {
+        "text": "Hiking",
+        "value": "hiking"
+      },
+      {
+        "text": "Venues & Event Spaces",
+        "value": "venues"
+      },
+      {
+        "text": "Food",
+        "value": "food"
+      },
+      {
+        "text": "Arts & Entertainment",
+        "value": "arts"
+      },
+      {
+        "text": "Fast Food",
+        "value": "hotdogs"
+      },
+      {
+        "text": "Food Court",
+        "value": "food_court"
+      },
+      {
+        "text": "French",
+        "value": "french"
+      },
+      {
+        "text": "Pop-Up Restaurants",
+        "value": "popuprestaurants"
+      },
+      {
+        "text": "Sports Bars",
+        "value": "sportsbars"
+      },
+      {
+        "text": "Event Planning & Services",
+        "value": "eventservices"
+      },
+      {
+        "text": "Cajun/Creole",
+        "value": "cajun"
+      },
+      {
+        "text": "Beer, Wine & Spirits",
+        "value": "beer_and_wine"
+      },
+      {
+        "text": "Cheesesteaks",
+        "value": "cheesesteaks"
+      },
+      {
+        "text": "Hookah Bars",
+        "value": "hookah_bars"
+      },
+      {
+        "text": "Italian",
+        "value": "italian"
+      },
+      {
+        "text": "Chicken Shop",
+        "value": "chickenshop"
+      },
+      {
+        "text": "Bubble Tea",
+        "value": "bubbletea"
+      },
+      {
+        "text": "Tacos",
+        "value": "tacos"
+      },
+      {
+        "text": "Gluten-Free",
+        "value": "gluten_free"
+      },
+      {
+        "text": "African",
+        "value": "african"
+      },
+      {
+        "text": "Ramen",
+        "value": "ramen"
+      },
+      {
+        "text": "Food Stands",
+        "value": "foodstands"
+      },
+      {
+        "text": "Juice Bars & Smoothies",
+        "value": "juicebars"
+      },
+      {
+        "text": "Cafeteria",
+        "value": "cafeteria"
+      },
+      {
+        "text": "Diners",
+        "value": "diners"
+      },
+      {
+        "text": "Greek",
+        "value": "greek"
+      },
+      {
+        "text": "Museums",
+        "value": "museums"
+      },
+      {
+        "text": "Asian Fusion",
+        "value": "asianfusion"
+      },
+      {
+        "text": "Tapas/Small Plates",
+        "value": "tapasmallplates"
+      },
+      {
+        "text": "Gastropubs",
+        "value": "gastropubs"
+      },
+      {
+        "text": "Bakeries",
+        "value": "bakeries"
+      },
+      {
+        "text": "Cupcakes",
+        "value": "cupcakes"
+      },
+      {
+        "text": "Dance Clubs",
+        "value": "danceclubs"
+      },
+      {
+        "text": "Latin American",
+        "value": "latin"
+      },
+      {
+        "text": "Cocktail Bars",
+        "value": "cocktailbars"
+      },
+      {
+        "text": "Breweries",
+        "value": "breweries"
+      },
+      {
+        "text": "Waffles",
+        "value": "waffles"
+      },
+      {
+        "text": "Salad",
+        "value": "salad"
+      },
+      {
+        "text": "Soul Food",
+        "value": "soulfood"
+      },
+      {
+        "text": "Indian",
+        "value": "indpak"
+      },
+      {
+        "text": "Dive Bars",
+        "value": "divebars"
+      },
+      {
+        "text": "Food Delivery Services",
+        "value": "fooddeliveryservices"
+      },
+      {
+        "text": "Noodles",
+        "value": "noodles"
+      },
+      {
+        "text": "Donuts",
+        "value": "donuts"
+      },
+      {
+        "text": "Steakhouses",
+        "value": "steak"
+      },
+      {
+        "text": "American",
+        "value": "tradamerican"
+      },
+      {
+        "text": "Hot Dogs",
+        "value": "hotdog"
+      },
+      {
+        "text": "Tapas Bars",
+        "value": "tapas"
+      },
+      {
+        "text": "Custom Cakes",
+        "value": "customcakes"
+      },
+      {
+        "text": "Bars",
+        "value": "bars"
+      },
+      {
+        "text": "Parks",
+        "value": "parks"
+      },
+      {
+        "text": "Street Vendors",
+        "value": "streetvendors"
+      },
+      {
+        "text": "Caribbean",
+        "value": "caribbean"
+      },
+      {
+        "text": "Wine Bars",
+        "value": "wine_bars"
+      },
+      {
+        "text": "Delis",
+        "value": "delis"
+      },
+      {
+        "text": "Convenience Stores",
+        "value": "convenience"
+      },
+      {
+        "text": "Vegetarian",
+        "value": "vegetarian"
+      },
+      {
+        "text": "Coffee Roasteries",
+        "value": "coffeeroasteries"
+      },
+      {
+        "text": "Pasta Shops",
+        "value": "pastashops"
+      },
+      {
+        "text": "Cigar Bars",
+        "value": "cigarbars"
+      },
+      {
+        "text": "Food Trucks",
+        "value": "foodtrucks"
+      },
+      {
+        "text": "Halal",
+        "value": "halal"
+      },
+      {
+        "text": "Pubs",
+        "value": "pubs"
+      },
+      {
+        "text": "Ice Cream & Frozen Yogurt",
+        "value": "icecream"
+      },
+      {
+        "text": "Sandwiches",
+        "value": "sandwiches"
+      },
+      {
+        "text": "Middle Eastern",
+        "value": "mideastern"
+      },
+      {
+        "text": "Southern",
+        "value": "southern"
+      },
+      {
+        "text": "Desserts",
+        "value": "desserts"
+      },
+      {
+        "text": "Ethiopian",
+        "value": "ethiopian"
+      },
+      {
+        "text": "Sushi Bars",
+        "value": "sushi"
+      },
+      {
+        "text": "Burgers",
+        "value": "burgers"
+      },
+      {
+        "text": "Caterers",
+        "value": "catering"
+      },
+      {
+        "text": "Pizza",
+        "value": "pizza"
+      },
+      {
+        "text": "Chinese",
+        "value": "chinese"
+      },
+      {
+        "text": "Seafood",
+        "value": "seafood"
+      },
+      {
+        "text": "Wraps",
+        "value": "wraps"
+      },
+      {
+        "text": "Music Venues",
+        "value": "musicvenues"
+      },
+      {
+        "text": "Patisserie/Cake Shop",
+        "value": "cakeshop"
+      },
+      {
+        "text": "Vegan",
+        "value": "vegan"
+      },
+      {
+        "text": "Vietnamese",
+        "value": "vietnamese"
+      },
+      {
+        "text": "Specialty Food",
+        "value": "gourmet"
+      },
+      {
+        "text": "Cuban",
+        "value": "cuban"
+      },
+      {
+        "text": "Coffee & Tea",
+        "value": "coffee"
+      },
+      {
+        "text": "Public Art",
+        "value": "publicart"
+      },
+      {
+        "text": "Nightlife",
+        "value": "nightlife"
+      },
+      {
+        "text": "Tex-Mex",
+        "value": "tex-mex"
+      },
+      {
+        "text": "Golf",
+        "value": "golf"
+      },
+      {
+        "text": "Comfort Food",
+        "value": "comfortfood"
+      },
+      {
+        "text": "Soup",
+        "value": "soup"
+      },
+      {
+        "text": "Beer Bar",
+        "value": "beerbar"
+      },
+      {
+        "text": "Mexican",
+        "value": "mexican"
+      },
+      {
+        "text": "Dog Parks",
+        "value": "dog_parks"
+      },
+      {
+        "text": "Cafes",
+        "value": "cafes"
+      },
+      {
+        "text": "Shopping",
+        "value": "shopping"
+      },
+      {
+        "text": "Poke",
+        "value": "poke"
+      },
+      {
+        "text": "New American",
+        "value": "newamerican"
+      },
+      {
+        "text": "Active Life",
+        "value": "active"
+      },
+      {
+        "text": "Bagels",
+        "value": "bagels"
+      },
+      {
+        "text": "Japanese",
+        "value": "japanese"
+      }
+    ],
+    "features": [
+      {
+        "text": "Accepts Credit Cards",
+        "value": "BusinessAcceptsCreditCards"
+      },
+      {
+        "text": "Dogs Allowed",
+        "value": "DogsAllowed"
+      },
+      {
+        "text": "Garage Parking",
+        "value": "BusinessParking.garage"
+      },
+      {
+        "text": "Wheelchair Accessible",
+        "value": "WheelchairAccessible"
+      },
+      {
+        "text": "Good for Dessert",
+        "value": "GoodForMeal.dessert"
+      },
+      {
+        "text": "Validated Parking",
+        "value": "BusinessParking.validated"
+      },
+      {
+        "text": "Outdoor Seating",
+        "value": "OutdoorSeating"
+      },
+      {
+        "text": "Good for Groups",
+        "value": "RestaurantsGoodForGroups"
+      },
+      {
+        "text": "Valet Parking",
+        "value": "BusinessParking.valet"
+      },
+      {
+        "text": "Liked by 40-somethings",
+        "value": "LikedByForties"
+      },
+      {
+        "text": "Accepts Cryptocurrency",
+        "value": "BusinessAcceptsBitcoin"
+      },
+      {
+        "text": "Good for Breakfast",
+        "value": "GoodForMeal.breakfast"
+      },
+      {
+        "text": "Hot and New",
+        "value": "NewBusiness"
+      },
+      {
+        "text": "Offers Takeout",
+        "value": "RestaurantsTakeOut"
+      },
+      {
+        "text": "Good for Kids",
+        "value": "GoodForKids"
+      },
+      {
+        "text": "Gender-neutral restrooms",
+        "value": "GenderNeutralRestrooms"
+      },
+      {
+        "text": "Smoking Outside Only",
+        "value": "Smoking.outdoor"
+      },
+      {
+        "text": "Good for Brunch",
+        "value": "GoodForMeal.brunch"
+      },
+      {
+        "text": "Music: Jukebox",
+        "value": "Music.jukebox"
+      },
+      {
+        "text": "Offers Delivery",
+        "value": "RestaurantsDelivery"
+      },
+      {
+        "text": "Free Wi-Fi",
+        "value": "WiFi.free"
+      },
+      {
+        "text": "Good For Happy Hour",
+        "value": "HappyHour"
+      },
+      {
+        "text": "Smoking Allowed",
+        "value": "Smoking.yes"
+      },
+      {
+        "text": "Waiter Service",
+        "value": "RestaurantsTableService"
+      },
+      {
+        "text": "Coat Check",
+        "value": "CoatCheck"
+      },
+      {
+        "text": "Liked by 20-somethings",
+        "value": "LikedByTwenties"
+      },
+      {
+        "text": "Accepts Apple Pay",
+        "value": "BusinessAcceptsApplePay"
+      },
+      {
+        "text": "Open to All",
+        "value": "BusinessOpenToAll"
+      },
+      {
+        "text": "Private Lot Parking",
+        "value": "BusinessParking.lot"
+      },
+      {
+        "text": "Open At:",
+        "value": "open_time"
+      },
+      {
+        "text": "Takes Reservations",
+        "value": "RestaurantsReservations"
+      },
+      {
+        "text": "Offering a Deal",
+        "value": "ActiveDeal"
+      },
+      {
+        "text": "Full Bar",
+        "value": "Alcohol.full_bar"
+      },
+      {
+        "text": "Beer &amp; Wine Only",
+        "value": "Alcohol.beer_and_wine"
+      },
+      {
+        "text": "Music: Karaoke",
+        "value": "Music.karaoke"
+      },
+      {
+        "text": "Good for Lunch",
+        "value": "GoodForMeal.lunch"
+      },
+      {
+        "text": "Music: Live",
+        "value": "Music.live"
+      },
+      {
+        "text": "Street Parking",
+        "value": "BusinessParking.street"
+      },
+      {
+        "text": "Has TV",
+        "value": "HasTV"
+      },
+      {
+        "text": "Paid Wi-Fi",
+        "value": "WiFi.paid"
+      },
+      {
+        "text": "Open Now",
+        "value": "open_now"
+      },
+      {
+        "text": "Liked by 30-somethings",
+        "value": "LikedByThirties"
+      },
+      {
+        "text": "Music: DJ",
+        "value": "Music.dj"
+      },
+      {
+        "text": "No Smoking",
+        "value": "Smoking.no"
+      },
+      {
+        "text": "Good for Dinner",
+        "value": "GoodForMeal.dinner"
+      },
+      {
+        "text": "Good for Late Night",
+        "value": "GoodForMeal.latenight"
+      },
+      {
+        "text": "Offers Military Discount",
+        "value": "OffersMilitaryDiscount"
+      },
+      {
+        "text": "Waitlist",
+        "value": "OnlineWaitlistReservation"
+      },
+      {
+        "text": "Reservations",
+        "value": "OnlineReservations"
+      }
+    ]
+  },
+  "ads_results": [
+    {
+      "place_ids": [
+        "jqy4gp-Hysad2AmG_ft8UQ",
+        "starbucks-atlanta-89"
+      ],
+      "title": "Starbucks",
+      "link": "https://www.yelp.com/adredir?ad_business_id=jqy4gp-Hysad2AmG_ft8UQ&amp;campaign_id=S8WNTere7rmknyuXC3vb8Q&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fstarbucks-atlanta-89&amp;request_id=e6576b7cfe5efa5f&amp;signature=ba7e71241d7cdd81a6916910d2e25074ec8075dc1a90da3fe62676e0ffc1a20f&amp;slot=0",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=jqy4gp-Hysad2AmG_ft8UQ&start=220",
+      "categories": [
+        {
+          "title": "Coffee & Tea",
+          "link": "https://www.yelp.com/search?find_desc=Coffee+%26+Tea&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Breakfast & Brunch",
+          "link": "https://www.yelp.com/search?find_desc=Breakfast+%26+Brunch&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "reviews": 77,
+      "neighborhoods": "Downtown",
+      "phone": "(470) 829-9280",
+      "snippet": "Pick up your favorite spring handcrafted beverage or try something new. Order on the Starbucks® app &amp; pick up today.",
+      "service_options": {
+        "delivery": true,
+        "takeout": true
+      },
+      "button": {
+        "text": "Get Directions",
+        "link": "https://www.yelp.com/adredir?ad_business_id=jqy4gp-Hysad2AmG_ft8UQ&amp;click_origin=search_results_direction&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fmap%2Fstarbucks-atlanta-89&amp;request_id=e6576b7cfe5efa5f&amp;signature=5cdd63f7637dfde993a385a74cf39a89e1922ea183046344f663c7c0bbea340f&amp;slot=0"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/z8FeWEssMfUHbhby6xBYnw/ls.jpg"
+    },
+    {
+      "place_ids": [
+        "3mHSnXdCFJka0oWWf2uUCg",
+        "chilis-atlanta-4"
+      ],
+      "title": "Chili’s",
+      "link": "https://www.yelp.com/adredir?ad_business_id=3mHSnXdCFJka0oWWf2uUCg&amp;campaign_id=t_Ar1VdEWb5nb4ZnaOqQuw&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fchilis-atlanta-4&amp;request_id=e6576b7cfe5efa5f&amp;signature=8bcb26c3d67a43ba10130d65179314d91c647191cb67d6f97e712a13246499e6&amp;slot=1",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=3mHSnXdCFJka0oWWf2uUCg&start=220",
+      "categories": [
+        {
+          "title": "Tex-Mex",
+          "link": "https://www.yelp.com/search?find_desc=Tex-Mex&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Bars",
+          "link": "https://www.yelp.com/search?find_desc=Bars&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "American",
+          "link": "https://www.yelp.com/search?find_desc=American&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "reviews": 195,
+      "phone": "(404) 325-8680",
+      "snippet": "Get your own 3 for Me® for just $10.99 - with a drink, a starter like bottomless chips and salsa, a select full-size entree like the classic Oldtimer® with Cheese, and a big ol' side…",
+      "service_options": {
+        "delivery": true,
+        "takeout": true,
+        "curbside_pickup": true
+      },
+      "button": {
+        "text": "Get Directions",
+        "link": "https://www.yelp.com/adredir?ad_business_id=3mHSnXdCFJka0oWWf2uUCg&amp;click_origin=search_results_direction&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fmap%2Fchilis-atlanta-4&amp;request_id=e6576b7cfe5efa5f&amp;signature=3e17bdb970ae1a79309a01c88f497ecfef609f1bd301abef50ec6d1629d01faf&amp;slot=1"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/z7QauiZUbH13YbqaF-vvww/ls.jpg"
+    },
+    {
+      "place_ids": [
+        "cu122j6S7nP5lN1YOkzV0A",
+        "capital-one-caf%C3%A9-atlanta-2"
+      ],
+      "title": "Capital One Café",
+      "link": "https://www.yelp.com/adredir?ad_business_id=cu122j6S7nP5lN1YOkzV0A&amp;campaign_id=vHXh22Xpi1K159IdkiS43Q&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fcapital-one-caf%25C3%25A9-atlanta-2&amp;request_id=e6576b7cfe5efa5f&amp;signature=ac64577205e42392b33c9ee374114f99fc815037faa3bd92e5af72f1158d577e&amp;slot=2",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=cu122j6S7nP5lN1YOkzV0A&start=220",
+      "categories": [
+        {
+          "title": "Coffee & Tea",
+          "link": "https://www.yelp.com/search?find_desc=Coffee+%26+Tea&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Banks & Credit Unions",
+          "link": "https://www.yelp.com/search?find_desc=Banks+%26+Credit+Unions&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Internet Cafes",
+          "link": "https://www.yelp.com/search?find_desc=Internet+Cafes&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.9,
+      "reviews": 14,
+      "neighborhoods": "Buckhead",
+      "phone": "(470) 408-7957",
+      "snippet": "This review is more than well deserved. On Nov.11.2020 my mother and I were visiting this location to pay money on our credit cards and upon walking up there was a young man who…",
+      "service_options": {
+        "outdoor_seating": false,
+        "delivery": false,
+        "takeout": true
+      },
+      "button": {
+        "text": "Get Directions",
+        "link": "https://www.yelp.com/adredir?ad_business_id=cu122j6S7nP5lN1YOkzV0A&amp;click_origin=search_results_direction&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fmap%2Fcapital-one-caf%25C3%25A9-atlanta-2&amp;request_id=e6576b7cfe5efa5f&amp;signature=1eaf02de874962196d48f2e217adff7913214477ec8c80c05aed991069e560e4&amp;slot=2"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/MapvGsTC9XzUnRTutwIbzQ/ls.jpg"
+    },
+    {
+      "place_ids": [
+        "beO5vf5Zs1m7lvVsAUPcJA",
+        "good-kitchen-smyrna-2"
+      ],
+      "title": "Good Kitchen",
+      "link": "https://www.yelp.com/adredir?ad_business_id=beO5vf5Zs1m7lvVsAUPcJA&amp;campaign_id=SIaLK9kqwiHA4NS6qY8z5A&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fgood-kitchen-smyrna-2&amp;request_id=e6576b7cfe5efa5f&amp;signature=03a76bf0c8eef1cbcfa2fd54fb7077b302dc0aee085926e8def50c953115e220&amp;slot=3",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=beO5vf5Zs1m7lvVsAUPcJA&start=220",
+      "categories": [
+        {
+          "title": "Coffee & Tea",
+          "link": "https://www.yelp.com/search?find_desc=Coffee+%26+Tea&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Sandwiches",
+          "link": "https://www.yelp.com/search?find_desc=Sandwiches&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Breakfast & Brunch",
+          "link": "https://www.yelp.com/search?find_desc=Breakfast+%26+Brunch&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.6,
+      "reviews": 67,
+      "highlights": [
+        "Family-owned & operated",
+        "Free parking",
+        "Gluten-free friendly",
+        "Healthy dining",
+        "Vegetarian friendly"
+      ],
+      "phone": "(678) 653-9129",
+      "snippet": "We've got some great coffee deals on weekdays for the rest of October. Stop by and grab a coffee drink with a friend for a BOGO deal or drop by solo to get some work done and get…",
+      "service_options": {
+        "outdoor_seating": true,
+        "delivery": true,
+        "takeout": true
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/vtbxQcEFbMu0Ww39aft0zg/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "AGVfwReq5I1WzZx5Wz8cqg",
+        "el-tesoro-atlanta-4"
+      ],
+      "title": "El Tesoro",
+      "link": "https://www.yelp.com/adredir?ad_business_id=AGVfwReq5I1WzZx5Wz8cqg&amp;campaign_id=_Y8IxFyqa4q4u_oH5NGLZQ&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fel-tesoro-atlanta-4&amp;request_id=e6576b7cfe5efa5f&amp;signature=2bf4b773c6b093485a901fde242accfd4274c6999b160d08aada4b295f622c62&amp;slot=4",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=AGVfwReq5I1WzZx5Wz8cqg&start=220",
+      "categories": [
+        {
+          "title": "Coffee & Tea",
+          "link": "https://www.yelp.com/search?find_desc=Coffee+%26+Tea&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Mexican",
+          "link": "https://www.yelp.com/search?find_desc=Mexican&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Breakfast & Brunch",
+          "link": "https://www.yelp.com/search?find_desc=Breakfast+%26+Brunch&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 3.6,
+      "reviews": 5,
+      "neighborhoods": "West End",
+      "phone": "(404) 254-2232",
+      "snippet": "First time, this was our first stop of the tasting. Great service, friendly server, very chill place, and the service was fast. We ordered 5 different beers, wine, and a soup. We…",
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/oi3ewLk2QEL19zO8zxoGlw/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "SP7sLOSgnoQ4xYCuEREh2A",
+        "desta-ethiopian-kitchen-atlanta-7"
+      ],
+      "title": "Desta Ethiopian Kitchen",
+      "link": "https://www.yelp.com/adredir?ad_business_id=SP7sLOSgnoQ4xYCuEREh2A&amp;campaign_id=SlOjG54dQzvIMsb34l4HEg&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fdesta-ethiopian-kitchen-atlanta-7&amp;request_id=e6576b7cfe5efa5f&amp;signature=c288b8f31a0e7031c973cd534e2bf61e73f3626df87b12af019d1a81678a3339&amp;slot=5",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=SP7sLOSgnoQ4xYCuEREh2A&start=220",
+      "categories": [
+        {
+          "title": "Bars",
+          "link": "https://www.yelp.com/search?find_desc=Bars&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Ethiopian",
+          "link": "https://www.yelp.com/search?find_desc=Ethiopian&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Desserts",
+          "link": "https://www.yelp.com/search?find_desc=Desserts&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.6,
+      "reviews": 119,
+      "highlights": [
+        "Locally owned & operated",
+        "Free parking",
+        "Kid friendly",
+        "Vegetarian friendly",
+        "Casual dining",
+        "16 years in business"
+      ],
+      "phone": "(404) 929-0015",
+      "snippet": "First and foremost - I appreciate the sink in the dining room area, primarily because it operates with a foot lever...quite pragmatic when so many people are eating with their hands…",
+      "service_options": {
+        "outdoor_seating": false,
+        "delivery": true,
+        "takeout": true
+      },
+      "button": {
+        "text": "Start Order",
+        "link": "https://www.yelp.com/adredir?ad_business_id=SP7sLOSgnoQ4xYCuEREh2A&amp;click_origin=search_results_platform&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fdesta-ethiopian-kitchen-atlanta-7%3Fshow_platform_modal%3DTrue&amp;request_id=e6576b7cfe5efa5f&amp;signature=ea2e2ae714a757dd4fe910287695bf9af34b7718562ae36cee55276bceae665e&amp;slot=5"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/BO8ouW0AkW3a1-DeQ-yIRw/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "A5X3pjTBWtjMgb5dBila4w",
+        "the-black-coffee-atlanta-3"
+      ],
+      "title": "The Black Coffee",
+      "link": "https://www.yelp.com/adredir?ad_business_id=A5X3pjTBWtjMgb5dBila4w&amp;campaign_id=TPhFJxPNQfd1GcSIUvdSiA&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fthe-black-coffee-atlanta-3&amp;request_id=e6576b7cfe5efa5f&amp;signature=a879b433f2581d5f16378b70e2f34d0f9fa9c5b75df937813c17d2c8ac20d496&amp;slot=6",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=A5X3pjTBWtjMgb5dBila4w&start=220",
+      "categories": [
+        {
+          "title": "Coffee & Tea",
+          "link": "https://www.yelp.com/search?find_desc=Coffee+%26+Tea&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.9,
+      "reviews": 148,
+      "highlights": [
+        "Family-owned & operated",
+        "Minority-owned & operated",
+        "Established in 2018",
+        "Free parking",
+        "Free WiFi",
+        "Private events"
+      ],
+      "phone": "(323) 823-0571",
+      "snippet": "This place made me want to make a TikTok! Super awesome find! I stumbled into this place after passing it a few days ago! Wow!! The vibe is very urban coffee-esque! I love the…",
+      "service_options": {
+        "outdoor_seating": true,
+        "delivery": true,
+        "takeout": true
+      },
+      "button": {
+        "text": "Start Order",
+        "link": "https://www.yelp.com/adredir?ad_business_id=A5X3pjTBWtjMgb5dBila4w&amp;click_origin=search_results_platform&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fthe-black-coffee-atlanta-3%3Fshow_platform_modal%3DTrue&amp;request_id=e6576b7cfe5efa5f&amp;signature=6776a7efb63bda4cc1bb8a18f625b1000d4d0608b9ec956a2e990c33a259dc23&amp;slot=6"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/JdpnShZ-V8G1jbmn52wt1g/348s.jpg"
+    },
+    {
+      "place_ids": [
+        "Ky12BdI2NePHGvkDhoeXFQ",
+        "gypsy-kitchen-atlanta"
+      ],
+      "title": "Gypsy Kitchen",
+      "link": "https://www.yelp.com/adredir?ad_business_id=Ky12BdI2NePHGvkDhoeXFQ&amp;campaign_id=WrSdn7lnJ4jo5KHVkZICWQ&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fgypsy-kitchen-atlanta&amp;request_id=e6576b7cfe5efa5f&amp;signature=3dc2fd269d9df9771a0e4ec24ba5a5437130757643590d577fd731bdf7e09ecc&amp;slot=7",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=Ky12BdI2NePHGvkDhoeXFQ&start=220",
+      "categories": [
+        {
+          "title": "Bars",
+          "link": "https://www.yelp.com/search?find_desc=Bars&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Spanish",
+          "link": "https://www.yelp.com/search?find_desc=Spanish&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Tapas/Small Plates",
+          "link": "https://www.yelp.com/search?find_desc=Tapas%2FSmall+Plates&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 3.9,
+      "reviews": 973,
+      "neighborhoods": "Buckhead",
+      "phone": "(770) 213-5056",
+      "snippet": "Omg this gem is something everyone should experience! From the amazing food to great service you'll be glad ya did! One of my absolute favorites",
+      "service_options": {
+        "outdoor_seating": true,
+        "curbside_pickup": true
+      },
+      "button": {
+        "text": "Get Directions",
+        "link": "https://www.yelp.com/adredir?ad_business_id=Ky12BdI2NePHGvkDhoeXFQ&amp;click_origin=search_results_direction&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fmap%2Fgypsy-kitchen-atlanta&amp;request_id=e6576b7cfe5efa5f&amp;signature=7000020490c34c1798bfefb35a7446e4ec3ae71b8d670537ed09a132dc43ba6c&amp;slot=7"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/-dIQ_qmYA6H5ONPKGnkZ_g/348s.jpg"
+    },
+    {
+      "block_position": "bottom",
+      "place_ids": [
+        "85s4Qh0VUxKCRFnEkHeXRA",
+        "le-colonial-atlanta-atlanta-2"
+      ],
+      "title": "Le Colonial - Atlanta",
+      "link": "https://www.yelp.com/adredir?ad_business_id=85s4Qh0VUxKCRFnEkHeXRA&amp;campaign_id=C5pd2gR0P6Q0jU-JX_TJqg&amp;click_origin=search_results&amp;placement=below_search&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fle-colonial-atlanta-atlanta-2&amp;request_id=e6576b7cfe5efa5f&amp;signature=4e63d806393234d7321cb792b03c62d013e31fe86f35adf679c7c0458ab04bf3&amp;slot=0",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=85s4Qh0VUxKCRFnEkHeXRA&start=220",
+      "categories": [
+        {
+          "title": "French",
+          "link": "https://www.yelp.com/search?find_desc=French&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Vietnamese",
+          "link": "https://www.yelp.com/search?find_desc=Vietnamese&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Bars",
+          "link": "https://www.yelp.com/search?find_desc=Bars&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.1,
+      "reviews": 489,
+      "neighborhoods": "Buckhead",
+      "phone": "(404) 341-0500",
+      "snippet": "WOW. WOW. WOW. This place is going to be the new star of Buckhead. The Food: We wanted to order everything --- and we tried to. There were 4 guests in our party and we ordered 4…",
+      "service_options": {
+        "outdoor_seating": true,
+        "delivery": true,
+        "takeout": true
+      },
+      "button": {
+        "text": "Start Order",
+        "link": "https://www.yelp.com/adredir?ad_business_id=85s4Qh0VUxKCRFnEkHeXRA&amp;click_origin=search_results_platform&amp;placement=below_search&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fle-colonial-atlanta-atlanta-2%3Fshow_platform_modal%3DTrue&amp;request_id=e6576b7cfe5efa5f&amp;signature=6d277ea6c79da460655aba4b8c8d0b0f2333bf772dea89cdbc9e54d4d51ec905&amp;slot=0"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/EvxvUGN7i4xSGkhP_doHqw/348s.jpg"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 221,
+      "place_ids": [
+        "WF4_Nqgdbn_nJHwhXmgfRQ",
+        "slim-and-huskys-pizza-atlanta-2"
+      ],
+      "title": "Slim & Husky’s Pizza",
+      "link": "https://www.yelp.com/biz/slim-and-huskys-pizza-atlanta-2?osq=Atlanta%2C+GA",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=WF4_Nqgdbn_nJHwhXmgfRQ&start=220",
+      "categories": [
+        {
+          "title": "Pizza",
+          "link": "https://www.yelp.com/search?find_desc=Pizza&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.2,
+      "reviews": 511,
+      "neighborhoods": "Westside / Home Park",
+      "phone": "(404) 458-3327",
+      "snippet": "Slim &amp; Husky's - 470-355-5779 Order Sent to Restaurant: Check #96 for XXXXXXX Pick up 5:45 PM EDT Slim &amp; Husky's Atlanta/Metropolitan 581 Metropolitan Pkwy Atlanta,…",
+      "service_options": {
+        "outdoor_seating": true,
+        "delivery": true,
+        "takeout": true
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/zHWBkOqnXHiVhcj_3KMLXA/348s.jpg"
+    },
+    {
+      "position": 222,
+      "place_ids": [
+        "AiN208ZI9KEsrc3BQucKMw",
+        "el-valle-atlanta-2"
+      ],
+      "title": "El Valle",
+      "link": "https://www.yelp.com/biz/el-valle-atlanta-2?osq=Atlanta%2C+GA",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=AiN208ZI9KEsrc3BQucKMw&start=220",
+      "categories": [
+        {
+          "title": "Mexican",
+          "link": "https://www.yelp.com/search?find_desc=Mexican&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Cocktail Bars",
+          "link": "https://www.yelp.com/search?find_desc=Cocktail+Bars&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Desserts",
+          "link": "https://www.yelp.com/search?find_desc=Desserts&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$$",
+      "rating": 4.3,
+      "reviews": 134,
+      "neighborhoods": "Midtown",
+      "phone": "(678) 974-5356",
+      "snippet": "I absolutely love this place! Tonight was our first time trying this place out - and absolutely incredible. Also I did not take picture of the smores they have…",
+      "service_options": {
+        "outdoor_seating": true,
+        "takeout": true
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/VVSuSCRz8W06ULoRpm3mrA/348s.jpg"
+    },
+    {
+      "position": 223,
+      "place_ids": [
+        "PuNB8MH5P0gEX9RVXoORcg",
+        "tio-luchos-atlanta"
+      ],
+      "title": "Tio Lucho’s",
+      "link": "https://www.yelp.com/biz/tio-luchos-atlanta?osq=Atlanta%2C+GA",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=PuNB8MH5P0gEX9RVXoORcg&start=220",
+      "categories": [
+        {
+          "title": "Peruvian",
+          "link": "https://www.yelp.com/search?find_desc=Peruvian&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "rating": 4.4,
+      "reviews": 95,
+      "neighborhoods": "Poncey-Highland",
+      "phone": "(404) 343-0278",
+      "snippet": "Really nice place, really nice employees! A must go if your near Atlanta, GA!",
+      "service_options": {
+        "outdoor_seating": true,
+        "delivery": false,
+        "takeout": true
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XYR8hhpaOe0c3f8ZFjQdPQ/348s.jpg"
+    },
+    {
+      "position": 224,
+      "place_ids": [
+        "-AIX1rem_OF-9Et3p_K9Gg",
+        "tomo-japanese-restaurant-atlanta"
+      ],
+      "title": "Tomo Japanese Restaurant",
+      "link": "https://www.yelp.com/biz/tomo-japanese-restaurant-atlanta?osq=Atlanta%2C+GA",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=-AIX1rem_OF-9Et3p_K9Gg&start=220",
+      "categories": [
+        {
+          "title": "Japanese",
+          "link": "https://www.yelp.com/search?find_desc=Japanese&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Sushi Bars",
+          "link": "https://www.yelp.com/search?find_desc=Sushi+Bars&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Asian Fusion",
+          "link": "https://www.yelp.com/search?find_desc=Asian+Fusion&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$$",
+      "rating": 3.9,
+      "reviews": 401,
+      "neighborhoods": "Buckhead",
+      "phone": "(404) 835-2708",
+      "snippet": "Their honest reviews help me when I am looking for something good or great. So here goes.... on Tomo in Atlanta, GA. My daughter was back from her school break so I took her here…",
+      "service_options": {
+        "outdoor_seating": true,
+        "delivery": true,
+        "takeout": true
+      },
+      "button": {
+        "text": "Start Order",
+        "link": "https://www.yelp.com/biz/-AIX1rem_OF-9Et3p_K9Gg?show_platform_modal=True"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/YoDouFQVVYADUbI3Pbq6Rw/348s.jpg"
+    },
+    {
+      "position": 225,
+      "place_ids": [
+        "e1RoEC5uvzXnLXbjuK3ZSg",
+        "agora-midtown-atlanta"
+      ],
+      "title": "Agora Midtown",
+      "link": "https://www.yelp.com/biz/agora-midtown-atlanta?osq=Atlanta%2C+GA",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=e1RoEC5uvzXnLXbjuK3ZSg&start=220",
+      "categories": [
+        {
+          "title": "Mediterranean",
+          "link": "https://www.yelp.com/search?find_desc=Mediterranean&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Turkish",
+          "link": "https://www.yelp.com/search?find_desc=Turkish&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Greek",
+          "link": "https://www.yelp.com/search?find_desc=Greek&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.3,
+      "reviews": 358,
+      "neighborhoods": "Midtown",
+      "phone": "(404) 253-2997",
+      "snippet": "Three price is excellent. Wether you are visiting Atlanta Ga or you love here, give this restaurant a try.",
+      "service_options": {
+        "outdoor_seating": true,
+        "delivery": true,
+        "takeout": true
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/qgQ2-la3wS-xZQZD7IH5Ag/348s.jpg"
+    },
+    {
+      "position": 226,
+      "place_ids": [
+        "24--2r1ZEgnmJs5iVVAOgQ",
+        "wagaya-westside-atlanta"
+      ],
+      "title": "Wagaya - Westside",
+      "link": "https://www.yelp.com/biz/wagaya-westside-atlanta?osq=Atlanta%2C+GA",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=24--2r1ZEgnmJs5iVVAOgQ&start=220",
+      "categories": [
+        {
+          "title": "Sushi Bars",
+          "link": "https://www.yelp.com/search?find_desc=Sushi+Bars&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Ramen",
+          "link": "https://www.yelp.com/search?find_desc=Ramen&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Seafood",
+          "link": "https://www.yelp.com/search?find_desc=Seafood&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.1,
+      "reviews": 683,
+      "neighborhoods": "Westside / Home Park",
+      "phone": "(470) 575-5799",
+      "snippet": "You can find Wa-Ga-Ya at 339 14th St NW, Atlanta, GA 30318 just west of I85 - it's in the middle of a small line of connected storefronts.",
+      "service_options": {
+        "outdoor_seating": false,
+        "delivery": true,
+        "takeout": true
+      },
+      "button": {
+        "text": "Start Order",
+        "link": "https://www.yelp.com/biz/24--2r1ZEgnmJs5iVVAOgQ?show_platform_modal=True"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/cCYK5d46jKPk1p3JMPkd8Q/348s.jpg"
+    },
+    {
+      "position": 227,
+      "place_ids": [
+        "KtI2ZEWm9VE-anUL-H_MaQ",
+        "hals-the-steakhouse-atlanta"
+      ],
+      "title": "Hal’s The Steakhouse",
+      "link": "https://www.yelp.com/biz/hals-the-steakhouse-atlanta?osq=Atlanta%2C+GA",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=KtI2ZEWm9VE-anUL-H_MaQ&start=220",
+      "categories": [
+        {
+          "title": "American",
+          "link": "https://www.yelp.com/search?find_desc=American&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Steakhouses",
+          "link": "https://www.yelp.com/search?find_desc=Steakhouses&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Seafood",
+          "link": "https://www.yelp.com/search?find_desc=Seafood&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$$$",
+      "rating": 4.0,
+      "reviews": 884,
+      "neighborhoods": "Buckhead",
+      "phone": "(404) 261-0025",
+      "snippet": "Date night was such a wonderful experience! Hal's has a very warm, cozy atmosphere. We actually went to the movies first, and ended up finishing well before…",
+      "service_options": {
+        "outdoor_seating": true,
+        "delivery": false,
+        "takeout": true
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/3-CsSX7WkbjxO3VGfOazyA/348s.jpg"
+    },
+    {
+      "position": 228,
+      "place_ids": [
+        "r0JxdG5StcD8eiHF9u01ZQ",
+        "slutty-vegan-ralph-david-atlanta"
+      ],
+      "title": "Slutty Vegan Ralph David",
+      "link": "https://www.yelp.com/biz/slutty-vegan-ralph-david-atlanta?osq=Atlanta%2C+GA",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=r0JxdG5StcD8eiHF9u01ZQ&start=220",
+      "categories": [
+        {
+          "title": "Vegan",
+          "link": "https://www.yelp.com/search?find_desc=Vegan&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Burgers",
+          "link": "https://www.yelp.com/search?find_desc=Burgers&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.4,
+      "reviews": 1115,
+      "phone": "(470) 435-7655",
+      "snippet": "and im here for it!!! soooo soooo glad im in atlanta, ga!!!",
+      "service_options": {
+        "outdoor_seating": false,
+        "delivery": true,
+        "takeout": true
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/h9pSi4d1EWzmtid_zgdU-g/348s.jpg"
+    },
+    {
+      "position": 229,
+      "place_ids": [
+        "WS_3VW9O2CmJMzlI4uxJrA",
+        "manuels-tavern-atlanta"
+      ],
+      "title": "Manuel’s Tavern",
+      "link": "https://www.yelp.com/biz/manuels-tavern-atlanta?osq=Atlanta%2C+GA",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=WS_3VW9O2CmJMzlI4uxJrA&start=220",
+      "categories": [
+        {
+          "title": "Bars",
+          "link": "https://www.yelp.com/search?find_desc=Bars&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "American",
+          "link": "https://www.yelp.com/search?find_desc=American&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.0,
+      "reviews": 432,
+      "neighborhoods": "Poncey-Highland",
+      "phone": "(404) 525-3447",
+      "snippet": "We came on a Saturday during Brunch and had to wait till 2pm for them to serve the wings. We waited an hour but it went by fast with the decent craft beers on…",
+      "service_options": {
+        "outdoor_seating": true,
+        "delivery": true,
+        "takeout": true
+      },
+      "button": {
+        "text": "Start Order",
+        "link": "https://www.yelp.com/biz/WS_3VW9O2CmJMzlI4uxJrA?show_platform_modal=True"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Y4LlRkCv4WMHKJ4P9euWDQ/348s.jpg"
+    },
+    {
+      "position": 230,
+      "place_ids": [
+        "9x8tQvdczbrNaTsQJWRiCQ",
+        "ponko-chicken-atlanta-3"
+      ],
+      "title": "Ponko Chicken",
+      "link": "https://www.yelp.com/biz/ponko-chicken-atlanta-3?osq=Atlanta%2C+GA",
+      "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=9x8tQvdczbrNaTsQJWRiCQ&start=220",
+      "categories": [
+        {
+          "title": "Asian Fusion",
+          "link": "https://www.yelp.com/search?find_desc=Asian+Fusion&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Chicken Shop",
+          "link": "https://www.yelp.com/search?find_desc=Chicken+Shop&amp;find_loc=Atlanta%2C+GA"
+        },
+        {
+          "title": "Japanese",
+          "link": "https://www.yelp.com/search?find_desc=Japanese&amp;find_loc=Atlanta%2C+GA"
+        }
+      ],
+      "price": "$$",
+      "rating": 4.3,
+      "reviews": 317,
+      "neighborhoods": "Midtown",
+      "phone": "(404) 975-2316",
+      "snippet": "FOOD: Made to order, I believe. I waited about 10-15 minutes for my order to be made. I got the original sandwich with fries. Fries were super crispy and hot.…",
+      "service_options": {
+        "delivery": true,
+        "takeout": true
+      },
+      "button": {
+        "text": "Start Order"
+      },
+      "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/QVBytQ8bwM3HKCpxOTEcQw/348s.jpg"
+    }
+  ],
+  "pagination": {
+    "previous": "https://www.yelp.com/search?find_desc=Atlanta%2C+GA&find_loc=Atlanta%2C+GA&start=210",
+    "next": "https://www.yelp.com/search?find_desc=Atlanta%2C+GA&find_loc=Atlanta%2C+GA&start=230"
+  },
+  "serpapi_pagination": {
+    "current": null,
+    "previous_link": "https://serpapi.com/search.json?engine=yelp&find_desc=Atlanta%2C+GA&find_loc=Atlanta%2C+GA&start=210",
+    "previous": "https://serpapi.com/search.json?engine=yelp&find_desc=Atlanta%2C+GA&find_loc=Atlanta%2C+GA&start=210",
+    "next_link": "https://serpapi.com/search.json?engine=yelp&find_desc=Atlanta%2C+GA&find_loc=Atlanta%2C+GA&start=230",
+    "next": "https://serpapi.com/search.json?engine=yelp&find_desc=Atlanta%2C+GA&find_loc=Atlanta%2C+GA&start=230"
+  }
+}

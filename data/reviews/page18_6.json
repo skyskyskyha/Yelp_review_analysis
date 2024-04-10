@@ -1,0 +1,1344 @@
+{
+  "search_metadata": {
+    "id": "65f0a265116a55bed958857c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/229e3195481496fc/65f0a265116a55bed958857c.json",
+    "created_at": "2024-03-12 18:43:49 UTC",
+    "processed_at": "2024-03-12 18:43:49 UTC",
+    "yelp_reviews_url": "https://www.yelp.com/biz/58UbC9XukpoPC2fXGIlPiw?",
+    "raw_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a265116a55bed958857c.html",
+    "prettify_html_file": "https://serpapi.com/searches/229e3195481496fc/65f0a265116a55bed958857c.prettify",
+    "total_time_taken": 2.5
+  },
+  "search_parameters": {
+    "engine": "yelp_reviews",
+    "start": 170,
+    "num": "50",
+    "place_id": "58UbC9XukpoPC2fXGIlPiw"
+  },
+  "search_information": {
+    "total_results": 691,
+    "business": "Park Bar"
+  },
+  "review_languages": [
+    {
+      "hl": "en",
+      "count": 691
+    }
+  ],
+  "reviews": [
+    {
+      "user": {
+        "name": "Katie W.",
+        "user_id": "sZaBjADfNBtIZ4sHZtDWag",
+        "link": "https://www.yelp.com/user_details?userid=sZaBjADfNBtIZ4sHZtDWag",
+        "address": "Jacksonville, FL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "Chicken tenders and burger was really good. Service wasn't super fast, but they were packed for the night. It's more of a restaurant vibe than bar, with plenty of tables to sit and eat at. Family/kid friendly.",
+        "language": "en"
+      },
+      "date": "2022-07-15T10:47:28Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rebecca A.",
+        "user_id": "OnutoF0qQ2shx0c9PV2hMQ",
+        "link": "https://www.yelp.com/user_details?userid=OnutoF0qQ2shx0c9PV2hMQ",
+        "address": "Gulfport, MS",
+        "friends": 32,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Great food and later hours than most. Walking distance from the Hilton Garden Inn. Friendly service and reasonable\nPrices.",
+        "language": "en"
+      },
+      "date": "2021-05-14T01:04:14Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jehan H.",
+        "user_id": "O0DM0NuyuxlvuQgo7iDTvg",
+        "link": "https://www.yelp.com/user_details?userid=O0DM0NuyuxlvuQgo7iDTvg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zoIWhc6FLaCbdgXwXVUMdg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 225,
+        "photos": 105,
+        "reviews": 79
+      },
+      "comment": {
+        "text": "This is my favorite happy hour spot after work. This place is packed on days/nights when there are events at Philips or Mercedes Benz. On those nights they typically open up the bar upstairs which is awesome. \n\nGreat beer selection with some good local craft beers. Big liquor assortment, so you can easily find what you want. Small number of wine options. \n\nIn terms of food, everything I've tried is good. The dry rub lemon pepper wings are my go to!",
+        "language": "en"
+      },
+      "date": "2018-02-27T16:22:21Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 3,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Charles L.",
+        "user_id": "oHZavpmtEaVoR8U0CiewEw",
+        "link": "https://www.yelp.com/user_details?userid=oHZavpmtEaVoR8U0CiewEw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JBol-IdCc9fnq7t0wBBmpw/180s.jpg",
+        "address": "Miami, FL",
+        "friends": 21,
+        "photos": 1,
+        "reviews": 18
+      },
+      "comment": {
+        "text": "Food was on point and so were the drinks! Great location and plenty of televisions if your looking for the current game.",
+        "language": "en"
+      },
+      "date": "2022-01-01T21:44:37Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Carolyn R.",
+        "user_id": "rFuudtlaKfpzP8kQTSrOuQ",
+        "link": "https://www.yelp.com/user_details?userid=rFuudtlaKfpzP8kQTSrOuQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vsA_A7Et8jOQII5iwZnkNw/180s.jpg",
+        "address": "Augusta, GA",
+        "friends": 180,
+        "photos": 653,
+        "reviews": 148
+      },
+      "comment": {
+        "text": "My hubby and I stopped here for the night so we found this place cause it had decent reviews and we wanted good bar food. We sat down and had an appetizer while we waited for our food to be made to go. The service was good. The food was fantastic. I had a salad and he had a burger. Wonderful choices. When we're in the area again we will be back.",
+        "language": "en"
+      },
+      "date": "2021-06-29T22:17:20Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Michael N.",
+        "user_id": "DUYvCqdK5egy2aU2d1jiDA",
+        "link": "https://www.yelp.com/user_details?userid=DUYvCqdK5egy2aU2d1jiDA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DrRxXn78o8_o0adpPU3n5A/180s.jpg",
+        "address": "Roswell, GA",
+        "friends": 5,
+        "photos": 0,
+        "reviews": 2
+      },
+      "comment": {
+        "text": "Worst bar ever!!! They complained when I asked for service after sitting outside for 20 minutes with no recognition. Don't waste your time. If I could give it zero stars i would.",
+        "language": "en"
+      },
+      "date": "2021-04-10T03:01:42Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Bradley A.",
+        "user_id": "YEopZcPG46sNEBLmXVGdVg",
+        "link": "https://www.yelp.com/user_details?userid=YEopZcPG46sNEBLmXVGdVg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yTUkp-JD3jmprPSuQsEV4w/180s.jpg",
+        "address": "Baton Rouge, LA",
+        "friends": 32,
+        "photos": 322,
+        "reviews": 312,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Four stars is about right. Good bar grub for a good price. The Cumberland burger was very tasty. The Hot Mess was good but not great. Fries were better than the onion rings. Good beer selection. The brownie with ice cream was big and hit the spot (though a bit dry). Overall a good choice if you're downtown.",
+        "language": "en"
+      },
+      "date": "2019-12-30T02:18:14Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Sheek T.",
+        "user_id": "LJaOzS_wt0e5oSlmQU8eHA",
+        "link": "https://www.yelp.com/user_details?userid=LJaOzS_wt0e5oSlmQU8eHA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/5P0OrJxfnOFi3Wl0LnL0CQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 254,
+        "photos": 518,
+        "reviews": 417,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "A bit of above regular bar food but I still ordered burgers.  Small spot.  We sat at the bar.  I ordered an alcoholic drink not knowing it was going to be a 16oz drink.  A drink that big with only 1 shot of liquor makes it almost non alcoholic lol we ordered burgers.  One turkey one bison.  Both had a sauce on it that made our sandwiches sloppy.  Both were ok.",
+        "language": "en"
+      },
+      "date": "2017-12-16T04:20:44Z",
+      "rating": 3,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SQopveLC7-qCogqxBNq6Gw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DgAzZd-MtXH_Uu85SMoPJg/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Scott H.",
+        "user_id": "DkqzAco5X7_P0djtkXttjA",
+        "link": "https://www.yelp.com/user_details?userid=DkqzAco5X7_P0djtkXttjA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CzQPP7yl9WzMkfIgl75IaA/180s.jpg",
+        "address": "Kannapolis, NC",
+        "friends": 84,
+        "photos": 89,
+        "reviews": 106
+      },
+      "comment": {
+        "text": "Nice place, only two blocks from my hotel, near arenas, the Park (obviously)...\n\nHad a nice couple of drafts at the bar and a nice NY Strip. The staff was really friendly and helpful. I would definitely come back again - especially to try the braised short ribs!",
+        "language": "en"
+      },
+      "date": "2020-01-22T05:30:54Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Keith C.",
+        "user_id": "A3PiaWB1ifatGGi93ecWkA",
+        "link": "https://www.yelp.com/user_details?userid=A3PiaWB1ifatGGi93ecWkA",
+        "address": "Peachtree Corners, GA",
+        "friends": 40,
+        "photos": 24,
+        "reviews": 95
+      },
+      "comment": {
+        "text": "The food here is awful.  I had the grilled fish sandwich and it had no flavor and no tarter... how do I have a fish sandwich without tarter?  Side salad was a joke and our burger was nothing special.  I had a dirty martini here that tasted awful.  The bartender kept forgetting my drinks and was overwhelmed.  I felt bad for her and we tipped her well.  This place could do a lot better with quality and having enough staff.",
+        "language": "en"
+      },
+      "date": "2022-05-26T19:27:39Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rich N.",
+        "user_id": "E3YNvUKdaFP2LgeyNDYwBA",
+        "link": "https://www.yelp.com/user_details?userid=E3YNvUKdaFP2LgeyNDYwBA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/36QGu0C4TWXwR8jL6OBOcA/180s.jpg",
+        "address": "West Palm Beach, FL",
+        "friends": 226,
+        "photos": 19,
+        "reviews": 53
+      },
+      "comment": {
+        "text": "Food was good. Steak baked potato and asparagus was cooked perfectly. I thought my server needed to buy a vowel. Completely unattended to me or any of the other patrons. The upfront upsell the drinks is a little absurd. No I don't want a triple for the price of a double just please get me my Tito's. It's a cool little place if they can work on there customer service it will be a gem in this area. Also if you're eating a steak you need real silverware....",
+        "language": "en"
+      },
+      "date": "2021-07-06T02:12:23Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Rob S.",
+        "user_id": "2DCKZKJhVuHPaT7_tf0Khw",
+        "link": "https://www.yelp.com/user_details?userid=2DCKZKJhVuHPaT7_tf0Khw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/U-Uuen8Xr-3Nu5gdf8Tnug/180s.jpg",
+        "address": "Birmingham, AL",
+        "friends": 750,
+        "photos": 49984,
+        "reviews": 2117
+      },
+      "comment": {
+        "text": "Unfortunately our time here was cut short (waiting for the boys to get out of a concert - ended earlier than anticipated). The food smelled good, the atmosphere was good. The server seated us quickly and while we were looking at the menu brought out water for us. As we were deciding what to order we actually were cut short and had to leave. But, they were friendly, had plenty of seating and really, really wanted to try some of the food they had (hopefully next time). Also, seems like a good spot to catch some sports on a Saturday. Next time we're in the area we will make sure to check them out and see what all the other great yelp reviews have been raving about ---- the food!",
+        "language": "en"
+      },
+      "date": "2019-10-18T02:59:09Z",
+      "rating": 4,
+      "tags": [
+        "10 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wuh6jDlr9NkBYNgGNmVlWA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WVqWB9HryxKKqTrmr1xlmA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fr7zc8_icpC3yRpZuT3vRA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9rCyYsJF2TUzG0Bx8WuFZA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/K_MJ3sswWtsvSr06AiJmkA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fbnl_Uf0mi4ZjOLq9cS4YA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7IkM35d1bhfX1IE0qLwEvA/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/l9StlMv881vkR8imbRBr_Q/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3GkHXnQH1kA7yPZ7rJ_1gg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Eg3tADFJz84_KawDOIdPEA/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 4,
+        "funny": 3,
+        "cool": 5
+      }
+    },
+    {
+      "user": {
+        "name": "Nico M.",
+        "user_id": "IYjk5qptdMSO7DcXoCkmSg",
+        "link": "https://www.yelp.com/user_details?userid=IYjk5qptdMSO7DcXoCkmSg",
+        "address": "Atlanta, GA",
+        "friends": 0,
+        "photos": 36,
+        "reviews": 103
+      },
+      "comment": {
+        "text": "The girl at the counter was not nice or polite at all, she was actually quite rude until she handed me my check, then she got a little more polite. I would've given five stars but I'm taking off one star for that experience. I got the barbecue ribs some thing and it was freaking amazing. Definitely fall off the bone tender. wish I would've bought all my food from there instead of the super oversalted food from McCormick and Schmick's.",
+        "language": "en"
+      },
+      "date": "2022-07-05T00:09:15Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Mia L.",
+        "user_id": "9s2YvN4IE2Ft_1LYnIDQUg",
+        "link": "https://www.yelp.com/user_details?userid=9s2YvN4IE2Ft_1LYnIDQUg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KLGDRQCZwORZQTrP37jMag/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 11,
+        "photos": 0,
+        "reviews": 94
+      },
+      "comment": {
+        "text": "The burgers were blah. They seemed like premade frozen patties, very mediocre. Sides were OK. Best item was the BBQ potato skins. But we wouldn't order from here again.",
+        "language": "en"
+      },
+      "date": "2021-04-15T17:59:33Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sarah L.",
+        "user_id": "anppE2ZJmQG6vhUjTKBiiA",
+        "link": "https://www.yelp.com/user_details?userid=anppE2ZJmQG6vhUjTKBiiA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pahGhVsUk9_VXmigsH2NVg/180s.jpg",
+        "address": "McDonough, GA",
+        "friends": 31,
+        "photos": 349,
+        "reviews": 240
+      },
+      "comment": {
+        "text": "This place is so underrated!! While all the tourist go to the chain restaurants, I always pick this place over anywhere else in downtown. It's about a 15 minute walk to Mercedes Benz stadium and a 5 minute walk to State Farm arena. It's located right across from Centennial Olympic Park. The burgers are scrumptious! I highly recommend either the wings or burgers. Service can be slow depending on how busy they are but it's worth the wait. They also have a spin the wheel option if you spend more than $50...they have BOGO drinks or free shots with the spin. It's just a fun sports bar atmosphere. I love this place!",
+        "language": "en"
+      },
+      "date": "2021-04-05T14:07:49Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Simone W.",
+        "user_id": "eFFFYcxc9m0E0HIq5DLyTg",
+        "link": "https://www.yelp.com/user_details?userid=eFFFYcxc9m0E0HIq5DLyTg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CHvp7EdYJSvjKFCflnkO-A/180s.jpg",
+        "address": "Tampa, FL",
+        "friends": 475,
+        "photos": 100,
+        "reviews": 24
+      },
+      "comment": {
+        "text": "***If you plan to go during a busy day or weekend I would definitely suggest riding around & comparing parking prices before you settle. The first garage we drove by was charging about $35 while one that was one street over charged $10.***\n\nIt's located within walking distance of Skyview ATL, The CNN Center, Phillips Arena, Centennial Olympic Park, and countless hotels. \n\nDecided to stop here after I heard about the \"3-2-1\" special. 3 drinks in 1 glass for the price of 2. Best thing ever! Not sure who the bartender was the night but she definitely gave me my money's worth! Also ordered the BYOB (Build Your Own Burger) and side of tater tots. Delicious! \n\nLuckily I'd read reviews and knew about the \"Spend $40, Spin the Wheel\" deal because our waitress definitely didn't advertise it. Won shots of Fireball (which I wasn't too thrilled about) but it was definitely a nice incentive! The wheel had a variety of prizes from free shots to money off your bill.\n\nIf you're looking for bar food and vibes while hanging out downtown definitely stop here!",
+        "language": "en"
+      },
+      "date": "2018-05-30T01:11:13Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X3Cs2Hp8JE8_3ZZEIRNRtQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/c1LAVoazGYT6cNh09LcgwQ/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8SwE9TxnfLUjvC-H8ULJ7Q/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Sara M.",
+        "user_id": "gXAZnmkawi-p_XU5GC6OQw",
+        "link": "https://www.yelp.com/user_details?userid=gXAZnmkawi-p_XU5GC6OQw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xy_9Rj9SDjuzdefwJQ3dOQ/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 231,
+        "photos": 73,
+        "reviews": 366
+      },
+      "comment": {
+        "text": "Solid downtown bar. I love that they recently expanded into that old Subway/flatbread space. \n\nGo-to items are the wings, the Build Your Own Burger, and the Chastain salad. Beer list is good, if a little pricey. But hey, it's downtown. I guess that's to be expected. \n\nService has always been good, even when they get crazy busy on sporting days. I'm usually there to pre-game before Atlanta United games and they handle the crowds well.",
+        "language": "en"
+      },
+      "date": "2019-10-21T14:17:03Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Shane J.",
+        "user_id": "iXyMK2vogKzKLDPTuJa2mw",
+        "link": "https://www.yelp.com/user_details?userid=iXyMK2vogKzKLDPTuJa2mw",
+        "address": "Conyers, GA",
+        "friends": 6,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Just in case no one knows. Don't forget the parking behind here isn't free, yes I am responsible for paying and you have a job to do but I feel like they are waiting to scam you with a boot. I thought we could pay after. \nIt's 75$ for the boot next time I'm keeping the boots. Fuck scamming people all day. Not sign to remind people to pay at the door. \nToday has been a hard day for my girlfriend and me. We were trying to forget about it and have lunch. I also thought we could pay by phone inside. iPhone user \nThe food was better we both had salads. I also am trying NOT to be mean. It wasn't nothing to remember but it was ruined because of this boot. Couldn't really read the menu well, but I have perfect vision. You have to scan by phone and u wouldn't have know that if I didn't see it with my perfect ass vision. \nThe waitress did well same as any place around, but I wish I knew what dressing I was getting. I don't like ranch fuck the reason. I'm not picky with food wasn't a-lot in the salad, covered it with blue cheese. Don't like the cheese sticks maybe because of the boot. That's what happens when you know they are scamming in the back we only gonna tip little u 25%. Price is fair but not really. 40$ for two salads and 2 sides.",
+        "language": "en"
+      },
+      "date": "2022-06-21T00:12:15Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jessica G.",
+        "user_id": "YhgRdDrr1Nm40vfe1KvDMA",
+        "link": "https://www.yelp.com/user_details?userid=YhgRdDrr1Nm40vfe1KvDMA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/L81c63eKAmCV658eUcgPlQ/180s.jpg",
+        "address": "Charlotte, NC",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 11
+      },
+      "comment": {
+        "text": "Not bad ... food came out quick and service was nice. Just keep in mind that there was only two people waiting on all the tables ... would go again",
+        "language": "en"
+      },
+      "date": "2021-06-19T01:01:32Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Shawn S.",
+        "user_id": "ohtazWaY7zKjLXBIC8QcDg",
+        "link": "https://www.yelp.com/user_details?userid=ohtazWaY7zKjLXBIC8QcDg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yl8RqIMBIDw7xO1InDeqww/180s.jpg",
+        "address": "Midtown, Savannah, GA",
+        "friends": 0,
+        "photos": 1,
+        "reviews": 17
+      },
+      "comment": {
+        "text": "We were in Atlanta for our honeymoon, and decided to try Park Bar since it is one of few places open for food after 9pm. We came in and no one greeted us, so we looked for a table. No tables available, so we sat by the door and waited for about 15 minutes. Finally a waitress asked if we wanted drinks, at which point she showed the menu and walked away. Finally a table came available that we were sitting and waiting for them to leave at which point a bus boy gave the table to some people who just walked in. My wife and I said we had been waiting 15 minutes and the bus boy said \"okay\" and still sat his friends. Rudeness is very much unappreciated.",
+        "language": "en"
+      },
+      "date": "2021-09-28T01:28:58Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Suhani J.",
+        "user_id": "GRLOEQdoTgztMk0rLO8jTw",
+        "link": "https://www.yelp.com/user_details?userid=GRLOEQdoTgztMk0rLO8jTw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ggmuLIgXiWw6mbdIfngO1w/180s.jpg",
+        "address": "San Diego, CA",
+        "friends": 11,
+        "photos": 87,
+        "reviews": 131
+      },
+      "comment": {
+        "text": "I really liked this place! Small space in the middle of Centennial, very cool vibes. The 3-2-1 drink deal is amazing, got a margarita. We ordered the hotzarella sticks and the cumberland burger and I was a huge fan! Nice place to come for a casual dinner and very reasonably priced, the game was on when we came.",
+        "language": "en"
+      },
+      "date": "2020-01-06T15:21:02Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-MFs57LOKy-hmdI5daEEIQ/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Dominique R.",
+        "user_id": "OSw26qyX9nGw1dHa6J4Xvg",
+        "link": "https://www.yelp.com/user_details?userid=OSw26qyX9nGw1dHa6J4Xvg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WGs5Tw_F3miD1YpwJW7xzw/180s.jpg",
+        "address": "South Side, Chicago, IL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 7
+      },
+      "comment": {
+        "text": "Poor customer service.... one waitress didn't want to answer simple questions regarding seating and beer choices. From out of town and didn't feel welcome. How to find emptying seating for my family in ordered to be seated.",
+        "language": "en"
+      },
+      "date": "2021-06-14T21:31:39Z",
+      "rating": 2,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Jayme M.",
+        "user_id": "EQfEg-yCpB27lNP2FADF5A",
+        "link": "https://www.yelp.com/user_details?userid=EQfEg-yCpB27lNP2FADF5A",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0ZHWRlizLXE400Cz5hUcMQ/180s.jpg",
+        "address": "Vancouver, WA",
+        "friends": 180,
+        "photos": 2,
+        "reviews": 23
+      },
+      "comment": {
+        "text": "YES YES YES!!! Need a delicious burger?? Go here. We had the Brie/Bacon Jam Cumberland burger and it was AMAZING! The bun was perfection, the juicy burger was seasoned perfectly!\n\nThe service was great! The place is loud, however they have the games on if you want to watch. Good people watching too as it's on a main road. \n\nThe salad however was lackluster. Tasted like a bag salad, and honestly very little lettuce. Don't get the salads. Go for the burger and tots! Oooo and a side of bbq sauce which was PERFECT!",
+        "language": "en"
+      },
+      "date": "2019-09-08T19:45:00Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Jo P.",
+        "user_id": "eLcs_KMUZPq82hKd4ZWxxw",
+        "link": "https://www.yelp.com/user_details?userid=eLcs_KMUZPq82hKd4ZWxxw",
+        "address": "Downtown, Atlanta, GA",
+        "friends": 0,
+        "photos": 9,
+        "reviews": 16
+      },
+      "comment": {
+        "text": "My favorite spot for GA brewed beer. Great location and beautiful outdoor seating. Excellent veggie burger and fish sandwich!! Vegetarian and pescatarian friendly!!",
+        "language": "en"
+      },
+      "date": "2022-05-08T15:31:01Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Eli C.",
+        "user_id": "c63tVpZsnNZMFDIlG7LEnA",
+        "link": "https://www.yelp.com/user_details?userid=c63tVpZsnNZMFDIlG7LEnA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/x7Ag1W_c8qNXQKT0br_WfQ/180s.jpg",
+        "address": "Montgomery, OH",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "This bar had decent food but overall the prices were extremely high for the amount of food that was received. The drink prices were also extremely high and they claimed to have the best deals in town but we quickly found out that this was untrue. The real reason that I am leaving a one star review is because the bartenders were extremely rude and very unhelpful when asked basic questions. I hope this bar will fix its service soon",
+        "language": "en"
+      },
+      "date": "2021-01-02T01:31:24Z",
+      "rating": 1,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Genesis V.",
+        "user_id": "oxxItJJ7XPuztlPy1WjFeQ",
+        "link": "https://www.yelp.com/user_details?userid=oxxItJJ7XPuztlPy1WjFeQ",
+        "address": "San Francisco, CA",
+        "friends": 1,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "Our favorite place in the city. Fascinating serving of dishes There is a constantly seasonal menu, so there is one hundred percent dish for every taste.",
+        "language": "en"
+      },
+      "date": "2022-06-14T19:31:46Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Ijeoma O.",
+        "user_id": "mtNs0hw2o9hXKVFJC4nZcQ",
+        "link": "https://www.yelp.com/user_details?userid=mtNs0hw2o9hXKVFJC4nZcQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZBnCsJtStUssNXpa-Ad0og/180s.jpg",
+        "address": "Washington, DC",
+        "friends": 302,
+        "photos": 391,
+        "reviews": 159,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "This is a small but great spot. Park bar is less than a 5 minute walk from the Philips Arena, which is a blessing since you can easily walk over and grab some delicious food but also a curse since practically everyone leaving the Arena has the same idea and it'll likely be crowded. However, there are about 4-5 TVs on the main floor (the upstairs was closed) so this would be a great spot to watch the game if you dont want to actually venture into the Arena. They have a variety of burgers but I went with the melting bison and it tasted great! There were only two bartenders behind the bar but they held it down and made sure to check on every customer around the bar.",
+        "language": "en"
+      },
+      "date": "2019-11-24T05:18:20Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Naim M.",
+        "user_id": "9r0RoGmf7211qmiLZsgYeg",
+        "link": "https://www.yelp.com/user_details?userid=9r0RoGmf7211qmiLZsgYeg",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/X_b1ktgSk1HVIXAyky9_Yw/180s.jpg",
+        "address": "Logan, Philadelphia, PA",
+        "friends": 15,
+        "photos": 23,
+        "reviews": 22
+      },
+      "comment": {
+        "text": "I was visiting from Philly, just ran in and had a beer and fries. I noticed they had a pretty healthy liquor selection. It's dimly lit, seemed laid back but I was there in a Tuesday early evening. The have a 3-2-1 special, 3 shots for price of two in one cup, I definitely would give it shot. It's also is same area as centennial park and other attractions so it's worth a look! My rosè was good, I like lighter beers but for most it would probably be too sweet!",
+        "language": "en"
+      },
+      "date": "2020-03-04T21:07:00Z",
+      "rating": 4,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/30beRXnsJeyRrH417T7qVg/o.jpg",
+          "caption": "Bold rock rosè"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "HiCam H.",
+        "user_id": "1EpzSgJ5wdGXQAQU1hz3Fw",
+        "link": "https://www.yelp.com/user_details?userid=1EpzSgJ5wdGXQAQU1hz3Fw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yOtkI9iuL0hQV8BNi68_Aw/180s.jpg",
+        "address": "Honolulu, HI",
+        "friends": 116,
+        "photos": 1041,
+        "reviews": 68
+      },
+      "comment": {
+        "text": "Great food & drink. Convenient location downtown next to the Olympic Centennial Park & Ferris Wheel. I went back twice on this trip. I ate the New York steak one nite & wings the next. The 3-2-1 drink special was a great value. Friendly bartenders both nights. Good local crowd of mixed ages.",
+        "language": "en"
+      },
+      "date": "2019-05-11T14:24:58Z",
+      "rating": 4,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eUg5Vk3xc5SiWMBJ6VFcHA/o.jpg",
+          "caption": "3-2-1 Jack & soda...great value @ $14"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PA-wvSEcoU5PzGmGtKdkig/o.jpg",
+          "caption": "Awesome wings with old bay seasoning"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TzX5TAEXozMBJFlSlVutkA/o.jpg",
+          "caption": "New York steak with 2 sides (asparagus & rings) @ $25"
+        }
+      ],
+      "feedback": {
+        "useful": 1,
+        "funny": 1,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Aaron J.",
+        "user_id": "1qu8ZhyXnVk8fvG4Vs9XBw",
+        "link": "https://www.yelp.com/user_details?userid=1qu8ZhyXnVk8fvG4Vs9XBw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kvKlAiRss0daPlL0YV14Uw/180s.jpg",
+        "address": "Norcross, GA",
+        "friends": 102,
+        "photos": 19,
+        "reviews": 78
+      },
+      "comment": {
+        "text": "Okay I have to say that the food is good yes. It's tasty, I will say I don't disagree that it's a tad overpriced but they are in middle of downtown Atlanta so rent price is pretty high that they probably have to cover.\n\nReason mainly for three stars is been here twice now and while yes it's busy cool it's popular it feels dang near impossible to get attention of server or sometimes finding one.",
+        "language": "en"
+      },
+      "date": "2019-06-27T23:39:52Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Danielle S.",
+        "user_id": "V34qejxNsCbcgD8C0HVk-Q",
+        "link": "https://www.yelp.com/user_details?userid=V34qejxNsCbcgD8C0HVk-Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tQMRSOLHY_0B-vl75ieNyg/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 457,
+        "photos": 425,
+        "reviews": 375,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "What a perfect location for a casual bar! I can't believe I hadn't been here before, considering I work so close. It's perfect for casual business meetings or gatherings with friends. Comfortable tables along the wall give you plenty of space to catch up over a beer (or their extensive liquor/cocktail menu). We grabbed a couple beers on tap and some meaty, delicious buffalo wings. I'll be back for sure!",
+        "language": "en"
+      },
+      "date": "2019-06-08T20:44:05Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Greg S.",
+        "user_id": "eO7Wam6CD5-2xE4tfqFFkw",
+        "link": "https://www.yelp.com/user_details?userid=eO7Wam6CD5-2xE4tfqFFkw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-eG9W8TWYHsTpwUu3Kp3Qg/180s.jpg",
+        "address": "Long Beach, CA",
+        "friends": 29,
+        "photos": 36,
+        "reviews": 704,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "Decent bar with good beer selection. It was late and we were in the area needing some diner on west coast time and everything else around was closed. Was happy with the decent beer selection of local beers. Service was good and quick with refills. But the chicken tenders were pathetic; tiny and over cooked. The fries were mushy/soggy. The pulled pork sandwich was ok, but paired with cold tater tots made the overall meal pretty unappealing. Possibly good for wings or smaller bar bites, but I'd stick to drinks here.",
+        "language": "en"
+      },
+      "date": "2019-08-02T03:55:58Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Sheri R.",
+        "user_id": "g8p2CWa2IX-BTMiKK2flzw",
+        "link": "https://www.yelp.com/user_details?userid=g8p2CWa2IX-BTMiKK2flzw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UsAY5fW19SPgmYTwk4WXvQ/180s.jpg",
+        "address": "Savannah, GA",
+        "friends": 3,
+        "photos": 11,
+        "reviews": 31
+      },
+      "comment": {
+        "text": "Nice little bar/ restaurant! It was a perfect spot to stop at while walking on a July day to World of Coke.",
+        "language": "en"
+      },
+      "date": "2021-07-06T02:32:39Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Keshia J.",
+        "user_id": "zns4lw1UE77-VajFU6Vu3g",
+        "link": "https://www.yelp.com/user_details?userid=zns4lw1UE77-VajFU6Vu3g",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VjjP_YYJRLjmWd7s-0XgFA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 142,
+        "photos": 301,
+        "reviews": 120,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "What a cool little spot downtown. Me and the bf were on an adventure downtown this past weekend enjoying all of the Dragoncon festivities and we were looking to park it at a bar and have a few drinks. Well because of Dragoncon all the close by bars/restaurants like Hooters and Hard Rock  Cafe were beyond packed. Well of course I pulled out good 'ol Yelp and found this gem to be a quick walk away and we headed here with hopes of squeezing in. \nThis place was right near the sky wheel and just enough out of the way to be less crowded...still busy..but doable. They have an upstairs bar that was open as well and and little patio area (not seated) that you can go and enjoy the hot humid weather of Atlanta! But it was great. The bartenders were quick and the pours were just right. There was a good crowd from the college football kickoff game and vendors outside playing music so it was great. Also for a Saturday night and a crowd of drunk people  the restroom was pretty reasonable and not too messy.  \nPrices were on par with the area. I stuck with some L.I.T's and they were $10 for a regular which was actually a decent size. They also offered a double and triple size as well which in hindsight would've been a better investment.I can't attest to the food, but if you're looking for a drink I'd say to stop by and check this place out.",
+        "language": "en"
+      },
+      "date": "2019-09-04T21:40:52Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Carolyn S.",
+        "user_id": "JzucGmWz6DHJgxcJcA8Gnw",
+        "link": "https://www.yelp.com/user_details?userid=JzucGmWz6DHJgxcJcA8Gnw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PHQV_LePJhXsLP2UtnVCfQ/180s.jpg",
+        "address": "Pacific Grove, CA",
+        "friends": 23,
+        "photos": 0,
+        "reviews": 1
+      },
+      "comment": {
+        "text": "My hubby and I stopped here for the night so we found this place cause it had decent reviews and we wanted good bar food. We sat down and had an appetizer while we waited for our food to be made to go. The service was good. The food was fantastic. I had a salad and he had a burger. Wonderful choices. When we're in the area again we will be back.",
+        "language": "en"
+      },
+      "date": "2021-06-29T22:13:45Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "The G.",
+        "user_id": "iS1bqsZf8eu-LFXlVAb8hg",
+        "link": "https://www.yelp.com/user_details?userid=iS1bqsZf8eu-LFXlVAb8hg",
+        "address": "CO, CO",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 3
+      },
+      "comment": {
+        "text": "Vibe is pretty damn good, food is pretty good, I got the grilled chicken sando with caramelized onions and buffalo sauce, well cooked not dry and hit the spot well. Great vibe for a festival or concert or to go out with your friends and hang out.",
+        "language": "en"
+      },
+      "date": "2022-04-30T19:55:00Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Helen K.",
+        "user_id": "jSKkcjHHqGFXwzMBS39ddA",
+        "link": "https://www.yelp.com/user_details?userid=jSKkcjHHqGFXwzMBS39ddA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YRSYmUtMYbuh2l7Zra-i7A/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 168,
+        "photos": 95,
+        "reviews": 191,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I came here for a quick lunch while at the Omni for a conference. Shared the potato skin appetizer and there August burger of the month with a side salad. So delicious! The service was great, the food was fresh, and the atmosphere was good for conversation. Highly recommend!",
+        "language": "en"
+      },
+      "date": "2019-08-14T18:05:25Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Kyla A.",
+        "user_id": "jKRAs3IaanNW4CKtPXSI7Q",
+        "link": "https://www.yelp.com/user_details?userid=jKRAs3IaanNW4CKtPXSI7Q",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/sSbWp0FWoSJKqmhPJ5s2_g/180s.jpg",
+        "address": "Coconut Creek, FL",
+        "friends": 356,
+        "photos": 18,
+        "reviews": 21
+      },
+      "comment": {
+        "text": "My girlfriends and I had lunch there today as we were waiting to go to the Georgia Aquarium. The service was great and food was really good!! Bison burgers are great!! I accidentally left my wallet on the table after lunch and they kept it safe for me. Thank you for being honest! Good things will come your way!",
+        "language": "en"
+      },
+      "date": "2021-02-28T21:26:36Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Laurel K.",
+        "user_id": "srFu_FtPY9_zhZahlQC6fQ",
+        "link": "https://www.yelp.com/user_details?userid=srFu_FtPY9_zhZahlQC6fQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/gC1jy_I4_mELXtyOtPXo6Q/180s.jpg",
+        "address": "Methuen, MA",
+        "friends": 0,
+        "photos": 24,
+        "reviews": 17
+      },
+      "comment": {
+        "text": "In town for the super bowl and some locals let us know about Park Bar, told us we had to get their Fluffy Wings and hottzerella sticks and they weren't wrong! Besides some trash talking from Falcons fans, everything was amazing. Definitely looking forward to going back for the 321s drink! They recently just opened the expanded front area which was also a nice plus!",
+        "language": "en"
+      },
+      "date": "2019-02-02T00:21:28Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-btAbfnyztvs0DJ8k1fQyQ/o.jpg",
+          "caption": "Fluffy wings and hottzerella sticks! (Aka Mozz sticks)"
+        }
+      ],
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Natalie W.",
+        "user_id": "2POwFCbWeacrtGDSNSJEfQ",
+        "link": "https://www.yelp.com/user_details?userid=2POwFCbWeacrtGDSNSJEfQ",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fwEwFWnC7Bht1Dlgi2JAoA/180s.jpg",
+        "address": "Alto, GA",
+        "friends": 15,
+        "photos": 296,
+        "reviews": 228,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I'm not even a beer gal and this pub gets 5 stars. Really friendly (not bimbo) staff, fast service with the food, and the chiptole bison burger was phenomenal! I ate mine with tarot tots. Perfection! \n\nDirectly across from Phillips Arena. Now off to see Imagine Dragons with a full belly!",
+        "language": "en"
+      },
+      "date": "2015-07-14T22:35:29Z",
+      "rating": 5,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YUcXCl8R_PVidJ1SIaK3Nw/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Frank G.",
+        "user_id": "xA5a5MV-IBZ2-nPCnGLlyA",
+        "link": "https://www.yelp.com/user_details?userid=xA5a5MV-IBZ2-nPCnGLlyA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8gz81PMROV2dEnSfiieQrw/180s.jpg",
+        "friends": 14,
+        "photos": 5,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "This is a nice little place to come and enjoy food and drinks with friends \nPark bar was great the location perfect and the customer service was on point as well as the food delicious I really enjoyed it and defined key would be back",
+        "language": "en"
+      },
+      "date": "2019-01-22T22:47:47Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 2,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Christy C.",
+        "user_id": "sLSrDKncV5S9jAW60AarBw",
+        "link": "https://www.yelp.com/user_details?userid=sLSrDKncV5S9jAW60AarBw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/2OWdfH3_QBG9C4ksDc4qmA/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 147,
+        "photos": 779,
+        "reviews": 268,
+        "elite_year": 24
+      },
+      "comment": {
+        "text": "I have stopped in her twice recently, both times following a concert at the Tabernacle.  There aren't a ton of options (that I found) that are open late during the week in the area, so Park Bar is a good choice for late night post concert munchies.\n\nThey have a standard bar food type menu (lots of friend options).  I have tried the sampler platter (hotzarella sticks, eggrolls, wings, and onions rings), tater tots (side dish), caprese salad, wings and egg rolls.  The only thing out of those options I would not recommend would be the caprese salad.  The basil was limp and dying, and lets be honest - not really the place you would expect to have amazingly fresh produce.  Stick to your fried, bar fare and you can't go wrong here.\n\nThey have an extensive beer list, showcasing lots of local beers if you're interested in that.  \n\nThe prices are a little high, but I'm guessing you can blame the location for that.",
+        "language": "en"
+      },
+      "date": "2016-11-26T18:17:40Z",
+      "rating": 3,
+      "feedback": {
+        "useful": 2,
+        "funny": 1,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Emery S.",
+        "user_id": "49lZfzk66bAQbnHH1mpDog",
+        "link": "https://www.yelp.com/user_details?userid=49lZfzk66bAQbnHH1mpDog",
+        "address": "Fort Walton Beach, FL",
+        "friends": 11,
+        "photos": 1,
+        "reviews": 4
+      },
+      "comment": {
+        "text": "Loved this place! The wings were PHENOMENAL. The burgers were great. Our drinks and tots were awesome. Our service was a little slow, but it didn't seem that anyone else's was. I think our waitress had an overload of large groups, Would highly recommend!",
+        "language": "en"
+      },
+      "date": "2022-04-09T03:48:12Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Steve M.",
+        "user_id": "N2e5UIFUTNVovUUDX9nYig",
+        "link": "https://www.yelp.com/user_details?userid=N2e5UIFUTNVovUUDX9nYig",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pZ-JyKn-6UvxauFR4pLmtw/180s.jpg",
+        "address": "Atlanta, GA",
+        "friends": 270,
+        "photos": 15,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "Terrible cheese burger. Watched the owner completely disrespect the staff for letting a customer use the restroom. \n\nWill not be back.",
+        "language": "en"
+      },
+      "date": "2017-04-23T00:03:19Z",
+      "rating": 1,
+      "tags": [
+        "1 photo"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HXX1CJCxQG2r-8QDs6O59g/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Crystal S.",
+        "user_id": "lg4QuHkP_efvYcHQ5dkLyQ",
+        "link": "https://www.yelp.com/user_details?userid=lg4QuHkP_efvYcHQ5dkLyQ",
+        "address": "Gulf Breeze, FL",
+        "friends": 0,
+        "photos": 0,
+        "reviews": 8
+      },
+      "comment": {
+        "text": "Great service! Food was fast and tasty and it is conveniently located by Centennial Park and the State Farm Arena and Mercedes Benz Arena.",
+        "language": "en"
+      },
+      "date": "2022-04-06T02:28:23Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Maria B.",
+        "user_id": "nUTFnAhbw1if-6N5uBnbLw",
+        "link": "https://www.yelp.com/user_details?userid=nUTFnAhbw1if-6N5uBnbLw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/n-Ri4Tkn5MpVQRePsAvwgg/180s.jpg",
+        "address": "Southwest Orlando, Orlando, FL",
+        "friends": 70,
+        "photos": 10,
+        "reviews": 9
+      },
+      "comment": {
+        "text": "Amazing place.. good music and excellent food!!  We're from Orlando, First time in the city, 100% recommended excellent food and ambiance!",
+        "language": "en"
+      },
+      "date": "2019-04-21T01:36:58Z",
+      "rating": 5,
+      "tags": [
+        "2 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qIqVse82K6p3d3d63Of1Jg/o.jpg",
+          "caption": "B.Y.D.O ( angus beef with blue cheese and premium toppings )"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EE6C8vtvwl6NoDGJmrljeg/o.jpg",
+          "caption": "Park bar wings with BBQ"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    },
+    {
+      "user": {
+        "name": "Mallory Z.",
+        "user_id": "46xrN7SbEcxff2iUmTdtPw",
+        "link": "https://www.yelp.com/user_details?userid=46xrN7SbEcxff2iUmTdtPw",
+        "address": "Mesa, AZ",
+        "friends": 0,
+        "photos": 5,
+        "reviews": 13
+      },
+      "comment": {
+        "text": "Absolutely the best part of my recent work trip to Atlanta was the discovery of this gem. It was walking distance from my hotel and the only thing that seemed to be open in the area. Food was always amazing. Drinks were great. But, the staff was what really did it for me. Kristi is the best. I spent several evenings here over the duration of my trip and it was my favorite thing about being in Atlanta.",
+        "language": "en"
+      },
+      "date": "2021-02-25T07:29:27Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SURzFcjFp-y1_RoFyo-tkA/o.jpg",
+          "caption": "Chicken tenders in Buffalo sauce with a salad and a yummy local beer. :)"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OemY8eykqZRl7mdcZHeNvQ/o.jpg",
+          "caption": "Wings with 50/50 Buffalo and lemon pepper sauce. RECOMMEND."
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EzabPXR6wsFTv61SecpuwA/o.jpg",
+          "caption": "Buffalo wings. Yummm."
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Chris P.",
+        "user_id": "SEtZ0eYE4-3cpjlleHR2tA",
+        "link": "https://www.yelp.com/user_details?userid=SEtZ0eYE4-3cpjlleHR2tA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rkxn77yik-oQFWiKdcfvQg/180s.jpg",
+        "address": "Latonia, KY",
+        "friends": 100,
+        "photos": 119,
+        "reviews": 68
+      },
+      "comment": {
+        "text": "I manage to find a way to go to the Park Bar every single time I'm in Atlanta. Seriously, it's never convenient, or even manageable. Yet, it happens. I have that kind of foodie/beer/bourbon skill about me. \nThe do their tots so well that I told my guys they were homemade--I really had it in my memory that they were homemade-- that's how good all the rest of the food (and the TOTS) are. The burger with jam, jalapeños and pimento Cheese?  RUFKM?\nThe only problem I have with posting this review is that it may contribute to trouble for me getting in there whenever I may be in town. Seriously, it's frikkin awesome, but stay away when I'm in town. \nOh yea, 2 guys in my group got the short rib both said it was insane.",
+        "language": "en"
+      },
+      "date": "2018-11-14T01:20:38Z",
+      "rating": 5,
+      "feedback": {
+        "useful": 1,
+        "funny": 0,
+        "cool": 2
+      }
+    },
+    {
+      "user": {
+        "name": "Zachary A.",
+        "user_id": "JaqcCU3nxReTW2cBLHounA",
+        "link": "https://www.yelp.com/user_details?userid=JaqcCU3nxReTW2cBLHounA",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/M3005lnbImvyiWBhi_z2Cg/180s.jpg",
+        "address": "Austin, TX",
+        "friends": 152,
+        "photos": 0,
+        "reviews": 1628
+      },
+      "comment": {
+        "text": "Just went for a late night beer, but I could tell that this place has tremendous service. Bartender knew a bunch of regulars by name and accompdated the TVs as best she could. \n\nAs far as beer, about 10 on tap and mostly regular brews. Some bottles but nothing crazy. Lots of alcohol and deals though, like bogo and spin the wheel if bill over $50 to possibly get another drink for the road. \n\nOverall a solid downtown bar that's priced well and has that homely feel with plenty of sports and TV.",
+        "language": "en"
+      },
+      "date": "2019-04-26T02:09:02Z",
+      "rating": 4,
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 0
+      }
+    },
+    {
+      "user": {
+        "name": "Larry A.",
+        "user_id": "5wVY81FM4AdCandQXrzKaw",
+        "link": "https://www.yelp.com/user_details?userid=5wVY81FM4AdCandQXrzKaw",
+        "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GGC_nSWigdKxcVsx7ykTQw/180s.jpg",
+        "address": "Scottsdale, AZ",
+        "friends": 0,
+        "photos": 4,
+        "reviews": 28
+      },
+      "comment": {
+        "text": "You got to give it up for great service and food during the Super Bowl fandango. I had the Scottsdale Chicken Sandwich which was tasty with loads of flavor. Not sure what I was expecting, but I thoroughly enjoyed it and the service here. Chrisy was amazing to watch behind the bar. Long pours and smiles to go with each drink. I'd come back!",
+        "language": "en"
+      },
+      "date": "2019-01-31T22:43:40Z",
+      "rating": 5,
+      "tags": [
+        "3 photos"
+      ],
+      "photos": [
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pn6cFecU8PjcYSEUifOjcg/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PSjUYYw-Vc9C_WVaQpg-Rw/o.jpg"
+        },
+        {
+          "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PqfwOEO2i-akUDXiUDRz-A/o.jpg"
+        }
+      ],
+      "feedback": {
+        "useful": 0,
+        "funny": 0,
+        "cool": 1
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=50&place_id=58UbC9XukpoPC2fXGIlPiw&start=220"
+  }
+}
