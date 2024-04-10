@@ -18,3 +18,8 @@ This is the line plot for prediction and actual ratings
 
 This is the error difference between prediction and actual ratings
 ![Alt text](prediction_error_line_plot.png)
+
+
+Fine tuning result:
+![Alt text](predictions_vs_actuals_finetuning.png)
+![Alt text](prediction_error_line_plot_finetuning.png)

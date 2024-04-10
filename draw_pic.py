@@ -5,7 +5,7 @@ import numpy as np
 predictions = []
 actuals = []
 
-with open("parsed_data.txt", "r") as data:
+with open("gpt3.5-fine-tuning-result.txt", "r") as data:
     lines = data.readlines()
     for line in lines:
         # print(line)
@@ -25,6 +25,8 @@ plt.ylabel('Rating')
 plt.grid(True)
 
 plt.show()
+plt.clf()
+
 
 errors = np.array(predictions) - np.array(actuals)
 
@@ -44,7 +46,7 @@ plt.ylabel('Error')
 plt.grid(True)
 
 
-plt.savefig('prediction_error_line_plot.png')
+plt.savefig('prediction_error_line_plot_finetuning.png')
 plt.clf()
 
 
@@ -60,7 +62,7 @@ plt.legend()
 plt.grid(True)
 
 
-plt.savefig('predictions_vs_actuals.png')
+plt.savefig('predictions_vs_actuals_finetuning.png')
 
 
 plt.clf()
