@@ -23,3 +23,15 @@ This is the error difference between prediction and actual ratings
 Fine tuning result:
 ![Alt text](predictions_vs_actuals_finetuning.png)
 ![Alt text](prediction_error_line_plot_finetuning.png)
+
+Fine tuning result for asian:
+![Alt text](predictions_vs_actuals_finetuning-asian.png)
+![Alt text](prediction_error_line_plot_finetuning-asian.png)
+
+Fine tuning result for europe:
+![Alt text](predictions_vs_actuals_finetuning-europe.png)
+![Alt text](prediction_error_line_plot_finetuning-europe.png)
+
+Fine tuning result for american:
+![Alt text](predictions_vs_actuals_finetuning-american.png)
+![Alt text](prediction_error_line_plot_finetuning-american.png)
