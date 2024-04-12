@@ -4,8 +4,9 @@ import numpy as np
 
 predictions = []
 actuals = []
+region = "american"
 
-with open("gpt3.5-fine-tuning-result.txt", "r") as data:
+with open(f"gpt3.5-fine-tuning-result-{region}.txt", "r") as data:
     lines = data.readlines()
     for line in lines:
         # print(line)
@@ -46,7 +47,7 @@ plt.ylabel('Error')
 plt.grid(True)
 
 
-plt.savefig('prediction_error_line_plot_finetuning.png')
+plt.savefig(f'prediction_error_line_plot_finetuning-{region}.png')
 plt.clf()
 
 
@@ -62,7 +63,7 @@ plt.legend()
 plt.grid(True)
 
 
-plt.savefig('predictions_vs_actuals_finetuning.png')
+plt.savefig(f'predictions_vs_actuals_finetuning-{region}.png')
 
 
 plt.clf()
