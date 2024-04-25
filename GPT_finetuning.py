@@ -4,7 +4,7 @@ import openai
 
 example_prompt_path = 'prompt.txt'
 
-output_file = 'gpt3.5-fine-tuning-result-american.txt'
+output_file = 'gpt3.5-fine-tuning-result-latin.txt'
 # model = "gpt-3.5-turbo"
 
 model = 'ft:gpt-3.5-turbo-1106:personal:cs6474:9CGT9LCd'
@@ -81,8 +81,9 @@ def parseData(fn):
                     #           "You should only give a number between 0-5. \n\n\n"
                     prompt = "Review:" + review_dict["review_text"]
                     # print(prompt)
-                    if "American" not in review_dict["category"]:
+                    if "Latin" not in review_dict["main_category"]:
                         print("skip")
+                        # print(review_dict["category"])
                         continue
                     print("gpt predicts: ", end="")
                     message = askGPT(prompt)
@@ -96,4 +97,4 @@ def parseData(fn):
         print("total error:", error)
 
 
-parseData("dataset_revised.csv")
+parseData("dataset_revised2.csv")

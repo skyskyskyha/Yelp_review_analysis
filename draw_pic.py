@@ -4,7 +4,7 @@ import numpy as np
 
 predictions = []
 actuals = []
-region = "american"
+region = "latin"
 
 with open(f"gpt3.5-fine-tuning-result-{region}.txt", "r") as data:
     lines = data.readlines()
