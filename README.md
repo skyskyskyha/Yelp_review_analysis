@@ -1,3 +1,6 @@
+For the whole code and data, please refer to:
+https://drive.google.com/drive/folders/1N78wtIsKqqWN5b6xWfa6nI3uh13ecaBT
+
 Yelp review data analysis via GPT and sentiment analysis
 
 We trained a GPT model based on GPT-3.5-turbo and did sentiment analysis
